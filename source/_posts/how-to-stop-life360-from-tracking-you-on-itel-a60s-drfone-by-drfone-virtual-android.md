@@ -1,7 +1,7 @@
 ---
 title: How to Stop Life360 from Tracking You On Itel A60s? | Dr.fone
-date: 2024-04-07T15:04:13.955Z
-updated: 2024-04-08T15:04:13.955Z
+date: 2024-04-08T23:59:14.492Z
+updated: 2024-04-09T23:59:14.492Z
 tags: 
   - virtual location chang
   - location changer

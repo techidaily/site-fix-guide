@@ -1,7 +1,7 @@
 ---
 title: How to Stop Life360 from Tracking You On Tecno Spark 20 Pro+? | Dr.fone
-date: 2024-04-07T15:04:13.960Z
-updated: 2024-04-08T15:04:13.960Z
+date: 2024-04-08T23:59:14.511Z
+updated: 2024-04-09T23:59:14.511Z
 tags: 
   - virtual location chang
   - location changer

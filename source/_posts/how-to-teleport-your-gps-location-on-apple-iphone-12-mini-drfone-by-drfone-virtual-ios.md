@@ -1,7 +1,7 @@
 ---
 title: How To Teleport Your GPS Location On Apple iPhone 12 mini? | Dr.fone
-date: 2024-04-07T15:04:13.975Z
-updated: 2024-04-08T15:04:13.975Z
+date: 2024-04-08T23:59:14.572Z
+updated: 2024-04-09T23:59:14.572Z
 tags: 
   - virtual location chang
   - location changer

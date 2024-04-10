@@ -1,7 +1,7 @@
 ---
 title: How to Stop My Spouse from Spying on My Nokia C22 | Dr.fone
-date: 2024-04-07T15:04:13.969Z
-updated: 2024-04-08T15:04:13.969Z
+date: 2024-04-08T23:59:14.549Z
+updated: 2024-04-09T23:59:14.549Z
 tags: 
   - virtual location chang
   - location changer

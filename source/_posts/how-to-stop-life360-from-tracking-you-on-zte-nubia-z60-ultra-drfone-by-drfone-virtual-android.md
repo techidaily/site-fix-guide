@@ -1,7 +1,7 @@
 ---
 title: How to Stop Life360 from Tracking You On ZTE Nubia Z60 Ultra? | Dr.fone
-date: 2024-04-07T15:04:13.964Z
-updated: 2024-04-08T15:04:13.964Z
+date: 2024-04-08T23:59:14.533Z
+updated: 2024-04-09T23:59:14.533Z
 tags: 
   - virtual location chang
   - location changer

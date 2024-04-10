@@ -1,7 +1,7 @@
 ---
 title: How to Stop Life360 from Tracking You On Samsung Galaxy A14 5G? | Dr.fone
-date: 2024-04-07T15:04:13.958Z
-updated: 2024-04-08T15:04:13.958Z
+date: 2024-04-08T23:59:14.502Z
+updated: 2024-04-09T23:59:14.502Z
 tags: 
   - virtual location chang
   - location changer

@@ -1,7 +1,7 @@
 ---
 title: How to Stop My Spouse from Spying on My Apple iPhone 15 Pro Max | Dr.fone
-date: 2024-04-07T15:04:13.964Z
-updated: 2024-04-08T15:04:13.964Z
+date: 2024-04-08T23:59:14.534Z
+updated: 2024-04-09T23:59:14.534Z
 tags: 
   - virtual location chang
   - location changer

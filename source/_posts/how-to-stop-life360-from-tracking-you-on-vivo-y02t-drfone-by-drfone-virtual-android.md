@@ -1,7 +1,7 @@
 ---
 title: How to Stop Life360 from Tracking You On Vivo Y02T? | Dr.fone
-date: 2024-04-07T15:04:13.962Z
-updated: 2024-04-08T15:04:13.962Z
+date: 2024-04-08T23:59:14.527Z
+updated: 2024-04-09T23:59:14.527Z
 tags: 
   - virtual location chang
   - location changer
