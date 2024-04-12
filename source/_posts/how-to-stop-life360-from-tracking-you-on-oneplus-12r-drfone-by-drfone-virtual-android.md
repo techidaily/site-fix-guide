@@ -1,7 +1,7 @@
 ---
 title: How to Stop Life360 from Tracking You On OnePlus 12R? | Dr.fone
-date: 2024-04-08T23:59:14.495Z
-updated: 2024-04-09T23:59:14.495Z
+date: 2024-04-11T23:25:47.657Z
+updated: 2024-04-12T23:25:47.657Z
 tags: 
   - virtual location chang
   - location changer
@@ -352,6 +352,12 @@ Although life360 provides excellent family location services, it also affects yo
 
 Let us conclude our article here, hoping that you got the answer to everything you want to know about life360 features and privacy limitations. Does life360 notify when you log out? Yes, every circle member receives a notification when someone logs out. If you leave the circle or turn off your location services, the app will send more notifications. Life360 cannot read your texts, but it can always track your location and show your GPS data to circle members. To protect your privacy, you can use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to change your location with one click and teleport your device to somewhere else to trick life360 and other location-based applications.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

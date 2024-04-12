@@ -438,6 +438,12 @@ There are several reasons as to why your Lava Blaze Curve 5G won’t turn on. Th
 
 It is important to note that your phone contains some important data. Therefore, when your Lava Blaze Curve 5G won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

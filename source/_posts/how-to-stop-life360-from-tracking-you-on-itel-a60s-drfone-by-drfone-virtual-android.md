@@ -1,7 +1,7 @@
 ---
 title: How to Stop Life360 from Tracking You On Itel A60s? | Dr.fone
-date: 2024-04-08T23:59:14.492Z
-updated: 2024-04-09T23:59:14.492Z
+date: 2024-04-11T23:25:47.655Z
+updated: 2024-04-12T23:25:47.655Z
 tags: 
   - virtual location chang
   - location changer
@@ -487,6 +487,12 @@ Yes, it does. It will send a ‘location sharing paused’ notification to all y
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
