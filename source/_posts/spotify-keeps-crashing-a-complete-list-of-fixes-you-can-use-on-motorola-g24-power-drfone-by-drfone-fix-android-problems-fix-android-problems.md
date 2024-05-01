@@ -587,3 +587,4 @@ Lastly, you can still refer to Motorola G24 Power for repairs. It remains the pr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+

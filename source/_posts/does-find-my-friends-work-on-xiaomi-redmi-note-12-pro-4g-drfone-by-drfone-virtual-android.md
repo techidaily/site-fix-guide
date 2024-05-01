@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Xiaomi Redmi Note 12 Pro 4G | Dr.fone
-date: 2024-04-11T23:26:41.122Z
-updated: 2024-04-12T23:26:41.122Z
+date: 2024-04-30T14:16:05.456Z
+updated: 2024-05-01T14:16:05.456Z
 tags: 
   - virtual location change
   - social app
@@ -473,3 +473,4 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y200e 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-k70e-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi K70E to New Android? | Dr.fone</u></a></li>
 </ul></div>
+
