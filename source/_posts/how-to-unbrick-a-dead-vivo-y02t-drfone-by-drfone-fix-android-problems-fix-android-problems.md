@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Vivo Y02T | Dr.fone
-date: 2024-04-30T14:26:35.691Z
-updated: 2024-05-01T14:26:35.691Z
+date: 2024-05-19T03:59:04.297Z
+updated: 2024-05-20T03:59:04.297Z
 tags: 
   - problems
 categories:
@@ -639,4 +639,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c55-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Poco C55 Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-s24-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy S24 Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 

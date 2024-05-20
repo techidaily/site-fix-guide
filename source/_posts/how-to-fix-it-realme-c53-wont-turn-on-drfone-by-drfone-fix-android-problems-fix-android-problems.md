@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Realme C53 Wont Turn On | Dr.fone
-date: 2024-04-30T14:17:27.780Z
-updated: 2024-05-01T14:17:27.780Z
+date: 2024-05-19T03:58:57.155Z
+updated: 2024-05-20T03:58:57.155Z
 tags: 
   - problems
 categories:
@@ -522,4 +522,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-infinix-note-30i-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Infinix Note 30i | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nokia C32? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Realme Narzo N53 in Minutes | Dr.fone
-date: 2024-04-30T14:25:35.521Z
-updated: 2024-05-01T14:25:35.521Z
+date: 2024-05-19T03:59:03.548Z
+updated: 2024-05-20T03:59:03.548Z
 tags: 
   - problems
 categories:
@@ -507,4 +507,5 @@ After following these quick and easy suggestions, you would be able to fix the R
 <li><a href="https://ai-editing-video.techidaily.com/new-change-video-speed-with-ffmpeg/"><u>New Change Video Speed with FFmpeg</u></a></li>
 <li><a href="https://howto.techidaily.com/why-does-my-tecno-spark-10-4g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Tecno Spark 10 4G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
+
 

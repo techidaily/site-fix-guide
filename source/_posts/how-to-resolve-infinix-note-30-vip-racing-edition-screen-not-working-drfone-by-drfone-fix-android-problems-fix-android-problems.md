@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Note 30 VIP Racing Edition Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:29.603Z
-updated: 2024-05-01T14:23:29.603Z
+date: 2024-05-19T03:59:01.962Z
+updated: 2024-05-20T03:59:01.962Z
 tags: 
   - problems
 categories:
@@ -479,4 +479,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-y36-by-drfone-android/"><u>Universal Unlock Pattern for Vivo Y36</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-13-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 13 Backup Password? Heres What to Do | Dr.fone</u></a></li>
 </ul></div>
+
 

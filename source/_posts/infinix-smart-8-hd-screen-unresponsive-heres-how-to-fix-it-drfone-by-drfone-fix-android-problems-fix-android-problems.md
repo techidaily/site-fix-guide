@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 8 HD Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:26:58.226Z
-updated: 2024-05-01T14:26:58.226Z
+date: 2024-05-19T03:59:04.576Z
+updated: 2024-05-20T03:59:04.576Z
 tags: 
   - problems
 categories:
@@ -475,4 +475,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://ai-editing-video.techidaily.com/updated-step-by-step-guide-of-make-gimp-transparent-background-png/"><u>Updated Step by Step Guide of Make Gimp Transparent Background PNG</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-se-activation-lock-by-drfone-ios/"><u>How to Remove iPhone SE Activation Lock</u></a></li>
 </ul></div>
+
 

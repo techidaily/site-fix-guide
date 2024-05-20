@@ -1,7 +1,7 @@
 ---
 title: Poco C65 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:30:56.817Z
-updated: 2024-05-01T14:30:56.817Z
+date: 2024-05-19T03:59:07.253Z
+updated: 2024-05-20T03:59:07.253Z
 tags: 
   - problems
 categories:
@@ -506,4 +506,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 13 mini?</u></a></li>
 <li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

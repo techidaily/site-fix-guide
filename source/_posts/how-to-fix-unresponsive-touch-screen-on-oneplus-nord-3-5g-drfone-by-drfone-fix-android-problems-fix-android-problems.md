@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on OnePlus Nord 3 5G | Dr.fone
-date: 2024-04-30T14:21:15.130Z
-updated: 2024-05-01T14:21:15.130Z
+date: 2024-05-19T03:59:00.061Z
+updated: 2024-05-20T03:59:00.061Z
 tags: 
   - problems
 categories:
@@ -552,4 +552,5 @@ For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reli
 <li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-12-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 12 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
 </ul></div>
+
 

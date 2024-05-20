@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On ZTE Nubia Z60 Ultra? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:30:05.667Z
-updated: 2024-05-01T14:30:05.667Z
+date: 2024-05-19T03:59:06.765Z
+updated: 2024-05-20T03:59:06.765Z
 tags: 
   - problems
 categories:
@@ -603,4 +603,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://ai-vdieo-software.techidaily.com/animate-like-a-pro-top-8-software-options-for-mac-and-windows/"><u>Animate Like a Pro Top 8 Software Options for Mac and Windows</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adding-text-to-your-collage-not-only-makes-it-look-sophisticated-but-also-versatile-so-if-you-too-are-looking-for-ways-to-create-a-collage/"><u>New 2024 Approved Adding Text to Your Collage Not only Makes It Look Sophisticated but Also Versatile. So, if You Too Are Looking for Ways to Create a Collage Text, Check Out Our Article</u></a></li>
 </ul></div>
+
 

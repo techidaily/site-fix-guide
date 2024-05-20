@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Realme 10T 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:07.462Z
-updated: 2024-05-01T14:28:07.462Z
+date: 2024-05-19T03:59:05.359Z
+updated: 2024-05-20T03:59:05.359Z
 tags: 
   - problems
 categories:
@@ -541,4 +541,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-google-pixel-fold-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Google Pixel Fold</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-x9a-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from X9a.</u></a></li>
 </ul></div>
+
 

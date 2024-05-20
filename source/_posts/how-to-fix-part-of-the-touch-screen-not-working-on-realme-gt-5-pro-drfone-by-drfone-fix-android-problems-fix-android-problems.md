@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme GT 5 Pro | Dr.fone
-date: 2024-04-30T14:18:13.936Z
-updated: 2024-05-01T14:18:13.936Z
+date: 2024-05-19T03:58:57.846Z
+updated: 2024-05-20T03:58:57.846Z
 tags: 
   - problems
 categories:
@@ -583,4 +583,5 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-bring-your-vision-to-life-top-free-and-paid-3d-video-creators/"><u>New 2024 Approved Bring Your Vision to Life Top Free and Paid 3D Video Creators</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Lava Blaze 2 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:13.930Z
-updated: 2024-05-01T14:27:13.930Z
+date: 2024-05-19T03:59:04.784Z
+updated: 2024-05-20T03:59:04.784Z
 tags: 
   - problems
 categories:
@@ -446,4 +446,5 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Tecno Spark 10 4G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-130-music-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia 130 Music | Dr.fone</u></a></li>
 </ul></div>
+
 

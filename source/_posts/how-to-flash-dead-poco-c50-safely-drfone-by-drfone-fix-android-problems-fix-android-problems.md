@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Poco C50 Safely | Dr.fone
-date: 2024-04-30T14:22:08.417Z
-updated: 2024-05-01T14:22:08.417Z
+date: 2024-05-19T03:59:00.867Z
+updated: 2024-05-20T03:59:00.867Z
 tags: 
   - problems
 categories:
@@ -655,4 +655,5 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 <li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 13 Pro Max</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco M6 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

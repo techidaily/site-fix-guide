@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Vivo Y77t Back to Operation | Dr.fone
-date: 2024-04-30T14:24:59.272Z
-updated: 2024-05-01T14:24:59.272Z
+date: 2024-05-19T03:59:03.159Z
+updated: 2024-05-20T03:59:03.159Z
 tags: 
   - problems
 categories:
@@ -513,4 +513,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-x100-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo X100 FRP Bypass</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/how-to-create-an-animated-sticky-navbar-for-2024/"><u>How to Create an Animated Sticky Navbar for 2024</u></a></li>
 </ul></div>
+
 

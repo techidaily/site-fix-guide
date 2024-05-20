@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Huawei P60 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:28.453Z
-updated: 2024-05-01T14:23:28.453Z
+date: 2024-05-19T03:59:01.953Z
+updated: 2024-05-20T03:59:01.953Z
 tags: 
   - problems
 categories:
@@ -637,4 +637,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-c55-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme C55? Fixed | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-c02-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia C02 FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

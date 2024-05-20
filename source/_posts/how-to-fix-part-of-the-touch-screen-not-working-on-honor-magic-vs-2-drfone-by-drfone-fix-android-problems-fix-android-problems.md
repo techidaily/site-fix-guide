@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor Magic Vs 2 | Dr.fone
-date: 2024-04-30T14:17:50.105Z
-updated: 2024-05-01T14:17:50.105Z
+date: 2024-05-19T03:58:57.366Z
+updated: 2024-05-20T03:58:57.366Z
 tags: 
   - problems
 categories:
@@ -616,4 +616,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-c67-4g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme C67 4G Wont Charge | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-customize-your-linkedin-video-presence-thumbnail-size-and-design-for-2024/"><u>Updated Customize Your LinkedIn Video Presence Thumbnail Size and Design for 2024</u></a></li>
 </ul></div>
+
 

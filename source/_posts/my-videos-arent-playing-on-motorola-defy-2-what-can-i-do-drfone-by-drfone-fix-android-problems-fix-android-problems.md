@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Motorola Defy 2 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:52.683Z
-updated: 2024-05-01T14:27:52.683Z
+date: 2024-05-19T03:59:05.233Z
+updated: 2024-05-20T03:59:05.233Z
 tags: 
   - problems
 categories:
@@ -611,4 +611,5 @@ For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reli
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-hot-40i-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix Hot 40i | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola Edge 40 Neo?</u></a></li>
 </ul></div>
+
 

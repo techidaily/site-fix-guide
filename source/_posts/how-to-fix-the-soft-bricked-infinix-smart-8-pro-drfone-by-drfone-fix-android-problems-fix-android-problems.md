@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Infinix Smart 8 Pro? | Dr.fone
-date: 2024-04-30T14:18:39.944Z
-updated: 2024-05-01T14:18:39.944Z
+date: 2024-05-19T03:58:58.081Z
+updated: 2024-05-20T03:58:58.081Z
 tags: 
   - problems
 categories:
@@ -605,4 +605,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-12plus-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme 12+ 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 13 Pro Max Without iTunes | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Lava Blaze Curve 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:27:16.018Z
-updated: 2024-05-01T14:27:16.018Z
+date: 2024-05-19T03:59:04.800Z
+updated: 2024-05-20T03:59:04.800Z
 tags: 
   - problems
 categories:
@@ -526,4 +526,5 @@ As much as factory mode can be a useful solution to a number of problems, it can
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-moto-g34-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola Moto G34 5G to PC? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-7-ways-add-subtitles-to-mkv-videos-on-all-platforms/"><u>New 2024 Approved 7 Ways Add Subtitles to MKV Videos on All Platforms</u></a></li>
 </ul></div>
+
 

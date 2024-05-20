@@ -1,7 +1,7 @@
 ---
 title: Motorola Edge 40 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:28.635Z
-updated: 2024-05-01T14:27:28.635Z
+date: 2024-05-19T03:59:04.918Z
+updated: 2024-05-20T03:59:04.918Z
 tags: 
   - problems
 categories:
@@ -518,4 +518,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-tecno-pova-5-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Tecno Pova 5 FRP</u></a></li>
 <li><a href="https://howto.techidaily.com/why-is-my-vivo-v30-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo V30 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

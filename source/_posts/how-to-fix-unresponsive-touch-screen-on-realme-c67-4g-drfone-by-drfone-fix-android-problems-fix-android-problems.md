@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme C67 4G | Dr.fone
-date: 2024-04-30T14:21:24.024Z
-updated: 2024-05-01T14:21:24.024Z
+date: 2024-05-19T03:59:00.132Z
+updated: 2024-05-20T03:59:00.132Z
 tags: 
   - problems
 categories:
@@ -600,4 +600,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix Zero 5G 2023 Turbo</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-v29-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo V29 Pro Unlock Without Password</u></a></li>
 </ul></div>
+
 

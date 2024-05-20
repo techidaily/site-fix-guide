@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T14:21:30.705Z
-updated: 2024-05-01T14:21:30.705Z
+date: 2024-05-19T03:59:00.239Z
+updated: 2024-05-20T03:59:00.239Z
 tags: 
   - problems
 categories:
@@ -587,4 +587,5 @@ The above methods are the best 11 among all the solutions you can get for your P
 <li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy F04 | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-hot-30-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Infinix Hot 30 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
+
 

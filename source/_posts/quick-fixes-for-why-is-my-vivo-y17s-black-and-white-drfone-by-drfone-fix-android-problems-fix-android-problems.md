@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo Y17s Black and White | Dr.fone
-date: 2024-04-30T14:32:32.725Z
-updated: 2024-05-01T14:32:32.725Z
+date: 2024-05-19T03:59:08.535Z
+updated: 2024-05-20T03:59:08.535Z
 tags: 
   - problems
 categories:
@@ -721,4 +721,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nokia-130-music-is-unlocked-by-drfone-android/"><u>How To Check if Your Nokia 130 Music Is Unlocked</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/the-ultimate-guide-to-make-a-text-collage/"><u>The Ultimate Guide to Make a Text Collage</u></a></li>
 </ul></div>
+
 

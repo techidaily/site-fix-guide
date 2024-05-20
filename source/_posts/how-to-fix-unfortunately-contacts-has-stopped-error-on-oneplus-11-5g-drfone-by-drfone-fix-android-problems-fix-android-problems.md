@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus 11 5G | Dr.fone
-date: 2024-04-30T14:19:36.758Z
-updated: 2024-05-01T14:19:36.758Z
+date: 2024-05-19T03:58:58.643Z
+updated: 2024-05-20T03:58:58.643Z
 tags: 
   - problems
 categories:
@@ -603,4 +603,5 @@ After following these quick and easy suggestions, you would be able to fix the O
 <li><a href="https://android-frp.techidaily.com/about-oneplus-nord-ce-3-lite-5g-frp-bypass-by-drfone-android/"><u>About OnePlus Nord CE 3 Lite 5G FRP Bypass</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-nokia-g310-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Nokia G310</u></a></li>
 </ul></div>
+
 

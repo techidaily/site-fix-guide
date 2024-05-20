@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 2 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:27:19.734Z
-updated: 2024-05-01T14:27:19.734Z
+date: 2024-05-19T03:59:04.840Z
+updated: 2024-05-20T03:59:04.840Z
 tags: 
   - problems
 categories:
@@ -636,4 +636,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-poco-f5-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Poco F5 5G Device SIM</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-6-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 6 SIM Lock?</u></a></li>
 </ul></div>
+
 

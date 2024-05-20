@@ -1,7 +1,7 @@
 ---
 title: Motorola Moto G14 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:34.864Z
-updated: 2024-05-01T14:27:34.864Z
+date: 2024-05-19T03:59:04.987Z
+updated: 2024-05-20T03:59:04.987Z
 tags: 
   - problems
 categories:
@@ -537,4 +537,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-11-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 11 without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-realme-narzo-60x-5g-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Realme Narzo 60x 5G</u></a></li>
 </ul></div>
+
 

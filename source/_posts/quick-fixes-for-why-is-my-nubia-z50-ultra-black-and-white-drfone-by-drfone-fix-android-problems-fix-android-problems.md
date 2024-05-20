@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Nubia Z50 Ultra Black and White | Dr.fone
-date: 2024-04-30T14:32:11.384Z
-updated: 2024-05-01T14:32:11.384Z
+date: 2024-05-19T03:59:08.375Z
+updated: 2024-05-20T03:59:08.375Z
 tags: 
   - problems
 categories:
@@ -598,4 +598,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-find-x7-ultra-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Find X7 Ultra FRP Bypass With Best Methods</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-itel-a05s-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Itel A05s to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

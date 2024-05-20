@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Vivo T2 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:19.769Z
-updated: 2024-05-01T14:28:19.769Z
+date: 2024-05-19T03:59:05.494Z
+updated: 2024-05-20T03:59:05.494Z
 tags: 
   - problems
 categories:
@@ -595,4 +595,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://activate-lock.techidaily.com/iphone-12-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone 12 Pro iCloud Activation Lock Bypass</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-find-out-how-to-add-subtitles-in-the-vlc-media-player-on-your-windows-and-mac-system-with-quick-and-simple-instructions-for-2024/"><u>New Find Out How to Add Subtitles in the VLC Media Player on Your Windows and Mac System with Quick and Simple Instructions for 2024</u></a></li>
 </ul></div>
+
 

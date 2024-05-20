@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Honor X8b | Dr.fone
-date: 2024-04-30T14:26:01.428Z
-updated: 2024-05-01T14:26:01.428Z
+date: 2024-05-19T03:59:03.850Z
+updated: 2024-05-20T03:59:03.850Z
 tags: 
   - problems
 categories:
@@ -667,4 +667,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-samsung-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Samsung Phone Forgot Password</u></a></li>
 </ul></div>
+
 

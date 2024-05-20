@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Xiaomi 13T Pro – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:23.743Z
-updated: 2024-05-01T14:28:23.743Z
+date: 2024-05-19T03:59:05.569Z
+updated: 2024-05-20T03:59:05.569Z
 tags: 
   - problems
 categories:
@@ -535,4 +535,5 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
 <li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y27sfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y27sFRP Lock</u></a></li>
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-itel-a60s-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Itel A60s?</u></a></li>
 </ul></div>
+
 

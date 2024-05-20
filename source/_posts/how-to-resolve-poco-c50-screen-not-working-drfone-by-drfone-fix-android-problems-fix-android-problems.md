@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Poco C50 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:47.085Z
-updated: 2024-05-01T14:23:47.085Z
+date: 2024-05-19T03:59:02.179Z
+updated: 2024-05-20T03:59:02.179Z
 tags: 
   - problems
 categories:
@@ -493,4 +493,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-honor-100-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Honor 100</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-zte-axon-40-lite-phone-that-is-locked-by-drfone-android/"><u>How to Reset a ZTE Axon 40 Lite Phone that is Locked?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Reasons for Lava Agni 2 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone
-date: 2024-04-30T14:33:21.413Z
-updated: 2024-05-01T14:33:21.413Z
+date: 2024-05-19T03:59:09.015Z
+updated: 2024-05-20T03:59:09.015Z
 tags: 
   - problems
 categories:
@@ -496,4 +496,5 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-6-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 6</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-plus-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Plus Phone without Google Account?</u></a></li>
 </ul></div>
+
 

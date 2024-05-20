@@ -1,7 +1,7 @@
 ---
 title: Infinix Hot 30 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:26:48.035Z
-updated: 2024-05-01T14:26:48.035Z
+date: 2024-05-19T03:59:04.487Z
+updated: 2024-05-20T03:59:04.487Z
 tags: 
   - problems
 categories:
@@ -368,4 +368,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-s18-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo S18 Pro to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-top-9-choices-for-video-auto-translate/"><u>Updated 2024 Approved Top 9 Choices for Video Auto Translate</u></a></li>
 </ul></div>
+
 

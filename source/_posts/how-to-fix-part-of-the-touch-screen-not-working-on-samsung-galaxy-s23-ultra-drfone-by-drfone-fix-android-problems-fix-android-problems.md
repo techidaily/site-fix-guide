@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy S23 Ultra | Dr.fone
-date: 2024-04-30T14:18:18.682Z
-updated: 2024-05-01T14:18:18.682Z
+date: 2024-05-19T03:58:57.894Z
+updated: 2024-05-20T03:58:57.894Z
 tags: 
   - problems
 categories:
@@ -450,4 +450,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-s17e-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Vivo S17e</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor X50i+? | Dr.fone</u></a></li>
 </ul></div>
+
 

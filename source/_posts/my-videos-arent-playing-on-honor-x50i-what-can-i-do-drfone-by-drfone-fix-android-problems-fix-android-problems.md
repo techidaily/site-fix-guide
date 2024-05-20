@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Honor X50i – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:44.367Z
-updated: 2024-05-01T14:27:44.367Z
+date: 2024-05-19T03:59:05.128Z
+updated: 2024-05-20T03:59:05.128Z
 tags: 
   - problems
 categories:
@@ -561,4 +561,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-xs-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone XS Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-5-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 5 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

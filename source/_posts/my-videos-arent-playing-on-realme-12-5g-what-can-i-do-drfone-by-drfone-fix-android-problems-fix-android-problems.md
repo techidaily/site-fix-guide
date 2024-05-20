@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Realme 12 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:08.536Z
-updated: 2024-05-01T14:28:08.536Z
+date: 2024-05-19T03:59:05.367Z
+updated: 2024-05-20T03:59:05.367Z
 tags: 
   - problems
 categories:
@@ -582,4 +582,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://ai-video-apps.techidaily.com/new-stop-motion-on-demand-cloud-based-software-for-animators-for-2024/"><u>New Stop Motion on Demand Cloud-Based Software for Animators for 2024</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-c02-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia C02 Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

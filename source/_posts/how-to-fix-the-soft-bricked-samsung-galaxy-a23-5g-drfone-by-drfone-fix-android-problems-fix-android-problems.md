@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy A23 5G? | Dr.fone
-date: 2024-04-30T14:19:01.144Z
-updated: 2024-05-01T14:19:01.144Z
+date: 2024-05-19T03:58:58.235Z
+updated: 2024-05-20T03:58:58.235Z
 tags: 
   - problems
 categories:
@@ -490,4 +490,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oppo-f25-pro-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Oppo F25 Pro 5G Device SIM</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-the-ultimate-list-of-video-editors-with-audio-features/"><u>In 2024, The Ultimate List of Video Editors with Audio Features</u></a></li>
 </ul></div>
+
 

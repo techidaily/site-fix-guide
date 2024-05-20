@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Infinix GT 10 Pro | Dr.fone
-date: 2024-04-30T14:26:02.390Z
-updated: 2024-05-01T14:26:02.390Z
+date: 2024-05-19T03:59:03.857Z
+updated: 2024-05-20T03:59:03.857Z
 tags: 
   - problems
 categories:
@@ -573,4 +573,5 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-motorola-g24-power-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Motorola G24 Power</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-g2-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo G2 Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+
 

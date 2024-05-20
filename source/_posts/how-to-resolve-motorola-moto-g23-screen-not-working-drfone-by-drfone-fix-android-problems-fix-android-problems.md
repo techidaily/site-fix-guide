@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Motorola Moto G23 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:36.666Z
-updated: 2024-05-01T14:23:36.666Z
+date: 2024-05-19T03:59:02.082Z
+updated: 2024-05-20T03:59:02.082Z
 tags: 
   - problems
 categories:
@@ -498,4 +498,5 @@ Doing all the recommended methods above usually solves the case. If the differen
 <li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-htc-u23-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from HTC U23 Pro</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-a60-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on A60</u></a></li>
 </ul></div>
+
 

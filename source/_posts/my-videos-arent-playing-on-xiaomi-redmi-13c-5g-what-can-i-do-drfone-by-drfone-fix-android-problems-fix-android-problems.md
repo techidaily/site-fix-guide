@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Xiaomi Redmi 13C 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:25.074Z
-updated: 2024-05-01T14:28:25.074Z
+date: 2024-05-19T03:59:05.579Z
+updated: 2024-05-20T03:59:05.579Z
 tags: 
   - problems
 categories:
@@ -544,4 +544,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo Reno 8T | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-pro-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Lava Blaze Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

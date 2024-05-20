@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Sony Xperia 5 V? | Dr.fone
-date: 2024-04-30T14:19:05.376Z
-updated: 2024-05-01T14:19:05.376Z
+date: 2024-05-19T03:58:58.266Z
+updated: 2024-05-20T03:58:58.266Z
 tags: 
   - problems
 categories:
@@ -609,4 +609,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-rule-of-thirds-in-video/"><u>In 2024, How to Use Rule of Thirds in Video</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-nokia-xr21-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Nokia XR21 by Name | Dr.fone</u></a></li>
 </ul></div>
+
 

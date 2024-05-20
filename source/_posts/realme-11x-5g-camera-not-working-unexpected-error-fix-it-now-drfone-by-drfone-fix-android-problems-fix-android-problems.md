@@ -1,7 +1,7 @@
 ---
 title: Realme 11X 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:32:42.496Z
-updated: 2024-05-01T14:32:42.496Z
+date: 2024-05-19T03:59:08.631Z
+updated: 2024-05-20T03:59:08.631Z
 tags: 
   - problems
 categories:
@@ -582,4 +582,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7? | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 14 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Poco X5 Pro – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:06.654Z
-updated: 2024-05-01T14:28:06.654Z
+date: 2024-05-19T03:59:05.353Z
+updated: 2024-05-20T03:59:05.353Z
 tags: 
   - problems
 categories:
@@ -544,4 +544,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers on Windows 7</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-11x-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme 11X 5G to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

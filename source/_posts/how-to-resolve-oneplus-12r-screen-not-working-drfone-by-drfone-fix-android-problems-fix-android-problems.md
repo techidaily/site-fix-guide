@@ -1,7 +1,7 @@
 ---
 title: How to Resolve OnePlus 12R Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:41.195Z
-updated: 2024-05-01T14:23:41.195Z
+date: 2024-05-19T03:59:02.117Z
+updated: 2024-05-20T03:59:02.117Z
 tags: 
   - problems
 categories:
@@ -490,4 +490,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y100 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-s17-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo S17 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

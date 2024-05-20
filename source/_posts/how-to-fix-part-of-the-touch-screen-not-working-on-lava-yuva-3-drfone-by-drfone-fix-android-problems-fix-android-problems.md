@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Yuva 3 | Dr.fone
-date: 2024-04-30T14:17:58.068Z
-updated: 2024-05-01T14:17:58.068Z
+date: 2024-05-19T03:58:57.481Z
+updated: 2024-05-20T03:58:57.481Z
 tags: 
   - problems
 categories:
@@ -612,4 +612,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-15-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone 15 Pro How to Bypass?</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/design-your-whatsapp-status-with-these-top-apps-for-2024/"><u>Design Your WhatsApp Status with These Top Apps for 2024</u></a></li>
 </ul></div>
+
 

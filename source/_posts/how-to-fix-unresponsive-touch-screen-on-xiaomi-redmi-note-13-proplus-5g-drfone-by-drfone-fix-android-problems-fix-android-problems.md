@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone
-date: 2024-04-30T14:21:44.431Z
-updated: 2024-05-01T14:21:44.431Z
+date: 2024-05-19T03:59:00.378Z
+updated: 2024-05-20T03:59:00.378Z
 tags: 
   - problems
 categories:
@@ -561,4 +561,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-add-motion-blur-in-after-effects/"><u>2024 Approved Add Motion Blur in After Effects</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-mocking-sponge-bob-meme-generator/"><u>Updated 2024 Approved Mocking Sponge Bob Meme Generator</u></a></li>
 </ul></div>
+
 

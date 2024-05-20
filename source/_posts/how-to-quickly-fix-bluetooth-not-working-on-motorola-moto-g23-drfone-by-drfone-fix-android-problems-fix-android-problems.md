@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Motorola Moto G23 | Dr.fone
-date: 2024-04-30T14:22:46.297Z
-updated: 2024-05-01T14:22:46.297Z
+date: 2024-05-19T03:59:01.428Z
+updated: 2024-05-20T03:59:01.428Z
 tags: 
   - problems
 categories:
@@ -559,4 +559,5 @@ To deal with an unresponsive screen, users can try restarting the Motorola Moto 
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-cropping-101-a-beginners-guide-to-using-avidemux/"><u>New In 2024, Video Cropping 101 A Beginners Guide to Using Avidemux</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-aspect-ratio-essentials-5-things-you-need-to-know/"><u>New In 2024, Aspect Ratio Essentials 5 Things You Need to Know</u></a></li>
 </ul></div>
+
 

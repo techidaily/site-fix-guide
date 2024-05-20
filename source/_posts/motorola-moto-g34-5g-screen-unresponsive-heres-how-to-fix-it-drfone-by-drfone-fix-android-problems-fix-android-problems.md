@@ -1,7 +1,7 @@
 ---
 title: Motorola Moto G34 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:37.192Z
-updated: 2024-05-01T14:27:37.192Z
+date: 2024-05-19T03:59:05.035Z
+updated: 2024-05-20T03:59:05.035Z
 tags: 
   - problems
 categories:
@@ -530,4 +530,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Vivo T2x 5G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-v27e-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo V27e | Dr.fone</u></a></li>
 </ul></div>
+
 

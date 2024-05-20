@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nubia Z50 Ultra | Dr.fone
-date: 2024-04-30T14:18:03.191Z
-updated: 2024-05-01T14:18:03.191Z
+date: 2024-05-19T03:58:57.522Z
+updated: 2024-05-20T03:58:57.522Z
 tags: 
   - problems
 categories:
@@ -724,4 +724,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-s17-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo S17 Pro Phone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/a-guide-nubia-red-magic-9-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nubia Red Magic 9 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

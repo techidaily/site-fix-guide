@@ -1,7 +1,7 @@
 ---
 title: OnePlus 12R Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:28:45.512Z
-updated: 2024-05-01T14:28:45.512Z
+date: 2024-05-19T03:59:05.841Z
+updated: 2024-05-20T03:59:05.841Z
 tags: 
   - problems
 categories:
@@ -667,4 +667,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Realme Note 50? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-realme-c67-4g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Realme C67 4G for Free? | Dr.fone</u></a></li>
 </ul></div>
+
 

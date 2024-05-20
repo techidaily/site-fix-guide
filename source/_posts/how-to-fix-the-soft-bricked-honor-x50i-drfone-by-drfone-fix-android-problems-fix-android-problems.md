@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor X50i? | Dr.fone
-date: 2024-04-30T14:18:36.181Z
-updated: 2024-05-01T14:18:36.181Z
+date: 2024-05-19T03:58:58.055Z
+updated: 2024-05-20T03:58:58.055Z
 tags: 
   - problems
 categories:
@@ -506,4 +506,5 @@ And, if you’re thinking, “**How do I get a virus off My Honor X50i?**” the
 <li><a href="https://android-unlock.techidaily.com/best-lava-blaze-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Lava Blaze Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Poco C65? | Dr.fone</u></a></li>
 </ul></div>
+
 

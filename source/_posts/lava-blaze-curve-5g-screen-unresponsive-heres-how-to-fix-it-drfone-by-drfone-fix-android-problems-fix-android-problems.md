@@ -1,7 +1,7 @@
 ---
 title: Lava Blaze Curve 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:16.876Z
-updated: 2024-05-01T14:27:16.876Z
+date: 2024-05-19T03:59:04.805Z
+updated: 2024-05-20T03:59:04.805Z
 tags: 
   - problems
 categories:
@@ -537,4 +537,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-the-article-shall-offer-an-overview-to-create-a-promising-sports-intro-and-edit-a-youtube-outro-for-a-sports-channel-there-will-also-be-three-/"><u>2024 Approved The Article Shall Offer an Overview to Create a Promising Sports Intro and Edit a YouTube Outro for a Sports Channel. There Will Also Be Three Recommended Apps to Download Background Music for Exercise</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Oppo Reno 10 Pro 5G.</u></a></li>
 </ul></div>
+
 

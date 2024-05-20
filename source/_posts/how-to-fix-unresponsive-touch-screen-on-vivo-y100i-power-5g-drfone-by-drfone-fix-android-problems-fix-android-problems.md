@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo Y100i Power 5G | Dr.fone
-date: 2024-04-30T14:21:38.534Z
-updated: 2024-05-01T14:21:38.534Z
+date: 2024-05-19T03:59:00.302Z
+updated: 2024-05-20T03:59:00.302Z
 tags: 
   - problems
 categories:
@@ -487,4 +487,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-11-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone 11 Online</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-best-10-emoji-apps-to-emoji-yourself-make-an-emoji-of-yourself/"><u>Updated 2024 Approved Best 10 Emoji Apps to Emoji Yourself-Make an Emoji of Yourself</u></a></li>
 </ul></div>
+
 

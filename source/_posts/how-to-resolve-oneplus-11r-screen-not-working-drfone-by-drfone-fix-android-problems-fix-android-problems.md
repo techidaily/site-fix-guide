@@ -1,7 +1,7 @@
 ---
 title: How to Resolve OnePlus 11R Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:40.815Z
-updated: 2024-05-01T14:23:40.815Z
+date: 2024-05-19T03:59:02.114Z
+updated: 2024-05-20T03:59:02.114Z
 tags: 
   - problems
 categories:
@@ -448,4 +448,5 @@ Lastly, you can still refer to OnePlus 11R for repairs. It remains the primary s
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
 </ul></div>
+
 

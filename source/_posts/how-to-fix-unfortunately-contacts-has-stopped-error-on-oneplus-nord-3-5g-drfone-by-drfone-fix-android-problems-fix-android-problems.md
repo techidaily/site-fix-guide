@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus Nord 3 5G | Dr.fone
-date: 2024-04-30T14:19:38.197Z
-updated: 2024-05-01T14:19:38.197Z
+date: 2024-05-19T03:58:58.654Z
+updated: 2024-05-20T03:58:58.654Z
 tags: 
   - problems
 categories:
@@ -604,4 +604,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-galaxy-a14-4g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Galaxy A14 4G?</u></a></li>
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
+
 

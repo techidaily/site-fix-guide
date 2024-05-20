@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme Narzo 60x 5G | Dr.fone
-date: 2024-04-30T14:18:14.127Z
-updated: 2024-05-01T14:18:14.127Z
+date: 2024-05-19T03:58:57.847Z
+updated: 2024-05-20T03:58:57.847Z
 tags: 
   - problems
 categories:
@@ -617,4 +617,5 @@ And, if you’re thinking, “**How do I get a virus off My Realme Narzo 60x 5G?
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oneplus-nord-ce-3-lite-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From OnePlus Nord CE 3 Lite 5G to iPhone | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo A56s 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nokia 105 Classic Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:37.627Z
-updated: 2024-05-01T14:23:37.627Z
+date: 2024-05-19T03:59:02.090Z
+updated: 2024-05-20T03:59:02.090Z
 tags: 
   - problems
 categories:
@@ -520,4 +520,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-redmi-k70-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Redmi K70 Pro?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-s23-fe-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
 </ul></div>
+
 

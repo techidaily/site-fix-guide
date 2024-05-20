@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Poco C65 | Dr.fone
-date: 2024-04-30T14:21:20.898Z
-updated: 2024-05-01T14:21:20.898Z
+date: 2024-05-19T03:59:00.108Z
+updated: 2024-05-20T03:59:00.108Z
 tags: 
   - problems
 categories:
@@ -539,4 +539,5 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
 <li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-gt-5s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme GT 5s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

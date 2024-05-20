@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Infinix Smart 8 | Dr.fone
-date: 2024-04-30T14:22:39.955Z
-updated: 2024-05-01T14:22:39.955Z
+date: 2024-05-19T03:59:01.328Z
+updated: 2024-05-20T03:59:01.328Z
 tags: 
   - problems
 categories:
@@ -661,4 +661,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme Narzo N55 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme GT Neo 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Motorola Moto G73 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:37.246Z
-updated: 2024-05-01T14:23:37.246Z
+date: 2024-05-19T03:59:02.086Z
+updated: 2024-05-20T03:59:02.086Z
 tags: 
   - problems
 categories:
@@ -514,4 +514,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on Apple iPhone 6s</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor 90 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

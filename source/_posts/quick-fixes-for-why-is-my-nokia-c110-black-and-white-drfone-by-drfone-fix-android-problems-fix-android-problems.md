@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Nokia C110 Black and White | Dr.fone
-date: 2024-04-30T14:32:09.545Z
-updated: 2024-05-01T14:32:09.545Z
+date: 2024-05-19T03:59:08.361Z
+updated: 2024-05-20T03:59:08.361Z
 tags: 
   - problems
 categories:
@@ -541,4 +541,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-zero-30-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Zero 30 5G</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-13-pro-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 13 Pro Lock Screen with Notifications?</u></a></li>
 </ul></div>
+
 

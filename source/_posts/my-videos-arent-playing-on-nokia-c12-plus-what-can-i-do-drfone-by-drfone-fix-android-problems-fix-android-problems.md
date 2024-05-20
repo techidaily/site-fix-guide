@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Nokia C12 Plus – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:56.010Z
-updated: 2024-05-01T14:27:56.010Z
+date: 2024-05-19T03:59:05.260Z
+updated: 2024-05-20T03:59:05.260Z
 tags: 
   - problems
 categories:
@@ -510,4 +510,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-poco-f5-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Poco F5 5G Phone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-an-adobe-slideshow-the-easy-way/"><u>New How to Make an Adobe Slideshow the Easy Way</u></a></li>
 </ul></div>
+
 

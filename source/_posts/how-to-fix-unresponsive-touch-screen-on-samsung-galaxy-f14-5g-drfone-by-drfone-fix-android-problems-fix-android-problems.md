@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Samsung Galaxy F14 5G | Dr.fone
-date: 2024-04-30T14:21:27.974Z
-updated: 2024-05-01T14:21:27.974Z
+date: 2024-05-19T03:59:00.162Z
+updated: 2024-05-20T03:59:00.162Z
 tags: 
   - problems
 categories:
@@ -578,4 +578,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-find-n3-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo Find N3 Phone? Unlock It Now</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A58 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

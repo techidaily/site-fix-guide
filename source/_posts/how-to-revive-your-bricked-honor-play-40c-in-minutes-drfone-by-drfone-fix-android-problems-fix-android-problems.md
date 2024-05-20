@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Honor Play 40C in Minutes | Dr.fone
-date: 2024-04-30T14:25:08.616Z
-updated: 2024-05-01T14:25:08.616Z
+date: 2024-05-19T03:59:03.254Z
+updated: 2024-05-20T03:59:03.254Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-itel-s23-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Itel S23 Phones with/without a PC</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/best-oneplus-11r-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best OnePlus 11R Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 

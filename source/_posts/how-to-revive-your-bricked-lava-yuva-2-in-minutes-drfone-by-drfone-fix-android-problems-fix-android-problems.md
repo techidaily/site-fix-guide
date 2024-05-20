@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Lava Yuva 2 in Minutes | Dr.fone
-date: 2024-04-30T14:25:17.235Z
-updated: 2024-05-01T14:25:17.235Z
+date: 2024-05-19T03:59:03.315Z
+updated: 2024-05-20T03:59:03.315Z
 tags: 
   - problems
 categories:
@@ -558,4 +558,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://ai-video-editing.techidaily.com/new-flv-editors-for-windows-11108187-easily-edit-flv-videos-on-pc/"><u>New FLV Editors for Windows 11/10/8.1/8/7 Easily Edit FLV Videos on PC</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/unlock-efficient-video-editing-6-essential-adobe-premiere-pro-tips/"><u>Unlock Efficient Video Editing 6 Essential Adobe Premiere Pro Tips</u></a></li>
 </ul></div>
+
 

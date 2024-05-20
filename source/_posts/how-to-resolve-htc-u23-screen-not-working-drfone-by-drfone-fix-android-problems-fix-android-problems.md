@@ -1,7 +1,7 @@
 ---
 title: How to Resolve HTC U23 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:28.071Z
-updated: 2024-05-01T14:23:28.071Z
+date: 2024-05-19T03:59:01.950Z
+updated: 2024-05-20T03:59:01.950Z
 tags: 
   - problems
 categories:
@@ -635,4 +635,5 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-5-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 5 to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11x-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme 11X 5G PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

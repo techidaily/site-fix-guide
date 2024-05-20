@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Oppo K11x Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:45.626Z
-updated: 2024-05-01T14:23:45.626Z
+date: 2024-05-19T03:59:02.159Z
+updated: 2024-05-20T03:59:02.159Z
 tags: 
   - problems
 categories:
@@ -609,4 +609,5 @@ Now that you have decided where to download the apk file, these are the followin
 <li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy Z Fold 5 ?</u></a></li>
 <li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor Magic5 Ultimate | Dr.fone</u></a></li>
 </ul></div>
+
 

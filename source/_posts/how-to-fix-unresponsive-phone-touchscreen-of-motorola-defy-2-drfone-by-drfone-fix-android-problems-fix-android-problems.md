@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Motorola Defy 2 | Dr.fone
-date: 2024-04-30T14:20:19.089Z
-updated: 2024-05-01T14:20:19.089Z
+date: 2024-05-19T03:58:59.102Z
+updated: 2024-05-20T03:58:59.102Z
 tags: 
   - problems
 categories:
@@ -579,4 +579,5 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-gt-3-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from GT 3.</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-ai-script-wondershare-virbo/"><u>Updated Create AI Avatar Video with AI Script | Wondershare Virbo</u></a></li>
 </ul></div>
+
 

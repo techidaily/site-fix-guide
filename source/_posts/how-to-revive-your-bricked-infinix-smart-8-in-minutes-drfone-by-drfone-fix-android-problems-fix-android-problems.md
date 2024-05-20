@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Infinix Smart 8 in Minutes | Dr.fone
-date: 2024-04-30T14:25:13.424Z
-updated: 2024-05-01T14:25:13.424Z
+date: 2024-05-19T03:59:03.289Z
+updated: 2024-05-20T03:59:03.289Z
 tags: 
   - problems
 categories:
@@ -551,4 +551,5 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-10t-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme 10T 5G to New Android? | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-14-pro-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 14 Pro Max to iPhone without iCloud | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo S18 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:02.440Z
-updated: 2024-05-01T14:24:02.440Z
+date: 2024-05-19T03:59:02.414Z
+updated: 2024-05-20T03:59:02.414Z
 tags: 
   - problems
 categories:
@@ -565,4 +565,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-6s-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 6s Plus? Heres the Best Fixes</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-mix-fold-3-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Mix Fold 3 Device</u></a></li>
 </ul></div>
+
 

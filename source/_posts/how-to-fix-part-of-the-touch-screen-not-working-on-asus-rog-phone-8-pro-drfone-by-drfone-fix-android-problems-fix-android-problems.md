@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Asus ROG Phone 8 Pro | Dr.fone
-date: 2024-04-30T14:17:48.005Z
-updated: 2024-05-01T14:17:48.005Z
+date: 2024-05-19T03:58:57.351Z
+updated: 2024-05-20T03:58:57.351Z
 tags: 
   - problems
 categories:
@@ -548,4 +548,5 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Asus R
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-15-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone 15 Pro without Password?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oneplus-11r-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of OnePlus 11R Without PUK Codes</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo T2 Pro 5G | Dr.fone
-date: 2024-04-30T14:21:35.662Z
-updated: 2024-05-01T14:21:35.662Z
+date: 2024-05-19T03:59:00.279Z
+updated: 2024-05-20T03:59:00.279Z
 tags: 
   - problems
 categories:
@@ -550,4 +550,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-moto-g24-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Moto G24</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-c210-by-drfone-android/"><u>How to Bypass FRP from Nokia C210?</u></a></li>
 </ul></div>
+
 

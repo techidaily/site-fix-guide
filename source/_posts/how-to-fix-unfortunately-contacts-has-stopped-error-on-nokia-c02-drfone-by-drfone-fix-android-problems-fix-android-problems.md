@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Nokia C02 | Dr.fone
-date: 2024-04-30T14:19:34.082Z
-updated: 2024-05-01T14:19:34.082Z
+date: 2024-05-19T03:58:58.593Z
+updated: 2024-05-20T03:58:58.593Z
 tags: 
   - problems
 categories:
@@ -484,4 +484,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-11-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 11 Pro Max Without a Home Button</u></a></li>
 </ul></div>
+
 

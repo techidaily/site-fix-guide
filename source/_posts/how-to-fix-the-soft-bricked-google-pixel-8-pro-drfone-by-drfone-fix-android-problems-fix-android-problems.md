@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Google Pixel 8 Pro? | Dr.fone
-date: 2024-04-30T14:18:33.124Z
-updated: 2024-05-01T14:18:33.124Z
+date: 2024-05-19T03:58:58.021Z
+updated: 2024-05-20T03:58:58.021Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-poco-c55-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Poco C55</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-p40plus-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel P40+? | Dr.fone</u></a></li>
 </ul></div>
+
 

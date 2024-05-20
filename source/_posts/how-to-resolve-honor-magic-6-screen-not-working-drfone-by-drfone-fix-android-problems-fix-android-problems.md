@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor Magic 6 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:25.312Z
-updated: 2024-05-01T14:23:25.312Z
+date: 2024-05-19T03:59:01.917Z
+updated: 2024-05-20T03:59:01.917Z
 tags: 
   - problems
 categories:
@@ -533,4 +533,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-pop-8-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Pop 8 to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-xlb-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlb Online with DigiSigner</u></a></li>
 </ul></div>
+
 

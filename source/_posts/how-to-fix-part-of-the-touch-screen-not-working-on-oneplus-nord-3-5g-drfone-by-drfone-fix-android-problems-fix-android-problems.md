@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus Nord 3 5G | Dr.fone
-date: 2024-04-30T14:18:04.344Z
-updated: 2024-05-01T14:18:04.345Z
+date: 2024-05-19T03:58:57.741Z
+updated: 2024-05-20T03:58:57.741Z
 tags: 
   - problems
 categories:
@@ -658,4 +658,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy S23 Ultra</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-nubia-red-magic-9-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Nubia Red Magic 9 Pro Phone</u></a></li>
 </ul></div>
+
 

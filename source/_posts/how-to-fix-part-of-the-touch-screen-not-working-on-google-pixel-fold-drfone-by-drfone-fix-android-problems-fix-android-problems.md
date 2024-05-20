@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Google Pixel Fold | Dr.fone
-date: 2024-04-30T14:17:48.587Z
-updated: 2024-05-01T14:17:48.587Z
+date: 2024-05-19T03:58:57.355Z
+updated: 2024-05-20T03:58:57.355Z
 tags: 
   - problems
 categories:
@@ -507,4 +507,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Xiaomi Redmi K70E | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-xiaomi-redmi-note-12-proplus-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Xiaomi Redmi Note 12 Pro+ 5G FRP</u></a></li>
 </ul></div>
+
 

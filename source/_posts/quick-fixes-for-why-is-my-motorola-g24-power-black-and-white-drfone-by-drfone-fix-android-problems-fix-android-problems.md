@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Motorola G24 Power Black and White | Dr.fone
-date: 2024-04-30T14:32:06.964Z
-updated: 2024-05-01T14:32:06.964Z
+date: 2024-05-19T03:59:08.343Z
+updated: 2024-05-20T03:59:08.343Z
 tags: 
   - problems
 categories:
@@ -602,4 +602,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-itel-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Itel</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oppo-k11-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Oppo K11 5G to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

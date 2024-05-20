@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Motorola Razr 40? | Dr.fone
-date: 2024-04-30T14:18:46.005Z
-updated: 2024-05-01T14:18:46.005Z
+date: 2024-05-19T03:58:58.120Z
+updated: 2024-05-20T03:58:58.120Z
 tags: 
   - problems
 categories:
@@ -462,4 +462,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://techidaily.com/how-do-i-reset-my-honor-x9a-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X9a Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo A18? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y78+ | Dr.fone
-date: 2024-04-30T14:18:28.068Z
-updated: 2024-05-01T14:18:28.068Z
+date: 2024-05-19T03:58:57.978Z
+updated: 2024-05-20T03:58:57.978Z
 tags: 
   - problems
 categories:
@@ -505,4 +505,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Honor X50i+ | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-hot-30-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix Hot 30 5G.</u></a></li>
 </ul></div>
+
 

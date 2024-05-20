@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Sony Xperia 1 V in Minutes | Dr.fone
-date: 2024-04-30T14:25:41.330Z
-updated: 2024-05-01T14:25:41.330Z
+date: 2024-05-19T03:59:03.603Z
+updated: 2024-05-20T03:59:03.603Z
 tags: 
   - problems
 categories:
@@ -610,4 +610,5 @@ While there are many options to fix this error, only one is an excellent choice:
 <li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Itel S23? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Infinix Smart 7 HD | Dr.fone</u></a></li>
 </ul></div>
+
 

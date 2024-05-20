@@ -1,7 +1,7 @@
 ---
 title: Realme 11 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:32:40.164Z
-updated: 2024-05-01T14:32:40.164Z
+date: 2024-05-19T03:59:08.613Z
+updated: 2024-05-20T03:59:08.613Z
 tags: 
   - problems
 categories:
@@ -683,4 +683,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Find X7 Ultra? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-htc-u23-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on HTC U23 Pro Phones with/without a PC</u></a></li>
 </ul></div>
+
 

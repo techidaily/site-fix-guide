@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Motorola Moto G73 5G | Dr.fone
-date: 2024-04-30T14:18:00.574Z
-updated: 2024-05-01T14:18:00.574Z
+date: 2024-05-19T03:58:57.501Z
+updated: 2024-05-20T03:58:57.501Z
 tags: 
   - problems
 categories:
@@ -655,4 +655,5 @@ By prioritizing user safety and following the step-by-step approach in this guid
 <li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-s17t-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo S17t</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-c50-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco C50 Phone</u></a></li>
 </ul></div>
+
 

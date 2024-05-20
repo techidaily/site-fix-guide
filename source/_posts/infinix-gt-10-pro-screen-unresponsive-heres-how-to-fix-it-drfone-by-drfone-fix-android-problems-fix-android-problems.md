@@ -1,7 +1,7 @@
 ---
 title: Infinix GT 10 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:26:46.974Z
-updated: 2024-05-01T14:26:46.974Z
+date: 2024-05-19T03:59:04.464Z
+updated: 2024-05-20T03:59:04.464Z
 tags: 
   - problems
 categories:
@@ -462,4 +462,5 @@ To sum up this article, it can be said that issues like ****Infinix GT 10 Pro no
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50-ultra-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50 Ultra Phone without Any Data Loss</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-spark-20-proplus-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Spark 20 Pro+ FRP Bypass With Best Methods</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Google Pixel 8? | Dr.fone
-date: 2024-04-30T14:18:32.934Z
-updated: 2024-05-01T14:18:32.934Z
+date: 2024-05-19T03:58:58.020Z
+updated: 2024-05-20T03:58:58.020Z
 tags: 
   - problems
 categories:
@@ -358,4 +358,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-t2-pro-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo T2 Pro 5Gwith/without a PC</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-achieve-lumafusion-color-grading-through-luts-for-2024/"><u>Updated How To Achieve LumaFusion Color Grading Through LUTs for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-30T14:19:30.191Z
-updated: 2024-05-01T14:19:30.191Z
+date: 2024-05-19T03:58:58.565Z
+updated: 2024-05-20T03:58:58.565Z
 tags: 
   - problems
 categories:
@@ -513,4 +513,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel A60s | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-90-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor 90 Pro?</u></a></li>
 </ul></div>
+
 

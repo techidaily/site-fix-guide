@@ -1,7 +1,7 @@
 ---
 title: Realme C53 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:32:48.338Z
-updated: 2024-05-01T14:32:48.338Z
+date: 2024-05-19T03:59:08.675Z
+updated: 2024-05-20T03:59:08.675Z
 tags: 
   - problems
 categories:
@@ -558,4 +558,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-ultra-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Ultra Bootloader Easily</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-s17t-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo S17t Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

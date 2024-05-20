@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Motorola Moto G73 5G Back to Operation | Dr.fone
-date: 2024-04-30T14:24:28.871Z
-updated: 2024-05-01T14:24:28.871Z
+date: 2024-05-19T03:59:02.907Z
+updated: 2024-05-20T03:59:02.907Z
 tags: 
   - problems
 categories:
@@ -583,4 +583,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-13-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 13 Pro After Forgetting the Passcode?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/mobile-video-editing-made-easy-top-brightening-apps-for-2024/"><u>Mobile Video Editing Made Easy Top Brightening Apps for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Oppo A1x 5G | Dr.fone
-date: 2024-04-30T14:18:05.877Z
-updated: 2024-05-01T14:18:05.877Z
+date: 2024-05-19T03:58:57.754Z
+updated: 2024-05-20T03:58:57.754Z
 tags: 
   - problems
 categories:
@@ -523,4 +523,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://ai-editing-video.techidaily.com/cropping-a-video-in-final-cut-pro-step-by-step/"><u>Cropping a Video in Final Cut Pro Step by Step</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 13 mini | Dr.fone</u></a></li>
 </ul></div>
+
 

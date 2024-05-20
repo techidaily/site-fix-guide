@@ -1,7 +1,7 @@
 ---
 title: Infinix Note 30 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-04-30T14:26:52.282Z
-updated: 2024-05-01T14:26:52.282Z
+date: 2024-05-19T03:59:04.521Z
+updated: 2024-05-20T03:59:04.521Z
 tags: 
   - problems
 categories:
@@ -649,4 +649,5 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-vivo-y100i-power-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo Y100i Power 5G Fingerprint Not Working Solutions</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-asus-rog-phone-7-ultimate-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Asus ROG Phone 7 Ultimate FRP Locks</u></a></li>
 </ul></div>
+
 

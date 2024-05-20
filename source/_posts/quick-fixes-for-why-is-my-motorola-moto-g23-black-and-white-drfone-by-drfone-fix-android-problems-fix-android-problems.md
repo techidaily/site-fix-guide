@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Motorola Moto G23 Black and White | Dr.fone
-date: 2024-04-30T14:32:07.920Z
-updated: 2024-05-01T14:32:07.920Z
+date: 2024-05-19T03:59:08.350Z
+updated: 2024-05-20T03:59:08.350Z
 tags: 
   - problems
 categories:
@@ -603,4 +603,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-gionee-f3-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Gionee F3 Pro Location by Number | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-s17e-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo S17e Location by Number | Dr.fone</u></a></li>
 </ul></div>
+
 

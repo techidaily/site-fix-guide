@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Google Pixel 8 | Dr.fone
-date: 2024-04-30T14:20:57.750Z
-updated: 2024-05-01T14:20:57.750Z
+date: 2024-05-19T03:58:59.774Z
+updated: 2024-05-20T03:58:59.774Z
 tags: 
   - problems
 categories:
@@ -492,4 +492,5 @@ For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reli
 <li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-v27-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo V27 Pattern Lock Screen</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-y100-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo Y100 5G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

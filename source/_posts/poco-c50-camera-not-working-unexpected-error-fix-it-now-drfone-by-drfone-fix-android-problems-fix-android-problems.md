@@ -1,7 +1,7 @@
 ---
 title: Poco C50 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:30:53.244Z
-updated: 2024-05-01T14:30:53.244Z
+date: 2024-05-19T03:59:07.225Z
+updated: 2024-05-20T03:59:07.225Z
 tags: 
   - problems
 categories:
@@ -716,4 +716,5 @@ But among the methods discussed above, Dr.Fone – System Repair just stood out 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-se-2022-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone SE (2022) Backup Password? Heres What to Do | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

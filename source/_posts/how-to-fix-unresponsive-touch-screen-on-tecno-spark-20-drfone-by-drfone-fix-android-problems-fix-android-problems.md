@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Tecno Spark 20 | Dr.fone
-date: 2024-04-30T14:21:33.022Z
-updated: 2024-05-01T14:21:33.022Z
+date: 2024-05-19T03:59:00.259Z
+updated: 2024-05-20T03:59:00.259Z
 tags: 
   - problems
 categories:
@@ -542,4 +542,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone 13 Pro Max</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/learn-how-to-make-your-characters-interactive-in-unity-animation-rigging-for-2024/"><u>Learn How to Make Your Characters Interactive in Unity Animation Rigging for 2024</u></a></li>
 </ul></div>
+
 

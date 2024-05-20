@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Tecno Spark 20C | Dr.fone
-date: 2024-04-30T14:21:33.602Z
-updated: 2024-05-01T14:21:33.602Z
+date: 2024-05-19T03:59:00.264Z
+updated: 2024-05-20T03:59:00.264Z
 tags: 
   - problems
 categories:
@@ -601,4 +601,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://ai-vdieo-software.techidaily.com/camtasia-video-editing-secrets-speeding-up-or-slowing-down-footage-for-2024/"><u>Camtasia Video Editing Secrets Speeding Up or Slowing Down Footage for 2024</u></a></li>
 <li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-xiaomi-redmi-a2-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Xiaomi Redmi A2</u></a></li>
 </ul></div>
+
 

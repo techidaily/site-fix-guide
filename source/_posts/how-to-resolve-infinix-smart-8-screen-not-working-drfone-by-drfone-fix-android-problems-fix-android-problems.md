@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Smart 8 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:30.757Z
-updated: 2024-05-01T14:23:30.757Z
+date: 2024-05-19T03:59:02.024Z
+updated: 2024-05-20T03:59:02.024Z
 tags: 
   - problems
 categories:
@@ -530,4 +530,5 @@ As much as factory mode can be a useful solution to a number of problems, it can
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-plus-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus Without Passcode? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-find-x7-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Find X7 Fingerprint Lock</u></a></li>
 </ul></div>
+
 

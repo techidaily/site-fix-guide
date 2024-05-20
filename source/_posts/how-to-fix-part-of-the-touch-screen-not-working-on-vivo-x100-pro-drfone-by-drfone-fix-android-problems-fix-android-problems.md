@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo X100 Pro | Dr.fone
-date: 2024-04-30T14:18:25.926Z
-updated: 2024-05-01T14:18:25.926Z
+date: 2024-05-19T03:58:57.959Z
+updated: 2024-05-20T03:58:57.959Z
 tags: 
   - problems
 categories:
@@ -593,4 +593,5 @@ While there are many options to fix this error, only one is an excellent choice:
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus, Apples New iPhone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-headshot-generator/"><u>In 2024, What Is an AI Headshot Generator?</u></a></li>
 </ul></div>
+
 

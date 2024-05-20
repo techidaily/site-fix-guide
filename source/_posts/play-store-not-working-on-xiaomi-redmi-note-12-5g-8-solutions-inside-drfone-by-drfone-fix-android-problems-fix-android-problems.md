@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Xiaomi Redmi Note 12 5G? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:30:03.624Z
-updated: 2024-05-01T14:30:03.624Z
+date: 2024-05-19T03:59:06.729Z
+updated: 2024-05-20T03:59:06.729Z
 tags: 
   - problems
 categories:
@@ -528,4 +528,5 @@ So go ahead and try them out now!
 <li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-11-pro-max-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 11 Pro Max to your Windows PC | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c12-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C12</u></a></li>
 </ul></div>
+
 

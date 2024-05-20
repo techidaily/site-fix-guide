@@ -1,7 +1,7 @@
 ---
 title: Infinix Note 30 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:26:51.515Z
-updated: 2024-05-01T14:26:51.515Z
+date: 2024-05-19T03:59:04.516Z
+updated: 2024-05-20T03:59:04.516Z
 tags: 
   - problems
 categories:
@@ -434,4 +434,5 @@ Last but certainly not the least, users must avoid downloading large application
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-5-methods-to-denoise-a-video/"><u>New 5 Methods to Denoise a Video</u></a></li>
 </ul></div>
+
 

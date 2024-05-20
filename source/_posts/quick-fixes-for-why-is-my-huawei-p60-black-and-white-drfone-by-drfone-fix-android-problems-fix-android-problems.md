@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Huawei P60 Black and White | Dr.fone
-date: 2024-04-30T14:31:59.754Z
-updated: 2024-05-01T14:31:59.754Z
+date: 2024-05-19T03:59:08.257Z
+updated: 2024-05-20T03:59:08.257Z
 tags: 
   - problems
 categories:
@@ -611,4 +611,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-a14-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy A14 5G Lock Screen Clock in Seconds</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-a34-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy A34 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
 

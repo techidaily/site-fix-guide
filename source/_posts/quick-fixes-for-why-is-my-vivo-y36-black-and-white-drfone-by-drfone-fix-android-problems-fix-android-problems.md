@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo Y36 Black and White | Dr.fone
-date: 2024-04-30T14:32:33.866Z
-updated: 2024-05-01T14:32:33.866Z
+date: 2024-05-19T03:59:08.566Z
+updated: 2024-05-20T03:59:08.566Z
 tags: 
   - problems
 categories:
@@ -553,4 +553,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Lava Blaze 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-13-mini-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 13 mini screen turns black? | Stellar</u></a></li>
 </ul></div>
+
 

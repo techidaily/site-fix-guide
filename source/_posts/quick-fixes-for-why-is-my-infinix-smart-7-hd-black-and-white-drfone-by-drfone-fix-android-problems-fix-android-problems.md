@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Infinix Smart 7 HD Black and White | Dr.fone
-date: 2024-04-30T14:32:01.115Z
-updated: 2024-05-01T14:32:01.115Z
+date: 2024-05-19T03:59:08.265Z
+updated: 2024-05-20T03:59:08.265Z
 tags: 
   - problems
 categories:
@@ -603,4 +603,5 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
 <li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-14-pro-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 14 Pro</u></a></li>
 </ul></div>
+
 

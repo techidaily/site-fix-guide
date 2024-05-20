@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Motorola Moto E13 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:27.704Z
-updated: 2024-05-01T14:24:27.704Z
+date: 2024-05-19T03:59:02.898Z
+updated: 2024-05-20T03:59:02.898Z
 tags: 
   - problems
 categories:
@@ -550,4 +550,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Nokia XR21? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C22? | Dr.fone</u></a></li>
 </ul></div>
+
 

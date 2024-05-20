@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked OnePlus 11R Back to Operation | Dr.fone
-date: 2024-04-30T14:24:33.081Z
-updated: 2024-05-01T14:24:33.081Z
+date: 2024-05-19T03:59:02.944Z
+updated: 2024-05-20T03:59:02.944Z
 tags: 
   - problems
 categories:
@@ -448,4 +448,5 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-add-camera-shake-to-video-in-adobe-after-effects/"><u>New In 2024, How to Add Camera Shake to Video in Adobe After Effects</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

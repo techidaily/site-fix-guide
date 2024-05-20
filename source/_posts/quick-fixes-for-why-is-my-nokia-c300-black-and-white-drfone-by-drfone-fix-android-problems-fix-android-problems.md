@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Nokia C300 Black and White | Dr.fone
-date: 2024-04-30T14:32:10.499Z
-updated: 2024-05-01T14:32:10.499Z
+date: 2024-05-19T03:59:08.369Z
+updated: 2024-05-20T03:59:08.369Z
 tags: 
   - problems
 categories:
@@ -627,4 +627,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo S17 | Dr.fone</u></a></li>
 </ul></div>
+
 

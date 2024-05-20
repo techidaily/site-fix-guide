@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Xiaomi Redmi 13C? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:30:02.570Z
-updated: 2024-05-01T14:30:02.570Z
+date: 2024-05-19T03:59:06.723Z
+updated: 2024-05-20T03:59:06.723Z
 tags: 
   - problems
 categories:
@@ -486,4 +486,5 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Xiaomi
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme Narzo N55 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

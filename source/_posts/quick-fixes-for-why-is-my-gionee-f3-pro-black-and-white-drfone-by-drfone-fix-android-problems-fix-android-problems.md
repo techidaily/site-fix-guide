@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Gionee F3 Pro Black and White | Dr.fone
-date: 2024-04-30T14:31:53.830Z
-updated: 2024-05-01T14:31:53.830Z
+date: 2024-05-19T03:59:08.196Z
+updated: 2024-05-20T03:59:08.196Z
 tags: 
   - problems
 categories:
@@ -558,4 +558,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the issue wi
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-s17t-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo S17t | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oneplus-nord-ce-3-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from OnePlus Nord CE 3 5G to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

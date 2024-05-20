@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Realme C51 | Dr.fone
-date: 2024-04-30T14:20:34.452Z
-updated: 2024-05-01T14:20:34.452Z
+date: 2024-05-19T03:58:59.369Z
+updated: 2024-05-20T03:58:59.369Z
 tags: 
   - problems
 categories:
@@ -621,4 +621,5 @@ Hence in this article, we got to know about the error 495 and the possible solut
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-yuva-3-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Yuva 3 Prowith/without a PC</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 14 Pro Max</u></a></li>
 </ul></div>
+
 

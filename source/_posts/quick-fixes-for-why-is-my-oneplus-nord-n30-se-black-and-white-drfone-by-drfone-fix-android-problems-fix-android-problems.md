@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My OnePlus Nord N30 SE Black and White | Dr.fone
-date: 2024-04-30T14:32:12.738Z
-updated: 2024-05-01T14:32:12.738Z
+date: 2024-05-19T03:59:08.385Z
+updated: 2024-05-20T03:59:08.385Z
 tags: 
   - problems
 categories:
@@ -662,4 +662,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-xiaomi-redmi-note-13-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Xiaomi Redmi Note 13 5G without Him Knowing | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-after-reading-this-article-you-can-add-a-b-roll-feature-from-filmora-and-captivate-more-audience-explanation-video-b-roll-and-story-telling-b-roll-are-w/"><u>New After Reading This Article, You Can Add a B-Roll Feature From Filmora and Captivate More Audience. Explanation Video B-Roll and Story-Telling B-Roll Are Well Illustrated</u></a></li>
 </ul></div>
+
 

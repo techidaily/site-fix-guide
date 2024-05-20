@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Honor 100 | Dr.fone
-date: 2024-04-30T14:20:58.257Z
-updated: 2024-05-01T14:20:58.257Z
+date: 2024-05-19T03:58:59.779Z
+updated: 2024-05-20T03:58:59.779Z
 tags: 
   - problems
 categories:
@@ -563,4 +563,5 @@ When following the directions, the user may require more research into some trou
 <li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 Plus without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-infinix-smart-8-plus-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Infinix Smart 8 Plus? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

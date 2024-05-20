@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Lava Yuva 3 | Dr.fone
-date: 2024-04-30T14:22:43.734Z
-updated: 2024-05-01T14:22:43.734Z
+date: 2024-05-19T03:59:01.358Z
+updated: 2024-05-20T03:59:01.358Z
 tags: 
   - problems
 categories:
@@ -492,4 +492,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-meizu-21-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Meizu 21</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y100i-power-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y100i Power 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

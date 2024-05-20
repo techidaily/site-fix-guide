@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy A05s? | Dr.fone
-date: 2024-04-30T14:19:00.766Z
-updated: 2024-05-01T14:19:00.766Z
+date: 2024-05-19T03:58:58.232Z
+updated: 2024-05-20T03:58:58.232Z
 tags: 
   - problems
 categories:
@@ -551,4 +551,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-13-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi 13 Ultra to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 Plus to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

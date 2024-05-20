@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Infinix Smart 7 | Dr.fone
-date: 2024-04-30T14:26:04.297Z
-updated: 2024-05-01T14:26:04.297Z
+date: 2024-05-19T03:59:03.893Z
+updated: 2024-05-20T03:59:03.893Z
 tags: 
   - problems
 categories:
@@ -482,4 +482,5 @@ For those who find themselves locked out of their Infinix Smart 7 devices, there
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-12-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi 12</u></a></li>
 </ul></div>
+
 

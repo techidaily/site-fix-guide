@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on HTC U23 Pro | Dr.fone
-date: 2024-04-30T14:21:01.530Z
-updated: 2024-05-01T14:21:01.530Z
+date: 2024-05-19T03:58:59.842Z
+updated: 2024-05-20T03:58:59.842Z
 tags: 
   - problems
 categories:
@@ -614,4 +614,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-vivo-y27-4g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Vivo Y27 4G</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-6s-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
+
 

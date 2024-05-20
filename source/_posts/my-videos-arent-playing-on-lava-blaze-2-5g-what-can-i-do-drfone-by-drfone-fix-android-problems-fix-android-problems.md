@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Lava Blaze 2 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:51.104Z
-updated: 2024-05-01T14:27:51.104Z
+date: 2024-05-19T03:59:05.215Z
+updated: 2024-05-20T03:59:05.215Z
 tags: 
   - problems
 categories:
@@ -555,4 +555,5 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-samsung-galaxy-s23-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Samsung Galaxy S23</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-razr-40-ultra-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Razr 40 Ultra Location by Number | Dr.fone</u></a></li>
 </ul></div>
+
 

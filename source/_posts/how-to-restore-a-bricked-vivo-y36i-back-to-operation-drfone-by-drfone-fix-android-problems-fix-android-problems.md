@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Vivo Y36i Back to Operation | Dr.fone
-date: 2024-04-30T14:24:58.562Z
-updated: 2024-05-01T14:24:58.562Z
+date: 2024-05-19T03:59:03.154Z
+updated: 2024-05-20T03:59:03.154Z
 tags: 
   - problems
 categories:
@@ -489,4 +489,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-soundcloud-to-mp3-conversion-hacks-get-the-most-out-of-your-music/"><u>New 2024 Approved Soundcloud to MP3 Conversion Hacks Get the Most Out of Your Music</u></a></li>
 </ul></div>
+
 

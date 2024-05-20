@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme Narzo N53 | Dr.fone
-date: 2024-04-30T14:18:14.319Z
-updated: 2024-05-01T14:18:14.319Z
+date: 2024-05-19T03:58:57.848Z
+updated: 2024-05-20T03:58:57.848Z
 tags: 
   - problems
 categories:
@@ -668,4 +668,5 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 <li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-100-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor 100 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

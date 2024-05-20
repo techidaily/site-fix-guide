@@ -1,7 +1,7 @@
 ---
 title: Realme C67 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:50.804Z
-updated: 2024-05-01T14:32:50.804Z
+date: 2024-05-19T03:59:08.714Z
+updated: 2024-05-20T03:59:08.714Z
 tags: 
   - problems
 categories:
@@ -558,4 +558,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Lava Blaze 2 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-2024-mastering-audio-video-sync-for-seamless-edits/"><u>Final Cut Pro X 2024 Mastering Audio-Video Sync for Seamless Edits</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy A05s Black and White | Dr.fone
-date: 2024-04-30T14:32:21.887Z
-updated: 2024-05-01T14:32:21.887Z
+date: 2024-05-19T03:59:08.454Z
+updated: 2024-05-20T03:59:08.454Z
 tags: 
   - problems
 categories:
@@ -635,4 +635,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-a2plus-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi A2+?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-a18-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo A18</u></a></li>
 </ul></div>
+
 

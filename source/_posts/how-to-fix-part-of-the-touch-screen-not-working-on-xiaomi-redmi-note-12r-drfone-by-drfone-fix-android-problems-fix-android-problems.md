@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 12R | Dr.fone
-date: 2024-04-30T14:18:31.777Z
-updated: 2024-05-01T14:18:31.777Z
+date: 2024-05-19T03:58:58.011Z
+updated: 2024-05-20T03:58:58.011Z
 tags: 
   - problems
 categories:
@@ -762,4 +762,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://ai-video-apps.techidaily.com/speed-up-your-videos-top-time-lapse-apps-for-mobile-devices-for-2024/"><u>Speed Up Your Videos Top Time-Lapse Apps for Mobile Devices for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

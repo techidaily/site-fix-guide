@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on OnePlus 12R – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:59.303Z
-updated: 2024-05-01T14:27:59.303Z
+date: 2024-05-19T03:59:05.298Z
+updated: 2024-05-20T03:59:05.298Z
 tags: 
   - problems
 categories:
@@ -601,4 +601,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-max-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS Max To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 12 | Dr.fone</u></a></li>
 </ul></div>
+
 

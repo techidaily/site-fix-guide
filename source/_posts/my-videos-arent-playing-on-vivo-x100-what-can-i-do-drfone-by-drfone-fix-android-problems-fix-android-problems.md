@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Vivo X100 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:21.515Z
-updated: 2024-05-01T14:28:21.515Z
+date: 2024-05-19T03:59:05.508Z
+updated: 2024-05-20T03:59:05.508Z
 tags: 
   - problems
 categories:
@@ -581,4 +581,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-xs-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone XS Without a Home Button</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/bypass-iphone-6-plus-activation-lock-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 6 Plus activation lock without Apple ID</u></a></li>
 </ul></div>
+
 

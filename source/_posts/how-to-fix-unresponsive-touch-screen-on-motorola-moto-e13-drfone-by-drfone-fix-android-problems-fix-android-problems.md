@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Motorola Moto E13 | Dr.fone
-date: 2024-04-30T14:21:09.606Z
-updated: 2024-05-01T14:21:09.606Z
+date: 2024-05-19T03:58:59.960Z
+updated: 2024-05-20T03:58:59.960Z
 tags: 
   - problems
 categories:
@@ -493,4 +493,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Reno 11 5G? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to Android/iOS? | Dr.fone</u></a></li>
 </ul></div>
+
 

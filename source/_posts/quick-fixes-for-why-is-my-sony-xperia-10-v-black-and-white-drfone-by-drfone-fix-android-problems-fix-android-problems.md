@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Sony Xperia 10 V Black and White | Dr.fone
-date: 2024-04-30T14:32:26.469Z
-updated: 2024-05-01T14:32:26.469Z
+date: 2024-05-19T03:59:08.488Z
+updated: 2024-05-20T03:59:08.488Z
 tags: 
   - problems
 categories:
@@ -578,4 +578,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-nokia-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Nokia using Video Repair Utility on Mac?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-what-is-the-best-voice-changer-for-whatsapp-discover-the-seven-7-best-voice-changers-for-whatsapp-here-in-this-post/"><u>New What Is the Best Voice Changer for WhatsApp? Discover the Seven (7) Best Voice Changers for WhatsApp Here in This Post</u></a></li>
 </ul></div>
+
 

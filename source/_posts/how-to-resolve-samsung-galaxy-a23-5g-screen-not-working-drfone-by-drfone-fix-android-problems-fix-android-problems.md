@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Samsung Galaxy A23 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:53.519Z
-updated: 2024-05-01T14:23:53.519Z
+date: 2024-05-19T03:59:02.312Z
+updated: 2024-05-20T03:59:02.312Z
 tags: 
   - problems
 categories:
@@ -419,4 +419,5 @@ When nothing works, the last resort you can go with is resetting the Samsung Gal
 <li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Lenovo ThinkPhone | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor Magic V2? | Dr.fone</u></a></li>
 </ul></div>
+
 

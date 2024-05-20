@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Itel P55T Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:32.833Z
-updated: 2024-05-01T14:23:32.833Z
+date: 2024-05-19T03:59:02.040Z
+updated: 2024-05-20T03:59:02.040Z
 tags: 
   - problems
 categories:
@@ -467,4 +467,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-11-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 11 without Security Questions?</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-5-recommended-websites-for-text-gif-maker/"><u>Updated In 2024, 5 Recommended Websites for Text GIF Maker</u></a></li>
 </ul></div>
+
 

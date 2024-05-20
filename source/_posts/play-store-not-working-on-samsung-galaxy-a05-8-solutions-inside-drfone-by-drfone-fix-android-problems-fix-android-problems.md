@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Samsung Galaxy A05? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:46.422Z
-updated: 2024-05-01T14:29:46.422Z
+date: 2024-05-19T03:59:06.530Z
+updated: 2024-05-20T03:59:06.530Z
 tags: 
   - problems
 categories:
@@ -508,4 +508,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-g2-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo G2 to Roku | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-2020-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone SE (2020) Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
 </ul></div>
+
 

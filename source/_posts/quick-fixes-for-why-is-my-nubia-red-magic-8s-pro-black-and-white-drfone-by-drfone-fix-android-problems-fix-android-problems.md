@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Nubia Red Magic 8S Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:11.192Z
-updated: 2024-05-01T14:32:11.192Z
+date: 2024-05-19T03:59:08.374Z
+updated: 2024-05-20T03:59:08.374Z
 tags: 
   - problems
 categories:
@@ -615,4 +615,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Xiaomi 13T? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-itel-a60s-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Itel A60s to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

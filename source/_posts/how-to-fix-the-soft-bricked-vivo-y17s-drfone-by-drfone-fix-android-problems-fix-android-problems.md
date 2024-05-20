@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y17s? | Dr.fone
-date: 2024-04-30T14:19:11.516Z
-updated: 2024-05-01T14:19:11.516Z
+date: 2024-05-19T03:58:58.361Z
+updated: 2024-05-20T03:58:58.361Z
 tags: 
   - problems
 categories:
@@ -433,4 +433,5 @@ Vivo Y17s Screen unresponsiveness can be a frustrating issue to deal with, but t
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-poco-x5-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Poco X5</u></a></li>
 <li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-redmi-note-12-4g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi Redmi Note 12 4G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Oppo K11x? | Dr.fone
-date: 2024-04-30T14:18:54.021Z
-updated: 2024-05-01T14:18:54.021Z
+date: 2024-05-19T03:58:58.184Z
+updated: 2024-05-20T03:58:58.184Z
 tags: 
   - problems
 categories:
@@ -405,4 +405,5 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Oppo K
 <li><a href="https://howto.techidaily.com/why-does-my-vivo-y200e-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y200e 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

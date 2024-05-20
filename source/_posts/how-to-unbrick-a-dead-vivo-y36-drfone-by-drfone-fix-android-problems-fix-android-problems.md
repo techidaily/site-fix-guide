@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Vivo Y36 | Dr.fone
-date: 2024-04-30T14:26:37.619Z
-updated: 2024-05-01T14:26:37.619Z
+date: 2024-05-19T03:59:04.313Z
+updated: 2024-05-20T03:59:04.313Z
 tags: 
   - problems
 categories:
@@ -570,4 +570,5 @@ When nothing works, the last resort you can go with is resetting the Vivo Y36 de
 <li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-100-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor 100? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-audio-editing-essentials-2-ways-to-fade-in-and-out-in-fcp/"><u>2024 Approved Audio Editing Essentials 2 Ways to Fade In and Out in FCP</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Motorola Moto G13 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:34.104Z
-updated: 2024-05-01T14:27:34.104Z
+date: 2024-05-19T03:59:04.976Z
+updated: 2024-05-20T03:59:04.976Z
 tags: 
   - problems
 categories:
@@ -596,4 +596,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://howto.techidaily.com/why-your-zte-blade-a73-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your ZTE Blade A73 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-razr-40-ultra-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Motorola Razr 40 Ultra to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

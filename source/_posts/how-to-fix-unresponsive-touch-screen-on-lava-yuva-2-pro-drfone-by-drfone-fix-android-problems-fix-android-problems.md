@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T14:21:07.409Z
-updated: 2024-05-01T14:21:07.409Z
+date: 2024-05-19T03:58:59.943Z
+updated: 2024-05-20T03:58:59.943Z
 tags: 
   - problems
 categories:
@@ -526,4 +526,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the issue wi
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a14-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A14 4G to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

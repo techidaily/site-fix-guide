@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Xiaomi Redmi 13C 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:10.447Z
-updated: 2024-05-01T14:24:10.447Z
+date: 2024-05-19T03:59:02.486Z
+updated: 2024-05-20T03:59:02.486Z
 tags: 
   - problems
 categories:
@@ -576,4 +576,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-s17twithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo S17twith/without a PC</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-best-10-tools-to-make-quiz-videos-for-2024/"><u>Updated Best 10 Tools To Make Quiz Videos for 2024</u></a></li>
 </ul></div>
+
 

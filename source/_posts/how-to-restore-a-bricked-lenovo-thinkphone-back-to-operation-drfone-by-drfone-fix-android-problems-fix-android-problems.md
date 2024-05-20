@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Lenovo ThinkPhone Back to Operation | Dr.fone
-date: 2024-04-30T14:24:26.709Z
-updated: 2024-05-01T14:24:26.709Z
+date: 2024-05-19T03:59:02.891Z
+updated: 2024-05-20T03:59:02.891Z
 tags: 
   - problems
 categories:
@@ -509,4 +509,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-moto-g24-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Moto G24</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-6-plus-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 6 Plus?</u></a></li>
 </ul></div>
+
 

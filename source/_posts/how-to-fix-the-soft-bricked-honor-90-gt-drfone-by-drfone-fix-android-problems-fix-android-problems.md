@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor 90 GT? | Dr.fone
-date: 2024-04-30T14:18:34.277Z
-updated: 2024-05-01T14:18:34.277Z
+date: 2024-05-19T03:58:58.040Z
+updated: 2024-05-20T03:58:58.040Z
 tags: 
   - problems
 categories:
@@ -441,4 +441,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Pro Phone Password Without Factory Reset?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-x9b-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor X9b</u></a></li>
 </ul></div>
+
 

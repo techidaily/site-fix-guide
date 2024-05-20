@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Phantom V Fold | Dr.fone
-date: 2024-04-30T14:18:21.374Z
-updated: 2024-05-01T14:18:21.374Z
+date: 2024-05-19T03:58:57.912Z
+updated: 2024-05-20T03:58:57.912Z
 tags: 
   - problems
 categories:
@@ -532,4 +532,5 @@ Now that you have decided where to download the apk file, these are the followin
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-x-flip-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo X Flip Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 Pro Max Without Swiping Up? 6 Ways</u></a></li>
 </ul></div>
+
 

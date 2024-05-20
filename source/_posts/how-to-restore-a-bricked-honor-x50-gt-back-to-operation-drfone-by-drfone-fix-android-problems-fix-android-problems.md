@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Honor X50 GT Back to Operation | Dr.fone
-date: 2024-04-30T14:24:18.274Z
-updated: 2024-05-01T14:24:18.274Z
+date: 2024-05-19T03:59:02.825Z
+updated: 2024-05-20T03:59:02.825Z
 tags: 
   - problems
 categories:
@@ -497,4 +497,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-moto-g23-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Moto G23</u></a></li>
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-xiaomi-redmi-note-12r-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Xiaomi Redmi Note 12R to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

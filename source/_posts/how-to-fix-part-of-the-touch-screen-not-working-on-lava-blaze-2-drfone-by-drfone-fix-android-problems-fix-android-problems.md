@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Blaze 2 | Dr.fone
-date: 2024-04-30T14:17:56.902Z
-updated: 2024-05-01T14:17:56.902Z
+date: 2024-05-19T03:58:57.472Z
+updated: 2024-05-20T03:58:57.472Z
 tags: 
   - problems
 categories:
@@ -707,4 +707,5 @@ But among the methods discussed above, Dr.Fone – System Repair just stood out 
 <li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone 6s | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Realme C33 2023 | Dr.fone</u></a></li>
 </ul></div>
+
 

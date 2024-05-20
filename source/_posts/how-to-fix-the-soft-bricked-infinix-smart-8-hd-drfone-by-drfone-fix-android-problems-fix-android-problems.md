@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Infinix Smart 8 HD? | Dr.fone
-date: 2024-04-30T14:18:39.753Z
-updated: 2024-05-01T14:18:39.753Z
+date: 2024-05-19T03:58:58.079Z
+updated: 2024-05-20T03:58:58.079Z
 tags: 
   - problems
 categories:
@@ -459,4 +459,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-5-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic 5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

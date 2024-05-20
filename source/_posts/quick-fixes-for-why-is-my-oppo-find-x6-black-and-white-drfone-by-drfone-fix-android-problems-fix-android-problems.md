@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Oppo Find X6 Black and White | Dr.fone
-date: 2024-04-30T14:32:14.462Z
-updated: 2024-05-01T14:32:14.462Z
+date: 2024-05-19T03:59:08.398Z
+updated: 2024-05-20T03:59:08.398Z
 tags: 
   - problems
 categories:
@@ -728,4 +728,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://howto.techidaily.com/vivo-s17-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

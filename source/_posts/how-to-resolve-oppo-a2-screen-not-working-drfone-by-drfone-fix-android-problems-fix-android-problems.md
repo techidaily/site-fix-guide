@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Oppo A2 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:43.140Z
-updated: 2024-05-01T14:23:43.140Z
+date: 2024-05-19T03:59:02.141Z
+updated: 2024-05-20T03:59:02.141Z
 tags: 
   - problems
 categories:
@@ -499,4 +499,5 @@ The above methods are the best 11 among all the solutions you can get for your P
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100i-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100i Location by Number | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-nokia-c12-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Nokia C12</u></a></li>
 </ul></div>
+
 

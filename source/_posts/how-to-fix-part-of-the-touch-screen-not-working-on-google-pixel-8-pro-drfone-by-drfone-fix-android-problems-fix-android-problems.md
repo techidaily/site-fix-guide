@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Google Pixel 8 Pro | Dr.fone
-date: 2024-04-30T14:17:48.398Z
-updated: 2024-05-01T14:17:48.398Z
+date: 2024-05-19T03:58:57.354Z
+updated: 2024-05-20T03:58:57.354Z
 tags: 
   - problems
 categories:
@@ -601,4 +601,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the issue wi
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 14 Plus</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-nokia-130-music-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Nokia 130 Music Android SIM Unlock APK</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Infinix Note 30? | Dr.fone
-date: 2024-04-30T14:18:38.417Z
-updated: 2024-05-01T14:18:38.417Z
+date: 2024-05-19T03:58:58.070Z
+updated: 2024-05-20T03:58:58.070Z
 tags: 
   - problems
 categories:
@@ -539,4 +539,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-cartoon-fundamentals-how-to-learn-cartoon-characters-sketch-quickly/"><u>New In 2024, Cartoon Fundamentals How to Learn Cartoon Characters Sketch Quickly</u></a></li>
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y56 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

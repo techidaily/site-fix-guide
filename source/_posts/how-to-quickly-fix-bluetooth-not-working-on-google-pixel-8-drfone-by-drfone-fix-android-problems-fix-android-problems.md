@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Google Pixel 8 | Dr.fone
-date: 2024-04-30T14:22:32.578Z
-updated: 2024-05-01T14:22:32.578Z
+date: 2024-05-19T03:59:01.201Z
+updated: 2024-05-20T03:59:01.201Z
 tags: 
   - problems
 categories:
@@ -509,4 +509,5 @@ It is our hope that when faced with this fairly common error, you will not panic
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Sony Xperia 1 V | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-6-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 6 | Dr.fone</u></a></li>
 </ul></div>
+
 

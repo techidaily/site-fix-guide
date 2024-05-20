@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Infinix Smart 8 Black and White | Dr.fone
-date: 2024-04-30T14:32:01.305Z
-updated: 2024-05-01T14:32:01.305Z
+date: 2024-05-19T03:59:08.269Z
+updated: 2024-05-20T03:59:08.269Z
 tags: 
   - problems
 categories:
@@ -578,4 +578,5 @@ By prioritizing user safety and following the step-by-step approach in this guid
 <li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Asus ROG Phone 8 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-twitter-video-aspect-ratio-made-easy-quick-reference-guide/"><u>New 2024 Approved Twitter Video Aspect Ratio Made Easy Quick Reference Guide</u></a></li>
 </ul></div>
+
 

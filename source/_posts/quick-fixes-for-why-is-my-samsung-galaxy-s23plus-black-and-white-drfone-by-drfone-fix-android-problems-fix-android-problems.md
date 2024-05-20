@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy S23+ Black and White | Dr.fone
-date: 2024-04-30T14:32:25.093Z
-updated: 2024-05-01T14:32:25.093Z
+date: 2024-05-19T03:59:08.478Z
+updated: 2024-05-20T03:59:08.478Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-poco-m6-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Poco M6 5G</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-oppo-a38-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Oppo A38</u></a></li>
 </ul></div>
+
 

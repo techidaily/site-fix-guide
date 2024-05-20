@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Lava Blaze Pro 5G | Dr.fone
-date: 2024-04-30T14:21:06.836Z
-updated: 2024-05-01T14:21:06.836Z
+date: 2024-05-19T03:58:59.938Z
+updated: 2024-05-20T03:58:59.938Z
 tags: 
   - problems
 categories:
@@ -612,4 +612,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-xs-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone XS Max After Forgetting my PIN Code?</u></a></li>
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme Narzo 60x 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

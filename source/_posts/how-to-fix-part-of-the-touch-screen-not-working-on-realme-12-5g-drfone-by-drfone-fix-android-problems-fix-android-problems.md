@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme 12 5G | Dr.fone
-date: 2024-04-30T14:18:12.375Z
-updated: 2024-05-01T14:18:12.375Z
+date: 2024-05-19T03:58:57.836Z
+updated: 2024-05-20T03:58:57.836Z
 tags: 
   - problems
 categories:
@@ -607,4 +607,5 @@ Last but certainly not the least, users must avoid downloading large application
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Poco C55 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-6-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 6 | Dr.fone</u></a></li>
 </ul></div>
+
 

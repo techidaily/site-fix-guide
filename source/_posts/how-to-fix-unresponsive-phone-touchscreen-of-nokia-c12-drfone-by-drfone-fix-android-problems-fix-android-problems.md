@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Nokia C12 | Dr.fone
-date: 2024-04-30T14:20:21.936Z
-updated: 2024-05-01T14:20:21.936Z
+date: 2024-05-19T03:58:59.208Z
+updated: 2024-05-20T03:58:59.208Z
 tags: 
   - problems
 categories:
@@ -681,4 +681,5 @@ When following the directions, the user may require more research into some trou
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-create-a-green-screen-video-in-after-effects/"><u>2024 Approved How To Create A Green Screen Video In After Effects</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung Galaxy F54 5G.</u></a></li>
 </ul></div>
+
 

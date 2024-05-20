@@ -1,7 +1,7 @@
 ---
 title: Nokia 130 Music Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:29.315Z
-updated: 2024-05-01T14:28:29.315Z
+date: 2024-05-19T03:59:05.619Z
+updated: 2024-05-20T03:59:05.619Z
 tags: 
   - problems
 categories:
@@ -552,4 +552,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://techidaily.com/undelete-lost-music-from-v30-by-fonelab-android-recover-music/"><u>Undelete lost music from V30</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-poco-c50-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Poco C50 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

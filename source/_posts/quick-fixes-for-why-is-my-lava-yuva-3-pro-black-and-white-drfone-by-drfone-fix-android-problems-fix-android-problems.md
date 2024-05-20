@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Lava Yuva 3 Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:05.439Z
-updated: 2024-05-01T14:32:05.439Z
+date: 2024-05-19T03:59:08.335Z
+updated: 2024-05-20T03:59:08.335Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ Android system recovery mode can be quite useful, especially when your system is
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-oppo-k11x-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Oppo K11x</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/how-to-analyze-an-editorial-cartoon-easily-for-2024/"><u>How to Analyze an Editorial Cartoon Easily for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Poco X5 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:48.427Z
-updated: 2024-05-01T14:23:48.427Z
+date: 2024-05-19T03:59:02.226Z
+updated: 2024-05-20T03:59:02.226Z
 tags: 
   - problems
 categories:
@@ -454,4 +454,5 @@ And, if you’re thinking, “**How do I get a virus off My Poco X5 Pro?**” th
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-seek-to-blur-out-your-video-and-photo-to-display-some-motion-blur-this-article-provides-a-list-of-the-best-motion-blur-apps-for-videos-an/"><u>New In 2024, Do You Seek to Blur Out Your Video and Photo to Display some Motion Blur? This Article Provides a List of the Best Motion Blur Apps for Videos and Photos</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/4-methods-to-crop-a-video-on-android-easily/"><u>4 Methods to Crop a Video on Android Easily</u></a></li>
 </ul></div>
+
 

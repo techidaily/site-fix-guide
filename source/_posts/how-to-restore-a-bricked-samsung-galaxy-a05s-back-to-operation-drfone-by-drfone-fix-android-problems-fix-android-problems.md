@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Samsung Galaxy A05s Back to Operation | Dr.fone
-date: 2024-04-30T14:24:44.539Z
-updated: 2024-05-01T14:24:44.539Z
+date: 2024-05-19T03:59:03.025Z
+updated: 2024-05-20T03:59:03.025Z
 tags: 
   - problems
 categories:
@@ -560,4 +560,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 Pro Max without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
 </ul></div>
+
 

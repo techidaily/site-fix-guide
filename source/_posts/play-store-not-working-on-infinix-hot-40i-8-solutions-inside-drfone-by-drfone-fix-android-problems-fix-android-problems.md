@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Infinix Hot 40i? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:27.212Z
-updated: 2024-05-01T14:29:27.212Z
+date: 2024-05-19T03:59:06.292Z
+updated: 2024-05-20T03:59:06.292Z
 tags: 
   - problems
 categories:
@@ -533,4 +533,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-htc-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on HTC .</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

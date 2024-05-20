@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Google Pixel 7a – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:40.692Z
-updated: 2024-05-01T14:27:40.692Z
+date: 2024-05-19T03:59:05.062Z
+updated: 2024-05-20T03:59:05.062Z
 tags: 
   - problems
 categories:
@@ -550,4 +550,5 @@ When nothing works, the last resort you can go with is resetting the Google Pixe
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo A78 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 7 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

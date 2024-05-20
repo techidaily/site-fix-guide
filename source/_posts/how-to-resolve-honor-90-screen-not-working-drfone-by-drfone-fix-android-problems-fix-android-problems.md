@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor 90 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:24.173Z
-updated: 2024-05-01T14:23:24.173Z
+date: 2024-05-19T03:59:01.908Z
+updated: 2024-05-20T03:59:01.908Z
 tags: 
   - problems
 categories:
@@ -524,4 +524,5 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 <li><a href="https://ai-vdieo-software.techidaily.com/s-top-music-video-makers-elevate-your-sound-with-style/"><u>S Top Music Video Makers Elevate Your Sound with Style</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-play-7t-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor Play 7T to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

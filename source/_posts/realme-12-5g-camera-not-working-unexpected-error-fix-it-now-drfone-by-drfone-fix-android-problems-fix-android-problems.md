@@ -1,7 +1,7 @@
 ---
 title: Realme 12 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:32:43.446Z
-updated: 2024-05-01T14:32:43.446Z
+date: 2024-05-19T03:59:08.638Z
+updated: 2024-05-20T03:59:08.638Z
 tags: 
   - problems
 categories:
@@ -692,4 +692,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-s17-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo S17 Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
 

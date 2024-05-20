@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Infinix Hot 30i | Dr.fone
-date: 2024-04-30T14:26:02.776Z
-updated: 2024-05-01T14:26:02.776Z
+date: 2024-05-19T03:59:03.860Z
+updated: 2024-05-20T03:59:03.860Z
 tags: 
   - problems
 categories:
@@ -595,4 +595,5 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
 <li><a href="https://techidaily.com/how-to-reset-a-meizu-21-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Meizu 21 Pro Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Poco C65 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme 11 Pro+ Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:49.373Z
-updated: 2024-05-01T14:23:49.373Z
+date: 2024-05-19T03:59:02.232Z
+updated: 2024-05-20T03:59:02.232Z
 tags: 
   - problems
 categories:
@@ -433,4 +433,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 7 Plus | Stellar</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy A24</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nokia C02 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:38.013Z
-updated: 2024-05-01T14:23:38.013Z
+date: 2024-05-19T03:59:02.093Z
+updated: 2024-05-20T03:59:02.093Z
 tags: 
   - problems
 categories:
@@ -360,4 +360,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-mix-fold-3-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On OnePlus Ace 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

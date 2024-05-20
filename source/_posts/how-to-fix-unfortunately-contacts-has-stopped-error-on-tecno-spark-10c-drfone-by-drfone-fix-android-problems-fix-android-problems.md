@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 10C | Dr.fone
-date: 2024-04-30T14:19:55.485Z
-updated: 2024-05-01T14:19:55.485Z
+date: 2024-05-19T03:58:58.804Z
+updated: 2024-05-20T03:58:58.804Z
 tags: 
   - problems
 categories:
@@ -584,4 +584,5 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-90-lite-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor 90 Lite | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy M34 | Dr.fone</u></a></li>
 </ul></div>
+
 

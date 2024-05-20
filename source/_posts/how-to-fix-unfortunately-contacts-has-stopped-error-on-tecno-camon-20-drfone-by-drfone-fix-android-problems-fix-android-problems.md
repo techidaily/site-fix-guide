@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Camon 20 | Dr.fone
-date: 2024-04-30T14:19:53.966Z
-updated: 2024-05-01T14:19:53.966Z
+date: 2024-05-19T03:58:58.792Z
+updated: 2024-05-20T03:58:58.792Z
 tags: 
   - problems
 categories:
@@ -570,4 +570,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-smart-8-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Smart 8 to iPhone 14 and 15 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a23-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A23 5G To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

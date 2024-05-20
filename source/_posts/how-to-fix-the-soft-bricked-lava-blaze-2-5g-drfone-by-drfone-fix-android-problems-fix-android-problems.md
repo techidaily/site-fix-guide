@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Lava Blaze 2 5G? | Dr.fone
-date: 2024-04-30T14:18:41.688Z
-updated: 2024-05-01T14:18:41.688Z
+date: 2024-05-19T03:58:58.093Z
+updated: 2024-05-20T03:58:58.093Z
 tags: 
   - problems
 categories:
@@ -587,4 +587,5 @@ By prioritizing user safety and following the step-by-step approach in this guid
 <li><a href="https://ai-editing-video.techidaily.com/powerpoint-supported-video-format-and-user-tips-for-2024/"><u>Powerpoint Supported Video Format and User Tips for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-a-wedding-is-one-of-the-exciting-parts-that-will-happen-in-your-life-its-not-that-easy-to-plan-a-wedding-theres-a-lot-to-be-consider-like-/"><u>New 2024 Approved A Wedding Is One of the Exciting Parts that Will Happen in Your Life. Its Not that Easy to Plan a Wedding, Theres a Lot to Be Consider Like Wedding Dress, Food, Venue, Videographer Etc</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Realme 11 5G? | Dr.fone
-date: 2024-04-30T14:18:57.054Z
-updated: 2024-05-01T14:18:57.054Z
+date: 2024-05-19T03:58:58.206Z
+updated: 2024-05-20T03:58:58.206Z
 tags: 
   - problems
 categories:
@@ -446,4 +446,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-htc-u23-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring HTC U23 Pro? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-13-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 13 with a Broken Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Tecno Spark 10C Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:00.528Z
-updated: 2024-05-01T14:24:00.528Z
+date: 2024-05-19T03:59:02.401Z
+updated: 2024-05-20T03:59:02.401Z
 tags: 
   - problems
 categories:
@@ -457,4 +457,5 @@ To sum up this article, it can be said that issues like ****Tecno Spark 10C not 
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Nokia G22 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>New In 2024, A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
 </ul></div>
+
 

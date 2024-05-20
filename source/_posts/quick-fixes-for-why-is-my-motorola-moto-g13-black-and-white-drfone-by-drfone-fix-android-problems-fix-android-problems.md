@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Motorola Moto G13 Black and White | Dr.fone
-date: 2024-04-30T14:32:07.731Z
-updated: 2024-05-01T14:32:07.731Z
+date: 2024-05-19T03:59:08.348Z
+updated: 2024-05-20T03:59:08.348Z
 tags: 
   - problems
 categories:
@@ -546,4 +546,5 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-combine-multiple-videos-into-one-on-instagram/"><u>Updated How to Combine Multiple Videos Into One on Instagram</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

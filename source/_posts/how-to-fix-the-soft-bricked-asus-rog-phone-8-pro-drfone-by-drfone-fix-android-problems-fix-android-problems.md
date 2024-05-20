@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Asus ROG Phone 8 Pro? | Dr.fone
-date: 2024-04-30T14:18:32.742Z
-updated: 2024-05-01T14:18:32.742Z
+date: 2024-05-19T03:58:58.019Z
+updated: 2024-05-20T03:58:58.019Z
 tags: 
   - problems
 categories:
@@ -501,4 +501,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y100-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y100 5G Pattern Lock Screen</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-how-to-make-your-characters-interactive-in-unity-animation-rigging-for-2024/"><u>Updated How to Make Your Characters Interactive in Unity Animation Rigging for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Motorola G54 5G | Dr.fone
-date: 2024-04-30T14:21:09.415Z
-updated: 2024-05-01T14:21:09.415Z
+date: 2024-05-19T03:58:59.958Z
+updated: 2024-05-20T03:58:59.958Z
 tags: 
   - problems
 categories:
@@ -544,4 +544,5 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-asus-rog-phone-7-ultimate-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Asus ROG Phone 7 Ultimate to iPhone (13/14/15) | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-ai-voice-wondershare-virbo-glossary/"><u>2024 Approved What Is AI Voice? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
+
 

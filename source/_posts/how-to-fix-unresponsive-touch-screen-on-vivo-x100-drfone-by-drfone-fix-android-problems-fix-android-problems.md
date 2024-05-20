@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo X100 | Dr.fone
-date: 2024-04-30T14:21:37.765Z
-updated: 2024-05-01T14:21:37.765Z
+date: 2024-05-19T03:59:00.295Z
+updated: 2024-05-20T03:59:00.295Z
 tags: 
   - problems
 categories:
@@ -627,4 +627,5 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-lenovo-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Lenovo Phones</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a25-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A25 5G Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Smart 8 Plus Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:30.376Z
-updated: 2024-05-01T14:23:30.376Z
+date: 2024-05-19T03:59:01.968Z
+updated: 2024-05-20T03:59:01.968Z
 tags: 
   - problems
 categories:
@@ -505,4 +505,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://ai-video-apps.techidaily.com/the-article-below-will-show-you-some-of-the-best-apps-to-convert-a-video-to-a-live-photo-and-how-to-set-up-live-photos-as-wallpaper-on-iphone-for-2024/"><u>The Article Below Will Show You some of the Best Apps to Convert a Video to a Live Photo, and How to Set up Live Photos as Wallpaper on iPhone for 2024</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

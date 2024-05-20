@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y100A | Dr.fone
-date: 2024-04-30T14:18:26.717Z
-updated: 2024-05-01T14:18:26.717Z
+date: 2024-05-19T03:58:57.968Z
+updated: 2024-05-20T03:58:57.968Z
 tags: 
   - problems
 categories:
@@ -752,4 +752,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone 15 Pro</u></a></li>
 </ul></div>
+
 

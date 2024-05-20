@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Motorola Edge 2023 | Dr.fone
-date: 2024-04-30T14:21:08.553Z
-updated: 2024-05-01T14:21:08.553Z
+date: 2024-05-19T03:58:59.953Z
+updated: 2024-05-20T03:58:59.953Z
 tags: 
   - problems
 categories:
@@ -587,4 +587,5 @@ Lastly, you can still refer to Motorola Edge 2023 for repairs. It remains the pr
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-vip-racing-edition-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30 VIP Racing Edition to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo K11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

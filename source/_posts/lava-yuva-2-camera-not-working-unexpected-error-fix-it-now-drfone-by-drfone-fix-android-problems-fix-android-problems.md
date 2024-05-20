@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 2 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:27:19.164Z
-updated: 2024-05-01T14:27:19.164Z
+date: 2024-05-19T03:59:04.836Z
+updated: 2024-05-20T03:59:04.836Z
 tags: 
   - problems
 categories:
@@ -620,4 +620,5 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 <li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-c50-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco C50 Bricked Devices | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-best-12-2d-animation-studios-all-should-check-out/"><u>Updated Best 12 2D Animation Studios All Should Check Out</u></a></li>
 </ul></div>
+
 

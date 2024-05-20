@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Motorola Moto G73 5G | Dr.fone
-date: 2024-04-30T14:21:10.968Z
-updated: 2024-05-01T14:21:10.968Z
+date: 2024-05-19T03:58:59.970Z
+updated: 2024-05-20T03:58:59.970Z
 tags: 
   - problems
 categories:
@@ -533,4 +533,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo X Flip | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-add-effects-in-premiere-pro/"><u>2024 Approved How to Add Effects in Premiere Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Honor X50 | Dr.fone
-date: 2024-04-30T14:20:12.233Z
-updated: 2024-05-01T14:20:12.233Z
+date: 2024-05-19T03:58:59.035Z
+updated: 2024-05-20T03:58:59.035Z
 tags: 
   - problems
 categories:
@@ -562,4 +562,5 @@ Now that you have decided where to download the apk file, these are the followin
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-narzo-n53-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme Narzo N53 Phone?</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-x50i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor X50i | Dr.fone</u></a></li>
 </ul></div>
+
 

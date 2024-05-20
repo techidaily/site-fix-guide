@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Honor X50i+ Black and White | Dr.fone
-date: 2024-04-30T14:31:58.607Z
-updated: 2024-05-01T14:31:58.607Z
+date: 2024-05-19T03:59:08.250Z
+updated: 2024-05-20T03:59:08.250Z
 tags: 
   - problems
 categories:
@@ -673,4 +673,5 @@ Doing all the recommended methods above usually solves the case. If the differen
 <li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-poco-c65-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Poco C65</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-poco-x6-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Poco X6 Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

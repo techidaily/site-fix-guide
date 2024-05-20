@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Infinix Smart 8 HD? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:14.200Z
-updated: 2024-05-01T14:30:14.200Z
+date: 2024-05-19T03:59:06.829Z
+updated: 2024-05-20T03:59:06.829Z
 tags: 
   - problems
 categories:
@@ -544,4 +544,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://ai-editing-video.techidaily.com/7-best-green-screen-software-for-beginners-on-mac-for-2024/"><u>7 Best Green Screen Software for Beginners on Mac for 2024</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-tecno-camon-20-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

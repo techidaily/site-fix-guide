@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Poco X5 Pro | Dr.fone
-date: 2024-04-30T14:26:22.118Z
-updated: 2024-05-01T14:26:22.118Z
+date: 2024-05-19T03:59:04.079Z
+updated: 2024-05-20T03:59:04.079Z
 tags: 
   - problems
 categories:
@@ -558,4 +558,5 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 Ultra to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

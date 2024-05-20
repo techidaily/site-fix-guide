@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Realme 11X 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:18.207Z
-updated: 2024-05-01T14:32:18.207Z
+date: 2024-05-19T03:59:08.427Z
+updated: 2024-05-20T03:59:08.427Z
 tags: 
   - problems
 categories:
@@ -616,4 +616,5 @@ Doing all the recommended methods above usually solves the case. If the differen
 <li><a href="https://techidaily.com/undelete-lost-music-from-nokia-g42-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Nokia G42 5G</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-infinix-note-30-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Infinix Note 30 5GMirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

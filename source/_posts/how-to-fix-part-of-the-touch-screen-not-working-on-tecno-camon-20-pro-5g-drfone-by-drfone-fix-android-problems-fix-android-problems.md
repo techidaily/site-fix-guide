@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Camon 20 Pro 5G | Dr.fone
-date: 2024-04-30T14:18:20.799Z
-updated: 2024-05-01T14:18:20.799Z
+date: 2024-05-19T03:58:57.908Z
+updated: 2024-05-20T03:58:57.908Z
 tags: 
   - problems
 categories:
@@ -666,4 +666,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-k11x-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo K11x in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713954066007-new-in-2024-change-speed-of-a-video-on-iphone/"><u>New In 2024, | Change Speed of a Video on iPhone</u></a></li>
 </ul></div>
+
 

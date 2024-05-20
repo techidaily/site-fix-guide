@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Itel A60s Black and White | Dr.fone
-date: 2024-04-30T14:32:02.386Z
-updated: 2024-05-01T14:32:02.386Z
+date: 2024-05-19T03:59:08.312Z
+updated: 2024-05-20T03:59:08.312Z
 tags: 
   - problems
 categories:
@@ -604,4 +604,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor X9b | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor X50i | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Itel P55 Black and White | Dr.fone
-date: 2024-04-30T14:32:03.154Z
-updated: 2024-05-01T14:32:03.154Z
+date: 2024-05-19T03:59:08.318Z
+updated: 2024-05-20T03:59:08.318Z
 tags: 
   - problems
 categories:
@@ -567,4 +567,5 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-a24-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy A24 Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-se-2020-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone SE (2020) 3 Ways To Unlock</u></a></li>
 </ul></div>
+
 

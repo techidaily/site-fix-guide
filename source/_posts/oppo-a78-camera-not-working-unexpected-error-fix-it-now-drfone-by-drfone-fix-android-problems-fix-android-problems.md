@@ -1,7 +1,7 @@
 ---
 title: Oppo A78 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:29:02.403Z
-updated: 2024-05-01T14:29:02.403Z
+date: 2024-05-19T03:59:06.047Z
+updated: 2024-05-20T03:59:06.047Z
 tags: 
   - problems
 categories:
@@ -515,4 +515,5 @@ Last but certainly not the least, users must avoid downloading large application
 <li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-y17s-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo Y17s Device SIM</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Xiaomi Civi 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Tecno Camon 30 Pro 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:27.236Z
-updated: 2024-05-01T14:32:27.236Z
+date: 2024-05-19T03:59:08.495Z
+updated: 2024-05-20T03:59:08.495Z
 tags: 
   - problems
 categories:
@@ -488,4 +488,5 @@ Now that you have decided where to download the apk file, these are the followin
 <li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-a25-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy A25 5G? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-nokia-c02-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia C02 Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

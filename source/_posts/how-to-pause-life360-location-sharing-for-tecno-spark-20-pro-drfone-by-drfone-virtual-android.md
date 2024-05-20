@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Tecno Spark 20 Pro | Dr.fone
-date: 2024-04-30T14:16:54.189Z
-updated: 2024-05-01T14:16:54.189Z
+date: 2024-05-19T03:58:55.535Z
+updated: 2024-05-20T03:58:55.535Z
 tags: 
   - virtual location change
   - social app
@@ -426,4 +426,5 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor Play 7T? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-v29-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo V29 to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

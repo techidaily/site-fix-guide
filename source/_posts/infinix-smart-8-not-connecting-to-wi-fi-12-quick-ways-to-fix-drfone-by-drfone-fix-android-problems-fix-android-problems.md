@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 8 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-04-30T14:26:58.606Z
-updated: 2024-05-01T14:26:58.606Z
+date: 2024-05-19T03:59:04.579Z
+updated: 2024-05-20T03:59:04.579Z
 tags: 
   - problems
 categories:
@@ -638,4 +638,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://phone-solutions.techidaily.com/does-galaxy-s24-ultra-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Galaxy S24 Ultra has native MOV support?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 14 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
+
 

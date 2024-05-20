@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Poco C55 | Dr.fone
-date: 2024-04-30T14:18:10.069Z
-updated: 2024-05-01T14:18:10.069Z
+date: 2024-05-19T03:58:57.784Z
+updated: 2024-05-20T03:58:57.784Z
 tags: 
   - problems
 categories:
@@ -618,4 +618,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-redmi-13c-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi Redmi 13C 5G Unresponsive Screen | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-lava-yuva-2-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Lava Yuva 2 Pro FRP?</u></a></li>
 </ul></div>
+
 

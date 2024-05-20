@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Realme 11 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:17.638Z
-updated: 2024-05-01T14:32:17.639Z
+date: 2024-05-19T03:59:08.420Z
+updated: 2024-05-20T03:59:08.420Z
 tags: 
   - problems
 categories:
@@ -468,4 +468,5 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Realme
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Poco M6 5G? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-motorola-edge-40-neo-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Motorola Edge 40 Neo? | Dr.fone</u></a></li>
 </ul></div>
+
 

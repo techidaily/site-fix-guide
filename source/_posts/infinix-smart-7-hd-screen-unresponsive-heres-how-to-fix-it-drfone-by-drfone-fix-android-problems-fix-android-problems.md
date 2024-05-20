@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 7 HD Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:26:56.510Z
-updated: 2024-05-01T14:26:56.510Z
+date: 2024-05-19T03:59:04.566Z
+updated: 2024-05-20T03:59:04.566Z
 tags: 
   - problems
 categories:
@@ -455,4 +455,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-a-detailed-and-trustworthy-review-of-murfai-ai-text-to-speech-tool/"><u>Updated In 2024, A Detailed and Trustworthy Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-12-pro-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone 12 Pro and iPad?</u></a></li>
 </ul></div>
+
 

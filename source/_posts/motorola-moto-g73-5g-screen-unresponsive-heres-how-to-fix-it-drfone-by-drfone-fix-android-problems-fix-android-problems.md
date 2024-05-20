@@ -1,7 +1,7 @@
 ---
 title: Motorola Moto G73 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:37.961Z
-updated: 2024-05-01T14:27:37.961Z
+date: 2024-05-19T03:59:05.041Z
+updated: 2024-05-20T03:59:05.041Z
 tags: 
   - problems
 categories:
@@ -410,4 +410,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oneplus-11r-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your OnePlus 11R FRP Locks</u></a></li>
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor 70 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

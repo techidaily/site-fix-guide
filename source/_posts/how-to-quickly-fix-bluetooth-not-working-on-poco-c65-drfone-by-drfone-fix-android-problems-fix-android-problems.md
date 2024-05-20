@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Poco C65 | Dr.fone
-date: 2024-04-30T14:22:56.446Z
-updated: 2024-05-01T14:22:56.446Z
+date: 2024-05-19T03:59:01.553Z
+updated: 2024-05-20T03:59:01.553Z
 tags: 
   - problems
 categories:
@@ -513,4 +513,5 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A56s 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 8/iPad? | Dr.fone</u></a></li>
 </ul></div>
+
 

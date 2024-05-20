@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Lava Blaze 2 | Dr.fone
-date: 2024-04-30T14:19:30.000Z
-updated: 2024-05-01T14:19:30.000Z
+date: 2024-05-19T03:58:58.564Z
+updated: 2024-05-20T03:58:58.564Z
 tags: 
   - problems
 categories:
@@ -422,4 +422,5 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Lava B
 <li><a href="https://ai-vdieo-software.techidaily.com/mastering-mobile-video-tips-for-vertical-aspect-ratio-on-smartphones/"><u>Mastering Mobile Video Tips for Vertical Aspect Ratio on Smartphones</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-what-make-aesthetic-cartoon-drawing-more-understandable/"><u>New What Make Aesthetic Cartoon Drawing More Understandable</u></a></li>
 </ul></div>
+
 

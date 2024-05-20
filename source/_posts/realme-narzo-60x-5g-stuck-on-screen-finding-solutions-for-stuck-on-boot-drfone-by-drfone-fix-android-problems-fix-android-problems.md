@@ -1,7 +1,7 @@
 ---
 title: Realme Narzo 60x 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:32:57.652Z
-updated: 2024-05-01T14:32:57.652Z
+date: 2024-05-19T03:59:08.761Z
+updated: 2024-05-20T03:59:08.761Z
 tags: 
   - problems
 categories:
@@ -467,4 +467,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-realme-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Realme</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto E13 | Dr.fone</u></a></li>
 </ul></div>
+
 

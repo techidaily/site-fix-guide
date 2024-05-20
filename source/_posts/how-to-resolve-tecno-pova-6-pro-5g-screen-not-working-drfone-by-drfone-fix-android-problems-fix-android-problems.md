@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Tecno Pova 6 Pro 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:59.855Z
-updated: 2024-05-01T14:23:59.855Z
+date: 2024-05-19T03:59:02.396Z
+updated: 2024-05-20T03:59:02.396Z
 tags: 
   - problems
 categories:
@@ -551,4 +551,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-t2-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo T2 5G Android SIM Unlock APK</u></a></li>
 </ul></div>
+
 

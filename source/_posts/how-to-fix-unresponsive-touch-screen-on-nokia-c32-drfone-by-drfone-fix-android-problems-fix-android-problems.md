@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Nokia C32 | Dr.fone
-date: 2024-04-30T14:21:12.702Z
-updated: 2024-05-01T14:21:12.702Z
+date: 2024-05-19T03:58:59.984Z
+updated: 2024-05-20T03:58:59.984Z
 tags: 
   - problems
 categories:
@@ -520,4 +520,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a25-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A25 5G Phones with/without a PC</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-k11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo K11 5G without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

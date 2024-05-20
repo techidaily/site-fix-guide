@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo X100 Black and White | Dr.fone
-date: 2024-04-30T14:32:31.768Z
-updated: 2024-05-01T14:32:31.768Z
+date: 2024-05-19T03:59:08.527Z
+updated: 2024-05-20T03:59:08.528Z
 tags: 
   - problems
 categories:
@@ -640,4 +640,5 @@ It is our hope that when faced with this fairly common error, you will not panic
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-poco-m6-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Poco M6 5G</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 14 Pro Max</u></a></li>
 </ul></div>
+
 

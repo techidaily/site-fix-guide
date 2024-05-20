@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Lava Storm 5G? | Dr.fone
-date: 2024-04-30T14:18:42.462Z
-updated: 2024-05-01T14:18:42.462Z
+date: 2024-05-19T03:58:58.098Z
+updated: 2024-05-20T03:58:58.098Z
 tags: 
   - problems
 categories:
@@ -430,4 +430,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-15-5-ways-to-get-into-a-locked-apple-iphone-15-by-drfone-ios/"><u>Locked Out of Apple iPhone 15? 5 Ways to get into a Locked Apple iPhone 15</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-14-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From Apple iPhone 14 If Youve Tried Everything</u></a></li>
 </ul></div>
+
 

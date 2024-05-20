@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Google Pixel 8 Pro | Dr.fone
-date: 2024-04-30T14:19:20.188Z
-updated: 2024-05-01T14:19:20.188Z
+date: 2024-05-19T03:58:58.463Z
+updated: 2024-05-20T03:58:58.463Z
 tags: 
   - problems
 categories:
@@ -591,4 +591,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Honor X50i | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-12-animation-video-maker-that-can-triple-your-conversion-rates/"><u>New In 2024, 12 Animation Video Maker That Can Triple Your Conversion Rates</u></a></li>
 </ul></div>
+
 

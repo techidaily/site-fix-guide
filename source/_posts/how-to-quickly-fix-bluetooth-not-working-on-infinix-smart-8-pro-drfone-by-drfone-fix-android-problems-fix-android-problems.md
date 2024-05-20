@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Infinix Smart 8 Pro | Dr.fone
-date: 2024-04-30T14:22:40.293Z
-updated: 2024-05-01T14:22:40.293Z
+date: 2024-05-19T03:59:01.330Z
+updated: 2024-05-20T03:59:01.330Z
 tags: 
   - problems
 categories:
@@ -606,4 +606,5 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a1-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A1 5G Phone FRP Lock</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Moto G34 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

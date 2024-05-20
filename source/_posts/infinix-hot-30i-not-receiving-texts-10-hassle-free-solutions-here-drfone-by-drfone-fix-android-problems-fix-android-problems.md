@@ -1,7 +1,7 @@
 ---
 title: Infinix Hot 30i Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone
-date: 2024-04-30T14:26:48.606Z
-updated: 2024-05-01T14:26:48.606Z
+date: 2024-05-19T03:59:04.491Z
+updated: 2024-05-20T03:59:04.491Z
 tags: 
   - problems
 categories:
@@ -581,4 +581,5 @@ Doing all the recommended methods above usually solves the case. If the differen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-plus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 Plus to Outlook | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-s24-ultra-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy S24 Ultra Phone Pattern Lock</u></a></li>
 </ul></div>
+
 

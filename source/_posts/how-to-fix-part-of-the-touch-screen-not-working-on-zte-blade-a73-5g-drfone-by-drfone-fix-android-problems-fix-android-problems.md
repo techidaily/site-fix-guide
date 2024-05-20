@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on ZTE Blade A73 5G | Dr.fone
-date: 2024-04-30T14:18:32.359Z
-updated: 2024-05-01T14:18:32.359Z
+date: 2024-05-19T03:58:58.016Z
+updated: 2024-05-20T03:58:58.016Z
 tags: 
   - problems
 categories:
@@ -724,4 +724,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://screen-mirror.techidaily.com/best-3-zte-nubia-z60-ultra-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 ZTE Nubia Z60 Ultra Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-se-2020-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone SE (2020) Without Passcode Now | Dr.fone</u></a></li>
 </ul></div>
+
 

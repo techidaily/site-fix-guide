@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor X50 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:26.699Z
-updated: 2024-05-01T14:23:26.699Z
+date: 2024-05-19T03:59:01.939Z
+updated: 2024-05-20T03:59:01.939Z
 tags: 
   - problems
 categories:
@@ -518,4 +518,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-mastering-youtube-to-mp3-conversion-essential-guide/"><u>2024 Approved Mastering YouTube to MP3 Conversion Essential Guide</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oppo-k11x-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Oppo K11x to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

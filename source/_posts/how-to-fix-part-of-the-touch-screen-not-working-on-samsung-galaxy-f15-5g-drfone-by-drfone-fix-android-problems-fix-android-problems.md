@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy F15 5G | Dr.fone
-date: 2024-04-30T14:18:17.308Z
-updated: 2024-05-01T14:18:17.308Z
+date: 2024-05-19T03:58:57.876Z
+updated: 2024-05-20T03:58:57.876Z
 tags: 
   - problems
 categories:
@@ -526,4 +526,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://ai-video-apps.techidaily.com/1714203933270-updated-in-2024-quick-tips-on-recording-voice-over-with-final-cut-pro/"><u>Updated In 2024, Quick Tips on Recording Voice Over with Final Cut Pro</u></a></li>
 <li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your ZTE Axon 40 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 

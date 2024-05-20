@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Hot 30 5G | Dr.fone
-date: 2024-04-30T14:17:52.777Z
-updated: 2024-05-01T14:17:52.777Z
+date: 2024-05-19T03:58:57.425Z
+updated: 2024-05-20T03:58:57.425Z
 tags: 
   - problems
 categories:
@@ -549,4 +549,5 @@ To sum up this article, it can be said that issues like ****Infinix Hot 30 5G no
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor ?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-y36i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo Y36i to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Lava Blaze 2 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:27:14.500Z
-updated: 2024-05-01T14:27:14.500Z
+date: 2024-05-19T03:59:04.788Z
+updated: 2024-05-20T03:59:04.788Z
 tags: 
   - problems
 categories:
@@ -519,4 +519,5 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-15-pro-max-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone 15 Pro Max for Free</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-14-pro-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 14 Pro Max? Learn All 4 Methods</u></a></li>
 </ul></div>
+
 

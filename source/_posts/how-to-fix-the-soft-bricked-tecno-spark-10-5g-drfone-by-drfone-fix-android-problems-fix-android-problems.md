@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Tecno Spark 10 5G? | Dr.fone
-date: 2024-04-30T14:19:06.943Z
-updated: 2024-05-01T14:19:06.943Z
+date: 2024-05-19T03:58:58.280Z
+updated: 2024-05-20T03:58:58.280Z
 tags: 
   - problems
 categories:
@@ -454,4 +454,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s23-ultra-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy S23 Ultra</u></a></li>
 </ul></div>
+
 

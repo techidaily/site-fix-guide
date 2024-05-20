@@ -1,7 +1,7 @@
 ---
 title: Lava Agni 2 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:27:12.201Z
-updated: 2024-05-01T14:27:12.201Z
+date: 2024-05-19T03:59:04.770Z
+updated: 2024-05-20T03:59:04.770Z
 tags: 
   - problems
 categories:
@@ -567,4 +567,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-motorola-edge-40-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Motorola Edge 40 Pro Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-magic-5-lite-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor Magic 5 Lite to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

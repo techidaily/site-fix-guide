@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Infinix Note 30 | Dr.fone
-date: 2024-04-30T14:26:03.536Z
-updated: 2024-05-01T14:26:03.536Z
+date: 2024-05-19T03:59:03.887Z
+updated: 2024-05-20T03:59:03.887Z
 tags: 
   - problems
 categories:
@@ -576,4 +576,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-nubia-z50s-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Nubia Z50S Pro Phone With/Without IMEI Number</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-redmi-a2plus-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Redmi A2+ Device</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: OnePlus Nord N30 SE Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:53.550Z
-updated: 2024-05-01T14:28:53.550Z
+date: 2024-05-19T03:59:05.911Z
+updated: 2024-05-20T03:59:05.911Z
 tags: 
   - problems
 categories:
@@ -464,4 +464,5 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your OnePlu
 <li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo Y27s | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-lip-sync-experience-5-must-try-apps/"><u>Updated 2024 Approved The Ultimate Lip Sync Experience 5 Must-Try Apps</u></a></li>
 </ul></div>
+
 

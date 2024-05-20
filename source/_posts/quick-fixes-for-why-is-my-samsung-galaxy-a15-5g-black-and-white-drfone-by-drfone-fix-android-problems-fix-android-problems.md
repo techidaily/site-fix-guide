@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy A15 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:22.468Z
-updated: 2024-05-01T14:32:22.468Z
+date: 2024-05-19T03:59:08.459Z
+updated: 2024-05-20T03:59:08.459Z
 tags: 
   - problems
 categories:
@@ -687,4 +687,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://ai-video-apps.techidaily.com/new-text-to-speech-made-easy-top-tips-and-tricks-for-mp3-conversion/"><u>New Text to Speech Made Easy Top Tips and Tricks for MP3 Conversion</u></a></li>
 <li><a href="https://review-topics.techidaily.com/identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Identify missing hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
 </ul></div>
+
 

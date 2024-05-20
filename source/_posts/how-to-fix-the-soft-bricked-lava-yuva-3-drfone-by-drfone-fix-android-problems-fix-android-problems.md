@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Lava Yuva 3? | Dr.fone
-date: 2024-04-30T14:18:42.846Z
-updated: 2024-05-01T14:18:42.846Z
+date: 2024-05-19T03:58:58.101Z
+updated: 2024-05-20T03:58:58.101Z
 tags: 
   - problems
 categories:
@@ -421,4 +421,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-create-stunning-time-lapses-top-video-editing-software/"><u>Updated 2024 Approved Create Stunning Time-Lapses Top Video Editing Software</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-g42-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nokia G42 5G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

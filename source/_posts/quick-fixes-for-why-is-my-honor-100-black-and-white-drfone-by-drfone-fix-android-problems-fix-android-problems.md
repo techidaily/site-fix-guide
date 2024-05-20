@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Honor 100 Black and White | Dr.fone
-date: 2024-04-30T14:31:54.727Z
-updated: 2024-05-01T14:31:54.727Z
+date: 2024-05-19T03:59:08.202Z
+updated: 2024-05-20T03:59:08.202Z
 tags: 
   - problems
 categories:
@@ -543,4 +543,5 @@ When following the directions, the user may require more research into some trou
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-xltx-files-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a .xltx files free</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme 12 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

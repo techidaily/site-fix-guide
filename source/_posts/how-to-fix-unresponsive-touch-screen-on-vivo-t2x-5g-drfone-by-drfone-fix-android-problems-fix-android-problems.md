@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo T2x 5G | Dr.fone
-date: 2024-04-30T14:21:35.854Z
-updated: 2024-05-01T14:21:35.854Z
+date: 2024-05-19T03:59:00.280Z
+updated: 2024-05-20T03:59:00.280Z
 tags: 
   - problems
 categories:
@@ -429,4 +429,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://review-topics.techidaily.com/does-xiaomi-redmi-a2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi A2 Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

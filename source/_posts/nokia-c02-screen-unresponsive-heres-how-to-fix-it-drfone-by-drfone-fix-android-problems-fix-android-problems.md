@@ -1,7 +1,7 @@
 ---
 title: Nokia C02 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:30.267Z
-updated: 2024-05-01T14:28:30.267Z
+date: 2024-05-19T03:59:05.671Z
+updated: 2024-05-20T03:59:05.671Z
 tags: 
   - problems
 categories:
@@ -395,4 +395,5 @@ When nothing works, the last resort you can go with is resetting the Nokia C02 d
 <li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-5-solutions-on-how-to-add-emojis-to-iphone/"><u>Updated 2024 Approved Top 5 Solutions on How to Add Emojis to iPhone</u></a></li>
 </ul></div>
+
 

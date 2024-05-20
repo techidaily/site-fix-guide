@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Realme 11 Pro+ | Dr.fone
-date: 2024-04-30T14:20:33.278Z
-updated: 2024-05-01T14:20:33.278Z
+date: 2024-05-19T03:58:59.360Z
+updated: 2024-05-20T03:58:59.360Z
 tags: 
   - problems
 categories:
@@ -573,4 +573,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://animation-videos.techidaily.com/best-15-instant-classics-animated-cartoon-movies/"><u>Best 15 Instant Classics Animated Cartoon Movies</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlock-infinix-smart-7-hd-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Smart 7 HD Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

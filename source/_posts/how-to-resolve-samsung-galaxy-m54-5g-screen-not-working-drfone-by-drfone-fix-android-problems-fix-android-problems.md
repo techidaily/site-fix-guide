@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Samsung Galaxy M54 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:55.814Z
-updated: 2024-05-01T14:23:55.814Z
+date: 2024-05-19T03:59:02.329Z
+updated: 2024-05-20T03:59:02.329Z
 tags: 
   - problems
 categories:
@@ -608,4 +608,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-90-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor 90 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-mdm-on-iphone-12-pro-max-with-ease-via-third-tools-by-drfone-ios-unlock-ios-unlock/"><u>How to Bypass MDM on iPhone 12 Pro Max with Ease Via third Tools?</u></a></li>
 </ul></div>
+
 

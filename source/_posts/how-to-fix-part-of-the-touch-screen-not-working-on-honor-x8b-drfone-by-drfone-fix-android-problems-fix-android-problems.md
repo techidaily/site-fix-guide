@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor X8b | Dr.fone
-date: 2024-04-30T14:17:51.429Z
-updated: 2024-05-01T14:17:51.429Z
+date: 2024-05-19T03:58:57.413Z
+updated: 2024-05-20T03:58:57.413Z
 tags: 
   - problems
 categories:
@@ -705,4 +705,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://techidaily.com/hard-resetting-an-oppo-find-n3-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo Find N3 Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy F34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Mix Fold 3 | Dr.fone
-date: 2024-04-30T14:18:29.409Z
-updated: 2024-05-01T14:18:29.409Z
+date: 2024-05-19T03:58:57.989Z
+updated: 2024-05-20T03:58:57.989Z
 tags: 
   - problems
 categories:
@@ -638,4 +638,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://techidaily.com/how-to-reset-a-motorola-razr-40-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Razr 40 Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-slideshow-mastery-the-best-photo-movie-makers-revealed/"><u>New Slideshow Mastery The Best Photo Movie Makers Revealed</u></a></li>
 </ul></div>
+
 

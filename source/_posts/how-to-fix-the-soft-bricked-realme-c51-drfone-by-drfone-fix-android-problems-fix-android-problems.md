@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Realme C51? | Dr.fone
-date: 2024-04-30T14:18:58.001Z
-updated: 2024-05-01T14:18:58.001Z
+date: 2024-05-19T03:58:58.213Z
+updated: 2024-05-20T03:58:58.213Z
 tags: 
   - problems
 categories:
@@ -543,4 +543,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 12 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Motorola Moto G34 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

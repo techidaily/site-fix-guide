@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y78 5G? | Dr.fone
-date: 2024-04-30T14:19:13.343Z
-updated: 2024-05-01T14:19:13.343Z
+date: 2024-05-19T03:58:58.374Z
+updated: 2024-05-20T03:58:58.374Z
 tags: 
   - problems
 categories:
@@ -446,4 +446,5 @@ While installing Custom ROM can actually be a great way to customize your device
 <li><a href="https://ai-voice-clone.techidaily.com/updated-registration-and-login-virbo-ai-live-stream-for-2024/"><u>Updated Registration and Login | Virbo AI Live Stream for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Huawei P60 | Dr.fone</u></a></li>
 </ul></div>
+
 

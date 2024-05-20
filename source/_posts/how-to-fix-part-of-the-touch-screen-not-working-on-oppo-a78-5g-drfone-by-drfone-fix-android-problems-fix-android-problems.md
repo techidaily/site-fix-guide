@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Oppo A78 5G | Dr.fone
-date: 2024-04-30T14:18:06.829Z
-updated: 2024-05-01T14:18:06.829Z
+date: 2024-05-19T03:58:57.761Z
+updated: 2024-05-20T03:58:57.761Z
 tags: 
   - problems
 categories:
@@ -569,4 +569,5 @@ Now that you have decided where to download the apk file, these are the followin
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-c12-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia C12 Pro Quickly | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-x-flip-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo X Flip Device SIM</u></a></li>
 </ul></div>
+
 

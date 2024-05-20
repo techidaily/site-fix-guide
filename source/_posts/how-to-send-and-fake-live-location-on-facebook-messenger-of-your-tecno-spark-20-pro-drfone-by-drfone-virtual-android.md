@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark 20 Pro | Dr.fone
-date: 2024-04-30T14:16:53.994Z
-updated: 2024-05-01T14:16:53.994Z
+date: 2024-05-19T03:58:55.534Z
+updated: 2024-05-20T03:58:55.534Z
 tags: 
   - virtual location change
   - social app
@@ -528,4 +528,5 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-htc-u23-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your HTC U23 Pro Phone? Unlock It Now</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-se-2020-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone SE (2020) iCloud Activation Lock</u></a></li>
 </ul></div>
+
 

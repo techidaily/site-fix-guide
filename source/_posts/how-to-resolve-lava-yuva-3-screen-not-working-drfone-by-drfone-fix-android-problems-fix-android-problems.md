@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Lava Yuva 3 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:34.740Z
-updated: 2024-05-01T14:23:34.740Z
+date: 2024-05-19T03:59:02.067Z
+updated: 2024-05-20T03:59:02.067Z
 tags: 
   - problems
 categories:
@@ -537,4 +537,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-unlimited-fake-faces-at-your-fingertips-free-online-generators/"><u>2024 Approved Unlimited Fake Faces at Your Fingertips Free Online Generators</u></a></li>
 <li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
 </ul></div>
+
 

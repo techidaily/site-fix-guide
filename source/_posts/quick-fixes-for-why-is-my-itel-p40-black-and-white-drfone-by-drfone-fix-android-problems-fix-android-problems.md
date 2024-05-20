@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Itel P40 Black and White | Dr.fone
-date: 2024-04-30T14:32:02.577Z
-updated: 2024-05-01T14:32:02.577Z
+date: 2024-05-19T03:59:08.313Z
+updated: 2024-05-20T03:59:08.313Z
 tags: 
   - problems
 categories:
@@ -633,4 +633,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-reno-11f-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo Reno 11F 5G to iPhone | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

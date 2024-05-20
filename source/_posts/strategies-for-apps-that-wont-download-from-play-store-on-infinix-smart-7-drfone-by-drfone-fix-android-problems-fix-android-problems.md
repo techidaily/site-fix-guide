@@ -574,3 +574,4 @@ Lastly, you can still refer to Infinix Smart 7 for repairs. It remains the prima
      data-full-width-responsive="true"></ins>
 
 
+

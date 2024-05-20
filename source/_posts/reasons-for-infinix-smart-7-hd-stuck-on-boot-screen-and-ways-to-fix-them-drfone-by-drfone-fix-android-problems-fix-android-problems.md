@@ -1,7 +1,7 @@
 ---
 title: Reasons for Infinix Smart 7 HD Stuck on Boot Screen and Ways To Fix Them | Dr.fone
-date: 2024-04-30T14:33:15.722Z
-updated: 2024-05-01T14:33:15.722Z
+date: 2024-05-19T03:59:08.924Z
+updated: 2024-05-20T03:59:08.924Z
 tags: 
   - problems
 categories:
@@ -567,4 +567,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-14-plus-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 14 Plus has bad ESN or blacklisted IMEI?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-mix-fold-3-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Mix Fold 3? </u></a></li>
 </ul></div>
+
 

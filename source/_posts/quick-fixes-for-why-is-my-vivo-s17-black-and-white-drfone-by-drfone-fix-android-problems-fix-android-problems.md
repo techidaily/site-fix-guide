@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo S17 Black and White | Dr.fone
-date: 2024-04-30T14:32:29.142Z
-updated: 2024-05-01T14:32:29.142Z
+date: 2024-05-19T03:59:08.509Z
+updated: 2024-05-20T03:59:08.509Z
 tags: 
   - problems
 categories:
@@ -579,4 +579,5 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-20c-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 20C to Outlook | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-progressive-solutions-to-add-vhs-effects-to-video-with-ease-for-2024/"><u>New Progressive Solutions to Add VHS Effects to Video with Ease for 2024</u></a></li>
 </ul></div>
+
 

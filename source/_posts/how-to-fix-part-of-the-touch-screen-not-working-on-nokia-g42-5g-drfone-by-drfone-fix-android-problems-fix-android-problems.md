@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nokia G42 5G | Dr.fone
-date: 2024-04-30T14:18:02.599Z
-updated: 2024-05-01T14:18:02.599Z
+date: 2024-05-19T03:58:57.517Z
+updated: 2024-05-20T03:58:57.517Z
 tags: 
   - problems
 categories:
@@ -592,4 +592,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the issue wi
 <li><a href="https://ai-video-apps.techidaily.com/new-unlock-cinematic-slow-mo-a-free-guide-to-filmora-video-editing/"><u>New Unlock Cinematic Slow Mo A Free Guide to Filmora Video Editing</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

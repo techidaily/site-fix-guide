@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Lava Yuva 3 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:34.550Z
-updated: 2024-05-01T14:23:34.550Z
+date: 2024-05-19T03:59:02.066Z
+updated: 2024-05-20T03:59:02.066Z
 tags: 
   - problems
 categories:
@@ -497,4 +497,5 @@ As a parting reminder, always keep a tool ready for emergencies. For this, choos
 <li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-video-editor-in-2024/"><u>New What Is an AI Video Editor, In 2024</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-poco-m6-pro-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Poco M6 Pro 4G? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
+
 

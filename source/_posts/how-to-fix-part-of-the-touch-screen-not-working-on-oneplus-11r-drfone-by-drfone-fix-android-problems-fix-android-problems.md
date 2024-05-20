@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus 11R | Dr.fone
-date: 2024-04-30T14:18:03.579Z
-updated: 2024-05-01T14:18:03.579Z
+date: 2024-05-19T03:58:57.525Z
+updated: 2024-05-20T03:58:57.525Z
 tags: 
   - problems
 categories:
@@ -692,4 +692,5 @@ And, if you’re thinking, “**How do I get a virus off My OnePlus 11R?**” th
 <li><a href="https://techidaily.com/hard-reset-honor-magic-6-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Magic 6 in 3 Efficient Ways | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

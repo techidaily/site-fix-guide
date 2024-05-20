@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Xiaomi Redmi A2+ Black and White | Dr.fone
-date: 2024-04-30T14:32:36.799Z
-updated: 2024-05-01T14:32:36.799Z
+date: 2024-05-19T03:59:08.588Z
+updated: 2024-05-20T03:59:08.588Z
 tags: 
   - problems
 categories:
@@ -504,4 +504,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a05s-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Itel A05s Bootloader Easily</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-zero-30-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Infinix Zero 30 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

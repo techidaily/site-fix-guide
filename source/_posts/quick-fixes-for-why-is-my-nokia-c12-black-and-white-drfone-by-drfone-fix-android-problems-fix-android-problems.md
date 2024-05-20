@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Nokia C12 Black and White | Dr.fone
-date: 2024-04-30T14:32:09.733Z
-updated: 2024-05-01T14:32:09.733Z
+date: 2024-05-19T03:59:08.363Z
+updated: 2024-05-20T03:59:08.363Z
 tags: 
   - problems
 categories:
@@ -666,4 +666,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-v27-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo V27 Phone When You Forget the Password</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/2024-approved-top-10-best-photo-to-animation-converters/"><u>2024 Approved Top 10 Best Photo to Animation Converters</u></a></li>
 </ul></div>
+
 

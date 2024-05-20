@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Infinix Smart 8 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:22.249Z
-updated: 2024-05-01T14:24:22.249Z
+date: 2024-05-19T03:59:02.853Z
+updated: 2024-05-20T03:59:02.853Z
 tags: 
   - problems
 categories:
@@ -518,4 +518,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xr-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XR to Android? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy F14 5G</u></a></li>
 </ul></div>
+
 

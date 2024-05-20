@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Tecno Camon 20 Black and White | Dr.fone
-date: 2024-04-30T14:32:26.663Z
-updated: 2024-05-01T14:32:26.663Z
+date: 2024-05-19T03:59:08.490Z
+updated: 2024-05-20T03:59:08.490Z
 tags: 
   - problems
 categories:
@@ -604,4 +604,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-adobe-premiere-elements-vs-the-competition-top-10-alternatives/"><u>2024 Approved Adobe Premiere Elements Vs. The Competition Top 10 Alternatives</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-get-noticed-on-instagram-the-importance-of-choosing-the-right-video-dimensions-and-aspect-ratios/"><u>New 2024 Approved Get Noticed on Instagram The Importance of Choosing the Right Video Dimensions and Aspect Ratios</u></a></li>
 </ul></div>
+
 

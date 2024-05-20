@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Tecno Spark 20 Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:01.103Z
-updated: 2024-05-01T14:24:01.103Z
+date: 2024-05-19T03:59:02.405Z
+updated: 2024-05-20T03:59:02.405Z
 tags: 
   - problems
 categories:
@@ -500,4 +500,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-xiaomi-redmi-note-13-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Xiaomi Redmi Note 13 5G? Try These Fixes</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-narzo-60-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme Narzo 60 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo Y200 Black and White | Dr.fone
-date: 2024-04-30T14:32:32.918Z
-updated: 2024-05-01T14:32:32.918Z
+date: 2024-05-19T03:59:08.536Z
+updated: 2024-05-20T03:59:08.536Z
 tags: 
   - problems
 categories:
@@ -639,4 +639,5 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 <li><a href="https://howto.techidaily.com/why-your-motorola-edge-2023-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Edge 2023 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

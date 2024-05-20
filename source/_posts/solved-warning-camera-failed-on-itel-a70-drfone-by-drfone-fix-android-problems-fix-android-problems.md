@@ -419,3 +419,4 @@ Itel A70 Screen unresponsiveness can be a frustrating issue to deal with, but th
      data-full-width-responsive="true"></ins>
 
 
+

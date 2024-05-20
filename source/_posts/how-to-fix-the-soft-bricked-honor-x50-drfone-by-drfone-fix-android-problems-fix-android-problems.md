@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor X50? | Dr.fone
-date: 2024-04-30T14:18:35.800Z
-updated: 2024-05-01T14:18:35.800Z
+date: 2024-05-19T03:58:58.052Z
+updated: 2024-05-20T03:58:58.052Z
 tags: 
   - problems
 categories:
@@ -515,4 +515,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://animation-videos.techidaily.com/how-to-create-animated-clipart-in-powerpoint/"><u>How To Create Animated Clipart in PowerPoint</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-looking-for-efficient-ways-to-create-a-slow-motion-video-read-the-article-for-reliable-solutions-that-provide-excellent-results/"><u>2024 Approved Looking for Efficient Ways to Create a Slow-Motion Video? Read the Article for Reliable Solutions that Provide Excellent Results</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Google Pixel Fold? | Dr.fone
-date: 2024-04-30T14:18:33.319Z
-updated: 2024-05-01T14:18:33.319Z
+date: 2024-05-19T03:58:58.022Z
+updated: 2024-05-20T03:58:58.022Z
 tags: 
   - problems
 categories:
@@ -353,4 +353,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco F5 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For OnePlus Open? | Dr.fone</u></a></li>
 </ul></div>
+
 

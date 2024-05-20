@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Nokia C22 | Dr.fone
-date: 2024-04-30T14:21:12.511Z
-updated: 2024-05-01T14:21:12.511Z
+date: 2024-05-19T03:58:59.982Z
+updated: 2024-05-20T03:58:59.982Z
 tags: 
   - problems
 categories:
@@ -548,4 +548,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Sony Xperia 5 V | Dr.fone</u></a></li>
 </ul></div>
+
 

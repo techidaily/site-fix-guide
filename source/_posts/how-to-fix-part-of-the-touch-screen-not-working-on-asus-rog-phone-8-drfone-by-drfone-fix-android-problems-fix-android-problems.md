@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Asus ROG Phone 8 | Dr.fone
-date: 2024-04-30T14:17:47.811Z
-updated: 2024-05-01T14:17:47.811Z
+date: 2024-05-19T03:58:57.350Z
+updated: 2024-05-20T03:58:57.350Z
 tags: 
   - problems
 categories:
@@ -566,4 +566,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-best-tips-on-how-to-design-travel-slideshow/"><u>In 2024, Best Tips on How to Design Travel Slideshow</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6s Plus 3 Ways To Unlock</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Honor 80 Pro Straight Screen Edition Black and White | Dr.fone
-date: 2024-04-30T14:31:55.295Z
-updated: 2024-05-01T14:31:55.295Z
+date: 2024-05-19T03:59:08.206Z
+updated: 2024-05-20T03:59:08.206Z
 tags: 
   - problems
 categories:
@@ -568,4 +568,5 @@ While installing Custom ROM can actually be a great way to customize your device
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-10-free-and-best-text-to-speech-generators/"><u>In 2024, Best 10 Free and Best Text-to-Speech Generators</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-12-dubbed-anime-websites-to-watch-for-free-for-2024/"><u>New 12 Dubbed Anime Websites to Watch for Free for 2024</u></a></li>
 </ul></div>
+
 

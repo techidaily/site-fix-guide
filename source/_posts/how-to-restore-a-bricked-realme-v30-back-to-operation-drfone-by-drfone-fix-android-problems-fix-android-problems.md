@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Realme V30 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:43.964Z
-updated: 2024-05-01T14:24:43.964Z
+date: 2024-05-19T03:59:03.021Z
+updated: 2024-05-20T03:59:03.021Z
 tags: 
   - problems
 categories:
@@ -524,4 +524,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://ai-video-editing.techidaily.com/here-is-a-complete-overview-of-vsco-video-editor-the-best-photo-editing-app-that-helps-you-adjust-your-pictures-right-after-you-capture-them/"><u>Here Is a Complete Overview of VSCO Video Editor; the Best Photo-Editing App that Helps You Adjust Your Pictures Right After You Capture Them</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-redmi-note-12-5g-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Redmi Note 12 5G</u></a></li>
 </ul></div>
+
 

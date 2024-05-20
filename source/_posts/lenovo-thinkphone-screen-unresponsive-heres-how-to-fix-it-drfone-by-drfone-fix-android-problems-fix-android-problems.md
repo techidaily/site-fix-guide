@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPhone Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:23.304Z
-updated: 2024-05-01T14:27:23.304Z
+date: 2024-05-19T03:59:04.867Z
+updated: 2024-05-20T03:59:04.867Z
 tags: 
   - problems
 categories:
@@ -463,4 +463,5 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-razr-40-ultra-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Razr 40 Ultra.</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-what-is-motion-tracking-and-how-to-use-it/"><u>Updated 2024 Approved What Is Motion Tracking and How to Use It</u></a></li>
 </ul></div>
+
 

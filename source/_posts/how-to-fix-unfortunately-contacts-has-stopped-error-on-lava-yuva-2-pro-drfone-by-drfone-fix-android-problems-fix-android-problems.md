@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T14:19:30.964Z
-updated: 2024-05-01T14:19:30.964Z
+date: 2024-05-19T03:58:58.571Z
+updated: 2024-05-20T03:58:58.571Z
 tags: 
   - problems
 categories:
@@ -529,4 +529,5 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
 <li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y27s | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone SE | Dr.fone</u></a></li>
 </ul></div>
+
 

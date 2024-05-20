@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Motorola Defy 2 | Dr.fone
-date: 2024-04-30T14:21:08.361Z
-updated: 2024-05-01T14:21:08.361Z
+date: 2024-05-19T03:58:59.951Z
+updated: 2024-05-20T03:58:59.951Z
 tags: 
   - problems
 categories:
@@ -587,4 +587,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-y17s-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo Y17s Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-tecno-camon-20-premier-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Tecno Camon 20 Premier 5G without backup.</u></a></li>
 </ul></div>
+
 

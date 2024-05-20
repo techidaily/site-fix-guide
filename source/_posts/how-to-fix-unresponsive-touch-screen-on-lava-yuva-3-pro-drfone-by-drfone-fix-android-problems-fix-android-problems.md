@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Lava Yuva 3 Pro | Dr.fone
-date: 2024-04-30T14:21:07.793Z
-updated: 2024-05-01T14:21:07.793Z
+date: 2024-05-19T03:58:59.947Z
+updated: 2024-05-20T03:58:59.947Z
 tags: 
   - problems
 categories:
@@ -585,4 +585,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-gt-5-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme GT 5 | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 11 | Dr.fone</u></a></li>
 </ul></div>
+
 

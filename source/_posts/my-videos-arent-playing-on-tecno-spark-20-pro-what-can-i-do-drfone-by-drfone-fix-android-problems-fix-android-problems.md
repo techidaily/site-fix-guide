@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Tecno Spark 20 Pro – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:17.665Z
-updated: 2024-05-01T14:28:17.665Z
+date: 2024-05-19T03:59:05.458Z
+updated: 2024-05-20T03:59:05.458Z
 tags: 
   - problems
 categories:
@@ -622,4 +622,5 @@ For users seeking a comprehensive solution, Wondershare Dr.Fone emerges as a ver
 <li><a href="https://ai-video-apps.techidaily.com/new-top-10-animated-photo-makers-easy-and-effortless-for-2024/"><u>New Top 10 Animated Photo Makers Easy and Effortless for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-x9a-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor X9a Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
+
 

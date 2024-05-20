@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Poco M6 Pro 4G Black and White | Dr.fone
-date: 2024-04-30T14:32:16.682Z
-updated: 2024-05-01T14:32:16.682Z
+date: 2024-05-19T03:59:08.414Z
+updated: 2024-05-20T03:59:08.414Z
 tags: 
   - problems
 categories:
@@ -551,4 +551,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://animation-videos.techidaily.com/updated-learn-all-about-3d-logo-animation-and-templates-for-2024/"><u>Updated Learn All About 3D Logo Animation and Templates for 2024</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-spark-10-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Spark 10 Pro Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Google Pixel 8 Pro | Dr.fone
-date: 2024-04-30T14:22:32.772Z
-updated: 2024-05-01T14:22:32.772Z
+date: 2024-05-19T03:59:01.202Z
+updated: 2024-05-20T03:59:01.202Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/best-ideas-on-using-green-screen-with-filmora/"><u>Best Ideas on Using Green Screen with Filmora</u></a></li>
 </ul></div>
+
 

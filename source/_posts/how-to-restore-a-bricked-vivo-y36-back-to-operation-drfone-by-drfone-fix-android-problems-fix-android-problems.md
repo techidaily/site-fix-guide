@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Vivo Y36 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:58.351Z
-updated: 2024-05-01T14:24:58.351Z
+date: 2024-05-19T03:59:03.153Z
+updated: 2024-05-20T03:59:03.153Z
 tags: 
   - problems
 categories:
@@ -552,4 +552,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-review-whats-top-10-software-to-make-ai-upscaling-video/"><u>In 2024, REVIEW Whats Top 10 Software to Make AI Upscaling Video</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Moto G73 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

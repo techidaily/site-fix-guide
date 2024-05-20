@@ -1,7 +1,7 @@
 ---
 title: Motorola Edge 2023 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:26.339Z
-updated: 2024-05-01T14:27:26.339Z
+date: 2024-05-19T03:59:04.890Z
+updated: 2024-05-20T03:59:04.890Z
 tags: 
   - problems
 categories:
@@ -535,4 +535,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-nokia-g42-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Nokia G42 5G</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-8-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 8</u></a></li>
 </ul></div>
+
 

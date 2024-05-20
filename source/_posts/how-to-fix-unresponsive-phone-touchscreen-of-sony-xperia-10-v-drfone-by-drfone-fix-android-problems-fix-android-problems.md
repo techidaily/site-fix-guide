@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T14:20:42.643Z
-updated: 2024-05-01T14:20:42.643Z
+date: 2024-05-19T03:58:59.542Z
+updated: 2024-05-20T03:58:59.542Z
 tags: 
   - problems
 categories:
@@ -632,4 +632,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://ai-vdieo-software.techidaily.com/windows-movie-maker-download-complete-guide-for-2024/"><u>Windows Movie Maker Download Complete Guide for 2024</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/best-live-streaming-platforms-to-engage-audiences-and-increase-viewership-for-2024/"><u>Best Live Streaming Platforms To Engage Audiences and Increase Viewership for 2024</u></a></li>
 </ul></div>
+
 

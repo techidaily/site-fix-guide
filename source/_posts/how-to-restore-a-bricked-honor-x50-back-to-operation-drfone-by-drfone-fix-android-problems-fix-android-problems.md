@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Honor X50 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:18.079Z
-updated: 2024-05-01T14:24:18.079Z
+date: 2024-05-19T03:59:02.823Z
+updated: 2024-05-20T03:59:02.823Z
 tags: 
   - problems
 categories:
@@ -567,4 +567,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-13-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 13?</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/updated-translate-video-from-japanese-to-english-online-for-free/"><u>Updated Translate Video From Japanese to English Online for Free</u></a></li>
 </ul></div>
+
 

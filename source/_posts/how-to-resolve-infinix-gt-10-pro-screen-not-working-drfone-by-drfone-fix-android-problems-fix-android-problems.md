@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix GT 10 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:28.644Z
-updated: 2024-05-01T14:23:28.644Z
+date: 2024-05-19T03:59:01.954Z
+updated: 2024-05-20T03:59:01.954Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-edit-like-a-pro-without-spending-a-dime-top-10-free-open-source-video-editors/"><u>New In 2024, Edit Like a Pro Without Spending a Dime Top 10 Free Open-Source Video Editors</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-customize-powerpoint-slideshow-icon-in-simple-ways/"><u>In 2024, Customize PowerPoint Slideshow Icon in Simple Ways</u></a></li>
 </ul></div>
+
 

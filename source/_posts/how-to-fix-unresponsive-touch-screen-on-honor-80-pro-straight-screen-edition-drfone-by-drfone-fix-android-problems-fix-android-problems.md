@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Honor 80 Pro Straight Screen Edition | Dr.fone
-date: 2024-04-30T14:20:58.663Z
-updated: 2024-05-01T14:20:58.663Z
+date: 2024-05-19T03:58:59.782Z
+updated: 2024-05-20T03:58:59.782Z
 tags: 
   - problems
 categories:
@@ -601,4 +601,5 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 <li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-6-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 6?</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy A24 | Dr.fone</u></a></li>
 </ul></div>
+
 

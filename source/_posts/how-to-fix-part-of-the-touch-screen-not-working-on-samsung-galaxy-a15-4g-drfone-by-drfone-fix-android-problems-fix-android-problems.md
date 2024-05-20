@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A15 4G | Dr.fone
-date: 2024-04-30T14:18:15.849Z
-updated: 2024-05-01T14:18:15.849Z
+date: 2024-05-19T03:58:57.859Z
+updated: 2024-05-20T03:58:57.859Z
 tags: 
   - problems
 categories:
@@ -637,4 +637,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://howto.techidaily.com/why-is-my-motorola-moto-g73-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Motorola Moto G73 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/learn-about-how-you-can-create-a-smooth-speed-ramp-with-premiere-pro-also-find-alternative-software-wondershare-filmora-for-the-same-purpose-with-a-much-eas/"><u>Learn About How You Can Create a Smooth Speed Ramp with Premiere Pro. Also, Find Alternative Software “WonderShare Filmora” For the Same Purpose with a Much Easier User Interface</u></a></li>
 </ul></div>
+
 

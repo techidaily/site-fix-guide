@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor 100 | Dr.fone
-date: 2024-04-30T14:17:48.777Z
-updated: 2024-05-01T14:17:48.777Z
+date: 2024-05-19T03:58:57.357Z
+updated: 2024-05-20T03:58:57.357Z
 tags: 
   - problems
 categories:
@@ -614,4 +614,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-7-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 7 Plus and iPad</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Nokia C32 | Dr.fone</u></a></li>
 </ul></div>
+
 

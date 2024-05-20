@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 8 Plus Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:26:58.985Z
-updated: 2024-05-01T14:26:58.985Z
+date: 2024-05-19T03:59:04.582Z
+updated: 2024-05-20T03:59:04.582Z
 tags: 
   - problems
 categories:
@@ -459,4 +459,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Oppo Reno 11 Pro 5G</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-z-flip-5-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy Z Flip 5 Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 

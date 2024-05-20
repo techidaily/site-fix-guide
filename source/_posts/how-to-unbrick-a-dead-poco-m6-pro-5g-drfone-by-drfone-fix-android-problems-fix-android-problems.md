@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Poco M6 Pro 5G | Dr.fone
-date: 2024-04-30T14:26:21.735Z
-updated: 2024-05-01T14:26:21.735Z
+date: 2024-05-19T03:59:04.064Z
+updated: 2024-05-20T03:59:04.064Z
 tags: 
   - problems
 categories:
@@ -513,4 +513,5 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
 <li><a href="https://change-location.techidaily.com/honor-90-lite-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 90 Lite Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-t2-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo T2 5G to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

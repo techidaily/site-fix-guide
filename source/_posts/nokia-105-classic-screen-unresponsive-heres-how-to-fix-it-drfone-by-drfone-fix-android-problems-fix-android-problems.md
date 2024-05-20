@@ -1,7 +1,7 @@
 ---
 title: Nokia 105 Classic Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:28.028Z
-updated: 2024-05-01T14:28:28.028Z
+date: 2024-05-19T03:59:05.610Z
+updated: 2024-05-20T03:59:05.610Z
 tags: 
   - problems
 categories:
@@ -524,4 +524,5 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Lava Storm 5G | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-a23-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy A23 5G FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

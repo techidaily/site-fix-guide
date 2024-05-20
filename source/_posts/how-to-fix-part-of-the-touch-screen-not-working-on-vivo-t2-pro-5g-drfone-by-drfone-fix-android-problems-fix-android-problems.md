@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo T2 Pro 5G | Dr.fone
-date: 2024-04-30T14:18:24.211Z
-updated: 2024-05-01T14:18:24.211Z
+date: 2024-05-19T03:58:57.944Z
+updated: 2024-05-20T03:58:57.944Z
 tags: 
   - problems
 categories:
@@ -529,4 +529,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://ai-editing-video.techidaily.com/updated-online-video-makers-for-2024/"><u>Updated Online Video Makers for 2024</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-10t-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme 10T 5G PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

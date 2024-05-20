@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme GT 3 | Dr.fone
-date: 2024-04-30T14:21:24.412Z
-updated: 2024-05-01T14:21:24.412Z
+date: 2024-05-19T03:59:00.135Z
+updated: 2024-05-20T03:59:00.135Z
 tags: 
   - problems
 categories:
@@ -487,4 +487,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://ai-editing-video.techidaily.com/new-best-10-crazy-cool-examples-of-ar-video/"><u>New Best 10 Crazy-Cool Examples of AR Video</u></a></li>
 <li><a href="https://review-topics.techidaily.com/motorola-g24-power-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola G24 Power won’t play HEVC H.265 media, how to fix?</u></a></li>
 </ul></div>
+
 

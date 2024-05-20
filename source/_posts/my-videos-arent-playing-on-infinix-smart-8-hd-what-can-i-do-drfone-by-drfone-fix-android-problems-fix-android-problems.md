@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Infinix Smart 8 HD – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:48.636Z
-updated: 2024-05-01T14:27:48.636Z
+date: 2024-05-19T03:59:05.153Z
+updated: 2024-05-20T03:59:05.153Z
 tags: 
   - problems
 categories:
@@ -532,4 +532,5 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 <li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-se-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone SE iCloud Bypass</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-x50-gt-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor X50 GT</u></a></li>
 </ul></div>
+
 

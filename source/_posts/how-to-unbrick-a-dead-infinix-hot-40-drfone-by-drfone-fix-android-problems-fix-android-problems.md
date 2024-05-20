@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Infinix Hot 40 | Dr.fone
-date: 2024-04-30T14:26:02.966Z
-updated: 2024-05-01T14:26:02.966Z
+date: 2024-05-19T03:59:03.862Z
+updated: 2024-05-20T03:59:03.862Z
 tags: 
   - problems
 categories:
@@ -612,4 +612,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Smart 8 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-motorola-g24-power-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Motorola G24 Power to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

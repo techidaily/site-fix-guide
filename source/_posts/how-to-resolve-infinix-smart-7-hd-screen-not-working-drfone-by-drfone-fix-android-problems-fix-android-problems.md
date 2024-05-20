@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Smart 7 HD Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:29.989Z
-updated: 2024-05-01T14:23:29.989Z
+date: 2024-05-19T03:59:01.965Z
+updated: 2024-05-20T03:59:01.965Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 11F 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/passfab-iphone-7-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 7 Backup Unlocker Top 4 Alternatives</u></a></li>
 </ul></div>
+
 

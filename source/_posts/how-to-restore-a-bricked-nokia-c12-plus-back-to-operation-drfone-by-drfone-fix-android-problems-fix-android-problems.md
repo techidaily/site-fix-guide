@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Nokia C12 Plus Back to Operation | Dr.fone
-date: 2024-04-30T14:24:30.366Z
-updated: 2024-05-01T14:24:30.366Z
+date: 2024-05-19T03:59:02.917Z
+updated: 2024-05-20T03:59:02.917Z
 tags: 
   - problems
 categories:
@@ -541,4 +541,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-6s-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 6s Plus Without Passcode Now</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-chromebook-hacks-how-to-install-and-run-linux-for-2024/"><u>Updated Chromebook Hacks How to Install and Run Linux for 2024</u></a></li>
 </ul></div>
+
 

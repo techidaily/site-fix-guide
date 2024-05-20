@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor 90 Lite? | Dr.fone
-date: 2024-04-30T14:18:34.467Z
-updated: 2024-05-01T14:18:34.467Z
+date: 2024-05-19T03:58:58.041Z
+updated: 2024-05-20T03:58:58.041Z
 tags: 
   - problems
 categories:
@@ -428,4 +428,5 @@ Lastly, you can still refer to Honor 90 Lite for repairs. It remains the primary
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-t2x-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo T2x 5G to New Android Phone? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme C53 | Dr.fone</u></a></li>
 </ul></div>
+
 

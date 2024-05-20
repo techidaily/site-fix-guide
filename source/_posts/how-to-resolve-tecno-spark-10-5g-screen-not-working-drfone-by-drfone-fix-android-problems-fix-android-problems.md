@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Tecno Spark 10 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:00.045Z
-updated: 2024-05-01T14:24:00.045Z
+date: 2024-05-19T03:59:02.398Z
+updated: 2024-05-20T03:59:02.398Z
 tags: 
   - problems
 categories:
@@ -527,4 +527,5 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oppo-find-n3-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Oppo Find N3 without App | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Realme C55? | Dr.fone</u></a></li>
 </ul></div>
+
 

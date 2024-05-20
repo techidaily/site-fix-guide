@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nubia Red Magic 9 Pro+ | Dr.fone
-date: 2024-04-30T14:18:03.003Z
-updated: 2024-05-01T14:18:03.003Z
+date: 2024-05-19T03:58:57.520Z
+updated: 2024-05-20T03:58:57.520Z
 tags: 
   - problems
 categories:
@@ -667,4 +667,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-m6-pro-4g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco M6 Pro 4G? Try These Fixes</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-motorola-razr-40-ultra-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Razr 40 Ultra phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

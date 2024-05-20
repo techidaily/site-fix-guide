@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead OnePlus 12 | Dr.fone
-date: 2024-04-30T14:26:15.628Z
-updated: 2024-05-01T14:26:15.628Z
+date: 2024-05-19T03:59:03.991Z
+updated: 2024-05-20T03:59:03.991Z
 tags: 
   - problems
 categories:
@@ -531,4 +531,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-split-a-clip-in-after-effects/"><u>New How to Split a Clip in After Effects</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-note-30-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Note 30 Pro?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Oppo A78 5G? | Dr.fone
-date: 2024-04-30T14:18:52.382Z
-updated: 2024-05-01T14:18:52.382Z
+date: 2024-05-19T03:58:58.173Z
+updated: 2024-05-20T03:58:58.173Z
 tags: 
   - problems
 categories:
@@ -443,4 +443,5 @@ After following these quick and easy suggestions, you would be able to fix the O
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-10-vegas-pro-alternatives-for-mac-video-editing-enthusiasts/"><u>Updated The Ultimate List 10 Vegas Pro Alternatives for Mac Video Editing Enthusiasts</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Spark 20C | Dr.fone</u></a></li>
 </ul></div>
+
 

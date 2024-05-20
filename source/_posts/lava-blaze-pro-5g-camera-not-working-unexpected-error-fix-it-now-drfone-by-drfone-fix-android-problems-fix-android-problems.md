@@ -1,7 +1,7 @@
 ---
 title: Lava Blaze Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:27:17.260Z
-updated: 2024-05-01T14:27:17.260Z
+date: 2024-05-19T03:59:04.809Z
+updated: 2024-05-20T03:59:04.809Z
 tags: 
   - problems
 categories:
@@ -516,4 +516,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y27-4g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y27 4G for Free? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor Magic 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

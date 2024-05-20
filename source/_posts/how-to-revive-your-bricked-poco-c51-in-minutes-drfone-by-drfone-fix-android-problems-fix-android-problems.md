@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Poco C51 in Minutes | Dr.fone
-date: 2024-04-30T14:25:29.976Z
-updated: 2024-05-01T14:25:29.976Z
+date: 2024-05-19T03:59:03.449Z
+updated: 2024-05-20T03:59:03.449Z
 tags: 
   - problems
 categories:
@@ -622,4 +622,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-c53-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme C53 | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-smart-8-hd-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Smart 8 HD Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 

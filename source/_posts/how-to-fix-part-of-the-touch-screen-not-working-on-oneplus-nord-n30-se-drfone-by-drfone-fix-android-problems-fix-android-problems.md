@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus Nord N30 SE | Dr.fone
-date: 2024-04-30T14:18:05.110Z
-updated: 2024-05-01T14:18:05.110Z
+date: 2024-05-19T03:58:57.748Z
+updated: 2024-05-20T03:58:57.748Z
 tags: 
   - problems
 categories:
@@ -605,4 +605,5 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-v30-lite-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo V30 Lite 5G Without PUK Codes</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-11-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme 11 Pro in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

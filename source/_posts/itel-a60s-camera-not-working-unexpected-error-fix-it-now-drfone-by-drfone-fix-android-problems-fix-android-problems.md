@@ -1,7 +1,7 @@
 ---
 title: Itel A60s Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:27:03.268Z
-updated: 2024-05-01T14:27:03.268Z
+date: 2024-05-19T03:59:04.674Z
+updated: 2024-05-20T03:59:04.674Z
 tags: 
   - problems
 categories:
@@ -590,4 +590,5 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-se-2022-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone SE (2022) Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-10c-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark 10C Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

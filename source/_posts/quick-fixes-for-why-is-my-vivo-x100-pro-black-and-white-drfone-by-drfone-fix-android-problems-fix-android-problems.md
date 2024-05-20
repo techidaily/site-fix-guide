@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo X100 Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:31.960Z
-updated: 2024-05-01T14:32:31.960Z
+date: 2024-05-19T03:59:08.529Z
+updated: 2024-05-20T03:59:08.529Z
 tags: 
   - problems
 categories:
@@ -600,4 +600,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-v29e-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo V29e Phone With/Without IMEI Number</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Hot 40i? | Dr.fone</u></a></li>
 </ul></div>
+
 

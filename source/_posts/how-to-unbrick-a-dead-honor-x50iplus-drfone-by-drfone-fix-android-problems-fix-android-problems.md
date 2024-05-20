@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Honor X50i+ | Dr.fone
-date: 2024-04-30T14:26:01.236Z
-updated: 2024-05-01T14:26:01.236Z
+date: 2024-05-19T03:59:03.849Z
+updated: 2024-05-20T03:59:03.849Z
 tags: 
   - problems
 categories:
@@ -602,4 +602,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-odt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature field to a .odt file</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-htc-u23-pro-by-fonelab-android-recover-messages/"><u>How to recover old messages from your HTC U23 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Infinix Hot 40? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:27.024Z
-updated: 2024-05-01T14:29:27.024Z
+date: 2024-05-19T03:59:06.290Z
+updated: 2024-05-20T03:59:06.290Z
 tags: 
   - problems
 categories:
@@ -550,4 +550,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-x-flip-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo X Flip Phones? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/in-2024-voice-translation-english-to-bangla-online-and-offline-apps/"><u>In 2024, Voice Translation English to Bangla Online and Offline Apps</u></a></li>
 </ul></div>
+
 

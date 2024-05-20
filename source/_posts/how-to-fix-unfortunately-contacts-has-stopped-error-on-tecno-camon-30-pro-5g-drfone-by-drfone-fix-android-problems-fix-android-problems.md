@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Camon 30 Pro 5G | Dr.fone
-date: 2024-04-30T14:19:54.536Z
-updated: 2024-05-01T14:19:54.536Z
+date: 2024-05-19T03:58:58.796Z
+updated: 2024-05-20T03:58:58.796Z
 tags: 
   - problems
 categories:
@@ -516,4 +516,5 @@ And, if you’re thinking, “**How do I get a virus off My Tecno Camon 30 Pro 5
 <li><a href="https://animation-videos.techidaily.com/updated-12plus-stunning-instagram-gif-stickers-and-how-to-make-and-find/"><u>Updated 12+ Stunning Instagram GIF Stickers and How to Make & Find</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme GT 5 (240W)? | Dr.fone</u></a></li>
 </ul></div>
+
 

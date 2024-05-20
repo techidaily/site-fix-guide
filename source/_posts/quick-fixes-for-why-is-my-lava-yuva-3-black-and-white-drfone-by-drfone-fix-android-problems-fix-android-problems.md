@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Lava Yuva 3 Black and White | Dr.fone
-date: 2024-04-30T14:32:05.248Z
-updated: 2024-05-01T14:32:05.248Z
+date: 2024-05-19T03:59:08.334Z
+updated: 2024-05-20T03:59:08.334Z
 tags: 
   - problems
 categories:
@@ -585,4 +585,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-poco-c51-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Poco C51 without App | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-realme-v30-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Realme V30 to Enjoy More Fun | Dr.fone</u></a></li>
 </ul></div>
+
 

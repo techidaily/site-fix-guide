@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 2 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:27:20.492Z
-updated: 2024-05-01T14:27:20.492Z
+date: 2024-05-19T03:59:04.846Z
+updated: 2024-05-20T03:59:04.846Z
 tags: 
   - problems
 categories:
@@ -567,4 +567,5 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-everything-that-you-need-to-know-about-video-montages-ideas-techniqu/"><u>New 2024 Approved Everything That You Need to Know About Video Montages- Ideas, Techniqu</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-6s-plus-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 6s Plus</u></a></li>
 </ul></div>
+
 

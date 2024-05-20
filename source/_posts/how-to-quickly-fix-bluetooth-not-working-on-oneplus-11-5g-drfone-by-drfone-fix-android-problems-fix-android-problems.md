@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on OnePlus 11 5G | Dr.fone
-date: 2024-04-30T14:22:50.111Z
-updated: 2024-05-01T14:22:50.111Z
+date: 2024-05-19T03:59:01.458Z
+updated: 2024-05-20T03:59:01.458Z
 tags: 
   - problems
 categories:
@@ -507,4 +507,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-13-mini-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 13 mini Lock Screen</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y78t? | Dr.fone
-date: 2024-04-30T14:19:13.728Z
-updated: 2024-05-01T14:19:13.728Z
+date: 2024-05-19T03:58:58.377Z
+updated: 2024-05-20T03:58:58.377Z
 tags: 
   - problems
 categories:
@@ -467,4 +467,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-infinix-note-30-devices-by-drfone-android/"><u>How to Reset Gmail Password on Infinix Note 30 Devices</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/chromecast-without-limits-how-to-stream-uncompatible-video-formats-for-2024/"><u>Chromecast Without Limits How to Stream Uncompatible Video Formats for 2024</u></a></li>
 </ul></div>
+
 

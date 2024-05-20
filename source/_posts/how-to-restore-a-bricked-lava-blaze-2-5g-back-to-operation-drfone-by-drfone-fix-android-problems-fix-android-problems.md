@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Lava Blaze 2 5G Back to Operation | Dr.fone
-date: 2024-04-30T14:24:25.344Z
-updated: 2024-05-01T14:24:25.344Z
+date: 2024-05-19T03:59:02.882Z
+updated: 2024-05-20T03:59:02.882Z
 tags: 
   - problems
 categories:
@@ -536,4 +536,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://howto.techidaily.com/why-your-itel-p55-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Itel P55 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-magic5-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Magic5 Ultimate | Dr.fone</u></a></li>
 </ul></div>
+
 

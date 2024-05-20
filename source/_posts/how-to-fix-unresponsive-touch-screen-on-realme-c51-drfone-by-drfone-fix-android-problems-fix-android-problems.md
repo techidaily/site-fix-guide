@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme C51 | Dr.fone
-date: 2024-04-30T14:21:23.413Z
-updated: 2024-05-01T14:21:23.413Z
+date: 2024-05-19T03:59:00.127Z
+updated: 2024-05-20T03:59:00.127Z
 tags: 
   - problems
 categories:
@@ -553,4 +553,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo FRP Without Computer</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock ZTE Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

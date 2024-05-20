@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Xiaomi 13T | Dr.fone
-date: 2024-04-30T14:21:40.446Z
-updated: 2024-05-01T14:21:40.446Z
+date: 2024-05-19T03:59:00.317Z
+updated: 2024-05-20T03:59:00.317Z
 tags: 
   - problems
 categories:
@@ -630,4 +630,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/oneplus-12r-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>OnePlus 12R ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
+
 

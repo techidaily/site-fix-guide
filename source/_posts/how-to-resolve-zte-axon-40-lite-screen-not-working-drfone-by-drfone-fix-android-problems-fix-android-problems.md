@@ -1,7 +1,7 @@
 ---
 title: How to Resolve ZTE Axon 40 Lite Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:12.584Z
-updated: 2024-05-01T14:24:12.584Z
+date: 2024-05-19T03:59:02.503Z
+updated: 2024-05-20T03:59:02.503Z
 tags: 
   - problems
 categories:
@@ -461,4 +461,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-pova-5-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Pova 5 Pro</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-11-pro-max-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 11 Pro Max</u></a></li>
 </ul></div>
+
 

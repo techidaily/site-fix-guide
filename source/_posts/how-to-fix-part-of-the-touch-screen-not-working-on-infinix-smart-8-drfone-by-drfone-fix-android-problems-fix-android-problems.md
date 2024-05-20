@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Smart 8 | Dr.fone
-date: 2024-04-30T14:17:54.061Z
-updated: 2024-05-01T14:17:54.061Z
+date: 2024-05-19T03:58:57.434Z
+updated: 2024-05-20T03:58:57.434Z
 tags: 
   - problems
 categories:
@@ -680,4 +680,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-a15-4g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy A15 4G Phone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-f14-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy F14 5G Phones with/without a PC</u></a></li>
 </ul></div>
+
 

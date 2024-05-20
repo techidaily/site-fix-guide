@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Smart 8 HD | Dr.fone
-date: 2024-04-30T14:17:54.249Z
-updated: 2024-05-01T14:17:54.249Z
+date: 2024-05-19T03:58:57.435Z
+updated: 2024-05-20T03:58:57.435Z
 tags: 
   - problems
 categories:
@@ -471,4 +471,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nubia-red-magic-8s-proplus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nubia Red Magic 8S Pro+ to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-unlocking-video-editing-potential-on-mac-yosemite-for-2024/"><u>Updated Unlocking Video Editing Potential on Mac Yosemite for 2024</u></a></li>
 </ul></div>
+
 

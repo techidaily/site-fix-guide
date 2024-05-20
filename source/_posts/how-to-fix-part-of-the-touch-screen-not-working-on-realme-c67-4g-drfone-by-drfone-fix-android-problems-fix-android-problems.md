@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme C67 4G | Dr.fone
-date: 2024-04-30T14:18:13.353Z
-updated: 2024-05-01T14:18:13.353Z
+date: 2024-05-19T03:58:57.842Z
+updated: 2024-05-20T03:58:57.842Z
 tags: 
   - problems
 categories:
@@ -619,4 +619,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-add-background-to-video-withwithout-a-green-screen/"><u>Updated In 2024, Add Background to Video With/Without a Green Screen</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-f15-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy F15 5G to Enjoy More Fun | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Infinix Hot 40 Pro? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:12.819Z
-updated: 2024-05-01T14:30:12.819Z
+date: 2024-05-19T03:59:06.818Z
+updated: 2024-05-20T03:59:06.818Z
 tags: 
   - problems
 categories:
@@ -537,4 +537,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-oneplus-nord-3-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the OnePlus Nord 3 5G password or pattern lock</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-v27-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo V27 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

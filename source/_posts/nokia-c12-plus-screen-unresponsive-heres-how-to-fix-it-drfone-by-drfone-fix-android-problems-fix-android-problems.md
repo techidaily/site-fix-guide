@@ -1,7 +1,7 @@
 ---
 title: Nokia C12 Plus Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:32.113Z
-updated: 2024-05-01T14:28:32.113Z
+date: 2024-05-19T03:59:05.683Z
+updated: 2024-05-20T03:59:05.683Z
 tags: 
   - problems
 categories:
@@ -526,4 +526,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Poco C51 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-14-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 14 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

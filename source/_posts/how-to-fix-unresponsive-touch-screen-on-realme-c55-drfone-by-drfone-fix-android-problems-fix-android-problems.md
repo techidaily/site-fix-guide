@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme C55 | Dr.fone
-date: 2024-04-30T14:21:23.829Z
-updated: 2024-05-01T14:21:23.829Z
+date: 2024-05-19T03:59:00.130Z
+updated: 2024-05-20T03:59:00.130Z
 tags: 
   - problems
 categories:
@@ -508,4 +508,5 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 <li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-lava-blaze-curve-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Lava Blaze Curve 5G without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-f34-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy F34 5G FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 

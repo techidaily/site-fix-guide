@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 2 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:27:20.870Z
-updated: 2024-05-01T14:27:20.870Z
+date: 2024-05-19T03:59:04.849Z
+updated: 2024-05-20T03:59:04.849Z
 tags: 
   - problems
 categories:
@@ -559,4 +559,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-create-ai-avatar-video/"><u>Updated In 2024, Create AI Avatar Video</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-pro-tips-for-creating-convincing-motion-blur-in-final-cut-pro/"><u>In 2024, Pro Tips for Creating Convincing Motion Blur in Final Cut Pro</u></a></li>
 </ul></div>
+
 

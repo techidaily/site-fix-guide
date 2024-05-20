@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 3 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone
-date: 2024-04-30T14:27:21.061Z
-updated: 2024-05-01T14:27:21.061Z
+date: 2024-05-19T03:59:04.851Z
+updated: 2024-05-20T03:59:04.851Z
 tags: 
   - problems
 categories:
@@ -640,4 +640,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g14-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G14 to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo T2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

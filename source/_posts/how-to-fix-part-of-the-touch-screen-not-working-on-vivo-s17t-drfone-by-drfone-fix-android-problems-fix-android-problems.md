@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo S17t | Dr.fone
-date: 2024-04-30T14:18:23.825Z
-updated: 2024-05-01T14:18:23.825Z
+date: 2024-05-19T03:58:57.926Z
+updated: 2024-05-20T03:58:57.926Z
 tags: 
   - problems
 categories:
@@ -504,4 +504,5 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 <li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy M34? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-infinix-hot-40-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Infinix Hot 40 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
 </ul></div>
+
 

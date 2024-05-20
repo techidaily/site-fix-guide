@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Honor 100 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:15.171Z
-updated: 2024-05-01T14:24:15.171Z
+date: 2024-05-19T03:59:02.780Z
+updated: 2024-05-20T03:59:02.780Z
 tags: 
   - problems
 categories:
@@ -455,4 +455,5 @@ When nothing works, the last resort you can go with is resetting the Honor 100 d
 <li><a href="https://howto.techidaily.com/vivo-t2-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo T2 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Lava Yuva 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

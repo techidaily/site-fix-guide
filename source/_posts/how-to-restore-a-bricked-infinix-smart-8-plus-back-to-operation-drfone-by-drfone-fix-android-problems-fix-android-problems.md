@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Infinix Smart 8 Plus Back to Operation | Dr.fone
-date: 2024-04-30T14:24:22.444Z
-updated: 2024-05-01T14:24:22.444Z
+date: 2024-05-19T03:59:02.855Z
+updated: 2024-05-20T03:59:02.855Z
 tags: 
   - problems
 categories:
@@ -535,4 +535,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://techidaily.com/things-you-dont-know-about-poco-x6-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Poco X6 Reset Code | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-6-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 6 After Forgetting the Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 

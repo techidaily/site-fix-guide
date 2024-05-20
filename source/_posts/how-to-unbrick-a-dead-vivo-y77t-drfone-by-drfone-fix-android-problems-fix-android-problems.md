@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Vivo Y77t | Dr.fone
-date: 2024-04-30T14:26:38.388Z
-updated: 2024-05-01T14:26:38.388Z
+date: 2024-05-19T03:59:04.318Z
+updated: 2024-05-20T03:59:04.318Z
 tags: 
   - problems
 categories:
@@ -548,4 +548,5 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-honor-x7b-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Honor X7b.</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Pop 7 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

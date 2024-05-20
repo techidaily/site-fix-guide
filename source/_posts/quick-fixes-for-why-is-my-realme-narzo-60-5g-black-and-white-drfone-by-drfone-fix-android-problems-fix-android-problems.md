@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Realme Narzo 60 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:20.504Z
-updated: 2024-05-01T14:32:20.504Z
+date: 2024-05-19T03:59:08.444Z
+updated: 2024-05-20T03:59:08.444Z
 tags: 
   - problems
 categories:
@@ -569,4 +569,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-a2-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi A2 Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

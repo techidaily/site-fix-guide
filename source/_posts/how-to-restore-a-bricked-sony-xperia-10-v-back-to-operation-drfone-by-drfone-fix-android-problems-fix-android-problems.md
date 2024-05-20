@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Sony Xperia 10 V Back to Operation | Dr.fone
-date: 2024-04-30T14:24:49.624Z
-updated: 2024-05-01T14:24:49.624Z
+date: 2024-05-19T03:59:03.078Z
+updated: 2024-05-20T03:59:03.078Z
 tags: 
   - problems
 categories:
@@ -658,4 +658,5 @@ But among the methods discussed above, Dr.Fone – System Repair just stood out 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-v29-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo V29 Pro to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini, Apples New iPhone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Motorola Razr 40 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:55.442Z
-updated: 2024-05-01T14:27:55.442Z
+date: 2024-05-19T03:59:05.255Z
+updated: 2024-05-20T03:59:05.255Z
 tags: 
   - problems
 categories:
@@ -649,4 +649,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-itel-s23-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Itel S23 Phone Screen?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-13c-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi 13C 5G</u></a></li>
 </ul></div>
+
 

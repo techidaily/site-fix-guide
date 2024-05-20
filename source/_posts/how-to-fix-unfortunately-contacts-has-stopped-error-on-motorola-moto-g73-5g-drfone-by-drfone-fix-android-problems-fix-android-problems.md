@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Moto G73 5G | Dr.fone
-date: 2024-04-30T14:19:33.311Z
-updated: 2024-05-01T14:19:33.311Z
+date: 2024-05-19T03:58:58.588Z
+updated: 2024-05-20T03:58:58.588Z
 tags: 
   - problems
 categories:
@@ -725,4 +725,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://howto.techidaily.com/what-to-do-when-lava-blaze-pro-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Blaze Pro 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-lava-agni-2-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Lava Agni 2 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

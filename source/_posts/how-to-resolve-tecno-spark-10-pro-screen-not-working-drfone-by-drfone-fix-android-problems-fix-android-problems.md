@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Tecno Spark 10 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:00.335Z
-updated: 2024-05-01T14:24:00.335Z
+date: 2024-05-19T03:59:02.399Z
+updated: 2024-05-20T03:59:02.399Z
 tags: 
   - problems
 categories:
@@ -507,4 +507,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-y27-4g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo Y27 4G FRP Bypass With Best Methods</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-f15-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy F15 5G?</u></a></li>
 </ul></div>
+
 

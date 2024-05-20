@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy M14 5G? | Dr.fone
-date: 2024-04-30T14:19:03.085Z
-updated: 2024-05-01T14:19:03.085Z
+date: 2024-05-19T03:58:58.249Z
+updated: 2024-05-20T03:58:58.249Z
 tags: 
   - problems
 categories:
@@ -509,4 +509,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-x8b-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor X8b?</u></a></li>
 </ul></div>
+
 

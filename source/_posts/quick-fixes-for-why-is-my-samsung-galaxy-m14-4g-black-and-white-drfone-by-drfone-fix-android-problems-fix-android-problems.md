@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy M14 4G Black and White | Dr.fone
-date: 2024-04-30T14:32:23.959Z
-updated: 2024-05-01T14:32:23.959Z
+date: 2024-05-19T03:59:08.470Z
+updated: 2024-05-20T03:59:08.470Z
 tags: 
   - problems
 categories:
@@ -543,4 +543,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://ai-vdieo-software.techidaily.com/detailed-guides-to-calculate-find-and-adjust-image-ratio-for-2024/"><u>Detailed Guides to Calculate, Find, and Adjust Image Ratio for 2024</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-14-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 14 Pro Max Without a Home Button</u></a></li>
 </ul></div>
+
 

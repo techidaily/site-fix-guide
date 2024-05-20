@@ -1,7 +1,7 @@
 ---
 title: Motorola Razr 40 Ultra Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:39.748Z
-updated: 2024-05-01T14:27:39.748Z
+date: 2024-05-19T03:59:05.055Z
+updated: 2024-05-20T03:59:05.055Z
 tags: 
   - problems
 categories:
@@ -513,4 +513,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-v27-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo V27 Pro Phone Screen?</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 15 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

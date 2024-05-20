@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy F15 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:23.427Z
-updated: 2024-05-01T14:32:23.427Z
+date: 2024-05-19T03:59:08.467Z
+updated: 2024-05-20T03:59:08.467Z
 tags: 
   - problems
 categories:
@@ -631,4 +631,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 6s Plus</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-s24plus-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy S24+? Try These Fixes</u></a></li>
 </ul></div>
+
 

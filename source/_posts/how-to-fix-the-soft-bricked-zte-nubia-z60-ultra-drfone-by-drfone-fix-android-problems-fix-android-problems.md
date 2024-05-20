@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked ZTE Nubia Z60 Ultra? | Dr.fone
-date: 2024-04-30T14:19:18.847Z
-updated: 2024-05-01T14:19:18.847Z
+date: 2024-05-19T03:58:58.453Z
+updated: 2024-05-20T03:58:58.453Z
 tags: 
   - problems
 categories:
@@ -552,4 +552,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-v29-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo V29 Pro Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-15-pro-max-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 15 Pro Max Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
 </ul></div>
+
 

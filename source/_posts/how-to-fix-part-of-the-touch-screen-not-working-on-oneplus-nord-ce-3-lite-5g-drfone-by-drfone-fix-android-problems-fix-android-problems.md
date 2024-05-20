@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus Nord CE 3 Lite 5G | Dr.fone
-date: 2024-04-30T14:18:04.729Z
-updated: 2024-05-01T14:18:04.729Z
+date: 2024-05-19T03:58:57.744Z
+updated: 2024-05-20T03:58:57.744Z
 tags: 
   - problems
 categories:
@@ -641,4 +641,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-samsung-galaxy-a14-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Samsung Galaxy A14 5G Phone Pattern Lock</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-beginners-guide-to-green-screen-keying/"><u>Updated Beginners Guide to Green Screen Keying</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Realme GT 5 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:32:52.179Z
-updated: 2024-05-01T14:32:52.179Z
+date: 2024-05-19T03:59:08.725Z
+updated: 2024-05-20T03:59:08.725Z
 tags: 
   - problems
 categories:
@@ -462,4 +462,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y27s-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y27s Phone</u></a></li>
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-reno-11-pro-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo Reno 11 Pro 5G Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

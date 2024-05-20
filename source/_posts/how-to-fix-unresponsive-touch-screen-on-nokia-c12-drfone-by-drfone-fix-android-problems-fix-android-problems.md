@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Nokia C12 | Dr.fone
-date: 2024-04-30T14:21:11.933Z
-updated: 2024-05-01T14:21:11.933Z
+date: 2024-05-19T03:58:59.978Z
+updated: 2024-05-20T03:58:59.978Z
 tags: 
   - problems
 categories:
@@ -663,4 +663,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://ai-video-editing.techidaily.com/updated-top-8-memoji-makers-to-make-a-memoji-on-pc-android-and-iphone/"><u>Updated Top 8 Memoji Makers to Make a Memoji on PC, Android & iPhone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oppo-a1x-5g-by-fonelab-android-recover-music/"><u>How to recover old music from your Oppo A1x 5G</u></a></li>
 </ul></div>
+
 

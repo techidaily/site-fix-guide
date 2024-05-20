@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Poco M6 Pro 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:16.877Z
-updated: 2024-05-01T14:32:16.877Z
+date: 2024-05-19T03:59:08.415Z
+updated: 2024-05-20T03:59:08.415Z
 tags: 
   - problems
 categories:
@@ -558,4 +558,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-speech-to-speech-voice-cloning-a-breakthrough-in-ai-voice-industry/"><u>New 2024 Approved Speech-to-Speech Voice Cloning A Breakthrough in AI Voice Industry</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 14 Plus?</u></a></li>
 </ul></div>
+
 

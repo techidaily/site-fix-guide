@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Itel A05s Black and White | Dr.fone
-date: 2024-04-30T14:32:02.190Z
-updated: 2024-05-01T14:32:02.190Z
+date: 2024-05-19T03:59:08.273Z
+updated: 2024-05-20T03:59:08.273Z
 tags: 
   - problems
 categories:
@@ -590,4 +590,5 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 <li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-premiere-or-after-effects-choosing-the-right-tool-for-your-video-project-for-2024/"><u>New Premiere or After Effects Choosing the Right Tool for Your Video Project for 2024</u></a></li>
 </ul></div>
+
 

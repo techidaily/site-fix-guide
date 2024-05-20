@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Lava Blaze 2 5G | Dr.fone
-date: 2024-04-30T14:19:29.678Z
-updated: 2024-05-01T14:19:29.678Z
+date: 2024-05-19T03:58:58.563Z
+updated: 2024-05-20T03:58:58.563Z
 tags: 
   - problems
 categories:
@@ -533,4 +533,5 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Lava B
 <li><a href="https://howto.techidaily.com/why-your-tecno-spark-10-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Tecno Spark 10 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/what-are-ai-tools/"><u>What Are AI Tools?</u></a></li>
 </ul></div>
+
 

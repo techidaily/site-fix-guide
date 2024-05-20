@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Nokia C12 Pro | Dr.fone
-date: 2024-04-30T14:26:12.536Z
-updated: 2024-05-01T14:26:12.536Z
+date: 2024-05-19T03:59:03.972Z
+updated: 2024-05-20T03:59:03.972Z
 tags: 
   - problems
 categories:
@@ -561,4 +561,5 @@ Nokia C12 Pro Screen unresponsiveness can be a frustrating issue to deal with, b
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-poco-c50-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Poco C50 Through Google Earth?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Infinix Note 30 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:21.747Z
-updated: 2024-05-01T14:24:21.747Z
+date: 2024-05-19T03:59:02.849Z
+updated: 2024-05-20T03:59:02.849Z
 tags: 
   - problems
 categories:
@@ -543,4 +543,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/15-easy-to-use-video-editing-tools-for-free/"><u>15 Easy-to-Use Video Editing Tools for Free</u></a></li>
 </ul></div>
+
 

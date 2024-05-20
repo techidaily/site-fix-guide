@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Nubia Z50 Ultra | Dr.fone
-date: 2024-04-30T14:26:14.828Z
-updated: 2024-05-01T14:26:14.828Z
+date: 2024-05-19T03:59:03.986Z
+updated: 2024-05-20T03:59:03.986Z
 tags: 
   - problems
 categories:
@@ -615,4 +615,5 @@ Android system recovery mode can be quite useful, especially when your system is
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Tecno Spark 20? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-infinix-smart-8-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Infinix Smart 8 FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

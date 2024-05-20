@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Lava Yuva 2 | Dr.fone
-date: 2024-04-30T14:26:08.531Z
-updated: 2024-05-01T14:26:08.531Z
+date: 2024-05-19T03:59:03.924Z
+updated: 2024-05-20T03:59:03.924Z
 tags: 
   - problems
 categories:
@@ -557,4 +557,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-hot-40-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Hot 40 Lock Screen Password?</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-7-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 without Losing Anything? | Dr.fone</u></a></li>
 </ul></div>
+
 

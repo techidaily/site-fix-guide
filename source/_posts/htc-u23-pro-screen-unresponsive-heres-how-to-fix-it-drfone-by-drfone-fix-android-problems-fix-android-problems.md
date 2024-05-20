@@ -1,7 +1,7 @@
 ---
 title: HTC U23 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:26:43.822Z
-updated: 2024-05-01T14:26:43.822Z
+date: 2024-05-19T03:59:04.401Z
+updated: 2024-05-20T03:59:04.401Z
 tags: 
   - problems
 categories:
@@ -505,4 +505,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-12-mini-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 12 mini Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/hot-40-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Hot 40 Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Infinix Zero 30 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:00.497Z
-updated: 2024-05-01T14:27:00.497Z
+date: 2024-05-19T03:59:04.612Z
+updated: 2024-05-20T03:59:04.612Z
 tags: 
   - problems
 categories:
@@ -446,4 +446,5 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 <li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-a23-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy A23 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

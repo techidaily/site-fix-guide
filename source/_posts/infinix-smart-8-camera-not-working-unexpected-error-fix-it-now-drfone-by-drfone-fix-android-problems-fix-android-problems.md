@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 8 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:26:57.465Z
-updated: 2024-05-01T14:26:57.465Z
+date: 2024-05-19T03:59:04.572Z
+updated: 2024-05-20T03:59:04.572Z
 tags: 
   - problems
 categories:
@@ -610,4 +610,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-asus-rog-phone-7-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Asus ROG Phone 7</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

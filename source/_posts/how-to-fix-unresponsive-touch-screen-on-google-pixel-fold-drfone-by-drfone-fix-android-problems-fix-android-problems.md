@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Google Pixel Fold | Dr.fone
-date: 2024-04-30T14:20:57.942Z
-updated: 2024-05-01T14:20:57.942Z
+date: 2024-05-19T03:58:59.778Z
+updated: 2024-05-20T03:58:59.778Z
 tags: 
   - problems
 categories:
@@ -385,4 +385,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 13 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/finding-the-best-game-recorder-for-pc/"><u>Finding the Best Game Recorder for PC</u></a></li>
 </ul></div>
+
 

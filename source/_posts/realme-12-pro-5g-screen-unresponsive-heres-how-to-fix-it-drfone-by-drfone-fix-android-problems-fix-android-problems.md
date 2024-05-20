@@ -1,7 +1,7 @@
 ---
 title: Realme 12 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:44.204Z
-updated: 2024-05-01T14:32:44.204Z
+date: 2024-05-19T03:59:08.645Z
+updated: 2024-05-20T03:59:08.645Z
 tags: 
   - problems
 categories:
@@ -518,4 +518,5 @@ It is our hope that when faced with this fairly common error, you will not panic
 <li><a href="https://ai-video-editing.techidaily.com/how-to-build-a-video-editing-career-for-2024/"><u>How to Build A Video Editing Career for 2024</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 

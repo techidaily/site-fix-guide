@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Civi 3 | Dr.fone
-date: 2024-04-30T14:18:29.218Z
-updated: 2024-05-01T14:18:29.218Z
+date: 2024-05-19T03:58:57.987Z
+updated: 2024-05-20T03:58:57.987Z
 tags: 
   - problems
 categories:
@@ -599,4 +599,5 @@ When following the directions, the user may require more research into some trou
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-redmi-12-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi Redmi 12 5G for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

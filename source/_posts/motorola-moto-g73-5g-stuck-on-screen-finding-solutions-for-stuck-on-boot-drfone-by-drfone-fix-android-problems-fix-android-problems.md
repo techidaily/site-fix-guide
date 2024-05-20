@@ -1,7 +1,7 @@
 ---
 title: Motorola Moto G73 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:27:38.150Z
-updated: 2024-05-01T14:27:38.150Z
+date: 2024-05-19T03:59:05.042Z
+updated: 2024-05-20T03:59:05.042Z
 tags: 
   - problems
 categories:
@@ -530,4 +530,5 @@ When nothing works, the last resort you can go with is resetting the Motorola Mo
 <li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-moto-g23-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola Moto G23 FRP Bypass With Best Methods</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to Android/iOS? | Dr.fone</u></a></li>
 </ul></div>
+
 

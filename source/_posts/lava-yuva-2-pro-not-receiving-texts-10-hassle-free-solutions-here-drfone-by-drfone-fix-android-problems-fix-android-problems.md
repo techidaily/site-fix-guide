@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 2 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone
-date: 2024-04-30T14:27:20.113Z
-updated: 2024-05-01T14:27:20.113Z
+date: 2024-05-19T03:59:04.844Z
+updated: 2024-05-20T03:59:04.844Z
 tags: 
   - problems
 categories:
@@ -538,4 +538,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-color-matching-guide-for-powerdirector-users/"><u>New 2024 Approved The Ultimate Color Matching Guide for PowerDirector Users</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-c33-2023-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme C33 2023 Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+
 

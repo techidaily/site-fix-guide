@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Xiaomi 14 Pro | Dr.fone
-date: 2024-04-30T14:21:40.828Z
-updated: 2024-05-01T14:21:40.828Z
+date: 2024-05-19T03:59:00.320Z
+updated: 2024-05-20T03:59:00.320Z
 tags: 
   - problems
 categories:
@@ -543,4 +543,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-28-top-rated-video-to-gif-converters/"><u>New The Ultimate List 28 Top-Rated Video to GIF Converters</u></a></li>
 <li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Redmi Note 12 Pro 4G</u></a></li>
 </ul></div>
+
 

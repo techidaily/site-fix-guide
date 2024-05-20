@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Infinix Hot 30 5G | Dr.fone
-date: 2024-04-30T14:26:02.582Z
-updated: 2024-05-01T14:26:02.582Z
+date: 2024-05-19T03:59:03.859Z
+updated: 2024-05-20T03:59:03.859Z
 tags: 
   - problems
 categories:
@@ -581,4 +581,5 @@ For those who find themselves locked out of their Infinix Hot 30 5G devices, the
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-itel-a70-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Itel A70 Phones with/without a PC</u></a></li>
 <li><a href="https://techidaily.com/hard-reset-samsung-galaxy-xcover-6-pro-tactical-edition-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy XCover 6 Pro Tactical Edition in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

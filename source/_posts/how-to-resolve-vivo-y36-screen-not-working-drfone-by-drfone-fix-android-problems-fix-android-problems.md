@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo Y36 Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:07.587Z
-updated: 2024-05-01T14:24:07.587Z
+date: 2024-05-19T03:59:02.465Z
+updated: 2024-05-20T03:59:02.465Z
 tags: 
   - problems
 categories:
@@ -496,4 +496,5 @@ While there are many options to fix this error, only one is an excellent choice:
 <li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-14-pro-max-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone 14 Pro Max Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-infinix-gt-10-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Infinix GT 10 Pro FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

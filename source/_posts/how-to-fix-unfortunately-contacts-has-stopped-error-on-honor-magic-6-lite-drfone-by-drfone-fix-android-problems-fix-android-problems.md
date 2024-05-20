@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic 6 Lite | Dr.fone
-date: 2024-04-30T14:19:22.062Z
-updated: 2024-05-01T14:19:22.062Z
+date: 2024-05-19T03:58:58.478Z
+updated: 2024-05-20T03:58:58.478Z
 tags: 
   - problems
 categories:
@@ -548,4 +548,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y27-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y27 5G Phones</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-80-pro-straight-screen-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor 80 Pro Straight Screen Edition</u></a></li>
 </ul></div>
+
 

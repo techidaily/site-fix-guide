@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Xiaomi Redmi Note 13 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:11.984Z
-updated: 2024-05-01T14:24:11.984Z
+date: 2024-05-19T03:59:02.498Z
+updated: 2024-05-20T03:59:02.498Z
 tags: 
   - problems
 categories:
@@ -463,4 +463,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini Passcode without Computer?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-itel-s23-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Itel S23</u></a></li>
 </ul></div>
+
 

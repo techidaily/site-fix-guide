@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T14:19:29.485Z
-updated: 2024-05-01T14:19:29.485Z
+date: 2024-05-19T03:58:58.562Z
+updated: 2024-05-20T03:58:58.562Z
 tags: 
   - problems
 categories:
@@ -518,4 +518,5 @@ For those who find themselves locked out of their Lava Agni 2 5G devices, there'
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-realme-c51-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Realme C51 Phone When You Forget the Password</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-m34-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy M34 5G FRP?</u></a></li>
 </ul></div>
+
 

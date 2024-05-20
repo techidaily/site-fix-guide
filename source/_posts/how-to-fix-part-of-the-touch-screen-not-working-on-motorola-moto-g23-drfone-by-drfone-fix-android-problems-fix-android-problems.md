@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Motorola Moto G23 | Dr.fone
-date: 2024-04-30T14:18:00.193Z
-updated: 2024-05-01T14:18:00.193Z
+date: 2024-05-19T03:58:57.498Z
+updated: 2024-05-20T03:58:57.498Z
 tags: 
   - problems
 categories:
@@ -579,4 +579,5 @@ To deal with an unresponsive screen, users can try restarting the Motorola Moto 
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-a79-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo A79 5G Lock Screen Password?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Honor 90 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

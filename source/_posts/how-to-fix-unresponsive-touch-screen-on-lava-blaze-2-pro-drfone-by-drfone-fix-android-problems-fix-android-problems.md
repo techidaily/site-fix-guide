@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-30T14:21:06.453Z
-updated: 2024-05-01T14:21:06.453Z
+date: 2024-05-19T03:58:59.924Z
+updated: 2024-05-20T03:58:59.924Z
 tags: 
   - problems
 categories:
@@ -507,4 +507,5 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nokia-c12-plus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nokia C12 Plus to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-a05-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy A05? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

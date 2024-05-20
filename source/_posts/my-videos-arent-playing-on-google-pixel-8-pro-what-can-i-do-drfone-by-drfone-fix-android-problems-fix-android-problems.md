@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Google Pixel 8 Pro – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:40.881Z
-updated: 2024-05-01T14:27:40.881Z
+date: 2024-05-19T03:59:05.063Z
+updated: 2024-05-20T03:59:05.063Z
 tags: 
   - problems
 categories:
@@ -541,4 +541,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Huawei Nova Y91? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Motorola G54 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:31.815Z
-updated: 2024-05-01T14:27:31.815Z
+date: 2024-05-19T03:59:04.937Z
+updated: 2024-05-20T03:59:04.937Z
 tags: 
   - problems
 categories:
@@ -455,4 +455,5 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 <li><a href="https://screen-mirror.techidaily.com/how-can-meizu-21mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Meizu 21Mirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-6s-plus-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 6s Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

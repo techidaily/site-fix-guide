@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Itel A60 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:31.341Z
-updated: 2024-05-01T14:23:31.341Z
+date: 2024-05-19T03:59:02.030Z
+updated: 2024-05-20T03:59:02.030Z
 tags: 
   - problems
 categories:
@@ -459,4 +459,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-s23-tactical-edition-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy S23 Tactical Edition Phone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Nokia C02? | Dr.fone</u></a></li>
 </ul></div>
+
 

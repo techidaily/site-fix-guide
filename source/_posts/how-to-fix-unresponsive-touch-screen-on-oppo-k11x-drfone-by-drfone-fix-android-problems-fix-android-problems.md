@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Oppo K11x | Dr.fone
-date: 2024-04-30T14:21:18.574Z
-updated: 2024-05-01T14:21:18.574Z
+date: 2024-05-19T03:59:00.091Z
+updated: 2024-05-20T03:59:00.091Z
 tags: 
   - problems
 categories:
@@ -535,4 +535,5 @@ For those who find themselves locked out of their Oppo K11x devices, there's a r
 <li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-14-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 14 Plus to iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 5G to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

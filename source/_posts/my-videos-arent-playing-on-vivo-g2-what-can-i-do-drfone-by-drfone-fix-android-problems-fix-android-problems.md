@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Vivo G2 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:18.622Z
-updated: 2024-05-01T14:28:18.622Z
+date: 2024-05-19T03:59:05.484Z
+updated: 2024-05-20T03:59:05.484Z
 tags: 
   - problems
 categories:
@@ -492,4 +492,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme GT 3 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-edge-40-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Edge 40 Pro Device</u></a></li>
 </ul></div>
+
 

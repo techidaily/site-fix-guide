@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Vivo V30 Pro | Dr.fone
-date: 2024-04-30T14:19:59.329Z
-updated: 2024-05-01T14:19:59.329Z
+date: 2024-05-19T03:58:58.849Z
+updated: 2024-05-20T03:58:58.849Z
 tags: 
   - problems
 categories:
@@ -531,4 +531,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y78plus-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y78+? Try These Fixes</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-13-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 13 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Realme Narzo 60 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:55.903Z
-updated: 2024-05-01T14:32:55.903Z
+date: 2024-05-19T03:59:08.751Z
+updated: 2024-05-20T03:59:08.751Z
 tags: 
   - problems
 categories:
@@ -455,4 +455,5 @@ For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reli
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nokia G42 5G? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-reno-10-proplus-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo Reno 10 Pro+ 5G Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Motorola Moto G23 | Dr.fone
-date: 2024-04-30T14:21:10.376Z
-updated: 2024-05-01T14:21:10.376Z
+date: 2024-05-19T03:58:59.966Z
+updated: 2024-05-20T03:58:59.966Z
 tags: 
   - problems
 categories:
@@ -534,4 +534,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-15-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 15 and iPad Securely | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi 13T? | Dr.fone</u></a></li>
 </ul></div>
+
 

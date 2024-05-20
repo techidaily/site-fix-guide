@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y78+? | Dr.fone
-date: 2024-04-30T14:19:13.536Z
-updated: 2024-05-01T14:19:13.536Z
+date: 2024-05-19T03:58:58.376Z
+updated: 2024-05-20T03:58:58.376Z
 tags: 
   - problems
 categories:
@@ -551,4 +551,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-find-x6-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Find X6 Pro? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-oppo-find-n3-flip-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Oppo Find N3 Flip</u></a></li>
 </ul></div>
+
 

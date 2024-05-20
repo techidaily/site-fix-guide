@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Motorola Moto G23 | Dr.fone
-date: 2024-04-30T14:20:20.419Z
-updated: 2024-05-01T14:20:20.419Z
+date: 2024-05-19T03:58:59.153Z
+updated: 2024-05-20T03:58:59.153Z
 tags: 
   - problems
 categories:
@@ -690,4 +690,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-a38-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo A38 Phone | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-smart-8-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Smart 8 Pro Unlock Without Password</u></a></li>
 </ul></div>
+
 

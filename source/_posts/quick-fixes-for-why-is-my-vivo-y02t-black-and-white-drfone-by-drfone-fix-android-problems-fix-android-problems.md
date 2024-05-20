@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo Y02T Black and White | Dr.fone
-date: 2024-04-30T14:32:32.342Z
-updated: 2024-05-01T14:32:32.342Z
+date: 2024-05-19T03:59:08.532Z
+updated: 2024-05-20T03:59:08.532Z
 tags: 
   - problems
 categories:
@@ -730,4 +730,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Tecno Pova 5 | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-asus-rog-phone-8-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Asus ROG Phone 8 FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

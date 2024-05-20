@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Sony Xperia 5 V Wont Turn On | Dr.fone
-date: 2024-04-30T14:17:33.651Z
-updated: 2024-05-01T14:17:33.651Z
+date: 2024-05-19T03:58:57.220Z
+updated: 2024-05-20T03:58:57.220Z
 tags: 
   - problems
 categories:
@@ -525,4 +525,5 @@ So go ahead and try them out now!
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-se-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone SE Passcode not Working?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-itel-a60s-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Itel A60s to New Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

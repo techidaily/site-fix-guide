@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Samsung Galaxy A23 5G | Dr.fone
-date: 2024-04-30T14:26:27.079Z
-updated: 2024-05-01T14:26:27.079Z
+date: 2024-05-19T03:59:04.135Z
+updated: 2024-05-20T03:59:04.135Z
 tags: 
   - problems
 categories:
@@ -602,4 +602,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://android-frp.techidaily.com/the-complete-guide-to-meizu-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Meizu FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y78t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y78t Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

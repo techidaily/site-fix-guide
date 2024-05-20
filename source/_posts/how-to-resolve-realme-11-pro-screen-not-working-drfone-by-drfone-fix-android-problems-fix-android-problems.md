@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme 11 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:49.181Z
-updated: 2024-05-01T14:23:49.181Z
+date: 2024-05-19T03:59:02.231Z
+updated: 2024-05-20T03:59:02.231Z
 tags: 
   - problems
 categories:
@@ -501,4 +501,5 @@ Doing all the recommended methods above usually solves the case. If the differen
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo Reno 11F 5G</u></a></li>
 </ul></div>
+
 

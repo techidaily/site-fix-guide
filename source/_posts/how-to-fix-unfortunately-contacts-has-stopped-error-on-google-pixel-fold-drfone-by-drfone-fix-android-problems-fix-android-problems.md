@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Google Pixel Fold | Dr.fone
-date: 2024-04-30T14:19:20.380Z
-updated: 2024-05-01T14:19:20.380Z
+date: 2024-05-19T03:58:58.465Z
+updated: 2024-05-20T03:58:58.465Z
 tags: 
   - problems
 categories:
@@ -484,4 +484,5 @@ Lastly, you can still refer to Google Pixel Fold for repairs. It remains the pri
 <li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Poco M6 Pro 4G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/hard-reset-oneplus-open-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Open in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

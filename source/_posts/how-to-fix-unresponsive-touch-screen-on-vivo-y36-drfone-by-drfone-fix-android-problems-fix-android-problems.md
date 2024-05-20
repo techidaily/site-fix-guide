@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo Y36 | Dr.fone
-date: 2024-04-30T14:21:39.299Z
-updated: 2024-05-01T14:21:39.299Z
+date: 2024-05-19T03:59:00.307Z
+updated: 2024-05-20T03:59:00.307Z
 tags: 
   - problems
 categories:
@@ -625,4 +625,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://review-topics.techidaily.com/recover-your-messages-after-x50-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after X50 has been deleted</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Tecno Spark 20C? | Dr.fone</u></a></li>
 </ul></div>
+
 

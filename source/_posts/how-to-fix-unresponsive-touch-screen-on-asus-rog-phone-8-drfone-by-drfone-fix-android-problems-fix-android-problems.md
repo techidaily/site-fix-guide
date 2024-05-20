@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Asus ROG Phone 8 | Dr.fone
-date: 2024-04-30T14:20:56.989Z
-updated: 2024-05-01T14:20:56.989Z
+date: 2024-05-19T03:58:59.729Z
+updated: 2024-05-20T03:58:59.729Z
 tags: 
   - problems
 categories:
@@ -522,4 +522,5 @@ Android system recovery mode can be quite useful, especially when your system is
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Poco C50? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Lava Blaze 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme 12 Pro+ 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:49.942Z
-updated: 2024-05-01T14:23:49.942Z
+date: 2024-05-19T03:59:02.236Z
+updated: 2024-05-20T03:59:02.236Z
 tags: 
   - problems
 categories:
@@ -466,4 +466,5 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro to Android? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-14-plus-5-ways-to-get-into-a-locked-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 14 Plus? 5 Ways to get into a Locked Apple iPhone 14 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

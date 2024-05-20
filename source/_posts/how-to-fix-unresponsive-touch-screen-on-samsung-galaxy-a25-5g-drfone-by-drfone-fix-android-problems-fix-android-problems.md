@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Samsung Galaxy A25 5G | Dr.fone
-date: 2024-04-30T14:21:27.484Z
-updated: 2024-05-01T14:21:27.484Z
+date: 2024-05-19T03:59:00.159Z
+updated: 2024-05-20T03:59:00.159Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-guide-to-slowing-down-videos-in-snapchat-discussing-the-details/"><u>New In 2024, Guide To Slowing Down Videos in Snapchat Discussing the Details</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-like-a-pro-top-mobile-video-editing-apps/"><u>Updated Edit Like a Pro Top Mobile Video Editing Apps</u></a></li>
 </ul></div>
+
 

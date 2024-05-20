@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor 90? | Dr.fone
-date: 2024-04-30T14:18:34.087Z
-updated: 2024-05-01T14:18:34.087Z
+date: 2024-05-19T03:58:58.026Z
+updated: 2024-05-20T03:58:58.026Z
 tags: 
   - problems
 categories:
@@ -573,4 +573,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Other iPhone 15 devices? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-x100-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo X100 | Dr.fone</u></a></li>
 </ul></div>
+
 

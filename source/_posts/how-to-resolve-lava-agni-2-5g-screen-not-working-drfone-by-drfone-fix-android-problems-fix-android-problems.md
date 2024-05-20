@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Lava Agni 2 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:33.408Z
-updated: 2024-05-01T14:23:33.408Z
+date: 2024-05-19T03:59:02.045Z
+updated: 2024-05-20T03:59:02.045Z
 tags: 
   - problems
 categories:
@@ -588,4 +588,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-cloning-voices-in-real-time-with-top-github-repositories/"><u>2024 Approved Cloning Voices in Real-Time With Top GitHub Repositories</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-itel-p55t-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Itel P55T | Dr.fone</u></a></li>
 </ul></div>
+
 

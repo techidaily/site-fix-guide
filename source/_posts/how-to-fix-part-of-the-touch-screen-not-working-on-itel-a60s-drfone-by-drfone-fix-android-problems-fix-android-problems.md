@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Itel A60s | Dr.fone
-date: 2024-04-30T14:17:55.197Z
-updated: 2024-05-01T14:17:55.197Z
+date: 2024-05-19T03:58:57.443Z
+updated: 2024-05-20T03:58:57.443Z
 tags: 
   - problems
 categories:
@@ -671,4 +671,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-12-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from 12.</u></a></li>
 </ul></div>
+
 

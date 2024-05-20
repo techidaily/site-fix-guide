@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 12 5G | Dr.fone
-date: 2024-04-30T14:18:31.273Z
-updated: 2024-05-01T14:18:31.273Z
+date: 2024-05-19T03:58:58.002Z
+updated: 2024-05-20T03:58:58.002Z
 tags: 
   - problems
 categories:
@@ -577,4 +577,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-moto-g84-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Moto G84 5G Without Power Button | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-photos-from-motorola-edgeplus-2023-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Motorola Edge+ (2023).</u></a></li>
 </ul></div>
+
 

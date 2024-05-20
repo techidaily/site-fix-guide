@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Gionee F3 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:22.131Z
-updated: 2024-05-01T14:23:22.131Z
+date: 2024-05-19T03:59:01.851Z
+updated: 2024-05-20T03:59:01.851Z
 tags: 
   - problems
 categories:
@@ -546,4 +546,5 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 <li><a href="https://ai-video-editing.techidaily.com/tips-to-make-cinematic-color-grading-for-2024/"><u>Tips to Make Cinematic Color Grading for 2024</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-6s-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 6s Backup Unlocker Top 4 Alternatives</u></a></li>
 </ul></div>
+
 

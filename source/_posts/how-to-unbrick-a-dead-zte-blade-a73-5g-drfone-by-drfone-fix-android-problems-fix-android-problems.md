@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead ZTE Blade A73 5G | Dr.fone
-date: 2024-04-30T14:26:42.751Z
-updated: 2024-05-01T14:26:42.751Z
+date: 2024-05-19T03:59:04.360Z
+updated: 2024-05-20T03:59:04.360Z
 tags: 
   - problems
 categories:
@@ -450,4 +450,5 @@ While installing Custom ROM can actually be a great way to customize your device
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo Find N3 Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

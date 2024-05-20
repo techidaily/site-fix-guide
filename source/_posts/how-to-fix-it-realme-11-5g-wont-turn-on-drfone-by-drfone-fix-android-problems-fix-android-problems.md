@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Realme 11 5G Wont Turn On | Dr.fone
-date: 2024-04-30T14:17:26.233Z
-updated: 2024-05-01T14:17:26.233Z
+date: 2024-05-19T03:58:57.141Z
+updated: 2024-05-20T03:58:57.141Z
 tags: 
   - problems
 categories:
@@ -535,4 +535,5 @@ Last but certainly not the least, users must avoid downloading large application
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-13-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi 13 Ultra</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/generating-the-nut-button-meme/"><u>Generating the Nut Button Meme</u></a></li>
 </ul></div>
+
 

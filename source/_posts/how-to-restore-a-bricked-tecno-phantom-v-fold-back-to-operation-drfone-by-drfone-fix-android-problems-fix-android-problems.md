@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Tecno Phantom V Fold Back to Operation | Dr.fone
-date: 2024-04-30T14:24:50.774Z
-updated: 2024-05-01T14:24:50.774Z
+date: 2024-05-19T03:59:03.087Z
+updated: 2024-05-20T03:59:03.087Z
 tags: 
   - problems
 categories:
@@ -489,4 +489,5 @@ Android system recovery mode can be quite useful, especially when your system is
 <li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro without Losing Any Data? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Infinix Note 30 VIP Racing Edition</u></a></li>
 </ul></div>
+
 

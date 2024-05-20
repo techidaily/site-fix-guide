@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Sony Xperia 10 V in Minutes | Dr.fone
-date: 2024-04-30T14:25:41.525Z
-updated: 2024-05-01T14:25:41.525Z
+date: 2024-05-19T03:59:03.605Z
+updated: 2024-05-20T03:59:03.605Z
 tags: 
   - problems
 categories:
@@ -566,4 +566,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-xs-max-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone XS Max Apps to New iPhone | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor 100? | Dr.fone</u></a></li>
 </ul></div>
+
 

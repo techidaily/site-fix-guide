@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Camon 20 Premier 5G | Dr.fone
-date: 2024-04-30T14:18:20.610Z
-updated: 2024-05-01T14:18:20.610Z
+date: 2024-05-19T03:58:57.907Z
+updated: 2024-05-20T03:58:57.907Z
 tags: 
   - problems
 categories:
@@ -678,4 +678,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-tecno-camon-30-pro-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Tecno Camon 30 Pro 5G</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-lava-blaze-curve-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Lava Blaze Curve 5G PC | Dr.fone</u></a></li>
 </ul></div>
+
 

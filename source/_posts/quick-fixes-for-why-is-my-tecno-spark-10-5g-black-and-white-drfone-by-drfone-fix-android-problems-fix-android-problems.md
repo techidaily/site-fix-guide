@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Tecno Spark 10 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:28.002Z
-updated: 2024-05-01T14:32:28.002Z
+date: 2024-05-19T03:59:08.500Z
+updated: 2024-05-20T03:59:08.500Z
 tags: 
   - problems
 categories:
@@ -665,4 +665,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-find-x7-ultra-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Oppo Find X7 Ultra using Video Repair Utility on Mac?</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-14-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 14 Plus without Apple ID?</u></a></li>
 </ul></div>
+
 

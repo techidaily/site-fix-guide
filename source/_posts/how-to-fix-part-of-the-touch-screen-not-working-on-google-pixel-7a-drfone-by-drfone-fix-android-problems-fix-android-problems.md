@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Google Pixel 7a | Dr.fone
-date: 2024-04-30T14:17:48.200Z
-updated: 2024-05-01T14:17:48.200Z
+date: 2024-05-19T03:58:57.353Z
+updated: 2024-05-20T03:58:57.353Z
 tags: 
   - problems
 categories:
@@ -650,4 +650,5 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-infinix-hot-30i-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Infinix Hot 30i.</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-best-5-reaction-video-makers-to-follow/"><u>Updated 2024 Approved Discover the Best 5 Reaction Video Makers to Follow</u></a></li>
 </ul></div>
+
 

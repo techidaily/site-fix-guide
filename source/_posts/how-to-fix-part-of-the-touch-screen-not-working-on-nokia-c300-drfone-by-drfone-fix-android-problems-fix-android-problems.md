@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nokia C300 | Dr.fone
-date: 2024-04-30T14:18:02.215Z
-updated: 2024-05-01T14:18:02.215Z
+date: 2024-05-19T03:58:57.514Z
+updated: 2024-05-20T03:58:57.514Z
 tags: 
   - problems
 categories:
@@ -699,4 +699,5 @@ The above methods are the best 11 among all the solutions you can get for your P
 <li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-motorola-razr-40-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Motorola Razr 40</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Poco F5 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

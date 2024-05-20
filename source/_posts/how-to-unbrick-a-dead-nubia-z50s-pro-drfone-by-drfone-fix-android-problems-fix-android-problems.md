@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Nubia Z50S Pro | Dr.fone
-date: 2024-04-30T14:26:15.048Z
-updated: 2024-05-01T14:26:15.048Z
+date: 2024-05-19T03:59:03.987Z
+updated: 2024-05-20T03:59:03.987Z
 tags: 
   - problems
 categories:
@@ -522,4 +522,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>Updated How to Translate TikTok Videos? All You Want to Know</u></a></li>
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-v29e-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of V29e on Mac</u></a></li>
 </ul></div>
+
 

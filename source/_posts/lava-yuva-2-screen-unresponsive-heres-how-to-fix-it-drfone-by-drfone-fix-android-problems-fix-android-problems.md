@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 2 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:20.682Z
-updated: 2024-05-01T14:27:20.682Z
+date: 2024-05-19T03:59:04.848Z
+updated: 2024-05-20T03:59:04.848Z
 tags: 
   - problems
 categories:
@@ -505,4 +505,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-v30-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme V30 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead OnePlus 11R | Dr.fone
-date: 2024-04-30T14:26:15.435Z
-updated: 2024-05-01T14:26:15.435Z
+date: 2024-05-19T03:59:03.990Z
+updated: 2024-05-20T03:59:03.990Z
 tags: 
   - problems
 categories:
@@ -546,4 +546,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-before-and-after-editing-trick-wondershare-filmora-tutorial/"><u>2024 Approved Before & After Editing Trick | Wondershare Filmora Tutorial</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-realme-gt-neo-5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme GT Neo 5 Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

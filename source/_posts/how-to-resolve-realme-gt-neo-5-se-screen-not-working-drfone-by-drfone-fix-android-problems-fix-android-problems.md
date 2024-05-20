@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme GT Neo 5 SE Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:51.653Z
-updated: 2024-05-01T14:23:51.653Z
+date: 2024-05-19T03:59:02.297Z
+updated: 2024-05-20T03:59:02.297Z
 tags: 
   - problems
 categories:
@@ -530,4 +530,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://animation-videos.techidaily.com/new-tutorials-to-make-animated-images-even-if-youre-just-starting-out-for-2024/"><u>New Tutorials to Make Animated Images – Even if Youre Just Starting Out for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-set-up-twitch-green-screen-for-2024/"><u>How to Set Up Twitch Green Screen for 2024</u></a></li>
 </ul></div>
+
 

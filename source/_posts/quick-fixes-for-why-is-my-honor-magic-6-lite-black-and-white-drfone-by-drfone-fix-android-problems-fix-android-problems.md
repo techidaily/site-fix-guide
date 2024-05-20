@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Honor Magic 6 Lite Black and White | Dr.fone
-date: 2024-04-30T14:31:56.695Z
-updated: 2024-05-01T14:31:56.695Z
+date: 2024-05-19T03:59:08.216Z
+updated: 2024-05-20T03:59:08.216Z
 tags: 
   - problems
 categories:
@@ -545,4 +545,5 @@ While installing Custom ROM can actually be a great way to customize your device
 <li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 6s Plus | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

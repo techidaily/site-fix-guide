@@ -1,7 +1,7 @@
 ---
 title: Realme 11 Pro+ Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:41.924Z
-updated: 2024-05-01T14:32:41.924Z
+date: 2024-05-19T03:59:08.627Z
+updated: 2024-05-20T03:59:08.627Z
 tags: 
   - problems
 categories:
@@ -515,4 +515,5 @@ Hence in this article, we got to know about the error 495 and the possible solut
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-100-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor 100 Photos  An Easy Method Explained.</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-6s-plus-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 6s Plus Passcode without a Computer</u></a></li>
 </ul></div>
+
 

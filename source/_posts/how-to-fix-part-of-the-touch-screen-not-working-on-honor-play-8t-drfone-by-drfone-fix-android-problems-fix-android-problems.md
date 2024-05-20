@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor Play 8T | Dr.fone
-date: 2024-04-30T14:17:50.673Z
-updated: 2024-05-01T14:17:50.673Z
+date: 2024-05-19T03:58:57.406Z
+updated: 2024-05-20T03:58:57.406Z
 tags: 
   - problems
 categories:
@@ -621,4 +621,5 @@ Encountering difficulties when updating Google Play Services can be frustrating,
 <li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-6-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 6 Making It Possible</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 12 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

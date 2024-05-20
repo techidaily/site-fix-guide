@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Itel A60s | Dr.fone
-date: 2024-04-30T14:16:19.939Z
-updated: 2024-05-01T14:16:19.939Z
+date: 2024-05-19T03:58:53.858Z
+updated: 2024-05-20T03:58:53.858Z
 tags: 
   - virtual location change
   - social app
@@ -449,4 +449,5 @@ But of course, there are certain situations in which you will need to fake your 
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi 13T Pro? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-8-plus-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 8 Plus and iPad Securely</u></a></li>
 </ul></div>
+
 

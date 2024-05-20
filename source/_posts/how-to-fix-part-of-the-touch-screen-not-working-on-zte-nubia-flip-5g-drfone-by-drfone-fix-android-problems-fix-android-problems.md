@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on ZTE Nubia Flip 5G | Dr.fone
-date: 2024-04-30T14:18:32.550Z
-updated: 2024-05-01T14:18:32.550Z
+date: 2024-05-19T03:58:58.018Z
+updated: 2024-05-20T03:58:58.018Z
 tags: 
   - problems
 categories:
@@ -613,4 +613,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-huawei-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Huawei</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-x-fold-2-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo X Fold 2 Phones</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo Y100i Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:06.089Z
-updated: 2024-05-01T14:24:06.089Z
+date: 2024-05-19T03:59:02.441Z
+updated: 2024-05-20T03:59:02.441Z
 tags: 
   - problems
 categories:
@@ -502,4 +502,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
+
 

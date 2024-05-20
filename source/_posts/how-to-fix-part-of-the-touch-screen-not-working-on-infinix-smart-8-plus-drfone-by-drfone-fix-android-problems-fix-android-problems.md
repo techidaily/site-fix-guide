@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Smart 8 Plus | Dr.fone
-date: 2024-04-30T14:17:54.440Z
-updated: 2024-05-01T14:17:54.440Z
+date: 2024-05-19T03:58:57.437Z
+updated: 2024-05-20T03:58:57.437Z
 tags: 
   - problems
 categories:
@@ -559,4 +559,5 @@ Now that you have decided where to download the apk file, these are the followin
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-oneplus-12-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How OnePlus 12 Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-fabulous-the-top-online-video-stabilizers-for-a-professional-finish/"><u>New Free and Fabulous The Top Online Video Stabilizers for a Professional Finish</u></a></li>
 </ul></div>
+
 

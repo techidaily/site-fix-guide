@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Infinix Smart 8 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:48.825Z
-updated: 2024-05-01T14:27:48.825Z
+date: 2024-05-19T03:59:05.154Z
+updated: 2024-05-20T03:59:05.154Z
 tags: 
   - problems
 categories:
@@ -583,4 +583,5 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Motorola Moto G23 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone 6 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

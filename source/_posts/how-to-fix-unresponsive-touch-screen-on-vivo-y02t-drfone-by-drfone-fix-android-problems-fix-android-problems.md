@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo Y02T | Dr.fone
-date: 2024-04-30T14:21:38.148Z
-updated: 2024-05-01T14:21:38.148Z
+date: 2024-05-19T03:59:00.299Z
+updated: 2024-05-20T03:59:00.299Z
 tags: 
   - problems
 categories:
@@ -491,4 +491,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c32-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nokia C32 PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-14-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 14</u></a></li>
 </ul></div>
+
 

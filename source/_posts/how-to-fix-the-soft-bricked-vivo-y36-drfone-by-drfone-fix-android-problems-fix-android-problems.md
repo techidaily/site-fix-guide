@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y36? | Dr.fone
-date: 2024-04-30T14:19:12.560Z
-updated: 2024-05-01T14:19:12.560Z
+date: 2024-05-19T03:58:58.368Z
+updated: 2024-05-20T03:58:58.368Z
 tags: 
   - problems
 categories:
@@ -390,4 +390,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Poco M6 5G? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-se-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone SE Apple ID on MacBook</u></a></li>
 </ul></div>
+
 

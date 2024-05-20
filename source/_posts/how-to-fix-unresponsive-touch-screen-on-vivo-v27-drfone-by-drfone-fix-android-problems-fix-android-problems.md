@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo V27 | Dr.fone
-date: 2024-04-30T14:21:36.043Z
-updated: 2024-05-01T14:21:36.043Z
+date: 2024-05-19T03:59:00.281Z
+updated: 2024-05-20T03:59:00.281Z
 tags: 
   - problems
 categories:
@@ -508,4 +508,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-13c-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 13C 5G Phone without PIN</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Other iPhone 13 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Xiaomi Redmi Note 12R? | Dr.fone
-date: 2024-04-30T14:19:17.276Z
-updated: 2024-05-01T14:19:17.276Z
+date: 2024-05-19T03:58:58.403Z
+updated: 2024-05-20T03:58:58.403Z
 tags: 
   - problems
 categories:
@@ -465,4 +465,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://techidaily.com/how-to-factory-reset-nokia-c22-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C22 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-be-a-successful-youtuber/"><u>Updated 2024 Approved How To Be A Successful YouTuber</u></a></li>
 </ul></div>
+
 

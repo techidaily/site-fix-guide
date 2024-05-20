@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Pova 5 Pro | Dr.fone
-date: 2024-04-30T14:18:21.955Z
-updated: 2024-05-01T14:18:21.955Z
+date: 2024-05-19T03:58:57.915Z
+updated: 2024-05-20T03:58:57.915Z
 tags: 
   - problems
 categories:
@@ -579,4 +579,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo T2 5G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/what-is-a-local-serp-by-link-assistant-rank-tracker-local-rankings-local-rankings/"><u>What is a local SERP?</u></a></li>
 </ul></div>
+
 

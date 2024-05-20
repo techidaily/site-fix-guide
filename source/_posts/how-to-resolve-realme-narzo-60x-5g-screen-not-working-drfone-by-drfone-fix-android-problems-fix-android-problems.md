@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme Narzo 60x 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:52.065Z
-updated: 2024-05-01T14:23:52.065Z
+date: 2024-05-19T03:59:02.301Z
+updated: 2024-05-20T03:59:02.301Z
 tags: 
   - problems
 categories:
@@ -436,4 +436,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://ai-editing-video.techidaily.com/6-best-text-to-speech-generators-for-youtube-videos-windows-mac-android-iphone-and-online-for-2024/"><u>6 Best Text to Speech Generators for YouTube Videos Windows, Mac, Android, iPhone & Online for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Poco X6 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

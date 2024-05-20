@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus 12R | Dr.fone
-date: 2024-04-30T14:18:03.963Z
-updated: 2024-05-01T14:18:03.963Z
+date: 2024-05-19T03:58:57.714Z
+updated: 2024-05-20T03:58:57.714Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Poco M6 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo G2 Black and White | Dr.fone
-date: 2024-04-30T14:32:28.951Z
-updated: 2024-05-01T14:32:28.951Z
+date: 2024-05-19T03:59:08.508Z
+updated: 2024-05-20T03:59:08.508Z
 tags: 
   - problems
 categories:
@@ -639,4 +639,5 @@ So go ahead and try them out now!
 <li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Fingerprint Lock</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-12-mini-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 12 mini?</u></a></li>
 </ul></div>
+
 

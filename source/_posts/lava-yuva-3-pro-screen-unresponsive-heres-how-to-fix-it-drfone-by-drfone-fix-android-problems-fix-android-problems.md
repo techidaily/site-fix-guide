@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 3 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:22.349Z
-updated: 2024-05-01T14:27:22.349Z
+date: 2024-05-19T03:59:04.860Z
+updated: 2024-05-20T03:59:04.860Z
 tags: 
   - problems
 categories:
@@ -464,4 +464,5 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
 <li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On OnePlus 11R | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-magic-v2-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor Magic V2</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Infinix Smart 8 HD | Dr.fone
-date: 2024-04-30T14:26:04.854Z
-updated: 2024-05-01T14:26:04.854Z
+date: 2024-05-19T03:59:03.897Z
+updated: 2024-05-20T03:59:03.897Z
 tags: 
   - problems
 categories:
@@ -602,4 +602,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-vivo-y36i-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Vivo Y36i</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-infinix-hot-40i-by-drfone-android/"><u>How to Bypass FRP from Infinix Hot 40i?</u></a></li>
 </ul></div>
+
 

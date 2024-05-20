@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Honor 90 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:15.745Z
-updated: 2024-05-01T14:24:15.745Z
+date: 2024-05-19T03:59:02.784Z
+updated: 2024-05-20T03:59:02.784Z
 tags: 
   - problems
 categories:
@@ -505,4 +505,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-stop-motion-on-demand-cloud-based-software-for-animators/"><u>2024 Approved Stop Motion on Demand Cloud-Based Software for Animators</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 12</u></a></li>
 </ul></div>
+
 

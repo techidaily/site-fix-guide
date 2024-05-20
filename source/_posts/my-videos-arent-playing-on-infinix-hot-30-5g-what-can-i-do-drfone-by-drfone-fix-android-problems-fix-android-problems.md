@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Infinix Hot 30 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:46.192Z
-updated: 2024-05-01T14:27:46.192Z
+date: 2024-05-19T03:59:05.139Z
+updated: 2024-05-20T03:59:05.139Z
 tags: 
   - problems
 categories:
@@ -567,4 +567,5 @@ Lastly, you can still refer to Infinix Hot 30 5G for repairs. It remains the pri
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-poco-c50-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Poco C50 Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55t-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55T to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

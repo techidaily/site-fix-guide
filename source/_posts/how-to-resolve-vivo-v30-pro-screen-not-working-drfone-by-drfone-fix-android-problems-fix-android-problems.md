@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo V30 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:04.172Z
-updated: 2024-05-01T14:24:04.172Z
+date: 2024-05-19T03:59:02.426Z
+updated: 2024-05-20T03:59:02.426Z
 tags: 
   - problems
 categories:
@@ -596,4 +596,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y200 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-and-certificate-for-xlsm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to create a digital signature and certificate for .xlsm files</u></a></li>
 </ul></div>
+
 

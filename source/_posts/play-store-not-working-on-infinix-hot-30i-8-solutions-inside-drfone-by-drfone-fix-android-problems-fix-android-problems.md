@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Infinix Hot 30i? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:26.833Z
-updated: 2024-05-01T14:29:26.833Z
+date: 2024-05-19T03:59:06.289Z
+updated: 2024-05-20T03:59:06.289Z
 tags: 
   - problems
 categories:
@@ -591,4 +591,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-14-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 14 Plus</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-6-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 6 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
 </ul></div>
+
 

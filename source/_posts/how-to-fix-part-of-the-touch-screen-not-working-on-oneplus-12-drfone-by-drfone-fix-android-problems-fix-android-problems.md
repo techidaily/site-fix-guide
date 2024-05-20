@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus 12 | Dr.fone
-date: 2024-04-30T14:18:03.772Z
-updated: 2024-05-01T14:18:03.772Z
+date: 2024-05-19T03:58:57.527Z
+updated: 2024-05-20T03:58:57.527Z
 tags: 
   - problems
 categories:
@@ -683,4 +683,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-slideshow-with-icecream-slideshow-maker/"><u>New How to Make a Slideshow with Icecream Slideshow Maker</u></a></li>
 </ul></div>
+
 

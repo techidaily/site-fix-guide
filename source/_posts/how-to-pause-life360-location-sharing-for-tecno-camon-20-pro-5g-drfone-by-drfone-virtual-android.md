@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Tecno Camon 20 Pro 5G | Dr.fone
-date: 2024-04-30T14:16:40.055Z
-updated: 2024-05-01T14:16:40.055Z
+date: 2024-05-19T03:58:54.831Z
+updated: 2024-05-20T03:58:54.831Z
 tags: 
   - virtual location change
   - social app
@@ -444,4 +444,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y78 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

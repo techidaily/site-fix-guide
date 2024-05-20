@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Realme 12 Pro+ 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:18.399Z
-updated: 2024-05-01T14:32:18.399Z
+date: 2024-05-19T03:59:08.428Z
+updated: 2024-05-20T03:59:08.428Z
 tags: 
   - problems
 categories:
@@ -569,4 +569,5 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 <li><a href="https://ai-video-editing.techidaily.com/new-what-slideshow-templates-teach-you-about-aesthetic-for-2024/"><u>New What Slideshow Templates Teach You About Aesthetic for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo Find N3 Flip? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On ZTE Axon 40 Lite? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:30:05.095Z
-updated: 2024-05-01T14:30:05.095Z
+date: 2024-05-19T03:59:06.760Z
+updated: 2024-05-20T03:59:06.760Z
 tags: 
   - problems
 categories:
@@ -557,4 +557,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-13-pro-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Pro Screen Mirroring You Must Know | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme 12 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

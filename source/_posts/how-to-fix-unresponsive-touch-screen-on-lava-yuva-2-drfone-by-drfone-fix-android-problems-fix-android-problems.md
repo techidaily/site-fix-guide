@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Lava Yuva 2 | Dr.fone
-date: 2024-04-30T14:21:07.218Z
-updated: 2024-05-01T14:21:07.218Z
+date: 2024-05-19T03:58:59.941Z
+updated: 2024-05-20T03:58:59.941Z
 tags: 
   - problems
 categories:
@@ -486,4 +486,5 @@ As a parting reminder, always keep a tool ready for emergencies. For this, choos
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-merge-audio-and-video-in-vlc-media-player-for-2024/"><u>New How to Merge Audio and Video in VLC Media Player for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Xiaomi Redmi 12 | Dr.fone</u></a></li>
 </ul></div>
+
 

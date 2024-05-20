@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme 12 Pro 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:49.754Z
-updated: 2024-05-01T14:23:49.754Z
+date: 2024-05-19T03:59:02.235Z
+updated: 2024-05-20T03:59:02.235Z
 tags: 
   - problems
 categories:
@@ -453,4 +453,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-asus-rog-phone-8-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Asus ROG Phone 8 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-realme-c51-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Realme C51 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

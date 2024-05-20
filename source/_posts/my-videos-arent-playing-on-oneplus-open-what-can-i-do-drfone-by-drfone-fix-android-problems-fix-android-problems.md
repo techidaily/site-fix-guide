@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on OnePlus Open – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:01.122Z
-updated: 2024-05-01T14:28:01.122Z
+date: 2024-05-19T03:59:05.313Z
+updated: 2024-05-20T03:59:05.313Z
 tags: 
   - problems
 categories:
@@ -494,4 +494,5 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 <li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s21-fe-5g-2023-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy S21 FE 5G (2023) support MOV videos ?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-honor-100-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Honor 100.</u></a></li>
 </ul></div>
+
 

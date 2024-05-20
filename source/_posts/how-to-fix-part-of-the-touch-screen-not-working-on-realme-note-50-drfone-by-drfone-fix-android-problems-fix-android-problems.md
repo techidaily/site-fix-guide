@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme Note 50 | Dr.fone
-date: 2024-04-30T14:18:14.702Z
-updated: 2024-05-01T14:18:14.702Z
+date: 2024-05-19T03:58:57.851Z
+updated: 2024-05-20T03:58:57.851Z
 tags: 
   - problems
 categories:
@@ -581,4 +581,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-template-wondershare-virbo-for-2024/"><u>Create AI Avatar Video with Template | Wondershare Virbo for 2024</u></a></li>
 </ul></div>
+
 

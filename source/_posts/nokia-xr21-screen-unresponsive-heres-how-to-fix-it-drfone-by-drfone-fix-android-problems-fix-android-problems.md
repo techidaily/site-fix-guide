@@ -1,7 +1,7 @@
 ---
 title: Nokia XR21 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:38.527Z
-updated: 2024-05-01T14:28:38.527Z
+date: 2024-05-19T03:59:05.777Z
+updated: 2024-05-20T03:59:05.777Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-magic-6-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor Magic 6 Pro Device</u></a></li>
 <li><a href="https://howto.techidaily.com/why-is-my-vivo-v30-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo V30 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

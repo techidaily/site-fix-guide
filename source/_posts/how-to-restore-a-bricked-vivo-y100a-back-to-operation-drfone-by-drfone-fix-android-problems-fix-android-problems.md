@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Vivo Y100A Back to Operation | Dr.fone
-date: 2024-04-30T14:24:56.451Z
-updated: 2024-05-01T14:24:56.451Z
+date: 2024-05-19T03:59:03.127Z
+updated: 2024-05-20T03:59:03.127Z
 tags: 
   - problems
 categories:
@@ -511,4 +511,5 @@ So go ahead and try them out now!
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-discover-vintage-luts-premiere-pro-free-and-paid-options-available/"><u>Updated 2024 Approved Discover Vintage LUTs Premiere Pro Free and Paid Options Available</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-convert-videos-to-slow-motion/"><u>New 2024 Approved How to Convert Videos to Slow Motion?</u></a></li>
 </ul></div>
+
 

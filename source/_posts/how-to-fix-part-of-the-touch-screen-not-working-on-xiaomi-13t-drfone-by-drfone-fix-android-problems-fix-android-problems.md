@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi 13T | Dr.fone
-date: 2024-04-30T14:18:28.641Z
-updated: 2024-05-01T14:18:28.641Z
+date: 2024-05-19T03:58:57.983Z
+updated: 2024-05-20T03:58:57.983Z
 tags: 
   - problems
 categories:
@@ -612,4 +612,5 @@ Encountering difficulties when updating Google Play Services can be frustrating,
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlock-the-power-5-little-known-secrets-of-16x9-ratio-calculators/"><u>New 2024 Approved Unlock the Power 5 Little-Known Secrets of 16X9 Ratio Calculators</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-xiaomi-14-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Xiaomi 14</u></a></li>
 </ul></div>
+
 

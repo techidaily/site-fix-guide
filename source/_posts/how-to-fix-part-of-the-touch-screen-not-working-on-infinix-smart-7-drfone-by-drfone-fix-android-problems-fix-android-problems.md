@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Smart 7 | Dr.fone
-date: 2024-04-30T14:17:53.870Z
-updated: 2024-05-01T14:17:53.870Z
+date: 2024-05-19T03:58:57.432Z
+updated: 2024-05-20T03:58:57.432Z
 tags: 
   - problems
 categories:
@@ -716,4 +716,5 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 <li><a href="https://techidaily.com/why-cant-i-play-mp4-files-on-my-motorola-moto-g34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Motorola Moto G34 5G?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Honor Magic V2 | Dr.fone</u></a></li>
 </ul></div>
+
 

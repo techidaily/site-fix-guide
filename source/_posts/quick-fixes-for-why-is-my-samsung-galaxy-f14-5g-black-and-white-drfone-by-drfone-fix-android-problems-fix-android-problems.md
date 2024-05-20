@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy F14 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:23.235Z
-updated: 2024-05-01T14:32:23.235Z
+date: 2024-05-19T03:59:08.465Z
+updated: 2024-05-20T03:59:08.465Z
 tags: 
   - problems
 categories:
@@ -716,4 +716,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-x-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone X Keeps Asking for Outlook Password</u></a></li>
 <li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

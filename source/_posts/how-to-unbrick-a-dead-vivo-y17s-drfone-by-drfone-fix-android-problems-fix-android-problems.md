@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Vivo Y17s | Dr.fone
-date: 2024-04-30T14:26:36.467Z
-updated: 2024-05-01T14:26:36.467Z
+date: 2024-05-19T03:59:04.303Z
+updated: 2024-05-20T03:59:04.303Z
 tags: 
   - problems
 categories:
@@ -504,4 +504,5 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 <li><a href="https://animation-videos.techidaily.com/updated-everything-you-need-to-know-about-becoming-a-motion-graphic-designer-for-2024/"><u>Updated Everything You Need to Know About Becoming a Motion Graphic Designer for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Itel P55 | Dr.fone</u></a></li>
 </ul></div>
+
 

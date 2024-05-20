@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme Narzo 60 Pro 5G | Dr.fone
-date: 2024-04-30T14:21:25.186Z
-updated: 2024-05-01T14:21:25.186Z
+date: 2024-05-19T03:59:00.140Z
+updated: 2024-05-20T03:59:00.140Z
 tags: 
   - problems
 categories:
@@ -611,4 +611,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-12plus-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme 12+ 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-free-and-paid-sony-vegas-alternatives-for-windows/"><u>Updated Discover the Best Free and Paid Sony Vegas Alternatives for Windows</u></a></li>
 </ul></div>
+
 

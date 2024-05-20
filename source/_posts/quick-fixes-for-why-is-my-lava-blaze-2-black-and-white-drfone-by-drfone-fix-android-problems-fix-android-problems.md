@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Lava Blaze 2 Black and White | Dr.fone
-date: 2024-04-30T14:32:04.297Z
-updated: 2024-05-01T14:32:04.297Z
+date: 2024-05-19T03:59:08.327Z
+updated: 2024-05-20T03:59:08.327Z
 tags: 
   - problems
 categories:
@@ -570,4 +570,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://techidaily.com/hard-reset-nubia-red-magic-9-proplus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nubia Red Magic 9 Pro+ in 3 Efficient Ways | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 6s Plus? | Stellar</u></a></li>
 </ul></div>
+
 

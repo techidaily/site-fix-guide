@@ -1,7 +1,7 @@
 ---
 title: Realme 12 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:32:43.826Z
-updated: 2024-05-01T14:32:43.826Z
+date: 2024-05-19T03:59:08.641Z
+updated: 2024-05-20T03:59:08.641Z
 tags: 
   - problems
 categories:
@@ -484,4 +484,5 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi 14 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/spark-20-proplus-messages-recovery-recover-deleted-messages-from-spark-20-proplus-by-fonelab-android-recover-messages/"><u>Spark 20 Pro+ Messages Recovery - Recover Deleted Messages from Spark 20 Pro+</u></a></li>
 </ul></div>
+
 

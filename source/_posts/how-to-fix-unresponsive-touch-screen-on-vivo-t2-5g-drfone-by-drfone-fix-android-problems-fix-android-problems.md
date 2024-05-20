@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo T2 5G | Dr.fone
-date: 2024-04-30T14:21:35.473Z
-updated: 2024-05-01T14:21:35.473Z
+date: 2024-05-19T03:59:00.277Z
+updated: 2024-05-20T03:59:00.277Z
 tags: 
   - problems
 categories:
@@ -501,4 +501,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Motorola Moto G84 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-realme-c51-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C51 Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

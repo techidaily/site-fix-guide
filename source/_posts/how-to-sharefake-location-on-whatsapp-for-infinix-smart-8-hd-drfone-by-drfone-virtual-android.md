@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Infinix Smart 8 HD | Dr.fone
-date: 2024-04-30T14:16:07.111Z
-updated: 2024-05-01T14:16:07.111Z
+date: 2024-05-19T03:58:53.401Z
+updated: 2024-05-20T03:58:53.401Z
 tags: 
   - virtual location change
   - social app
@@ -557,4 +557,5 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-google-pixel-8-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Google Pixel 8 Pro For Mobile Legends? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/best-tools-to-edit-mp4-tags-on-windows-and-mac-for-2024/"><u>Best Tools to Edit MP4 Tags on Windows and Mac for 2024</u></a></li>
 </ul></div>
+
 

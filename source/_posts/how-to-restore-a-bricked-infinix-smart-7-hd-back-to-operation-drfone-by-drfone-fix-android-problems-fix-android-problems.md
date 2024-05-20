@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Infinix Smart 7 HD Back to Operation | Dr.fone
-date: 2024-04-30T14:24:22.055Z
-updated: 2024-05-01T14:24:22.055Z
+date: 2024-05-19T03:59:02.851Z
+updated: 2024-05-20T03:59:02.851Z
 tags: 
   - problems
 categories:
@@ -615,4 +615,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus 12 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-6-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6 with iTunes | Dr.fone</u></a></li>
 </ul></div>
+
 

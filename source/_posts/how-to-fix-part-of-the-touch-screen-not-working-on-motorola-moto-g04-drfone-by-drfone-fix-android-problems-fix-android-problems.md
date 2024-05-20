@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Motorola Moto G04 | Dr.fone
-date: 2024-04-30T14:17:59.811Z
-updated: 2024-05-01T14:17:59.811Z
+date: 2024-05-19T03:58:57.495Z
+updated: 2024-05-20T03:58:57.495Z
 tags: 
   - problems
 categories:
@@ -595,4 +595,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-7-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 7 to iPhone | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y56-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y56 5G Phones with/without a PC</u></a></li>
 </ul></div>
+
 

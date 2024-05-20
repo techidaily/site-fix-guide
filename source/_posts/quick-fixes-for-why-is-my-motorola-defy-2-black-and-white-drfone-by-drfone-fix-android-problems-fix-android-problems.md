@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Motorola Defy 2 Black and White | Dr.fone
-date: 2024-04-30T14:32:05.988Z
-updated: 2024-05-01T14:32:05.988Z
+date: 2024-05-19T03:59:08.337Z
+updated: 2024-05-20T03:59:08.337Z
 tags: 
   - problems
 categories:
@@ -622,4 +622,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://review-topics.techidaily.com/recover-iphone-6-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6 Data From iTunes | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 13 Pro Max/iPad? | Dr.fone</u></a></li>
 </ul></div>
+
 

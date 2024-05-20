@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Infinix Smart 7 HD | Dr.fone
-date: 2024-04-30T14:26:04.633Z
-updated: 2024-05-01T14:26:04.633Z
+date: 2024-05-19T03:59:03.895Z
+updated: 2024-05-20T03:59:03.895Z
 tags: 
   - problems
 categories:
@@ -569,4 +569,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-camon-30-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Camon 30 Pro 5G is off? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-8-plus-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 8 Plus</u></a></li>
 </ul></div>
+
 

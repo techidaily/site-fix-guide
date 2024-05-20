@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Itel S23 | Dr.fone
-date: 2024-04-30T14:17:56.333Z
-updated: 2024-05-01T14:17:56.333Z
+date: 2024-05-19T03:58:57.467Z
+updated: 2024-05-20T03:58:57.467Z
 tags: 
   - problems
 categories:
@@ -595,4 +595,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 11 Pro Max?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-itel-p55t-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Itel P55T Fingerprint Lock</u></a></li>
 </ul></div>
+
 

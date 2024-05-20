@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Nubia Z50S Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:11.576Z
-updated: 2024-05-01T14:32:11.576Z
+date: 2024-05-19T03:59:08.376Z
+updated: 2024-05-20T03:59:08.376Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-3d-video-software-best-free-and-paid-solutions-for-2024/"><u>Updated 3D Video Software Best Free and Paid Solutions for 2024</u></a></li>
 </ul></div>
+
 

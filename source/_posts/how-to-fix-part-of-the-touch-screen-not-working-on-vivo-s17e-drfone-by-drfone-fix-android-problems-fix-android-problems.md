@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo S17e | Dr.fone
-date: 2024-04-30T14:18:23.632Z
-updated: 2024-05-01T14:18:23.632Z
+date: 2024-05-19T03:58:57.925Z
+updated: 2024-05-20T03:58:57.925Z
 tags: 
   - problems
 categories:
@@ -584,4 +584,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://ai-editing-video.techidaily.com/how-to-loop-a-video-on-android/"><u>How to Loop a Video on Android</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo Y78t | Dr.fone</u></a></li>
 </ul></div>
+
 

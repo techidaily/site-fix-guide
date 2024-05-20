@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y200 | Dr.fone
-date: 2024-04-30T14:18:27.295Z
-updated: 2024-05-01T14:18:27.295Z
+date: 2024-05-19T03:58:57.972Z
+updated: 2024-05-20T03:58:57.972Z
 tags: 
   - problems
 categories:
@@ -612,4 +612,5 @@ Encountering difficulties when updating Google Play Services can be frustrating,
 <li><a href="https://techidaily.com/how-to-reset-lava-agni-2-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Agni 2 5G Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-realme-gt-5-240w-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Realme GT 5 (240W) Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

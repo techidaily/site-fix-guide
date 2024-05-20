@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPhone Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:27:22.924Z
-updated: 2024-05-01T14:27:22.924Z
+date: 2024-05-19T03:59:04.864Z
+updated: 2024-05-20T03:59:04.864Z
 tags: 
   - problems
 categories:
@@ -534,4 +534,5 @@ For users seeking a comprehensive solution, Wondershare Dr.Fone emerges as a ver
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-vivo-x-flip-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Vivo X Flip</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-oppo-k11x-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Oppo K11x?</u></a></li>
 </ul></div>
+
 

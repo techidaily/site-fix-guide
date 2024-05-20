@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Lava Blaze 2 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:25.540Z
-updated: 2024-05-01T14:24:25.540Z
+date: 2024-05-19T03:59:02.883Z
+updated: 2024-05-20T03:59:02.883Z
 tags: 
   - problems
 categories:
@@ -503,4 +503,5 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 <li><a href="https://ai-video-apps.techidaily.com/updated-get-started-with-jaycut-a-beginners-guide-to-free-video-editing-for-2024/"><u>Updated Get Started with Jaycut A Beginners Guide to Free Video Editing for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y17s | Dr.fone</u></a></li>
 </ul></div>
+
 

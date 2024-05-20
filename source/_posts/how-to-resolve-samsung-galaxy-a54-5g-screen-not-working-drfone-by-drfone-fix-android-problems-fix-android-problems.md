@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Samsung Galaxy A54 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:54.094Z
-updated: 2024-05-01T14:23:54.094Z
+date: 2024-05-19T03:59:02.316Z
+updated: 2024-05-20T03:59:02.316Z
 tags: 
   - problems
 categories:
@@ -565,4 +565,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-x-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone X without Losing Any Content? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-a58-4g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo A58 4G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

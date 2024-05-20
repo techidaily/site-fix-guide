@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor X8b Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:27.293Z
-updated: 2024-05-01T14:23:27.293Z
+date: 2024-05-19T03:59:01.944Z
+updated: 2024-05-20T03:59:01.944Z
 tags: 
   - problems
 categories:
@@ -388,4 +388,5 @@ While installing Custom ROM can actually be a great way to customize your device
 <li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-g2-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo G2</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-s18-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo S18 Pro Phones with/without a PC</u></a></li>
 </ul></div>
+
 

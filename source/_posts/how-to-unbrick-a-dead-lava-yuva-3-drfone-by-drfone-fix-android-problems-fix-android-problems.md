@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Lava Yuva 3 | Dr.fone
-date: 2024-04-30T14:26:08.914Z
-updated: 2024-05-01T14:26:08.914Z
+date: 2024-05-19T03:59:03.927Z
+updated: 2024-05-20T03:59:03.927Z
 tags: 
   - problems
 categories:
@@ -520,4 +520,5 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 <li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-v30t-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme V30T Fingerprint Lock</u></a></li>
 <li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12t-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12T Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 

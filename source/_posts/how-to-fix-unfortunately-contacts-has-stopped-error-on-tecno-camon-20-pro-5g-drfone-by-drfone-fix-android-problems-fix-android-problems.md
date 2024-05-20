@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Camon 20 Pro 5G | Dr.fone
-date: 2024-04-30T14:19:54.348Z
-updated: 2024-05-01T14:19:54.348Z
+date: 2024-05-19T03:58:58.795Z
+updated: 2024-05-20T03:58:58.795Z
 tags: 
   - problems
 categories:
@@ -491,4 +491,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-poco-f5-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Poco F5 5G to iPad | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-c67-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme C67 5G Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

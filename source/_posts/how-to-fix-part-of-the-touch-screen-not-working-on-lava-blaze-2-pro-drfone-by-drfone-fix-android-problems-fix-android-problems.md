@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-30T14:17:57.093Z
-updated: 2024-05-01T14:17:57.093Z
+date: 2024-05-19T03:58:57.474Z
+updated: 2024-05-20T03:58:57.474Z
 tags: 
   - problems
 categories:
@@ -676,4 +676,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy S24+ | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-12-pro-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 12 Pro in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Tecno Spark 20 Pro+ Black and White | Dr.fone
-date: 2024-04-30T14:32:28.571Z
-updated: 2024-05-01T14:32:28.571Z
+date: 2024-05-19T03:59:08.505Z
+updated: 2024-05-20T03:59:08.505Z
 tags: 
   - problems
 categories:
@@ -590,4 +590,5 @@ For users seeking a comprehensive solution, Wondershare Dr.Fone emerges as a ver
 <li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Poco C51? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-xiaomi-redmi-13c-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Xiaomi Redmi 13C?</u></a></li>
 </ul></div>
+
 

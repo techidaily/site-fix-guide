@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Tecno Spark 20C? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:43.003Z
-updated: 2024-05-01T14:30:43.003Z
+date: 2024-05-19T03:59:07.103Z
+updated: 2024-05-20T03:59:07.103Z
 tags: 
   - problems
 categories:
@@ -431,4 +431,5 @@ Tecno Spark 20C Screen unresponsiveness can be a frustrating issue to deal with,
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola Moto G84 5G? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-motorola-moto-g23-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Motorola Moto G23 | Dr.fone</u></a></li>
 </ul></div>
+
 

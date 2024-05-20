@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone
-date: 2024-04-30T14:18:19.456Z
-updated: 2024-05-01T14:18:19.456Z
+date: 2024-05-19T03:58:57.899Z
+updated: 2024-05-20T03:58:57.899Z
 tags: 
   - problems
 categories:
@@ -662,4 +662,5 @@ Doing all the recommended methods above usually solves the case. If the differen
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-tecno-spark-10-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Tecno Spark 10 5G</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y77t-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y77t Device</u></a></li>
 </ul></div>
+
 

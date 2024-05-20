@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on OnePlus 11 5G | Dr.fone
-date: 2024-04-30T14:21:13.981Z
-updated: 2024-05-01T14:21:13.981Z
+date: 2024-05-19T03:58:59.992Z
+updated: 2024-05-20T03:58:59.992Z
 tags: 
   - problems
 categories:
@@ -541,4 +541,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo Y78t? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-every-compositor-should-know-the-trick-of-color-match-in-after-effects/"><u>Updated 2024 Approved Every Compositor Should Know The Trick of Color Match in After Effects</u></a></li>
 </ul></div>
+
 

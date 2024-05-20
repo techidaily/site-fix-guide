@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Tecno Camon 20 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:58.901Z
-updated: 2024-05-01T14:23:58.901Z
+date: 2024-05-19T03:59:02.387Z
+updated: 2024-05-20T03:59:02.387Z
 tags: 
   - problems
 categories:
@@ -465,4 +465,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 13 Pro Max</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/unlock-iphone-15-pro-max-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 15 Pro Max Without Passcode Easily</u></a></li>
 </ul></div>
+
 

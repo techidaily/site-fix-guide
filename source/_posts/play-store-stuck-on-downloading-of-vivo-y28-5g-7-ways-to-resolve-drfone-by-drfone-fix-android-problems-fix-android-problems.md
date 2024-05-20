@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Vivo Y28 5G? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:47.994Z
-updated: 2024-05-01T14:30:47.994Z
+date: 2024-05-19T03:59:07.178Z
+updated: 2024-05-20T03:59:07.178Z
 tags: 
   - problems
 categories:
@@ -515,4 +515,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro When We Dont Have Apple ID or Password?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-15-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 15 Pro Randomly Asking for Apple ID Password</u></a></li>
 </ul></div>
+
 

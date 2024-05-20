@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Honor X9a | Dr.fone
-date: 2024-04-30T14:21:00.962Z
-updated: 2024-05-01T14:21:00.962Z
+date: 2024-05-19T03:58:59.837Z
+updated: 2024-05-20T03:58:59.837Z
 tags: 
   - problems
 categories:
@@ -604,4 +604,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-15-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 15?</u></a></li>
 <li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-12-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 12 Making It Possible</u></a></li>
 </ul></div>
+
 

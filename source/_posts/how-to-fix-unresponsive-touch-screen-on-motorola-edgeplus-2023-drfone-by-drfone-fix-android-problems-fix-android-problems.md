@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Motorola Edge+ (2023) | Dr.fone
-date: 2024-04-30T14:21:09.223Z
-updated: 2024-05-01T14:21:09.223Z
+date: 2024-05-19T03:58:59.957Z
+updated: 2024-05-20T03:58:59.957Z
 tags: 
   - problems
 categories:
@@ -570,4 +570,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://techidaily.com/how-do-i-reset-my-nubia-z50s-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nubia Z50S Pro Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-spark-20c-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Spark 20C Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Honor 90 GT Black and White | Dr.fone
-date: 2024-04-30T14:31:55.719Z
-updated: 2024-05-01T14:31:55.719Z
+date: 2024-05-19T03:59:08.209Z
+updated: 2024-05-20T03:59:08.209Z
 tags: 
   - problems
 categories:
@@ -564,4 +564,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Huawei P60 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-x5-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco X5?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Zero 30 5G | Dr.fone
-date: 2024-04-30T14:19:27.237Z
-updated: 2024-05-01T14:19:27.237Z
+date: 2024-05-19T03:58:58.523Z
+updated: 2024-05-20T03:58:58.523Z
 tags: 
   - problems
 categories:
@@ -632,4 +632,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-15-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 15 Plus to iPhone without iCloud | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 12 Pro Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

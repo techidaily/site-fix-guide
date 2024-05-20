@@ -1,7 +1,7 @@
 ---
 title: Realme GT 5 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:53.641Z
-updated: 2024-05-01T14:32:53.641Z
+date: 2024-05-19T03:59:08.736Z
+updated: 2024-05-20T03:59:08.736Z
 tags: 
   - problems
 categories:
@@ -484,4 +484,5 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-a2-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo A2 for Streaming | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-14-pro-max-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 14 Pro Max online without jailbreak</u></a></li>
 </ul></div>
+
 

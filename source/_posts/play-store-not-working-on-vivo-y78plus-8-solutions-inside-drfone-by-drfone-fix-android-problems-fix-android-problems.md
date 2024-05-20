@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Vivo Y78+? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:30:00.482Z
-updated: 2024-05-01T14:30:00.482Z
+date: 2024-05-19T03:59:06.710Z
+updated: 2024-05-20T03:59:06.710Z
 tags: 
   - problems
 categories:
@@ -552,4 +552,5 @@ Vivo Y78+ Screen unresponsiveness can be a frustrating issue to deal with, but t
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y200e-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y200e 5G</u></a></li>
 <li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-s23-fe-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy S23 FE FRP Bypass</u></a></li>
 </ul></div>
+
 

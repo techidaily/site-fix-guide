@@ -1,7 +1,7 @@
 ---
 title: OnePlus 11 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:28:43.504Z
-updated: 2024-05-01T14:28:43.504Z
+date: 2024-05-19T03:59:05.816Z
+updated: 2024-05-20T03:59:05.816Z
 tags: 
   - problems
 categories:
@@ -440,4 +440,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>New 2024 Approved A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-m34-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy M34 5G for Free? | Dr.fone</u></a></li>
 </ul></div>
+
 

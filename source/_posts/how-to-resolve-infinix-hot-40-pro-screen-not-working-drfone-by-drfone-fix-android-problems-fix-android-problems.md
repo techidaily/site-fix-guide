@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Hot 40 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:29.027Z
-updated: 2024-05-01T14:23:29.027Z
+date: 2024-05-19T03:59:01.958Z
+updated: 2024-05-20T03:59:01.958Z
 tags: 
   - problems
 categories:
@@ -569,4 +569,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y100i-power-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y100i Power 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-get-started-with-jaycut-a-beginners-guide-to-free-video-editing-for-2024/"><u>Updated Get Started with Jaycut A Beginners Guide to Free Video Editing for 2024</u></a></li>
 </ul></div>
+
 

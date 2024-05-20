@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Huawei Nova Y91 | Dr.fone
-date: 2024-04-30T14:21:01.722Z
-updated: 2024-05-01T14:21:01.722Z
+date: 2024-05-19T03:58:59.843Z
+updated: 2024-05-20T03:58:59.843Z
 tags: 
   - problems
 categories:
@@ -538,4 +538,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://meme-emoji.techidaily.com/top-10-storyboarding-software-for-2024/"><u>Top 10 Storyboarding Software for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-spark-10-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Spark 10 Pro System Crash Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

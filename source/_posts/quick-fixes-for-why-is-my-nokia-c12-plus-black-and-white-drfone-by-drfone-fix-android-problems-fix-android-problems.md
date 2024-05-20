@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Nokia C12 Plus Black and White | Dr.fone
-date: 2024-04-30T14:32:09.926Z
-updated: 2024-05-01T14:32:09.926Z
+date: 2024-05-19T03:59:08.365Z
+updated: 2024-05-20T03:59:08.365Z
 tags: 
   - problems
 categories:
@@ -680,4 +680,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-note-30-vip-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Note 30 VIP Devices</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-11-pro-max-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 11 Pro Max Display? | Dr.fone</u></a></li>
 </ul></div>
+
 

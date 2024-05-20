@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on OnePlus Nord N30 SE | Dr.fone
-date: 2024-04-30T14:21:15.509Z
-updated: 2024-05-01T14:21:15.509Z
+date: 2024-05-19T03:59:00.065Z
+updated: 2024-05-20T03:59:00.065Z
 tags: 
   - problems
 categories:
@@ -528,4 +528,5 @@ Last but certainly not the least, users must avoid downloading large application
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo Reno 9A | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y56-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y56 5G Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

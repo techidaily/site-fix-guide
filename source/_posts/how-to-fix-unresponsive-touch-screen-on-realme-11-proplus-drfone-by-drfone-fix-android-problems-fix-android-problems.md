@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme 11 Pro+ | Dr.fone
-date: 2024-04-30T14:21:22.449Z
-updated: 2024-05-01T14:21:22.449Z
+date: 2024-05-19T03:59:00.120Z
+updated: 2024-05-20T03:59:00.120Z
 tags: 
   - problems
 categories:
@@ -564,4 +564,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-xs-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone XS and iPad</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-sony-xperia-5-v-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Sony Xperia 5 V Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

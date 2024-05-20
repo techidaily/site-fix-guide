@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Honor 90 GT | Dr.fone
-date: 2024-04-30T14:20:58.853Z
-updated: 2024-05-01T14:20:58.853Z
+date: 2024-05-19T03:58:59.817Z
+updated: 2024-05-20T03:58:59.817Z
 tags: 
   - problems
 categories:
@@ -602,4 +602,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-15-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 15 Plus Backup Password? Heres What to Do</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-photography-top-vignette-apps-for-iphone-ipad-and-android-for-2024/"><u>Elevate Your Photography Top Vignette Apps for iPhone, iPad, and Android for 2024</u></a></li>
 </ul></div>
+
 

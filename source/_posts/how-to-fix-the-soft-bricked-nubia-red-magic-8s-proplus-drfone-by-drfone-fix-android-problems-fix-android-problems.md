@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Nubia Red Magic 8S Pro+? | Dr.fone
-date: 2024-04-30T14:18:48.479Z
-updated: 2024-05-01T14:18:48.479Z
+date: 2024-05-19T03:58:58.135Z
+updated: 2024-05-20T03:58:58.135Z
 tags: 
   - problems
 categories:
@@ -489,4 +489,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Oppo A78? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Itel P55T | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Realme 12 Pro+ 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:32:44.581Z
-updated: 2024-05-01T14:32:44.581Z
+date: 2024-05-19T03:59:08.647Z
+updated: 2024-05-20T03:59:08.647Z
 tags: 
   - problems
 categories:
@@ -556,4 +556,5 @@ By prioritizing user safety and following the step-by-step approach in this guid
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-8-plus-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 8 Plus Passcode not Working? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-zte-nubia-z60-ultra-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any ZTE Nubia Z60 Ultra Phone Password Using Emergency Call</u></a></li>
 </ul></div>
+
 

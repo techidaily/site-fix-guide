@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 3 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:22.543Z
-updated: 2024-05-01T14:27:22.543Z
+date: 2024-05-19T03:59:04.861Z
+updated: 2024-05-20T03:59:04.861Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-se-2022-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone SE (2022) Unavailable Issue With Ease | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme GT 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

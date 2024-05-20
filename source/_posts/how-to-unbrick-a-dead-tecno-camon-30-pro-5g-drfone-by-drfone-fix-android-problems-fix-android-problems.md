@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Tecno Camon 30 Pro 5G | Dr.fone
-date: 2024-04-30T14:26:31.932Z
-updated: 2024-05-01T14:26:31.932Z
+date: 2024-05-19T03:59:04.234Z
+updated: 2024-05-20T03:59:04.234Z
 tags: 
   - problems
 categories:
@@ -578,4 +578,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nokia C02 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-t2-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo T2 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Tecno Spark 20C Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:01.291Z
-updated: 2024-05-01T14:24:01.291Z
+date: 2024-05-19T03:59:02.407Z
+updated: 2024-05-20T03:59:02.407Z
 tags: 
   - problems
 categories:
@@ -445,4 +445,5 @@ Now that you have decided where to download the apk file, these are the followin
 <li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-reno-10-pro-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Reno 10 Pro 5G FRP Android 10/11/12/13</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-105-classic-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia 105 Classic to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

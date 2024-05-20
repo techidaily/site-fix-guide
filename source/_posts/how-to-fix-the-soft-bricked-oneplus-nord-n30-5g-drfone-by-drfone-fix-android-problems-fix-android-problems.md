@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked OnePlus Nord N30 5G? | Dr.fone
-date: 2024-04-30T14:18:50.392Z
-updated: 2024-05-01T14:18:50.392Z
+date: 2024-05-19T03:58:58.156Z
+updated: 2024-05-20T03:58:58.156Z
 tags: 
   - problems
 categories:
@@ -485,4 +485,5 @@ Doing all the recommended methods above usually solves the case. If the differen
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-8-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 8 Plus i Do? Get Answers here | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-11-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 11 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
 </ul></div>
+
 

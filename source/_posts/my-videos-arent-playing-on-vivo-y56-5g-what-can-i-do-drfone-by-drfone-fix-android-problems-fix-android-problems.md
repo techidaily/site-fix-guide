@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Vivo Y56 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:23.361Z
-updated: 2024-05-01T14:28:23.361Z
+date: 2024-05-19T03:59:05.530Z
+updated: 2024-05-20T03:59:05.530Z
 tags: 
   - problems
 categories:
@@ -525,4 +525,5 @@ Vivo Y56 5G Screen unresponsiveness can be a frustrating issue to deal with, but
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme GT 5 Pro? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-have-a-sony-camera-and-want-to-try-different-luts-on-your-digital-content-youre-at-the-right-place-as-you-can-apply-sony-hlg-lu/"><u>Updated 2024 Approved Do You Have a Sony Camera and Want to Try Different LUTs on Your Digital Content? Youre at the Right Place, as You Can Apply Sony HLG LUTs to Your Media</u></a></li>
 </ul></div>
+
 

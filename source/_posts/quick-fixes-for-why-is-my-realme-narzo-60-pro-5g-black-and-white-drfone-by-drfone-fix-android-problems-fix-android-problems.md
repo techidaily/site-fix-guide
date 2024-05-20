@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Realme Narzo 60 Pro 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:20.694Z
-updated: 2024-05-01T14:32:20.694Z
+date: 2024-05-19T03:59:08.446Z
+updated: 2024-05-20T03:59:08.446Z
 tags: 
   - problems
 categories:
@@ -663,4 +663,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Motorola Moto G23 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-6-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 6 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Yuva 2 | Dr.fone
-date: 2024-04-30T14:17:57.660Z
-updated: 2024-05-01T14:17:57.660Z
+date: 2024-05-19T03:58:57.478Z
+updated: 2024-05-20T03:58:57.478Z
 tags: 
   - problems
 categories:
@@ -638,4 +638,5 @@ As much as factory mode can be a useful solution to a number of problems, it can
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-7-plusipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 7 Plus/iPad/iPod</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
 </ul></div>
+
 

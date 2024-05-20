@@ -1,7 +1,7 @@
 ---
 title: Infinix Hot 30 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-04-30T14:26:47.547Z
-updated: 2024-05-01T14:26:47.547Z
+date: 2024-05-19T03:59:04.483Z
+updated: 2024-05-20T03:59:04.483Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-infinix-note-30-vip-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Infinix Note 30 VIP FRP Bypass</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-11-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 Pro without Passcode or Face ID | Dr.fone</u></a></li>
 </ul></div>
+
 

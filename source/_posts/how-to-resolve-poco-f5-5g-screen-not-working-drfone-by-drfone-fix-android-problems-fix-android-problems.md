@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Poco F5 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:47.662Z
-updated: 2024-05-01T14:23:47.662Z
+date: 2024-05-19T03:59:02.221Z
+updated: 2024-05-20T03:59:02.221Z
 tags: 
   - problems
 categories:
@@ -556,4 +556,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-guide-to-make-a-youtube-intro-by-filmora/"><u>New In 2024, Guide To Make a YouTube Intro by Filmora</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-understanding-aspect-ratios-5-key-insights/"><u>New 2024 Approved Understanding Aspect Ratios 5 Key Insights</u></a></li>
 </ul></div>
+
 

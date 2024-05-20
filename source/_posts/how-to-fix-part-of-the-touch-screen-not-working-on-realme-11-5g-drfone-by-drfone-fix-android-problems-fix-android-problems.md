@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme 11 5G | Dr.fone
-date: 2024-04-30T14:18:11.604Z
-updated: 2024-05-01T14:18:11.604Z
+date: 2024-05-19T03:58:57.830Z
+updated: 2024-05-20T03:58:57.830Z
 tags: 
   - problems
 categories:
@@ -615,4 +615,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y27s-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y27s</u></a></li>
 </ul></div>
+
 

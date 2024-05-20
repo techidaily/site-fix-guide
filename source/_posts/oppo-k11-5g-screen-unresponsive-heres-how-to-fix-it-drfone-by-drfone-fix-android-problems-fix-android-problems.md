@@ -1,7 +1,7 @@
 ---
 title: Oppo K11 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:29:11.573Z
-updated: 2024-05-01T14:29:11.573Z
+date: 2024-05-19T03:59:06.151Z
+updated: 2024-05-20T03:59:06.151Z
 tags: 
   - problems
 categories:
@@ -536,4 +536,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-13-pro-max-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 13 Pro Max Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-reno-10-proplus-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo Reno 10 Pro+ 5G Phone</u></a></li>
 </ul></div>
+
 

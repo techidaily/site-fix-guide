@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Lava Yuva 2 Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:05.060Z
-updated: 2024-05-01T14:32:05.060Z
+date: 2024-05-19T03:59:08.333Z
+updated: 2024-05-20T03:59:08.333Z
 tags: 
   - problems
 categories:
@@ -512,4 +512,5 @@ To deal with an unresponsive screen, users can try restarting the Lava Yuva 2 Pr
 <li><a href="https://ai-editing-video.techidaily.com/powerpoint-supported-video-format-and-user-tips-for-2024/"><u>Powerpoint Supported Video Format and User Tips for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-moto-e13-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Moto E13 Location | Dr.fone</u></a></li>
 </ul></div>
+
 

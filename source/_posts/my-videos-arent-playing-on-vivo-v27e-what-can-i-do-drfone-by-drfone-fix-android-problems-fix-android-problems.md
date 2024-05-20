@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Vivo V27e – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:20.530Z
-updated: 2024-05-01T14:28:20.530Z
+date: 2024-05-19T03:59:05.500Z
+updated: 2024-05-20T03:59:05.500Z
 tags: 
   - problems
 categories:
@@ -645,4 +645,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-zte-axon-40-lite-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on ZTE Axon 40 Lite? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 Plus iOS System? | Dr.fone</u></a></li>
 </ul></div>
+
 

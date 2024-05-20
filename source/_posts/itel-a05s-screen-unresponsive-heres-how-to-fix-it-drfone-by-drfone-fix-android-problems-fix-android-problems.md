@@ -1,7 +1,7 @@
 ---
 title: Itel A05s Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:01.998Z
-updated: 2024-05-01T14:27:01.998Z
+date: 2024-05-19T03:59:04.657Z
+updated: 2024-05-20T03:59:04.657Z
 tags: 
   - problems
 categories:
@@ -475,4 +475,5 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 <li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme 11 5G? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-3-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme GT 3 Phone Without Password?</u></a></li>
 </ul></div>
+
 

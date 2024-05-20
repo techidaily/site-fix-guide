@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T14:21:06.068Z
-updated: 2024-05-01T14:21:06.068Z
+date: 2024-05-19T03:58:59.920Z
+updated: 2024-05-20T03:58:59.920Z
 tags: 
   - problems
 categories:
@@ -528,4 +528,5 @@ When nothing works, the last resort you can go with is resetting the Lava Agni 2
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Motorola Edge 2023 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mastering-mobile-one-simple-trick-to-optimize-your-vertical-videos/"><u>Updated In 2024, Mastering Mobile One Simple Trick to Optimize Your Vertical Videos</u></a></li>
 </ul></div>
+
 

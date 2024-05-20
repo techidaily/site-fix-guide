@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme 12+ 5G | Dr.fone
-date: 2024-04-30T14:21:23.218Z
-updated: 2024-05-01T14:21:23.218Z
+date: 2024-05-19T03:59:00.126Z
+updated: 2024-05-20T03:59:00.126Z
 tags: 
   - problems
 categories:
@@ -499,4 +499,5 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 <li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-6-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 6 When You Forget the Passcode?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo Y200e 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

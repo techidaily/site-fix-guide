@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Infinix Smart 8 HD Black and White | Dr.fone
-date: 2024-04-30T14:32:01.500Z
-updated: 2024-05-01T14:32:01.500Z
+date: 2024-05-19T03:59:08.270Z
+updated: 2024-05-20T03:59:08.270Z
 tags: 
   - problems
 categories:
@@ -571,4 +571,5 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 <li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Nokia 130 Music | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo X100 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

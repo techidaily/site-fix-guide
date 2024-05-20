@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Oppo A18 Black and White | Dr.fone
-date: 2024-04-30T14:32:13.122Z
-updated: 2024-05-01T14:32:13.122Z
+date: 2024-05-19T03:59:08.388Z
+updated: 2024-05-20T03:59:08.388Z
 tags: 
   - problems
 categories:
@@ -656,4 +656,5 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Huawei Nova Y71 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-pro-quality-videos-made-easy-top-video-stabilizer-apps/"><u>Updated 2024 Approved Pro-Quality Videos Made Easy Top Video Stabilizer Apps</u></a></li>
 </ul></div>
+
 

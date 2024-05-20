@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Infinix Smart 8 HD | Dr.fone
-date: 2024-04-30T14:21:03.430Z
-updated: 2024-05-01T14:21:03.430Z
+date: 2024-05-19T03:58:59.857Z
+updated: 2024-05-20T03:58:59.857Z
 tags: 
   - problems
 categories:
@@ -568,4 +568,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-s23-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy S23 FRP Bypass Instantly</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-best-vivo-y100-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y100 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 

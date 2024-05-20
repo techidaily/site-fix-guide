@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Itel S23 Black and White | Dr.fone
-date: 2024-04-30T14:32:03.730Z
-updated: 2024-05-01T14:32:03.730Z
+date: 2024-05-19T03:59:08.323Z
+updated: 2024-05-20T03:59:08.323Z
 tags: 
   - problems
 categories:
@@ -685,4 +685,5 @@ After following these quick and easy suggestions, you would be able to fix the I
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-13-pro-max-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 13 Pro Max without Apple ID?</u></a></li>
 <li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y17s | Dr.fone</u></a></li>
 </ul></div>
+
 

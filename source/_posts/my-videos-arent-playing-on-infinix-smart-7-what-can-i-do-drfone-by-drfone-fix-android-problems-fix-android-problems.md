@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Infinix Smart 7 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:48.444Z
-updated: 2024-05-01T14:27:48.444Z
+date: 2024-05-19T03:59:05.152Z
+updated: 2024-05-20T03:59:05.152Z
 tags: 
   - problems
 categories:
@@ -600,4 +600,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-cutting-edge-mkv-editing-tools-for-mac/"><u>2024 Approved Cutting-Edge MKV Editing Tools for Mac</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-a56s-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo A56s 5G Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

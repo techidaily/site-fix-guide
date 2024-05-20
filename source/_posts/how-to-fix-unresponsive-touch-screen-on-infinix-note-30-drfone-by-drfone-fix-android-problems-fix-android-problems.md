@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Infinix Note 30 | Dr.fone
-date: 2024-04-30T14:21:02.673Z
-updated: 2024-05-01T14:21:02.673Z
+date: 2024-05-19T03:58:59.851Z
+updated: 2024-05-20T03:58:59.851Z
 tags: 
   - problems
 categories:
@@ -497,4 +497,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-download-kinemaster-pro-for-mac-a-detailed-installation-process/"><u>New 2024 Approved Download KineMaster Pro for Mac A Detailed Installation Process</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-huawei-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Huawei </u></a></li>
 </ul></div>
+
 

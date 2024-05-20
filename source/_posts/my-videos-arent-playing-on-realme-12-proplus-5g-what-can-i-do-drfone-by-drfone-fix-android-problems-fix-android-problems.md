@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Realme 12 Pro+ 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:08.728Z
-updated: 2024-05-01T14:28:08.728Z
+date: 2024-05-19T03:59:05.369Z
+updated: 2024-05-20T03:59:05.369Z
 tags: 
   - problems
 categories:
@@ -592,4 +592,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-a05s-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Itel A05s</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-split-screen-video-editor-online-and-offline/"><u>2024 Approved Best Split Screen Video Editor Online & Offline</u></a></li>
 </ul></div>
+
 

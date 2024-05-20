@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Google Pixel 8 Pro | Dr.fone
-date: 2024-04-30T14:20:08.471Z
-updated: 2024-05-01T14:20:08.471Z
+date: 2024-05-19T03:58:58.968Z
+updated: 2024-05-20T03:58:58.968Z
 tags: 
   - problems
 categories:
@@ -607,4 +607,5 @@ After following these quick and easy suggestions, you would be able to fix the G
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-top-ios-solutions-finding-premium-slow-motion-apps-for-video-creation/"><u>New 2024 Approved Top iOS Solutions Finding Premium Slow Motion Apps For Video Creation</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nokia C12? | Dr.fone</u></a></li>
 </ul></div>
+
 

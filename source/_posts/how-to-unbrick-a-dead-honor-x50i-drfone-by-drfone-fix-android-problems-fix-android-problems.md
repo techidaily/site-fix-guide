@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Honor X50i | Dr.fone
-date: 2024-04-30T14:26:01.043Z
-updated: 2024-05-01T14:26:01.043Z
+date: 2024-05-19T03:59:03.847Z
+updated: 2024-05-20T03:59:03.847Z
 tags: 
   - problems
 categories:
@@ -462,4 +462,5 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-transform-your-videos-best-time-lapse-editing-apps-for-mobile/"><u>Updated 2024 Approved Transform Your Videos Best Time-Lapse Editing Apps for Mobile</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

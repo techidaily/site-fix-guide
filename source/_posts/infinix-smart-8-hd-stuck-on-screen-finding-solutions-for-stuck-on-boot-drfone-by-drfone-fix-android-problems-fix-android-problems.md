@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 8 HD Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:26:58.415Z
-updated: 2024-05-01T14:26:58.415Z
+date: 2024-05-19T03:59:04.577Z
+updated: 2024-05-20T03:59:04.577Z
 tags: 
   - problems
 categories:
@@ -509,4 +509,5 @@ When following the directions, the user may require more research into some trou
 <li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 11 Pro to Android | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/how-to-convert-video-voice-to-text-online-for-free-for-2024/"><u>How To Convert Video Voice to Text Online for Free for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y36i? | Dr.fone
-date: 2024-04-30T14:19:12.767Z
-updated: 2024-05-01T14:19:12.767Z
+date: 2024-05-19T03:58:58.370Z
+updated: 2024-05-20T03:58:58.370Z
 tags: 
   - problems
 categories:
@@ -427,4 +427,5 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-v30-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo V30 Pro for Free? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-camon-20-pro-5g-by-drfone-android/"><u>How to Bypass FRP from Tecno Camon 20 Pro 5G?</u></a></li>
 </ul></div>
+
 

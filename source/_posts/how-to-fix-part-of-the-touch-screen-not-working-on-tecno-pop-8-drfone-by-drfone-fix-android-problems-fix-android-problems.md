@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Pop 8 | Dr.fone
-date: 2024-04-30T14:18:21.760Z
-updated: 2024-05-01T14:18:21.760Z
+date: 2024-05-19T03:58:57.914Z
+updated: 2024-05-20T03:58:57.914Z
 tags: 
   - problems
 categories:
@@ -561,4 +561,5 @@ Last but certainly not the least, users must avoid downloading large application
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/repair-corrupt-pdf-v13-file-using-pdf-repair-tool-by-stellar-guide/"><u>Repair Corrupt PDF v1.3 File using PDF Repair Tool</u></a></li>
 </ul></div>
+
 

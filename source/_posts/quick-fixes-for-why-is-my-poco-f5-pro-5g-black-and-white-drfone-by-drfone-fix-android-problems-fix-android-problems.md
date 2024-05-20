@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Poco F5 Pro 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:16.489Z
-updated: 2024-05-01T14:32:16.489Z
+date: 2024-05-19T03:59:08.412Z
+updated: 2024-05-20T03:59:08.412Z
 tags: 
   - problems
 categories:
@@ -547,4 +547,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oneplus-nord-ce-3-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On OnePlus Nord CE 3 5G? Look No Further | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/lumafusion-on-mac-installation-guide-and-alternative-options-for-2024/"><u>Lumafusion on Mac Installation Guide and Alternative Options for 2024</u></a></li>
 </ul></div>
+
 

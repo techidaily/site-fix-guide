@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Itel P40+ Black and White | Dr.fone
-date: 2024-04-30T14:32:02.772Z
-updated: 2024-05-01T14:32:02.772Z
+date: 2024-05-19T03:59:08.315Z
+updated: 2024-05-20T03:59:08.315Z
 tags: 
   - problems
 categories:
@@ -579,4 +579,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-realme-11-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Realme 11 Pro without backup.</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Oppo A1 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

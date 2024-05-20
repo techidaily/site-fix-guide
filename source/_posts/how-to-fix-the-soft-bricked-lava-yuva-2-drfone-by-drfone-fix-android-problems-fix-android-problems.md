@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Lava Yuva 2? | Dr.fone
-date: 2024-04-30T14:18:42.653Z
-updated: 2024-05-01T14:18:42.653Z
+date: 2024-05-19T03:58:58.099Z
+updated: 2024-05-20T03:58:58.099Z
 tags: 
   - problems
 categories:
@@ -408,4 +408,5 @@ When following the directions, the user may require more research into some trou
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-12plus-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme 12+ 5G Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g23-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G23 Location without Installing Software? | Dr.fone</u></a></li>
 </ul></div>
+
 

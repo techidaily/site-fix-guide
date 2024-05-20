@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Tecno Spark 10C? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:42.246Z
-updated: 2024-05-01T14:30:42.246Z
+date: 2024-05-19T03:59:07.098Z
+updated: 2024-05-20T03:59:07.098Z
 tags: 
   - problems
 categories:
@@ -465,4 +465,5 @@ To deal with an unresponsive screen, users can try restarting the Tecno Spark 10
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-redmi-note-12-proplus-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi Redmi Note 12 Pro+ 5G IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-steady-shots-best-free-android-video-stabilizers/"><u>2024 Approved Steady Shots Best Free Android Video Stabilizers</u></a></li>
 </ul></div>
+
 

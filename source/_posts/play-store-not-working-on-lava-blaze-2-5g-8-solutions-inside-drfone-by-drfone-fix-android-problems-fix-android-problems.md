@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Lava Blaze 2 5G? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:30.467Z
-updated: 2024-05-01T14:29:30.467Z
+date: 2024-05-19T03:59:06.315Z
+updated: 2024-05-20T03:59:06.315Z
 tags: 
   - problems
 categories:
@@ -500,4 +500,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-tips-on-how-to-learn-graphics-animation/"><u>New 2024 Approved Tips on How to Learn Graphics Animation</u></a></li>
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Smart 8 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

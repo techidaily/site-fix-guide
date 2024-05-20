@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T14:19:53.584Z
-updated: 2024-05-01T14:19:53.584Z
+date: 2024-05-19T03:58:58.789Z
+updated: 2024-05-20T03:58:58.789Z
 tags: 
   - problems
 categories:
@@ -512,4 +512,5 @@ While there are many options to fix this error, only one is an excellent choice:
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-30-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 30 5G to Laptop Without USB | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-hot-30-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Hot 30 5G without backup.</u></a></li>
 </ul></div>
+
 

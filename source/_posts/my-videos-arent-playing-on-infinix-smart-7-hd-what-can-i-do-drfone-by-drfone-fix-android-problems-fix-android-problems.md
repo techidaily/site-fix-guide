@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Infinix Smart 7 HD – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:48.255Z
-updated: 2024-05-01T14:27:48.255Z
+date: 2024-05-19T03:59:05.151Z
+updated: 2024-05-20T03:59:05.151Z
 tags: 
   - problems
 categories:
@@ -434,4 +434,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y17s-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y17s without Him Knowing | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g23-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G23 to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 

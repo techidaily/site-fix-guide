@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme 12 Pro+ 5G | Dr.fone
-date: 2024-04-30T14:18:12.565Z
-updated: 2024-05-01T14:18:12.565Z
+date: 2024-05-19T03:58:57.837Z
+updated: 2024-05-20T03:58:57.837Z
 tags: 
   - problems
 categories:
@@ -599,4 +599,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://ai-topics.techidaily.com/updated-2024-approved-what-is-an-ai-artist/"><u>Updated 2024 Approved What Is an AI Artist?</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-ai-youtube-script-writers-and-the-ultimate-guide/"><u>In 2024, Best AI YouTube Script Writers and The Ultimate Guide</u></a></li>
 </ul></div>
+
 

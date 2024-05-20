@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Tecno Spark 10 5G | Dr.fone
-date: 2024-04-30T14:26:32.697Z
-updated: 2024-05-01T14:26:32.697Z
+date: 2024-05-19T03:59:04.241Z
+updated: 2024-05-20T03:59:04.241Z
 tags: 
   - problems
 categories:
@@ -577,4 +577,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-honor-x9a-device-sim-by-drfone-android/"><u>Easily Unlock Your Honor X9a Device SIM</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-galaxy-s23-ultra-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Galaxy S23 Ultra</u></a></li>
 </ul></div>
+
 

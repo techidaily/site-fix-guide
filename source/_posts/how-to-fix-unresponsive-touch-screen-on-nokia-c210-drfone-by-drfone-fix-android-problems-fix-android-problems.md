@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Nokia C210 | Dr.fone
-date: 2024-04-30T14:21:12.318Z
-updated: 2024-05-01T14:21:12.318Z
+date: 2024-05-19T03:58:59.981Z
+updated: 2024-05-20T03:58:59.981Z
 tags: 
   - problems
 categories:
@@ -509,4 +509,5 @@ For those who find themselves locked out of their Nokia C210 devices, there's a 
 <li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-itel-a60s-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Itel A60s</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-how-to-turn-yourself-into-anime-character-for-2024/"><u>Updated How To Turn Yourself Into Anime Character for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Motorola Moto G23? | Dr.fone
-date: 2024-04-30T14:18:45.425Z
-updated: 2024-05-01T14:18:45.425Z
+date: 2024-05-19T03:58:58.116Z
+updated: 2024-05-20T03:58:58.116Z
 tags: 
   - problems
 categories:
@@ -513,4 +513,5 @@ While there are many options to fix this error, only one is an excellent choice:
 <li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 6s Plus</u></a></li>
 <li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 7 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

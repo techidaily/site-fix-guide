@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Vivo Y36 in Minutes | Dr.fone
-date: 2024-04-30T14:25:51.217Z
-updated: 2024-05-01T14:25:51.217Z
+date: 2024-05-19T03:59:03.743Z
+updated: 2024-05-20T03:59:03.743Z
 tags: 
   - problems
 categories:
@@ -543,4 +543,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Motorola Moto E13? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-a23-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy A23 5G Android SIM Unlock APK</u></a></li>
 </ul></div>
+
 

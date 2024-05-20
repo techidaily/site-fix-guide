@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on OnePlus 12 | Dr.fone
-date: 2024-04-30T14:21:14.369Z
-updated: 2024-05-01T14:21:14.369Z
+date: 2024-05-19T03:58:59.995Z
+updated: 2024-05-20T03:58:59.995Z
 tags: 
   - problems
 categories:
@@ -606,4 +606,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y200-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y200 | Dr.fone</u></a></li>
 </ul></div>
+
 

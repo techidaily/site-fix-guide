@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme Note 50 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:52.261Z
-updated: 2024-05-01T14:23:52.261Z
+date: 2024-05-19T03:59:02.302Z
+updated: 2024-05-20T03:59:02.302Z
 tags: 
   - problems
 categories:
@@ -534,4 +534,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://android-unlock.techidaily.com/best-vivo-t2-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo T2 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

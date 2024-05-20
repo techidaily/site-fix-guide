@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Itel P40 | Dr.fone
-date: 2024-04-30T14:17:55.575Z
-updated: 2024-05-01T14:17:55.575Z
+date: 2024-05-19T03:58:57.459Z
+updated: 2024-05-20T03:58:57.459Z
 tags: 
   - problems
 categories:
@@ -607,4 +607,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-itel-p55-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Itel P55 Phone Now with These Tips</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-a18-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo A18 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

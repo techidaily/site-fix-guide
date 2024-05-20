@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Spark 20C | Dr.fone
-date: 2024-04-30T14:18:23.106Z
-updated: 2024-05-01T14:18:23.106Z
+date: 2024-05-19T03:58:57.923Z
+updated: 2024-05-20T03:58:57.923Z
 tags: 
   - problems
 categories:
@@ -548,4 +548,5 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor Play 40C | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-90-lite-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor 90 Lite without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

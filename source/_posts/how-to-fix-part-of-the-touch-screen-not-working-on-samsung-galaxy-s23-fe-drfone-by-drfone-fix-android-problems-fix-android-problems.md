@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy S23 FE | Dr.fone
-date: 2024-04-30T14:18:18.290Z
-updated: 2024-05-01T14:18:18.290Z
+date: 2024-05-19T03:58:57.892Z
+updated: 2024-05-20T03:58:57.892Z
 tags: 
   - problems
 categories:
@@ -629,4 +629,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a54-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A54 5G Phone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-reno-10-proplus-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo Reno 10 Pro+ 5G Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

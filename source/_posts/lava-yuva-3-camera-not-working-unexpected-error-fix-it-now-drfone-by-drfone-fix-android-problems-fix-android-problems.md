@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 3 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:27:21.373Z
-updated: 2024-05-01T14:27:21.373Z
+date: 2024-05-19T03:59:04.852Z
+updated: 2024-05-20T03:59:04.852Z
 tags: 
   - problems
 categories:
@@ -630,4 +630,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://ai-editing-video.techidaily.com/updated-6-best-methods-to-make-a-video-longer-for-2024/"><u>Updated 6 Best Methods to Make a Video Longer for 2024</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-how-to-stop-animation-from-looping-in-unity/"><u>New 2024 Approved How to Stop Animation From Looping in Unity</u></a></li>
 </ul></div>
+
 

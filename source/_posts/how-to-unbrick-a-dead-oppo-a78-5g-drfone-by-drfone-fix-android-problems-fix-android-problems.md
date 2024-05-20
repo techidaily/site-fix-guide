@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Oppo A78 5G | Dr.fone
-date: 2024-04-30T14:26:18.152Z
-updated: 2024-05-01T14:26:18.152Z
+date: 2024-05-19T03:59:04.038Z
+updated: 2024-05-20T03:59:04.038Z
 tags: 
   - problems
 categories:
@@ -591,4 +591,5 @@ After following these quick and easy suggestions, you would be able to fix the O
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-y02t-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y02T Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-top-rated-free-video-rotation-software-for-windows-and-mac/"><u>New Top-Rated Free Video Rotation Software for Windows and Mac</u></a></li>
 </ul></div>
+
 

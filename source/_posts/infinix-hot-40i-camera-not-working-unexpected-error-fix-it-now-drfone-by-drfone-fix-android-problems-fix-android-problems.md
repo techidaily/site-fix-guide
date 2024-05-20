@@ -1,7 +1,7 @@
 ---
 title: Infinix Hot 40i Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:26:50.736Z
-updated: 2024-05-01T14:26:50.736Z
+date: 2024-05-19T03:59:04.511Z
+updated: 2024-05-20T03:59:04.511Z
 tags: 
   - problems
 categories:
@@ -563,4 +563,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the issue wi
 <li><a href="https://ai-video-translation.techidaily.com/2024-approved-netflix-subtitle-translation-methods-comprehensive-guide/"><u>2024 Approved Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-a25-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy A25 5G</u></a></li>
 </ul></div>
+
 

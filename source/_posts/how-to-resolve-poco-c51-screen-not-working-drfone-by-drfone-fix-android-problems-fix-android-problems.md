@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Poco C51 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:47.276Z
-updated: 2024-05-01T14:23:47.276Z
+date: 2024-05-19T03:59:02.209Z
+updated: 2024-05-20T03:59:02.209Z
 tags: 
   - problems
 categories:
@@ -531,4 +531,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-elevate-your-video-production-on-mac-with-adobe-premiere-pro/"><u>Updated In 2024, Elevate Your Video Production on Mac with Adobe Premiere Pro</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-record-videos-with-a-phantom-high-speed-camera-in-this-guide-you-can-get-a-detailed-note-on-the-phantom-camera/"><u>New In 2024, Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera</u></a></li>
 </ul></div>
+
 

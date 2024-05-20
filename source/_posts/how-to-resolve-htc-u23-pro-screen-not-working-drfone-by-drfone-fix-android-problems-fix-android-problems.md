@@ -1,7 +1,7 @@
 ---
 title: How to Resolve HTC U23 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:27.869Z
-updated: 2024-05-01T14:23:27.869Z
+date: 2024-05-19T03:59:01.948Z
+updated: 2024-05-20T03:59:01.948Z
 tags: 
   - problems
 categories:
@@ -464,4 +464,5 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme 10T 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-c51-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme C51 without App | Dr.fone</u></a></li>
 </ul></div>
+
 

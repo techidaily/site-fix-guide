@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo Y77t Black and White | Dr.fone
-date: 2024-04-30T14:32:34.629Z
-updated: 2024-05-01T14:32:34.629Z
+date: 2024-05-19T03:59:08.572Z
+updated: 2024-05-20T03:59:08.572Z
 tags: 
   - problems
 categories:
@@ -601,4 +601,5 @@ Encountering difficulties when updating Google Play Services can be frustrating,
 <li><a href="https://techidaily.com/best-fixes-for-vivo-y02t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y02T Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-itel-s23-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Itel S23 Face Lock?</u></a></li>
 </ul></div>
+
 

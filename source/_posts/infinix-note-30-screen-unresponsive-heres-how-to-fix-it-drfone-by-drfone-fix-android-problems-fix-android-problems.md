@@ -1,7 +1,7 @@
 ---
 title: Infinix Note 30 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:26:53.234Z
-updated: 2024-05-01T14:26:53.234Z
+date: 2024-05-19T03:59:04.527Z
+updated: 2024-05-20T03:59:04.527Z
 tags: 
   - problems
 categories:
@@ -646,4 +646,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone SE?</u></a></li>
 <li><a href="https://howto.techidaily.com/best-methods-for-itel-p55-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Itel P55 Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

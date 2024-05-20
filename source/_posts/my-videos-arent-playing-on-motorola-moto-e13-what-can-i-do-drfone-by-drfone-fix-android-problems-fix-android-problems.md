@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Motorola Moto E13 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:53.745Z
-updated: 2024-05-01T14:27:53.745Z
+date: 2024-05-19T03:59:05.241Z
+updated: 2024-05-20T03:59:05.241Z
 tags: 
   - problems
 categories:
@@ -581,4 +581,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-moto-g04-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola Moto G04</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-find-x7-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Find X7 Ultra Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

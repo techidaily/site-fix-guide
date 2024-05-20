@@ -1,7 +1,7 @@
 ---
 title: Lava Blaze 2 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:15.638Z
-updated: 2024-05-01T14:27:15.638Z
+date: 2024-05-19T03:59:04.797Z
+updated: 2024-05-20T03:59:04.797Z
 tags: 
   - problems
 categories:
@@ -540,4 +540,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

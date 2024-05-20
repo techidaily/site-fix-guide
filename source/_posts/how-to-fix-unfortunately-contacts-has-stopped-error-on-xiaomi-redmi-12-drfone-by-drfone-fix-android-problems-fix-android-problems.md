@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi 12 | Dr.fone
-date: 2024-04-30T14:20:04.492Z
-updated: 2024-05-01T14:20:04.492Z
+date: 2024-05-19T03:58:58.888Z
+updated: 2024-05-20T03:58:58.888Z
 tags: 
   - problems
 categories:
@@ -569,4 +569,5 @@ Now that you have decided where to download the apk file, these are the followin
 <li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo V30 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-motorola-moto-g-stylus-2023-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Motorola Moto G Stylus (2023)</u></a></li>
 </ul></div>
+
 

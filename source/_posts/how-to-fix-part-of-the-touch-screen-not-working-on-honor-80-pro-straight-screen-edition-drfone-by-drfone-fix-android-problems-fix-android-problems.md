@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor 80 Pro Straight Screen Edition | Dr.fone
-date: 2024-04-30T14:17:49.156Z
-updated: 2024-05-01T14:17:49.156Z
+date: 2024-05-19T03:58:57.359Z
+updated: 2024-05-20T03:58:57.359Z
 tags: 
   - problems
 categories:
@@ -564,4 +564,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://ai-editing-video.techidaily.com/how-to-create-simple-slideshow-word-for-2024/"><u>How to Create Simple Slideshow Word for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y27 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

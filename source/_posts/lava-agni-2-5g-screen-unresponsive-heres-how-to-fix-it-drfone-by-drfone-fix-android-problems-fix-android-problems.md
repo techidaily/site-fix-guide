@@ -1,7 +1,7 @@
 ---
 title: Lava Agni 2 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:12.774Z
-updated: 2024-05-01T14:27:12.774Z
+date: 2024-05-19T03:59:04.775Z
+updated: 2024-05-20T03:59:04.775Z
 tags: 
   - problems
 categories:
@@ -538,4 +538,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nubia-red-magic-9-proplus-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nubia Red Magic 9 Pro+ for Streaming | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-x100-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo X100 Phone</u></a></li>
 </ul></div>
+
 

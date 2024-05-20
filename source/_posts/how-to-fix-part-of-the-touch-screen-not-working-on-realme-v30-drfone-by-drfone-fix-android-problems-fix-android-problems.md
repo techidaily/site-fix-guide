@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme V30 | Dr.fone
-date: 2024-04-30T14:18:14.894Z
-updated: 2024-05-01T14:18:14.894Z
+date: 2024-05-19T03:58:57.852Z
+updated: 2024-05-20T03:58:57.852Z
 tags: 
   - problems
 categories:
@@ -566,4 +566,5 @@ It is our hope that when faced with this fairly common error, you will not panic
 <li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-gif-to-jpg-is-as-simple-as-a-blink-of-an-eye-for-2024/"><u>Updated GIF to JPG Is as Simple as a Blink of an Eye for 2024</u></a></li>
 </ul></div>
+
 

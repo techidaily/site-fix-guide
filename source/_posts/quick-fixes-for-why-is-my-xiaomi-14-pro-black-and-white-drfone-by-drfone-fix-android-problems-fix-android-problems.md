@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Xiaomi 14 Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:35.584Z
-updated: 2024-05-01T14:32:35.584Z
+date: 2024-05-19T03:59:08.580Z
+updated: 2024-05-20T03:59:08.580Z
 tags: 
   - problems
 categories:
@@ -576,4 +576,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-s17-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo S17 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/6-free-tools-to-radial-blur-photos-online-for-2024/"><u>6 Free Tools To Radial Blur Photos Online for 2024</u></a></li>
 </ul></div>
+
 

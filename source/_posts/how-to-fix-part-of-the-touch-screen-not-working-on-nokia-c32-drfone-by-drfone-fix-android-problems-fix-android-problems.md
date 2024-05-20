@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nokia C32 | Dr.fone
-date: 2024-04-30T14:18:02.407Z
-updated: 2024-05-01T14:18:02.407Z
+date: 2024-05-19T03:58:57.516Z
+updated: 2024-05-20T03:58:57.516Z
 tags: 
   - problems
 categories:
@@ -657,4 +657,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-6s-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone 6s Activation Lock without Previous Owner?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone After iOS Update? | Stellar</u></a></li>
 </ul></div>
+
 

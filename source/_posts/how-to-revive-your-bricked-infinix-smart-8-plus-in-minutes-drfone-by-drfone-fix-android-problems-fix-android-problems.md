@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Infinix Smart 8 Plus in Minutes | Dr.fone
-date: 2024-04-30T14:25:13.765Z
-updated: 2024-05-01T14:25:13.765Z
+date: 2024-05-19T03:59:03.291Z
+updated: 2024-05-20T03:59:03.291Z
 tags: 
   - problems
 categories:
@@ -589,4 +589,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-motorola-g24-power-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Motorola G24 Power Activity | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-zte-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On ZTE?</u></a></li>
 </ul></div>
+
 

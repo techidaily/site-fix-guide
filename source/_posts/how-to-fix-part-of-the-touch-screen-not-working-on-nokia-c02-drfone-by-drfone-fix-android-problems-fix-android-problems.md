@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nokia C02 | Dr.fone
-date: 2024-04-30T14:18:01.445Z
-updated: 2024-05-01T14:18:01.445Z
+date: 2024-05-19T03:58:57.508Z
+updated: 2024-05-20T03:58:57.508Z
 tags: 
   - problems
 categories:
@@ -571,4 +571,5 @@ After following these quick and easy suggestions, you would be able to fix the N
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor Magic 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-c53-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme C53 Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

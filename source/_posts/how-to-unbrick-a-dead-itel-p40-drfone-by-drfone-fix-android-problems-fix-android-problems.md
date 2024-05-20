@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Itel P40 | Dr.fone
-date: 2024-04-30T14:26:06.230Z
-updated: 2024-05-01T14:26:06.230Z
+date: 2024-05-19T03:59:03.906Z
+updated: 2024-05-20T03:59:03.906Z
 tags: 
   - problems
 categories:
@@ -520,4 +520,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-cut-trim-and-edit-top-5-free-wmv-video-editors/"><u>2024 Approved Cut, Trim, and Edit Top 5 Free WMV Video Editors</u></a></li>
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On OnePlus Ace 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

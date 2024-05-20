@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 3 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:27:22.732Z
-updated: 2024-05-01T14:27:22.732Z
+date: 2024-05-19T03:59:04.863Z
+updated: 2024-05-20T03:59:04.863Z
 tags: 
   - problems
 categories:
@@ -475,4 +475,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-translate-videos-with-subtitle-cat-your-essential-guide/"><u>New In 2024, Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23plus-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23+ Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

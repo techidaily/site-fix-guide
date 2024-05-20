@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Poco X6 Pro | Dr.fone
-date: 2024-04-30T14:18:11.218Z
-updated: 2024-05-01T14:18:11.218Z
+date: 2024-05-19T03:58:57.808Z
+updated: 2024-05-20T03:58:57.808Z
 tags: 
   - problems
 categories:
@@ -621,4 +621,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Infinix Smart 8 Plus | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

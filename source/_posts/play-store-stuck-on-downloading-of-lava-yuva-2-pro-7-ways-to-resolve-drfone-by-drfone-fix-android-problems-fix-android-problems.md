@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Lava Yuva 2 Pro? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:17.795Z
-updated: 2024-05-01T14:30:17.795Z
+date: 2024-05-19T03:59:06.857Z
+updated: 2024-05-20T03:59:06.857Z
 tags: 
   - problems
 categories:
@@ -566,4 +566,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-se-2022-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone SE (2022) Safe and Legal</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-13-pro-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 13 Pro Without Apple ID Password?</u></a></li>
 </ul></div>
+
 

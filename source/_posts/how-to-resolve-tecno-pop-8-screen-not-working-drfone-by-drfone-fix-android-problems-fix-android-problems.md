@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Tecno Pop 8 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:59.474Z
-updated: 2024-05-01T14:23:59.474Z
+date: 2024-05-19T03:59:02.393Z
+updated: 2024-05-20T03:59:02.393Z
 tags: 
   - problems
 categories:
@@ -545,4 +545,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-motorola-moto-g24-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Motorola Moto G24 Phone Now with These Tips</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/lock-your-infinix-note-30-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Note 30 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
+
 

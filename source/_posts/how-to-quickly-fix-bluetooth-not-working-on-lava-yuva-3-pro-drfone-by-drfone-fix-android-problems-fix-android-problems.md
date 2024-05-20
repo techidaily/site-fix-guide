@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Lava Yuva 3 Pro | Dr.fone
-date: 2024-04-30T14:22:43.924Z
-updated: 2024-05-01T14:22:43.924Z
+date: 2024-05-19T03:59:01.359Z
+updated: 2024-05-20T03:59:01.359Z
 tags: 
   - problems
 categories:
@@ -560,4 +560,5 @@ Doing all the recommended methods above usually solves the case. If the differen
 <li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-s17-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on S17 Pro</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-recommended-video-background-changers/"><u>In 2024, Recommended Video Background Changers</u></a></li>
 </ul></div>
+
 

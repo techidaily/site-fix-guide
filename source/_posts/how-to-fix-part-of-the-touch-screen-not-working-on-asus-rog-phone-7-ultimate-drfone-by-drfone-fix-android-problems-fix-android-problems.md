@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Asus ROG Phone 7 Ultimate | Dr.fone
-date: 2024-04-30T14:17:47.616Z
-updated: 2024-05-01T14:17:47.616Z
+date: 2024-05-19T03:58:57.349Z
+updated: 2024-05-20T03:58:57.349Z
 tags: 
   - problems
 categories:
@@ -567,4 +567,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor 100 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-infinix-smart-7-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Infinix Smart 7 Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

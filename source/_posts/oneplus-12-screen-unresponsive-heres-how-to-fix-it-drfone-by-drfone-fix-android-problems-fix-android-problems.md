@@ -1,7 +1,7 @@
 ---
 title: OnePlus 12 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:45.131Z
-updated: 2024-05-01T14:28:45.131Z
+date: 2024-05-19T03:59:05.827Z
+updated: 2024-05-20T03:59:05.827Z
 tags: 
   - problems
 categories:
@@ -473,4 +473,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-s18-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo S18 Pro FRP Without Computer</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-oneplus-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from OnePlus .</u></a></li>
 </ul></div>
+
 

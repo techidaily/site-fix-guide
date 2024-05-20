@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Infinix Smart 7 HD | Dr.fone
-date: 2024-04-30T14:21:03.239Z
-updated: 2024-05-01T14:21:03.239Z
+date: 2024-05-19T03:58:59.855Z
+updated: 2024-05-20T03:58:59.855Z
 tags: 
   - problems
 categories:
@@ -587,4 +587,5 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m14-4g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M14 4G to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-lava-agni-2-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Agni 2 5G phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

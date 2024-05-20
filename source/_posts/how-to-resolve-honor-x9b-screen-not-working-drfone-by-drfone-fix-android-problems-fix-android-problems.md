@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor X9b Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:27.677Z
-updated: 2024-05-01T14:23:27.677Z
+date: 2024-05-19T03:59:01.947Z
+updated: 2024-05-20T03:59:01.947Z
 tags: 
   - problems
 categories:
@@ -561,4 +561,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://howto.techidaily.com/vivo-y36-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y36 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Nokia C12 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

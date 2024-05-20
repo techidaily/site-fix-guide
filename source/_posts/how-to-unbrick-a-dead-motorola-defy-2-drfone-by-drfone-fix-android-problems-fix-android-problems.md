@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Motorola Defy 2 | Dr.fone
-date: 2024-04-30T14:26:09.684Z
-updated: 2024-05-01T14:26:09.684Z
+date: 2024-05-19T03:59:03.932Z
+updated: 2024-05-20T03:59:03.932Z
 tags: 
   - problems
 categories:
@@ -522,4 +522,5 @@ And, if you’re thinking, “**How do I get a virus off My Motorola Defy 2?**�
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-honor-90-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Honor 90 Pro For Mobile Legends? | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-14-pro-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 14 Pro to iPhone Quickly | Dr.fone</u></a></li>
 </ul></div>
+
 

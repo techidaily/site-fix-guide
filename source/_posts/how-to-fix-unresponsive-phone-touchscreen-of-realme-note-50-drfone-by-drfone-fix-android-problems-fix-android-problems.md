@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Realme Note 50 | Dr.fone
-date: 2024-04-30T14:20:37.277Z
-updated: 2024-05-01T14:20:37.277Z
+date: 2024-05-19T03:58:59.446Z
+updated: 2024-05-20T03:58:59.446Z
 tags: 
   - problems
 categories:
@@ -585,4 +585,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus to the Previous iOS System Version? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-hot-30-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Hot 30 5G Through Google Earth?</u></a></li>
 </ul></div>
+
 

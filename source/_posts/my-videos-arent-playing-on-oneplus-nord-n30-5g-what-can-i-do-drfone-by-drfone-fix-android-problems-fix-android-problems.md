@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on OnePlus Nord N30 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:00.742Z
-updated: 2024-05-01T14:28:00.742Z
+date: 2024-05-19T03:59:05.310Z
+updated: 2024-05-20T03:59:05.310Z
 tags: 
   - problems
 categories:
@@ -597,4 +597,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-12-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 12 Without Previous Owner?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-civi-3-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Civi 3 Phone Screen?</u></a></li>
 </ul></div>
+
 

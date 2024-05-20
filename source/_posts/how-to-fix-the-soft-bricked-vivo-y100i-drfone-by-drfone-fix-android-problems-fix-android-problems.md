@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y100i? | Dr.fone
-date: 2024-04-30T14:19:10.949Z
-updated: 2024-05-01T14:19:10.949Z
+date: 2024-05-19T03:58:58.356Z
+updated: 2024-05-20T03:58:58.356Z
 tags: 
   - problems
 categories:
@@ -476,4 +476,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 6 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
 </ul></div>
+
 

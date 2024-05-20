@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi 12 5G | Dr.fone
-date: 2024-04-30T14:18:29.603Z
-updated: 2024-05-01T14:18:29.603Z
+date: 2024-05-19T03:58:57.990Z
+updated: 2024-05-20T03:58:57.990Z
 tags: 
   - problems
 categories:
@@ -612,4 +612,5 @@ And, if you’re thinking, “**How do I get a virus off My Xiaomi Redmi 12 5G?*
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo A56s 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-civi-3-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Xiaomi Civi 3</u></a></li>
 </ul></div>
+
 

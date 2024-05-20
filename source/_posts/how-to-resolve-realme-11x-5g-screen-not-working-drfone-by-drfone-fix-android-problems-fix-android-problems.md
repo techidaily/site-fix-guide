@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme 11X 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:49.562Z
-updated: 2024-05-01T14:23:49.562Z
+date: 2024-05-19T03:59:02.234Z
+updated: 2024-05-20T03:59:02.234Z
 tags: 
   - problems
 categories:
@@ -463,4 +463,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on OnePlus Ace 3? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-30i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 30i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

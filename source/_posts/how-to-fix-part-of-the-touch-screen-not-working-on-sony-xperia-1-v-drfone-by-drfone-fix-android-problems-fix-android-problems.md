@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T14:18:20.035Z
-updated: 2024-05-01T14:18:20.035Z
+date: 2024-05-19T03:58:57.903Z
+updated: 2024-05-20T03:58:57.903Z
 tags: 
   - problems
 categories:
@@ -545,4 +545,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://techidaily.com/how-to-reset-a-oneplus-12-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a OnePlus 12 Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-infinix-note-30-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Infinix Note 30 Pro Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Poco C65 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:30:57.007Z
-updated: 2024-05-01T14:30:57.007Z
+date: 2024-05-19T03:59:07.254Z
+updated: 2024-05-20T03:59:07.254Z
 tags: 
   - problems
 categories:
@@ -488,4 +488,5 @@ It is our hope that when faced with this fairly common error, you will not panic
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-backup-and-organize-your-footage-in-minutes/"><u>New 2024 Approved Backup and Organize Your Footage in Minutes</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-videos-using-synthesia-avatar-and-voices/"><u>Updated Create AI Videos Using Synthesia Avatar and Voices</u></a></li>
 </ul></div>
+
 

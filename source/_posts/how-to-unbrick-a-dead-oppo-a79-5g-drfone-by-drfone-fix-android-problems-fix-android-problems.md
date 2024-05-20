@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Oppo A79 5G | Dr.fone
-date: 2024-04-30T14:26:18.534Z
-updated: 2024-05-01T14:26:18.534Z
+date: 2024-05-19T03:59:04.041Z
+updated: 2024-05-20T03:59:04.041Z
 tags: 
   - problems
 categories:
@@ -478,4 +478,5 @@ When following the directions, the user may require more research into some trou
 <li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-6-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 6</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-apple-iphone-6-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 6 to Factory Settings? | Dr.fone</u></a></li>
 </ul></div>
+
 

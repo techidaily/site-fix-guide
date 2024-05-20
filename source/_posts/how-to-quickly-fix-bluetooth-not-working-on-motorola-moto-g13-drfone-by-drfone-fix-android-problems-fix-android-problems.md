@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Motorola Moto G13 | Dr.fone
-date: 2024-04-30T14:22:45.898Z
-updated: 2024-05-01T14:22:45.898Z
+date: 2024-05-19T03:59:01.406Z
+updated: 2024-05-20T03:59:01.406Z
 tags: 
   - problems
 categories:
@@ -479,4 +479,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://ai-editing-video.techidaily.com/updated-easy-way-to-create-an-alternate-reality-effect/"><u>Updated Easy Way to Create an Alternate Reality Effect</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y36i? | Dr.fone</u></a></li>
 </ul></div>
+
 

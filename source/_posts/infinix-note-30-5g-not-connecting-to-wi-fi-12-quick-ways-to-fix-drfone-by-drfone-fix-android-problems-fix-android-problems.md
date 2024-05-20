@@ -1,7 +1,7 @@
 ---
 title: Infinix Note 30 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-04-30T14:26:51.704Z
-updated: 2024-05-01T14:26:51.704Z
+date: 2024-05-19T03:59:04.518Z
+updated: 2024-05-20T03:59:04.518Z
 tags: 
   - problems
 categories:
@@ -776,4 +776,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-zte-nubia-flip-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-m34-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy M34 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

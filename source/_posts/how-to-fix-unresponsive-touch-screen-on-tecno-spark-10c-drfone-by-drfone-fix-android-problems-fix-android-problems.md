@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Tecno Spark 10C | Dr.fone
-date: 2024-04-30T14:21:32.831Z
-updated: 2024-05-01T14:21:32.831Z
+date: 2024-05-19T03:59:00.258Z
+updated: 2024-05-20T03:59:00.258Z
 tags: 
   - problems
 categories:
@@ -619,4 +619,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-x-title-tutorial-a-step-by-step-guide/"><u>In 2024, Final Cut Pro X Title Tutorial A Step-by-Step Guide</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Infinix Smart 7 HD | Dr.fone</u></a></li>
 </ul></div>
+
 

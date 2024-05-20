@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Realme C67 5G? | Dr.fone
-date: 2024-04-30T14:18:58.756Z
-updated: 2024-05-01T14:18:58.756Z
+date: 2024-05-19T03:58:58.219Z
+updated: 2024-05-20T03:58:58.219Z
 tags: 
   - problems
 categories:
@@ -477,4 +477,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-x6-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco X6 to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme 12 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

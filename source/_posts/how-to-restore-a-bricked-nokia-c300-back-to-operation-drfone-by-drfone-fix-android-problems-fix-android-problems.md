@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Nokia C300 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:30.747Z
-updated: 2024-05-01T14:24:30.747Z
+date: 2024-05-19T03:59:02.919Z
+updated: 2024-05-20T03:59:02.919Z
 tags: 
   - problems
 categories:
@@ -467,4 +467,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Moto G04 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-apple-iphone-14-plus-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for Apple iPhone 14 Plus and Android Phones</u></a></li>
 </ul></div>
+
 

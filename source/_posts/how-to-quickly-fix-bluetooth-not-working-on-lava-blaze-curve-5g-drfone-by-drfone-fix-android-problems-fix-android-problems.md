@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Lava Blaze Curve 5G | Dr.fone
-date: 2024-04-30T14:22:43.160Z
-updated: 2024-05-01T14:22:43.160Z
+date: 2024-05-19T03:59:01.353Z
+updated: 2024-05-20T03:59:01.353Z
 tags: 
   - problems
 categories:
@@ -552,4 +552,5 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 <li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-poco-m6-pro-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Poco M6 Pro 5G</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-nokia-g42-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nokia G42 5G? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+
 

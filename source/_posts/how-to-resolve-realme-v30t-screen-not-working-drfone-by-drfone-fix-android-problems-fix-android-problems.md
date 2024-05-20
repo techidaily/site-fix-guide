@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme V30T Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:52.645Z
-updated: 2024-05-01T14:23:52.645Z
+date: 2024-05-19T03:59:02.306Z
+updated: 2024-05-20T03:59:02.306Z
 tags: 
   - problems
 categories:
@@ -553,4 +553,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-motorola-moto-g24-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Motorola Moto G24 Phone? Unlock It Now</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-a78-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
+
 

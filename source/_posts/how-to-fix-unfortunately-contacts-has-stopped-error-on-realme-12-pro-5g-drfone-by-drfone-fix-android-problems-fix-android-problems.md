@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Realme 12 Pro 5G | Dr.fone
-date: 2024-04-30T14:19:45.880Z
-updated: 2024-05-01T14:19:45.880Z
+date: 2024-05-19T03:58:58.719Z
+updated: 2024-05-20T03:58:58.719Z
 tags: 
   - problems
 categories:
@@ -568,4 +568,5 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mac-video-editing-made-easy-the-best-software-of/"><u>New In 2024, Mac Video Editing Made Easy The Best Software Of</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
+
 

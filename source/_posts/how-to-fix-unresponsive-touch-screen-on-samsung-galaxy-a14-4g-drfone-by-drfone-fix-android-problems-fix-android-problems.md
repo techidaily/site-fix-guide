@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Samsung Galaxy A14 4G | Dr.fone
-date: 2024-04-30T14:21:26.529Z
-updated: 2024-05-01T14:21:26.529Z
+date: 2024-05-19T03:59:00.151Z
+updated: 2024-05-20T03:59:00.151Z
 tags: 
   - problems
 categories:
@@ -570,4 +570,5 @@ Hence in this article, we got to know about the error 495 and the possible solut
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-lava-agni-2-5g-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Lava Agni 2 5G using Video Repair Utility?</u></a></li>
 </ul></div>
+
 

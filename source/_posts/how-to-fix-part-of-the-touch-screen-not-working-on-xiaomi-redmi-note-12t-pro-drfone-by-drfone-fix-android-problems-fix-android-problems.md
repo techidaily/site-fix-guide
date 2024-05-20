@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 12T Pro | Dr.fone
-date: 2024-04-30T14:18:31.973Z
-updated: 2024-05-01T14:18:31.973Z
+date: 2024-05-19T03:58:58.014Z
+updated: 2024-05-20T03:58:58.014Z
 tags: 
   - problems
 categories:
@@ -661,4 +661,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-15-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 15 Plus and iPad?</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-lenovo-thinkphone-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Lenovo ThinkPhone to Enjoy More Fun | Dr.fone</u></a></li>
 </ul></div>
+
 

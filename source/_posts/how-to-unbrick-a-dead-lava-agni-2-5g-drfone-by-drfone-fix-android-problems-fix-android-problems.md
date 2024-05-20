@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T14:26:07.573Z
-updated: 2024-05-01T14:26:07.573Z
+date: 2024-05-19T03:59:03.917Z
+updated: 2024-05-20T03:59:03.917Z
 tags: 
   - problems
 categories:
@@ -711,4 +711,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy M14 5G</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Poco C50 | Dr.fone</u></a></li>
 </ul></div>
+
 

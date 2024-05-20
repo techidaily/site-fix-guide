@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Honor Play 40C? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:24.556Z
-updated: 2024-05-01T14:29:24.556Z
+date: 2024-05-19T03:59:06.269Z
+updated: 2024-05-20T03:59:06.269Z
 tags: 
   - problems
 categories:
@@ -660,4 +660,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 12 mini</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
+
 

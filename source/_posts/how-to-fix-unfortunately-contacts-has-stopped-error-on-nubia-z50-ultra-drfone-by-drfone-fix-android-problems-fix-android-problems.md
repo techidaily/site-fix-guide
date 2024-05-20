@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Nubia Z50 Ultra | Dr.fone
-date: 2024-04-30T14:19:36.376Z
-updated: 2024-05-01T14:19:36.376Z
+date: 2024-05-19T03:58:58.640Z
+updated: 2024-05-20T03:58:58.640Z
 tags: 
   - problems
 categories:
@@ -649,4 +649,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On OnePlus 12R? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-tecno-pova-5-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Tecno Pova 5</u></a></li>
 </ul></div>
+
 

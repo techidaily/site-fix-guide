@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Vivo Y36i Safely | Dr.fone
-date: 2024-04-30T14:22:26.299Z
-updated: 2024-05-01T14:22:26.299Z
+date: 2024-05-19T03:59:01.124Z
+updated: 2024-05-20T03:59:01.124Z
 tags: 
   - problems
 categories:
@@ -628,4 +628,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://ai-editing-video.techidaily.com/new-srt-file-creator-for-2024/"><u>New Srt File Creator for 2024</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia C02 | Dr.fone</u></a></li>
 </ul></div>
+
 

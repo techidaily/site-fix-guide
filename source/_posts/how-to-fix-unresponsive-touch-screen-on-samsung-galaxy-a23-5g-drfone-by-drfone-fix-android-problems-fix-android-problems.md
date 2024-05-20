@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Samsung Galaxy A23 5G | Dr.fone
-date: 2024-04-30T14:21:27.291Z
-updated: 2024-05-01T14:21:27.291Z
+date: 2024-05-19T03:59:00.157Z
+updated: 2024-05-20T03:59:00.157Z
 tags: 
   - problems
 categories:
@@ -655,4 +655,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/recommended-video-background-changers-for-2024/"><u>Recommended Video Background Changers for 2024</u></a></li>
 </ul></div>
+
 

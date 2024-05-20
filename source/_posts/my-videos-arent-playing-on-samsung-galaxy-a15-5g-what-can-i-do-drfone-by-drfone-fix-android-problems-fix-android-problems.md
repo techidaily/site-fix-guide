@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Samsung Galaxy A15 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:11.773Z
-updated: 2024-05-01T14:28:11.773Z
+date: 2024-05-19T03:59:05.392Z
+updated: 2024-05-20T03:59:05.392Z
 tags: 
   - problems
 categories:
@@ -482,4 +482,5 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco Phone with Broken Screen</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-huawei-p60-by-fonelab-android-recover-data/"><u>How to recover lost data from Huawei P60?</u></a></li>
 </ul></div>
+
 

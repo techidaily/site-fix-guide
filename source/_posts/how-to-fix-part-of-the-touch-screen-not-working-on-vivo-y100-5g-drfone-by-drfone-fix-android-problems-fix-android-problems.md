@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y100 5G | Dr.fone
-date: 2024-04-30T14:18:26.334Z
-updated: 2024-05-01T14:18:26.334Z
+date: 2024-05-19T03:58:57.964Z
+updated: 2024-05-20T03:58:57.964Z
 tags: 
   - problems
 categories:
@@ -538,4 +538,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-honor-v-purse-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Honor V Purse to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-nokia-c12-plus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Nokia C12 Plus IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

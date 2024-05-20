@@ -1,7 +1,7 @@
 ---
 title: OnePlus Nord 3 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:49.569Z
-updated: 2024-05-01T14:28:49.569Z
+date: 2024-05-19T03:59:05.873Z
+updated: 2024-05-20T03:59:05.873Z
 tags: 
   - problems
 categories:
@@ -531,4 +531,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor Magic 6 Lite | Dr.fone</u></a></li>
 <li><a href="https://ai-video.techidaily.com/2024-approved-easy-steps-to-translate-video-on-twitter/"><u>2024 Approved Easy Steps to Translate Video on Twitter</u></a></li>
 </ul></div>
+
 

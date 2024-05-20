@@ -1,7 +1,7 @@
 ---
 title: Realme 11 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:39.976Z
-updated: 2024-05-01T14:32:39.976Z
+date: 2024-05-19T03:59:08.611Z
+updated: 2024-05-20T03:59:08.611Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ As much as factory mode can be a useful solution to a number of problems, it can
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Pro Phone without PIN</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-p40plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel P40+ | Dr.fone</u></a></li>
 </ul></div>
+
 

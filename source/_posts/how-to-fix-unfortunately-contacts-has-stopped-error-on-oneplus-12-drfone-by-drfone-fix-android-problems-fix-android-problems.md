@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus 12 | Dr.fone
-date: 2024-04-30T14:19:37.142Z
-updated: 2024-05-01T14:19:37.142Z
+date: 2024-05-19T03:58:58.646Z
+updated: 2024-05-20T03:58:58.646Z
 tags: 
   - problems
 categories:
@@ -708,4 +708,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-honor-100-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Honor 100?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xls-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xls Using DigiSigner</u></a></li>
 </ul></div>
+
 

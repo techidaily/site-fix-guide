@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-30T14:26:08.150Z
-updated: 2024-05-01T14:26:08.150Z
+date: 2024-05-19T03:59:03.921Z
+updated: 2024-05-20T03:59:03.921Z
 tags: 
   - problems
 categories:
@@ -501,4 +501,5 @@ To sum up this article, it can be said that issues like ****Lava Blaze 2 Pro not
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-redmi-note-12-proplus-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Redmi Note 12 Pro+ 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 6s Plus</u></a></li>
 </ul></div>
+
 

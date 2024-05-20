@@ -1,6 +1,6 @@
 ---
 title: How to Undo Git Pull
-date: 2024-04-30T14:26:42.943Z
+date: 2024-05-19T03:59:04.389Z
 tags: 
   - git pull
   - undo
@@ -158,4 +158,5 @@ git diff HEAD..FETCH_HEAD
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-realme-narzo-n53-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Realme Narzo N53 using Video Repair Utility on Mac?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
 </ul></div>
+
 

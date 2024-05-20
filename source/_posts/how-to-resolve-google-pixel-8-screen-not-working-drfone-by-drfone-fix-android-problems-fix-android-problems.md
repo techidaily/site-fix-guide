@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Google Pixel 8 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:22.701Z
-updated: 2024-05-01T14:23:22.701Z
+date: 2024-05-19T03:59:01.896Z
+updated: 2024-05-20T03:59:01.896Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ So go ahead and try them out now!
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-create-intro-with-legend-intro-maker-for-2024/"><u>New How to Create Intro with Legend Intro Maker for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-mac-video-editor-adobe-premiere-pro-for-experts/"><u>The Ultimate Mac Video Editor Adobe Premiere Pro for Experts</u></a></li>
 </ul></div>
+
 

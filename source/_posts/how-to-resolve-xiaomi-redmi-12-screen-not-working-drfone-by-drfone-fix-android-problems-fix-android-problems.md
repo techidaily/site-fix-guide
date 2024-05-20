@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Xiaomi Redmi 12 Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:10.258Z
-updated: 2024-05-01T14:24:10.258Z
+date: 2024-05-19T03:59:02.485Z
+updated: 2024-05-20T03:59:02.485Z
 tags: 
   - problems
 categories:
@@ -491,4 +491,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-xr-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone XR</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/essential-3d-video-editing-tools-every-creator-should-use/"><u>Essential 3D Video Editing Tools Every Creator Should Use</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy A25 5G? | Dr.fone
-date: 2024-04-30T14:19:01.523Z
-updated: 2024-05-01T14:19:01.523Z
+date: 2024-05-19T03:58:58.238Z
+updated: 2024-05-20T03:58:58.238Z
 tags: 
   - problems
 categories:
@@ -491,4 +491,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-vivo-v29-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Vivo V29?</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-7-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 7 to Samsung Simplified Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

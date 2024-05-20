@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme GT 5 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:51.275Z
-updated: 2024-05-01T14:23:51.275Z
+date: 2024-05-19T03:59:02.294Z
+updated: 2024-05-20T03:59:02.294Z
 tags: 
   - problems
 categories:
@@ -541,4 +541,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y36-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y36 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-x-fold-2-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo X Fold 2</u></a></li>
 </ul></div>
+
 

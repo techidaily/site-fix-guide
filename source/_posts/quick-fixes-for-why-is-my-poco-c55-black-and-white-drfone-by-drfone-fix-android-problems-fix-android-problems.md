@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Poco C55 Black and White | Dr.fone
-date: 2024-04-30T14:32:16.297Z
-updated: 2024-05-01T14:32:16.297Z
+date: 2024-05-19T03:59:08.411Z
+updated: 2024-05-20T03:59:08.411Z
 tags: 
   - problems
 categories:
@@ -511,4 +511,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-rog-phone-7-by-fonelab-android-recover-data/"><u>The way to get back lost data from ROG Phone 7</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Itel A60s | Dr.fone</u></a></li>
 </ul></div>
+
 

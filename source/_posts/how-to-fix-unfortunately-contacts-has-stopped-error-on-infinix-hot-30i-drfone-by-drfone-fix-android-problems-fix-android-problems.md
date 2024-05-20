@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Hot 30i | Dr.fone
-date: 2024-04-30T14:19:25.704Z
-updated: 2024-05-01T14:19:25.704Z
+date: 2024-05-19T03:58:58.504Z
+updated: 2024-05-20T03:58:58.504Z
 tags: 
   - problems
 categories:
@@ -497,4 +497,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-poco-f5-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Poco F5 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

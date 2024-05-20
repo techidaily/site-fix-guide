@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Motorola Moto G14 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:28.294Z
-updated: 2024-05-01T14:24:28.294Z
+date: 2024-05-19T03:59:02.903Z
+updated: 2024-05-20T03:59:02.903Z
 tags: 
   - problems
 categories:
@@ -542,4 +542,5 @@ As much as factory mode can be a useful solution to a number of problems, it can
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-narzo-60x-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme Narzo 60x 5G Lock Screen Password?</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo T2 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

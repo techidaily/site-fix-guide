@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nokia C300 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:38.979Z
-updated: 2024-05-01T14:23:38.979Z
+date: 2024-05-19T03:59:02.100Z
+updated: 2024-05-20T03:59:02.100Z
 tags: 
   - problems
 categories:
@@ -427,4 +427,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y36 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-13c-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi 13C by Name | Dr.fone</u></a></li>
 </ul></div>
+
 

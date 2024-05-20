@@ -1,7 +1,7 @@
 ---
 title: Poco F5 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:30:57.573Z
-updated: 2024-05-01T14:30:57.573Z
+date: 2024-05-19T03:59:07.259Z
+updated: 2024-05-20T03:59:07.259Z
 tags: 
   - problems
 categories:
@@ -540,4 +540,5 @@ After following these quick and easy suggestions, you would be able to fix the P
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-text-reveal-effect-easily/"><u>New How to Make Text Reveal Effect Easily</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone SE (2022) | Dr.fone</u></a></li>
 </ul></div>
+
 

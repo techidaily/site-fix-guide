@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor 100 Pro | Dr.fone
-date: 2024-04-30T14:17:48.968Z
-updated: 2024-05-01T14:17:48.968Z
+date: 2024-05-19T03:58:57.358Z
+updated: 2024-05-20T03:58:57.358Z
 tags: 
   - problems
 categories:
@@ -598,4 +598,5 @@ Lastly, you can still refer to Honor 100 Pro for repairs. It remains the primary
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-an-ai-voice-generator/"><u>Updated 2024 Approved What Is an AI Voice Generator?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-itel-s23-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Itel S23?</u></a></li>
 </ul></div>
+
 

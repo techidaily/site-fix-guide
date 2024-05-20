@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Lava Blaze 2 5G | Dr.fone
-date: 2024-04-30T14:26:07.769Z
-updated: 2024-05-01T14:26:07.769Z
+date: 2024-05-19T03:59:03.918Z
+updated: 2024-05-20T03:59:03.918Z
 tags: 
   - problems
 categories:
@@ -620,4 +620,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://ai-video-apps.techidaily.com/1714257876671-updated-2024-approved-gopro-quik-vs-the-competition-a-review-and-alternative-options-for-pc/"><u>Updated 2024 Approved GoPro Quik Vs. The Competition A Review and Alternative Options for PC</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Motorola Moto G04 | Dr.fone</u></a></li>
 </ul></div>
+
 

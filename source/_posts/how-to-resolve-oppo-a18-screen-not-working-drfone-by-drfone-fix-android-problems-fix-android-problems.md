@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Oppo A18 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:42.946Z
-updated: 2024-05-01T14:23:42.946Z
+date: 2024-05-19T03:59:02.139Z
+updated: 2024-05-20T03:59:02.139Z
 tags: 
   - problems
 categories:
@@ -416,4 +416,5 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oppo-a18-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Oppo A18 Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-realme-11-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme 11 5G Reset Code | Dr.fone</u></a></li>
 </ul></div>
+
 

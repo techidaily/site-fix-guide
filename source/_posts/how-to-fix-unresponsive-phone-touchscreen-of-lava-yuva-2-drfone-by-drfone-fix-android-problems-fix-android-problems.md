@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Lava Yuva 2 | Dr.fone
-date: 2024-04-30T14:20:18.501Z
-updated: 2024-05-01T14:20:18.501Z
+date: 2024-05-19T03:58:59.097Z
+updated: 2024-05-20T03:58:59.097Z
 tags: 
   - problems
 categories:
@@ -676,4 +676,5 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 <li><a href="https://ai-vdieo-software.techidaily.com/private-and-business-video-hosting-10-free-options-to-consider/"><u>Private and Business Video Hosting 10 Free Options to Consider</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713939877887-list-of-supported-whatsapp-video-format-you-may-want-to-know/"><u>List of Supported Whatsapp Video Format You May Want to Know</u></a></li>
 </ul></div>
+
 

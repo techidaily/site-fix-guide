@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Oppo A78 | Dr.fone
-date: 2024-04-30T14:18:07.019Z
-updated: 2024-05-01T14:18:07.019Z
+date: 2024-05-19T03:58:57.763Z
+updated: 2024-05-20T03:58:57.763Z
 tags: 
   - problems
 categories:
@@ -616,4 +616,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-edge-40-neo-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Edge 40 Neo ?</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-8-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel 8 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

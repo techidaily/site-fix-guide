@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Motorola Defy 2? | Dr.fone
-date: 2024-04-30T14:18:43.426Z
-updated: 2024-05-01T14:18:43.426Z
+date: 2024-05-19T03:58:58.104Z
+updated: 2024-05-20T03:58:58.104Z
 tags: 
   - problems
 categories:
@@ -388,4 +388,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-11-proplus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme 11 Pro+ Unresponsive Screen | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

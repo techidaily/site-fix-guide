@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Nokia C12 | Dr.fone
-date: 2024-04-30T14:26:12.344Z
-updated: 2024-05-01T14:26:12.344Z
+date: 2024-05-19T03:59:03.964Z
+updated: 2024-05-20T03:59:03.964Z
 tags: 
   - problems
 categories:
@@ -659,4 +659,5 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-camon-20-premier-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Camon 20 Premier 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-13-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 13 mini | Stellar</u></a></li>
 </ul></div>
+
 

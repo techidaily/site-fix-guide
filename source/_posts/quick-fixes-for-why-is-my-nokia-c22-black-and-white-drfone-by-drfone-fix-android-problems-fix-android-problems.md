@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Nokia C22 Black and White | Dr.fone
-date: 2024-04-30T14:32:10.307Z
-updated: 2024-05-01T14:32:10.307Z
+date: 2024-05-19T03:59:08.368Z
+updated: 2024-05-20T03:59:08.368Z
 tags: 
   - problems
 categories:
@@ -578,4 +578,5 @@ So go ahead and try them out now!
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-text-animation-intro-tutorial-in-filmora/"><u>In 2024, Text Animation Intro Tutorial in Filmora</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-lava-blaze-2-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Lava Blaze 2 Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

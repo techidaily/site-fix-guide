@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nokia C12 Pro | Dr.fone
-date: 2024-04-30T14:18:01.829Z
-updated: 2024-05-01T14:18:01.829Z
+date: 2024-05-19T03:58:57.511Z
+updated: 2024-05-20T03:58:57.511Z
 tags: 
   - problems
 categories:
@@ -651,4 +651,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-14-pro-max-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 14 Pro Max Is Unlocked</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-tecno-spark-20-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Tecno Spark 20 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 2 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-04-30T14:27:19.923Z
-updated: 2024-05-01T14:27:19.923Z
+date: 2024-05-19T03:59:04.842Z
+updated: 2024-05-20T03:59:04.842Z
 tags: 
   - problems
 categories:
@@ -499,4 +499,5 @@ While installing Custom ROM can actually be a great way to customize your device
 <li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-y28-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo Y28 5G</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-poco-f5-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Poco F5 5G Phone</u></a></li>
 </ul></div>
+
 

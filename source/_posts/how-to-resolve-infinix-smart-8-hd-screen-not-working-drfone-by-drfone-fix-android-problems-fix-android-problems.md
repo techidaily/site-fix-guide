@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Smart 8 HD Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:30.184Z
-updated: 2024-05-01T14:23:30.184Z
+date: 2024-05-19T03:59:01.966Z
+updated: 2024-05-20T03:59:01.966Z
 tags: 
   - problems
 categories:
@@ -535,4 +535,5 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-unlimited-video-trimming-8-free-tools-with-no-watermark/"><u>In 2024, Unlimited Video Trimming 8 Free Tools with No Watermark</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy F15 5G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve ZTE Nubia Z60 Ultra Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:13.157Z
-updated: 2024-05-01T14:24:13.157Z
+date: 2024-05-19T03:59:02.513Z
+updated: 2024-05-20T03:59:02.513Z
 tags: 
   - problems
 categories:
@@ -436,4 +436,5 @@ To sum up this article, it can be said that issues like ****ZTE Nubia Z60 Ultra 
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2000-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2000 document with Digital Signature - (Tutorial)</u></a></li>
 </ul></div>
+
 

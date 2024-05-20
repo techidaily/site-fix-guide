@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Lava Yuva 2 Pro? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:31.414Z
-updated: 2024-05-01T14:29:31.414Z
+date: 2024-05-19T03:59:06.333Z
+updated: 2024-05-20T03:59:06.333Z
 tags: 
   - problems
 categories:
@@ -428,4 +428,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-x-flip-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo X Flip without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-a60s-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Itel A60s</u></a></li>
 </ul></div>
+
 

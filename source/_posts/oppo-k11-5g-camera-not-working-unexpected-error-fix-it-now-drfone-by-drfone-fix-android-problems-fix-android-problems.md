@@ -1,7 +1,7 @@
 ---
 title: Oppo K11 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:29:11.188Z
-updated: 2024-05-01T14:29:11.188Z
+date: 2024-05-19T03:59:06.117Z
+updated: 2024-05-20T03:59:06.117Z
 tags: 
   - problems
 categories:
@@ -582,4 +582,5 @@ So go ahead and try them out now!
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-s23-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy S23 Quickly | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-play-40c-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Play 40C To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

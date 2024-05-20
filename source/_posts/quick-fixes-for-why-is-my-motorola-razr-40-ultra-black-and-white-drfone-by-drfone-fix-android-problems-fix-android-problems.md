@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Motorola Razr 40 Ultra Black and White | Dr.fone
-date: 2024-04-30T14:32:09.163Z
-updated: 2024-05-01T14:32:09.163Z
+date: 2024-05-19T03:59:08.358Z
+updated: 2024-05-20T03:59:08.358Z
 tags: 
   - problems
 categories:
@@ -611,4 +611,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://ai-video-editing.techidaily.com/avi-video-format-how-to-open-play-edit-avi-file-in-2024/"><u>AVI Video Format How to Open, Play, Edit AVI File, In 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-tecno-camon-30-pro-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Tecno Camon 30 Pro 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

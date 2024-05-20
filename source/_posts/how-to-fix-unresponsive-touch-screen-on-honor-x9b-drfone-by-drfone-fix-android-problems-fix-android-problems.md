@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Honor X9b | Dr.fone
-date: 2024-04-30T14:21:01.150Z
-updated: 2024-05-01T14:21:01.150Z
+date: 2024-05-19T03:58:59.838Z
+updated: 2024-05-20T03:58:59.838Z
 tags: 
   - problems
 categories:
@@ -578,4 +578,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://techidaily.com/sign-a-pdf-file-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a .pdf file document with digital signature software</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Motorola Edge 40 Neo | Dr.fone</u></a></li>
 </ul></div>
+
 

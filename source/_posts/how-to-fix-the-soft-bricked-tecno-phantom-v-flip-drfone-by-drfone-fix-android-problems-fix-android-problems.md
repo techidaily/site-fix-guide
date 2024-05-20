@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Tecno Phantom V Flip? | Dr.fone
-date: 2024-04-30T14:19:06.174Z
-updated: 2024-05-01T14:19:06.174Z
+date: 2024-05-19T03:58:58.274Z
+updated: 2024-05-20T03:58:58.274Z
 tags: 
   - problems
 categories:
@@ -474,4 +474,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-poco-m6-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Poco M6 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo Y02T Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:05.328Z
-updated: 2024-05-01T14:24:05.328Z
+date: 2024-05-19T03:59:02.436Z
+updated: 2024-05-20T03:59:02.436Z
 tags: 
   - problems
 categories:
@@ -442,4 +442,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-oppo-find-n3-by-drfone-android/"><u>Full Guide to Unlock Your Oppo Find N3</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-learn-how-to-make-your-csgo-montage-impressive/"><u>Updated Learn How to Make Your CSGO Montage Impressive</u></a></li>
 </ul></div>
+
 

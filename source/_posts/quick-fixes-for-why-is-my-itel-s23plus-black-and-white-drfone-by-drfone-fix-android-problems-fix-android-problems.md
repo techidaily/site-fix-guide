@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Itel S23+ Black and White | Dr.fone
-date: 2024-04-30T14:32:03.918Z
-updated: 2024-05-01T14:32:03.918Z
+date: 2024-05-19T03:59:08.324Z
+updated: 2024-05-20T03:59:08.324Z
 tags: 
   - problems
 categories:
@@ -634,4 +634,5 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y100a-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y100A Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713942883055-new-how-to-become-a-youtuber/"><u>New How to Become a Youtuber</u></a></li>
 </ul></div>
+
 

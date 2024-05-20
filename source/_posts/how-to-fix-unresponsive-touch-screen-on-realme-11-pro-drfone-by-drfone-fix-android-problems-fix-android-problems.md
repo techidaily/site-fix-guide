@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme 11 Pro | Dr.fone
-date: 2024-04-30T14:21:22.256Z
-updated: 2024-05-01T14:21:22.256Z
+date: 2024-05-19T03:59:00.118Z
+updated: 2024-05-20T03:59:00.118Z
 tags: 
   - problems
 categories:
@@ -563,4 +563,5 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-13-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-11x-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme 11X 5G.</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme GT 5 | Dr.fone
-date: 2024-04-30T14:18:13.741Z
-updated: 2024-05-01T14:18:13.741Z
+date: 2024-05-19T03:58:57.844Z
+updated: 2024-05-20T03:58:57.844Z
 tags: 
   - problems
 categories:
@@ -608,4 +608,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-google-pixel-7a-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Google Pixel 7a to Mac? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-spark-20-proplus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Spark 20 Pro+ to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

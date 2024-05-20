@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T14:23:05.551Z
-updated: 2024-05-01T14:23:05.551Z
+date: 2024-05-19T03:59:01.681Z
+updated: 2024-05-20T03:59:01.681Z
 tags: 
   - problems
 categories:
@@ -578,4 +578,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-14-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi 14 FRP Bypass With Best Methods</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-zte-blade-a73-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For ZTE Blade A73 5G</u></a></li>
 </ul></div>
+
 

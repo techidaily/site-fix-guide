@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor 80 Pro Straight Screen Edition? | Dr.fone
-date: 2024-04-30T14:18:33.896Z
-updated: 2024-05-01T14:18:33.896Z
+date: 2024-05-19T03:58:58.025Z
+updated: 2024-05-20T03:58:58.025Z
 tags: 
   - problems
 categories:
@@ -326,4 +326,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-s17t-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo S17t Easily?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo A2? | Dr.fone</u></a></li>
 </ul></div>
+
 

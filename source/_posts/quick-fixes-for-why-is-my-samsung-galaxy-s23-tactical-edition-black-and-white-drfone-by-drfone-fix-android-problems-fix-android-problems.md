@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy S23 Tactical Edition Black and White | Dr.fone
-date: 2024-04-30T14:32:24.717Z
-updated: 2024-05-01T14:32:24.717Z
+date: 2024-05-19T03:59:08.476Z
+updated: 2024-05-20T03:59:08.476Z
 tags: 
   - problems
 categories:
@@ -614,4 +614,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-more-about-the-video-editing-interface-of-wondershare-filmora/"><u>Updated In 2024, Learn More About the Video Editing Interface of Wondershare Filmora</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-6s-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone 6s Activation Lock</u></a></li>
 </ul></div>
+
 

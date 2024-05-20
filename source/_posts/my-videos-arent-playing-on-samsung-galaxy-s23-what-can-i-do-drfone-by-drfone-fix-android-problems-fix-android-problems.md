@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Samsung Galaxy S23 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:14.105Z
-updated: 2024-05-01T14:28:14.105Z
+date: 2024-05-19T03:59:05.410Z
+updated: 2024-05-20T03:59:05.410Z
 tags: 
   - problems
 categories:
@@ -506,4 +506,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo T2 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

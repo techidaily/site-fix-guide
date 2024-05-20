@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 8 HD Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone
-date: 2024-04-30T14:26:58.036Z
-updated: 2024-05-01T14:26:58.036Z
+date: 2024-05-19T03:59:04.575Z
+updated: 2024-05-20T03:59:04.575Z
 tags: 
   - problems
 categories:
@@ -600,4 +600,5 @@ Encountering difficulties when updating Google Play Services can be frustrating,
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-plus-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 Plus To Other iPhone devices? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-a58-4g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo A58 4G to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

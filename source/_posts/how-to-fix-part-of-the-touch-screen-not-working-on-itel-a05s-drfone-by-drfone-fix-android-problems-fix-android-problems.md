@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Itel A05s | Dr.fone
-date: 2024-04-30T14:17:55.007Z
-updated: 2024-05-01T14:17:55.007Z
+date: 2024-05-19T03:58:57.441Z
+updated: 2024-05-20T03:58:57.441Z
 tags: 
   - problems
 categories:
@@ -642,4 +642,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Motorola Moto G84 5G | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-11-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 11 5G Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
+
 

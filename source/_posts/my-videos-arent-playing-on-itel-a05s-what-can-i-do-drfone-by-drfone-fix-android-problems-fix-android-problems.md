@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Itel A05s – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:49.205Z
-updated: 2024-05-01T14:27:49.205Z
+date: 2024-05-19T03:59:05.157Z
+updated: 2024-05-20T03:59:05.157Z
 tags: 
   - problems
 categories:
@@ -608,4 +608,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-v27e-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo V27e Phone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-itel-p40-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Itel P40 Devices</u></a></li>
 </ul></div>
+
 

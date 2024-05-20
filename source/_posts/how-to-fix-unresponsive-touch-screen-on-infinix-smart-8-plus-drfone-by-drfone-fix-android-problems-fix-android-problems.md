@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Infinix Smart 8 Plus | Dr.fone
-date: 2024-04-30T14:21:03.647Z
-updated: 2024-05-01T14:21:03.647Z
+date: 2024-05-19T03:58:59.858Z
+updated: 2024-05-20T03:58:59.858Z
 tags: 
   - problems
 categories:
@@ -509,4 +509,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-13t-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Xiaomi 13T Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-iphone-15-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for iPhone 15 and Android Phones</u></a></li>
 </ul></div>
+
 

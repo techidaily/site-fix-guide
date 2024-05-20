@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Hot 30 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:28.838Z
-updated: 2024-05-01T14:23:28.838Z
+date: 2024-05-19T03:59:01.956Z
+updated: 2024-05-20T03:59:01.956Z
 tags: 
   - problems
 categories:
@@ -553,4 +553,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-discord-gif-pfp/"><u>New How to Make Discord GIF PFP</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo Find X6 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Infinix Note 30 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:26:52.855Z
-updated: 2024-05-01T14:26:52.855Z
+date: 2024-05-19T03:59:04.525Z
+updated: 2024-05-20T03:59:04.525Z
 tags: 
   - problems
 categories:
@@ -504,4 +504,5 @@ While installing Custom ROM can actually be a great way to customize your device
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-play-40c-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor Play 40C in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-huawei-p60-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Huawei P60 Device</u></a></li>
 </ul></div>
+
 

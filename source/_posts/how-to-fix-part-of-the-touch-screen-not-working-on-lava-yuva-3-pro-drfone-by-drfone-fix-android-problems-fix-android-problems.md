@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Yuva 3 Pro | Dr.fone
-date: 2024-04-30T14:17:58.259Z
-updated: 2024-05-01T14:17:58.259Z
+date: 2024-05-19T03:58:57.483Z
+updated: 2024-05-20T03:58:57.483Z
 tags: 
   - problems
 categories:
@@ -647,4 +647,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-promote-youtube-channel-step-by-step/"><u>New 2024 Approved How to Promote YouTube Channel Step-by-Step</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 6s Plus</u></a></li>
 </ul></div>
+
 

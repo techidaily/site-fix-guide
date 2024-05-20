@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T14:17:56.524Z
-updated: 2024-05-01T14:17:56.524Z
+date: 2024-05-19T03:58:57.469Z
+updated: 2024-05-20T03:58:57.469Z
 tags: 
   - problems
 categories:
@@ -689,4 +689,5 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y28 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-10t-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme 10T 5G to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

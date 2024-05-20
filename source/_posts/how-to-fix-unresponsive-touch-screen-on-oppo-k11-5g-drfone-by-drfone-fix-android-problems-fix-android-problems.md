@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Oppo K11 5G | Dr.fone
-date: 2024-04-30T14:21:18.383Z
-updated: 2024-05-01T14:21:18.383Z
+date: 2024-05-19T03:59:00.090Z
+updated: 2024-05-20T03:59:00.090Z
 tags: 
   - problems
 categories:
@@ -464,4 +464,5 @@ Oppo K11 5G Screen unresponsiveness can be a frustrating issue to deal with, but
 <li><a href="https://ai-editing-video.techidaily.com/updated-make-a-countdown-video-for-2024/"><u>Updated Make A Countdown Video for 2024</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-data-from-infinix-smart-8-hd-by-fonelab-android-recover-data/"><u>Undelete lost data from Infinix Smart 8 HD</u></a></li>
 </ul></div>
+
 

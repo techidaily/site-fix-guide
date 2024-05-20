@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Infinix Hot 40 | Dr.fone
-date: 2024-04-30T14:21:02.292Z
-updated: 2024-05-01T14:21:02.292Z
+date: 2024-05-19T03:58:59.848Z
+updated: 2024-05-20T03:58:59.848Z
 tags: 
   - problems
 categories:
@@ -588,4 +588,5 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-motorola-edge-40-neo-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Motorola Edge 40 Neo without App | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y200-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y200 Lock Screen Password</u></a></li>
 </ul></div>
+
 

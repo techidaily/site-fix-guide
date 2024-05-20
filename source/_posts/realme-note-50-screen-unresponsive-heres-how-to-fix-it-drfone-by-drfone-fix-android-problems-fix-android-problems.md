@@ -1,7 +1,7 @@
 ---
 title: Realme Note 50 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:33:00.241Z
-updated: 2024-05-01T14:33:00.241Z
+date: 2024-05-19T03:59:08.775Z
+updated: 2024-05-20T03:59:08.775Z
 tags: 
   - problems
 categories:
@@ -579,4 +579,5 @@ Encountering difficulties when updating Google Play Services can be frustrating,
 <li><a href="https://howto.techidaily.com/calls-on-honor-90-lite-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor 90 Lite Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-for-free-your-90-day-trial-awaits/"><u>In 2024, Final Cut Pro for Free Your 90-Day Trial Awaits</u></a></li>
 </ul></div>
+
 

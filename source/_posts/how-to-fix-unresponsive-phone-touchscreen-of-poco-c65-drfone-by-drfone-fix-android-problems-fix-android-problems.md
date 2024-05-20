@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Poco C65 | Dr.fone
-date: 2024-04-30T14:20:31.178Z
-updated: 2024-05-01T14:20:31.178Z
+date: 2024-05-19T03:58:59.342Z
+updated: 2024-05-20T03:58:59.342Z
 tags: 
   - problems
 categories:
@@ -622,4 +622,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y36-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo Y36</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
 </ul></div>
+
 

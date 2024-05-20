@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Infinix Smart 7? | Dr.fone
-date: 2024-04-30T14:18:39.376Z
-updated: 2024-05-01T14:18:39.376Z
+date: 2024-05-19T03:58:58.076Z
+updated: 2024-05-20T03:58:58.076Z
 tags: 
   - problems
 categories:
@@ -495,4 +495,5 @@ Now that you have decided where to download the apk file, these are the followin
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-11-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 11 Pro</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-best-green-screen-software-for-beginner-on-mac/"><u>Updated Best Green Screen Software for Beginner on Mac</u></a></li>
 </ul></div>
+
 

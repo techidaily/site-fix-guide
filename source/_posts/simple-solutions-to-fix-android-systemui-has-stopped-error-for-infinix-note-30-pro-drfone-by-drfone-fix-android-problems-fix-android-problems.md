@@ -501,3 +501,4 @@ Lastly, you can still refer to Infinix Note 30 Pro for repairs. It remains the p
      data-full-width-responsive="true"></ins>
 
 
+

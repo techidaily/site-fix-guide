@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Xiaomi 14 Black and White | Dr.fone
-date: 2024-04-30T14:32:35.394Z
-updated: 2024-05-01T14:32:35.394Z
+date: 2024-05-19T03:59:08.578Z
+updated: 2024-05-20T03:59:08.578Z
 tags: 
   - problems
 categories:
@@ -652,4 +652,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-spark-20c-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Spark 20C Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-poco-f5-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Poco F5 5G Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

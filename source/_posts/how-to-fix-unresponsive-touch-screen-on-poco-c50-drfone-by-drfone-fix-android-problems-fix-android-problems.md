@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Poco C50 | Dr.fone
-date: 2024-04-30T14:21:20.509Z
-updated: 2024-05-01T14:21:20.509Z
+date: 2024-05-19T03:59:00.105Z
+updated: 2024-05-20T03:59:00.105Z
 tags: 
   - problems
 categories:
@@ -525,4 +525,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo Reno 11 5G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-honor-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Honor on Windows</u></a></li>
 </ul></div>
+
 

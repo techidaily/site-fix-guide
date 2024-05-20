@@ -1,7 +1,7 @@
 ---
 title: Realme 11X 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:43.066Z
-updated: 2024-05-01T14:32:43.066Z
+date: 2024-05-19T03:59:08.635Z
+updated: 2024-05-20T03:59:08.635Z
 tags: 
   - problems
 categories:
@@ -466,4 +466,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-13c-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi 13C 5G in 3 Efficient Ways | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-headshot-generator/"><u>In 2024, What Is an AI Headshot Generator?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Xiaomi 13T Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:35.200Z
-updated: 2024-05-01T14:32:35.200Z
+date: 2024-05-19T03:59:08.577Z
+updated: 2024-05-20T03:59:08.577Z
 tags: 
   - problems
 categories:
@@ -548,4 +548,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-revolutionize-your-videos-best-apple-video-editing-software-revealed/"><u>In 2024, Revolutionize Your Videos Best Apple Video Editing Software Revealed</u></a></li>
 <li><a href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-xcover-6-pro-tactical-edition-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy XCover 6 Pro Tactical Edition FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

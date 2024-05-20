@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Note 30 | Dr.fone
-date: 2024-04-30T14:19:26.469Z
-updated: 2024-05-01T14:19:26.469Z
+date: 2024-05-19T03:58:58.516Z
+updated: 2024-05-20T03:58:58.516Z
 tags: 
   - problems
 categories:
@@ -596,4 +596,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-gt-10-pro-by-drfone-android/"><u>Full Guide to Unlock Your Infinix GT 10 Pro</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-s17-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo S17 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 

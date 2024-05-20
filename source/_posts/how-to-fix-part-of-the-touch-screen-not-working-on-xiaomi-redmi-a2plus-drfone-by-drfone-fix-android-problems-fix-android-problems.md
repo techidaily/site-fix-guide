@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi A2+ | Dr.fone
-date: 2024-04-30T14:18:30.178Z
-updated: 2024-05-01T14:18:30.178Z
+date: 2024-05-19T03:58:57.995Z
+updated: 2024-05-20T03:58:57.995Z
 tags: 
   - problems
 categories:
@@ -574,4 +574,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://techidaily.com/is-your-poco-c55-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco C55 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-xs-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone XS Passcode not Working?</u></a></li>
 </ul></div>
+
 

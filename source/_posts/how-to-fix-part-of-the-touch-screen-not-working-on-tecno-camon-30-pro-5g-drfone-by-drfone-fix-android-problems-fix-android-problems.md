@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Camon 30 Pro 5G | Dr.fone
-date: 2024-04-30T14:18:20.994Z
-updated: 2024-05-01T14:18:20.994Z
+date: 2024-05-19T03:58:57.909Z
+updated: 2024-05-20T03:58:57.909Z
 tags: 
   - problems
 categories:
@@ -539,4 +539,5 @@ When following the directions, the user may require more research into some trou
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-13-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 13 Pro Randomly Asking for Apple ID Password</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-nokia-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Nokia .</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Xiaomi Redmi Note 12T Pro – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:26.485Z
-updated: 2024-05-01T14:28:26.485Z
+date: 2024-05-19T03:59:05.597Z
+updated: 2024-05-20T03:59:05.597Z
 tags: 
   - problems
 categories:
@@ -527,4 +527,5 @@ As much as factory mode can be a useful solution to a number of problems, it can
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-change-video-resolution-in-filmora/"><u>Updated 2024 Approved How to Change Video Resolution in Filmora</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-k11x-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo K11x?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo Y36i | Dr.fone
-date: 2024-04-30T14:21:39.489Z
-updated: 2024-05-01T14:21:39.489Z
+date: 2024-05-19T03:59:00.309Z
+updated: 2024-05-20T03:59:00.309Z
 tags: 
   - problems
 categories:
@@ -589,4 +589,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-s17-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo S17 Location on Twitter | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-90-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor 90 Pro to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

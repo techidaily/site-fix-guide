@@ -1,7 +1,7 @@
 ---
 title: Infinix Hot 40 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:26:49.747Z
-updated: 2024-05-01T14:26:49.747Z
+date: 2024-05-19T03:59:04.500Z
+updated: 2024-05-20T03:59:04.500Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-x90s-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo X90S Device</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone 13? | Dr.fone</u></a></li>
 </ul></div>
+
 

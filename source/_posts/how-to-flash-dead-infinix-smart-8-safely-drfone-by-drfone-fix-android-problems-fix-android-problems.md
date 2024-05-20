@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Infinix Smart 8 Safely | Dr.fone
-date: 2024-04-30T14:21:54.139Z
-updated: 2024-05-01T14:21:54.139Z
+date: 2024-05-19T03:59:00.595Z
+updated: 2024-05-20T03:59:00.595Z
 tags: 
   - problems
 categories:
@@ -432,4 +432,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 11 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
 </ul></div>
+
 

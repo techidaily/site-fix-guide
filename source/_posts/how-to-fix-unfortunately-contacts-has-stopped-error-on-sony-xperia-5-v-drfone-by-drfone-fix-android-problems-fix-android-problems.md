@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T14:19:53.773Z
-updated: 2024-05-01T14:19:53.773Z
+date: 2024-05-19T03:58:58.790Z
+updated: 2024-05-20T03:58:58.790Z
 tags: 
   - problems
 categories:
@@ -501,4 +501,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy M34 | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-14-ultra-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Xiaomi 14 Ultra FRP Locks</u></a></li>
 </ul></div>
+
 

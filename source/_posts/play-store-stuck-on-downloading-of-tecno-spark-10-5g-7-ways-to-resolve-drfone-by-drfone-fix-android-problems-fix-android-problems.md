@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Tecno Spark 10 5G? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:41.869Z
-updated: 2024-05-01T14:30:41.869Z
+date: 2024-05-19T03:59:07.096Z
+updated: 2024-05-20T03:59:07.096Z
 tags: 
   - problems
 categories:
@@ -458,4 +458,5 @@ And, if you’re thinking, “**How do I get a virus off My Tecno Spark 10 5G?**
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-blaze-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Blaze Pro 5G?</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor Magic Vs 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

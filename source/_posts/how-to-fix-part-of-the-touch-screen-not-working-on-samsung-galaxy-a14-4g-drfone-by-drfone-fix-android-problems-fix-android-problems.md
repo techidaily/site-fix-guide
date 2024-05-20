@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A14 4G | Dr.fone
-date: 2024-04-30T14:18:15.657Z
-updated: 2024-05-01T14:18:15.657Z
+date: 2024-05-19T03:58:57.857Z
+updated: 2024-05-20T03:58:57.857Z
 tags: 
   - problems
 categories:
@@ -627,4 +627,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 12 Pro | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-find-n3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Find N3 to Enjoy More Fun | Dr.fone</u></a></li>
 </ul></div>
+
 

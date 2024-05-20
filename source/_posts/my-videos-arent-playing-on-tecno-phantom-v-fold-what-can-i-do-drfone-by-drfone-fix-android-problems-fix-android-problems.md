@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Tecno Phantom V Fold – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:16.685Z
-updated: 2024-05-01T14:28:16.685Z
+date: 2024-05-19T03:59:05.451Z
+updated: 2024-05-20T03:59:05.451Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo S18 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

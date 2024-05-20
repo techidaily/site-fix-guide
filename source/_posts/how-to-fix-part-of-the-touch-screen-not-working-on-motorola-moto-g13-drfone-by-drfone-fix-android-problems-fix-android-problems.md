@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Motorola Moto G13 | Dr.fone
-date: 2024-04-30T14:18:00.001Z
-updated: 2024-05-01T14:18:00.001Z
+date: 2024-05-19T03:58:57.497Z
+updated: 2024-05-20T03:58:57.497Z
 tags: 
   - problems
 categories:
@@ -673,4 +673,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 12 devices? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone SE (2022)</u></a></li>
 </ul></div>
+
 

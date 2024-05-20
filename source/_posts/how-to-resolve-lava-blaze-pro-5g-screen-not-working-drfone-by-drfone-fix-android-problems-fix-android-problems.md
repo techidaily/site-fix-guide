@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Lava Blaze Pro 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:34.170Z
-updated: 2024-05-01T14:23:34.170Z
+date: 2024-05-19T03:59:02.050Z
+updated: 2024-05-20T03:59:02.050Z
 tags: 
   - problems
 categories:
@@ -607,4 +607,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on OnePlus Open | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Moto G24 | Dr.fone</u></a></li>
 </ul></div>
+
 

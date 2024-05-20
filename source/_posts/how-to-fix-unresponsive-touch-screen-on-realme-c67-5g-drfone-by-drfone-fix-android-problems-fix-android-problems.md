@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme C67 5G | Dr.fone
-date: 2024-04-30T14:21:24.219Z
-updated: 2024-05-01T14:21:24.219Z
+date: 2024-05-19T03:59:00.133Z
+updated: 2024-05-20T03:59:00.133Z
 tags: 
   - problems
 categories:
@@ -615,4 +615,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-redmi-note-13-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Redmi Note 13 Pro+ 5G</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-se-2020-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone SE (2020) When You Forget the Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 

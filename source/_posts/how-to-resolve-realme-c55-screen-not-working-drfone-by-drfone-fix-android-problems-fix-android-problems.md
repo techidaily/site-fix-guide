@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme C55 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:50.516Z
-updated: 2024-05-01T14:23:50.516Z
+date: 2024-05-19T03:59:02.240Z
+updated: 2024-05-20T03:59:02.240Z
 tags: 
   - problems
 categories:
@@ -444,4 +444,5 @@ Realme C55 Screen unresponsiveness can be a frustrating issue to deal with, but 
 <li><a href="https://sim-unlock.techidaily.com/top-10-oppo-a2-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo A2 Android SIM Unlock APK</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y36-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y36 Location without Installing Software? | Dr.fone</u></a></li>
 </ul></div>
+
 

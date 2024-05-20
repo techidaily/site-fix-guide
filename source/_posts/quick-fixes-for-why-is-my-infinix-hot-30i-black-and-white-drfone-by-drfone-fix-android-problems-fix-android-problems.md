@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Infinix Hot 30i Black and White | Dr.fone
-date: 2024-04-30T14:32:00.132Z
-updated: 2024-05-01T14:32:00.132Z
+date: 2024-05-19T03:59:08.260Z
+updated: 2024-05-20T03:59:08.260Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nokia 130 Music | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-nokia-c02-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C02 Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

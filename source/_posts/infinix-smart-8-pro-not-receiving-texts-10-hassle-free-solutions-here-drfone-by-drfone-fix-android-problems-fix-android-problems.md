@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 8 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone
-date: 2024-04-30T14:26:59.931Z
-updated: 2024-05-01T14:26:59.931Z
+date: 2024-05-19T03:59:04.607Z
+updated: 2024-05-20T03:59:04.607Z
 tags: 
   - problems
 categories:
@@ -552,4 +552,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y100-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y100 to PC? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-free-mp4-editor-for-windows-8-edit-videos-like-a-pro/"><u>2024 Approved Best Free MP4 Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
 </ul></div>
+
 

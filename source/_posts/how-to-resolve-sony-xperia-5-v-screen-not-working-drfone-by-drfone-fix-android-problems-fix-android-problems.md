@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Sony Xperia 5 V Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:58.325Z
-updated: 2024-05-01T14:23:58.325Z
+date: 2024-05-19T03:59:02.382Z
+updated: 2024-05-20T03:59:02.382Z
 tags: 
   - problems
 categories:
@@ -535,4 +535,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Motorola Moto G84 5G? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-y100-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo Y100 5G online without jailbreak</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Lava Blaze Pro 5G? | Dr.fone
-date: 2024-04-30T14:18:42.266Z
-updated: 2024-05-01T14:18:42.266Z
+date: 2024-05-19T03:58:58.097Z
+updated: 2024-05-20T03:58:58.097Z
 tags: 
   - problems
 categories:
@@ -499,4 +499,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://howto.techidaily.com/why-your-honor-100-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor 100 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/iphone-7-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 7 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
 </ul></div>
+
 

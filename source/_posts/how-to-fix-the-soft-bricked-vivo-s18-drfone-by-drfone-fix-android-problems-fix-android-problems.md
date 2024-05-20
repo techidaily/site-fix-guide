@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo S18? | Dr.fone
-date: 2024-04-30T14:19:08.856Z
-updated: 2024-05-01T14:19:08.856Z
+date: 2024-05-19T03:58:58.290Z
+updated: 2024-05-20T03:58:58.290Z
 tags: 
   - problems
 categories:
@@ -521,4 +521,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-smackdown-adobe-premiere-pro-takes-on-after-effects-for-2024/"><u>Updated Video Editing Smackdown Adobe Premiere Pro Takes on After Effects for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Huawei Nova Y91 | Dr.fone</u></a></li>
 </ul></div>
+
 

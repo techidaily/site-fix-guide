@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Nokia C32 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:57.016Z
-updated: 2024-05-01T14:27:57.016Z
+date: 2024-05-19T03:59:05.267Z
+updated: 2024-05-20T03:59:05.267Z
 tags: 
   - problems
 categories:
@@ -549,4 +549,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-samsung-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Samsung on Mac?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo Y27 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

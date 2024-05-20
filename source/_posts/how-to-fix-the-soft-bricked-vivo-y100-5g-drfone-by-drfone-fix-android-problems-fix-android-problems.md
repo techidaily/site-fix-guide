@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y100 5G? | Dr.fone
-date: 2024-04-30T14:19:10.569Z
-updated: 2024-05-01T14:19:10.569Z
+date: 2024-05-19T03:58:58.340Z
+updated: 2024-05-20T03:58:58.340Z
 tags: 
   - problems
 categories:
@@ -455,4 +455,5 @@ For those who find themselves locked out of their Vivo Y100 5G devices, there's 
 <li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-y02t-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo Y02T Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-13-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 13 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
 </ul></div>
+
 

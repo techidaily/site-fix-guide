@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy A23 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:22.659Z
-updated: 2024-05-01T14:32:22.659Z
+date: 2024-05-19T03:59:08.460Z
+updated: 2024-05-20T03:59:08.460Z
 tags: 
   - problems
 categories:
@@ -608,4 +608,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-zte-nubia-flip-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On ZTE Nubia Flip 5G Like A Pro 5 Easy Ways</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-x90s-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo X90S | Dr.fone</u></a></li>
 </ul></div>
+
 

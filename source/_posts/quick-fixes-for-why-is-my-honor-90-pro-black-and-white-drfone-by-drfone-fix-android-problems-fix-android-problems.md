@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Honor 90 Pro Black and White | Dr.fone
-date: 2024-04-30T14:31:56.122Z
-updated: 2024-05-01T14:31:56.122Z
+date: 2024-05-19T03:59:08.212Z
+updated: 2024-05-20T03:59:08.212Z
 tags: 
   - problems
 categories:
@@ -653,4 +653,5 @@ But among the methods discussed above, Dr.Fone – System Repair just stood out 
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-cut-color-and-create-top-iphone-video-editing-apps/"><u>Updated 2024 Approved Cut, Color, and Create Top iPhone Video Editing Apps</u></a></li>
 <li><a href="https://howto.techidaily.com/zte-nubia-z60-ultra-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Nubia Z60 Ultra Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 

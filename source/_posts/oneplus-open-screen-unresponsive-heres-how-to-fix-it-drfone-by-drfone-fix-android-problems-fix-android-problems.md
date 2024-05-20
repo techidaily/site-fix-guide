@@ -1,7 +1,7 @@
 ---
 title: OnePlus Open Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:54.501Z
-updated: 2024-05-01T14:28:54.501Z
+date: 2024-05-19T03:59:05.964Z
+updated: 2024-05-20T03:59:05.964Z
 tags: 
   - problems
 categories:
@@ -362,4 +362,5 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your OnePlu
 <li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-m14-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy M14 5G Device</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-se-2020-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone SE (2020) Without Previous Owner?</u></a></li>
 </ul></div>
+
 

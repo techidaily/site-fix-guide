@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Itel A60s | Dr.fone
-date: 2024-04-30T14:19:27.917Z
-updated: 2024-05-01T14:19:27.917Z
+date: 2024-05-19T03:58:58.550Z
+updated: 2024-05-20T03:58:58.550Z
 tags: 
   - problems
 categories:
@@ -733,4 +733,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-itel-p40-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Itel P40 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-text-in-adobe-rush/"><u>Updated How to Add Text in Adobe Rush</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus 12R | Dr.fone
-date: 2024-04-30T14:19:37.330Z
-updated: 2024-05-01T14:19:37.330Z
+date: 2024-05-19T03:58:58.647Z
+updated: 2024-05-20T03:58:58.647Z
 tags: 
   - problems
 categories:
@@ -512,4 +512,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Nokia C12 Plus? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-se-2020-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone SE (2020) Without iTunes in 5 Ways</u></a></li>
 </ul></div>
+
 

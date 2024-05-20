@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo G2? | Dr.fone
-date: 2024-04-30T14:19:08.090Z
-updated: 2024-05-01T14:19:08.090Z
+date: 2024-05-19T03:58:58.285Z
+updated: 2024-05-20T03:58:58.285Z
 tags: 
   - problems
 categories:
@@ -447,4 +447,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-note-30-vip-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Note 30 VIP</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-nokia-c12-plus-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Nokia C12 Plus</u></a></li>
 </ul></div>
+
 

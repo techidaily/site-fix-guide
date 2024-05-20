@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked OnePlus 12R? | Dr.fone
-date: 2024-04-30T14:18:49.249Z
-updated: 2024-05-01T14:18:49.249Z
+date: 2024-05-19T03:58:58.147Z
+updated: 2024-05-20T03:58:58.147Z
 tags: 
   - problems
 categories:
@@ -477,4 +477,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Lava Blaze 2 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-edge-40-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola Edge 40 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

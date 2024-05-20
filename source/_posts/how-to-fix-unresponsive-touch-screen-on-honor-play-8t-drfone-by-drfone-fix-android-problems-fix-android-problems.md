@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Honor Play 8T | Dr.fone
-date: 2024-04-30T14:21:00.198Z
-updated: 2024-05-01T14:21:00.198Z
+date: 2024-05-19T03:58:59.830Z
+updated: 2024-05-20T03:58:59.830Z
 tags: 
   - problems
 categories:
@@ -553,4 +553,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Apple iPhone XS? | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-15-pro-max-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 15 Pro Max Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

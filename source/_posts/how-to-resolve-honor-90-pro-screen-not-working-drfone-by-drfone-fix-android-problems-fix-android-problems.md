@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor 90 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:23.982Z
-updated: 2024-05-01T14:23:23.982Z
+date: 2024-05-19T03:59:01.907Z
+updated: 2024-05-20T03:59:01.907Z
 tags: 
   - problems
 categories:
@@ -478,4 +478,5 @@ While there are many options to fix this error, only one is an excellent choice:
 <li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-translate-videos-in-tamil-for-a-wider-reach-for-2024/"><u>Updated How To Translate Videos in Tamil for a Wider Reach for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ratio-revolution-how-aspect-ratio-choices-influence-your-video-content/"><u>New In 2024, The Ratio Revolution How Aspect Ratio Choices Influence Your Video Content</u></a></li>
 </ul></div>
+
 

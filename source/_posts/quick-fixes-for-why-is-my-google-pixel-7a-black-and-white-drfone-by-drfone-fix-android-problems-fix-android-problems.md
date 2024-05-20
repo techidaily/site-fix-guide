@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Google Pixel 7a Black and White | Dr.fone
-date: 2024-04-30T14:31:54.021Z
-updated: 2024-05-01T14:31:54.021Z
+date: 2024-05-19T03:59:08.197Z
+updated: 2024-05-20T03:59:08.197Z
 tags: 
   - problems
 categories:
@@ -527,4 +527,5 @@ To deal with an unresponsive screen, users can try restarting the Google Pixel 7
 <li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-14-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone 14 Unlock Chip You Need to Know</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Sony Xperia 5 V? | Dr.fone</u></a></li>
 </ul></div>
+
 

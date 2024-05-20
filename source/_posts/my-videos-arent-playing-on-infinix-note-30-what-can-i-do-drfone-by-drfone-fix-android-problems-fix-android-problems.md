@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Infinix Note 30 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:47.873Z
-updated: 2024-05-01T14:27:47.873Z
+date: 2024-05-19T03:59:05.149Z
+updated: 2024-05-20T03:59:05.149Z
 tags: 
   - problems
 categories:
@@ -535,4 +535,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-camon-20-premier-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Realme 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Samsung Galaxy S23 Ultra | Dr.fone
-date: 2024-04-30T14:21:29.933Z
-updated: 2024-05-01T14:21:29.933Z
+date: 2024-05-19T03:59:00.178Z
+updated: 2024-05-20T03:59:00.178Z
 tags: 
   - problems
 categories:
@@ -505,4 +505,5 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-asus-rog-phone-7-ultimate-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Asus ROG Phone 7 Ultimate to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

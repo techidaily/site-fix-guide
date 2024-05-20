@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T14:26:08.723Z
-updated: 2024-05-01T14:26:08.723Z
+date: 2024-05-19T03:59:03.926Z
+updated: 2024-05-20T03:59:03.926Z
 tags: 
   - problems
 categories:
@@ -608,4 +608,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-and-add-an-adjustment-layer-in-final-cut-pro/"><u>New How to Create and Add an Adjustment Layer in Final Cut Pro</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-v30t-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme V30T Current Location of a Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

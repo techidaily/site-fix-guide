@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme 12 Pro 5G | Dr.fone
-date: 2024-04-30T14:21:22.833Z
-updated: 2024-05-01T14:21:22.833Z
+date: 2024-05-19T03:59:00.123Z
+updated: 2024-05-20T03:59:00.123Z
 tags: 
   - problems
 categories:
@@ -522,4 +522,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-11-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 11 When Its Locked Within Seconds | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-nord-ce-3-lite-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Nord CE 3 Lite 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

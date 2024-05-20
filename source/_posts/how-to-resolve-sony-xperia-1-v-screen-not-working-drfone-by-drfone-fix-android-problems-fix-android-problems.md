@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Sony Xperia 1 V Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:57.942Z
-updated: 2024-05-01T14:23:57.942Z
+date: 2024-05-19T03:59:02.379Z
+updated: 2024-05-20T03:59:02.379Z
 tags: 
   - problems
 categories:
@@ -522,4 +522,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-xiaomi-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Xiaomi Devices</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-content-how-to-create-engaging-reaction-videos-with-filmora/"><u>New Elevate Your Content How to Create Engaging Reaction Videos with Filmora</u></a></li>
 </ul></div>
+
 

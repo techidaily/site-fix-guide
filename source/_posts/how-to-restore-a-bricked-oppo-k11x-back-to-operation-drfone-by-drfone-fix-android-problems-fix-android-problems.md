@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Oppo K11x Back to Operation | Dr.fone
-date: 2024-04-30T14:24:37.463Z
-updated: 2024-05-01T14:24:37.463Z
+date: 2024-05-19T03:59:02.976Z
+updated: 2024-05-20T03:59:02.976Z
 tags: 
   - problems
 categories:
@@ -533,4 +533,5 @@ To deal with an unresponsive screen, users can try restarting the Oppo K11x devi
 <li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-realme-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Realme</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi 14 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

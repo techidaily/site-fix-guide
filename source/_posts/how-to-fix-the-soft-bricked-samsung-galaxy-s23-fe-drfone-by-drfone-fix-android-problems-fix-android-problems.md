@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy S23 FE? | Dr.fone
-date: 2024-04-30T14:19:04.040Z
-updated: 2024-05-01T14:19:04.040Z
+date: 2024-05-19T03:58:58.256Z
+updated: 2024-05-20T03:58:58.256Z
 tags: 
   - problems
 categories:
@@ -501,4 +501,5 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 <li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-redmi-a2-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Redmi A2 FRP?</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

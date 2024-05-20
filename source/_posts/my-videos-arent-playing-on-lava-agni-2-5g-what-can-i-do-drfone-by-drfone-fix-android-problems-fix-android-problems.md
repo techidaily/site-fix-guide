@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Lava Agni 2 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:50.915Z
-updated: 2024-05-01T14:27:50.915Z
+date: 2024-05-19T03:59:05.213Z
+updated: 2024-05-20T03:59:05.213Z
 tags: 
   - problems
 categories:
@@ -514,4 +514,5 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 <li><a href="https://screen-mirror.techidaily.com/how-motorola-moto-g24-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola Moto G24 Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-14-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone 14 without Password?</u></a></li>
 </ul></div>
+
 

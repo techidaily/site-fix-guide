@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Tecno Camon 20 Premier 5G? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:50.883Z
-updated: 2024-05-01T14:29:50.883Z
+date: 2024-05-19T03:59:06.573Z
+updated: 2024-05-20T03:59:06.573Z
 tags: 
   - problems
 categories:
@@ -521,4 +521,5 @@ To deal with an unresponsive screen, users can try restarting the Tecno Camon 20
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nokia-c32-phone-by-drfone-android/"><u>How to Reset a Locked Nokia C32 Phone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/best-10-tools-to-convert-a-gif-into-a-pdf-for-2024/"><u>Best 10 Tools to Convert a GIF Into a PDF for 2024</u></a></li>
 </ul></div>
+
 

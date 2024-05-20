@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Tecno Camon 30 Pro 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:59.093Z
-updated: 2024-05-01T14:23:59.093Z
+date: 2024-05-19T03:59:02.388Z
+updated: 2024-05-20T03:59:02.388Z
 tags: 
   - problems
 categories:
@@ -431,4 +431,5 @@ When following the directions, the user may require more research into some trou
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 6 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-narzo-60x-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme Narzo 60x 5G Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

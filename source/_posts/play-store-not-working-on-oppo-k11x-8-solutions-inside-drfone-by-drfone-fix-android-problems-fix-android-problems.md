@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Oppo K11x? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:40.170Z
-updated: 2024-05-01T14:29:40.170Z
+date: 2024-05-19T03:59:06.470Z
+updated: 2024-05-20T03:59:06.470Z
 tags: 
   - problems
 categories:
@@ -518,4 +518,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 <li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-13-mini-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 13 mini Swipe-Up? Try These 11 Solutions</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo V27e? | Dr.fone</u></a></li>
 </ul></div>
+
 

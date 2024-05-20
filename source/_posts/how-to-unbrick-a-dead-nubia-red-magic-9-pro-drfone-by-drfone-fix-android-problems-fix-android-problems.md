@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Nubia Red Magic 9 Pro | Dr.fone
-date: 2024-04-30T14:26:14.447Z
-updated: 2024-05-01T14:26:14.447Z
+date: 2024-05-19T03:59:03.984Z
+updated: 2024-05-20T03:59:03.984Z
 tags: 
   - problems
 categories:
@@ -621,4 +621,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Poco X6 Pro? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo V30? | Dr.fone</u></a></li>
 </ul></div>
+
 

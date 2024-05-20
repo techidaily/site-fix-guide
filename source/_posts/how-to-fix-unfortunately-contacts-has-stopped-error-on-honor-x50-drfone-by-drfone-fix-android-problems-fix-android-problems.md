@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Honor X50 | Dr.fone
-date: 2024-04-30T14:19:23.594Z
-updated: 2024-05-01T14:19:23.594Z
+date: 2024-05-19T03:58:58.488Z
+updated: 2024-05-20T03:58:58.488Z
 tags: 
   - problems
 categories:
@@ -450,4 +450,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-motorola-moto-g84-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Motorola Moto G84 5G | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Oppo Find X6 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

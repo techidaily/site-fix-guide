@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Moto G13 | Dr.fone
-date: 2024-04-30T14:19:33.119Z
-updated: 2024-05-01T14:19:33.119Z
+date: 2024-05-19T03:58:58.587Z
+updated: 2024-05-20T03:58:58.587Z
 tags: 
   - problems
 categories:
@@ -578,4 +578,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-14-ultra-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi 14 Ultra to New Android? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-vertical-vibes-how-to-create-engaging-mobile-content/"><u>In 2024, Vertical Vibes How to Create Engaging Mobile Content</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Nokia G310 | Dr.fone
-date: 2024-04-30T14:21:13.176Z
-updated: 2024-05-01T14:21:13.176Z
+date: 2024-05-19T03:58:59.987Z
+updated: 2024-05-20T03:58:59.987Z
 tags: 
   - problems
 categories:
@@ -505,4 +505,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://fake-location.techidaily.com/how-to-fix-honor-magic-6-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Magic 6 Find My Friends No Location Found? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-tecno-pop-8-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Tecno Pop 8 Without Power Button | Dr.fone</u></a></li>
 </ul></div>
+
 

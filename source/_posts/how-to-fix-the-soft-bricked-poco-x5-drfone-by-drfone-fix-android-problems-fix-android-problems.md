@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Poco X5? | Dr.fone
-date: 2024-04-30T14:18:56.487Z
-updated: 2024-05-01T14:18:56.487Z
+date: 2024-05-19T03:58:58.202Z
+updated: 2024-05-20T03:58:58.202Z
 tags: 
   - problems
 categories:
@@ -430,4 +430,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-12-pro-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone 12 Pro for Free</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-echo-effect-to-video/"><u>How to Add Echo Effect to Video</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo Y77t Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:08.162Z
-updated: 2024-05-01T14:24:08.162Z
+date: 2024-05-19T03:59:02.470Z
+updated: 2024-05-20T03:59:02.470Z
 tags: 
   - problems
 categories:
@@ -482,4 +482,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-vivo-v29e-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Vivo V29e.</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-download-and-use-vegas-pro-for-2024/"><u>New How to Download and Use Vegas Pro for 2024</u></a></li>
 </ul></div>
+
 

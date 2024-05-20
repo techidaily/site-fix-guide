@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nokia C12 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:38.593Z
-updated: 2024-05-01T14:23:38.593Z
+date: 2024-05-19T03:59:02.098Z
+updated: 2024-05-20T03:59:02.098Z
 tags: 
   - problems
 categories:
@@ -404,4 +404,5 @@ Encountering difficulties when updating Google Play Services can be frustrating,
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo Y36i? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Smart 8 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

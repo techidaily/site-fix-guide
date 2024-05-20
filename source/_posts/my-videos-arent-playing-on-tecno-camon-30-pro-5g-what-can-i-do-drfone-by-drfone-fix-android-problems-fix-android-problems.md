@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Tecno Camon 30 Pro 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:16.307Z
-updated: 2024-05-01T14:28:16.307Z
+date: 2024-05-19T03:59:05.448Z
+updated: 2024-05-20T03:59:05.448Z
 tags: 
   - problems
 categories:
@@ -523,4 +523,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-s18e-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo S18e Phones? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-y200-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Y200</u></a></li>
 </ul></div>
+
 

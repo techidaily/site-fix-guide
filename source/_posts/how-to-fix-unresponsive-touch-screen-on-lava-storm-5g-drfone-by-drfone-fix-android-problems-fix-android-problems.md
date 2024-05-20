@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Lava Storm 5G | Dr.fone
-date: 2024-04-30T14:21:07.025Z
-updated: 2024-05-01T14:21:07.025Z
+date: 2024-05-19T03:58:59.940Z
+updated: 2024-05-20T03:58:59.940Z
 tags: 
   - problems
 categories:
@@ -571,4 +571,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://ai-editing-video.techidaily.com/new-easy-steps-to-export-video-in-filmora-for-2024/"><u>New Easy Steps to Export Video in Filmora for 2024</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-avatar-in-2024/"><u>New What Is an AI Avatar, In 2024</u></a></li>
 </ul></div>
+
 

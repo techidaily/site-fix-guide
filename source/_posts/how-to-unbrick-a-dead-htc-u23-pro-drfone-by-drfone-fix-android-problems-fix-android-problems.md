@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead HTC U23 Pro | Dr.fone
-date: 2024-04-30T14:26:01.812Z
-updated: 2024-05-01T14:26:01.812Z
+date: 2024-05-19T03:59:03.853Z
+updated: 2024-05-20T03:59:03.853Z
 tags: 
   - problems
 categories:
@@ -575,4 +575,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-s24-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy S24 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo V29 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Xiaomi Redmi A2 | Dr.fone
-date: 2024-04-30T14:21:42.286Z
-updated: 2024-05-01T14:21:42.286Z
+date: 2024-05-19T03:59:00.330Z
+updated: 2024-05-20T03:59:00.330Z
 tags: 
   - problems
 categories:
@@ -590,4 +590,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://blog-min.techidaily.com/how-to-fix-runtime-error-424-object-required-error-in-excel-2013-stellar-by-stellar-guide/"><u>How to fix runtime error 424 object required error in Excel 2013 | Stellar</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-oneplus-11-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General OnePlus 11 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+
 

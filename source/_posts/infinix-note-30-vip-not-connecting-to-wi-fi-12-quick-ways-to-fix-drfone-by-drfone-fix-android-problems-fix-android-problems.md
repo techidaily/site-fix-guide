@@ -1,7 +1,7 @@
 ---
 title: Infinix Note 30 VIP Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-04-30T14:26:53.801Z
-updated: 2024-05-01T14:26:53.801Z
+date: 2024-05-19T03:59:04.531Z
+updated: 2024-05-20T03:59:04.531Z
 tags: 
   - problems
 categories:
@@ -726,4 +726,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-oppo-a2-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo A2 to Protect Your Individual Information</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100i-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100i to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

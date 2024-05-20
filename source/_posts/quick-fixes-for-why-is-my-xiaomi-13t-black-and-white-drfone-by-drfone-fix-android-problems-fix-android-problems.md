@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Xiaomi 13T Black and White | Dr.fone
-date: 2024-04-30T14:32:35.010Z
-updated: 2024-05-01T14:32:35.010Z
+date: 2024-05-19T03:59:08.575Z
+updated: 2024-05-20T03:59:08.575Z
 tags: 
   - problems
 categories:
@@ -593,4 +593,5 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 <li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2010-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2010 by digital signature</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor 90? | Dr.fone</u></a></li>
 </ul></div>
+
 

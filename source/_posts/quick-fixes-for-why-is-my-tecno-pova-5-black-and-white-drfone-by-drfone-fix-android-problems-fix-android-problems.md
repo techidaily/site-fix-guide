@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Tecno Pova 5 Black and White | Dr.fone
-date: 2024-04-30T14:32:27.620Z
-updated: 2024-05-01T14:32:27.620Z
+date: 2024-05-19T03:59:08.498Z
+updated: 2024-05-20T03:59:08.498Z
 tags: 
   - problems
 categories:
@@ -583,4 +583,5 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-apple-iphone-12-mini-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile Apple iPhone 12 mini online without SIM Card?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Lava Blaze 2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

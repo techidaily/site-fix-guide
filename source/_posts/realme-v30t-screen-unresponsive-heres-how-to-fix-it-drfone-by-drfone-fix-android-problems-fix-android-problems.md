@@ -1,7 +1,7 @@
 ---
 title: Realme V30T Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:33:02.166Z
-updated: 2024-05-01T14:33:02.166Z
+date: 2024-05-19T03:59:08.787Z
+updated: 2024-05-20T03:59:08.787Z
 tags: 
   - problems
 categories:
@@ -458,4 +458,5 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v29e-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V29e Location Settings | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-mac-video-editing-made-easy-with-mkvtoolnix-software/"><u>2024 Approved Mac Video Editing Made Easy with MKVtoolnix Software</u></a></li>
 </ul></div>
+
 

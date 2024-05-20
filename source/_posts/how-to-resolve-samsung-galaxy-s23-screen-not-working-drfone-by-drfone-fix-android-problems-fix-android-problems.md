@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Samsung Galaxy S23 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:56.195Z
-updated: 2024-05-01T14:23:56.195Z
+date: 2024-05-19T03:59:02.332Z
+updated: 2024-05-20T03:59:02.332Z
 tags: 
   - problems
 categories:
@@ -535,4 +535,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://ai-video-apps.techidaily.com/new-video-illumination-masters-editor-reviews/"><u>New Video Illumination Masters Editor Reviews</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nokia-150-2023-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nokia 150 (2023) to iPod | Dr.fone</u></a></li>
 </ul></div>
+
 

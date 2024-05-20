@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Tecno Spark 10C Black and White | Dr.fone
-date: 2024-04-30T14:32:28.191Z
-updated: 2024-05-01T14:32:28.191Z
+date: 2024-05-19T03:59:08.502Z
+updated: 2024-05-20T03:59:08.502Z
 tags: 
   - problems
 categories:
@@ -508,4 +508,5 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-virtualdub-substitutes-explore-these-video-editing-options/"><u>Updated In 2024, VirtualDub Substitutes Explore These Video Editing Options</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nubia-red-magic-8s-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nubia Red Magic 8S Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

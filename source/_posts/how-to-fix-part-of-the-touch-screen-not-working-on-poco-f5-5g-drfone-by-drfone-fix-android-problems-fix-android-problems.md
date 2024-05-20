@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Poco F5 5G | Dr.fone
-date: 2024-04-30T14:18:10.257Z
-updated: 2024-05-01T14:18:10.257Z
+date: 2024-05-19T03:58:57.785Z
+updated: 2024-05-20T03:58:57.785Z
 tags: 
   - problems
 categories:
@@ -699,4 +699,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Poco M6 Pro 4G? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/translate-video-speech-to-text-with-speech-to-text-converters-for-2024/"><u>Translate Video Speech to Text with Speech-to-Text Converters for 2024</u></a></li>
 </ul></div>
+
 

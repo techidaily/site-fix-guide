@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Oppo Reno 8T 5G | Dr.fone
-date: 2024-04-30T14:18:09.490Z
-updated: 2024-05-01T14:18:09.490Z
+date: 2024-05-19T03:58:57.779Z
+updated: 2024-05-20T03:58:57.779Z
 tags: 
   - problems
 categories:
@@ -486,4 +486,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-motorola-moto-g04-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Motorola Moto G04 Phone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oppo-a38-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Oppo A38 Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

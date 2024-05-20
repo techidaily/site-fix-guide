@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Xiaomi 13T Pro | Dr.fone
-date: 2024-04-30T14:21:40.638Z
-updated: 2024-05-01T14:21:40.638Z
+date: 2024-05-19T03:59:00.318Z
+updated: 2024-05-20T03:59:00.318Z
 tags: 
   - problems
 categories:
@@ -582,4 +582,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-oppo-reno-10-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Oppo Reno 10 Pro 5G</u></a></li>
 <li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-k11x-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo K11x FRP Locks</u></a></li>
 </ul></div>
+
 

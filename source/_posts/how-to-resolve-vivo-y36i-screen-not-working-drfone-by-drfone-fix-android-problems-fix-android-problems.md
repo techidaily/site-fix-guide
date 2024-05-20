@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo Y36i Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:07.779Z
-updated: 2024-05-01T14:24:07.779Z
+date: 2024-05-19T03:59:02.467Z
+updated: 2024-05-20T03:59:02.467Z
 tags: 
   - problems
 categories:
@@ -467,4 +467,5 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-15-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 15 Before the Plan Expires</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy A05s? | Dr.fone</u></a></li>
 </ul></div>
+
 

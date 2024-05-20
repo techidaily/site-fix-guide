@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Honor 80 Pro Straight Screen Edition? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:22.038Z
-updated: 2024-05-01T14:29:22.038Z
+date: 2024-05-19T03:59:06.242Z
+updated: 2024-05-20T03:59:06.242Z
 tags: 
   - problems
 categories:
@@ -503,4 +503,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-15-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 15 Plus With 7 Methods</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-a05-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy A05 Lock Screen Password</u></a></li>
 </ul></div>
+
 

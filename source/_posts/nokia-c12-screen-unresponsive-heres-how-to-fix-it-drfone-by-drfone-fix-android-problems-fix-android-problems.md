@@ -1,7 +1,7 @@
 ---
 title: Nokia C12 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:32.877Z
-updated: 2024-05-01T14:28:32.877Z
+date: 2024-05-19T03:59:05.688Z
+updated: 2024-05-20T03:59:05.688Z
 tags: 
   - problems
 categories:
@@ -557,4 +557,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-m34-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy M34 5G without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-a15-4g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy A15 4G Phone</u></a></li>
 </ul></div>
+
 

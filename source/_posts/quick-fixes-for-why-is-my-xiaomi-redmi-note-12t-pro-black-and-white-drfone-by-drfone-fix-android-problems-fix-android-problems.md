@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Xiaomi Redmi Note 12T Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:37.567Z
-updated: 2024-05-01T14:32:37.567Z
+date: 2024-05-19T03:59:08.594Z
+updated: 2024-05-20T03:59:08.594Z
 tags: 
   - problems
 categories:
@@ -650,4 +650,5 @@ To sum up this article, it can be said that issues like ****Xiaomi Redmi Note 12
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-infinix-note-30-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Infinix Note 30 Pro Phone that is Locked?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor 100 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:23.079Z
-updated: 2024-05-01T14:23:23.079Z
+date: 2024-05-19T03:59:01.900Z
+updated: 2024-05-20T03:59:01.900Z
 tags: 
   - problems
 categories:
@@ -566,4 +566,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-oppo-a79-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Oppo A79 5G without backup.</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-y78plus-t1-edition-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo Y78+ (T1) Edition to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

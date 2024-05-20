@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Vivo Y36i Wont Turn On | Dr.fone
-date: 2024-04-30T14:17:42.332Z
-updated: 2024-05-01T14:17:42.332Z
+date: 2024-05-19T03:58:57.299Z
+updated: 2024-05-20T03:58:57.299Z
 tags: 
   - problems
 categories:
@@ -612,4 +612,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo A59 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-s23-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy S23 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

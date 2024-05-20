@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Smart 8 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:30.568Z
-updated: 2024-05-01T14:23:30.568Z
+date: 2024-05-19T03:59:01.969Z
+updated: 2024-05-20T03:59:01.969Z
 tags: 
   - problems
 categories:
@@ -464,4 +464,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-s17-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo S17 Location on Viber | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

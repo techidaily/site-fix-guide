@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Lava Yuva 3 Pro – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:51.717Z
-updated: 2024-05-01T14:27:51.717Z
+date: 2024-05-19T03:59:05.220Z
+updated: 2024-05-20T03:59:05.220Z
 tags: 
   - problems
 categories:
@@ -532,4 +532,5 @@ Lava Yuva 3 Pro Screen unresponsiveness can be a frustrating issue to deal with,
 <li><a href="https://phone-solutions.techidaily.com/avchd-on-redmi-note-12-4g-convert-mts-for-redmi-note-12-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Redmi Note 12 4G-convert MTS for Redmi Note 12 4G</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/cut-trim-and-edit-the-best-free-and-paid-android-video-editors-for-2024/"><u>Cut, Trim, and Edit The Best Free and Paid Android Video Editors for 2024</u></a></li>
 </ul></div>
+
 

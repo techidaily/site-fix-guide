@@ -1,7 +1,7 @@
 ---
 title: Realme C51 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:32:47.384Z
-updated: 2024-05-01T14:32:47.384Z
+date: 2024-05-19T03:59:08.668Z
+updated: 2024-05-20T03:59:08.668Z
 tags: 
   - problems
 categories:
@@ -539,4 +539,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-60x-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo 60x 5G to Outlook | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

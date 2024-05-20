@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Nokia C02 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:55.633Z
-updated: 2024-05-01T14:27:55.633Z
+date: 2024-05-19T03:59:05.257Z
+updated: 2024-05-20T03:59:05.257Z
 tags: 
   - problems
 categories:
@@ -533,4 +533,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-create-motion-effect-with-path-blur-in-photoshop/"><u>In 2024, Create Motion Effect with Path Blur In Photoshop</u></a></li>
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Itel A70 | Dr.fone</u></a></li>
 </ul></div>
+
 

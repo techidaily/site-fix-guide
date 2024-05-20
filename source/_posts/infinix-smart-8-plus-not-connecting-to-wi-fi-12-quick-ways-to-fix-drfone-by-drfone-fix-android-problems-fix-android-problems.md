@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 8 Plus Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-04-30T14:26:58.794Z
-updated: 2024-05-01T14:26:58.794Z
+date: 2024-05-19T03:59:04.580Z
+updated: 2024-05-20T03:59:04.580Z
 tags: 
   - problems
 categories:
@@ -669,4 +669,5 @@ For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reli
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-add-an-adjustment-layer-to-your-video-for-easier-editing-read-this-article-to-find-out-how-to-efficiently-add-an-adjustment-layer-in-/"><u>In 2024, Do You Want to Add an Adjustment Layer to Your Video for Easier Editing? Read This Article to Find Out How to Efficiently Add an Adjustment Layer in After Effects</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-lava-yuva-2-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Lava Yuva 2 Current Location of a Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

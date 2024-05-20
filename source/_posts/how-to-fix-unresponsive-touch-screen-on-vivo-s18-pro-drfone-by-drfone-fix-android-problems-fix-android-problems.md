@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo S18 Pro | Dr.fone
-date: 2024-04-30T14:21:35.282Z
-updated: 2024-05-01T14:21:35.282Z
+date: 2024-05-19T03:59:00.276Z
+updated: 2024-05-20T03:59:00.276Z
 tags: 
   - problems
 categories:
@@ -554,4 +554,5 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nokia C32 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-mts-video-editing-software-roundup-the-best/"><u>New MTS Video Editing Software Roundup The Best</u></a></li>
 </ul></div>
+
 

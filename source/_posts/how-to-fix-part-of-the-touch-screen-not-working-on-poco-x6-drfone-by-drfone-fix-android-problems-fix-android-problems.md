@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Poco X6 | Dr.fone
-date: 2024-04-30T14:18:11.026Z
-updated: 2024-05-01T14:18:11.026Z
+date: 2024-05-19T03:58:57.807Z
+updated: 2024-05-20T03:58:57.807Z
 tags: 
   - problems
 categories:
@@ -586,4 +586,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-official-method-to-unlock-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Plus Official Method to Unlock Your iPhone 8 Plus</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo T2 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

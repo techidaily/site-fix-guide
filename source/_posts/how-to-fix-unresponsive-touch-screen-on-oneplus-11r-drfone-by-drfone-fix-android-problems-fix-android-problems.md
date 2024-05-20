@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on OnePlus 11R | Dr.fone
-date: 2024-04-30T14:21:14.173Z
-updated: 2024-05-01T14:21:14.173Z
+date: 2024-05-19T03:58:59.994Z
+updated: 2024-05-20T03:58:59.994Z
 tags: 
   - problems
 categories:
@@ -527,4 +527,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone 6 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oneplus-11r-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your OnePlus 11R Phone Network-Ready</u></a></li>
 </ul></div>
+
 

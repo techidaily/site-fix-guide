@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Lenovo ThinkPhone | Dr.fone
-date: 2024-04-30T14:26:09.299Z
-updated: 2024-05-01T14:26:09.299Z
+date: 2024-05-19T03:59:03.930Z
+updated: 2024-05-20T03:59:03.930Z
 tags: 
   - problems
 categories:
@@ -565,4 +565,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-13-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 13 Without a Home Button</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-best-public-domain-picture-sites-2023-edition/"><u>Updated Best Public Domain Picture Sites 2023 Edition</u></a></li>
 </ul></div>
+
 

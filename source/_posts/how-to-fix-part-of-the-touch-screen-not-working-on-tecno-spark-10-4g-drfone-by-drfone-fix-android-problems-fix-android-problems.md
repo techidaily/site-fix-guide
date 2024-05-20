@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Spark 10 4G | Dr.fone
-date: 2024-04-30T14:18:22.339Z
-updated: 2024-05-01T14:18:22.339Z
+date: 2024-05-19T03:58:57.918Z
+updated: 2024-05-20T03:58:57.918Z
 tags: 
   - problems
 categories:
@@ -537,4 +537,5 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Find N3 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-motorola-edge-40-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Motorola Edge 40 Contacts  An Easy Method Explained.</u></a></li>
 </ul></div>
+
 

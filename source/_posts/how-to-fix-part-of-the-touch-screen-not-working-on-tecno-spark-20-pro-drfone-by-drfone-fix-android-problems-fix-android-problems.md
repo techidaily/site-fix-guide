@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Spark 20 Pro | Dr.fone
-date: 2024-04-30T14:18:22.915Z
-updated: 2024-05-01T14:18:22.915Z
+date: 2024-05-19T03:58:57.922Z
+updated: 2024-05-20T03:58:57.922Z
 tags: 
   - problems
 categories:
@@ -622,4 +622,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi Redmi Note 13 5G?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-redmi-k70-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi Redmi K70 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
+
 

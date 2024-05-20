@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Vivo Y36i | Dr.fone
-date: 2024-04-30T14:26:37.808Z
-updated: 2024-05-01T14:26:37.808Z
+date: 2024-05-19T03:59:04.314Z
+updated: 2024-05-20T03:59:04.314Z
 tags: 
   - problems
 categories:
@@ -560,4 +560,5 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo Find X6 | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/unlock-cinematic-excellence-the-ultimate-guide-to-making-professional-movies/"><u>Unlock Cinematic Excellence The Ultimate Guide to Making Professional Movies</u></a></li>
 </ul></div>
+
 

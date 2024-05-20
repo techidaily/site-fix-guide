@@ -1,7 +1,7 @@
 ---
 title: Motorola Moto G13 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:27:34.295Z
-updated: 2024-05-01T14:27:34.295Z
+date: 2024-05-19T03:59:04.978Z
+updated: 2024-05-20T03:59:04.978Z
 tags: 
   - problems
 categories:
@@ -506,4 +506,5 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13-ultra-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi 13 Ultra Phone Without Password?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nokia C32 | Dr.fone</u></a></li>
 </ul></div>
+
 

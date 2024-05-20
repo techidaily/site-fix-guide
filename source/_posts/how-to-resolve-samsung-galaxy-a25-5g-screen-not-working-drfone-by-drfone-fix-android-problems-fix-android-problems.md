@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Samsung Galaxy A25 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:53.713Z
-updated: 2024-05-01T14:23:53.713Z
+date: 2024-05-19T03:59:02.313Z
+updated: 2024-05-20T03:59:02.313Z
 tags: 
   - problems
 categories:
@@ -547,4 +547,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-m34-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy M34 5G Phone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-n53-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo N53 To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

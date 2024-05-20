@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My OnePlus Nord CE 3 Lite 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:12.352Z
-updated: 2024-05-01T14:32:12.352Z
+date: 2024-05-19T03:59:08.382Z
+updated: 2024-05-20T03:59:08.382Z
 tags: 
   - problems
 categories:
@@ -618,4 +618,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-best-5-gif-to-video-converters-you-cant-miss/"><u>New In 2024, Best 5 GIF to Video Converters You Cant-Miss</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-create-one-click-video-reverse-effect-in-filmora/"><u>How to Create One Click Video Reverse Effect in Filmora</u></a></li>
 </ul></div>
+
 

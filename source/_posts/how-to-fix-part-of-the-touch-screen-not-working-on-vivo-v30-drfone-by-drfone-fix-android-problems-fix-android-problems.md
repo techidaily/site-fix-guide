@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo V30 | Dr.fone
-date: 2024-04-30T14:18:25.162Z
-updated: 2024-05-01T14:18:25.162Z
+date: 2024-05-19T03:58:57.953Z
+updated: 2024-05-20T03:58:57.953Z
 tags: 
   - problems
 categories:
@@ -669,4 +669,5 @@ Doing all the recommended methods above usually solves the case. If the differen
 <li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pros-greatest-hits-10-notable-films-you-need-to-see/"><u>Final Cut Pros Greatest Hits 10 Notable Films You Need to See</u></a></li>
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-nubia-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Nubia on Windows</u></a></li>
 </ul></div>
+
 

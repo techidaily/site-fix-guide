@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor Play 40C | Dr.fone
-date: 2024-04-30T14:17:50.483Z
-updated: 2024-05-01T14:17:50.483Z
+date: 2024-05-19T03:58:57.404Z
+updated: 2024-05-20T03:58:57.404Z
 tags: 
   - problems
 categories:
@@ -597,4 +597,5 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 <li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor Play 7T? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-itel-a05s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Itel A05s without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

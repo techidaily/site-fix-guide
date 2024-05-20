@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My ZTE Nubia Flip 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:38.142Z
-updated: 2024-05-01T14:32:38.142Z
+date: 2024-05-19T03:59:08.598Z
+updated: 2024-05-20T03:59:08.598Z
 tags: 
   - problems
 categories:
@@ -568,4 +568,5 @@ To deal with an unresponsive screen, users can try restarting the ZTE Nubia Flip
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-infinix-zero-30-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Infinix Zero 30 5G | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-g54-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola G54 5G Phone</u></a></li>
 </ul></div>
+
 

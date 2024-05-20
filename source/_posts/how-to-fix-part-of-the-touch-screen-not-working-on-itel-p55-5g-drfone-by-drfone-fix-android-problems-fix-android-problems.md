@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Itel P55 5G | Dr.fone
-date: 2024-04-30T14:17:55.953Z
-updated: 2024-05-01T14:17:55.953Z
+date: 2024-05-19T03:58:57.463Z
+updated: 2024-05-20T03:58:57.463Z
 tags: 
   - problems
 categories:
@@ -697,4 +697,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://ai-live-streaming.techidaily.com/new-top-9-free-tv-streaming-services-or-sites-to-use/"><u>New Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-find-x6-pro-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo Find X6 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor X50 | Dr.fone
-date: 2024-04-30T14:17:50.861Z
-updated: 2024-05-01T14:17:50.861Z
+date: 2024-05-19T03:58:57.408Z
+updated: 2024-05-20T03:58:57.408Z
 tags: 
   - problems
 categories:
@@ -601,4 +601,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-70-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor 70 Lite 5G? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Passcode Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

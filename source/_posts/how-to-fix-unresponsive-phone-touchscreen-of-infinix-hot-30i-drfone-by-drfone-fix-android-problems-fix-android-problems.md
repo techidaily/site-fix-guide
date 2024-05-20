@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Infinix Hot 30i | Dr.fone
-date: 2024-04-30T14:20:14.163Z
-updated: 2024-05-01T14:20:14.163Z
+date: 2024-05-19T03:58:59.053Z
+updated: 2024-05-20T03:58:59.053Z
 tags: 
   - problems
 categories:
@@ -610,4 +610,5 @@ After following these quick and easy suggestions, you would be able to fix the I
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p40plus-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Itel P40+ PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y36 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Honor X50 | Dr.fone
-date: 2024-04-30T14:21:00.390Z
-updated: 2024-05-01T14:21:00.390Z
+date: 2024-05-19T03:58:59.832Z
+updated: 2024-05-20T03:58:59.832Z
 tags: 
   - problems
 categories:
@@ -514,4 +514,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-add-emojisstickers-to-videos-on-pcmacmobileonline/"><u>New In 2024, How Add Emojis/Stickers to Videos on PC/Mac/Mobile/Online</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-12r-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus 12R</u></a></li>
 </ul></div>
+
 

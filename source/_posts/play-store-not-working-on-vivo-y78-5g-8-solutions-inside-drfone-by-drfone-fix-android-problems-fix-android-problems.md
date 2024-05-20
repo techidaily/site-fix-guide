@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Vivo Y78 5G? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:30:00.292Z
-updated: 2024-05-01T14:30:00.292Z
+date: 2024-05-19T03:59:06.709Z
+updated: 2024-05-20T03:59:06.709Z
 tags: 
   - problems
 categories:
@@ -660,4 +660,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-magic-6-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor Magic 6 Pro? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy F04? | Dr.fone</u></a></li>
 </ul></div>
+
 

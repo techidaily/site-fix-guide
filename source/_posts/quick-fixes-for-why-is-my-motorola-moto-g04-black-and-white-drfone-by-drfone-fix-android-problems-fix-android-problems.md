@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Motorola Moto G04 Black and White | Dr.fone
-date: 2024-04-30T14:32:07.537Z
-updated: 2024-05-01T14:32:07.537Z
+date: 2024-05-19T03:59:08.347Z
+updated: 2024-05-20T03:59:08.347Z
 tags: 
   - problems
 categories:
@@ -538,4 +538,5 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 <li><a href="https://techidaily.com/remove-spark-20-proplus-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Spark 20 Pro+ unlock screen</u></a></li>
 <li><a href="https://ai-video.techidaily.com/2024-approved-how-to-use-korean-to-english-video-translators-for-creators/"><u>2024 Approved How To Use Korean to English Video Translators for Creators</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Infinix Note 30 VIP Racing Edition? | Dr.fone
-date: 2024-04-30T14:18:38.990Z
-updated: 2024-05-01T14:18:38.990Z
+date: 2024-05-19T03:58:58.074Z
+updated: 2024-05-20T03:58:58.074Z
 tags: 
   - problems
 categories:
@@ -523,4 +523,5 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Devices</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-y27-5g-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Y27 5G.</u></a></li>
 </ul></div>
+
 

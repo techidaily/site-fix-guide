@@ -1,7 +1,7 @@
 ---
 title: Lava Yuva 2 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:20.303Z
-updated: 2024-05-01T14:27:20.303Z
+date: 2024-05-19T03:59:04.845Z
+updated: 2024-05-20T03:59:04.845Z
 tags: 
   - problems
 categories:
@@ -480,4 +480,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-video-by-mouse-in-filmora/"><u>New How To Make a Video by Mouse in Filmora?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-80-pro-straight-screen-edition-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor 80 Pro Straight Screen Edition Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

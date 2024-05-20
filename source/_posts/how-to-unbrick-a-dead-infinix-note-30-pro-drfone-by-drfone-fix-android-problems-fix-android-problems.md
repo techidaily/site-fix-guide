@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Infinix Note 30 Pro | Dr.fone
-date: 2024-04-30T14:26:03.725Z
-updated: 2024-05-01T14:26:03.725Z
+date: 2024-05-19T03:59:03.889Z
+updated: 2024-05-20T03:59:03.889Z
 tags: 
   - problems
 categories:
@@ -720,4 +720,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-nokia-by-drfone-android/"><u>Universal Unlock Pattern for Nokia</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-secrets-to-make-2d-game-animation/"><u>Updated Secrets to Make 2D Game Animation</u></a></li>
 </ul></div>
+
 

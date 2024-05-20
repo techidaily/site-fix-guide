@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Infinix Note 30 5G Back to Operation | Dr.fone
-date: 2024-04-30T14:24:21.553Z
-updated: 2024-05-01T14:24:21.553Z
+date: 2024-05-19T03:59:02.848Z
+updated: 2024-05-20T03:59:02.848Z
 tags: 
   - problems
 categories:
@@ -664,4 +664,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://blog-min.techidaily.com/how-to-sign-word-2010-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2010 free</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme 11X 5G | Dr.fone
-date: 2024-04-30T14:18:12.185Z
-updated: 2024-05-01T14:18:12.185Z
+date: 2024-05-19T03:58:57.835Z
+updated: 2024-05-20T03:58:57.835Z
 tags: 
   - problems
 categories:
@@ -648,4 +648,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y100-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y100 PC | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-gt-neo-5-se-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme GT Neo 5 SE to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

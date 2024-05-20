@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor 100? | Dr.fone
-date: 2024-04-30T14:18:33.511Z
-updated: 2024-05-01T14:18:33.511Z
+date: 2024-05-19T03:58:58.023Z
+updated: 2024-05-20T03:58:58.023Z
 tags: 
   - problems
 categories:
@@ -463,4 +463,5 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-13-mini-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 13 mini Location Is Wrong | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2019-cannot-access-the-file-error-by-stellar-guide/"><u>Fixed Microsoft Excel 2019 Cannot Access the File Error</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Xiaomi Redmi Note 12R Black and White | Dr.fone
-date: 2024-04-30T14:32:37.374Z
-updated: 2024-05-01T14:32:37.374Z
+date: 2024-05-19T03:59:08.592Z
+updated: 2024-05-20T03:59:08.592Z
 tags: 
   - problems
 categories:
@@ -412,4 +412,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Nokia C22 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-use-twixtor-effect-to-add-slow-motion-effect-to-video/"><u>How to Use Twixtor Effect to Add Slow-Motion Effect to Video?</u></a></li>
 </ul></div>
+
 

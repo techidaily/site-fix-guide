@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 20C | Dr.fone
-date: 2024-04-30T14:19:56.054Z
-updated: 2024-05-01T14:19:56.054Z
+date: 2024-05-19T03:58:58.809Z
+updated: 2024-05-20T03:58:58.809Z
 tags: 
   - problems
 categories:
@@ -470,4 +470,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Xiaomi Redmi Note 13 5G</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-a2-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo A2? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Lava Blaze 2 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:27:13.346Z
-updated: 2024-05-01T14:27:13.346Z
+date: 2024-05-19T03:59:04.779Z
+updated: 2024-05-20T03:59:04.779Z
 tags: 
   - problems
 categories:
@@ -537,4 +537,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-huawei-p60-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Huawei P60</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo X Flip? | Dr.fone</u></a></li>
 </ul></div>
+
 

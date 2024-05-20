@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Sony Xperia 10 V Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:58.135Z
-updated: 2024-05-01T14:23:58.135Z
+date: 2024-05-19T03:59:02.381Z
+updated: 2024-05-20T03:59:02.381Z
 tags: 
   - problems
 categories:
@@ -571,4 +571,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-cutting-software-for-mp4-files-2023-update/"><u>New Best Free Video Cutting Software for MP4 Files (2023 Update)</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-capcut-lenta-template-how-it-benefits-slow-motion-video/"><u>In 2024, CapCut Lenta Template How It Benefits Slow Motion Video</u></a></li>
 </ul></div>
+
 

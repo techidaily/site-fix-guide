@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Poco X6 Pro Wont Turn On | Dr.fone
-date: 2024-04-30T14:17:25.848Z
-updated: 2024-05-01T14:17:25.848Z
+date: 2024-05-19T03:58:57.137Z
+updated: 2024-05-20T03:58:57.137Z
 tags: 
   - problems
 categories:
@@ -532,4 +532,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) without Losing Any Content? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-11-proplus-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme 11 Pro+ to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

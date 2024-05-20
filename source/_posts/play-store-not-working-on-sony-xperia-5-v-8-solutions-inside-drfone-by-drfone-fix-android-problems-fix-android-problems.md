@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Sony Xperia 5 V? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:50.494Z
-updated: 2024-05-01T14:29:50.494Z
+date: 2024-05-19T03:59:06.570Z
+updated: 2024-05-20T03:59:06.570Z
 tags: 
   - problems
 categories:
@@ -471,4 +471,5 @@ To sum up this article, it can be said that issues like ****Sony Xperia 5 V not 
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-play-40c-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor Play 40C to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-are-you-finding-it-hard-to-use-final-cut-pro-to-match-colors-in-your-clips-read-this-tutorial-to-do-color-match-in-final-cut-pro-and-use-its-best-al/"><u>Updated Are You Finding It Hard to Use Final Cut Pro to Match Colors in Your Clips? Read This Tutorial to Do Color Match in Final Cut Pro and Use Its Best Alternative for 2024</u></a></li>
 </ul></div>
+
 

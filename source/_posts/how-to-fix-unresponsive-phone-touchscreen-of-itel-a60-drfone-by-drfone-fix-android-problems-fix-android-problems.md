@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Itel A60 | Dr.fone
-date: 2024-04-30T14:20:16.407Z
-updated: 2024-05-01T14:20:16.407Z
+date: 2024-05-19T03:58:59.080Z
+updated: 2024-05-20T03:58:59.080Z
 tags: 
   - problems
 categories:
@@ -566,4 +566,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-free-chroma-key-apps-for-android-and-ios-devices-2023-edition/"><u>New 10 Best Free Chroma Key Apps for Android and iOS Devices 2023 Edition</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-narzo-60x-5g-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Narzo 60x 5G.</u></a></li>
 </ul></div>
+
 

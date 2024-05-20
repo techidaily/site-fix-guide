@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Nokia C110? | Dr.fone
-date: 2024-04-30T14:18:46.578Z
-updated: 2024-05-01T14:18:46.578Z
+date: 2024-05-19T03:58:58.123Z
+updated: 2024-05-20T03:58:58.123Z
 tags: 
   - problems
 categories:
@@ -437,4 +437,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From iPhone 11 Pro Max?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-note-30-vip-racing-edition-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Infinix Note 30 VIP Racing Edition Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

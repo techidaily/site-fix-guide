@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo T2x 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:30.281Z
-updated: 2024-05-01T14:32:30.281Z
+date: 2024-05-19T03:59:08.518Z
+updated: 2024-05-20T03:59:08.518Z
 tags: 
   - problems
 categories:
@@ -689,4 +689,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Motorola Razr 40 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-y27s-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo Y27s for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Realme C67 4G Black and White | Dr.fone
-date: 2024-04-30T14:32:19.358Z
-updated: 2024-05-01T14:32:19.358Z
+date: 2024-05-19T03:59:08.437Z
+updated: 2024-05-20T03:59:08.437Z
 tags: 
   - problems
 categories:
@@ -500,4 +500,5 @@ To sum up this article, it can be said that issues like ****Realme C67 4G not wo
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nokia-c02-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nokia C02</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know-for-2024/"><u>Ready To Dive Into Photo Talking Videos? Heres What You Need To Know for 2024</u></a></li>
 </ul></div>
+
 

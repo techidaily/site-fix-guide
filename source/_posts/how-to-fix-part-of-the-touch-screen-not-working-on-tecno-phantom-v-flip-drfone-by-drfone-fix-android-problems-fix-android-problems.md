@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Phantom V Flip | Dr.fone
-date: 2024-04-30T14:18:21.183Z
-updated: 2024-05-01T14:18:21.183Z
+date: 2024-05-19T03:58:57.910Z
+updated: 2024-05-20T03:58:57.910Z
 tags: 
   - problems
 categories:
@@ -628,4 +628,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-powerpoint-slideshow-icon-slide-sorter-view-icon-slideshow-icon-powerpoint-slide-show-view-icon/"><u>New 2024 Approved Powerpoint Slideshow Icon, Slide Sorter View Icon, Slideshow Icon Powerpoint, Slide Show View Icon</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-x9awithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor X9awith/without a PC</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Poco C65 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:47.470Z
-updated: 2024-05-01T14:23:47.470Z
+date: 2024-05-19T03:59:02.211Z
+updated: 2024-05-20T03:59:02.211Z
 tags: 
   - problems
 categories:
@@ -524,4 +524,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-11-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>Top 4 Ways for Apple iPhone 11 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-11-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 11 to Windows 10? | Dr.fone</u></a></li>
 </ul></div>
+
 

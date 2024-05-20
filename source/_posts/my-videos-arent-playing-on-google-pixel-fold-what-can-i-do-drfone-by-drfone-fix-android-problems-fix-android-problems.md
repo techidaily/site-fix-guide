@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Google Pixel Fold – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:41.258Z
-updated: 2024-05-01T14:27:41.258Z
+date: 2024-05-19T03:59:05.066Z
+updated: 2024-05-20T03:59:05.066Z
 tags: 
   - problems
 categories:
@@ -622,4 +622,5 @@ So go ahead and try them out now!
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-poco-f5-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Poco F5 5G to Roku | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-photos-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Xiaomi Redmi Note 13 Pro+ 5G.</u></a></li>
 </ul></div>
+
 

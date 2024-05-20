@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T14:18:20.226Z
-updated: 2024-05-01T14:18:20.226Z
+date: 2024-05-19T03:58:57.904Z
+updated: 2024-05-20T03:58:57.904Z
 tags: 
   - problems
 categories:
@@ -589,4 +589,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on OnePlus Ace 2 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Poco F5 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

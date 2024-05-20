@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi 13 Ultra | Dr.fone
-date: 2024-04-30T14:18:28.451Z
-updated: 2024-05-01T14:18:28.451Z
+date: 2024-05-19T03:58:57.981Z
+updated: 2024-05-20T03:58:57.981Z
 tags: 
   - problems
 categories:
@@ -484,4 +484,5 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-13-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 13 Pro Max | Stellar</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-14-ultra-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi 14 Ultra for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

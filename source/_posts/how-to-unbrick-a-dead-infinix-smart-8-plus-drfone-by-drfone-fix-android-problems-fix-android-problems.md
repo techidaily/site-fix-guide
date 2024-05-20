@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Infinix Smart 8 Plus | Dr.fone
-date: 2024-04-30T14:26:05.066Z
-updated: 2024-05-01T14:26:05.066Z
+date: 2024-05-19T03:59:03.898Z
+updated: 2024-05-20T03:59:03.898Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://phone-solutions.techidaily.com/google-pixel-fold-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Google Pixel Fold support - Forgotten screen lock.</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-hot-40-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Infinix Hot 40 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

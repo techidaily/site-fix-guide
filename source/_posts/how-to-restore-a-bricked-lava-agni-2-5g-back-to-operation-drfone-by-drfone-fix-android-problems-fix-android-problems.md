@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Lava Agni 2 5G Back to Operation | Dr.fone
-date: 2024-04-30T14:24:25.153Z
-updated: 2024-05-01T14:24:25.153Z
+date: 2024-05-19T03:59:02.880Z
+updated: 2024-05-20T03:59:02.880Z
 tags: 
   - problems
 categories:
@@ -672,4 +672,5 @@ So go ahead and try them out now!
 <li><a href="https://phone-solutions.techidaily.com/fix-excel-2016-formula-not-showing-result-by-stellar-guide/"><u>Fix Excel 2016 formula not showing result</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-spark-10-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Spark 10 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

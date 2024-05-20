@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Tecno Camon 20 Pro 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:27.046Z
-updated: 2024-05-01T14:32:27.046Z
+date: 2024-05-19T03:59:08.493Z
+updated: 2024-05-20T03:59:08.493Z
 tags: 
   - problems
 categories:
@@ -569,4 +569,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://ai-voice.techidaily.com/updated-2024-approved-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>Updated 2024 Approved Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Samsung Galaxy S24 | Dr.fone</u></a></li>
 </ul></div>
+
 

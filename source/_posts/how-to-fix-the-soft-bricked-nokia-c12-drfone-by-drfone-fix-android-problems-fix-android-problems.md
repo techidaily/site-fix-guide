@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Nokia C12? | Dr.fone
-date: 2024-04-30T14:18:46.906Z
-updated: 2024-05-01T14:18:46.906Z
+date: 2024-05-19T03:58:58.124Z
+updated: 2024-05-20T03:58:58.124Z
 tags: 
   - problems
 categories:
@@ -414,4 +414,5 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 <li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-8-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 8 Plus to Use USB Accessories Without Passcode</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/effortless-webm-to-mp3-conversion-top-10-converter-reviews/"><u>Effortless WebM to MP3 Conversion Top 10 Converter Reviews</u></a></li>
 </ul></div>
+
 

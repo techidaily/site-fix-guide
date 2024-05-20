@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy S23 FE Black and White | Dr.fone
-date: 2024-04-30T14:32:24.528Z
-updated: 2024-05-01T14:32:24.528Z
+date: 2024-05-19T03:59:08.474Z
+updated: 2024-05-20T03:59:08.474Z
 tags: 
   - problems
 categories:
@@ -686,4 +686,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-tecno-pop-8-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Tecno Pop 8 FRP</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-perfect-quick-and-efficient-video-editing-keyboard-shortcuts-in-filmora/"><u>How to Perfect Quick and Efficient Video Editing | Keyboard Shortcuts in Filmora</u></a></li>
 </ul></div>
+
 

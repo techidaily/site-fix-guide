@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nokia C12 | Dr.fone
-date: 2024-04-30T14:18:01.636Z
-updated: 2024-05-01T14:18:01.636Z
+date: 2024-05-19T03:58:57.510Z
+updated: 2024-05-20T03:58:57.510Z
 tags: 
   - problems
 categories:
@@ -616,4 +616,5 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-lava-blaze-pro-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Lava Blaze Pro 5G? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/unlock-locked-iphone-14-pro-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 14 Pro by restoring it to default settings</u></a></li>
 </ul></div>
+
 

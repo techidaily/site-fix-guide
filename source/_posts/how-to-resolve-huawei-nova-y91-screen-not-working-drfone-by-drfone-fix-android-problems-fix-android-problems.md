@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Huawei Nova Y91 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:28.263Z
-updated: 2024-05-01T14:23:28.263Z
+date: 2024-05-19T03:59:01.951Z
+updated: 2024-05-20T03:59:01.951Z
 tags: 
   - problems
 categories:
@@ -379,4 +379,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-s24plus-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy S24+ to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-a59-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo A59 5G to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

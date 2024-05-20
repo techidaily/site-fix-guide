@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Poco F5 Pro 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:47.852Z
-updated: 2024-05-01T14:23:47.852Z
+date: 2024-05-19T03:59:02.223Z
+updated: 2024-05-20T03:59:02.223Z
 tags: 
   - problems
 categories:
@@ -445,4 +445,5 @@ To sum up this article, it can be said that issues like ****Poco F5 Pro 5G not w
 <li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy S23+</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-se-2020-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone SE (2020) | Dr.fone</u></a></li>
 </ul></div>
+
 

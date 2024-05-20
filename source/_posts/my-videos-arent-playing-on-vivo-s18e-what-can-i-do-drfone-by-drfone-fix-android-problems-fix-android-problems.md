@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Vivo S18e – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:19.577Z
-updated: 2024-05-01T14:28:19.577Z
+date: 2024-05-19T03:59:05.492Z
+updated: 2024-05-20T03:59:05.492Z
 tags: 
   - problems
 categories:
@@ -610,4 +610,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-axon-40-lite-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock ZTE Axon 40 Lite Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-from-zero-to-hero-creating-stunning-reaction-videos-using-filmora/"><u>Updated From Zero to Hero Creating Stunning Reaction Videos Using Filmora</u></a></li>
 </ul></div>
+
 

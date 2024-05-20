@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy A05 Black and White | Dr.fone
-date: 2024-04-30T14:32:21.696Z
-updated: 2024-05-01T14:32:21.696Z
+date: 2024-05-19T03:59:08.453Z
+updated: 2024-05-20T03:59:08.453Z
 tags: 
   - problems
 categories:
@@ -578,4 +578,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-zte-nubia-flip-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-jaycut-guide-free-online-video-editing-for-beginners-and-pros/"><u>2024 Approved The Ultimate Jaycut Guide Free Online Video Editing for Beginners and Pros</u></a></li>
 </ul></div>
+
 

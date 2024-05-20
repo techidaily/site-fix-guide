@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Infinix GT 10 Pro? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:12.247Z
-updated: 2024-05-01T14:30:12.247Z
+date: 2024-05-19T03:59:06.814Z
+updated: 2024-05-20T03:59:06.814Z
 tags: 
   - problems
 categories:
@@ -617,4 +617,5 @@ But among the methods discussed above, Dr.Fone – System Repair just stood out 
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-top-5-solutions-on-how-to-add-emojis-to-iphone/"><u>Updated In 2024, Top 5 Solutions on How to Add Emojis to iPhone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo A78 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

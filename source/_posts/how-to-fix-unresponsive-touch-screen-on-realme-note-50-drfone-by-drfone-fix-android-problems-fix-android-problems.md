@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme Note 50 | Dr.fone
-date: 2024-04-30T14:21:25.760Z
-updated: 2024-05-01T14:21:25.760Z
+date: 2024-05-19T03:59:00.145Z
+updated: 2024-05-20T03:59:00.145Z
 tags: 
   - problems
 categories:
@@ -570,4 +570,5 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Realme
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-spark-10-4g-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Spark 10 4G? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-x-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone X with iTunes | Dr.fone</u></a></li>
 </ul></div>
+
 

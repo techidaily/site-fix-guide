@@ -1,7 +1,7 @@
 ---
 title: Poco X6 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:31:03.995Z
-updated: 2024-05-01T14:31:03.995Z
+date: 2024-05-19T03:59:07.307Z
+updated: 2024-05-20T03:59:07.307Z
 tags: 
   - problems
 categories:
@@ -574,4 +574,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-7-hd-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 7 HD without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-c51-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme C51 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T14:20:42.834Z
-updated: 2024-05-01T14:20:42.834Z
+date: 2024-05-19T03:58:59.544Z
+updated: 2024-05-20T03:58:59.544Z
 tags: 
   - problems
 categories:
@@ -541,4 +541,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-12-pro-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 12 Pro 5G Device</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-8-excellent-video-and-photo-mergers-on-desktopmobileonline/"><u>New 2024 Approved 8 Excellent Video and Photo Mergers on Desktop/Mobile/Online</u></a></li>
 </ul></div>
+
 

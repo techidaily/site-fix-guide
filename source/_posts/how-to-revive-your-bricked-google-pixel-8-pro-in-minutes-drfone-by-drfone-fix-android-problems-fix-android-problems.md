@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Google Pixel 8 Pro in Minutes | Dr.fone
-date: 2024-04-30T14:25:05.811Z
-updated: 2024-05-01T14:25:05.811Z
+date: 2024-05-19T03:59:03.233Z
+updated: 2024-05-20T03:59:03.233Z
 tags: 
   - problems
 categories:
@@ -579,4 +579,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-asus-rog-phone-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-find-n3-flip-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo Find N3 Flip Phones</u></a></li>
 </ul></div>
+
 

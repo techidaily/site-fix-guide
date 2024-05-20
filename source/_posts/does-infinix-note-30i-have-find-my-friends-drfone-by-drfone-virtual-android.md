@@ -1,7 +1,7 @@
 ---
 title: Does Infinix Note 30i Have Find My Friends? | Dr.fone
-date: 2024-04-30T14:16:05.710Z
-updated: 2024-05-01T14:16:05.710Z
+date: 2024-05-19T03:58:52.758Z
+updated: 2024-05-20T03:58:52.758Z
 tags: 
   - virtual location change
   - social app
@@ -424,4 +424,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-redmi-13c-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Redmi 13C 5G to Roku | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v12-file-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.2 File</u></a></li>
 </ul></div>
+
 

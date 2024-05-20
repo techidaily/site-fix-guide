@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Huawei P60 | Dr.fone
-date: 2024-04-30T14:21:01.910Z
-updated: 2024-05-01T14:21:01.910Z
+date: 2024-05-19T03:58:59.844Z
+updated: 2024-05-20T03:58:59.844Z
 tags: 
   - problems
 categories:
@@ -625,4 +625,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-11-pro-max-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 11 Pro Max Properly | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

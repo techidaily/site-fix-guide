@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Nokia C210 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:56.386Z
-updated: 2024-05-01T14:27:56.386Z
+date: 2024-05-19T03:59:05.263Z
+updated: 2024-05-20T03:59:05.263Z
 tags: 
   - problems
 categories:
@@ -627,4 +627,5 @@ It is our hope that when faced with this fairly common error, you will not panic
 <li><a href="https://techidaily.com/will-xiaomi-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xiaomi  play AVCHD mts files?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-steps-to-create-gold-text-effects-after-effects/"><u>In 2024, Steps to Create Gold Text Effects After Effects</u></a></li>
 </ul></div>
+
 

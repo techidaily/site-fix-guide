@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T14:23:05.358Z
-updated: 2024-05-01T14:23:05.359Z
+date: 2024-05-19T03:59:01.679Z
+updated: 2024-05-20T03:59:01.679Z
 tags: 
   - problems
 categories:
@@ -529,4 +529,5 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Poco X6 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-revolutionize-your-classroom-10-best-animation-software/"><u>New Revolutionize Your Classroom 10 Best Animation Software</u></a></li>
 </ul></div>
+
 

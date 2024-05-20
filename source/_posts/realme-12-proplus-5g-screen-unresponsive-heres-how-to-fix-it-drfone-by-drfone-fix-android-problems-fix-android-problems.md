@@ -1,7 +1,7 @@
 ---
 title: Realme 12 Pro+ 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:45.151Z
-updated: 2024-05-01T14:32:45.151Z
+date: 2024-05-19T03:59:08.652Z
+updated: 2024-05-20T03:59:08.652Z
 tags: 
   - problems
 categories:
@@ -586,4 +586,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-magic-6-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor Magic 6</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max without Passcode or Face ID</u></a></li>
 </ul></div>
+
 

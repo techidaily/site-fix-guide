@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Vivo Y28 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:22.980Z
-updated: 2024-05-01T14:28:22.980Z
+date: 2024-05-19T03:59:05.527Z
+updated: 2024-05-20T03:59:05.527Z
 tags: 
   - problems
 categories:
@@ -671,4 +671,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-oppo-find-x6-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Oppo Find X6</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-motorola-moto-g84-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Moto G84 5G? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+
 

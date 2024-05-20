@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Itel P55+ | Dr.fone
-date: 2024-04-30T14:21:05.174Z
-updated: 2024-05-01T14:21:05.174Z
+date: 2024-05-19T03:58:59.871Z
+updated: 2024-05-20T03:58:59.871Z
 tags: 
   - problems
 categories:
@@ -547,4 +547,5 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 <li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Oppo A1x 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-change-video-speed-with-ease-best-software-for-windows-and-macos/"><u>2024 Approved Change Video Speed with Ease Best Software for Windows and macOS</u></a></li>
 </ul></div>
+
 

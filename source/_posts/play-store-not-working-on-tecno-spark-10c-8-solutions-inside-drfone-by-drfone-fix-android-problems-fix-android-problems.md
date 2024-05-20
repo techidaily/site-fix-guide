@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Tecno Spark 10C? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:52.587Z
-updated: 2024-05-01T14:29:52.587Z
+date: 2024-05-19T03:59:06.588Z
+updated: 2024-05-20T03:59:06.588Z
 tags: 
   - problems
 categories:
@@ -525,4 +525,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-pro-max-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro Max To Android? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi A2 | Dr.fone</u></a></li>
 </ul></div>
+
 

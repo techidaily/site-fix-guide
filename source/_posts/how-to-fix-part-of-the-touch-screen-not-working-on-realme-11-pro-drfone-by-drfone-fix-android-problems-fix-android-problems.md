@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme 11 Pro | Dr.fone
-date: 2024-04-30T14:18:11.799Z
-updated: 2024-05-01T14:18:11.799Z
+date: 2024-05-19T03:58:57.832Z
+updated: 2024-05-20T03:58:57.832Z
 tags: 
   - problems
 categories:
@@ -570,4 +570,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XR Without Swiping Up? 6 Ways</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-6-online-video-speed-controller-for-chrome-safari-firefox/"><u>New 2024 Approved TOP 6 Online Video Speed Controller for Chrome, Safari, Firefox</u></a></li>
 </ul></div>
+
 

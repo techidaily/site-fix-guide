@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Oppo Find N3 Flip | Dr.fone
-date: 2024-04-30T14:18:07.790Z
-updated: 2024-05-01T14:18:07.790Z
+date: 2024-05-19T03:58:57.768Z
+updated: 2024-05-20T03:58:57.768Z
 tags: 
   - problems
 categories:
@@ -639,4 +639,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://iphone-unlock.techidaily.com/apple-iphone-6s-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 6s Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 10 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

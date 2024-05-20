@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy A14 4G Black and White | Dr.fone
-date: 2024-04-30T14:32:22.082Z
-updated: 2024-05-01T14:32:22.082Z
+date: 2024-05-19T03:59:08.456Z
+updated: 2024-05-20T03:59:08.456Z
 tags: 
   - problems
 categories:
@@ -562,4 +562,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme 11 5G | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-y27-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo Y27 5G FRP?</u></a></li>
 </ul></div>
+
 

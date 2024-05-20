@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Itel S23+ Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:33.215Z
-updated: 2024-05-01T14:23:33.215Z
+date: 2024-05-19T03:59:02.043Z
+updated: 2024-05-20T03:59:02.043Z
 tags: 
   - problems
 categories:
@@ -485,4 +485,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g-stylus-5g-2023-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G Stylus 5G (2023) Phone</u></a></li>
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
+
 

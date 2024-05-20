@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Realme GT 5 Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:20.126Z
-updated: 2024-05-01T14:32:20.126Z
+date: 2024-05-19T03:59:08.442Z
+updated: 2024-05-20T03:59:08.442Z
 tags: 
   - problems
 categories:
@@ -497,4 +497,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c22-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia C22 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-14-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 14 Pro? How to Fix</u></a></li>
 </ul></div>
+
 

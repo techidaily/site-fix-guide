@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Infinix Smart 7 HD | Dr.fone
-date: 2024-04-30T14:20:15.834Z
-updated: 2024-05-01T14:20:15.834Z
+date: 2024-05-19T03:58:59.075Z
+updated: 2024-05-20T03:58:59.075Z
 tags: 
   - problems
 categories:
@@ -588,4 +588,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-14-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 14 Pro After Forgetting my PIN Code?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-adobe-premiere-pro-guide-to-slow-down-video-for-2024/"><u>Updated Adobe Premiere Pro Guide to Slow-Down Video for 2024</u></a></li>
 </ul></div>
+
 

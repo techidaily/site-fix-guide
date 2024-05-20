@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Infinix Smart 8 Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:01.694Z
-updated: 2024-05-01T14:32:01.694Z
+date: 2024-05-19T03:59:08.271Z
+updated: 2024-05-20T03:59:08.271Z
 tags: 
   - problems
 categories:
@@ -452,4 +452,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Nubia Z50 Ultra | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713963216018-new-have-you-ever-tried-to-remove-motion-blur-from-photos-this-article-will-address-how-to-remove-the-motion-blur-effect-using-photoshop-and-its-alternative/"><u>New Have You Ever Tried to Remove Motion Blur From Photos? This Article Will Address How to Remove the Motion Blur Effect Using Photoshop and Its Alternatives for 2024</u></a></li>
 </ul></div>
+
 

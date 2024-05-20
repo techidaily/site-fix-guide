@@ -1,7 +1,7 @@
 ---
 title: Realme V30 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:33:00.994Z
-updated: 2024-05-01T14:33:00.994Z
+date: 2024-05-19T03:59:08.780Z
+updated: 2024-05-20T03:59:08.780Z
 tags: 
   - problems
 categories:
@@ -425,4 +425,5 @@ To sum up this article, it can be said that issues like ****Realme V30 not worki
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 15 Pro Max</u></a></li>
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-nokia-c300-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Nokia C300 in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

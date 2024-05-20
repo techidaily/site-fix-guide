@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Tecno Spark 20 Pro? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:52.964Z
-updated: 2024-05-01T14:29:52.964Z
+date: 2024-05-19T03:59:06.590Z
+updated: 2024-05-20T03:59:06.590Z
 tags: 
   - problems
 categories:
@@ -552,4 +552,5 @@ When nothing works, the last resort you can go with is resetting the Tecno Spark
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-oppo-a79-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo A79 5G Lock Screen Password</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated 2024 Approved How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
 </ul></div>
+
 

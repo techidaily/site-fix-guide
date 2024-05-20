@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on ZTE Blade A73 5G | Dr.fone
-date: 2024-04-30T14:20:06.982Z
-updated: 2024-05-01T14:20:06.982Z
+date: 2024-05-19T03:58:58.957Z
+updated: 2024-05-20T03:58:58.957Z
 tags: 
   - problems
 categories:
@@ -540,4 +540,5 @@ To deal with an unresponsive screen, users can try restarting the ZTE Blade A73 
 <li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-educational-animation-tools-for-2024/"><u>Discover the Best Educational Animation Tools for 2024</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 6 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

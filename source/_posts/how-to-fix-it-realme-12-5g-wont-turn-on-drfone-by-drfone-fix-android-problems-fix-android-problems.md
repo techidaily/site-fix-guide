@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Realme 12 5G Wont Turn On | Dr.fone
-date: 2024-04-30T14:17:26.800Z
-updated: 2024-05-01T14:17:26.800Z
+date: 2024-05-19T03:58:57.147Z
+updated: 2024-05-20T03:58:57.147Z
 tags: 
   - problems
 categories:
@@ -482,4 +482,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-motorola-moto-g34-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Motorola Moto G34 5G? Here is How | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone SE (2020)</u></a></li>
 </ul></div>
+
 

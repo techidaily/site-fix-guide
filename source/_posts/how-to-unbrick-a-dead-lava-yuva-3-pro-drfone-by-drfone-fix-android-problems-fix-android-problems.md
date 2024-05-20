@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Lava Yuva 3 Pro | Dr.fone
-date: 2024-04-30T14:26:09.110Z
-updated: 2024-05-01T14:26:09.110Z
+date: 2024-05-19T03:59:03.928Z
+updated: 2024-05-20T03:59:03.928Z
 tags: 
   - problems
 categories:
@@ -610,4 +610,5 @@ So go ahead and try them out now!
 <li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y27s | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Honor Magic Vs 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

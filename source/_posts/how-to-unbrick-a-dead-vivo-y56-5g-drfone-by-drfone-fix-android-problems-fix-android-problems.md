@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Vivo Y56 5G | Dr.fone
-date: 2024-04-30T14:26:38.194Z
-updated: 2024-05-01T14:26:38.194Z
+date: 2024-05-19T03:59:04.317Z
+updated: 2024-05-20T03:59:04.317Z
 tags: 
   - problems
 categories:
@@ -412,4 +412,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://review-topics.techidaily.com/identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Identify malfunctioning hardware drivers with Windows Device Manager in Windows 11</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 6 | Dr.fone</u></a></li>
 </ul></div>
+
 

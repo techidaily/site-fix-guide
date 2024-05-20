@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy F14 5G | Dr.fone
-date: 2024-04-30T14:18:17.119Z
-updated: 2024-05-01T14:18:17.119Z
+date: 2024-05-19T03:58:57.866Z
+updated: 2024-05-20T03:58:57.866Z
 tags: 
   - problems
 categories:
@@ -565,4 +565,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oppo-reno-10-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Oppo Reno 10 5G to New Android Phone? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-a05-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy A05 Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+
 

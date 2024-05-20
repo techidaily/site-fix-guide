@@ -1,7 +1,7 @@
 ---
 title: Motorola Edge 40 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:29.013Z
-updated: 2024-05-01T14:27:29.013Z
+date: 2024-05-19T03:59:04.920Z
+updated: 2024-05-20T03:59:04.920Z
 tags: 
   - problems
 categories:
@@ -564,4 +564,5 @@ After following these quick and easy suggestions, you would be able to fix the M
 <li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-3d-video-editing-programs-for-professionals/"><u>Discover the Best 3D Video Editing Programs for Professionals</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-sony-xperia-5-v-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Sony Xperia 5 V to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

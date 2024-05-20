@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Motorola Razr 40 Black and White | Dr.fone
-date: 2024-04-30T14:32:08.869Z
-updated: 2024-05-01T14:32:08.869Z
+date: 2024-05-19T03:59:08.357Z
+updated: 2024-05-20T03:59:08.357Z
 tags: 
   - problems
 categories:
@@ -594,4 +594,5 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-asus-rog-phone-7-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Asus ROG Phone 7 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/remove-agni-2-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Agni 2 5G unlock screen</u></a></li>
 </ul></div>
+
 

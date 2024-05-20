@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Xiaomi Redmi A2? | Dr.fone
-date: 2024-04-30T14:19:15.759Z
-updated: 2024-05-01T14:19:15.759Z
+date: 2024-05-19T03:58:58.392Z
+updated: 2024-05-20T03:58:58.392Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-v29-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo V29 Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2003-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2003 Files</u></a></li>
 </ul></div>
+
 

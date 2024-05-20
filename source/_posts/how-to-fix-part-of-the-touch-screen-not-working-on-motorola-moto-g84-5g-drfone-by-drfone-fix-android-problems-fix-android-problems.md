@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Motorola Moto G84 5G | Dr.fone
-date: 2024-04-30T14:18:00.761Z
-updated: 2024-05-01T14:18:00.761Z
+date: 2024-05-19T03:58:57.503Z
+updated: 2024-05-20T03:58:57.503Z
 tags: 
   - problems
 categories:
@@ -591,4 +591,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-poco-c51-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Poco C51 with Video Repair Utility on Mac?</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-lava-blaze-2-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Lava Blaze 2 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

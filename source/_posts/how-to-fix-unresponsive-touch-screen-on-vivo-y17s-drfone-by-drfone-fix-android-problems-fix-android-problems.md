@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo Y17s | Dr.fone
-date: 2024-04-30T14:21:38.725Z
-updated: 2024-05-01T14:21:38.725Z
+date: 2024-05-19T03:59:00.303Z
+updated: 2024-05-20T03:59:00.303Z
 tags: 
   - problems
 categories:
@@ -593,4 +593,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-lava-blaze-2-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Lava Blaze 2 Pro</u></a></li>
 <li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy S24+ | Dr.fone</u></a></li>
 </ul></div>
+
 

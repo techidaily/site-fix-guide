@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor 90 | Dr.fone
-date: 2024-04-30T14:17:49.348Z
-updated: 2024-05-01T14:17:49.348Z
+date: 2024-05-19T03:58:57.361Z
+updated: 2024-05-20T03:58:57.361Z
 tags: 
   - problems
 categories:
@@ -585,4 +585,5 @@ Encountering difficulties when updating Google Play Services can be frustrating,
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-s23-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy S23 Phone?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-the-best-10-ai-video-analytics-companies-at-a-glance/"><u>New 2024 Approved The Best 10 AI Video Analytics Companies at a Glance</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on OnePlus 12R | Dr.fone
-date: 2024-04-30T14:21:14.560Z
-updated: 2024-05-01T14:21:14.560Z
+date: 2024-05-19T03:59:00.005Z
+updated: 2024-05-20T03:59:00.005Z
 tags: 
   - problems
 categories:
@@ -598,4 +598,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-motorola-g24-power-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Motorola G24 Power Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-can-you-diy-vhs-overlay-in-after-effects/"><u>Updated 2024 Approved How Can You DIY VHS Overlay in After Effects?</u></a></li>
 </ul></div>
+
 

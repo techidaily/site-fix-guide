@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Sony Xperia 5 V Back to Operation | Dr.fone
-date: 2024-04-30T14:24:49.815Z
-updated: 2024-05-01T14:24:49.815Z
+date: 2024-05-19T03:59:03.080Z
+updated: 2024-05-20T03:59:03.080Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y28 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-11-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 11</u></a></li>
 </ul></div>
+
 

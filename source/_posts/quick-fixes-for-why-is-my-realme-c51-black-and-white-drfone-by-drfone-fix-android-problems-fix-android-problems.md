@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Realme C51 Black and White | Dr.fone
-date: 2024-04-30T14:32:18.784Z
-updated: 2024-05-01T14:32:18.784Z
+date: 2024-05-19T03:59:08.432Z
+updated: 2024-05-20T03:59:08.432Z
 tags: 
   - problems
 categories:
@@ -578,4 +578,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Sony Xperia 10 V? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone 8? | Dr.fone</u></a></li>
 </ul></div>
+
 

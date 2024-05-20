@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo Y77t | Dr.fone
-date: 2024-04-30T14:21:39.874Z
-updated: 2024-05-01T14:21:39.874Z
+date: 2024-05-19T03:59:00.312Z
+updated: 2024-05-20T03:59:00.312Z
 tags: 
   - problems
 categories:
@@ -654,4 +654,5 @@ For those who find themselves locked out of their Vivo Y77t devices, there's a r
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y55s-5g-2023-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y55s 5G (2023) to Laptop Without USB | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-poco-m6-pro-4g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Poco M6 Pro 4G</u></a></li>
 </ul></div>
+
 

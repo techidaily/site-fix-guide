@@ -1,7 +1,7 @@
 ---
 title: Nokia G42 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:37.772Z
-updated: 2024-05-01T14:28:37.772Z
+date: 2024-05-19T03:59:05.770Z
+updated: 2024-05-20T03:59:05.770Z
 tags: 
   - problems
 categories:
@@ -519,4 +519,5 @@ After following these quick and easy suggestions, you would be able to fix the N
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-7-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 7 to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

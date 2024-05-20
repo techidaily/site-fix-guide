@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on HTC U23 Pro | Dr.fone
-date: 2024-04-30T14:17:52.187Z
-updated: 2024-05-01T14:17:52.187Z
+date: 2024-05-19T03:58:57.419Z
+updated: 2024-05-20T03:58:57.419Z
 tags: 
   - problems
 categories:
@@ -532,4 +532,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor 100? | Dr.fone</u></a></li>
 </ul></div>
+
 

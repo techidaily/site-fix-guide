@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo T2x 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:03.018Z
-updated: 2024-05-01T14:24:03.018Z
+date: 2024-05-19T03:59:02.418Z
+updated: 2024-05-20T03:59:02.418Z
 tags: 
   - problems
 categories:
@@ -400,4 +400,5 @@ Now that you have decided where to download the apk file, these are the followin
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-asus-rog-phone-7-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Asus ROG Phone 7 Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-a15-4g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy A15 4G Phones</u></a></li>
 </ul></div>
+
 

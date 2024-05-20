@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Note 30 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:29.219Z
-updated: 2024-05-01T14:23:29.219Z
+date: 2024-05-19T03:59:01.959Z
+updated: 2024-05-20T03:59:01.959Z
 tags: 
   - problems
 categories:
@@ -481,4 +481,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-m14-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy M14 5G FRP?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
 </ul></div>
+
 

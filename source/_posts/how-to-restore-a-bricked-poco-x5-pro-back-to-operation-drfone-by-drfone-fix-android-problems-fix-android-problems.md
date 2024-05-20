@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Poco X5 Pro Back to Operation | Dr.fone
-date: 2024-04-30T14:24:39.917Z
-updated: 2024-05-01T14:24:39.917Z
+date: 2024-05-19T03:59:02.992Z
+updated: 2024-05-20T03:59:02.992Z
 tags: 
   - problems
 categories:
@@ -515,4 +515,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-gt-3-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme GT 3 Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-narzo-60-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Realme Narzo 60 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

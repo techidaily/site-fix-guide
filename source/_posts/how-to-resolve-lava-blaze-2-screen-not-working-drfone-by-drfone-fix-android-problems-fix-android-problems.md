@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Lava Blaze 2 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:33.792Z
-updated: 2024-05-01T14:23:33.792Z
+date: 2024-05-19T03:59:02.048Z
+updated: 2024-05-20T03:59:02.048Z
 tags: 
   - problems
 categories:
@@ -545,4 +545,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-htc-u23-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with HTC U23 Unresponsive Screen | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-8-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone 8 and iPad?</u></a></li>
 </ul></div>
+
 

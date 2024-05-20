@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Oppo A18 | Dr.fone
-date: 2024-04-30T14:18:05.687Z
-updated: 2024-05-01T14:18:05.687Z
+date: 2024-05-19T03:58:57.752Z
+updated: 2024-05-20T03:58:57.752Z
 tags: 
   - problems
 categories:
@@ -601,4 +601,5 @@ Encountering difficulties when updating Google Play Services can be frustrating,
 <li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 11 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-10-vivo-t2-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo T2 Pro 5G Android SIM Unlock APK</u></a></li>
 </ul></div>
+
 

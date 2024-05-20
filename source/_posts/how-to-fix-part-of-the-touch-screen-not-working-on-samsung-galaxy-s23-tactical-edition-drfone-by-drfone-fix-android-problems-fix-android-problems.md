@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy S23 Tactical Edition | Dr.fone
-date: 2024-04-30T14:18:18.491Z
-updated: 2024-05-01T14:18:18.491Z
+date: 2024-05-19T03:58:57.893Z
+updated: 2024-05-20T03:58:57.893Z
 tags: 
   - problems
 categories:
@@ -588,4 +588,5 @@ While installing Custom ROM can actually be a great way to customize your device
 <li><a href="https://animation-videos.techidaily.com/top-20plus-best-free-gif-makers-online-to-quickly-edit-gif-for-2024/"><u>Top 20+ Best Free GIF Makers Online to Quickly Edit GIF for 2024</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-use-korean-to-english-video-translators-for-creators-for-2024/"><u>Updated How To Use Korean to English Video Translators for Creators for 2024</u></a></li>
 </ul></div>
+
 

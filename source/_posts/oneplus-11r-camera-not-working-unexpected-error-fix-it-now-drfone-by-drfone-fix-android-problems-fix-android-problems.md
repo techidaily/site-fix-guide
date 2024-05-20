@@ -1,7 +1,7 @@
 ---
 title: OnePlus 11R Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:28:43.886Z
-updated: 2024-05-01T14:28:43.886Z
+date: 2024-05-19T03:59:05.819Z
+updated: 2024-05-20T03:59:05.819Z
 tags: 
   - problems
 categories:
@@ -577,4 +577,5 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 <li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
 <li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-reno-10-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo Reno 10 Pro 5G Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

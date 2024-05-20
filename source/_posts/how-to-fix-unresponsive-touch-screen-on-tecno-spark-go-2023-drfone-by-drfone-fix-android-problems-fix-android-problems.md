@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Tecno Spark Go (2023) | Dr.fone
-date: 2024-04-30T14:21:33.790Z
-updated: 2024-05-01T14:21:33.790Z
+date: 2024-05-19T03:59:00.266Z
+updated: 2024-05-20T03:59:00.266Z
 tags: 
   - problems
 categories:
@@ -555,4 +555,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-nubia-z50-ultra-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Nubia Z50 Ultra</u></a></li>
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel P55+ | Dr.fone</u></a></li>
 </ul></div>
+
 

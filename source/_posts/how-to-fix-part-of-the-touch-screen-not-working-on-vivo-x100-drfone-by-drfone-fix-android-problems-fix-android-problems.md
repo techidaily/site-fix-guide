@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo X100 | Dr.fone
-date: 2024-04-30T14:18:25.734Z
-updated: 2024-05-01T14:18:25.734Z
+date: 2024-05-19T03:58:57.957Z
+updated: 2024-05-20T03:58:57.957Z
 tags: 
   - problems
 categories:
@@ -656,4 +656,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-13-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi Redmi Note 13 5G Phone Pattern Lock</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-s17-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo S17</u></a></li>
 </ul></div>
+
 

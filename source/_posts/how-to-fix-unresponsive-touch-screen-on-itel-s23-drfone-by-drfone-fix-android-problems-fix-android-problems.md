@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Itel S23 | Dr.fone
-date: 2024-04-30T14:21:05.687Z
-updated: 2024-05-01T14:21:05.687Z
+date: 2024-05-19T03:58:59.916Z
+updated: 2024-05-20T03:58:59.916Z
 tags: 
   - problems
 categories:
@@ -547,4 +547,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme C67 4G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-instagram-videos-for-global-engagement/"><u>In 2024, How to Translate Instagram Videos for Global Engagement</u></a></li>
 </ul></div>
+
 

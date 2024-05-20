@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nokia G22 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:39.278Z
-updated: 2024-05-01T14:23:39.278Z
+date: 2024-05-19T03:59:02.102Z
+updated: 2024-05-20T03:59:02.102Z
 tags: 
   - problems
 categories:
@@ -459,4 +459,5 @@ Lastly, you can still refer to Nokia G22 for repairs. It remains the primary sol
 <li><a href="https://ai-editing-video.techidaily.com/best-shortcut-towards-timeline-template-for-2024/"><u>Best Shortcut Towards Timeline Template for 2024</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Lava Agni 2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

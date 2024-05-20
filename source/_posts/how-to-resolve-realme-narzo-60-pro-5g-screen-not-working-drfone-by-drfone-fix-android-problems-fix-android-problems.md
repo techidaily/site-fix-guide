@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme Narzo 60 Pro 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:51.871Z
-updated: 2024-05-01T14:23:51.871Z
+date: 2024-05-19T03:59:02.299Z
+updated: 2024-05-20T03:59:02.299Z
 tags: 
   - problems
 categories:
@@ -482,4 +482,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-11-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 11 Safe and Legal</u></a></li>
 </ul></div>
+
 

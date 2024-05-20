@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Realme 10T 5G Wont Turn On | Dr.fone
-date: 2024-04-30T14:17:26.040Z
-updated: 2024-05-01T14:17:26.040Z
+date: 2024-05-19T03:58:57.139Z
+updated: 2024-05-20T03:58:57.139Z
 tags: 
   - problems
 categories:
@@ -625,4 +625,5 @@ While installing Custom ROM can actually be a great way to customize your device
 <li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-14-pro-max-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 14 Pro Max Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-v27-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo V27</u></a></li>
 </ul></div>
+
 

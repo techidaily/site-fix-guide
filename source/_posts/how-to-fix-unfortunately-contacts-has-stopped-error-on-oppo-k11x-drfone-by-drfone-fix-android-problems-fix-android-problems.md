@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Oppo K11x | Dr.fone
-date: 2024-04-30T14:19:41.611Z
-updated: 2024-05-01T14:19:41.611Z
+date: 2024-05-19T03:58:58.681Z
+updated: 2024-05-20T03:58:58.681Z
 tags: 
   - problems
 categories:
@@ -583,4 +583,5 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-150-2023-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia 150 (2023) to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-realme-12-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme 12 Pro 5G Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

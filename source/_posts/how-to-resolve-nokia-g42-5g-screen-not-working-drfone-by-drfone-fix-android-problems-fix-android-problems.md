@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nokia G42 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:39.666Z
-updated: 2024-05-01T14:23:39.666Z
+date: 2024-05-19T03:59:02.105Z
+updated: 2024-05-20T03:59:02.105Z
 tags: 
   - problems
 categories:
@@ -550,4 +550,5 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 <li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-nord-ce-3-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your OnePlus Nord CE 3 5G</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-a18-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Oppo A18</u></a></li>
 </ul></div>
+
 

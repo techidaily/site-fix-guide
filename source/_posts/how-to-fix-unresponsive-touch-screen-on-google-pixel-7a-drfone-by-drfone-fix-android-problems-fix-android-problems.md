@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Google Pixel 7a | Dr.fone
-date: 2024-04-30T14:20:57.558Z
-updated: 2024-05-01T14:20:57.558Z
+date: 2024-05-19T03:58:59.772Z
+updated: 2024-05-20T03:58:59.772Z
 tags: 
   - problems
 categories:
@@ -561,4 +561,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-honor-90-gt-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Honor 90 GT? Here Is the Answer | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y77t-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y77t? Try These Fixes</u></a></li>
 </ul></div>
+
 

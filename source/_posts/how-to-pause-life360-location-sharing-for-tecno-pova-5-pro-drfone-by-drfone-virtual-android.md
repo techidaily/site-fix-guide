@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Tecno Pova 5 Pro | Dr.fone
-date: 2024-04-30T14:16:42.249Z
-updated: 2024-05-01T14:16:42.249Z
+date: 2024-05-19T03:58:54.942Z
+updated: 2024-05-20T03:58:54.942Z
 tags: 
   - virtual location change
   - social app
@@ -553,4 +553,5 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
 <li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-x90s-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo X90S</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-music-from-y17s-by-fonelab-android-recover-music/"><u>Undelete lost music from Y17s</u></a></li>
 </ul></div>
+
 

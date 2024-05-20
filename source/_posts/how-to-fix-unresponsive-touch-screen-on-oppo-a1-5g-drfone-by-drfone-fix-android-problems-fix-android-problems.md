@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Oppo A1 5G | Dr.fone
-date: 2024-04-30T14:21:15.888Z
-updated: 2024-05-01T14:21:15.888Z
+date: 2024-05-19T03:59:00.069Z
+updated: 2024-05-20T03:59:00.069Z
 tags: 
   - problems
 categories:
@@ -628,4 +628,5 @@ So go ahead and try them out now!
 <li><a href="https://screen-mirror.techidaily.com/how-itel-a60s-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Itel A60s Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-se-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone SE Passcode not Working? | Dr.fone</u></a></li>
 </ul></div>
+
 

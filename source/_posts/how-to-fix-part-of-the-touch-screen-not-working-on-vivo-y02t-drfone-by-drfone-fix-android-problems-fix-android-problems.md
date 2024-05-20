@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y02T | Dr.fone
-date: 2024-04-30T14:18:26.119Z
-updated: 2024-05-01T14:18:26.119Z
+date: 2024-05-19T03:58:57.962Z
+updated: 2024-05-20T03:58:57.962Z
 tags: 
   - problems
 categories:
@@ -586,4 +586,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-pro-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 Pro When Its Locked Within Seconds</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2020-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2020) To Other iPhone 11 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

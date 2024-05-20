@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo G2 Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:01.482Z
-updated: 2024-05-01T14:24:01.482Z
+date: 2024-05-19T03:59:02.408Z
+updated: 2024-05-20T03:59:02.408Z
 tags: 
   - problems
 categories:
@@ -457,4 +457,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-vivo-y36i-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y36i Lock Screen Password</u></a></li>
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Realme 11 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:32:39.408Z
-updated: 2024-05-01T14:32:39.408Z
+date: 2024-05-19T03:59:08.607Z
+updated: 2024-05-20T03:59:08.607Z
 tags: 
   - problems
 categories:
@@ -675,4 +675,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-6s-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 6s Plus Swipe-Up? Try These 11 Solutions</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

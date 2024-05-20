@@ -1,7 +1,7 @@
 ---
 title: Realme 12+ 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:32:45.829Z
-updated: 2024-05-01T14:32:45.829Z
+date: 2024-05-19T03:59:08.656Z
+updated: 2024-05-20T03:59:08.656Z
 tags: 
   - problems
 categories:
@@ -532,4 +532,5 @@ When nothing works, the last resort you can go with is resetting the Realme 12+ 
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-easy-guide-how-to-make-talking-head-videos/"><u>Updated In 2024, Easy Guide How To Make Talking Head Videos</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 6 Plus</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked OnePlus Nord N30 SE? | Dr.fone
-date: 2024-04-30T14:18:50.583Z
-updated: 2024-05-01T14:18:50.583Z
+date: 2024-05-19T03:58:58.158Z
+updated: 2024-05-20T03:58:58.158Z
 tags: 
   - problems
 categories:
@@ -576,4 +576,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-note-12-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi Note 12 5G Phone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-google-pixel-8-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Google Pixel 8</u></a></li>
 </ul></div>
+
 

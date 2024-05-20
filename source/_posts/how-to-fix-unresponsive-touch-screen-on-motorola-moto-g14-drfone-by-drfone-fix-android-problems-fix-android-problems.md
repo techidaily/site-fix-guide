@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Motorola Moto G14 | Dr.fone
-date: 2024-04-30T14:21:10.182Z
-updated: 2024-05-01T14:21:10.182Z
+date: 2024-05-19T03:58:59.964Z
+updated: 2024-05-20T03:58:59.964Z
 tags: 
   - problems
 categories:
@@ -654,4 +654,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-v30-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme V30 to Protect Your Individual Information</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-6-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 6 to New iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

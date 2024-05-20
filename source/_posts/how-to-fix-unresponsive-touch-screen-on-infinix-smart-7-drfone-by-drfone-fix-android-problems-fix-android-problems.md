@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Infinix Smart 7 | Dr.fone
-date: 2024-04-30T14:21:03.052Z
-updated: 2024-05-01T14:21:03.052Z
+date: 2024-05-19T03:58:59.854Z
+updated: 2024-05-20T03:58:59.854Z
 tags: 
   - problems
 categories:
@@ -560,4 +560,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://review-topics.techidaily.com/reinstall-drivers-with-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Reinstall drivers with Device Manager on Windows 10 & 7</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-aspect-ratio-essentials-5-things-you-need-to-know/"><u>Updated Aspect Ratio Essentials 5 Things You Need to Know</u></a></li>
 </ul></div>
+
 

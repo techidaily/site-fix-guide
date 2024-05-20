@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Realme 11 Pro+ Black and White | Dr.fone
-date: 2024-04-30T14:32:18.018Z
-updated: 2024-05-01T14:32:18.018Z
+date: 2024-05-19T03:59:08.425Z
+updated: 2024-05-20T03:59:08.425Z
 tags: 
   - problems
 categories:
@@ -495,4 +495,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-itel-a05s-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Itel A05s</u></a></li>
 </ul></div>
+
 

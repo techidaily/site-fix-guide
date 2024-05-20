@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo V30 Lite 5G | Dr.fone
-date: 2024-04-30T14:21:37.191Z
-updated: 2024-05-01T14:21:37.191Z
+date: 2024-05-19T03:59:00.290Z
+updated: 2024-05-20T03:59:00.290Z
 tags: 
   - problems
 categories:
@@ -590,4 +590,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme C67 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-revolutionize-your-video-content-how-to-convert-videos-into-cartoons-in-minutes/"><u>In 2024, Revolutionize Your Video Content How to Convert Videos Into Cartoons in Minutes</u></a></li>
 </ul></div>
+
 

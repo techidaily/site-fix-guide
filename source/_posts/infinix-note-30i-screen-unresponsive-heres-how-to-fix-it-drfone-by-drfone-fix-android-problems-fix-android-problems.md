@@ -1,7 +1,7 @@
 ---
 title: Infinix Note 30i Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:26:55.429Z
-updated: 2024-05-01T14:26:55.429Z
+date: 2024-05-19T03:59:04.560Z
+updated: 2024-05-20T03:59:04.560Z
 tags: 
   - problems
 categories:
@@ -491,4 +491,5 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 <li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-tecno-camon-20-premier-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Tecno Camon 20 Premier 5G</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-zero-30-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Zero 30 5G</u></a></li>
 </ul></div>
+
 

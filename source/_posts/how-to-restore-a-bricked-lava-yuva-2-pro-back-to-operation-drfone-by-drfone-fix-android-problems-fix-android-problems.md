@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Lava Yuva 2 Pro Back to Operation | Dr.fone
-date: 2024-04-30T14:24:26.320Z
-updated: 2024-05-01T14:24:26.320Z
+date: 2024-05-19T03:59:02.888Z
+updated: 2024-05-20T03:59:02.888Z
 tags: 
   - problems
 categories:
@@ -433,4 +433,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://phone-solutions.techidaily.com/google-serp-position-change-condition-device-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Position Change Condition - Device</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor 100 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Nokia C12 Plus | Dr.fone
-date: 2024-04-30T14:20:22.128Z
-updated: 2024-05-01T14:20:22.128Z
+date: 2024-05-19T03:58:59.210Z
+updated: 2024-05-20T03:58:59.210Z
 tags: 
   - problems
 categories:
@@ -584,4 +584,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Google Pixel 8 Pro? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

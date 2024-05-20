@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 8 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:26:59.552Z
-updated: 2024-05-01T14:26:59.552Z
+date: 2024-05-19T03:59:04.603Z
+updated: 2024-05-20T03:59:04.603Z
 tags: 
   - problems
 categories:
@@ -583,4 +583,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-sony-xperia-10-v-device-sim-by-drfone-android/"><u>Easily Unlock Your Sony Xperia 10 V Device SIM</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-s17-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo S17 Device</u></a></li>
 </ul></div>
+
 

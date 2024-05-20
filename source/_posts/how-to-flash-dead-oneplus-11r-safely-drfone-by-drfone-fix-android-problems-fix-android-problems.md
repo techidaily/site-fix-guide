@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead OnePlus 11R Safely | Dr.fone
-date: 2024-04-30T14:22:02.571Z
-updated: 2024-05-01T14:22:02.571Z
+date: 2024-05-19T03:59:00.753Z
+updated: 2024-05-20T03:59:00.753Z
 tags: 
   - problems
 categories:
@@ -622,4 +622,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-note-30-vip-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Note 30 VIP to Another | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to Android/iOS? | Dr.fone</u></a></li>
 </ul></div>
+
 

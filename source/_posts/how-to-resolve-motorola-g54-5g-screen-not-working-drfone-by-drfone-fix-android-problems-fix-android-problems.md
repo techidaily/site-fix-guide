@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Motorola G54 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:36.262Z
-updated: 2024-05-01T14:23:36.262Z
+date: 2024-05-19T03:59:02.079Z
+updated: 2024-05-20T03:59:02.079Z
 tags: 
   - problems
 categories:
@@ -510,4 +510,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-redmi-k70-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi Redmi K70 Pro</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

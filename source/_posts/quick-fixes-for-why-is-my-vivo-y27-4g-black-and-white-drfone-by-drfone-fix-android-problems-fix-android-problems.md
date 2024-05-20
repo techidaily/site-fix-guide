@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo Y27 4G Black and White | Dr.fone
-date: 2024-04-30T14:32:33.298Z
-updated: 2024-05-01T14:32:33.298Z
+date: 2024-05-19T03:59:08.539Z
+updated: 2024-05-20T03:59:08.539Z
 tags: 
   - problems
 categories:
@@ -476,4 +476,5 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 <li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-7-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 7 Plus</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-7-plus-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 7 Plus? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

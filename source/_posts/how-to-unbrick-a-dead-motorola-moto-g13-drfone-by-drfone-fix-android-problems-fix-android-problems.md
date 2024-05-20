@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Motorola Moto G13 | Dr.fone
-date: 2024-04-30T14:26:10.887Z
-updated: 2024-05-01T14:26:10.887Z
+date: 2024-05-19T03:59:03.954Z
+updated: 2024-05-20T03:59:03.954Z
 tags: 
   - problems
 categories:
@@ -633,4 +633,5 @@ The above methods are the best 11 among all the solutions you can get for your P
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oneplus-ace-2v-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On OnePlus Ace 2V? Fixed | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-14-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 14 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
 </ul></div>
+
 

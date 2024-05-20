@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Google Pixel 8 Pro | Dr.fone
-date: 2024-04-30T14:25:57.536Z
-updated: 2024-05-01T14:25:57.536Z
+date: 2024-05-19T03:59:03.822Z
+updated: 2024-05-20T03:59:03.822Z
 tags: 
   - problems
 categories:
@@ -514,4 +514,5 @@ The Android screen of death, especially the **Android blue screen of death**, is
 <li><a href="https://ai-editing-video.techidaily.com/using-vn-editor-to-add-luts-for-video-editing/"><u>Using VN Editor To Add Luts for Video Editing</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-oppo-a79-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Oppo A79 5G.</u></a></li>
 </ul></div>
+
 

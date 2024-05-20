@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Infinix Note 30 Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:00.729Z
-updated: 2024-05-01T14:32:00.729Z
+date: 2024-05-19T03:59:08.263Z
+updated: 2024-05-20T03:59:08.263Z
 tags: 
   - problems
 categories:
@@ -465,4 +465,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-15-plus-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 15 Plus from iCloud</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-a05-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy A05 for Free? | Dr.fone</u></a></li>
 </ul></div>
+
 

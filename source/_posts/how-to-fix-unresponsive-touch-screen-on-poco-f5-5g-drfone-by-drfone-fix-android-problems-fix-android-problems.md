@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Poco F5 5G | Dr.fone
-date: 2024-04-30T14:21:21.087Z
-updated: 2024-05-01T14:21:21.087Z
+date: 2024-05-19T03:59:00.110Z
+updated: 2024-05-20T03:59:00.110Z
 tags: 
   - problems
 categories:
@@ -420,4 +420,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-pro-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco M6 Pro 4G Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On ZTE Blade A73 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

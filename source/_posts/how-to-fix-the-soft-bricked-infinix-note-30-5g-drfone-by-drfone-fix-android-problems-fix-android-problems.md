@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Infinix Note 30 5G? | Dr.fone
-date: 2024-04-30T14:18:38.225Z
-updated: 2024-05-01T14:18:38.225Z
+date: 2024-05-19T03:58:58.068Z
+updated: 2024-05-20T03:58:58.068Z
 tags: 
   - problems
 categories:
@@ -480,4 +480,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-14-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 14 Plus without Anyone Knowing | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/unlock-iphone-13-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 13 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Note 30 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:29.410Z
-updated: 2024-05-01T14:23:29.410Z
+date: 2024-05-19T03:59:01.960Z
+updated: 2024-05-20T03:59:01.960Z
 tags: 
   - problems
 categories:
@@ -425,4 +425,5 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Infini
 <li><a href="https://ai-vdieo-software.techidaily.com/video-to-audio-conversion-made-easy-best-mobile-apps/"><u>Video to Audio Conversion Made Easy Best Mobile Apps</u></a></li>
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-f54-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy F54 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
+
 

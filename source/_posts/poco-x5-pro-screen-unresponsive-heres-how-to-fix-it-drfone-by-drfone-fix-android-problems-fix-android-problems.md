@@ -1,7 +1,7 @@
 ---
 title: Poco X5 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:31:02.194Z
-updated: 2024-05-01T14:31:02.194Z
+date: 2024-05-19T03:59:07.294Z
+updated: 2024-05-20T03:59:07.294Z
 tags: 
   - problems
 categories:
@@ -522,4 +522,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-15-pro-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 15 Pro to Computer? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-x-fold-2-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo X Fold 2 FRP Bypass</u></a></li>
 </ul></div>
+
 

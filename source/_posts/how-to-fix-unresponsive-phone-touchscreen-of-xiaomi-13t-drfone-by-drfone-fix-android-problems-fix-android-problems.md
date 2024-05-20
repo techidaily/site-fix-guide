@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Xiaomi 13T | Dr.fone
-date: 2024-04-30T14:20:52.985Z
-updated: 2024-05-01T14:20:52.985Z
+date: 2024-05-19T03:58:59.663Z
+updated: 2024-05-20T03:58:59.663Z
 tags: 
   - problems
 categories:
@@ -691,4 +691,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-y78plus-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo Y78+ Phone? Unlock It Now</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-honor-x50-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Honor X50?</u></a></li>
 </ul></div>
+
 

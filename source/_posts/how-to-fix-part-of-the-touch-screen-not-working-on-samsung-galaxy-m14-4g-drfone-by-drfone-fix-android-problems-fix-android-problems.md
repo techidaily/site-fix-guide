@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy M14 4G | Dr.fone
-date: 2024-04-30T14:18:17.689Z
-updated: 2024-05-01T14:18:17.689Z
+date: 2024-05-19T03:58:57.887Z
+updated: 2024-05-20T03:58:57.887Z
 tags: 
   - problems
 categories:
@@ -525,4 +525,5 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-y100-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo Y100 to Roku | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-y100-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo Y100 5G Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
+
 

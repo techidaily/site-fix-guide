@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Infinix Note 30i – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:48.063Z
-updated: 2024-05-01T14:27:48.063Z
+date: 2024-05-19T03:59:05.150Z
+updated: 2024-05-20T03:59:05.150Z
 tags: 
   - problems
 categories:
@@ -459,4 +459,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-lava-blaze-curve-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Lava Blaze Curve 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A1 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

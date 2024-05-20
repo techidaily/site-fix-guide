@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Lava Blaze Curve 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:51.295Z
-updated: 2024-05-01T14:27:51.295Z
+date: 2024-05-19T03:59:05.217Z
+updated: 2024-05-20T03:59:05.217Z
 tags: 
   - problems
 categories:
@@ -568,4 +568,5 @@ While installing Custom ROM can actually be a great way to customize your device
 <li><a href="https://ai-vdieo-software.techidaily.com/10-free-online-subtitle-editors-you-need-to-know/"><u>10 Free Online Subtitle Editors You Need to Know</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo V27 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

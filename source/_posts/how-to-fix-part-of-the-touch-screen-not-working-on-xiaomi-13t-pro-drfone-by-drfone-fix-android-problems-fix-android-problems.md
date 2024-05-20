@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi 13T Pro | Dr.fone
-date: 2024-04-30T14:18:28.833Z
-updated: 2024-05-01T14:18:28.833Z
+date: 2024-05-19T03:58:57.984Z
+updated: 2024-05-20T03:58:57.984Z
 tags: 
   - problems
 categories:
@@ -736,4 +736,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 14</u></a></li>
 <li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
 </ul></div>
+
 

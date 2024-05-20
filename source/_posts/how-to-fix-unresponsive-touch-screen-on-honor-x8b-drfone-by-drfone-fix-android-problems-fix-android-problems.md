@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Honor X8b | Dr.fone
-date: 2024-04-30T14:21:00.770Z
-updated: 2024-05-01T14:21:00.770Z
+date: 2024-05-19T03:58:59.835Z
+updated: 2024-05-20T03:58:59.835Z
 tags: 
   - problems
 categories:
@@ -593,4 +593,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-xs-max-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone XS Max & iPad Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-blaze-2-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Blaze 2 Pro to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

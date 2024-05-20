@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme GT 3 | Dr.fone
-date: 2024-04-30T14:18:13.549Z
-updated: 2024-05-01T14:18:13.549Z
+date: 2024-05-19T03:58:57.843Z
+updated: 2024-05-20T03:58:57.843Z
 tags: 
   - problems
 categories:
@@ -562,4 +562,5 @@ Now that you have decided where to download the apk file, these are the followin
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-nord-3-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Nord 3 5G</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 7? | Dr.fone</u></a></li>
 </ul></div>
+
 

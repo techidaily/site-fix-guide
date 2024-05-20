@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Nokia C12 Pro? | Dr.fone
-date: 2024-04-30T14:18:47.312Z
-updated: 2024-05-01T14:18:47.312Z
+date: 2024-05-19T03:58:58.128Z
+updated: 2024-05-20T03:58:58.128Z
 tags: 
   - problems
 categories:
@@ -470,4 +470,5 @@ After following these quick and easy suggestions, you would be able to fix the N
 <li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-14-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi 14 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oneplus-ace-2v-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on OnePlus Ace 2V with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
+
 

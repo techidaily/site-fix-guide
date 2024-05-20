@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Xiaomi 13T Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:09.111Z
-updated: 2024-05-01T14:24:09.111Z
+date: 2024-05-19T03:59:02.477Z
+updated: 2024-05-20T03:59:02.477Z
 tags: 
   - problems
 categories:
@@ -477,4 +477,5 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-poco-c55-lock-screen-password-by-drfone-android/"><u>How to Reset your Poco C55 Lock Screen Password</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcpx-tutorial-elevate-your-audio-game-with-l-cuts-and-j-cuts/"><u>New In 2024, FCPX Tutorial Elevate Your Audio Game with L-Cuts and J-Cuts</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Itel A60 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:27:02.686Z
-updated: 2024-05-01T14:27:02.686Z
+date: 2024-05-19T03:59:04.662Z
+updated: 2024-05-20T03:59:04.662Z
 tags: 
   - problems
 categories:
@@ -602,4 +602,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Poco C65? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/mp3-cutter-download-for-2024/"><u>MP3 Cutter Download for 2024</u></a></li>
 </ul></div>
+
 

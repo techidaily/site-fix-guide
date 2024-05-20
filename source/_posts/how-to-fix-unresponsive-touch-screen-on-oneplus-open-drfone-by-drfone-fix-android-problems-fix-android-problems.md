@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on OnePlus Open | Dr.fone
-date: 2024-04-30T14:21:15.699Z
-updated: 2024-05-01T14:21:15.699Z
+date: 2024-05-19T03:59:00.067Z
+updated: 2024-05-20T03:59:00.067Z
 tags: 
   - problems
 categories:
@@ -505,4 +505,5 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y100i | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2016-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2016</u></a></li>
 </ul></div>
+
 

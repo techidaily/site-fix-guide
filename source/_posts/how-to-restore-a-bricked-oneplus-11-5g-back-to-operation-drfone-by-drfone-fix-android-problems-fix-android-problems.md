@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked OnePlus 11 5G Back to Operation | Dr.fone
-date: 2024-04-30T14:24:32.889Z
-updated: 2024-05-01T14:24:32.889Z
+date: 2024-05-19T03:59:02.942Z
+updated: 2024-05-20T03:59:02.942Z
 tags: 
   - problems
 categories:
@@ -578,4 +578,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-13-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi 13 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-c12-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia C12 FRP Bypass</u></a></li>
 </ul></div>
+
 

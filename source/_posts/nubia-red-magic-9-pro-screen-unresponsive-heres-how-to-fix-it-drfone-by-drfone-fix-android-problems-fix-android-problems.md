@@ -1,7 +1,7 @@
 ---
 title: Nubia Red Magic 9 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:40.997Z
-updated: 2024-05-01T14:28:40.997Z
+date: 2024-05-19T03:59:05.796Z
+updated: 2024-05-20T03:59:05.796Z
 tags: 
   - problems
 categories:
@@ -548,4 +548,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Sony Xperia 1 V | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-poco-x5-by-drfone-android/"><u>How to Show Wi-Fi Password on Poco X5</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy A15 4G Black and White | Dr.fone
-date: 2024-04-30T14:32:22.273Z
-updated: 2024-05-01T14:32:22.273Z
+date: 2024-05-19T03:59:08.457Z
+updated: 2024-05-20T03:59:08.457Z
 tags: 
   - problems
 categories:
@@ -604,4 +604,5 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 <li><a href="https://ai-video-editing.techidaily.com/updated-best-8-ar-apps-for-android-and-ios-help-you-see-the-world-of-ar-for-2024/"><u>Updated Best 8 AR Apps for Android and iOS | Help You See the World of AR for 2024</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-14-pro-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 14 Pro SIM Lock?</u></a></li>
 </ul></div>
+
 

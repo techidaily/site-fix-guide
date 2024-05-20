@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Sony Xperia 5 V in Minutes | Dr.fone
-date: 2024-04-30T14:25:41.719Z
-updated: 2024-05-01T14:25:41.719Z
+date: 2024-05-19T03:59:03.606Z
+updated: 2024-05-20T03:59:03.606Z
 tags: 
   - problems
 categories:
@@ -509,4 +509,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y200e 5G | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-8-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 8 Plus and iPad</u></a></li>
 </ul></div>
+
 

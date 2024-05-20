@@ -1,7 +1,7 @@
 ---
 title: OnePlus 11R Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:44.561Z
-updated: 2024-05-01T14:28:44.561Z
+date: 2024-05-19T03:59:05.823Z
+updated: 2024-05-20T03:59:05.823Z
 tags: 
   - problems
 categories:
@@ -608,4 +608,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-your-search-for-the-best-gif-creator-tools-ends-here/"><u>In 2024, Your Search for the Best GIF Creator Tools Ends Here</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-13-ultra-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi 13 Ultra?</u></a></li>
 </ul></div>
+
 

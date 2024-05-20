@@ -1,7 +1,7 @@
 ---
 title: Realme C51 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:47.956Z
-updated: 2024-05-01T14:32:47.956Z
+date: 2024-05-19T03:59:08.672Z
+updated: 2024-05-20T03:59:08.672Z
 tags: 
   - problems
 categories:
@@ -449,4 +449,5 @@ When nothing works, the last resort you can go with is resetting the Realme C51 
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13-ultra-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi 13 Ultra Bootloader Easily</u></a></li>
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-11-pro-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 11 Pro 5GFRP Lock</u></a></li>
 </ul></div>
+
 

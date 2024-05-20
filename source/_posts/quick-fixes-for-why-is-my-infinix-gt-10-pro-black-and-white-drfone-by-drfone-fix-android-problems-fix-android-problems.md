@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Infinix GT 10 Pro Black and White | Dr.fone
-date: 2024-04-30T14:31:59.942Z
-updated: 2024-05-01T14:31:59.942Z
+date: 2024-05-19T03:59:08.259Z
+updated: 2024-05-20T03:59:08.259Z
 tags: 
   - problems
 categories:
@@ -734,4 +734,5 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nokia-g22-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nokia G22 Devices</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy F04 | Dr.fone</u></a></li>
 </ul></div>
+
 

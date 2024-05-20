@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme 12 5G | Dr.fone
-date: 2024-04-30T14:21:22.641Z
-updated: 2024-05-01T14:21:22.641Z
+date: 2024-05-19T03:59:00.122Z
+updated: 2024-05-20T03:59:00.122Z
 tags: 
   - problems
 categories:
@@ -616,4 +616,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor X50 GT? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-gionee-f3-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Gionee F3 Pro to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

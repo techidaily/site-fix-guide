@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Nokia C12 | Dr.fone
-date: 2024-04-30T14:22:47.484Z
-updated: 2024-05-01T14:22:47.484Z
+date: 2024-05-19T03:59:01.438Z
+updated: 2024-05-20T03:59:01.438Z
 tags: 
   - problems
 categories:
@@ -576,4 +576,5 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oppo-reno-11-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Oppo Reno 11 5G Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-10-sony-xperia-10-v-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Sony Xperia 10 V Android SIM Unlock APK</u></a></li>
 </ul></div>
+
 

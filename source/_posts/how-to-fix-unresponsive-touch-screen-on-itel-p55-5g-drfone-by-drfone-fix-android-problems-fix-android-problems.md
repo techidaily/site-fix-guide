@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Itel P55 5G | Dr.fone
-date: 2024-04-30T14:21:04.795Z
-updated: 2024-05-01T14:21:04.795Z
+date: 2024-05-19T03:58:59.868Z
+updated: 2024-05-20T03:58:59.868Z
 tags: 
   - problems
 categories:
@@ -629,4 +629,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-vivo-y100-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Vivo Y100 5G on Mac?</u></a></li>
 </ul></div>
+
 

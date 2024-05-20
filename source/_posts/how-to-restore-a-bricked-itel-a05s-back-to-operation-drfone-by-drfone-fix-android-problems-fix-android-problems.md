@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Itel A05s Back to Operation | Dr.fone
-date: 2024-04-30T14:24:23.223Z
-updated: 2024-05-01T14:24:23.223Z
+date: 2024-05-19T03:59:02.860Z
+updated: 2024-05-20T03:59:02.860Z
 tags: 
   - problems
 categories:
@@ -525,4 +525,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-12-pro-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 12 Pro to ZTE Phones | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-3-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord 3 5G Phone FRP Lock</u></a></li>
 </ul></div>
+
 

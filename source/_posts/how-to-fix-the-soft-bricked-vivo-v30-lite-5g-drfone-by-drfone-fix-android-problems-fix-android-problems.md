@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo V30 Lite 5G? | Dr.fone
-date: 2024-04-30T14:19:10.000Z
-updated: 2024-05-01T14:19:10.000Z
+date: 2024-05-19T03:58:58.335Z
+updated: 2024-05-20T03:58:58.335Z
 tags: 
   - problems
 categories:
@@ -326,4 +326,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oneplus-11r-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your OnePlus 11R Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-12-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 12 Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

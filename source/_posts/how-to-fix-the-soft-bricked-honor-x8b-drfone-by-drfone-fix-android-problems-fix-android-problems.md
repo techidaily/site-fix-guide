@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor X8b? | Dr.fone
-date: 2024-04-30T14:18:36.785Z
-updated: 2024-05-01T14:18:36.785Z
+date: 2024-05-19T03:58:58.059Z
+updated: 2024-05-20T03:58:58.059Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ And, if you’re thinking, “**How do I get a virus off My Honor X8b?**” then
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-20-slideshow-makers-for-winmaconline-review/"><u>Updated In 2024, Best 20 Slideshow Makers for Win/Mac/Online Review</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-apps-for-whatsapp-video-status/"><u>In 2024, Best Apps for WhatsApp Video Status</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Honor 100 Pro | Dr.fone
-date: 2024-04-30T14:20:58.470Z
-updated: 2024-05-01T14:20:58.470Z
+date: 2024-05-19T03:58:59.781Z
+updated: 2024-05-20T03:58:59.781Z
 tags: 
   - problems
 categories:
@@ -573,4 +573,5 @@ For those who find themselves locked out of their Honor 100 Pro devices, there's
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-note-30-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Note 30 5G</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-expert-picks-top-10-best-online-intro-makers-for-businesses/"><u>In 2024, Expert Picks Top 10 Best Online Intro Makers for Businesses</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Lava Blaze Curve 5G | Dr.fone
-date: 2024-04-30T14:21:06.642Z
-updated: 2024-05-01T14:21:06.642Z
+date: 2024-05-19T03:58:59.935Z
+updated: 2024-05-20T03:58:59.935Z
 tags: 
   - problems
 categories:
@@ -571,4 +571,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-13c-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi 13C to Protect Your Individual Information</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-change-video-resolution-in-filmora/"><u>New In 2024, How to Change Video Resolution in Filmora</u></a></li>
 </ul></div>
+
 

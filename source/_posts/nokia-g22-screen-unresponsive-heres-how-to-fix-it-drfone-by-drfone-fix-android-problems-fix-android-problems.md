@@ -1,7 +1,7 @@
 ---
 title: Nokia G22 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:36.710Z
-updated: 2024-05-01T14:28:36.710Z
+date: 2024-05-19T03:59:05.760Z
+updated: 2024-05-20T03:59:05.760Z
 tags: 
   - problems
 categories:
@@ -424,4 +424,5 @@ And, if you’re thinking, “**How do I get a virus off My Nokia G22?**” then
 <li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-samsung-galaxy-m14-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Samsung Galaxy M14 5G Location By Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-11-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 11 Without a Home Button</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y36 | Dr.fone
-date: 2024-04-30T14:20:02.145Z
-updated: 2024-05-01T14:20:02.145Z
+date: 2024-05-19T03:58:58.870Z
+updated: 2024-05-20T03:58:58.870Z
 tags: 
   - problems
 categories:
@@ -609,4 +609,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g-stylus-2023-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G Stylus (2023) by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-lenovo-thinkphone-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Lenovo ThinkPhone in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

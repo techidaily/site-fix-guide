@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T14:26:31.354Z
-updated: 2024-05-01T14:26:31.354Z
+date: 2024-05-19T03:59:04.230Z
+updated: 2024-05-20T03:59:04.230Z
 tags: 
   - problems
 categories:
@@ -628,4 +628,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-p55plus-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Itel P55+</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-a78-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo A78 Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

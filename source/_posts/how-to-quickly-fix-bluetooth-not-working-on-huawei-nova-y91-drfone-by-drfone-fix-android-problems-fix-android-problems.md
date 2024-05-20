@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Huawei Nova Y91 | Dr.fone
-date: 2024-04-30T14:22:37.870Z
-updated: 2024-05-01T14:22:37.870Z
+date: 2024-05-19T03:59:01.297Z
+updated: 2024-05-20T03:59:01.297Z
 tags: 
   - problems
 categories:
@@ -590,4 +590,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100t-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100t to Outlook | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-11-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 11 After Forgetting the Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Lava Blaze 2 5G? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:16.852Z
-updated: 2024-05-01T14:30:16.852Z
+date: 2024-05-19T03:59:06.849Z
+updated: 2024-05-20T03:59:06.849Z
 tags: 
   - problems
 categories:
@@ -531,4 +531,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y100-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y100 to PC? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-6s-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 6s in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 </ul></div>
+
 

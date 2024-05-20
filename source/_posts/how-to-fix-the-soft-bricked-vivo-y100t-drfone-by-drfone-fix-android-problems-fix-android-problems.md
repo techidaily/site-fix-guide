@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y100t? | Dr.fone
-date: 2024-04-30T14:19:11.328Z
-updated: 2024-05-01T14:19:11.328Z
+date: 2024-05-19T03:58:58.360Z
+updated: 2024-05-20T03:58:58.360Z
 tags: 
   - problems
 categories:
@@ -423,4 +423,5 @@ When following the directions, the user may require more research into some trou
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-mastery-the-best-free-online-tools-to-merge-your-clips/"><u>New In 2024, Video Mastery The Best Free Online Tools to Merge Your Clips</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-note-30-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Note 30 to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

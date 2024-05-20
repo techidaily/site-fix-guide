@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Pova 5 | Dr.fone
-date: 2024-04-30T14:19:55.106Z
-updated: 2024-05-01T14:19:55.106Z
+date: 2024-05-19T03:58:58.801Z
+updated: 2024-05-20T03:58:58.801Z
 tags: 
   - problems
 categories:
@@ -527,4 +527,5 @@ It is our hope that when faced with this fairly common error, you will not panic
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oneplus-nord-ce-3-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from OnePlus Nord CE 3 5G to iPad | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-tutorial-for-realme-c53-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme C53 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

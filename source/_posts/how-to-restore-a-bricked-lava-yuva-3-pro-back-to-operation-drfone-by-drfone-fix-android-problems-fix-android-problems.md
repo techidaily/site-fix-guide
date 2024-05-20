@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Lava Yuva 3 Pro Back to Operation | Dr.fone
-date: 2024-04-30T14:24:26.517Z
-updated: 2024-05-01T14:24:26.517Z
+date: 2024-05-19T03:59:02.890Z
+updated: 2024-05-20T03:59:02.890Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ Android system recovery mode can be quite useful, especially when your system is
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-can-i-do-animated-logo-design-without-design-skills/"><u>New 2024 Approved Can I Do Animated Logo Design Without Design Skills?</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-whats-your-no-1-maker-to-animate-your-logo-online-free/"><u>New 2024 Approved Whats Your No. 1 Maker to Animate Your Logo Online Free</u></a></li>
 </ul></div>
+
 

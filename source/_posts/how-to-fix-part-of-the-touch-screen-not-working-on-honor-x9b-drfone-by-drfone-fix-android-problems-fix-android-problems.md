@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor X9b | Dr.fone
-date: 2024-04-30T14:17:51.808Z
-updated: 2024-05-01T14:17:51.808Z
+date: 2024-05-19T03:58:57.416Z
+updated: 2024-05-20T03:58:57.416Z
 tags: 
   - problems
 categories:
@@ -700,4 +700,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-proplus-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nubia Red Magic 9 Pro+ PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-update-your-avi-editing-game-windows-8-video-editor-2023/"><u>Updated Update Your AVI Editing Game Windows 8 Video Editor 2023</u></a></li>
 </ul></div>
+
 

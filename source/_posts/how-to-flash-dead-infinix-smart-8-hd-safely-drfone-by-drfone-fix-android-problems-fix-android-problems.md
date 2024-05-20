@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Infinix Smart 8 HD Safely | Dr.fone
-date: 2024-04-30T14:21:53.758Z
-updated: 2024-05-01T14:21:53.758Z
+date: 2024-05-19T03:59:00.569Z
+updated: 2024-05-20T03:59:00.569Z
 tags: 
   - problems
 categories:
@@ -628,4 +628,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-realme-gt-3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Realme GT 3 to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi Civi 3? | Dr.fone</u></a></li>
 </ul></div>
+
 

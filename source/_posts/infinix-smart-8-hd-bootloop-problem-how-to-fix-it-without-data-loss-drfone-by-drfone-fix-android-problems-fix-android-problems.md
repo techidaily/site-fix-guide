@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 8 HD Bootloop Problem, How to Fix it Without Data Loss | Dr.fone
-date: 2024-04-30T14:26:57.656Z
-updated: 2024-05-01T14:26:57.656Z
+date: 2024-05-19T03:59:04.573Z
+updated: 2024-05-20T03:59:04.573Z
 tags: 
   - problems
 categories:
@@ -409,4 +409,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-x-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone X With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-motorola-edge-40-neo-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Edge 40 Neo Phone</u></a></li>
 </ul></div>
+
 

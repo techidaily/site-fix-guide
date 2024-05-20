@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi Note 13 5G | Dr.fone
-date: 2024-04-30T14:20:56.226Z
-updated: 2024-05-01T14:20:56.226Z
+date: 2024-05-19T03:58:59.723Z
+updated: 2024-05-20T03:58:59.723Z
 tags: 
   - problems
 categories:
@@ -681,4 +681,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-13-pro-how-to-unlock-a-disabled-iphone-13-pro-drfone-by-drfone-ios/"><u>Disabled iPhone 13 Pro How to Unlock a Disabled iPhone 13 Pro? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-realme-v30-by-fonelab-android-recover-video/"><u>How to recover old videos from your Realme V30</u></a></li>
 </ul></div>
+
 

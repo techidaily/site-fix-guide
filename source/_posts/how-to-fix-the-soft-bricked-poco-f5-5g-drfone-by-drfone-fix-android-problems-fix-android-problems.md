@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Poco F5 5G? | Dr.fone
-date: 2024-04-30T14:18:55.915Z
-updated: 2024-05-01T14:18:55.915Z
+date: 2024-05-19T03:58:58.198Z
+updated: 2024-05-20T03:58:58.198Z
 tags: 
   - problems
 categories:
@@ -500,4 +500,5 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-se-2022-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone SE (2022) when Phone is Broken? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-find-x6-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Find X6 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

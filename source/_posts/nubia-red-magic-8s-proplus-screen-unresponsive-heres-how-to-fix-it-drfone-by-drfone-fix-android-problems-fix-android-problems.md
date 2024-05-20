@@ -1,7 +1,7 @@
 ---
 title: Nubia Red Magic 8S Pro+ Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:40.239Z
-updated: 2024-05-01T14:28:40.239Z
+date: 2024-05-19T03:59:05.790Z
+updated: 2024-05-20T03:59:05.790Z
 tags: 
   - problems
 categories:
@@ -584,4 +584,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-12plus-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme 12+ 5G</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-oppo-reno-10-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo Reno 10 5G? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+
 

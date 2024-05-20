@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Motorola Moto E13? | Dr.fone
-date: 2024-04-30T14:18:44.957Z
-updated: 2024-05-01T14:18:44.957Z
+date: 2024-05-19T03:58:58.114Z
+updated: 2024-05-20T03:58:58.114Z
 tags: 
   - problems
 categories:
@@ -496,4 +496,5 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 <li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-11-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 11 Pro Without a Home Button</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oppo-find-n3-flip-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Oppo Find N3 Flip IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

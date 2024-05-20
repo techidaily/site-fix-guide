@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Motorola Moto G73 5G | Dr.fone
-date: 2024-04-30T14:22:46.696Z
-updated: 2024-05-01T14:22:46.696Z
+date: 2024-05-19T03:59:01.431Z
+updated: 2024-05-20T03:59:01.431Z
 tags: 
   - problems
 categories:
@@ -571,4 +571,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A23 5G</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-c12-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia C12 Location on Twitter | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Motorola Moto G04 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:36.475Z
-updated: 2024-05-01T14:23:36.475Z
+date: 2024-05-19T03:59:02.081Z
+updated: 2024-05-20T03:59:02.081Z
 tags: 
   - problems
 categories:
@@ -462,4 +462,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Nokia C02 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Moto G23 | Dr.fone</u></a></li>
 </ul></div>
+
 

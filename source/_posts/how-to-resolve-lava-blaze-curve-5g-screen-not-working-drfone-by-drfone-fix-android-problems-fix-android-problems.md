@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Lava Blaze Curve 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:33.982Z
-updated: 2024-05-01T14:23:33.982Z
+date: 2024-05-19T03:59:02.049Z
+updated: 2024-05-20T03:59:02.049Z
 tags: 
   - problems
 categories:
@@ -503,4 +503,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo V29e | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-call-logs-from-vivo-y78t-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Vivo Y78t</u></a></li>
 </ul></div>
+
 

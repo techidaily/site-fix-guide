@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Vivo Y100 | Dr.fone
-date: 2024-04-30T14:20:49.084Z
-updated: 2024-05-01T14:20:49.084Z
+date: 2024-05-19T03:58:59.607Z
+updated: 2024-05-20T03:58:59.607Z
 tags: 
   - problems
 categories:
@@ -465,4 +465,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-itel-p40-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Itel P40 to Another | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2-solutions-to-cut-video-in-vlc-on-windows-for-2024/"><u>New 2 Solutions to Cut Video in VLC on Windows for 2024</u></a></li>
 </ul></div>
+
 

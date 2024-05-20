@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Vivo Y36 Safely | Dr.fone
-date: 2024-04-30T14:22:26.104Z
-updated: 2024-05-01T14:22:26.104Z
+date: 2024-05-19T03:59:01.123Z
+updated: 2024-05-20T03:59:01.123Z
 tags: 
   - problems
 categories:
@@ -658,4 +658,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://techidaily.com/how-to-reset-tecno-spark-go-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark Go (2023) without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme C67 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

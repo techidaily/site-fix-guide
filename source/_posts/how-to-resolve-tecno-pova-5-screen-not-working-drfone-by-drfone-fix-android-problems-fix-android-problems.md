@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Tecno Pova 5 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:59.664Z
-updated: 2024-05-01T14:23:59.664Z
+date: 2024-05-19T03:59:02.395Z
+updated: 2024-05-20T03:59:02.395Z
 tags: 
   - problems
 categories:
@@ -499,4 +499,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-14-plus-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 14 Plus for Free</u></a></li>
 </ul></div>
+
 

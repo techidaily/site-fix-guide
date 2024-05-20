@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Lava Blaze Curve 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:04.680Z
-updated: 2024-05-01T14:32:04.680Z
+date: 2024-05-19T03:59:08.330Z
+updated: 2024-05-20T03:59:08.330Z
 tags: 
   - problems
 categories:
@@ -664,4 +664,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://review-topics.techidaily.com/does-xiaomi-redmi-13c-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi 13C Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

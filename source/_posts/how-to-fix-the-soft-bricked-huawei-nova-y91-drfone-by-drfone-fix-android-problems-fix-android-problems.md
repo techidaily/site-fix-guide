@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Huawei Nova Y91? | Dr.fone
-date: 2024-04-30T14:18:37.171Z
-updated: 2024-05-01T14:18:37.171Z
+date: 2024-05-19T03:58:58.062Z
+updated: 2024-05-20T03:58:58.062Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
 <li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-7-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 7 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it-for-2024/"><u>Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It for 2024</u></a></li>
 </ul></div>
+
 

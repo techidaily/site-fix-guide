@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Lava Yuva 3 Pro | Dr.fone
-date: 2024-04-30T14:19:31.345Z
-updated: 2024-05-01T14:19:31.345Z
+date: 2024-05-19T03:58:58.573Z
+updated: 2024-05-20T03:58:58.573Z
 tags: 
   - problems
 categories:
@@ -611,4 +611,5 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-poco-x5-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Poco X5 Pro</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-8-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 8 Plus Could Not Be Activated/Reached Issue</u></a></li>
 </ul></div>
+
 

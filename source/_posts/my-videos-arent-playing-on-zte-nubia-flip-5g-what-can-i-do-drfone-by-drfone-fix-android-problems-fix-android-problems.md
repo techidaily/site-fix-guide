@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on ZTE Nubia Flip 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:27.458Z
-updated: 2024-05-01T14:28:27.458Z
+date: 2024-05-19T03:59:05.605Z
+updated: 2024-05-20T03:59:05.605Z
 tags: 
   - problems
 categories:
@@ -506,4 +506,5 @@ When nothing works, the last resort you can go with is resetting the ZTE Nubia F
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-s23-fe-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy S23 FE PC | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-poco-c51-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Poco C51</u></a></li>
 </ul></div>
+
 

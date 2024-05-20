@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Realme Note 50 Wont Turn On | Dr.fone
-date: 2024-04-30T14:17:29.503Z
-updated: 2024-05-01T14:17:29.503Z
+date: 2024-05-19T03:58:57.169Z
+updated: 2024-05-20T03:58:57.169Z
 tags: 
   - problems
 categories:
@@ -597,4 +597,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Pro Phone without Google Account?</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-pencil2d-animation-tutorial-overview/"><u>Updated 2024 Approved Pencil2D Animation Tutorial Overview</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Samsung Galaxy A14 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:53.027Z
-updated: 2024-05-01T14:23:53.027Z
+date: 2024-05-19T03:59:02.309Z
+updated: 2024-05-20T03:59:02.309Z
 tags: 
   - problems
 categories:
@@ -533,4 +533,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-easy-way-to-inset-text-in-video/"><u>In 2024, Easy Way to Inset Text in Video</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy F34 5G</u></a></li>
 </ul></div>
+
 

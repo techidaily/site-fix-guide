@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Honor 90 Lite | Dr.fone
-date: 2024-04-30T14:20:59.043Z
-updated: 2024-05-01T14:20:59.043Z
+date: 2024-05-19T03:58:59.819Z
+updated: 2024-05-20T03:58:59.819Z
 tags: 
   - problems
 categories:
@@ -645,4 +645,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo A2 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-tecno-spark-20c-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Tecno Spark 20C to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Infinix Smart 7 HD in Minutes | Dr.fone
-date: 2024-04-30T14:25:13.044Z
-updated: 2024-05-01T14:25:13.044Z
+date: 2024-05-19T03:59:03.286Z
+updated: 2024-05-20T03:59:03.286Z
 tags: 
   - problems
 categories:
@@ -503,4 +503,5 @@ Last but certainly not the least, users must avoid downloading large application
 <li><a href="https://ai-vdieo-software.techidaily.com/rotate-videos-for-free-top-10-online-and-offline-tools/"><u>Rotate Videos for Free Top 10 Online and Offline Tools</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-add-some-sci-fi-touch-to-your-next-video-content-using-wondershare-filmora-editing-tools-to-create-an-alternate-reality-effect/"><u>Updated Add some Sci-Fi Touch to Your Next Video Content Using Wondershare Filmora Editing Tools to Create an Alternate Reality Effect</u></a></li>
 </ul></div>
+
 

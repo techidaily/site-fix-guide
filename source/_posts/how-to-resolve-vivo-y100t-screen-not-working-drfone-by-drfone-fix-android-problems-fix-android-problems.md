@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo Y100t Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:06.278Z
-updated: 2024-05-01T14:24:06.278Z
+date: 2024-05-19T03:59:02.442Z
+updated: 2024-05-20T03:59:02.442Z
 tags: 
   - problems
 categories:
@@ -468,4 +468,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 <li><a href="https://ai-voice-clone.techidaily.com/top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-lava-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Lava ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
+
 

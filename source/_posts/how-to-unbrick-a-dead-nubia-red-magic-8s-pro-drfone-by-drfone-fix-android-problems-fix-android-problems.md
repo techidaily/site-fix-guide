@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Nubia Red Magic 8S Pro | Dr.fone
-date: 2024-04-30T14:26:14.255Z
-updated: 2024-05-01T14:26:14.255Z
+date: 2024-05-19T03:59:03.983Z
+updated: 2024-05-20T03:59:03.983Z
 tags: 
   - problems
 categories:
@@ -514,4 +514,5 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 <li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-video-with-ai-avatar-wondershare-virbo-for-2024/"><u>Updated Create AI Video with AI Avatar | Wondershare Virbo for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y100t-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y100t Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

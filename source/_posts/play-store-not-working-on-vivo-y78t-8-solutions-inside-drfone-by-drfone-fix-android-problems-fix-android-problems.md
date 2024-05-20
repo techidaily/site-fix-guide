@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Vivo Y78t? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:30:00.672Z
-updated: 2024-05-01T14:30:00.672Z
+date: 2024-05-19T03:59:06.711Z
+updated: 2024-05-20T03:59:06.711Z
 tags: 
   - problems
 categories:
@@ -606,4 +606,5 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-xs-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone XS Max How to Bypass?</u></a></li>
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-asus-rog-phone-8-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Asus ROG Phone 8 Pro? Here Are All Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

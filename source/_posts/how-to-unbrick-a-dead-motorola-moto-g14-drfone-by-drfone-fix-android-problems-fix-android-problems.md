@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Motorola Moto G14 | Dr.fone
-date: 2024-04-30T14:26:11.079Z
-updated: 2024-05-01T14:26:11.079Z
+date: 2024-05-19T03:59:03.955Z
+updated: 2024-05-20T03:59:03.955Z
 tags: 
   - problems
 categories:
@@ -594,4 +594,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-11-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus 11 5G to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme Narzo 60 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

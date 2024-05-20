@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Asus ROG Phone 7 Black and White | Dr.fone
-date: 2024-04-30T14:31:53.447Z
-updated: 2024-05-01T14:31:53.447Z
+date: 2024-05-19T03:59:08.193Z
+updated: 2024-05-20T03:59:08.193Z
 tags: 
   - problems
 categories:
@@ -515,4 +515,5 @@ When nothing works, the last resort you can go with is resetting the Asus ROG Ph
 <li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-quick-answer-what-is-a-gif-file/"><u>Updated 2024 Approved Quick Answer What Is a GIF File?</u></a></li>
 </ul></div>
+
 

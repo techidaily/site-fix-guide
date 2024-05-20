@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor X50 GT Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:26.506Z
-updated: 2024-05-01T14:23:26.506Z
+date: 2024-05-19T03:59:01.937Z
+updated: 2024-05-20T03:59:01.937Z
 tags: 
   - problems
 categories:
@@ -531,4 +531,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-xiaomi-redmi-a2plus-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Xiaomi Redmi A2+</u></a></li>
 </ul></div>
+
 

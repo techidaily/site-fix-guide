@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Realme C55 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:41.839Z
-updated: 2024-05-01T14:24:41.839Z
+date: 2024-05-19T03:59:03.006Z
+updated: 2024-05-20T03:59:03.006Z
 tags: 
   - problems
 categories:
@@ -504,4 +504,5 @@ So go ahead and try them out now!
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-guide-to-scaling-and-setting-videos-in-filmora-tutorial/"><u>New 2024 Approved Guide To Scaling and Setting Videos in Filmora | Tutorial</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-being-a-content-creator-means-creating-a-slow-mo-at-some-point-study-this-piece-to-learn-how-to-play-a-video-in-slow-motion-on-iphone/"><u>New Being a Content Creator Means Creating a Slow-Mo at some Point. Study This Piece to Learn How to Play a Video in Slow Motion on iPhone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Poco C50 | Dr.fone
-date: 2024-04-30T14:18:09.872Z
-updated: 2024-05-01T14:18:09.872Z
+date: 2024-05-19T03:58:57.782Z
+updated: 2024-05-20T03:58:57.782Z
 tags: 
   - problems
 categories:
@@ -676,4 +676,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Meizu 21 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme GT 3? | Dr.fone</u></a></li>
 </ul></div>
+
 

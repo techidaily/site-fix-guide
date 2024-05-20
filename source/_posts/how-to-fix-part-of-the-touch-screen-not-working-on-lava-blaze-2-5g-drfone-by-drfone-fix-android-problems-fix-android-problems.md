@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Blaze 2 5G | Dr.fone
-date: 2024-04-30T14:17:56.712Z
-updated: 2024-05-01T14:17:56.712Z
+date: 2024-05-19T03:58:57.470Z
+updated: 2024-05-20T03:58:57.470Z
 tags: 
   - problems
 categories:
@@ -621,4 +621,5 @@ And, if you’re thinking, “**How do I get a virus off My Lava Blaze 2 5G?**�
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-beginner-to-pro-a-step-by-step-guide-to-choosing-an-aiff-converter/"><u>Updated In 2024, From Beginner to Pro A Step-by-Step Guide to Choosing an AIFF Converter</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-vivo-y78plus-t1-edition-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y78+ (T1) Edition Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

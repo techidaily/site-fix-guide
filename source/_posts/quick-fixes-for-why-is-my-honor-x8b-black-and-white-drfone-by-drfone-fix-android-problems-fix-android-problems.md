@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Honor X8b Black and White | Dr.fone
-date: 2024-04-30T14:31:58.802Z
-updated: 2024-05-01T14:31:58.802Z
+date: 2024-05-19T03:59:08.252Z
+updated: 2024-05-20T03:59:08.252Z
 tags: 
   - problems
 categories:
@@ -647,4 +647,5 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Poco M6 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme Narzo N53? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Infinix Hot 40i Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:26:51.132Z
-updated: 2024-05-01T14:26:51.132Z
+date: 2024-05-19T03:59:04.514Z
+updated: 2024-05-20T03:59:04.514Z
 tags: 
   - problems
 categories:
@@ -553,4 +553,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-realme-gt-3-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme GT 3? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+
 

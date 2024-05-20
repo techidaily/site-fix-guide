@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Motorola Moto G13 | Dr.fone
-date: 2024-04-30T14:21:09.988Z
-updated: 2024-05-01T14:21:09.988Z
+date: 2024-05-19T03:58:59.963Z
+updated: 2024-05-20T03:58:59.963Z
 tags: 
   - problems
 categories:
@@ -601,4 +601,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://location-social.techidaily.com/does-poco-m6-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Poco M6 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-itel-s23-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Itel S23? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

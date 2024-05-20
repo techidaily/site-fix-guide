@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor Play 40C? | Dr.fone
-date: 2024-04-30T14:18:35.226Z
-updated: 2024-05-01T14:18:35.226Z
+date: 2024-05-19T03:58:58.048Z
+updated: 2024-05-20T03:58:58.048Z
 tags: 
   - problems
 categories:
@@ -499,4 +499,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Lava Blaze 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-x9b-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor X9b Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 

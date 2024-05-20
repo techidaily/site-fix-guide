@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Sony Xperia 1 V Back to Operation | Dr.fone
-date: 2024-04-30T14:24:49.429Z
-updated: 2024-05-01T14:24:49.429Z
+date: 2024-05-19T03:59:03.077Z
+updated: 2024-05-20T03:59:03.077Z
 tags: 
   - problems
 categories:
@@ -529,4 +529,5 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 <li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo K11 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-best-premiere-pro-transition-plugins-expert-picks-for-2024/"><u>Updated Best Premiere Pro Transition Plugins Expert Picks for 2024</u></a></li>
 </ul></div>
+
 

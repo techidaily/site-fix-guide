@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Honor X9b Black and White | Dr.fone
-date: 2024-04-30T14:31:59.183Z
-updated: 2024-05-01T14:31:59.183Z
+date: 2024-05-19T03:59:08.254Z
+updated: 2024-05-20T03:59:08.254Z
 tags: 
   - problems
 categories:
@@ -546,4 +546,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-8s-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 8S Pro Phone without PIN</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Meizu 21 | Dr.fone</u></a></li>
 </ul></div>
+
 

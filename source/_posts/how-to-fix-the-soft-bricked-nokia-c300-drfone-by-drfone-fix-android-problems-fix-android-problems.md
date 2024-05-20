@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Nokia C300? | Dr.fone
-date: 2024-04-30T14:18:47.899Z
-updated: 2024-05-01T14:18:47.899Z
+date: 2024-05-19T03:58:58.132Z
+updated: 2024-05-20T03:58:58.132Z
 tags: 
   - problems
 categories:
@@ -422,4 +422,5 @@ As a parting reminder, always keep a tool ready for emergencies. For this, choos
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-here-the-main-discussion-is-regarding-the-split-of-the-audio-from-the-video-in-the-sony-vegas-pro-there-are-also-some-details-about-the-substi/"><u>2024 Approved Here, the Main Discussion Is Regarding the Split of the Audio From the Video in the Sony Vegas Pro. There Are Also some Details About the Substitute, Which Is Wondershare Filmora</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-28-best-video-to-gif-converter-recommend/"><u>In 2024, 28 Best Video to Gif Converter Recommend</u></a></li>
 </ul></div>
+
 

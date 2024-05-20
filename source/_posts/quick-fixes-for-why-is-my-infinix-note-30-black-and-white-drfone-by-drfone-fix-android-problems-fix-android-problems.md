@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Infinix Note 30 Black and White | Dr.fone
-date: 2024-04-30T14:32:00.514Z
-updated: 2024-05-01T14:32:00.514Z
+date: 2024-05-19T03:59:08.262Z
+updated: 2024-05-20T03:59:08.262Z
 tags: 
   - problems
 categories:
@@ -539,4 +539,5 @@ By prioritizing user safety and following the step-by-step approach in this guid
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-realme-11-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Realme 11 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Motorola Edge 40 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

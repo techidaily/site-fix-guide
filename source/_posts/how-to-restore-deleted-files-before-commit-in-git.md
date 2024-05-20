@@ -1,6 +1,6 @@
 ---
 title: How to Restore Deleted Files Before Commit in Git
-date: 2024-04-30T14:25:04.659Z
+date: 2024-05-19T03:59:03.217Z
 tags: 
   - git restore
   - undo
@@ -161,4 +161,5 @@ The same command with `file7.txt` is again replaced with the `.` wildcard. It re
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nubia Z50S Pro | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-itel-p40-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Itel P40? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Realme C51 | Dr.fone
-date: 2024-04-30T14:22:58.160Z
-updated: 2024-05-01T14:22:58.160Z
+date: 2024-05-19T03:59:01.567Z
+updated: 2024-05-20T03:59:01.567Z
 tags: 
   - problems
 categories:
@@ -493,4 +493,5 @@ While installing Custom ROM can actually be a great way to customize your device
 <li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-12-mini-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 12 mini Prevention & Solution</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-11-pro-max-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 11 Pro Max</u></a></li>
 </ul></div>
+
 

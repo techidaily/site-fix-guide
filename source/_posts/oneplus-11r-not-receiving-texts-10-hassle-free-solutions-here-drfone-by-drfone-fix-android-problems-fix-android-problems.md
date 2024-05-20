@@ -1,7 +1,7 @@
 ---
 title: OnePlus 11R Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone
-date: 2024-04-30T14:28:44.266Z
-updated: 2024-05-01T14:28:44.266Z
+date: 2024-05-19T03:59:05.822Z
+updated: 2024-05-20T03:59:05.822Z
 tags: 
   - problems
 categories:
@@ -460,4 +460,5 @@ When nothing works, the last resort you can go with is resetting the OnePlus 11R
 <li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Samsung Galaxy S23? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-smart-8-hd-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Smart 8 HD for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

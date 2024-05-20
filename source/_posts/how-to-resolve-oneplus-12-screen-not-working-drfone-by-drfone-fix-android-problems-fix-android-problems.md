@@ -1,7 +1,7 @@
 ---
 title: How to Resolve OnePlus 12 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:41.007Z
-updated: 2024-05-01T14:23:41.007Z
+date: 2024-05-19T03:59:02.115Z
+updated: 2024-05-20T03:59:02.115Z
 tags: 
   - problems
 categories:
@@ -552,4 +552,5 @@ It is our hope that when faced with this fairly common error, you will not panic
 <li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-6s-plus-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 6s Plus Screen on PC Easily? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo Y56 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

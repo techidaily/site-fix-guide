@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Infinix Smart 7 | Dr.fone
-date: 2024-04-30T14:20:15.645Z
-updated: 2024-05-01T14:20:15.645Z
+date: 2024-05-19T03:58:59.073Z
+updated: 2024-05-20T03:58:59.073Z
 tags: 
   - problems
 categories:
@@ -483,4 +483,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-unlock-time-lapse-magic-a-beginners-guide-to-final-cut-pro/"><u>2024 Approved Unlock Time Lapse Magic A Beginners Guide to Final Cut Pro</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-gimp-green-screen/"><u>New Gimp Green Screen</u></a></li>
 </ul></div>
+
 

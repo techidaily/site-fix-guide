@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Xiaomi Redmi Note 12 4G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:26.024Z
-updated: 2024-05-01T14:28:26.024Z
+date: 2024-05-19T03:59:05.585Z
+updated: 2024-05-20T03:59:05.585Z
 tags: 
   - problems
 categories:
@@ -500,4 +500,5 @@ Android system recovery mode can be quite useful, especially when your system is
 <li><a href="https://howto.techidaily.com/bricked-your-htc-u23-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your HTC U23? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-what-is-the-best-fps-for-youtube-videos/"><u>In 2024, What Is the Best FPS for YouTube Videos?</u></a></li>
 </ul></div>
+
 

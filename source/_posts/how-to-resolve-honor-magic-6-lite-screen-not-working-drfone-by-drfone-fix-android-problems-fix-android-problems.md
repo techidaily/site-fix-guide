@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor Magic 6 Lite Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:24.932Z
-updated: 2024-05-01T14:23:24.932Z
+date: 2024-05-19T03:59:01.914Z
+updated: 2024-05-20T03:59:01.914Z
 tags: 
   - problems
 categories:
@@ -426,4 +426,5 @@ When following the directions, the user may require more research into some trou
 <li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-smart-7-hd-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Smart 7 HD Face Lock?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-htc-u23-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From HTC U23 to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

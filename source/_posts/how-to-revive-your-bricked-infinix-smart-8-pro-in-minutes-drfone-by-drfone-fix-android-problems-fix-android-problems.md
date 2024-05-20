@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Infinix Smart 8 Pro in Minutes | Dr.fone
-date: 2024-04-30T14:25:13.983Z
-updated: 2024-05-01T14:25:13.983Z
+date: 2024-05-19T03:59:03.292Z
+updated: 2024-05-20T03:59:03.292Z
 tags: 
   - problems
 categories:
@@ -583,4 +583,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-m34-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy M34 5G FRP Android 10/11/12/13</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-cutting-edge-free-vob-video-editors-a-detailed-comparison/"><u>New Cutting-Edge Free VOB Video Editors A Detailed Comparison</u></a></li>
 </ul></div>
+
 

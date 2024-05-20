@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Tecno Camon 20 in 3 Ways | Dr.fone
-date: 2024-04-30T14:16:38.182Z
-updated: 2024-05-01T14:16:38.182Z
+date: 2024-05-19T03:58:54.761Z
+updated: 2024-05-20T03:58:54.761Z
 tags: 
   - virtual location change
   - social app
@@ -352,4 +352,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-6-types-of-animation-you-may-like/"><u>New In 2024, 6 Types of Animation You May Like</u></a></li>
 <li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y27s-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y27s Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
+
 

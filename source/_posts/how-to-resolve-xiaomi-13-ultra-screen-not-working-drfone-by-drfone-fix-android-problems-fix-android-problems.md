@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Xiaomi 13 Ultra Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:08.923Z
-updated: 2024-05-01T14:24:08.923Z
+date: 2024-05-19T03:59:02.475Z
+updated: 2024-05-20T03:59:02.475Z
 tags: 
   - problems
 categories:
@@ -402,4 +402,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy M34 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-tutorial-for-honor-90-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor 90 Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme 10T 5G | Dr.fone
-date: 2024-04-30T14:18:11.412Z
-updated: 2024-05-01T14:18:11.412Z
+date: 2024-05-19T03:58:57.828Z
+updated: 2024-05-20T03:58:57.828Z
 tags: 
   - problems
 categories:
@@ -687,4 +687,5 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-do-perfect-match-paint-100-the-simple-way/"><u>New How to Do Perfect Match Paint 100 the Simple Way</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-a-guide-to-speed-up-a-video-on-splice-for-2024/"><u>New A Guide to Speed up a Video on Splice for 2024</u></a></li>
 </ul></div>
+
 

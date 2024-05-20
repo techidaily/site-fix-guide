@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Huawei P60 | Dr.fone
-date: 2024-04-30T14:17:52.378Z
-updated: 2024-05-01T14:17:52.378Z
+date: 2024-05-19T03:58:57.421Z
+updated: 2024-05-20T03:58:57.421Z
 tags: 
   - problems
 categories:
@@ -539,4 +539,5 @@ When nothing works, the last resort you can go with is resetting the Huawei P60 
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-14-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 14 Online? Here are 6 Easy Ways</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-xcover-6-pro-tactical-edition-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy XCover 6 Pro Tactical Edition Phone?</u></a></li>
 </ul></div>
+
 

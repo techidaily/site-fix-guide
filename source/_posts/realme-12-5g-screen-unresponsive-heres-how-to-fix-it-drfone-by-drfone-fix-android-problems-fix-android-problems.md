@@ -1,7 +1,7 @@
 ---
 title: Realme 12 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:43.634Z
-updated: 2024-05-01T14:32:43.634Z
+date: 2024-05-19T03:59:08.640Z
+updated: 2024-05-20T03:59:08.640Z
 tags: 
   - problems
 categories:
@@ -476,4 +476,5 @@ To sum up this article, it can be said that issues like ****Realme 12 5G not wor
 <li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Motorola ?</u></a></li>
 </ul></div>
+
 

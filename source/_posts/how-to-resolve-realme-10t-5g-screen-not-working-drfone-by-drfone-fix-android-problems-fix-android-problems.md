@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme 10T 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:48.992Z
-updated: 2024-05-01T14:23:48.992Z
+date: 2024-05-19T03:59:02.230Z
+updated: 2024-05-20T03:59:02.230Z
 tags: 
   - problems
 categories:
@@ -473,4 +473,5 @@ So go ahead and try them out now!
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-poco-x6-lock-screen-password-by-drfone-android/"><u>How to Reset your Poco X6 Lock Screen Password</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-gt-neo-5-se-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme GT Neo 5 SE Lock Screen Password?</u></a></li>
 </ul></div>
+
 

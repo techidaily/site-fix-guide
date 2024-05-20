@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Note 30 Pro | Dr.fone
-date: 2024-04-30T14:17:53.544Z
-updated: 2024-05-01T14:17:53.544Z
+date: 2024-05-19T03:58:57.431Z
+updated: 2024-05-20T03:58:57.431Z
 tags: 
   - problems
 categories:
@@ -468,4 +468,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-30-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 30 5G in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-12-mini-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 12 mini Lock Screen with Notifications? | Dr.fone</u></a></li>
 </ul></div>
+
 

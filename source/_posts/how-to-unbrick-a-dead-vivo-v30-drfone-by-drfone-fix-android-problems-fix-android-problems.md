@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Vivo V30 | Dr.fone
-date: 2024-04-30T14:26:34.898Z
-updated: 2024-05-01T14:26:34.898Z
+date: 2024-05-19T03:59:04.258Z
+updated: 2024-05-20T03:59:04.258Z
 tags: 
   - problems
 categories:
@@ -496,4 +496,5 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 <li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-y56-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo Y56 5G Phone When You Forget the Password</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-motorola-moto-g-5g-2023-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Motorola Moto G 5G (2023)</u></a></li>
 </ul></div>
+
 

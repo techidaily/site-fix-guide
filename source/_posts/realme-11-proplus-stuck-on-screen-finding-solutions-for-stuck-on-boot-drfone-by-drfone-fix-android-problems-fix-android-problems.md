@@ -1,7 +1,7 @@
 ---
 title: Realme 11 Pro+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:32:42.116Z
-updated: 2024-05-01T14:32:42.116Z
+date: 2024-05-19T03:59:08.628Z
+updated: 2024-05-20T03:59:08.628Z
 tags: 
   - problems
 categories:
@@ -573,4 +573,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-f23-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo F23 5G to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Moto E13 | Dr.fone</u></a></li>
 </ul></div>
+
 

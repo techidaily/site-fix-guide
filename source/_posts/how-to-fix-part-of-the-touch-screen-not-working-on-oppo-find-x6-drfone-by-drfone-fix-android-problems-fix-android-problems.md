@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Oppo Find X6 | Dr.fone
-date: 2024-04-30T14:18:08.013Z
-updated: 2024-05-01T14:18:08.013Z
+date: 2024-05-19T03:58:57.769Z
+updated: 2024-05-20T03:58:57.769Z
 tags: 
   - problems
 categories:
@@ -645,4 +645,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://ai-video-editing.techidaily.com/best-tips-on-how-to-design-travel-slideshow/"><u>Best Tips on How to Design Travel Slideshow</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-honor-x50-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor X50 Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+
 

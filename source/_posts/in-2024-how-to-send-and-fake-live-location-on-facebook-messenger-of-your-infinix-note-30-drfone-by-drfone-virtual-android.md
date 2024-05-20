@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Infinix Note 30 | Dr.fone
-date: 2024-04-30T14:16:05.783Z
-updated: 2024-05-01T14:16:05.783Z
+date: 2024-05-19T03:58:53.032Z
+updated: 2024-05-20T03:58:53.032Z
 tags: 
   - virtual location change
   - social app
@@ -510,4 +510,5 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 <li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo V30 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-note-50-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme Note 50? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

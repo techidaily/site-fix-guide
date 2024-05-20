@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo S18 | Dr.fone
-date: 2024-04-30T14:21:35.090Z
-updated: 2024-05-01T14:21:35.090Z
+date: 2024-05-19T03:59:00.274Z
+updated: 2024-05-20T03:59:00.274Z
 tags: 
   - problems
 categories:
@@ -614,4 +614,5 @@ Encountering difficulties when updating Google Play Services can be frustrating,
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-7-plus-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 7 Plus online without jailbreak</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-lava-yuva-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Lava Yuva 3 Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

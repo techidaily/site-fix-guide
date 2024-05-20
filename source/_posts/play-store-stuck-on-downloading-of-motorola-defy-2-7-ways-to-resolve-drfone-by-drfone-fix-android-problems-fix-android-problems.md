@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Motorola Defy 2? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:18.856Z
-updated: 2024-05-01T14:30:18.856Z
+date: 2024-05-19T03:59:06.865Z
+updated: 2024-05-20T03:59:06.865Z
 tags: 
   - problems
 categories:
@@ -482,4 +482,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Itel P55T? | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone XS | Dr.fone</u></a></li>
 </ul></div>
+
 

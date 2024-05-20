@@ -1,7 +1,7 @@
 ---
 title: Infinix Hot 30 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:26:47.356Z
-updated: 2024-05-01T14:26:47.356Z
+date: 2024-05-19T03:59:04.481Z
+updated: 2024-05-20T03:59:04.481Z
 tags: 
   - problems
 categories:
@@ -538,4 +538,5 @@ Doing all the recommended methods above usually solves the case. If the differen
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-frame-blending-in-adobe-premiere-pro/"><u>Updated How to Use Frame Blending in Adobe Premiere Pro</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Gionee F3 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

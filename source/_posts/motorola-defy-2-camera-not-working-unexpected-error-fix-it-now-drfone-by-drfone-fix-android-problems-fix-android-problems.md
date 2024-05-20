@@ -1,7 +1,7 @@
 ---
 title: Motorola Defy 2 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:27:25.174Z
-updated: 2024-05-01T14:27:25.174Z
+date: 2024-05-19T03:59:04.880Z
+updated: 2024-05-20T03:59:04.880Z
 tags: 
   - problems
 categories:
@@ -629,4 +629,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo A79 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-build-a-video-editing-career/"><u>How to Build A Video Editing Career</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme C67 4G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:50.705Z
-updated: 2024-05-01T14:23:50.705Z
+date: 2024-05-19T03:59:02.241Z
+updated: 2024-05-20T03:59:02.241Z
 tags: 
   - problems
 categories:
@@ -560,4 +560,5 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 <li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-12-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 12 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 6 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme 11 Pro+ | Dr.fone
-date: 2024-04-30T14:18:11.990Z
-updated: 2024-05-01T14:18:11.990Z
+date: 2024-05-19T03:58:57.833Z
+updated: 2024-05-20T03:58:57.833Z
 tags: 
   - problems
 categories:
@@ -459,4 +459,5 @@ To sum up this article, it can be said that issues like ****Realme 11 Pro+ not w
 <li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-v27-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo V27 Pro Unlock Without Password</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-tecno-spark-10-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 10 Pro without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 

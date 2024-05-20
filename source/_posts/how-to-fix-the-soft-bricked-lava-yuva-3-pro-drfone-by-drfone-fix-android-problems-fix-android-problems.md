@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Lava Yuva 3 Pro? | Dr.fone
-date: 2024-04-30T14:18:43.038Z
-updated: 2024-05-01T14:18:43.038Z
+date: 2024-05-19T03:58:58.102Z
+updated: 2024-05-20T03:58:58.102Z
 tags: 
   - problems
 categories:
@@ -455,4 +455,5 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 <li><a href="https://review-topics.techidaily.com/infinix-data-retrieval-tool-restore-lost-data-from-infinix-gt-10-pro-by-fonelab-android-recover-data/"><u>Infinix Data Retrieval tool – restore lost data from Infinix GT 10 Pro</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme 10T 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

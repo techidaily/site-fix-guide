@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Itel P55 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:02.962Z
-updated: 2024-05-01T14:32:02.962Z
+date: 2024-05-19T03:59:08.316Z
+updated: 2024-05-20T03:59:08.316Z
 tags: 
   - problems
 categories:
@@ -603,4 +603,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-smart-8-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Smart 8 to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/play-mov-movies-on-htc-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on HTC , is it possible?</u></a></li>
 </ul></div>
+
 

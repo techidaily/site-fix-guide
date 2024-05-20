@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Google Pixel 8 in Minutes | Dr.fone
-date: 2024-04-30T14:25:05.617Z
-updated: 2024-05-01T14:25:05.617Z
+date: 2024-05-19T03:59:03.231Z
+updated: 2024-05-20T03:59:03.231Z
 tags: 
   - problems
 categories:
@@ -506,4 +506,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo S17 Pro? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-xs-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone XS Passcode Easily Video Inside | Dr.fone</u></a></li>
 </ul></div>
+
 

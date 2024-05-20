@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi 13C | Dr.fone
-date: 2024-04-30T14:18:29.986Z
-updated: 2024-05-01T14:18:29.986Z
+date: 2024-05-19T03:58:57.993Z
+updated: 2024-05-20T03:58:57.993Z
 tags: 
   - problems
 categories:
@@ -595,4 +595,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-gt-5-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme GT 5 Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-motorola-moto-g23-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Moto G23 phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

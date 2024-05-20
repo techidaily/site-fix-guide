@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 12 Pro 4G | Dr.fone
-date: 2024-04-30T14:18:31.569Z
-updated: 2024-05-01T14:18:31.569Z
+date: 2024-05-19T03:58:58.004Z
+updated: 2024-05-20T03:58:58.004Z
 tags: 
   - problems
 categories:
@@ -576,4 +576,5 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-tecno-spark-10-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Tecno Spark 10 5G without backup.</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 12 mini? | Dr.fone</u></a></li>
 </ul></div>
+
 

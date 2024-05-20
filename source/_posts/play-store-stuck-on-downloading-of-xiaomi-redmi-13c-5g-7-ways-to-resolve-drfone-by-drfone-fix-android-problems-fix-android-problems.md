@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Xiaomi Redmi 13C 5G? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:50.022Z
-updated: 2024-05-01T14:30:50.022Z
+date: 2024-05-19T03:59:07.192Z
+updated: 2024-05-20T03:59:07.192Z
 tags: 
   - problems
 categories:
@@ -528,4 +528,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-a25-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy A25 5G? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-hard-to-remove-black-background-in-after-effects-for-2024/"><u>Updated Hard to Remove Black Background in After Effects for 2024</u></a></li>
 </ul></div>
+
 

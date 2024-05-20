@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nokia C12 Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:38.399Z
-updated: 2024-05-01T14:23:38.399Z
+date: 2024-05-19T03:59:02.096Z
+updated: 2024-05-20T03:59:02.096Z
 tags: 
   - problems
 categories:
@@ -568,4 +568,5 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-s23-tactical-edition-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy S23 Tactical Edition Screen | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-11-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone 11 iCloud Activation Lock Bypass</u></a></li>
 </ul></div>
+
 

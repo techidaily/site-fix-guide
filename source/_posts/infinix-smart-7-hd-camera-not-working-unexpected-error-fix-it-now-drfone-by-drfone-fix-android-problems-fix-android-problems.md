@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 7 HD Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:26:56.317Z
-updated: 2024-05-01T14:26:56.317Z
+date: 2024-05-19T03:59:04.565Z
+updated: 2024-05-20T03:59:04.565Z
 tags: 
   - problems
 categories:
@@ -492,4 +492,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-reno-11f-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo Reno 11F 5G without Anyone Knowing | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-learn-to-merge-clips-in-davinci-resolve-with-simple-steps/"><u>Updated 2024 Approved Learn to Merge Clips in DaVinci Resolve with Simple Steps</u></a></li>
 </ul></div>
+
 

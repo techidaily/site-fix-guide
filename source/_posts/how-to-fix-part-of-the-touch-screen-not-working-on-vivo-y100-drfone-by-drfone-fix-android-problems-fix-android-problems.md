@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y100 | Dr.fone
-date: 2024-04-30T14:18:26.528Z
-updated: 2024-05-01T14:18:26.528Z
+date: 2024-05-19T03:58:57.966Z
+updated: 2024-05-20T03:58:57.966Z
 tags: 
   - problems
 categories:
@@ -585,4 +585,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://ai-vdieo-software.techidaily.com/best-online-video-reversers-for-2024/"><u>Best Online Video Reversers for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Oppo Find N3? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi 14 | Dr.fone
-date: 2024-04-30T14:16:05.548Z
-updated: 2024-05-01T14:16:05.548Z
+date: 2024-05-19T03:58:51.221Z
+updated: 2024-05-20T03:58:51.221Z
 tags: 
   - virtual location change
   - social app
@@ -362,4 +362,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-sony-xperia-1-v-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Sony Xperia 1 V Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g04-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G04</u></a></li>
 </ul></div>
+
 

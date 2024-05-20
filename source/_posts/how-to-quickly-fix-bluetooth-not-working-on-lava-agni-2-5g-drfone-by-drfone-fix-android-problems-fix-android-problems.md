@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T14:22:42.783Z
-updated: 2024-05-01T14:22:42.783Z
+date: 2024-05-19T03:59:01.350Z
+updated: 2024-05-20T03:59:01.350Z
 tags: 
   - problems
 categories:
@@ -586,4 +586,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-15-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 15 Plus | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro with IMEI Code?</u></a></li>
 </ul></div>
+
 

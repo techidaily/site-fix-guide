@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Motorola Moto G73 5G | Dr.fone
-date: 2024-04-30T14:20:20.798Z
-updated: 2024-05-01T14:20:20.798Z
+date: 2024-05-19T03:58:59.195Z
+updated: 2024-05-20T03:58:59.195Z
 tags: 
   - problems
 categories:
@@ -659,4 +659,5 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 <li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a05-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A05 by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-itel-s23-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Itel S23? Here Are All Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

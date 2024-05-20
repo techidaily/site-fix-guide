@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My HTC U23 Black and White | Dr.fone
-date: 2024-04-30T14:31:59.374Z
-updated: 2024-05-01T14:31:59.374Z
+date: 2024-05-19T03:59:08.255Z
+updated: 2024-05-20T03:59:08.255Z
 tags: 
   - problems
 categories:
@@ -597,4 +597,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-s17-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo S17 Pro</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-x90s-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo X90S FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

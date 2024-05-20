@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor X50 GT | Dr.fone
-date: 2024-04-30T14:17:51.051Z
-updated: 2024-05-01T14:17:51.051Z
+date: 2024-05-19T03:58:57.409Z
+updated: 2024-05-20T03:58:57.409Z
 tags: 
   - problems
 categories:
@@ -580,4 +580,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/vivo-y100i-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100i Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
+
 

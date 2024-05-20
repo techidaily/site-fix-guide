@@ -1,7 +1,7 @@
 ---
 title: Realme GT 3 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:51.562Z
-updated: 2024-05-01T14:32:51.562Z
+date: 2024-05-19T03:59:08.720Z
+updated: 2024-05-20T03:59:08.720Z
 tags: 
   - problems
 categories:
@@ -541,4 +541,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-15-pro-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 15 Pro and iPad</u></a></li>
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-max-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS Max to an Older Version? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Honor X50i in Minutes | Dr.fone
-date: 2024-04-30T14:25:09.406Z
-updated: 2024-05-01T14:25:09.406Z
+date: 2024-05-19T03:59:03.259Z
+updated: 2024-05-20T03:59:03.259Z
 tags: 
   - problems
 categories:
@@ -481,4 +481,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-make-canva-collages/"><u>New In 2024, How to Make Canva Collages</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-x50-gt-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor X50 GT to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

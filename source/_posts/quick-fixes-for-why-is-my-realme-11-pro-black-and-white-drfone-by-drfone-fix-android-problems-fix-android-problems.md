@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Realme 11 Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:17.827Z
-updated: 2024-05-01T14:32:17.827Z
+date: 2024-05-19T03:59:08.424Z
+updated: 2024-05-20T03:59:08.424Z
 tags: 
   - problems
 categories:
@@ -602,4 +602,5 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo Y100A? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-ways-to-make-fast-motion-video-on-iphone-solved/"><u>New 2024 Approved Top Ways to Make Fast Motion Video on iPhone Solved</u></a></li>
 </ul></div>
+
 

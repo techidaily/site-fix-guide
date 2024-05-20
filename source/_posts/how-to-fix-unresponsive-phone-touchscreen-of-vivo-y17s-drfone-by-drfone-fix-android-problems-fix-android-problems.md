@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Vivo Y17s | Dr.fone
-date: 2024-04-30T14:20:50.220Z
-updated: 2024-05-01T14:20:50.220Z
+date: 2024-05-19T03:58:59.615Z
+updated: 2024-05-20T03:58:59.615Z
 tags: 
   - problems
 categories:
@@ -579,4 +579,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-your-selling-strategy-with-lazlive-live-selling/"><u>Updated In 2024, Your Selling Strategy With LazLive Live Selling</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-the-15-best-apps-to-turn-photos-into-cartoons-and-sketches/"><u>Updated In 2024, The 15 Best Apps to Turn Photos Into Cartoons and Sketches</u></a></li>
 </ul></div>
+
 

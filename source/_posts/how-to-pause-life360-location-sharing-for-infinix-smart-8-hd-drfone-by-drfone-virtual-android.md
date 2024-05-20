@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Infinix Smart 8 HD | Dr.fone
-date: 2024-04-30T14:16:07.843Z
-updated: 2024-05-01T14:16:07.843Z
+date: 2024-05-19T03:58:53.415Z
+updated: 2024-05-20T03:58:53.415Z
 tags: 
   - virtual location change
   - social app
@@ -398,4 +398,5 @@ There you go; you can now create a new Telegram location to prank your friends o
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-kinemaster-on-mac-download-install-and-start-editing/"><u>New In 2024, KineMaster on Mac Download, Install, and Start Editing</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-c55-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme C55 | Dr.fone</u></a></li>
 </ul></div>
+
 

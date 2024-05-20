@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Oppo K11 5G | Dr.fone
-date: 2024-04-30T14:18:08.717Z
-updated: 2024-05-01T14:18:08.717Z
+date: 2024-05-19T03:58:57.774Z
+updated: 2024-05-20T03:58:57.774Z
 tags: 
   - problems
 categories:
@@ -605,4 +605,5 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 <li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-12-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 12 Pro Max/iPad? Solved | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/free-and-easy-video-stabilization-solutions-for-win-and-mac/"><u>Free and Easy Video Stabilization Solutions for Win & Mac</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked ZTE Axon 40 Lite? | Dr.fone
-date: 2024-04-30T14:19:18.271Z
-updated: 2024-05-01T14:19:18.271Z
+date: 2024-05-19T03:58:58.448Z
+updated: 2024-05-20T03:58:58.448Z
 tags: 
   - problems
 categories:
@@ -447,4 +447,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-a56s-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo A56s 5G FRP Locks</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-hot-30i-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Hot 30i to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

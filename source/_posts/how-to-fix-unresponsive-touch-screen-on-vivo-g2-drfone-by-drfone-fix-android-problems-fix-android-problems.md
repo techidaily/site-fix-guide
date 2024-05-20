@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo G2 | Dr.fone
-date: 2024-04-30T14:21:34.007Z
-updated: 2024-05-01T14:21:34.007Z
+date: 2024-05-19T03:59:00.267Z
+updated: 2024-05-20T03:59:00.267Z
 tags: 
   - problems
 categories:
@@ -483,4 +483,5 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Vivo G
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-5-udemy-subtitle-translator-auto-translation/"><u>Updated 2024 Approved Best 5 Udemy Subtitle Translator (Auto Translation)</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Motorola Moto G04 | Dr.fone</u></a></li>
 </ul></div>
+
 

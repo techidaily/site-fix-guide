@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Lava Blaze Curve 5G | Dr.fone
-date: 2024-04-30T14:19:30.385Z
-updated: 2024-05-01T14:19:30.385Z
+date: 2024-05-19T03:58:58.567Z
+updated: 2024-05-20T03:58:58.567Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-infinix-note-30-vip-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Infinix Note 30 VIP FRP Locks</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g24-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola Moto G24 Phone without PIN</u></a></li>
 </ul></div>
+
 

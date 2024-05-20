@@ -1,7 +1,7 @@
 ---
 title: Poco C50 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:30:53.621Z
-updated: 2024-05-01T14:30:53.621Z
+date: 2024-05-19T03:59:07.228Z
+updated: 2024-05-20T03:59:07.228Z
 tags: 
   - problems
 categories:
@@ -489,4 +489,5 @@ Poco C50 Screen unresponsiveness can be a frustrating issue to deal with, but th
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-11-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme 11 5G to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

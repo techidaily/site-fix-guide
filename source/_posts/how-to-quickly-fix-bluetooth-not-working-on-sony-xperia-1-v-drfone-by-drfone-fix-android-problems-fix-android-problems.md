@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T14:23:05.169Z
-updated: 2024-05-01T14:23:05.169Z
+date: 2024-05-19T03:59:01.678Z
+updated: 2024-05-20T03:59:01.678Z
 tags: 
   - problems
 categories:
@@ -630,4 +630,5 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-poco-m6-pro-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Poco M6 Pro 5G</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y100a-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y100A Device</u></a></li>
 </ul></div>
+
 

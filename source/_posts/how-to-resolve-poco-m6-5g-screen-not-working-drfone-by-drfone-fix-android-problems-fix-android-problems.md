@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Poco M6 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:48.045Z
-updated: 2024-05-01T14:23:48.045Z
+date: 2024-05-19T03:59:02.224Z
+updated: 2024-05-20T03:59:02.224Z
 tags: 
   - problems
 categories:
@@ -481,4 +481,5 @@ Poco M6 5G Screen unresponsiveness can be a frustrating issue to deal with, but 
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-vivo-x100-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Vivo X100 Pro</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-speed-up-pictures-on-tiktok-slideshow/"><u>New In 2024, How to Speed Up Pictures on TikTok Slideshow</u></a></li>
 </ul></div>
+
 

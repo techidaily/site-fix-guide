@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 7 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:26:56.125Z
-updated: 2024-05-01T14:26:56.125Z
+date: 2024-05-19T03:59:04.564Z
+updated: 2024-05-20T03:59:04.564Z
 tags: 
   - problems
 categories:
@@ -498,4 +498,5 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-x7b-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor X7b to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 10</u></a></li>
 </ul></div>
+
 

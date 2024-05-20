@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Infinix Smart 8 Pro Back to Operation | Dr.fone
-date: 2024-04-30T14:24:22.645Z
-updated: 2024-05-01T14:24:22.645Z
+date: 2024-05-19T03:59:02.856Z
+updated: 2024-05-20T03:59:02.856Z
 tags: 
   - problems
 categories:
@@ -453,4 +453,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Infinix Hot 40 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a24-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy A24 Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

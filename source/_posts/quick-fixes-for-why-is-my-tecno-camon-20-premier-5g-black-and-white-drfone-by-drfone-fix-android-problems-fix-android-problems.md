@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Tecno Camon 20 Premier 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:26.854Z
-updated: 2024-05-01T14:32:26.854Z
+date: 2024-05-19T03:59:08.491Z
+updated: 2024-05-20T03:59:08.491Z
 tags: 
   - problems
 categories:
@@ -671,4 +671,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-13-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone 13 Smoothly</u></a></li>
 <li><a href="https://review-topics.techidaily.com/poco-c51-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Poco C51 support - Forgotten screen lock.</u></a></li>
 </ul></div>
+
 

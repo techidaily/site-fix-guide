@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Zero 30 5G | Dr.fone
-date: 2024-04-30T14:17:54.628Z
-updated: 2024-05-01T14:17:54.628Z
+date: 2024-05-19T03:58:57.438Z
+updated: 2024-05-20T03:58:57.438Z
 tags: 
   - problems
 categories:
@@ -666,4 +666,5 @@ And, if you’re thinking, “**How do I get a virus off My Infinix Zero 30 5G?*
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Poco X6? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/factory-reset-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 6 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Lava Agni 2 5G? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:16.664Z
-updated: 2024-05-01T14:30:16.664Z
+date: 2024-05-19T03:59:06.848Z
+updated: 2024-05-20T03:59:06.848Z
 tags: 
   - problems
 categories:
@@ -545,4 +545,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-90-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor 90</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/are-you-looking-for-a-way-to-change-the-speed-of-your-videos-without-sacrificing-any-quality-here-are-the-best-video-speed-changers-for-windows-and-mac-for-/"><u>Are You Looking for a Way to Change the Speed of Your Videos without Sacrificing Any Quality? Here Are the Best Video Speed Changers for Windows and Mac for You to Choose From</u></a></li>
 </ul></div>
+
 

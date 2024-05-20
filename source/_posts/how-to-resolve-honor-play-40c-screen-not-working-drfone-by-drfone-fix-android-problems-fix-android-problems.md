@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor Play 40C Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:25.879Z
-updated: 2024-05-01T14:23:25.879Z
+date: 2024-05-19T03:59:01.922Z
+updated: 2024-05-20T03:59:01.922Z
 tags: 
   - problems
 categories:
@@ -549,4 +549,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-now-you-can-also-apply-the-stranger-things-upside-down-effect-to-your-video-this-effect-combines-camera-tricks-and-video-editing-within-filmor/"><u>2024 Approved Now, You Can Also Apply the Stranger Things Upside Down Effect to Your Video! This Effect Combines Camera Tricks and Video Editing Within Filmora to Transition From the Normal World Into the Upside Down</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-a14-4g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy A14 4G</u></a></li>
 </ul></div>
+
 

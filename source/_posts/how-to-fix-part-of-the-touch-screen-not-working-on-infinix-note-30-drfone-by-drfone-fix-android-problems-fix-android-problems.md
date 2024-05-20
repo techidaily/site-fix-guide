@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Note 30 | Dr.fone
-date: 2024-04-30T14:17:53.354Z
-updated: 2024-05-01T14:17:53.354Z
+date: 2024-05-19T03:58:57.429Z
+updated: 2024-05-20T03:58:57.429Z
 tags: 
   - problems
 categories:
@@ -632,4 +632,5 @@ Hence in this article, we got to know about the error 495 and the possible solut
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oneplus-11-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset OnePlus 11 5G Phone Using PC | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-gt-10-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of GT 10 Pro?</u></a></li>
 </ul></div>
+
 

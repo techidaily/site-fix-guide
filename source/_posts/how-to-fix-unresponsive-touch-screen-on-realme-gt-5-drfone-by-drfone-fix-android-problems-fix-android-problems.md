@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme GT 5 | Dr.fone
-date: 2024-04-30T14:21:24.601Z
-updated: 2024-05-01T14:21:24.601Z
+date: 2024-05-19T03:59:00.136Z
+updated: 2024-05-20T03:59:00.136Z
 tags: 
   - problems
 categories:
@@ -524,4 +524,5 @@ While installing Custom ROM can actually be a great way to customize your device
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-x-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone X with 3 Methods</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Bootloader Easily</u></a></li>
 </ul></div>
+
 

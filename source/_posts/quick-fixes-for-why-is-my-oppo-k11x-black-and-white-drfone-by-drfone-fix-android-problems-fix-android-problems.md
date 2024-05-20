@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Oppo K11x Black and White | Dr.fone
-date: 2024-04-30T14:32:15.027Z
-updated: 2024-05-01T14:32:15.027Z
+date: 2024-05-19T03:59:08.402Z
+updated: 2024-05-20T03:59:08.402Z
 tags: 
   - problems
 categories:
@@ -653,4 +653,5 @@ When nothing works, the last resort you can go with is resetting the Oppo K11x d
 <li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-word-2021-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Create a Digital Signature Online for Word 2021 document</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-xiaomi-redmi-a2-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Redmi A2? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+
 

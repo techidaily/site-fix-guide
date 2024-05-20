@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo S17t | Dr.fone
-date: 2024-04-30T14:21:34.785Z
-updated: 2024-05-01T14:21:34.785Z
+date: 2024-05-19T03:59:00.273Z
+updated: 2024-05-20T03:59:00.273Z
 tags: 
   - problems
 categories:
@@ -610,4 +610,5 @@ When nothing works, the last resort you can go with is resetting the Vivo S17t d
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Xiaomi 13T? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y100i Power 5G?</u></a></li>
 </ul></div>
+
 

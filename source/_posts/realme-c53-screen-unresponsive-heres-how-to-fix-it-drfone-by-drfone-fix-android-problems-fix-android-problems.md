@@ -1,7 +1,7 @@
 ---
 title: Realme C53 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:48.907Z
-updated: 2024-05-01T14:32:48.907Z
+date: 2024-05-19T03:59:08.687Z
+updated: 2024-05-20T03:59:08.687Z
 tags: 
   - problems
 categories:
@@ -471,4 +471,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-xiaomi-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Xiaomi Redmi Note 12 Pro 4G?</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo S17 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

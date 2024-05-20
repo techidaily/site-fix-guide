@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Nokia C300 | Dr.fone
-date: 2024-04-30T14:26:13.112Z
-updated: 2024-05-01T14:26:13.112Z
+date: 2024-05-19T03:59:03.976Z
+updated: 2024-05-20T03:59:03.976Z
 tags: 
   - problems
 categories:
@@ -662,4 +662,5 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
 <li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-13-pro-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 13 Pro Without Previous Owner?</u></a></li>
 </ul></div>
+
 

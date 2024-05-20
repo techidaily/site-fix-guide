@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor Play 8T Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:26.307Z
-updated: 2024-05-01T14:23:26.307Z
+date: 2024-05-19T03:59:01.935Z
+updated: 2024-05-20T03:59:01.935Z
 tags: 
   - problems
 categories:
@@ -569,4 +569,5 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-videos-like-a-pro-top-10-free-chromebook-software/"><u>In 2024, Edit Videos Like a Pro Top 10 Free Chromebook Software</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-xiaomi-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
 </ul></div>
+
 

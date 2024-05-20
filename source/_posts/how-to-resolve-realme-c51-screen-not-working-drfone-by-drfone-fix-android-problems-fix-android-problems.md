@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme C51 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:50.324Z
-updated: 2024-05-01T14:23:50.324Z
+date: 2024-05-19T03:59:02.239Z
+updated: 2024-05-20T03:59:02.239Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-a-detailed-guide-to-making-your-pictures-speak/"><u>Updated In 2024, A Detailed Guide to Making Your Pictures Speak</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor Magic Vs 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Vivo Y02T Wont Turn On | Dr.fone
-date: 2024-04-30T14:17:40.064Z
-updated: 2024-05-01T14:17:40.064Z
+date: 2024-05-19T03:58:57.271Z
+updated: 2024-05-20T03:58:57.271Z
 tags: 
   - problems
 categories:
@@ -528,4 +528,5 @@ Last but certainly not the least, users must avoid downloading large application
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-y200-easily-by-drfone-android/"><u>How To Unlock a Vivo Y200 Easily?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-tecno-spark-10-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Tecno Spark 10 5G to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-30T14:22:42.972Z
-updated: 2024-05-01T14:22:42.972Z
+date: 2024-05-19T03:59:01.352Z
+updated: 2024-05-20T03:59:01.352Z
 tags: 
   - problems
 categories:
@@ -557,4 +557,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-motorola-moto-g-stylus-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Motorola Moto G Stylus (2023)?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-create-kinetice-typography-text-effect-in-filmora/"><u>Updated 2024 Approved Create Kinetice Typography Text Effect in Filmora</u></a></li>
 </ul></div>
+
 

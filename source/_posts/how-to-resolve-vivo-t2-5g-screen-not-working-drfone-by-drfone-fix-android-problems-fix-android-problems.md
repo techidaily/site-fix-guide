@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo T2 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:02.825Z
-updated: 2024-05-01T14:24:02.825Z
+date: 2024-05-19T03:59:02.416Z
+updated: 2024-05-20T03:59:02.416Z
 tags: 
   - problems
 categories:
@@ -430,4 +430,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 <li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-12-mini-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 12 mini Data From iTunes? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 7 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

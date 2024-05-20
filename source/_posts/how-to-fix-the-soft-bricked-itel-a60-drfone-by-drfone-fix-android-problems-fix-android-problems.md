@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Itel A60? | Dr.fone
-date: 2024-04-30T14:18:40.518Z
-updated: 2024-05-01T14:18:40.518Z
+date: 2024-05-19T03:58:58.085Z
+updated: 2024-05-20T03:58:58.085Z
 tags: 
   - problems
 categories:
@@ -392,4 +392,5 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 <li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor Magic 6 Pro | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme Narzo 60x 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

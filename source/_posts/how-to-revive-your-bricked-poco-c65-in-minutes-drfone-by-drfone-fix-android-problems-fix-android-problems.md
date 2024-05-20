@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Poco C65 in Minutes | Dr.fone
-date: 2024-04-30T14:25:30.363Z
-updated: 2024-05-01T14:25:30.363Z
+date: 2024-05-19T03:59:03.452Z
+updated: 2024-05-20T03:59:03.452Z
 tags: 
   - problems
 categories:
@@ -543,4 +543,5 @@ When following the directions, the user may require more research into some trou
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo Find X6 Pro? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-infinix-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Infinix FRP Without Computer</u></a></li>
 </ul></div>
+
 

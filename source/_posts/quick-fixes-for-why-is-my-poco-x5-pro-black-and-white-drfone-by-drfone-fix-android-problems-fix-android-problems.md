@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Poco X5 Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:17.068Z
-updated: 2024-05-01T14:32:17.068Z
+date: 2024-05-19T03:59:08.416Z
+updated: 2024-05-20T03:59:08.416Z
 tags: 
   - problems
 categories:
@@ -557,4 +557,5 @@ Now that you have decided where to download the apk file, these are the followin
 <li><a href="https://ai-vdieo-software.techidaily.com/free-online-image-resizer-adjust-ratios-and-sizes/"><u>Free Online Image Resizer Adjust Ratios and Sizes</u></a></li>
 <li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-a78-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo A78 FRP</u></a></li>
 </ul></div>
+
 

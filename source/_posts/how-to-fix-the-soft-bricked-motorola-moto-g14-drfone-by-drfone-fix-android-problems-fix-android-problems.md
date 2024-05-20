@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Motorola Moto G14? | Dr.fone
-date: 2024-04-30T14:18:45.232Z
-updated: 2024-05-01T14:18:45.232Z
+date: 2024-05-19T03:58:58.115Z
+updated: 2024-05-20T03:58:58.115Z
 tags: 
   - problems
 categories:
@@ -489,4 +489,5 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-y77t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo Y77t to Other Android Devices Easily | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-x100-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo X100 for Free? | Dr.fone</u></a></li>
 </ul></div>
+
 

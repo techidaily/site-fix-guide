@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo V30 Pro | Dr.fone
-date: 2024-04-30T14:18:25.350Z
-updated: 2024-05-01T14:18:25.350Z
+date: 2024-05-19T03:58:57.954Z
+updated: 2024-05-20T03:58:57.954Z
 tags: 
   - problems
 categories:
@@ -656,4 +656,5 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29e-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo V29e Phone without PIN</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-unleash-your-creativity-best-tools-for-converting-photos-to-music-videos/"><u>2024 Approved Unleash Your Creativity Best Tools for Converting Photos to Music Videos</u></a></li>
 </ul></div>
+
 

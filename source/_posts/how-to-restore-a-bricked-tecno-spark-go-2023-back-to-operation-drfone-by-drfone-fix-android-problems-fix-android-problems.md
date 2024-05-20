@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Tecno Spark Go (2023) Back to Operation | Dr.fone
-date: 2024-04-30T14:24:52.605Z
-updated: 2024-05-01T14:24:52.605Z
+date: 2024-05-19T03:59:03.099Z
+updated: 2024-05-20T03:59:03.099Z
 tags: 
   - problems
 categories:
@@ -619,4 +619,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-v-purse-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor V Purse | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-resize-flv-videos-efficientlywindows-mac-android-iphone-and-online-for-2024/"><u>Updated How to Resize FLV Videos EfficientlyWindows, Mac, Android, iPhone & Online for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Realme GT 3 Wont Turn On | Dr.fone
-date: 2024-04-30T14:17:28.359Z
-updated: 2024-05-01T14:17:28.359Z
+date: 2024-05-19T03:58:57.160Z
+updated: 2024-05-20T03:58:57.160Z
 tags: 
   - problems
 categories:
@@ -492,4 +492,5 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone XS | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-hot-40i-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix Hot 40i</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of OnePlus Nord N30 SE | Dr.fone
-date: 2024-04-30T14:20:25.515Z
-updated: 2024-05-01T14:20:25.515Z
+date: 2024-05-19T03:58:59.267Z
+updated: 2024-05-20T03:58:59.267Z
 tags: 
   - problems
 categories:
@@ -589,4 +589,5 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-itel-p55-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Itel P55 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-top-5-free-online-video-filter-editors-improve-your-videos-with-filters-for-2024/"><u>Updated Top 5 Free Online Video Filter Editors Improve Your Videos with Filters for 2024</u></a></li>
 </ul></div>
+
 

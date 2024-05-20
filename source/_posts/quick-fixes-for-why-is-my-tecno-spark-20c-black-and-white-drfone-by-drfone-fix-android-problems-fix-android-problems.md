@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Tecno Spark 20C Black and White | Dr.fone
-date: 2024-04-30T14:32:28.762Z
-updated: 2024-05-01T14:32:28.762Z
+date: 2024-05-19T03:59:08.506Z
+updated: 2024-05-20T03:59:08.506Z
 tags: 
   - problems
 categories:
@@ -700,4 +700,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Pova 5 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/unlock-locked-iphone-8-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 8 by restoring it to default settings</u></a></li>
 </ul></div>
+
 

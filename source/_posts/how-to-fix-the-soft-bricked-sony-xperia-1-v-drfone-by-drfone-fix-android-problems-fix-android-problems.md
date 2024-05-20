@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Sony Xperia 1 V? | Dr.fone
-date: 2024-04-30T14:19:05.186Z
-updated: 2024-05-01T14:19:05.186Z
+date: 2024-05-19T03:58:58.264Z
+updated: 2024-05-20T03:58:58.264Z
 tags: 
   - problems
 categories:
@@ -530,4 +530,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://animation-videos.techidaily.com/a-roster-of-15-best-disney-channel-cartoons-for-2024/"><u>A Roster of 15 Best Disney Channel Cartoons for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-trim-mkv-files-on-mac-the-top-3-software/"><u>New 2024 Approved Trim MKV Files on Mac The Top 3 Software</u></a></li>
 </ul></div>
+
 

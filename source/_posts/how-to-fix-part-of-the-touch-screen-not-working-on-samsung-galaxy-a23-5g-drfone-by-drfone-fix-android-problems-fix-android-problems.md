@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A23 5G | Dr.fone
-date: 2024-04-30T14:18:16.357Z
-updated: 2024-05-01T14:18:16.357Z
+date: 2024-05-19T03:58:57.861Z
+updated: 2024-05-20T03:58:57.861Z
 tags: 
   - problems
 categories:
@@ -646,4 +646,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-8-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 8</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2003-workbook-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2003 Workbook? | Stellar</u></a></li>
 </ul></div>
+
 

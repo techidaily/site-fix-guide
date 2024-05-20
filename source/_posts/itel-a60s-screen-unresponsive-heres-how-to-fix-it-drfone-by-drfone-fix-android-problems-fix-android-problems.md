@@ -1,7 +1,7 @@
 ---
 title: Itel A60s Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:03.649Z
-updated: 2024-05-01T14:27:03.649Z
+date: 2024-05-19T03:59:04.677Z
+updated: 2024-05-20T03:59:04.677Z
 tags: 
   - problems
 categories:
@@ -505,4 +505,5 @@ While there are many options to fix this error, only one is an excellent choice:
 <li><a href="https://howto.techidaily.com/why-your-realme-v30t-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme V30T Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-oppo-reno-11-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Oppo Reno 11 5G?</u></a></li>
 </ul></div>
+
 

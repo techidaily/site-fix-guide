@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme GT 5 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:51.466Z
-updated: 2024-05-01T14:23:51.466Z
+date: 2024-05-19T03:59:02.296Z
+updated: 2024-05-20T03:59:02.296Z
 tags: 
   - problems
 categories:
@@ -474,4 +474,5 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-use-zoom-in-google/"><u>Updated 2024 Approved How to Use Zoom in Google</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo FRP</u></a></li>
 </ul></div>
+
 

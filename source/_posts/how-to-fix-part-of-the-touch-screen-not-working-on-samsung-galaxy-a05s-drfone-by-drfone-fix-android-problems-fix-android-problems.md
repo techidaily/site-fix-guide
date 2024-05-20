@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A05s | Dr.fone
-date: 2024-04-30T14:18:15.466Z
-updated: 2024-05-01T14:18:15.466Z
+date: 2024-05-19T03:58:57.856Z
+updated: 2024-05-20T03:58:57.856Z
 tags: 
   - problems
 categories:
@@ -556,4 +556,5 @@ Now you know several methods that can work if the Android messaging app is not w
 <li><a href="https://phone-solutions.techidaily.com/does-motorola-moto-g34-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Motorola Moto G34 5G has native HEVC support?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-spark-go-2023-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Spark Go (2023) Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

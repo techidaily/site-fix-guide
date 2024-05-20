@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Asus ROG Phone 8 Pro | Dr.fone
-date: 2024-04-30T14:20:57.177Z
-updated: 2024-05-01T14:20:57.177Z
+date: 2024-05-19T03:58:59.731Z
+updated: 2024-05-20T03:58:59.731Z
 tags: 
   - problems
 categories:
@@ -572,4 +572,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-note-13-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi Note 13 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-13c-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

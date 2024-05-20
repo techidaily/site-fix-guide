@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Samsung Galaxy A05s | Dr.fone
-date: 2024-04-30T14:21:26.335Z
-updated: 2024-05-01T14:21:26.335Z
+date: 2024-05-19T03:59:00.149Z
+updated: 2024-05-20T03:59:00.149Z
 tags: 
   - problems
 categories:
@@ -588,4 +588,5 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 <li><a href="https://ai-video-apps.techidaily.com/updated-macvideo-editor/"><u>Updated MacVideo Editor</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-influencer-wondershare-virbo-glossary/"><u>What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
+
 

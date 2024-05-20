@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Lava Blaze 2 Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:04.489Z
-updated: 2024-05-01T14:32:04.489Z
+date: 2024-05-19T03:59:08.328Z
+updated: 2024-05-20T03:59:08.328Z
 tags: 
   - problems
 categories:
@@ -611,4 +611,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-realme-gt-neo-5-se-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Realme GT Neo 5 SE</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Nokia C210? | Dr.fone</u></a></li>
 </ul></div>
+
 

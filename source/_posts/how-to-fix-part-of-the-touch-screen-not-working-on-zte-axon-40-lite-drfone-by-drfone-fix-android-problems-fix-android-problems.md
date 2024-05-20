@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on ZTE Axon 40 Lite | Dr.fone
-date: 2024-04-30T14:18:32.166Z
-updated: 2024-05-01T14:18:32.166Z
+date: 2024-05-19T03:58:58.015Z
+updated: 2024-05-20T03:58:58.015Z
 tags: 
   - problems
 categories:
@@ -562,4 +562,5 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-customized-transitions-to-obs-for-2024/"><u>Updated How to Add Customized Transitions to OBS for 2024</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-oppo-find-x7-ultra-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Oppo Find X7 Ultra without backup.</u></a></li>
 </ul></div>
+
 

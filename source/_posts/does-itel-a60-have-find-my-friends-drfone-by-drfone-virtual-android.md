@@ -1,7 +1,7 @@
 ---
 title: Does Itel A60 Have Find My Friends? | Dr.fone
-date: 2024-04-30T14:16:14.991Z
-updated: 2024-05-01T14:16:14.991Z
+date: 2024-05-19T03:58:53.665Z
+updated: 2024-05-20T03:58:53.665Z
 tags: 
   - virtual location change
   - social app
@@ -460,4 +460,5 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 <li><a href="https://ai-vdieo-software.techidaily.com/10-easy-video-combining-tools-to-replace-software-this-year/"><u>10 Easy Video Combining Tools to Replace Software This Year</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6 Plus</u></a></li>
 </ul></div>
+
 

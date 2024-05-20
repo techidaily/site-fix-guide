@@ -1,7 +1,7 @@
 ---
 title: Itel A60 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:03.075Z
-updated: 2024-05-01T14:27:03.075Z
+date: 2024-05-19T03:59:04.668Z
+updated: 2024-05-20T03:59:04.668Z
 tags: 
   - problems
 categories:
@@ -500,4 +500,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://ai-editing-video.techidaily.com/new-ar-is-a-trend-these-days-here-you-can-browse-the-list-of-top-10-picks-for-ar-video-editing-apps/"><u>New AR Is a Trend These Days. Here, You Can Browse the List of Top 10 Picks for AR Video Editing Apps</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27e-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo V27e Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Infinix Hot 30i – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:46.480Z
-updated: 2024-05-01T14:27:46.480Z
+date: 2024-05-19T03:59:05.140Z
+updated: 2024-05-20T03:59:05.140Z
 tags: 
   - problems
 categories:
@@ -551,4 +551,5 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 <li><a href="https://animation-videos.techidaily.com/2024-approved-adobe-animate-text-effects-skills-that-you-need-to-know/"><u>2024 Approved Adobe Animate Text Effects Skills That You Need to Know</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v30-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V30</u></a></li>
 </ul></div>
+
 

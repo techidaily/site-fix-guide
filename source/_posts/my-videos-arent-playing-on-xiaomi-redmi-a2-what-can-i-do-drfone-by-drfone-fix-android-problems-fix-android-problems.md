@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Xiaomi Redmi A2 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:25.263Z
-updated: 2024-05-01T14:28:25.263Z
+date: 2024-05-19T03:59:05.581Z
+updated: 2024-05-20T03:59:05.581Z
 tags: 
   - problems
 categories:
@@ -576,4 +576,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on HTC U23 | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-13-mini-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 13 mini? How to Fix</u></a></li>
 </ul></div>
+
 

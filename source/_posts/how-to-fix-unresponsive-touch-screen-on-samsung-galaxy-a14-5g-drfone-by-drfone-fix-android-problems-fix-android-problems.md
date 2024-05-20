@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Samsung Galaxy A14 5G | Dr.fone
-date: 2024-04-30T14:21:26.718Z
-updated: 2024-05-01T14:21:26.718Z
+date: 2024-05-19T03:59:00.152Z
+updated: 2024-05-20T03:59:00.152Z
 tags: 
   - problems
 categories:
@@ -449,4 +449,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-redmi-13c-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi Redmi 13C Bypass FRP Tools for PC That Actually Work</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T14:26:31.160Z
-updated: 2024-05-01T14:26:31.160Z
+date: 2024-05-19T03:59:04.229Z
+updated: 2024-05-20T03:59:04.229Z
 tags: 
   - problems
 categories:
@@ -589,4 +589,5 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 <li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-15-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 15</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-tecno-spark-10-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Tecno Spark 10 5G for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

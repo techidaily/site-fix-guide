@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Lava Yuva 3 | Dr.fone
-date: 2024-04-30T14:21:07.603Z
-updated: 2024-05-01T14:21:07.603Z
+date: 2024-05-19T03:58:59.945Z
+updated: 2024-05-20T03:58:59.945Z
 tags: 
   - problems
 categories:
@@ -615,4 +615,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://meme-emoji.techidaily.com/updated-in-2024-10-trending-memes-right-now-include-image-gifvideo/"><u>Updated In 2024, 10 Trending Memes Right Now (Include Image/ GIF/Video)</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-itel-p55-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Itel P55 System Crash Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

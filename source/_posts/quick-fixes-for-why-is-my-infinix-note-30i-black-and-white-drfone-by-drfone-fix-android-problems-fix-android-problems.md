@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Infinix Note 30i Black and White | Dr.fone
-date: 2024-04-30T14:32:00.924Z
-updated: 2024-05-01T14:32:00.924Z
+date: 2024-05-19T03:59:08.264Z
+updated: 2024-05-20T03:59:08.264Z
 tags: 
   - problems
 categories:
@@ -538,4 +538,5 @@ For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reli
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-se-2020-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone SE (2020) With 7 Methods | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-motorola-defy-2-device-sim-by-drfone-android/"><u>Easily Unlock Your Motorola Defy 2 Device SIM</u></a></li>
 </ul></div>
+
 

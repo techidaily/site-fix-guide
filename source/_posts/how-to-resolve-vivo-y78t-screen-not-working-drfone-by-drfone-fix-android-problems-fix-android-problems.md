@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo Y78t Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:08.733Z
-updated: 2024-05-01T14:24:08.733Z
+date: 2024-05-19T03:59:02.474Z
+updated: 2024-05-20T03:59:02.474Z
 tags: 
   - problems
 categories:
@@ -484,4 +484,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://techidaily.com/hard-resetting-an-oneplus-nord-3-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus Nord 3 5G Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-redmi-note-12-proplus-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi Redmi Note 12 Pro+ 5G Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

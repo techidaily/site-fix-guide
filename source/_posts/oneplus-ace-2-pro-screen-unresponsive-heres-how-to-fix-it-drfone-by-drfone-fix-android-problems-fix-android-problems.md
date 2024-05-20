@@ -1,7 +1,7 @@
 ---
 title: OnePlus Ace 2 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:28:47.451Z
-updated: 2024-05-01T14:28:47.451Z
+date: 2024-05-19T03:59:05.857Z
+updated: 2024-05-20T03:59:05.857Z
 tags: 
   - problems
 categories:
@@ -477,4 +477,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-realme-12-pro-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Realme 12 Pro 5G</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-14-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 14 Plus Lock Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

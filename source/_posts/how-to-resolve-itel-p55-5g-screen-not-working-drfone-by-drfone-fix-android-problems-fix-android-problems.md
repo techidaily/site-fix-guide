@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Itel P55 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:32.453Z
-updated: 2024-05-01T14:23:32.453Z
+date: 2024-05-19T03:59:02.038Z
+updated: 2024-05-20T03:59:02.038Z
 tags: 
   - problems
 categories:
@@ -512,4 +512,5 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 <li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-realme-gt-5-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Realme GT 5</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c12-plus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C12 Plus</u></a></li>
 </ul></div>
+
 

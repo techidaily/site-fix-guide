@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Poco X5 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:48.615Z
-updated: 2024-05-01T14:23:48.615Z
+date: 2024-05-19T03:59:02.228Z
+updated: 2024-05-20T03:59:02.228Z
 tags: 
   - problems
 categories:
@@ -530,4 +530,5 @@ While there are many options to fix this error, only one is an excellent choice:
 <li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-itel-s23plus-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Itel S23+ Phone When You Forget the Password</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-a05-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy A05 FRP</u></a></li>
 </ul></div>
+
 

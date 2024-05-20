@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Motorola Moto G14 | Dr.fone
-date: 2024-04-30T14:20:20.228Z
-updated: 2024-05-01T14:20:20.228Z
+date: 2024-05-19T03:58:59.139Z
+updated: 2024-05-20T03:58:59.139Z
 tags: 
   - problems
 categories:
@@ -623,4 +623,5 @@ As much as factory mode can be a useful solution to a number of problems, it can
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c12-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C12 Pro</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-itel-p55-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Itel P55 5G Face Lock?</u></a></li>
 </ul></div>
+
 

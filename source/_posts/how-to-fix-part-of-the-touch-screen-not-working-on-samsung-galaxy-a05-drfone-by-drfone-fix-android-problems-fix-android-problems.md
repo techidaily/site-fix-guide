@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A05 | Dr.fone
-date: 2024-04-30T14:18:15.277Z
-updated: 2024-05-01T14:18:15.277Z
+date: 2024-05-19T03:58:57.855Z
+updated: 2024-05-20T03:58:57.855Z
 tags: 
   - problems
 categories:
@@ -623,4 +623,5 @@ After following these quick and easy suggestions, you would be able to fix the S
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c12-plus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C12 Plus</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-13-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 13 5G Phones with/without a PC</u></a></li>
 </ul></div>
+
 

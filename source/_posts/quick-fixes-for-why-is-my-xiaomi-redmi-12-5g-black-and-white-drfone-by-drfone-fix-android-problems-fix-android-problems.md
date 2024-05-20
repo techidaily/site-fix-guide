@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Xiaomi Redmi 12 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:36.154Z
-updated: 2024-05-01T14:32:36.154Z
+date: 2024-05-19T03:59:08.584Z
+updated: 2024-05-20T03:59:08.584Z
 tags: 
   - problems
 categories:
@@ -614,4 +614,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nokia-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nokia</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-do-datamoshing-effect-in-after-effects/"><u>Updated In 2024, How to Do Datamoshing Effect in After Effects?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme 10T 5G | Dr.fone
-date: 2024-04-30T14:21:22.067Z
-updated: 2024-05-01T14:21:22.067Z
+date: 2024-05-19T03:59:00.117Z
+updated: 2024-05-20T03:59:00.117Z
 tags: 
   - problems
 categories:
@@ -466,4 +466,5 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 8 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Lava Blaze 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

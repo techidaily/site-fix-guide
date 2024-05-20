@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor X9a Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:27.487Z
-updated: 2024-05-01T14:23:27.487Z
+date: 2024-05-19T03:59:01.945Z
+updated: 2024-05-20T03:59:01.945Z
 tags: 
   - problems
 categories:
@@ -584,4 +584,5 @@ As much as factory mode can be a useful solution to a number of problems, it can
 <li><a href="https://techidaily.com/undelete-lost-pictures-from-motorola-moto-g04-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Motorola Moto G04.</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oneplus-11r-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor OnePlus 11R Activity | Dr.fone</u></a></li>
 </ul></div>
+
 

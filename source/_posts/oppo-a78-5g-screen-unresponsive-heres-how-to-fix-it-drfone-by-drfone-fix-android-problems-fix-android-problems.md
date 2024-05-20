@@ -1,7 +1,7 @@
 ---
 title: Oppo A78 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:29:02.024Z
-updated: 2024-05-01T14:29:02.024Z
+date: 2024-05-19T03:59:06.045Z
+updated: 2024-05-20T03:59:06.045Z
 tags: 
   - problems
 categories:
@@ -404,4 +404,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://blog-min.techidaily.com/how-to-infinix-hot-30-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Infinix Hot 30 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/lock-your-itel-p40-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Itel P40 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
+
 

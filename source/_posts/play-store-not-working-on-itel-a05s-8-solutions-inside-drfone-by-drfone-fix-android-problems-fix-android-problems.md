@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Itel A05s? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:29.330Z
-updated: 2024-05-01T14:29:29.330Z
+date: 2024-05-19T03:59:06.306Z
+updated: 2024-05-20T03:59:06.306Z
 tags: 
   - problems
 categories:
@@ -535,4 +535,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://howto.techidaily.com/why-your-oppo-reno-10-proplus-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo Reno 10 Pro+ 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor X50? | Dr.fone</u></a></li>
 </ul></div>
+
 

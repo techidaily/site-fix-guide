@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Tecno Camon 20 Premier 5G | Dr.fone
-date: 2024-04-30T14:21:31.280Z
-updated: 2024-05-01T14:21:31.280Z
+date: 2024-05-19T03:59:00.245Z
+updated: 2024-05-20T03:59:00.245Z
 tags: 
   - problems
 categories:
@@ -648,4 +648,5 @@ The guide provided solutions for display issues and showcased the versatility of
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-spark-go-2024-by-drfone-android/"><u>How to Bypass FRP from Tecno Spark Go (2024)?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-trim-cut-an/"><u>Updated 2024 Approved Trim, Cut, An</u></a></li>
 </ul></div>
+
 

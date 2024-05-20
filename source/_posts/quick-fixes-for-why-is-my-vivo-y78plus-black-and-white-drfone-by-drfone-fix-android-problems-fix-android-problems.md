@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo Y78+ Black and White | Dr.fone
-date: 2024-04-30T14:32:34.816Z
-updated: 2024-05-01T14:32:34.816Z
+date: 2024-05-19T03:59:08.574Z
+updated: 2024-05-20T03:59:08.574Z
 tags: 
   - problems
 categories:
@@ -506,4 +506,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-13-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 13 Parental Restrictions With/Without Password</u></a></li>
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

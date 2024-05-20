@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Note 30 Pro | Dr.fone
-date: 2024-04-30T14:19:26.662Z
-updated: 2024-05-01T14:19:26.662Z
+date: 2024-05-19T03:58:58.518Z
+updated: 2024-05-20T03:58:58.518Z
 tags: 
   - problems
 categories:
@@ -534,4 +534,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-xs-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone XS Max to New iPhone | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-lite-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Lite 5G Phone without PIN</u></a></li>
 </ul></div>
+
 

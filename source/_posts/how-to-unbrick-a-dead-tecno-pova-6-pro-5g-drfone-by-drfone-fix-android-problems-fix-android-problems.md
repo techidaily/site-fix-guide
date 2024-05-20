@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Tecno Pova 6 Pro 5G | Dr.fone
-date: 2024-04-30T14:26:32.504Z
-updated: 2024-05-01T14:26:32.504Z
+date: 2024-05-19T03:59:04.239Z
+updated: 2024-05-20T03:59:04.239Z
 tags: 
   - problems
 categories:
@@ -611,4 +611,5 @@ It is our hope that when faced with this fairly common error, you will not panic
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-crop-and-trim-videos-online-for-free-with-kapwing-editor/"><u>2024 Approved Crop and Trim Videos Online for Free with Kapwing Editor</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V30 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

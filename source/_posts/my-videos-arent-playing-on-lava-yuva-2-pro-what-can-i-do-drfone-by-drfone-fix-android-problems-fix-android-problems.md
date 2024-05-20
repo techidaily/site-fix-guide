@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Lava Yuva 2 Pro – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:51.483Z
-updated: 2024-05-01T14:27:51.483Z
+date: 2024-05-19T03:59:05.219Z
+updated: 2024-05-20T03:59:05.219Z
 tags: 
   - problems
 categories:
@@ -521,4 +521,5 @@ To deal with an unresponsive screen, users can try restarting the Lava Yuva 2 Pr
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-motorola-edge-40-neo-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Edge 40 Neo Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Infinix GT 10 Pro | Dr.fone
-date: 2024-04-30T14:19:25.510Z
-updated: 2024-05-01T14:19:25.510Z
+date: 2024-05-19T03:58:58.502Z
+updated: 2024-05-20T03:58:58.502Z
 tags: 
   - problems
 categories:
@@ -494,4 +494,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-a24-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy A24 Wont Charge | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-infinix-gt-10-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Infinix GT 10 Pro</u></a></li>
 </ul></div>
+
 

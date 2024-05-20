@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T14:21:30.899Z
-updated: 2024-05-01T14:21:30.899Z
+date: 2024-05-19T03:59:00.241Z
+updated: 2024-05-20T03:59:00.241Z
 tags: 
   - problems
 categories:
@@ -675,4 +675,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-itel-s23plus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel S23+ in 5 Easy Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

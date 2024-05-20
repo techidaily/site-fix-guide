@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Pop 7 Pro | Dr.fone
-date: 2024-04-30T14:18:21.568Z
-updated: 2024-05-01T14:18:21.568Z
+date: 2024-05-19T03:58:57.913Z
+updated: 2024-05-20T03:58:57.913Z
 tags: 
   - problems
 categories:
@@ -591,4 +591,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-vivo-y36-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Vivo Y36</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Xiaomi 13T Pro Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

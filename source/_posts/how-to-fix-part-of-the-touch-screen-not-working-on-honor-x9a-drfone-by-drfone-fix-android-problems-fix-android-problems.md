@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor X9a | Dr.fone
-date: 2024-04-30T14:17:51.618Z
-updated: 2024-05-01T14:17:51.618Z
+date: 2024-05-19T03:58:57.415Z
+updated: 2024-05-20T03:58:57.415Z
 tags: 
   - problems
 categories:
@@ -536,4 +536,5 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-gt-10-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Infinix GT 10 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-top-7-mp4-video-editors-on-mac-edit-mp4-videos-easily/"><u>New In 2024, Top 7 MP4 Video Editors on Mac Edit MP4 Videos Easily</u></a></li>
 </ul></div>
+
 

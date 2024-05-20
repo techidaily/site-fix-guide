@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme V30T | Dr.fone
-date: 2024-04-30T14:18:15.084Z
-updated: 2024-05-01T14:18:15.084Z
+date: 2024-05-19T03:58:57.853Z
+updated: 2024-05-20T03:58:57.853Z
 tags: 
   - problems
 categories:
@@ -557,4 +557,5 @@ After following these quick and easy suggestions, you would be able to fix the R
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-change-video-resolution-in-filmora-for-2024/"><u>New How to Change Video Resolution in Filmora for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-remove-echo-from-videos-with-adobe-audition-for-2024/"><u>How to Remove Echo From Videos with Adobe Audition for 2024</u></a></li>
 </ul></div>
+
 

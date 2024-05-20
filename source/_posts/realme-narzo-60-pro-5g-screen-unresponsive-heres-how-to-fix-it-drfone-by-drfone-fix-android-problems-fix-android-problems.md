@@ -1,7 +1,7 @@
 ---
 title: Realme Narzo 60 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:56.889Z
-updated: 2024-05-01T14:32:56.889Z
+date: 2024-05-19T03:59:08.757Z
+updated: 2024-05-20T03:59:08.757Z
 tags: 
   - problems
 categories:
@@ -552,4 +552,5 @@ Hence in this article, we got to know about the error 495 and the possible solut
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-kapwing-editor-how-to-shorten-videos-online-without-downloading-software/"><u>Updated In 2024, Kapwing Editor How to Shorten Videos Online Without Downloading Software</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-audio-post-production-in-fcpx-l-cuts-j-cuts-and-more/"><u>Updated 2024 Approved Audio Post-Production in FCPX L-Cuts, J-Cuts, and More</u></a></li>
 </ul></div>
+
 

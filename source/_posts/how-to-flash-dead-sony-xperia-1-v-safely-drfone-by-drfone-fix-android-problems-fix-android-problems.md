@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Sony Xperia 1 V Safely | Dr.fone
-date: 2024-04-30T14:22:18.266Z
-updated: 2024-05-01T14:22:18.266Z
+date: 2024-05-19T03:59:01.013Z
+updated: 2024-05-20T03:59:01.013Z
 tags: 
   - problems
 categories:
@@ -531,4 +531,5 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 <li><a href="https://techidaily.com/remove-lava-agni-2-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Lava Agni 2 5G unlock screen</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-the-latest-100plus-best-tiktok-captions-to-improve-your-next-post-for-2024/"><u>New The Latest 100+ Best TikTok Captions to Improve Your Next Post for 2024</u></a></li>
 </ul></div>
+
 

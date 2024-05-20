@@ -1,7 +1,7 @@
 ---
 title: Realme Narzo N53 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:32:58.604Z
-updated: 2024-05-01T14:32:58.604Z
+date: 2024-05-19T03:59:08.767Z
+updated: 2024-05-20T03:59:08.767Z
 tags: 
   - problems
 categories:
@@ -481,4 +481,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://bypass-frp.techidaily.com/top-5-samsung-galaxy-a15-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy A15 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-infinix-zero-5g-2023-turbo-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Zero 5G 2023 Turbo phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y100t | Dr.fone
-date: 2024-04-30T14:18:26.910Z
-updated: 2024-05-01T14:18:26.910Z
+date: 2024-05-19T03:58:57.970Z
+updated: 2024-05-20T03:58:57.970Z
 tags: 
   - problems
 categories:
@@ -639,4 +639,5 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 <li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-x-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone X When You Forget the Passcode? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Realme C67 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

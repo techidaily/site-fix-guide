@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme GT 3 Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:51.086Z
-updated: 2024-05-01T14:23:51.086Z
+date: 2024-05-19T03:59:02.288Z
+updated: 2024-05-20T03:59:02.288Z
 tags: 
   - problems
 categories:
@@ -488,4 +488,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-motorola-moto-g24-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Motorola Moto G24 Quickly? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi Note 13 Pro 5G</u></a></li>
 </ul></div>
+
 

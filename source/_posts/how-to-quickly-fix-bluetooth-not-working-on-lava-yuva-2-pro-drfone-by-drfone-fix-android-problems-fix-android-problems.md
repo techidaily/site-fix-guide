@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T14:22:43.541Z
-updated: 2024-05-01T14:22:43.541Z
+date: 2024-05-19T03:59:01.357Z
+updated: 2024-05-20T03:59:01.357Z
 tags: 
   - problems
 categories:
@@ -575,4 +575,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-c32-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia C32 with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-m14-4g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy M14 4G Device</u></a></li>
 </ul></div>
+
 

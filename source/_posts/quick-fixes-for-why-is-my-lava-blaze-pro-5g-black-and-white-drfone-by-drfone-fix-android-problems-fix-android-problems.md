@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Lava Blaze Pro 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:04.871Z
-updated: 2024-05-01T14:32:04.871Z
+date: 2024-05-19T03:59:08.331Z
+updated: 2024-05-20T03:59:08.331Z
 tags: 
   - problems
 categories:
@@ -566,4 +566,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-make-memoji-talk-make-memoji-video-on-your-own/"><u>Updated In 2024, How to Make Memoji Talk-Make Memoji Video On Your Own</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-a38-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo A38</u></a></li>
 </ul></div>
+
 

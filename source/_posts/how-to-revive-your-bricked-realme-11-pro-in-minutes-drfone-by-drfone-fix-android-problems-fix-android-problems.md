@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Realme 11 Pro in Minutes | Dr.fone
-date: 2024-04-30T14:25:32.290Z
-updated: 2024-05-01T14:25:32.290Z
+date: 2024-05-19T03:59:03.467Z
+updated: 2024-05-20T03:59:03.467Z
 tags: 
   - problems
 categories:
@@ -671,4 +671,5 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 <li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-2010-step-by-step-guide-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel 2010 | Step-by-Step Guide</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-tecno-spark-10-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Tecno Spark 10 Pro Phone</u></a></li>
 </ul></div>
+
 

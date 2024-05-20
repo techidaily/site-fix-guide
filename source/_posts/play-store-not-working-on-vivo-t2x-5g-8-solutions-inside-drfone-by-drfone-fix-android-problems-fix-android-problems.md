@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Vivo T2x 5G? 8 Solutions Inside | Dr.fone
-date: 2024-04-30T14:29:54.833Z
-updated: 2024-05-01T14:29:54.833Z
+date: 2024-05-19T03:59:06.638Z
+updated: 2024-05-20T03:59:06.638Z
 tags: 
   - problems
 categories:
@@ -549,4 +549,5 @@ To sum up this article, it can be said that issues like ****Vivo T2x 5G not work
 <li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-g54-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of G54 5G using Video Repair Utility on Windows?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-itel-s23plus-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Itel S23+.</u></a></li>
 </ul></div>
+
 

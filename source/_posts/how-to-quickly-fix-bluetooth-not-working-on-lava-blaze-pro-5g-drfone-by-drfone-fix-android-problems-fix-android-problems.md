@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Lava Blaze Pro 5G | Dr.fone
-date: 2024-04-30T14:22:43.352Z
-updated: 2024-05-01T14:22:43.352Z
+date: 2024-05-19T03:59:01.355Z
+updated: 2024-05-20T03:59:01.355Z
 tags: 
   - problems
 categories:
@@ -455,4 +455,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-moto-g04-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Moto G04 Like A Pro 5 Easy Ways</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11</u></a></li>
 </ul></div>
+
 

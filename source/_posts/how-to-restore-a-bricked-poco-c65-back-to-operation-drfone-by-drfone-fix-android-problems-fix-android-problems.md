@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Poco C65 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:38.940Z
-updated: 2024-05-01T14:24:38.940Z
+date: 2024-05-19T03:59:02.985Z
+updated: 2024-05-20T03:59:02.985Z
 tags: 
   - problems
 categories:
@@ -535,4 +535,5 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>New 2024 Approved Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
 </ul></div>
+
 

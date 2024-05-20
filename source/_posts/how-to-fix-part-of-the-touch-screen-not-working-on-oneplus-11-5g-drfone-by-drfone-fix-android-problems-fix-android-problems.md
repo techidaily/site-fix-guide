@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus 11 5G | Dr.fone
-date: 2024-04-30T14:18:03.383Z
-updated: 2024-05-01T14:18:03.383Z
+date: 2024-05-19T03:58:57.524Z
+updated: 2024-05-20T03:58:57.524Z
 tags: 
   - problems
 categories:
@@ -611,4 +611,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-gt-10-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Infinix GT 10 Pro.</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-6s-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 6s Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
 </ul></div>
+
 

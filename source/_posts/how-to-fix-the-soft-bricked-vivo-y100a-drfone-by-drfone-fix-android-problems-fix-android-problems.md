@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y100A? | Dr.fone
-date: 2024-04-30T14:19:10.761Z
-updated: 2024-05-01T14:19:10.761Z
+date: 2024-05-19T03:58:58.341Z
+updated: 2024-05-20T03:58:58.341Z
 tags: 
   - problems
 categories:
@@ -474,4 +474,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-huawei-nova-y71-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Huawei Nova Y71 online without jailbreak</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-formula-to-animate-photos-from-10-animate-pictures-app-for-2024/"><u>New Formula to Animate Photos From 10 Animate Pictures App for 2024</u></a></li>
 </ul></div>
+
 

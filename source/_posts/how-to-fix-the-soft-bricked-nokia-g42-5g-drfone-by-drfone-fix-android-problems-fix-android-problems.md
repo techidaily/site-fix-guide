@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Nokia G42 5G? | Dr.fone
-date: 2024-04-30T14:18:48.285Z
-updated: 2024-05-01T14:18:48.285Z
+date: 2024-05-19T03:58:58.134Z
+updated: 2024-05-20T03:58:58.134Z
 tags: 
   - problems
 categories:
@@ -287,4 +287,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-t2-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo T2 Pro 5G to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/top-15-greatest-claymation-movies-of-all-time-for-2024/"><u>Top 15 Greatest Claymation Movies of All Time for 2024</u></a></li>
 </ul></div>
+
 

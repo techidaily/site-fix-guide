@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Oppo A18? | Dr.fone
-date: 2024-04-30T14:18:50.966Z
-updated: 2024-05-01T14:18:50.966Z
+date: 2024-05-19T03:58:58.160Z
+updated: 2024-05-20T03:58:58.160Z
 tags: 
   - problems
 categories:
@@ -607,4 +607,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://change-location.techidaily.com/honor-x50-gt-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X50 GT Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x9b-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X9b to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 </ul></div>
+
 

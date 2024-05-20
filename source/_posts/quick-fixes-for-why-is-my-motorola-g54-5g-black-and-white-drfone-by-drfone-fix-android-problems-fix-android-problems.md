@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Motorola G54 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:07.153Z
-updated: 2024-05-01T14:32:07.153Z
+date: 2024-05-19T03:59:08.344Z
+updated: 2024-05-20T03:59:08.344Z
 tags: 
   - problems
 categories:
@@ -679,4 +679,5 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 <li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-xiaomi-civi-3-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Xiaomi Civi 3</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Samsung Galaxy S23+?</u></a></li>
 </ul></div>
+
 

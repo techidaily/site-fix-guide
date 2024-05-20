@@ -1,7 +1,7 @@
 ---
 title: Oppo A18 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:28:56.021Z
-updated: 2024-05-01T14:28:56.021Z
+date: 2024-05-19T03:59:05.978Z
+updated: 2024-05-20T03:59:05.978Z
 tags: 
   - problems
 categories:
@@ -509,4 +509,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-oneplus-11-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your OnePlus 11 5G? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Motorola Razr 40 | Dr.fone</u></a></li>
 </ul></div>
+
 

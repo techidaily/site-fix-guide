@@ -1,7 +1,7 @@
 ---
 title: How To Unbrick a Dead Google Pixel Fold | Dr.fone
-date: 2024-04-30T14:25:57.729Z
-updated: 2024-05-01T14:25:57.729Z
+date: 2024-05-19T03:59:03.824Z
+updated: 2024-05-20T03:59:03.824Z
 tags: 
   - problems
 categories:
@@ -612,4 +612,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://ai-voice-clone.techidaily.com/new-the-best-text-to-video-ai-generator-tools-alternative-to-sora-for-2024/"><u>New The Best Text-to-Video AI Generator Tools Alternative to Sora for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-it-motorola-g24-power-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Motorola G24 Power Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

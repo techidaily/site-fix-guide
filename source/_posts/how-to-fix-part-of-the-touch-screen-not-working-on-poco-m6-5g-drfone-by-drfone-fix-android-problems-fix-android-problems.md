@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Poco M6 5G | Dr.fone
-date: 2024-04-30T14:18:10.450Z
-updated: 2024-05-01T14:18:10.450Z
+date: 2024-05-19T03:58:57.802Z
+updated: 2024-05-20T03:58:57.802Z
 tags: 
   - problems
 categories:
@@ -622,4 +622,5 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-motorola-moto-e13-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Motorola Moto E13 to New Android Phone? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-narzo-n55-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme Narzo N55</u></a></li>
 </ul></div>
+
 

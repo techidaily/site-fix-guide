@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Vivo G2 | Dr.fone
-date: 2024-04-30T14:19:56.433Z
-updated: 2024-05-01T14:19:56.433Z
+date: 2024-05-19T03:58:58.811Z
+updated: 2024-05-20T03:58:58.811Z
 tags: 
   - problems
 categories:
@@ -521,4 +521,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-marketing-for-2024/"><u>New What Is AI Marketing for 2024</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-itel-p55-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P55 5G without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 

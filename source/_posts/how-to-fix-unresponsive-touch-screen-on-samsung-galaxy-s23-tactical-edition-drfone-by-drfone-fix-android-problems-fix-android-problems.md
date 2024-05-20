@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Samsung Galaxy S23 Tactical Edition | Dr.fone
-date: 2024-04-30T14:21:29.743Z
-updated: 2024-05-01T14:21:29.743Z
+date: 2024-05-19T03:59:00.176Z
+updated: 2024-05-20T03:59:00.176Z
 tags: 
   - problems
 categories:
@@ -568,4 +568,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://iphone-unlock.techidaily.com/iphone-14-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 14 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/what-are-ar-emoji-stickers-and-how-to-add-them-to-your-video/"><u>What Are AR Emoji Stickers & How to Add Them to Your Video</u></a></li>
 </ul></div>
+
 

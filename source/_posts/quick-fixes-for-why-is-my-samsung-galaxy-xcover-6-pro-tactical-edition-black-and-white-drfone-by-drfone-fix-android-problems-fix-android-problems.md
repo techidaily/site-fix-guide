@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy XCover 6 Pro Tactical Edition Black and White | Dr.fone
-date: 2024-04-30T14:32:25.662Z
-updated: 2024-05-01T14:32:25.662Z
+date: 2024-05-19T03:59:08.482Z
+updated: 2024-05-20T03:59:08.482Z
 tags: 
   - problems
 categories:
@@ -573,4 +573,5 @@ However, by factory resetting your device, you can start again from the factory 
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-a23-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy A23 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-s17t-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo S17t | Dr.fone</u></a></li>
 </ul></div>
+
 

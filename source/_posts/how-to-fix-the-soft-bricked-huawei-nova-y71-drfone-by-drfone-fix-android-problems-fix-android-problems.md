@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Huawei Nova Y71? | Dr.fone
-date: 2024-04-30T14:18:36.976Z
-updated: 2024-05-01T14:18:36.976Z
+date: 2024-05-19T03:58:58.061Z
+updated: 2024-05-20T03:58:58.061Z
 tags: 
   - problems
 categories:
@@ -448,4 +448,5 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-i-got-free-after-effects-templates-slideshow-with-simple-trick-for-2024/"><u>Updated How I Got Free After Effects Templates Slideshow with Simple Trick for 2024</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/secret-source-to-make-a-stop-motion-puppet/"><u>Secret Source to Make a Stop Motion Puppet</u></a></li>
 </ul></div>
+
 

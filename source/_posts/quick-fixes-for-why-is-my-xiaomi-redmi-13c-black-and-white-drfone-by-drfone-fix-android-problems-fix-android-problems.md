@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Xiaomi Redmi 13C Black and White | Dr.fone
-date: 2024-04-30T14:32:36.403Z
-updated: 2024-05-01T14:32:36.403Z
+date: 2024-05-19T03:59:08.585Z
+updated: 2024-05-20T03:59:08.585Z
 tags: 
   - problems
 categories:
@@ -554,4 +554,5 @@ Android system recovery mode can be quite useful, especially when your system is
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Poco X6 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Nokia C300 | Dr.fone</u></a></li>
 </ul></div>
+
 

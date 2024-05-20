@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Infinix Note 30i? | Dr.fone
-date: 2024-04-30T14:18:39.182Z
-updated: 2024-05-01T14:18:39.182Z
+date: 2024-05-19T03:58:58.075Z
+updated: 2024-05-20T03:58:58.075Z
 tags: 
   - problems
 categories:
@@ -436,4 +436,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-y100-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Y100 Device</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-note-50-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme Note 50 PC | Dr.fone</u></a></li>
 </ul></div>
+
 

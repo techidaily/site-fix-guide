@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Honor X50i+ | Dr.fone
-date: 2024-04-30T14:21:00.580Z
-updated: 2024-05-01T14:21:00.580Z
+date: 2024-05-19T03:58:59.833Z
+updated: 2024-05-20T03:58:59.833Z
 tags: 
   - problems
 categories:
@@ -448,4 +448,5 @@ To sum up this article, it can be said that issues like ****Honor X50i+ not work
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo T2 5G | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-google-pixel-8-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Google Pixel 8 Pro</u></a></li>
 </ul></div>
+
 

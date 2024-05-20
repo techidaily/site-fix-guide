@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Tecno Spark 10 Pro – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:17.473Z
-updated: 2024-05-01T14:28:17.473Z
+date: 2024-05-19T03:59:05.457Z
+updated: 2024-05-20T03:59:05.457Z
 tags: 
   - problems
 categories:
@@ -586,4 +586,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://techidaily.com/recover-apple-iphone-se-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE Data From iOS iTunes Backup | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-a78-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo A78 5G FRP</u></a></li>
 </ul></div>
+
 

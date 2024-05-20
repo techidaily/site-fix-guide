@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme 12+ 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:50.134Z
-updated: 2024-05-01T14:23:50.134Z
+date: 2024-05-19T03:59:02.237Z
+updated: 2024-05-20T03:59:02.237Z
 tags: 
   - problems
 categories:
@@ -502,4 +502,5 @@ Doing all the recommended methods above usually solves the case. If the differen
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-mix-fold-3-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Mix Fold 3 System Crash Issue | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-x-flip-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo X Flip Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
 

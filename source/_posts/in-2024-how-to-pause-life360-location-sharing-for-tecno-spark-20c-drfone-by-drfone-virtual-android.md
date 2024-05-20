@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Tecno Spark 20C | Dr.fone
-date: 2024-04-30T14:16:49.545Z
-updated: 2024-05-01T14:16:49.545Z
+date: 2024-05-19T03:58:55.323Z
+updated: 2024-05-20T03:58:55.323Z
 tags: 
   - virtual location change
   - social app
@@ -420,4 +420,5 @@ You can share your live location on Viber just like you would on Facebook, Whats
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y100i-power-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y100i Power 5G</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-se-2022-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone SE (2022) Is Unlocked</u></a></li>
 </ul></div>
+
 

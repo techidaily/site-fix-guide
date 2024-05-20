@@ -1,7 +1,7 @@
 ---
 title: How To Restore a Bricked Motorola Moto G13 Back to Operation | Dr.fone
-date: 2024-04-30T14:24:28.098Z
-updated: 2024-05-01T14:24:28.098Z
+date: 2024-05-19T03:59:02.901Z
+updated: 2024-05-20T03:59:02.901Z
 tags: 
   - problems
 categories:
@@ -576,4 +576,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-split-videos-in-the-lightworks-step-by-step/"><u>New In 2024, Split Videos in the Lightworks Step by Step</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-s23-fe-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy S23 FE?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Hot 40 | Dr.fone
-date: 2024-04-30T14:17:52.970Z
-updated: 2024-05-01T14:17:52.970Z
+date: 2024-05-19T03:58:57.426Z
+updated: 2024-05-20T03:58:57.426Z
 tags: 
   - problems
 categories:
@@ -562,4 +562,5 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-y55s-5g-2023-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo Y55s 5G (2023) FRP In 3 Different Ways</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-separate-audio-from-video-in-davinci-resolve-step-by-step-for-2024/"><u>Updated Separate Audio From Video in DaVinci Resolve Step by Step for 2024</u></a></li>
 </ul></div>
+
 

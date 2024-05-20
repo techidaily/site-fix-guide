@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Samsung Galaxy M14 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:24.150Z
-updated: 2024-05-01T14:32:24.150Z
+date: 2024-05-19T03:59:08.471Z
+updated: 2024-05-20T03:59:08.471Z
 tags: 
   - problems
 categories:
@@ -508,4 +508,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the issue wi
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-se-2020-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone SE (2020) without Password?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/nokia-c300-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia C300 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
+
 

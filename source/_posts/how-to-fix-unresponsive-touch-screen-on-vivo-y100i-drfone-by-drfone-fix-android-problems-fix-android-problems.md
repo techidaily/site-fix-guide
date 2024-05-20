@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo Y100i | Dr.fone
-date: 2024-04-30T14:21:38.342Z
-updated: 2024-05-01T14:21:38.342Z
+date: 2024-05-19T03:59:00.300Z
+updated: 2024-05-20T03:59:00.300Z
 tags: 
   - problems
 categories:
@@ -638,4 +638,5 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 <li><a href="https://sim-unlock.techidaily.com/top-10-nokia-c02-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nokia C02 Android SIM Unlock APK</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus with a Mask On | Dr.fone</u></a></li>
 </ul></div>
+
 

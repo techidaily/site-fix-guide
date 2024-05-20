@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi 13C 5G | Dr.fone
-date: 2024-04-30T14:18:29.793Z
-updated: 2024-05-01T14:18:29.793Z
+date: 2024-05-19T03:58:57.991Z
+updated: 2024-05-20T03:58:57.991Z
 tags: 
   - problems
 categories:
@@ -589,4 +589,5 @@ It is our hope that when faced with this fairly common error, you will not panic
 <li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y28-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y28 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-asus-rog-phone-8-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Asus ROG Phone 8</u></a></li>
 </ul></div>
+
 

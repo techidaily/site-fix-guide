@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Xiaomi Redmi 13C 5G | Dr.fone
-date: 2024-04-30T14:21:41.780Z
-updated: 2024-05-01T14:21:41.780Z
+date: 2024-05-19T03:59:00.327Z
+updated: 2024-05-20T03:59:00.327Z
 tags: 
   - problems
 categories:
@@ -541,4 +541,5 @@ We believe that you will find the above methods helpful. However, if still in ca
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Huawei Nova Y91 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-hot-40-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Hot 40 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+
 

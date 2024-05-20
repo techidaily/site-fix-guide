@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Vivo Y36i | Dr.fone
-date: 2024-04-30T14:20:51.843Z
-updated: 2024-05-01T14:20:51.843Z
+date: 2024-05-19T03:58:59.654Z
+updated: 2024-05-20T03:58:59.654Z
 tags: 
   - problems
 categories:
@@ -526,4 +526,5 @@ By prioritizing user safety and following the step-by-step approach in this guid
 <li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-6-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 6 Plus?</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y27s | Dr.fone</u></a></li>
 </ul></div>
+
 

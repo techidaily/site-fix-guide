@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor X50 GT? | Dr.fone
-date: 2024-04-30T14:18:35.992Z
-updated: 2024-05-01T14:18:35.992Z
+date: 2024-05-19T03:58:58.054Z
+updated: 2024-05-20T03:58:58.054Z
 tags: 
   - problems
 categories:
@@ -441,4 +441,5 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro, Apples New iPhone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-6-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 6 Plus Without Previous Owner?</u></a></li>
 </ul></div>
+
 

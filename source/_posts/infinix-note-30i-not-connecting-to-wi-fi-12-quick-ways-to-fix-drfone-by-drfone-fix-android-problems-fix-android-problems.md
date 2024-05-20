@@ -1,7 +1,7 @@
 ---
 title: Infinix Note 30i Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-04-30T14:26:55.238Z
-updated: 2024-05-01T14:26:55.238Z
+date: 2024-05-19T03:59:04.558Z
+updated: 2024-05-20T03:59:04.558Z
 tags: 
   - problems
 categories:
@@ -577,4 +577,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-tecno-pova-5-pro-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Tecno Pova 5 Pro.</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Huawei P60 | Dr.fone</u></a></li>
 </ul></div>
+
 

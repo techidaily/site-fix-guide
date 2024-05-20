@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Samsung Galaxy F14 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:12.766Z
-updated: 2024-05-01T14:28:12.766Z
+date: 2024-05-19T03:59:05.400Z
+updated: 2024-05-20T03:59:05.400Z
 tags: 
   - problems
 categories:
@@ -442,4 +442,5 @@ For those who find themselves locked out of their Samsung Galaxy F14 5G devices,
 <li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-15-pro-max-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 15 Pro Max Before the Plan Expires</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-sony-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Sony</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Realme 11 Pro? | Dr.fone
-date: 2024-04-30T14:18:57.244Z
-updated: 2024-05-01T14:18:57.244Z
+date: 2024-05-19T03:58:58.207Z
+updated: 2024-05-20T03:58:58.208Z
 tags: 
   - problems
 categories:
@@ -547,4 +547,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 8 Plus | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-14-pro-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 14 Pro Device from iCloud</u></a></li>
 </ul></div>
+
 

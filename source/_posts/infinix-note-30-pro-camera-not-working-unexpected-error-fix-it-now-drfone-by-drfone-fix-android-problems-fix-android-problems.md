@@ -1,7 +1,7 @@
 ---
 title: Infinix Note 30 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:26:52.664Z
-updated: 2024-05-01T14:26:52.664Z
+date: 2024-05-19T03:59:04.524Z
+updated: 2024-05-20T03:59:04.524Z
 tags: 
   - problems
 categories:
@@ -493,4 +493,5 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 12 mini Without Passcode? 4 Easy Methods</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-record-super-slow-motion-videos-on-your-phone-in-2024/"><u>How to Record Super Slow Motion Videos on Your Phone, In 2024</u></a></li>
 </ul></div>
+
 

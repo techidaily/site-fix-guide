@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor X50i Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:26.891Z
-updated: 2024-05-01T14:23:26.891Z
+date: 2024-05-19T03:59:01.941Z
+updated: 2024-05-20T03:59:01.941Z
 tags: 
   - problems
 categories:
@@ -491,4 +491,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-t2x-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo T2x 5G System Crash Issue | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-xiaomi-redmi-a2plus-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Xiaomi Redmi A2+ FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

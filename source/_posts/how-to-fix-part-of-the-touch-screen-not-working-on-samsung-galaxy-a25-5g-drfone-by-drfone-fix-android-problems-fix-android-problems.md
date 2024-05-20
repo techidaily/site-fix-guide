@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A25 5G | Dr.fone
-date: 2024-04-30T14:18:16.548Z
-updated: 2024-05-01T14:18:16.548Z
+date: 2024-05-19T03:58:57.862Z
+updated: 2024-05-20T03:58:57.862Z
 tags: 
   - problems
 categories:
@@ -561,4 +561,5 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-gt-neo-5-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme GT Neo 5 Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme C53 | Dr.fone</u></a></li>
 </ul></div>
+
 

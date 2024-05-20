@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T14:17:57.877Z
-updated: 2024-05-01T14:17:57.877Z
+date: 2024-05-19T03:58:57.480Z
+updated: 2024-05-20T03:58:57.480Z
 tags: 
   - problems
 categories:
@@ -569,4 +569,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-12-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi 12 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-elevate-your-video-editing-skills-mastering-3d-effect/"><u>Updated In 2024, Elevate Your Video Editing Skills Mastering 3D Effect</u></a></li>
 </ul></div>
+
 

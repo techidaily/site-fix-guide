@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Xiaomi Redmi Note 12 4G Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:11.221Z
-updated: 2024-05-01T14:24:11.221Z
+date: 2024-05-19T03:59:02.492Z
+updated: 2024-05-20T03:59:02.492Z
 tags: 
   - problems
 categories:
@@ -575,4 +575,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo T2x 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-poco-m6-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Poco M6 Pro 5G to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

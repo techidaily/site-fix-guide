@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Honor X50i Black and White | Dr.fone
-date: 2024-04-30T14:31:58.396Z
-updated: 2024-05-01T14:31:58.396Z
+date: 2024-05-19T03:59:08.249Z
+updated: 2024-05-20T03:59:08.249Z
 tags: 
   - problems
 categories:
@@ -576,4 +576,5 @@ With all the provided methods, we do hope that you will be able to restore the s
 <li><a href="https://techidaily.com/best-fixes-for-infinix-smart-7-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Smart 7 HD Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

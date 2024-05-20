@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nokia C12 Plus Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:38.206Z
-updated: 2024-05-01T14:23:38.206Z
+date: 2024-05-19T03:59:02.095Z
+updated: 2024-05-20T03:59:02.095Z
 tags: 
   - problems
 categories:
@@ -524,4 +524,5 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 <li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy F04 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

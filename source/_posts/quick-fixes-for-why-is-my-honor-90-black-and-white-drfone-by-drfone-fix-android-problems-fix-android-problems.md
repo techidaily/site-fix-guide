@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Honor 90 Black and White | Dr.fone
-date: 2024-04-30T14:31:55.482Z
-updated: 2024-05-01T14:31:55.482Z
+date: 2024-05-19T03:59:08.207Z
+updated: 2024-05-20T03:59:08.207Z
 tags: 
   - problems
 categories:
@@ -566,4 +566,5 @@ So go ahead and try them out now!
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-find-n3-flip-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Find N3 Flip by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-free-video-editing-apps-for-chromebooks-for-2024/"><u>Discover the Best Free Video Editing Apps for Chromebooks for 2024</u></a></li>
 </ul></div>
+
 

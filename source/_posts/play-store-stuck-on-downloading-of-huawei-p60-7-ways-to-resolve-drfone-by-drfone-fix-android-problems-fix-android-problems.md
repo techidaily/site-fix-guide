@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Huawei P60? 7 Ways to Resolve | Dr.fone
-date: 2024-04-30T14:30:12.043Z
-updated: 2024-05-01T14:30:12.043Z
+date: 2024-05-19T03:59:06.813Z
+updated: 2024-05-20T03:59:06.813Z
 tags: 
   - problems
 categories:
@@ -630,4 +630,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-y28-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo Y28 5G to iPad Easily | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-realme-by-fonelab-android-recover-video/"><u>How to recover old videos from your Realme</u></a></li>
 </ul></div>
+
 

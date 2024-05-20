@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Nokia C12 Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:10.117Z
-updated: 2024-05-01T14:32:10.117Z
+date: 2024-05-19T03:59:08.366Z
+updated: 2024-05-20T03:59:08.366Z
 tags: 
   - problems
 categories:
@@ -540,4 +540,5 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Nokia 
 <li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Tecno Spark 20C | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-12-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 12 IMEI Checker</u></a></li>
 </ul></div>
+
 

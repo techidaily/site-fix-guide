@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A15 5G | Dr.fone
-date: 2024-04-30T14:18:16.166Z
-updated: 2024-05-01T14:18:16.166Z
+date: 2024-05-19T03:58:57.860Z
+updated: 2024-05-20T03:58:57.860Z
 tags: 
   - problems
 categories:
@@ -613,4 +613,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-f14-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy F14 5G to New Phone | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-13-proplus-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 13 Pro+ 5G Phone FRP Lock</u></a></li>
 </ul></div>
+
 

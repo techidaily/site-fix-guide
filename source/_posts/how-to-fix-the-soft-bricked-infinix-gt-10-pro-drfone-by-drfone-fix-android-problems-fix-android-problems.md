@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Infinix GT 10 Pro? | Dr.fone
-date: 2024-04-30T14:18:37.362Z
-updated: 2024-05-01T14:18:37.362Z
+date: 2024-05-19T03:58:58.063Z
+updated: 2024-05-20T03:58:58.063Z
 tags: 
   - problems
 categories:
@@ -424,4 +424,5 @@ To deal with an unresponsive screen, users can try restarting the Infinix GT 10 
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-take-your-mobile-photography-to-the-next-level-best-time-lapse-apps/"><u>2024 Approved Take Your Mobile Photography to the Next Level Best Time-Lapse Apps</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 14 | Dr.fone</u></a></li>
 </ul></div>
+
 

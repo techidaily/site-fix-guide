@@ -1,7 +1,7 @@
 ---
 title: Infinix Hot 40 Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:26:49.178Z
-updated: 2024-05-01T14:26:49.178Z
+date: 2024-05-19T03:59:04.496Z
+updated: 2024-05-20T03:59:04.496Z
 tags: 
   - problems
 categories:
@@ -625,4 +625,5 @@ But among the methods discussed above, Dr.Fone – System Repair just stood out 
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-nubia-red-magic-8s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-moto-g04-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Moto G04 without backup.</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Infinix Note 30i Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-04-30T14:26:55.048Z
-updated: 2024-05-01T14:26:55.048Z
+date: 2024-05-19T03:59:04.554Z
+updated: 2024-05-20T03:59:04.554Z
 tags: 
   - problems
 categories:
@@ -508,4 +508,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-asus-rog-phone-8-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Asus ROG Phone 8 Pro to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-honor-x9b-device-sim-by-drfone-android/"><u>Easily Unlock Your Honor X9b Device SIM</u></a></li>
 </ul></div>
+
 

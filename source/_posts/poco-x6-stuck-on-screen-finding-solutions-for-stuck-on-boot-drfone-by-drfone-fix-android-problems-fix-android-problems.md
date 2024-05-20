@@ -1,7 +1,7 @@
 ---
 title: Poco X6 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-04-30T14:31:04.373Z
-updated: 2024-05-01T14:31:04.373Z
+date: 2024-05-19T03:59:07.310Z
+updated: 2024-05-20T03:59:07.310Z
 tags: 
   - problems
 categories:
@@ -530,4 +530,5 @@ However, if your screen is broken or cracked, going to an authorized service cen
 <li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 Pro | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-13-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 13 to Android | Dr.fone</u></a></li>
 </ul></div>
+
 

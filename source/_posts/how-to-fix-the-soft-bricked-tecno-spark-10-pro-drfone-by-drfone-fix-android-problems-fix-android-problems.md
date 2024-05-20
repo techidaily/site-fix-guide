@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Tecno Spark 10 Pro? | Dr.fone
-date: 2024-04-30T14:19:07.319Z
-updated: 2024-05-01T14:19:07.319Z
+date: 2024-05-19T03:58:58.281Z
+updated: 2024-05-20T03:58:58.281Z
 tags: 
   - problems
 categories:
@@ -471,4 +471,5 @@ The above methods are the best 11 among all the solutions you can get for your P
 <li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-12-mini-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 12 mini Screen on PC Easily? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-c02-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia C02? Here Are Real Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y17s | Dr.fone
-date: 2024-04-30T14:18:27.101Z
-updated: 2024-05-01T14:18:27.101Z
+date: 2024-05-19T03:58:57.971Z
+updated: 2024-05-20T03:58:57.971Z
 tags: 
   - problems
 categories:
@@ -523,4 +523,5 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 <li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Poco X5 | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone X</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Xiaomi Redmi 12 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:24.883Z
-updated: 2024-05-01T14:28:24.883Z
+date: 2024-05-19T03:59:05.577Z
+updated: 2024-05-20T03:59:05.577Z
 tags: 
   - problems
 categories:
@@ -537,4 +537,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia 130 Music? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y100-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y100? Fix Now | Dr.fone</u></a></li>
 </ul></div>
+
 

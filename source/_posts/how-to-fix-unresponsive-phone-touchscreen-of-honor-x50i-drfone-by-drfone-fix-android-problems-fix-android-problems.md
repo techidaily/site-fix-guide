@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Honor X50i | Dr.fone
-date: 2024-04-30T14:20:12.612Z
-updated: 2024-05-01T14:20:12.612Z
+date: 2024-05-19T03:58:59.041Z
+updated: 2024-05-20T03:58:59.041Z
 tags: 
   - problems
 categories:
@@ -630,4 +630,5 @@ Remember to back up your data before attempting any fixes and to seek profession
 <li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-s17-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo S17 Pro</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/forgot-your-oppo-find-x6-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Oppo Find X6 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
 </ul></div>
+
 

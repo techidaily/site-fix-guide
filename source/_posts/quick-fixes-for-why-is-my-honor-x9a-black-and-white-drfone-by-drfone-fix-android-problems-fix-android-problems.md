@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Honor X9a Black and White | Dr.fone
-date: 2024-04-30T14:31:58.993Z
-updated: 2024-05-01T14:31:58.993Z
+date: 2024-05-19T03:59:08.253Z
+updated: 2024-05-20T03:59:08.253Z
 tags: 
   - problems
 categories:
@@ -569,4 +569,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-ace-2-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Ace 2 to BlackBerry | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a05-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A05 Phone without PIN</u></a></li>
 </ul></div>
+
 

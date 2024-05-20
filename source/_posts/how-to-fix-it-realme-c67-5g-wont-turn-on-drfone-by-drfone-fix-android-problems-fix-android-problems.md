@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Realme C67 5G Wont Turn On | Dr.fone
-date: 2024-04-30T14:17:28.166Z
-updated: 2024-05-01T14:17:28.166Z
+date: 2024-05-19T03:58:57.159Z
+updated: 2024-05-20T03:58:57.159Z
 tags: 
   - problems
 categories:
@@ -571,4 +571,5 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 <li><a href="https://ai-editing-video.techidaily.com/new-deleting-white-background-in-photoshop-is-hard-for-2024/"><u>New Deleting White Background in Photoshop Is Hard for 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-6-plus-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 6 Plus without Password?</u></a></li>
 </ul></div>
+
 

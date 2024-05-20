@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Vivo S18 Black and White | Dr.fone
-date: 2024-04-30T14:32:29.713Z
-updated: 2024-05-01T14:32:29.713Z
+date: 2024-05-19T03:59:08.513Z
+updated: 2024-05-20T03:59:08.513Z
 tags: 
   - problems
 categories:
@@ -467,4 +467,5 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a78-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A78 5G? | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/15-best-video-to-gif-app-on-iphone-and-android/"><u>15 Best Video to GIF App on iPhone and Android</u></a></li>
 </ul></div>
+
 

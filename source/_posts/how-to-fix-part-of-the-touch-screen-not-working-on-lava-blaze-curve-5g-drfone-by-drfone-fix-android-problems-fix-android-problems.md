@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Blaze Curve 5G | Dr.fone
-date: 2024-04-30T14:17:57.281Z
-updated: 2024-05-01T14:17:57.281Z
+date: 2024-05-19T03:58:57.475Z
+updated: 2024-05-20T03:58:57.475Z
 tags: 
   - problems
 categories:
@@ -540,4 +540,5 @@ By prioritizing user safety and following the step-by-step approach in this guid
 <li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-tecno-camon-20-pro-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Tecno Camon 20 Pro 5G</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 12 Pro</u></a></li>
 </ul></div>
+
 

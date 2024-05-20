@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Realme Note 50 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:10.632Z
-updated: 2024-05-01T14:28:10.632Z
+date: 2024-05-19T03:59:05.384Z
+updated: 2024-05-20T03:59:05.384Z
 tags: 
   - problems
 categories:
@@ -532,4 +532,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-realme-12-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Realme 12 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 11 | Dr.fone</u></a></li>
 </ul></div>
+
 

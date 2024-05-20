@@ -1,7 +1,7 @@
 ---
 title: Itel P55 5G Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:27:07.490Z
-updated: 2024-05-01T14:27:07.490Z
+date: 2024-05-19T03:59:04.734Z
+updated: 2024-05-20T03:59:04.734Z
 tags: 
   - problems
 categories:
@@ -462,4 +462,5 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-itel-a05s-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Itel A05s Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-it-lava-yuva-2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Lava Yuva 2 Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

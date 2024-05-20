@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nubia Z50S Pro Screen Not Working | Dr.fone
-date: 2024-04-30T14:23:40.622Z
-updated: 2024-05-01T14:23:40.622Z
+date: 2024-05-19T03:59:02.112Z
+updated: 2024-05-20T03:59:02.112Z
 tags: 
   - problems
 categories:
@@ -504,4 +504,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-oneplus-12-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of OnePlus 12?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy A34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

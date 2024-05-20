@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y78t | Dr.fone
-date: 2024-04-30T14:18:28.263Z
-updated: 2024-05-01T14:18:28.263Z
+date: 2024-05-19T03:58:57.980Z
+updated: 2024-05-20T03:58:57.980Z
 tags: 
   - problems
 categories:
@@ -644,4 +644,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-v30-lite-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo V30 Lite 5G</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia C210 FRP?</u></a></li>
 </ul></div>
+
 

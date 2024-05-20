@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Realme C53 | Dr.fone
-date: 2024-04-30T14:21:23.603Z
-updated: 2024-05-01T14:21:23.603Z
+date: 2024-05-19T03:59:00.129Z
+updated: 2024-05-20T03:59:00.129Z
 tags: 
   - problems
 categories:
@@ -531,4 +531,5 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
 <li><a href="https://techidaily.com/how-to-reset-vivo-y100t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100t without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Motorola Moto G14 | Dr.fone</u></a></li>
 </ul></div>
+
 

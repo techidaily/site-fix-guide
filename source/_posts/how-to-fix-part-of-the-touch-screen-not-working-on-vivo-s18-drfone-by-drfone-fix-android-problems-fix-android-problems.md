@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo S18 | Dr.fone
-date: 2024-04-30T14:18:24.018Z
-updated: 2024-05-01T14:18:24.018Z
+date: 2024-05-19T03:58:57.943Z
+updated: 2024-05-20T03:58:57.943Z
 tags: 
   - problems
 categories:
@@ -671,4 +671,5 @@ If you think the issue is with your Android system, or your device becomes brick
 <li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XR Without Losing Data? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco M6 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Lava Yuva 2 | Dr.fone
-date: 2024-04-30T14:19:30.770Z
-updated: 2024-05-01T14:19:30.770Z
+date: 2024-05-19T03:58:58.569Z
+updated: 2024-05-20T03:58:58.569Z
 tags: 
   - problems
 categories:
@@ -530,4 +530,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-boring-videos-look-cool-by-b-rolls-for-2024/"><u>Updated How to Make Boring Videos Look Cool By B Rolls for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-phantom-v-flip-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Phantom V Flip is off? | Dr.fone</u></a></li>
 </ul></div>
+
 

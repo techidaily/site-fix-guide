@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix GT 10 Pro | Dr.fone
-date: 2024-04-30T14:17:52.567Z
-updated: 2024-05-01T14:17:52.567Z
+date: 2024-05-19T03:58:57.423Z
+updated: 2024-05-20T03:58:57.423Z
 tags: 
   - problems
 categories:
@@ -593,4 +593,5 @@ When persistent issues arise, especially if other apps are affected similarly, W
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-preserve-audio-perfection-how-to-convert-video-to-mp3/"><u>In 2024, Preserve Audio Perfection How to Convert Video to MP3</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-g54-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola G54 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo Y78+ Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:08.544Z
-updated: 2024-05-01T14:24:08.544Z
+date: 2024-05-19T03:59:02.473Z
+updated: 2024-05-20T03:59:02.473Z
 tags: 
   - problems
 categories:
@@ -406,4 +406,5 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-c53-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme C53 Pattern Lock Screen</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-huawei-nova-y91-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Huawei Nova Y91 FRP Bypass</u></a></li>
 </ul></div>
+
 

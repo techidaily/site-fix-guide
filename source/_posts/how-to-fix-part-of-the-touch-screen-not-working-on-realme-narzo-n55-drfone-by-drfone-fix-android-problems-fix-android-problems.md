@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme Narzo N55 | Dr.fone
-date: 2024-04-30T14:18:14.510Z
-updated: 2024-05-01T14:18:14.510Z
+date: 2024-05-19T03:58:57.849Z
+updated: 2024-05-20T03:58:57.849Z
 tags: 
   - problems
 categories:
@@ -708,4 +708,5 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-create-your-own-luts-for-your-video-with-filmora/"><u>Updated In 2024, How to Create Your Own LUTs for Your Video with Filmora</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-nubia-z50-ultra-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Nubia Z50 Ultra Face Lock?</u></a></li>
 </ul></div>
+
 

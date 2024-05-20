@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Tecno Camon 20 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:16.116Z
-updated: 2024-05-01T14:28:16.116Z
+date: 2024-05-19T03:59:05.447Z
+updated: 2024-05-20T03:59:05.447Z
 tags: 
   - problems
 categories:
@@ -508,4 +508,5 @@ It is important to note that your phone contains some important data. Therefore,
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo T2 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-10-best-free-video-player-for-windows-11/"><u>2024 Approved 10 Best Free Video Player for Windows 11</u></a></li>
 </ul></div>
+
 

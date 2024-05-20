@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Poco C50? | Dr.fone
-date: 2024-04-30T14:18:55.537Z
-updated: 2024-05-01T14:18:55.537Z
+date: 2024-05-19T03:58:58.196Z
+updated: 2024-05-20T03:58:58.196Z
 tags: 
   - problems
 categories:
@@ -401,4 +401,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-7-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 7 Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-14-pro-max-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 14 Pro Max without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

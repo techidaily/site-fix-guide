@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Motorola Moto G73 5G Black and White | Dr.fone
-date: 2024-04-30T14:32:08.489Z
-updated: 2024-05-01T14:32:08.489Z
+date: 2024-05-19T03:59:08.354Z
+updated: 2024-05-20T03:59:08.354Z
 tags: 
   - problems
 categories:
@@ -564,4 +564,5 @@ Lastly, you can still refer to Motorola Moto G73 5G for repairs. It remains the 
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-video-aspect-ratio-how-to-adjust-and-customize/"><u>Updated 2024 Approved Video Aspect Ratio How to Adjust and Customize</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-honor-magic-6-lite-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Honor Magic 6 Lite Phone</u></a></li>
 </ul></div>
+
 

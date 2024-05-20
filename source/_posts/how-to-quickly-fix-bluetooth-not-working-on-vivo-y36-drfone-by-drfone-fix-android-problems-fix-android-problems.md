@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Vivo Y36 | Dr.fone
-date: 2024-04-30T14:23:14.550Z
-updated: 2024-05-01T14:23:14.550Z
+date: 2024-05-19T03:59:01.752Z
+updated: 2024-05-20T03:59:01.752Z
 tags: 
   - problems
 categories:
@@ -525,4 +525,5 @@ If none of the above methods worked for you, the last resort you are left with i
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-a-slideshow-in-powerpoint/"><u>Updated In 2024, How to Add a Slideshow in PowerPoint</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-by-drfone-ios/"><u>How to Unlock iPhone 6s?</u></a></li>
 </ul></div>
+
 

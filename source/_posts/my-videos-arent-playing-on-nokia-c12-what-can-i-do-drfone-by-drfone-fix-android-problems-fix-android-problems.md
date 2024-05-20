@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Nokia C12 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:56.198Z
-updated: 2024-05-01T14:27:56.198Z
+date: 2024-05-19T03:59:05.261Z
+updated: 2024-05-20T03:59:05.261Z
 tags: 
   - problems
 categories:
@@ -517,4 +517,5 @@ The safe mode is a very useful program for any Android device. But it limits the
 <li><a href="https://ai-video-editing.techidaily.com/how-to-loop-video-in-canva-for-2024/"><u>How to Loop Video in Canva for 2024</u></a></li>
 <li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-lava-storm-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Lava Storm 5G FRP</u></a></li>
 </ul></div>
+
 

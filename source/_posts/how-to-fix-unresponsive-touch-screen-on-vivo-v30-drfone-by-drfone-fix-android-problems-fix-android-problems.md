@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Vivo V30 | Dr.fone
-date: 2024-04-30T14:21:37.000Z
-updated: 2024-05-01T14:21:37.000Z
+date: 2024-05-19T03:59:00.289Z
+updated: 2024-05-20T03:59:00.289Z
 tags: 
   - problems
 categories:
@@ -617,4 +617,5 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lava Agni 2 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-k70-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi K70 Pro ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

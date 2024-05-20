@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Itel P55T | Dr.fone
-date: 2024-04-30T14:21:05.496Z
-updated: 2024-05-01T14:21:05.496Z
+date: 2024-05-19T03:58:59.872Z
+updated: 2024-05-20T03:58:59.872Z
 tags: 
   - problems
 categories:
@@ -532,4 +532,5 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 <li><a href="https://techidaily.com/remove-vivo-y100a-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Vivo Y100A unlock screen</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-does-htc-u23-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does HTC U23 Pro Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Infinix Smart 8 HD Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-04-30T14:26:57.845Z
-updated: 2024-05-01T14:26:57.845Z
+date: 2024-05-19T03:59:04.574Z
+updated: 2024-05-20T03:59:04.574Z
 tags: 
   - problems
 categories:
@@ -686,4 +686,5 @@ Android system recovery mode can be quite useful, especially when your system is
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme 12 Pro+ 5G</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-7-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 7 in the Best Ways</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Infinix Hot 30 5G | Dr.fone
-date: 2024-04-30T14:20:13.973Z
-updated: 2024-05-01T14:20:13.973Z
+date: 2024-05-19T03:58:59.051Z
+updated: 2024-05-20T03:58:59.051Z
 tags: 
   - problems
 categories:
@@ -614,4 +614,5 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 8 Plus without Password?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
 </ul></div>
+
 

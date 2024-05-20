@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Motorola Moto E13 Black and White | Dr.fone
-date: 2024-04-30T14:32:07.347Z
-updated: 2024-05-01T14:32:07.347Z
+date: 2024-05-19T03:59:08.346Z
+updated: 2024-05-20T03:59:08.346Z
 tags: 
   - problems
 categories:
@@ -615,4 +615,5 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Google Pixel Fold? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-intros-top-10-websites-with-free-and-paid-options-for-2024/"><u>Create Stunning Intros Top 10 Websites with Free and Paid Options for 2024</u></a></li>
 </ul></div>
+
 

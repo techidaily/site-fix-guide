@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Defy 2 | Dr.fone
-date: 2024-04-30T14:19:31.917Z
-updated: 2024-05-01T14:19:31.917Z
+date: 2024-05-19T03:58:58.579Z
+updated: 2024-05-20T03:58:58.579Z
 tags: 
   - problems
 categories:
@@ -543,4 +543,5 @@ Make sure you back up your personal files from your device first like your photo
 <li><a href="https://ai-editing-video.techidaily.com/new-when-the-talk-is-about-an-effective-slideshow-design-people-also-ask-of-creating-a-quick-windows-10-slideshow-keep-reading-to-know-about-the-quickest-wa/"><u>New When the Talk Is About an Effective Slideshow Design, People Also Ask of Creating a Quick Windows 10 Slideshow. Keep Reading to Know About the Quickest Ways of Setting the Issue Straight</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Infinix Hot 30i Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-04-30T14:26:48.797Z
-updated: 2024-05-01T14:26:48.797Z
+date: 2024-05-19T03:59:04.493Z
+updated: 2024-05-20T03:59:04.493Z
 tags: 
   - problems
 categories:
@@ -457,4 +457,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-miniature-effect-in-video-with-filmora/"><u>Updated In 2024, How to Add Miniature Effect in Video with Filmora</u></a></li>
 </ul></div>
+
 

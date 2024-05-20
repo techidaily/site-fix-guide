@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Spark 10C | Dr.fone
-date: 2024-04-30T14:18:22.723Z
-updated: 2024-05-01T14:18:22.723Z
+date: 2024-05-19T03:58:57.920Z
+updated: 2024-05-20T03:58:57.920Z
 tags: 
   - problems
 categories:
@@ -635,4 +635,5 @@ After following these quick and easy suggestions, you would be able to fix the T
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Honor Magic 6 Pro | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

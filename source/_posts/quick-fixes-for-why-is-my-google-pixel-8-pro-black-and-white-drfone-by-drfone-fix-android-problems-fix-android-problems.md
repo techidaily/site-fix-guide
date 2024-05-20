@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Google Pixel 8 Pro Black and White | Dr.fone
-date: 2024-04-30T14:31:54.349Z
-updated: 2024-05-01T14:31:54.349Z
+date: 2024-05-19T03:59:08.199Z
+updated: 2024-05-20T03:59:08.199Z
 tags: 
   - problems
 categories:
@@ -617,4 +617,5 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-6s-by-drfone-ios/"><u>How to Unlock Verizon iPhone 6s</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-tips-to-create-animated-social-media-posts-in-canva/"><u>New 2024 Approved Tips to Create Animated Social Media Posts in Canva</u></a></li>
 </ul></div>
+
 

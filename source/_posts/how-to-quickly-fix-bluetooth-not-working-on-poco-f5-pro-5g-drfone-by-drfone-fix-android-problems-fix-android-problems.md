@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Poco F5 Pro 5G | Dr.fone
-date: 2024-04-30T14:22:56.637Z
-updated: 2024-05-01T14:22:56.637Z
+date: 2024-05-19T03:59:01.555Z
+updated: 2024-05-20T03:59:01.555Z
 tags: 
   - problems
 categories:
@@ -584,4 +584,5 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-what-is-ts-format-and-how-to-play-ts-files-basic-tips/"><u>2024 Approved What Is TS Format and How To Play TS Files? Basic Tips</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-loop-videos-with-filmora/"><u>Updated How to Create Loop Videos with Filmora</u></a></li>
 </ul></div>
+
 

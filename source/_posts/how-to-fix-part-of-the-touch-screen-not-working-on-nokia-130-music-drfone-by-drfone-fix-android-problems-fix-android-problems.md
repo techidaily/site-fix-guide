@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nokia 130 Music | Dr.fone
-date: 2024-04-30T14:18:01.143Z
-updated: 2024-05-01T14:18:01.143Z
+date: 2024-05-19T03:58:57.506Z
+updated: 2024-05-20T03:58:57.506Z
 tags: 
   - problems
 categories:
@@ -590,4 +590,5 @@ Not being able to download or install the app is very frustrating and time-consu
 <li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-se-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone SE | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme V30T | Dr.fone</u></a></li>
 </ul></div>
+
 

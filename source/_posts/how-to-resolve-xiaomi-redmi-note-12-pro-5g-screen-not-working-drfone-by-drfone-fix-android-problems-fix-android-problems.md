@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Xiaomi Redmi Note 12 Pro 5G Screen Not Working | Dr.fone
-date: 2024-04-30T14:24:11.602Z
-updated: 2024-05-01T14:24:11.602Z
+date: 2024-05-19T03:59:02.495Z
+updated: 2024-05-20T03:59:02.495Z
 tags: 
   - problems
 categories:
@@ -543,4 +543,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-asus-rog-phone-7-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Asus ROG Phone 7 Fingerprint Lock</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-itel-p55-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Itel P55</u></a></li>
 </ul></div>
+
 

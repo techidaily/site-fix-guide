@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Poco X6 Pro Black and White | Dr.fone
-date: 2024-04-30T14:32:17.447Z
-updated: 2024-05-01T14:32:17.447Z
+date: 2024-05-19T03:59:08.419Z
+updated: 2024-05-20T03:59:08.419Z
 tags: 
   - problems
 categories:
@@ -526,4 +526,5 @@ After following these quick and easy suggestions, you would be able to fix the P
 <li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-a2plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi A2+ Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-se-2020-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone SE (2020) Properly</u></a></li>
 </ul></div>
+
 

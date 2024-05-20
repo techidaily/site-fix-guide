@@ -1,7 +1,7 @@
 ---
 title: How To Revive Your Bricked Lava Yuva 3 Pro in Minutes | Dr.fone
-date: 2024-04-30T14:25:17.620Z
-updated: 2024-05-01T14:25:17.620Z
+date: 2024-05-19T03:59:03.318Z
+updated: 2024-05-20T03:59:03.318Z
 tags: 
   - problems
 categories:
@@ -545,4 +545,5 @@ Now that you know different ways to fix the **process system not responding** er
 <li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-best-12-sports-streaming-sites-freeandpaid/"><u>New In 2024, Best 12 Sports Streaming Sites (Free&Paid)</u></a></li>
 </ul></div>
+
 

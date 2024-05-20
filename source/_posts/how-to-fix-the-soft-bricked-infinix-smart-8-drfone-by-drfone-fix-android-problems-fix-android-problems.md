@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Infinix Smart 8? | Dr.fone
-date: 2024-04-30T14:18:39.564Z
-updated: 2024-05-01T14:18:39.564Z
+date: 2024-05-19T03:58:58.078Z
+updated: 2024-05-20T03:58:58.078Z
 tags: 
   - problems
 categories:
@@ -472,4 +472,5 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
 <li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-spark-10-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Tecno Spark 10 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
 </ul></div>
+
 

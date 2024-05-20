@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Vivo Y100i | Dr.fone
-date: 2024-04-30T14:20:49.462Z
-updated: 2024-05-01T14:20:49.462Z
+date: 2024-05-19T03:58:59.610Z
+updated: 2024-05-20T03:58:59.610Z
 tags: 
   - problems
 categories:
@@ -649,4 +649,5 @@ Hence in this article, we got to know about the error 495 and the possible solut
 <li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-14-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 14 without iCloud Password or Apple ID?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-gt-10-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Infinix GT 10 Pro Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
+
 

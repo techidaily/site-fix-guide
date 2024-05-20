@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Poco C51? | Dr.fone
-date: 2024-04-30T14:18:55.725Z
-updated: 2024-05-01T14:18:55.725Z
+date: 2024-05-19T03:58:58.197Z
+updated: 2024-05-20T03:58:58.197Z
 tags: 
   - problems
 categories:
@@ -408,4 +408,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-12plus-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme 12+ 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-how-to-translate-tiktok-videos-all-you-want-to-know/"><u>2024 Approved How to Translate TikTok Videos? All You Want to Know</u></a></li>
 </ul></div>
+
 

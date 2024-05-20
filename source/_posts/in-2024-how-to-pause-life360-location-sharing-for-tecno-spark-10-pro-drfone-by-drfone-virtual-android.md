@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Tecno Spark 10 Pro | Dr.fone
-date: 2024-04-30T14:16:32.313Z
-updated: 2024-05-01T14:16:32.313Z
+date: 2024-05-19T03:58:54.456Z
+updated: 2024-05-20T03:58:54.456Z
 tags: 
   - virtual location change
   - social app
@@ -346,4 +346,5 @@ Remember, there are several other find my friends apps in the app store, which c
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi 14 Pro Phone Password Without Factory Reset?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-top-movement-tracking-apps-for-mobile-devices/"><u>Updated Top Movement Tracking Apps for Mobile Devices</u></a></li>
 </ul></div>
+
 

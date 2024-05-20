@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Lava Yuva 3 – What Can I Do? | Dr.fone
-date: 2024-04-30T14:27:51.918Z
-updated: 2024-05-01T14:27:51.918Z
+date: 2024-05-19T03:59:05.222Z
+updated: 2024-05-20T03:59:05.222Z
 tags: 
   - problems
 categories:
@@ -548,4 +548,5 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 <li><a href="https://blog-min.techidaily.com/how-to-spark-20-proplus-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Spark 20 Pro+ Get Deleted photos Back with Ease and Safety?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-m34-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy M34 5G online without jailbreak</u></a></li>
 </ul></div>
+
 

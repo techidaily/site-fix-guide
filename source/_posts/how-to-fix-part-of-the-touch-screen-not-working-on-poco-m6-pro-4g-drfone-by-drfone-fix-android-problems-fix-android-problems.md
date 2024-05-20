@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Poco M6 Pro 4G | Dr.fone
-date: 2024-04-30T14:18:10.639Z
-updated: 2024-05-01T14:18:10.639Z
+date: 2024-05-19T03:58:57.803Z
+updated: 2024-05-20T03:58:57.803Z
 tags: 
   - problems
 categories:
@@ -609,4 +609,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the issue wi
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Tecno Phantom V Flip | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-correct-video-brightness-issues-with-these-top-editing-tools/"><u>2024 Approved Correct Video Brightness Issues with These Top Editing Tools</u></a></li>
 </ul></div>
+
 

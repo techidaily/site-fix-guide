@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Infinix Note 30 VIP? | Dr.fone
-date: 2024-04-30T14:18:38.798Z
-updated: 2024-05-01T14:18:38.798Z
+date: 2024-05-19T03:58:58.073Z
+updated: 2024-05-20T03:58:58.073Z
 tags: 
   - problems
 categories:
@@ -330,4 +330,5 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-13-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 13 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-find-x6-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo Find X6 Pro FRP</u></a></li>
 </ul></div>
+
 

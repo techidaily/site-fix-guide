@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Samsung Galaxy A14 5G – What Can I Do? | Dr.fone
-date: 2024-04-30T14:28:11.581Z
-updated: 2024-05-01T14:28:11.581Z
+date: 2024-05-19T03:59:05.391Z
+updated: 2024-05-20T03:59:05.391Z
 tags: 
   - problems
 categories:
@@ -613,4 +613,5 @@ Fix all Gmail issues caused by Android system:
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-samsung-galaxy-m14-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Samsung Galaxy M14 5G</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme 11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

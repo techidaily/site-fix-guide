@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Nokia C12 Plus | Dr.fone
-date: 2024-04-30T14:21:12.128Z
-updated: 2024-05-01T14:21:12.128Z
+date: 2024-05-19T03:58:59.979Z
+updated: 2024-05-20T03:58:59.979Z
 tags: 
   - problems
 categories:
@@ -491,4 +491,5 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
 <li><a href="https://ai-video-editing.techidaily.com/the-best-way-to-color-grading-and-color-correction-in-filmora-for-2024/"><u>The Best Way To Color Grading & Color Correction in Filmora for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

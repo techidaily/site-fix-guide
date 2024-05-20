@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Lava Blaze 2 | Dr.fone
-date: 2024-04-30T14:21:06.259Z
-updated: 2024-05-01T14:21:06.259Z
+date: 2024-05-19T03:58:59.922Z
+updated: 2024-05-20T03:58:59.922Z
 tags: 
   - problems
 categories:
@@ -599,4 +599,5 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-14-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 14 Plus? 7 Mehtods You Cant-Miss</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Redmi Note 12 Pro 5G?</u></a></li>
 </ul></div>
+
 

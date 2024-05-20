@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Smart 8 | Dr.fone
-date: 2024-04-30T14:19:27.047Z
-updated: 2024-05-01T14:19:27.047Z
+date: 2024-05-19T03:58:58.521Z
+updated: 2024-05-20T03:58:58.521Z
 tags: 
   - problems
 categories:
@@ -539,4 +539,5 @@ Parse Error: There was a problem parsing the package is an error message that ha
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-diverse-template-online/"><u>In 2024, Diverse Template | Online</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

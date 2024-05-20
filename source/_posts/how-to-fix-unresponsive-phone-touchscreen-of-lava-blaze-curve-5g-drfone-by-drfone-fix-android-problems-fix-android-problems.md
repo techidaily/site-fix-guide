@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Lava Blaze Curve 5G | Dr.fone
-date: 2024-04-30T14:20:17.929Z
-updated: 2024-05-01T14:20:17.929Z
+date: 2024-05-19T03:58:59.093Z
+updated: 2024-05-20T03:58:59.093Z
 tags: 
   - problems
 categories:
@@ -545,4 +545,5 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
 <li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y100t | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-honor-x7b-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Honor X7b to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

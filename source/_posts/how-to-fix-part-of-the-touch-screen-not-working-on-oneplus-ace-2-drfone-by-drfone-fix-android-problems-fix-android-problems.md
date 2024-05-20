@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus Ace 2 | Dr.fone
-date: 2024-04-30T14:18:04.153Z
-updated: 2024-05-01T14:18:04.153Z
+date: 2024-05-19T03:58:57.739Z
+updated: 2024-05-20T03:58:57.739Z
 tags: 
   - problems
 categories:
@@ -624,4 +624,5 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 <li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-iphone-6s-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on iPhone 6s Plus Safe and Legal</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-11-proplus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Realme 11 Pro+ without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 
