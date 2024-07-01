@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Motorola Moto G23 Black and White | Dr.fone
-date: 2024-05-19T03:59:08.350Z
-updated: 2024-05-20T03:59:08.350Z
+date: 2024-06-30T13:48:49.924Z
+updated: 2024-07-01T13:48:49.924Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Quick Fixes for Why Is My Motorola Moto G23 Black and White
 excerpt: This article describes Quick Fixes for Why Is My Motorola Moto G23 Black and White
 keywords: Motorola Moto G23 android problems,android guide,Motorola Moto G23 android fix,android troubleshooting,android help,Motorola Moto G23 android support,android problems,Motorola Moto G23 android repair
-thumbnail: https://www.lifewire.com/thmb/dlXSXWUVnvtFpXfW22z68Mqdr1g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TwitterVideoDownload-5b605aaac9e77c002c3a42f3.jpg
+thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c84a7394663cf2c5a8a40dbef.jpg
 ---
 
 ## Quick Fixes for Why Is My Motorola Moto G23 Black and White
@@ -81,7 +81,7 @@ Dr.Fone is a reliable solution for addressing black-and-white display issues on 
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
 
@@ -97,7 +97,7 @@ Repair Android System Errors without Any Trouble.
 
 ![dr.fone android repair window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,601,336** people have downloaded it
 
@@ -211,7 +211,7 @@ We’re always in search of a method that provides handy solution in a quite spe
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Contacts app crashing on Android in one click
 
@@ -482,7 +482,7 @@ Today, we will use Dr.Fone’s System Repair (Android) module to fix Android cam
 
 Download Dr.Fone here.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
@@ -516,7 +516,7 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 

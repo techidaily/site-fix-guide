@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Vivo V30 | Dr.fone
-date: 2024-05-19T03:58:58.847Z
-updated: 2024-05-20T03:58:58.847Z
+date: 2024-06-30T13:48:53.570Z
+updated: 2024-07-01T13:48:53.570Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Vivo V30
 excerpt: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Vivo V30
 keywords: Vivo V30 android help,android problems,android solutions,fix android problems,Vivo V30 android support,Vivo V30 android fix,Vivo V30 android problems,Vivo V30 android troubleshooting
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## How to Fix Unfortunately, Contacts Has Stopped Error on Vivo V30
@@ -24,7 +24,7 @@ We’re always in search of a method that provides handy solution in a quite spe
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Contacts app crashing on Android in one click
 
@@ -297,7 +297,7 @@ For iPhones, it is the same concept as the Android, restore your phone to the pr
 
 A boot loop typically starts when there is a change to your system before a reboot cycle. Most issues are software-related, such as having to do a system upgrade gone wrong or a problem that doesn’t mesh. One way to prevent this is to perform a software or system upgrade constantly. Make your phone juiced to prevent it from turning off mid-way when updating.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,405,439** people have downloaded it
 
@@ -357,7 +357,7 @@ Your trouble with ‘why does My Vivo V30 keep shutting off?’ can be resolved 
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
 
@@ -405,7 +405,7 @@ Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once dow
 
 ![fixed phone keeps turning off with the repair program](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 4: Update software to the latest version to fix Android phone keeps turning off
 
@@ -453,7 +453,7 @@ That's all. Well, booting to Safe Mode is easy and it also helps you to identify
 
 
 
-### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
+### Wondershare Dr.Fone
 
 Flexibly Back up and Restore Android Data
 
@@ -482,7 +482,7 @@ There you go, you have successfully backed up data.
 
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 Now moving on to factory reset your phone:
 
@@ -506,7 +506,7 @@ Now for all those of you who are wondering why does My Vivo V30 keeps turning of
 
 So, do not hold back, go ahead, and try these tricks. They have helped many and will be useful for you too.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"

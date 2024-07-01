@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Nokia C12 | Dr.fone
-date: 2024-06-23T05:58:11.434Z
-updated: 2024-06-24T05:58:11.434Z
+date: 2024-06-30T13:47:50.519Z
+updated: 2024-07-01T13:47:50.519Z
 tags: 
   - problems
 categories:
@@ -313,7 +313,7 @@ If your Nokia C12 shows the "Unfortunately Settings has stopped" error, don't wo
 
 For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html). It's known for fixing many iOS problems without losing any data. Remember, a well-working device is just a few steps away!
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Nokia C12 Camera Not Working Unexpected Error? Fix It Now
 
@@ -433,7 +433,7 @@ Today, we will use Dr.Fone’s System Repair (Android) module to fix Android cam
 
 Download Dr.Fone here.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
@@ -467,7 +467,7 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 

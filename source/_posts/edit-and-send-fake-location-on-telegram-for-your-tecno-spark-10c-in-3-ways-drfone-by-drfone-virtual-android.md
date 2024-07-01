@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Tecno Spark 10C in 3 Ways | Dr.fone
-date: 2024-05-19T03:58:54.537Z
-updated: 2024-05-20T03:58:54.537Z
+date: 2024-06-30T13:48:16.844Z
+updated: 2024-07-01T13:48:16.844Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes Edit and Send Fake Location on Telegram For your Tecno Spark 10C in 3 Ways
 excerpt: This article describes Edit and Send Fake Location on Telegram For your Tecno Spark 10C in 3 Ways
 keywords: change location for Tecno Spark 10C,change WhatsApp location for Android,change facebook location for Tecno Spark 10C,change facebook location for Android,change Twitter location for Android,fake location for Android,fake facebook location for Android,change skype location for Tecno Spark 10C,fake skype location for Android,fake Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/x14UrRTf3--IfQ99R_ewwR4TwWY=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104288650-cd3f369f8ead449f94d1a1ce6f55c9de.jpg
+thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006aaa80a48dab2ef20ecc47cd.jpg
 ---
 
 ## Edit and Send Fake Location on Telegram For your Tecno Spark 10C in 3 Ways
@@ -60,7 +60,7 @@ Install and run Dr.Fone on your PC and then connect your smartphone to your comp
 
 #### Step 2. Link your smartphone to Dr.Fone
 
-![ connect the software with Wi-Fi without an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+![connect the software with Wi-Fi without an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 Next, open your smartphone’s Settings app and enable USB debugging to connect it to Dr.Fone. Fortunately, this program comes with a simple guide for all iOS and Android versions.
 
@@ -68,7 +68,7 @@ Next, open your smartphone’s Settings app and enable USB debugging to connect 
 
 #### Step 3. Choose your desired location and move
 
-![ teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 After successfully connecting your device to Dr.Fone, tap **Next** to open the Virtual Location map. Now enter the **Teleport Mode** and key in the GPS coordinates or location you want to move to. Alternatively, simply tap a spot on the map and click **Move Her**e. And there is that!
 
@@ -92,7 +92,7 @@ Step 1. Fire up Play Store and search for “fake GPS location.” You’ll see 
 
 Step 2. Next, open **Additional Settings** and choose **Developer options** on your phone. Then, set Fake GPS location as the mock location app.
 
-![ fake gps on telegram - select mock mode](https://images.wondershare.com/drfone/article/fake-gps-on-telegram-4.jpg)
+![fake gps on telegram - select mock mode](https://images.wondershare.com/drfone/article/fake-gps-on-telegram-4.jpg)
 
 Step 3. Now launch the app and choose your new GPS location. If satisfied, simply tap the green **Play** button.
 
@@ -114,7 +114,7 @@ Sadly, creating a Telegram fake location on iPhone isn’t as straightforward as
 
 There you go; you can now create a new Telegram location to prank your friends or make new circles using a premium VPN service like ExpressVPN. However, VPN monthly subscriptions can empty your wallet. So, use a pocket-friendly and reliable option like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to easily fake GPS location on Android and iPhone. Give it a try!
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 
 
@@ -255,7 +255,7 @@ Here is a video tutorial for you to learn and preview how to fake location on Fa
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 Below is how to fake location on Facebook for Android and iPhone using Dr.Fone:
 
@@ -283,7 +283,7 @@ The Virtual Location map will launch after successfully connecting your smartpho
 
 See, you don't need an expensive VPN service to fake your GPS location on Facebook convincingly. With Dr.Fone, you can easily change your Tecno Spark 10C or iPhone location, which will immediately reflect on apps like Facebook, Google Maps, Telegram, and so on. And guess what? There are a host of other phone management features to exploit. You should try it!
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Camon 20 Premier 5G | Dr.fone
-date: 2024-06-15T13:33:44.977Z
-updated: 2024-06-16T13:33:44.977Z
+date: 2024-06-30T13:48:24.988Z
+updated: 2024-07-01T13:48:24.988Z
 tags: 
   - problems
 categories:
@@ -24,7 +24,7 @@ We’re always in search of a method that provides handy solution in a quite spe
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Contacts app crashing on Android in one click
 
@@ -334,7 +334,7 @@ Although permissions rarely change, they can cause issues if you change them acc
 
 Once inside Permission Settings, check whether the Google Play Services and Play Store apps have sufficient permission to do their jobs and whether any required permissions were recently removed. If so, grant these two apps their permissions back.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,953,228** people have downloaded it
 
@@ -396,7 +396,7 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 
 ![dr.fone main window interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,307,222** people have downloaded it
 
@@ -426,7 +426,7 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 - **Step 1:** Download and install Dr.Fone - System Repair on your computer. Launch the program and select **System** **Repair** from the available options.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,143,540** people have downloaded it
 

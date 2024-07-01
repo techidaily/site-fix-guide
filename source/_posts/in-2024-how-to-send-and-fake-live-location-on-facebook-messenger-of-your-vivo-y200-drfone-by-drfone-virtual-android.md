@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y200 | Dr.fone
-date: 2024-05-19T03:58:48.955Z
-updated: 2024-05-20T03:58:48.955Z
+date: 2024-06-30T13:48:47.690Z
+updated: 2024-07-01T13:48:47.690Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y200
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y200
 keywords: fake skype location for Android,change location for Android,change Twitter location for Android,change skype location for Vivo Y200,change WhatsApp location for Vivo Y200,change Twitter location for Vivo Y200,change WhatsApp location for Android,change location for Vivo Y200
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y200
@@ -111,7 +111,7 @@ As said earlier, the reason why Facebook gives the wrong location is because of 
 
 Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 ## How to Hide/Fake Snapchat Location on Your Vivo Y200
 
@@ -318,7 +318,7 @@ So, without dilly-dallying much, here's how to fake a **Snapchat location tag** 
 
 
 
-### [Dr.Fone - Virtual Location](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -336,7 +336,7 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 
 **Step 2.** Next, install and run Dr.Fone on your computer. Then, tap the **Virtual Location** button on the home window, and tap **Get Started**.
 
-![ how to add location filter on Snapchat, open virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
+![how to add location filter on Snapchat, open virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 3.** Now allow USB debugging on your Vivo Y200 before clicking **Next** on Dr.Fone. Don't know how to do that? Open Settings > Additional Settings > Developer options > USB debugging. Also, choose Dr.Fone as the mock location app.
 

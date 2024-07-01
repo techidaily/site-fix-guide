@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on OnePlus 12 – What Can I Do? | Dr.fone
-date: 2024-05-19T03:59:05.297Z
-updated: 2024-05-20T03:59:05.297Z
+date: 2024-06-30T13:48:47.461Z
+updated: 2024-07-01T13:48:47.461Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes My Videos Arent Playing on OnePlus 12 – What Can I Do?
 excerpt: This article describes My Videos Arent Playing on OnePlus 12 – What Can I Do?
 keywords: android fix,android guide,android troubleshooting,android repair,android help,OnePlus 12 android solutions,OnePlus 12 android issues,android solutions
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## My Videos Aren't Playing on OnePlus 12 – What Can I Do?
@@ -172,7 +172,7 @@ To uninstall the video app on your Android, go to **Settings > Apps**. Locate th
 
 To reinstall it again, go to the Google Play Store, search for the video app you want to have, then click **Install**.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,974,400** people have downloaded it
 
@@ -206,7 +206,7 @@ Note: For now, the tool can rescue data from broken Android only if your phone i
 
 
 
-### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html)
+### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
 
@@ -269,7 +269,7 @@ Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://too
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 The real fix to issues like "Android phone will not switch on"
 

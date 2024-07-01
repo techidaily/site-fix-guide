@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Motorola G54 5G? 7 Ways to Resolve | Dr.fone
-date: 2024-05-19T03:59:06.869Z
-updated: 2024-05-20T03:59:06.869Z
+date: 2024-06-30T13:47:51.516Z
+updated: 2024-07-01T13:47:51.516Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Play Store Stuck on Downloading Of Motorola G54 5G? 7 Ways to Resolve
 excerpt: This article describes Play Store Stuck on Downloading Of Motorola G54 5G? 7 Ways to Resolve
 keywords: android support,fix android problems,android guide,Motorola G54 5G android issues,Motorola G54 5G android fix,Motorola G54 5G android problems,Motorola G54 5G fix android problems,android fix,Motorola G54 5G android help,android issues,Motorola G54 5G android guide
-thumbnail: https://www.lifewire.com/thmb/VhWXwk4rULRvURLd-ts4rpfPSxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653067a4110ec11928ef11818a.jpg
 ---
 
 ## Play Store Stuck on Downloading Of Motorola G54 5G? 7 Ways to Resolve
@@ -43,7 +43,7 @@ The world of internet and its intricacies are beyond a novice’s realm. Chances
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Play Store stuck on downloading
 
@@ -134,7 +134,7 @@ We’re always in search of a method that provides handy solution in a quite spe
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Contacts app crashing on Android in one click
 
@@ -297,7 +297,7 @@ Before we can learn how to fix a bricked device, it is important that you are ab
 
 
 
-### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html)
+### Dr.Fone - Data Recovery (Android)
 
 World's 1st Android smartphone and tablet recovery software.
 
@@ -316,7 +316,7 @@ If your device is completely unresponsive, don’t worry Dr.Fone can help you ge
 
 Step 1: Download and install Wondershare Dr.Fone to your PC. Launch the program and then click on Data Recovery. Select the data types you would like to recover and then click on Next.
 
-![bricked android phone data recovery-Install Wondershare Dr.Fone ](https://images.wondershare.com/drfone/drfone/android-recover-broken-01.jpg)
+![bricked android phone data recovery-Install Wondershare Dr.Fone](https://images.wondershare.com/drfone/drfone/android-recover-broken-01.jpg)
 
 Step 2. Select the issue type for your phone. Choose from "Touch screen not responsive or cannot access the phone" or "Black/broken screen".
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nokia C02 | Dr.fone
-date: 2024-05-19T03:58:57.508Z
-updated: 2024-05-20T03:58:57.508Z
+date: 2024-06-30T13:47:55.528Z
+updated: 2024-07-01T13:47:55.528Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Fix Part of the Touch Screen Not Working on Nokia C02
 excerpt: This article describes How To Fix Part of the Touch Screen Not Working on Nokia C02
 keywords: android issues,android fix,Nokia C02 fix android problems,Nokia C02 android troubleshooting,Nokia C02 android repair,Nokia C02 android solutions,Nokia C02 android problems,Nokia C02 android fix
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## How To Fix Part of the Touch Screen Not Working on Nokia C02
@@ -205,7 +205,7 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 - Depending on the toolkit required, the program can be costly.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
@@ -313,7 +313,7 @@ Refer to the tutorial below to solve your ****Android phone is stuck on the logo
 
 **Step 4**: Follow the instructions provided on the page and wait for the system repair to finish. After which, click on ****Done**** to complete the process.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
@@ -357,7 +357,7 @@ No! With Dr.Fone - System Repair (Android), you can do Android repair in just a 
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 An easy-to-operate tool to fix Android system issues like a Wifi authentication error
 

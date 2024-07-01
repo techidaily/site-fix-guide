@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus Nord CE 3 5G | Dr.fone
-date: 2024-05-19T03:58:57.742Z
-updated: 2024-05-20T03:58:57.742Z
+date: 2024-06-30T13:48:14.257Z
+updated: 2024-07-01T13:48:14.257Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Fix Part of the Touch Screen Not Working on OnePlus Nord CE 3 5G
 excerpt: This article describes How To Fix Part of the Touch Screen Not Working on OnePlus Nord CE 3 5G
 keywords: OnePlus Nord CE 3 5G android fix,OnePlus Nord CE 3 5G fix android problems,fix android problems,OnePlus Nord CE 3 5G android issues,OnePlus Nord CE 3 5G android repair,android repair,android guide,android issues
-thumbnail: https://www.lifewire.com/thmb/3UFOh7_Yk35mO3BSnykTStwc6K4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
 ## How To Fix Part of the Touch Screen Not Working on OnePlus Nord CE 3 5G
@@ -205,7 +205,7 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 - Depending on the toolkit required, the program can be costly.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
@@ -349,7 +349,7 @@ The world of internet and its intricacies are beyond a novice’s realm. Chances
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Play Store stuck on downloading
 

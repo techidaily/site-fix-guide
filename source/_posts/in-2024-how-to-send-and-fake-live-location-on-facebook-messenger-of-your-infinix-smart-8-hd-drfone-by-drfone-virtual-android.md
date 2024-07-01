@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Infinix Smart 8 HD | Dr.fone
-date: 2024-05-19T03:58:53.416Z
-updated: 2024-05-20T03:58:53.416Z
+date: 2024-06-30T13:48:25.039Z
+updated: 2024-07-01T13:48:25.039Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Infinix Smart 8 HD
 excerpt: This article describes How to Send and Fake Live Location on Facebook Messenger Of your Infinix Smart 8 HD
 keywords: fake skype location for Android,change WhatsApp location for Infinix Smart 8 HD,fake Twitter location for Android,change Twitter location for Android,fake WhatsApp location for Android,change skype location for Infinix Smart 8 HD,change Twitter location for Infinix Smart 8 HD,change location for Infinix Smart 8 HD,change WhatsApp location for Android,change facebook location for Android
-thumbnail: https://www.lifewire.com/thmb/XFPs7ukKGYkDLjHUDiAKej05X4I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98dc41bc3885e34ece3467540.jpg
 ---
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Infinix Smart 8 HD
@@ -111,7 +111,7 @@ As said earlier, the reason why Facebook gives the wrong location is because of 
 
 Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 ## Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Smart 8 HD
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y78 5G | Dr.fone
-date: 2024-05-19T03:58:58.874Z
-updated: 2024-05-20T03:58:58.874Z
+date: 2024-06-30T13:48:29.870Z
+updated: 2024-07-01T13:48:29.870Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y78 5G
 excerpt: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y78 5G
 keywords: android problems,Vivo Y78 5G android support,android repair,android help,Vivo Y78 5G android problems,android solutions,Vivo Y78 5G android troubleshooting
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y78 5G
@@ -24,7 +24,7 @@ We’re always in search of a method that provides handy solution in a quite spe
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Contacts app crashing on Android in one click
 
@@ -265,7 +265,7 @@ Before this, remember to take a backup of your Vivo Y78 5G. We recommend you to 
 
 
 
-### [Dr.Fone - Phone Backup (Android)\_](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
+### Dr.Fone - Phone Backup (Android)\_
 
 Flexibly Backup and Restore Android Data
 
@@ -284,7 +284,7 @@ Step  1 – First of all, long press the power button and let the Power options
 
 Step 2 – Now, long press on the "Power off” option. This will instantly ask you if you want to reboot into safe mode. Select the option and your device will reboot in safe mode.
 
-![‘Power off” ](https://images.wondershare.com/drfone/article/2017/06/14986728022827.jpg)
+![‘Power off”](https://images.wondershare.com/drfone/article/2017/06/14986728022827.jpg)
 
 If you are using Android version 4.2 or earlier, turn off the Vivo Y78 5G device and turn it on the back by tapping the power button. When the logo appears, tap and hold the volume down button. This will allow the Vivo Y78 5G device to boot in safe mode.
 
@@ -330,7 +330,7 @@ In order to do a full and complete backup of your device you need to have a tool
 
 
 
-### [Dr.Fone - Backup & Restore (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
+### Dr.Fone - Backup & Restore (Android)
 
 Flexibly Backup and Restore Android Data
 
@@ -377,7 +377,7 @@ But for situations when your Vivo Y78 5G gets stuck in this very same factory mo
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 One click fix to Android stuck in factory mode
 
@@ -423,7 +423,7 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 
 Step 2: Press ‘Next’ for initiating firmware downloading.
 
-![firmware download to fix ](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+![firmware download to fix](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Dr.Fone –Repair (Android) starts Android repair as soon as download and verification of firmware is done. All Android issues along with Android stuck in factory mode will be fixed now.
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Nubia Z50S Pro | Dr.fone
-date: 2024-05-19T03:58:58.641Z
-updated: 2024-05-20T03:58:58.641Z
+date: 2024-06-30T13:48:16.816Z
+updated: 2024-07-01T13:48:16.816Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Nubia Z50S Pro
 excerpt: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Nubia Z50S Pro
 keywords: android repair,android guide,Nubia Z50S Pro android repair,android problems,android issues,android troubleshooting,android solutions,Nubia Z50S Pro android tips,android support,Nubia Z50S Pro android support,android help,Nubia Z50S Pro android guide
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## How to Fix Unfortunately, Contacts Has Stopped Error on Nubia Z50S Pro
@@ -24,7 +24,7 @@ We’re always in search of a method that provides handy solution in a quite spe
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Contacts app crashing on Android in one click
 
@@ -241,7 +241,7 @@ Dr.Fone - System Repair (Android) equips Nubia Z50S Pro users with the ability t
 
 ![dr.fone system repair main window](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,227,773** people have downloaded it
 
@@ -275,7 +275,7 @@ Dr. Fone's features are perfect for unbricking Nubia Z50S Pro devices. Below are
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
 
@@ -474,7 +474,7 @@ To uninstall the video app on your Android, go to **Settings > Apps**. Locate th
 
 To reinstall it again, go to the Google Play Store, search for the video app you want to have, then click **Install**.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,974,400** people have downloaded it
 

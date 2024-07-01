@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Touch Screen on Lava Yuva 3 | Dr.fone
-date: 2024-05-19T03:58:59.945Z
-updated: 2024-05-20T03:58:59.945Z
+date: 2024-06-30T13:48:50.112Z
+updated: 2024-07-01T13:48:50.112Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Fix Unresponsive Touch Screen on Lava Yuva 3
 excerpt: This article describes How To Fix Unresponsive Touch Screen on Lava Yuva 3
 keywords: Lava Yuva 3 android troubleshooting,android support,Lava Yuva 3 android support,android fix,Lava Yuva 3 android repair,android guide
-thumbnail: https://www.lifewire.com/thmb/RHk5CzUskZEHtVQS5Kba30nHhvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-kindle-unlimited-worth-it-fda01dceb923406a8524c64d2b72693e.jpg
+thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc218886423e579644f1092e23638fe5.jpg
 ---
 
 ## How To Fix Unresponsive Touch Screen on Lava Yuva 3
@@ -164,7 +164,7 @@ If you can’t take your cracked screen to a repair shop, apply a small amount o
 
 You can download and install Dr.Fone – System Repair (iOS) or (Android) for free to evaluate the program’s offerings. You can do the first few steps to see if the app supports your device. However, you need to get the full version and enter a valid license code to repair your smartphone.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,471,551** people have downloaded it
 
@@ -186,7 +186,7 @@ We’re always in search of a method that provides handy solution in a quite spe
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Contacts app crashing on Android in one click
 
@@ -495,7 +495,7 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 1:** Once you have downloaded Dr.Fone, install it and launch it on your desktop. Then, connect your Lava Yuva 3 to your desktop using a USB cable.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,567,199** people have downloaded it
 

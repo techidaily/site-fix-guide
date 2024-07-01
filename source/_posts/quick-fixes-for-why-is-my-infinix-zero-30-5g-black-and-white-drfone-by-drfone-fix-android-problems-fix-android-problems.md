@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Infinix Zero 30 5G Black and White | Dr.fone
-date: 2024-05-19T03:59:08.272Z
-updated: 2024-05-20T03:59:08.272Z
+date: 2024-06-30T13:48:24.787Z
+updated: 2024-07-01T13:48:24.787Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Quick Fixes for Why Is My Infinix Zero 30 5G Black and White
 excerpt: This article describes Quick Fixes for Why Is My Infinix Zero 30 5G Black and White
 keywords: Infinix Zero 30 5G android support,android help,android troubleshooting,Infinix Zero 30 5G android problems,android guide,android support
-thumbnail: https://www.lifewire.com/thmb/ptfhak0BFgk1HbWMQnlfEezMM8Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kentuckyderby-5c7ed5d646e0fb00011bf3da.jpg
+thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794edca9da0873a40e49d2c700e6.jpg
 ---
 
 ## Quick Fixes for Why Is My Infinix Zero 30 5G Black and White
@@ -81,7 +81,7 @@ Dr.Fone is a reliable solution for addressing black-and-white display issues on 
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
 
@@ -97,7 +97,7 @@ Repair Android System Errors without Any Trouble.
 
 ![dr.fone android repair window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,601,336** people have downloaded it
 
@@ -361,7 +361,7 @@ Follow the on-screen instruction to activate Download Mode on your device. Wonde
 
 ![tap on the fix now button](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
@@ -383,7 +383,7 @@ Here, we are going to mention four common methods that you can try to resolve th
 
 When it comes to the home button not working Infinix Zero 30 5G problem, the most common reason is the unknown system issues. In such a scenario, the best solution is using Dr.Fone - System Repair (Android) software to repair your Android system to normal in one click. This tool is powerful enough to resolve various Android issues within a few minutes.
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix home button not working on Android
 

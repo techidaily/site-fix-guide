@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Realme Narzo 60x 5G Screen Not Working | Dr.fone
-date: 2024-05-19T03:59:02.301Z
-updated: 2024-05-20T03:59:02.301Z
+date: 2024-06-30T13:48:14.311Z
+updated: 2024-07-01T13:48:14.311Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Resolve Realme Narzo 60x 5G Screen Not Working
 excerpt: This article describes How to Resolve Realme Narzo 60x 5G Screen Not Working
 keywords: android guide,Realme Narzo 60x 5G android guide,Realme Narzo 60x 5G android fix,fix android problems,android support,android repair
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## How to Resolve Realme Narzo 60x 5G Screen Not Working
@@ -146,7 +146,7 @@ If you’re writing a lot of data to your device in one go, this can sometimes o
 
 If this is the case, there’s a solution known as [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) that can help. This is an industry-leading package that has everything you need to get your device running as it should be.
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Easiest Fix to Error Code 920
 

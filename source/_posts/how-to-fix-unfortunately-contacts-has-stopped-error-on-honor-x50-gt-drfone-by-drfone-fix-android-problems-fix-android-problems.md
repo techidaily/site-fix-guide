@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Honor X50 GT | Dr.fone
-date: 2024-05-19T03:58:58.489Z
-updated: 2024-05-20T03:58:58.489Z
+date: 2024-06-30T13:48:01.313Z
+updated: 2024-07-01T13:48:01.313Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Honor X50 GT
 excerpt: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Honor X50 GT
 keywords: Honor X50 GT android support,android solutions,android help,fix android problems,android problems,android fix,Honor X50 GT android tips,Honor X50 GT android help,Honor X50 GT fix android problems
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## How to Fix Unfortunately, Contacts Has Stopped Error on Honor X50 GT
@@ -24,7 +24,7 @@ We’re always in search of a method that provides handy solution in a quite spe
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Contacts app crashing on Android in one click
 
@@ -217,7 +217,7 @@ Sometimes during the System Recovery process, the process can glitch, and you'll
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 One-stop solution to fix Android stuck at System recovery
 
@@ -372,7 +372,7 @@ Dr.Fone - System Repair (Android) equips Honor X50 GT users with the ability to 
 
 ![dr.fone system repair main window](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,227,773** people have downloaded it
 
@@ -406,7 +406,7 @@ Dr. Fone's features are perfect for unbricking Honor X50 GT devices. Below are t
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
 

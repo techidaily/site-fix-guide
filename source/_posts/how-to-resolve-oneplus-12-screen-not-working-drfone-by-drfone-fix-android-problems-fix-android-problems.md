@@ -1,7 +1,7 @@
 ---
 title: How to Resolve OnePlus 12 Screen Not Working | Dr.fone
-date: 2024-05-19T03:59:02.115Z
-updated: 2024-05-20T03:59:02.115Z
+date: 2024-06-30T13:48:01.380Z
+updated: 2024-07-01T13:48:01.380Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Resolve OnePlus 12 Screen Not Working
 excerpt: This article describes How to Resolve OnePlus 12 Screen Not Working
 keywords: OnePlus 12 android fix,OnePlus 12 android support,android fix,android issues,android guide,fix android problems,android troubleshooting,android problems,OnePlus 12 fix android problems,android solutions,OnePlus 12 android issues
-thumbnail: https://www.lifewire.com/thmb/nkL-0VwZC4rZHc_IxhqFzu82L6A=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps6-concept-trailer-64aac5b7323041ad93d7535eccf7df40.png
+thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2edc67c914e7a3a40f4a1feb7f.png
 ---
 
 ## How to Resolve OnePlus 12 Screen Not Working
@@ -147,7 +147,7 @@ If you are experiencing some kind of issues in your OnePlus 12s such as OnePlus 
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 One-click solution to fix camera failed on OnePlus 12 devices
 
@@ -304,7 +304,7 @@ It is always a good idea to back up your data especially before embarking on any
 
 
 
-### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
+### Wondershare Dr.Fone
 
 Flexibly Back up and Restore Android Data
 
@@ -335,7 +335,7 @@ When your device is displayed on the window of the program, click "Back Up Now "
 
 ![Android. Process. Media - select data types](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 3. How to Fix "Android. Process. Media" Error
 
@@ -395,7 +395,7 @@ This Should clear the error message for good.
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Android process media has stopped issue in one click
 
@@ -438,7 +438,7 @@ It may take a while, so you could have a cup of coffee to wait for the repair pr
 
 ![android.process.media stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ### Method 7: Factory Reset your device
 
@@ -450,7 +450,7 @@ If the problem persists after trying the above steps, it could be related to spe
 
 It is our hope that when faced with this fairly common error, you will not panic. This is a fairly mild issue that can easily be fixed as we have seen above.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 
 
