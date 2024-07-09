@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Google Pixel 8 Pro | Dr.fone
-date: 2024-05-19T03:58:58.463Z
-updated: 2024-05-20T03:58:58.463Z
+date: 2024-07-08T04:36:55.969Z
+updated: 2024-07-09T04:36:55.969Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Google Pixel 8 Pro
 excerpt: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Google Pixel 8 Pro
 keywords: Google Pixel 8 Pro android support,android solutions,Google Pixel 8 Pro android fix,Google Pixel 8 Pro android issues,android tips,android issues,Google Pixel 8 Pro fix android problems,android problems,Google Pixel 8 Pro android troubleshooting,Google Pixel 8 Pro android repair,android guide,Google Pixel 8 Pro android problems
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## How to Fix Unfortunately, Contacts Has Stopped Error on Google Pixel 8 Pro
@@ -24,7 +24,7 @@ We’re always in search of a method that provides handy solution in a quite spe
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Contacts app crashing on Android in one click
 
@@ -355,7 +355,7 @@ What if your problem still doesn’t get resolved after following these 3 tips? 
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-#### [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+#### Dr.Fone - System Repair
 
 Fix all Gmail issues caused by Android system:
 
@@ -381,7 +381,7 @@ Well, we have got [Dr.Fone - System Repair (Android)](https://tools.techidaily.c
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Easy-to-operate program to fix Android phone won’t charge
 

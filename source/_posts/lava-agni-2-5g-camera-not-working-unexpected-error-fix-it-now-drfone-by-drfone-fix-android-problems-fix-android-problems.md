@@ -1,7 +1,7 @@
 ---
 title: Lava Agni 2 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-05-19T03:59:04.770Z
-updated: 2024-05-20T03:59:04.770Z
+date: 2024-07-08T04:37:01.771Z
+updated: 2024-07-09T04:37:01.771Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Lava Agni 2 5G Camera Not Working Unexpected Error? Fix It Now
 excerpt: This article describes Lava Agni 2 5G Camera Not Working Unexpected Error? Fix It Now
 keywords: Lava Agni 2 5G android help,Lava Agni 2 5G android guide,Lava Agni 2 5G android support,Lava Agni 2 5G android repair,fix android problems,android guide,Lava Agni 2 5G fix android problems,android support,Lava Agni 2 5G android solutions,android repair,Lava Agni 2 5G android tips,android problems
-thumbnail: https://www.lifewire.com/thmb/1giCJ_GI0g5IPS2wzD1NWNQqoBs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-shared-your-tiktok-5271091-8fc5445938ed433d830a2b5275079c62.jpg
+thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad7a99594a73a26d6b57f4450.jpg
 ---
 
 ## Lava Agni 2 5G Camera Not Working Unexpected Error? Fix It Now
@@ -130,7 +130,7 @@ Today, we will use Dr.Fone’s System Repair (Android) module to fix Android cam
 
 Download Dr.Fone here.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
@@ -164,7 +164,7 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
@@ -194,7 +194,7 @@ In order to do a full and complete backup of your device you need to have a tool
 
 
 
-### [Dr.Fone - Backup & Restore (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
+### Dr.Fone - Backup & Restore (Android)
 
 Flexibly Backup and Restore Android Data
 
@@ -241,7 +241,7 @@ But for situations when your Lava Agni 2 5G gets stuck in this very same factory
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 One click fix to Android stuck in factory mode
 
@@ -287,7 +287,7 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 
 Step 2: Press ‘Next’ for initiating firmware downloading.
 
-![firmware download to fix ](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+![firmware download to fix](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Dr.Fone –Repair (Android) starts Android repair as soon as download and verification of firmware is done. All Android issues along with Android stuck in factory mode will be fixed now.
 
@@ -503,7 +503,7 @@ To uninstall the video app on your Android, go to **Settings > Apps**. Locate th
 
 To reinstall it again, go to the Google Play Store, search for the video app you want to have, then click **Install**.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,974,400** people have downloaded it
 

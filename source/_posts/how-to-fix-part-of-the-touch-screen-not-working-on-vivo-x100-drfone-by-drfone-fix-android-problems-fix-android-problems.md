@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo X100 | Dr.fone
-date: 2024-05-19T03:58:57.957Z
-updated: 2024-05-20T03:58:57.957Z
+date: 2024-07-08T04:36:28.705Z
+updated: 2024-07-09T04:36:28.705Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Fix Part of the Touch Screen Not Working on Vivo X100
 excerpt: This article describes How To Fix Part of the Touch Screen Not Working on Vivo X100
 keywords: android support,android issues,Vivo X100 android support,Vivo X100 fix android problems,android fix,android help,android solutions,fix android problems,Vivo X100 android problems,android tips
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## How To Fix Part of the Touch Screen Not Working on Vivo X100
@@ -205,7 +205,7 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 - Depending on the toolkit required, the program can be costly.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
@@ -239,7 +239,7 @@ Note: For now, the tool can rescue data from broken Android only if your phone i
 
 
 
-### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html)
+### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
 
@@ -302,7 +302,7 @@ Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://too
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 The real fix to issues like "Android phone will not switch on"
 
@@ -434,7 +434,7 @@ If you’re still encountering the Parsing error, there may be a problem with th
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix all android system issues in one click
 

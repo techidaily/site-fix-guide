@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y200 | Dr.fone
-date: 2024-05-19T03:58:57.972Z
-updated: 2024-05-20T03:58:57.972Z
+date: 2024-07-08T04:37:38.201Z
+updated: 2024-07-09T04:37:38.201Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Fix Part of the Touch Screen Not Working on Vivo Y200
 excerpt: This article describes How To Fix Part of the Touch Screen Not Working on Vivo Y200
 keywords: Vivo Y200 android tips,android issues,Vivo Y200 android problems,android guide,Vivo Y200 android repair,android troubleshooting,Vivo Y200 android solutions,Vivo Y200 android help,Vivo Y200 android troubleshooting,Vivo Y200 android support,Vivo Y200 android guide
-thumbnail: https://www.lifewire.com/thmb/OvgDF4DN2kQY2wqfN-oCDktYpM4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-time-of-day-to-instagram-3485858-1-5bb3cc9046e0fb002612537d.jpg
+thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00c96089d339b8e4537366b75.jpg
 ---
 
 ## How To Fix Part of the Touch Screen Not Working on Vivo Y200
@@ -205,7 +205,7 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 - Depending on the toolkit required, the program can be costly.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
@@ -331,7 +331,7 @@ Today, we will use Dr.Fone’s System Repair (Android) module to fix Android cam
 
 Download Dr.Fone here.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
@@ -365,7 +365,7 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
@@ -399,7 +399,7 @@ If you cannot update Google play services by the reason of custom ROM incompatib
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Google Play Services not updating
 
@@ -443,7 +443,7 @@ When the firmware is downloaded completely, the program will automatically start
 
 ![restored android to normal](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 3: 10 Common Fixes When Google Play Services Won’t Update
 

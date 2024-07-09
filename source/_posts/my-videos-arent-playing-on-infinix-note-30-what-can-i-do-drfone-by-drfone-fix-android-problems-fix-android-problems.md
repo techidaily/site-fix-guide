@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Infinix Note 30 – What Can I Do? | Dr.fone
-date: 2024-05-19T03:59:05.149Z
-updated: 2024-05-20T03:59:05.149Z
+date: 2024-07-08T04:36:51.813Z
+updated: 2024-07-09T04:36:51.813Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes My Videos Arent Playing on Infinix Note 30 – What Can I Do?
 excerpt: This article describes My Videos Arent Playing on Infinix Note 30 – What Can I Do?
 keywords: Infinix Note 30 android repair,fix android problems,Infinix Note 30 fix android problems,android repair,Infinix Note 30 android guide,Infinix Note 30 android solutions,android troubleshooting,android support,android issues,android guide,android tips,android solutions
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## My Videos Aren't Playing on Infinix Note 30 – What Can I Do?
@@ -172,7 +172,7 @@ To uninstall the video app on your Android, go to **Settings > Apps**. Locate th
 
 To reinstall it again, go to the Google Play Store, search for the video app you want to have, then click **Install**.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,974,400** people have downloaded it
 
@@ -226,7 +226,7 @@ Another reason why your Chrome has stopped could be the corrupted software. You 
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix crashing Chrome
 
@@ -312,7 +312,7 @@ Note: For now, the tool can rescue data from broken Android only if your phone i
 
 
 
-### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html)
+### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
 
@@ -375,7 +375,7 @@ Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://too
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 The real fix to issues like "Android phone will not switch on"
 

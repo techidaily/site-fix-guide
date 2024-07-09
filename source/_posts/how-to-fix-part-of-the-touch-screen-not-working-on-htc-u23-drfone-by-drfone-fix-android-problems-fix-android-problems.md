@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on HTC U23 | Dr.fone
-date: 2024-05-19T03:58:57.418Z
-updated: 2024-05-20T03:58:57.418Z
+date: 2024-07-08T04:37:07.770Z
+updated: 2024-07-09T04:37:07.770Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Fix Part of the Touch Screen Not Working on HTC U23
 excerpt: This article describes How To Fix Part of the Touch Screen Not Working on HTC U23
 keywords: HTC U23 android support,HTC U23 android repair,HTC U23 android issues,HTC U23 android solutions,android support,android troubleshooting
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## How To Fix Part of the Touch Screen Not Working on HTC U23
@@ -205,7 +205,7 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 - Depending on the toolkit required, the program can be costly.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
@@ -298,7 +298,7 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,136,839** people have downloaded it
 
@@ -536,7 +536,7 @@ Keeping your apps updated should help you solve app crashing issues that can imp
 
 Wondershare Dr.Fone for iOS and Android is free to download and install. You can also test the first few steps and see if the program supports your device. However, when you click the **Fix Now** button to start the repair process, you will be required to enter a valid license to activate the program.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 

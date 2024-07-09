@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Vivo S17 Pro | Dr.fone
-date: 2024-05-19T03:58:58.814Z
-updated: 2024-05-20T03:58:58.814Z
+date: 2024-07-08T04:37:28.513Z
+updated: 2024-07-09T04:37:28.513Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Vivo S17 Pro
 excerpt: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on Vivo S17 Pro
 keywords: android tips,Vivo S17 Pro android solutions,Vivo S17 Pro android troubleshooting,Vivo S17 Pro android help,android guide,Vivo S17 Pro android fix,Vivo S17 Pro android issues,Vivo S17 Pro android problems
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## How to Fix Unfortunately, Contacts Has Stopped Error on Vivo S17 Pro
@@ -24,7 +24,7 @@ We’re always in search of a method that provides handy solution in a quite spe
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Contacts app crashing on Android in one click
 
@@ -210,7 +210,7 @@ The most common cause for error code 505 pop-up is that Android system files tha
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
 
@@ -387,7 +387,7 @@ When you encounter an Android system crash, before looking for solutions to fix 
 
 
 
-### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html)
+### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
 
@@ -430,7 +430,7 @@ You may follow the steps given below to rescue your data from crashed Android de
 
 Using Dr.Fone Damage Extraction software is intuitive and very safe. It prevents data loss and allows you to adopt various ways to recover your device from the Android system crash issue.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 2: Why does my Android phone system keep crashing?
 
@@ -560,7 +560,7 @@ It features a great system providing a one-click Android repair option for fixin
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
 
@@ -612,7 +612,7 @@ Once it downloads and is verified, click the "Fix Now" button to repair the Andr
 
 ![android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 11: Factory reset the Vivo S17 Pro device to fix the Android crash issue
 
@@ -642,7 +642,7 @@ Reboot the phone in Recovery Mode by selecting the first option.
 
 Bottomline, the tips given above have helped many to solve the Android system crash issue. So do not hesitate to try them, but don't forget to extract your data with Dr.Fone’s Data Recovery tool.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"

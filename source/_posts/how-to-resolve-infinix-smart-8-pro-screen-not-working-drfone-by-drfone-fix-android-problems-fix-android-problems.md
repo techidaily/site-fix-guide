@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Smart 8 Pro Screen Not Working | Dr.fone
-date: 2024-05-19T03:59:01.969Z
-updated: 2024-05-20T03:59:01.969Z
+date: 2024-07-08T04:36:46.643Z
+updated: 2024-07-09T04:36:46.643Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Resolve Infinix Smart 8 Pro Screen Not Working
 excerpt: This article describes How to Resolve Infinix Smart 8 Pro Screen Not Working
 keywords: android repair,Infinix Smart 8 Pro android troubleshooting,android solutions,Infinix Smart 8 Pro android support,Infinix Smart 8 Pro android help,android tips,android help
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## How to Resolve Infinix Smart 8 Pro Screen Not Working
@@ -184,7 +184,7 @@ If still, the Phone app keeps stopping after trying everything, here is the most
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix "Unfortunately, Phone Has Stopped" on Infinix Smart 8 Pro devices.
 
@@ -228,7 +228,7 @@ When you see the firmware has been downloaded, the issue will begin to get resol
 
 ![Phone app crashing - device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ### 2.7 Factory reset
 
@@ -240,7 +240,7 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## 11 Ways to Fix it When My Infinix Smart 8 Pro Won't Charge
 
@@ -260,7 +260,7 @@ Well, we have got [Dr.Fone - System Repair (Android)](https://tools.techidaily.c
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Easy-to-operate program to fix Android phone won’t charge
 

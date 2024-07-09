@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Infinix Zero 30 5G – What Can I Do? | Dr.fone
-date: 2024-05-19T03:59:05.156Z
-updated: 2024-05-20T03:59:05.156Z
+date: 2024-07-08T04:37:15.128Z
+updated: 2024-07-09T04:37:15.128Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes My Videos Arent Playing on Infinix Zero 30 5G – What Can I Do?
 excerpt: This article describes My Videos Arent Playing on Infinix Zero 30 5G – What Can I Do?
 keywords: Infinix Zero 30 5G android issues,fix android problems,android help,android tips,Infinix Zero 30 5G android troubleshooting,Infinix Zero 30 5G android solutions,android issues,android solutions,android troubleshooting,Infinix Zero 30 5G android help
-thumbnail: https://www.lifewire.com/thmb/k79dGrFEq_x9Rf5uBTEI3SQDmhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Cloud-Next-59a9cb4a03e644389e2ffa9939c420f8.jpg
+thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
 ---
 
 ## My Videos Aren't Playing on Infinix Zero 30 5G – What Can I Do?
@@ -172,7 +172,7 @@ To uninstall the video app on your Android, go to **Settings > Apps**. Locate th
 
 To reinstall it again, go to the Google Play Store, search for the video app you want to have, then click **Install**.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,974,400** people have downloaded it
 
@@ -356,7 +356,7 @@ Tried several methods to make the error 495 disappear, but nothing works? Well, 
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Best tool for fundamental Android repair in one click
 

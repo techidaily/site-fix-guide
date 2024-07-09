@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Realme 11X 5G Black and White | Dr.fone
-date: 2024-05-19T03:59:08.427Z
-updated: 2024-05-20T03:59:08.427Z
+date: 2024-07-08T04:36:59.157Z
+updated: 2024-07-09T04:36:59.157Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Quick Fixes for Why Is My Realme 11X 5G Black and White
 excerpt: This article describes Quick Fixes for Why Is My Realme 11X 5G Black and White
 keywords: Realme 11X 5G android help,android support,android troubleshooting,Realme 11X 5G android fix,fix android problems,android problems,Realme 11X 5G android troubleshooting,android fix,Realme 11X 5G android guide,Realme 11X 5G android problems,Realme 11X 5G android solutions
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## Quick Fixes for Why Is My Realme 11X 5G Black and White
@@ -81,7 +81,7 @@ Dr.Fone is a reliable solution for addressing black-and-white display issues on 
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
 
@@ -97,7 +97,7 @@ Repair Android System Errors without Any Trouble.
 
 ![dr.fone android repair window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,601,336** people have downloaded it
 
@@ -524,7 +524,7 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![drfone system repair process complete](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,262,204** people have downloaded it
 

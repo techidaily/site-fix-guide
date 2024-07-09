@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Why Is My Infinix Smart 8 Black and White | Dr.fone
-date: 2024-06-23T05:58:29.083Z
-updated: 2024-06-24T05:58:29.083Z
+date: 2024-07-08T04:37:30.355Z
+updated: 2024-07-09T04:37:30.355Z
 tags: 
   - problems
 categories:
@@ -97,7 +97,7 @@ Repair Android System Errors without Any Trouble.
 
 ![dr.fone android repair window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,601,336** people have downloaded it
 
@@ -435,7 +435,7 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair tool.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,322,863** people have downloaded it
 

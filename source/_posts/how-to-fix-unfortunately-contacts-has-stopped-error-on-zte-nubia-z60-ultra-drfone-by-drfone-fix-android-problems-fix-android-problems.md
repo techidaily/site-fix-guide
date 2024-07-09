@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on ZTE Nubia Z60 Ultra | Dr.fone
-date: 2024-05-19T03:58:58.958Z
-updated: 2024-05-20T03:58:58.958Z
+date: 2024-07-08T04:37:07.102Z
+updated: 2024-07-09T04:37:07.102Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on ZTE Nubia Z60 Ultra
 excerpt: This article describes How to Fix Unfortunately, Contacts Has Stopped Error on ZTE Nubia Z60 Ultra
 keywords: fix android problems,ZTE Nubia Z60 Ultra android guide,android tips,ZTE Nubia Z60 Ultra android fix,android troubleshooting,android problems
-thumbnail: https://www.lifewire.com/thmb/AOVQTNyOWIZPYiKZehcoYQS3DNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-820926684-5c7747ebc45847708ac311b709bdc1f2.jpg
+thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343ebf5ad117060d9466fac18ee3.jpg
 ---
 
 ## How to Fix Unfortunately, Contacts Has Stopped Error on ZTE Nubia Z60 Ultra
@@ -24,7 +24,7 @@ We’re always in search of a method that provides handy solution in a quite spe
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Fix Contacts app crashing on Android in one click
 
@@ -270,7 +270,7 @@ Dr.Fone - Screen Unlock (Android) is powerful software designed to unlock ZTE Nu
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Unlock ZTE Nubia Z60 Ultra Without Password
 
@@ -303,7 +303,7 @@ Allow the unlock process to run its course. If unsuccessful, click 'Try Again' f
 
 ![android screen unlocked](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/QWpE8NykOWc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -323,7 +323,7 @@ For ZTE Nubia Z60 Ultra owners, your device's revival rests in your hands. By em
 
 For those who find themselves locked out of their ZTE Nubia Z60 Ultra devices, there's a reliable solution at your fingertips. Try [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to regain access to your device swiftly and securely.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Fix ZTE Nubia Z60 Ultra Android System Webview Crash 2024 Issue
 
@@ -445,7 +445,7 @@ Before attempting any repairs, it is crucial to back up your ZTE Nubia Z60 Ultra
 
 - **Step 1:** Download the Dr.Fone toolkit. Next, install the software on your desktop and launch it.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,090,920** people have downloaded it
 
@@ -486,7 +486,7 @@ By understanding the signs and causes of **ZTE Nubia Z60 Ultra Android System We
 
 For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reliable and user-friendly approach. Its advanced capabilities effectively tackle app crashing issues, providing you peace of mind that your phone is functioning optimally.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,684,259** people have downloaded it
 

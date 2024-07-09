@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Hot 30 5G | Dr.fone
-date: 2024-05-19T03:58:57.425Z
-updated: 2024-05-20T03:58:57.425Z
+date: 2024-07-08T04:37:09.822Z
+updated: 2024-07-09T04:37:09.822Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Fix Part of the Touch Screen Not Working on Infinix Hot 30 5G
 excerpt: This article describes How To Fix Part of the Touch Screen Not Working on Infinix Hot 30 5G
 keywords: Infinix Hot 30 5G android problems,Infinix Hot 30 5G android guide,Infinix Hot 30 5G android help,Infinix Hot 30 5G fix android problems,Infinix Hot 30 5G android tips,android issues,android problems,android solutions,android repair,Infinix Hot 30 5G android issues,android guide
-thumbnail: https://www.lifewire.com/thmb/FN7XGTj25e9fUSdywINjYYIsMCI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545864051-5c29cf6346e0fb0001d25712.jpg
+thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea3bc2d6cdbbe36e4703b4b56.jpg
 ---
 
 ## How To Fix Part of the Touch Screen Not Working on Infinix Hot 30 5G
@@ -205,7 +205,7 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 - Depending on the toolkit required, the program can be costly.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
@@ -233,7 +233,7 @@ When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 One click tool to fix "Unfortunately TouchWiz has stopped"
 

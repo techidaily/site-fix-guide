@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Sony Xperia 5 V | Dr.fone
-date: 2024-05-19T03:59:01.681Z
-updated: 2024-05-20T03:59:01.681Z
+date: 2024-07-08T04:37:03.274Z
+updated: 2024-07-09T04:37:03.274Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Quickly Fix Bluetooth Not Working on Sony Xperia 5 V
 excerpt: This article describes How to Quickly Fix Bluetooth Not Working on Sony Xperia 5 V
 keywords: Sony Xperia 5 V android repair,Sony Xperia 5 V fix android problems,Sony Xperia 5 V android tips,Sony Xperia 5 V android guide,android support,android tips,Sony Xperia 5 V android fix,Sony Xperia 5 V android solutions,Sony Xperia 5 V android problems,android troubleshooting,android solutions,fix android problems
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## How to Quickly Fix Bluetooth Not Working on Sony Xperia 5 V
@@ -38,7 +38,7 @@ Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hai
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Bluetooth issues in one click
 
@@ -204,7 +204,7 @@ If you’re writing a lot of data to your device in one go, this can sometimes o
 
 If this is the case, there’s a solution known as [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) that can help. This is an industry-leading package that has everything you need to get your device running as it should be.
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Easiest Fix to Error Code 920
 
@@ -490,7 +490,7 @@ Keeping your apps updated should help you solve app crashing issues that can imp
 
 Wondershare Dr.Fone for iOS and Android is free to download and install. You can also test the first few steps and see if the program supports your device. However, when you click the **Fix Now** button to start the repair process, you will be required to enter a valid license to activate the program.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
