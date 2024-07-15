@@ -1,7 +1,7 @@
 ---
 title: Reasons for Samsung Galaxy F15 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone
-date: 2024-03-19 21:25:38
-updated: 2024-03-21 14:21:45
+date: 2024-07-14T07:20:23.444Z
+updated: 2024-07-15T07:20:23.444Z
 tags: 
   - problems
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Reasons for Samsung Galaxy F15 5G Stuck on Boot Screen and Ways To Fix Them
 excerpt: This article describes Reasons for Samsung Galaxy F15 5G Stuck on Boot Screen and Ways To Fix Them
 keywords: android help,android problems,android fix,android guide,Samsung Galaxy F15 5G android repair,Samsung Galaxy F15 5G android issues
-thumbnail: https://www.lifewire.com/thmb/emyPhVf3B4VLTCj8T835W3AqyOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-93420821-0ce0b19097fb47d78dec8dbc039c1260.jpg
+thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f4062f523abbe17fcfc5ae5fc7.jpg
 ---
 
 ## Reasons for Samsung Galaxy F15 5G Stuck on Boot Screen and Ways To Fix Them
@@ -54,10 +54,16 @@ To overcome this, locate the app that has been giving you issues and remove the 
 
 After understanding the common problems on why your ****Android phone is stuck on the logo**** page, here are five easy solutions you can try solving at home.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### 1. Force Reboot
 
 When encountering problems with your Samsung Galaxy F15 5G, such as being stuck at the ****Android boot screen****, you should first try a forced reboot. This simple yet effective solution could be what you need to solve all your Android problems. It is essential to leave your device turned off for at least a minute or two before turning it back on.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![forcing rebooting android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-03.jpg)
 
 ### 2. Pull Out Battery
@@ -108,11 +114,14 @@ Refer to the tutorial below to solve your ****Android phone is stuck on the logo
 
 **Step 3**: Input the ****Brand****, ****Name****, ****Model****, ****Country,**** and ****Carrier**** of your phone and click on ****Next****.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filling in data for phone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step 4**: Follow the instructions provided on the page and wait for the system repair to finish. After which, click on ****Done**** to complete the process.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
@@ -151,7 +160,7 @@ If you’re writing a lot of data to your device in one go, this can sometimes o
 
 If this is the case, there’s a solution known as [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) that can help. This is an industry-leading package that has everything you need to get your device running as it should be.
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Easiest Fix to Error Code 920
 
@@ -179,6 +188,9 @@ Then connect your Samsung Galaxy F15 5G using the official cable and select the 
 
 **Step #3** On the next screen, insert your device information to ensure you’re downloading the correct firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step #4** Put your phone into Download mode by following the onscreen instructions.
@@ -335,7 +347,7 @@ Before this, remember to take a backup of your Samsung Galaxy F15 5G. We recomme
 
 
 
-### [Dr.Fone - Phone Backup (Android)\_](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
+### Dr.Fone - Phone Backup (Android)\_
 
 Flexibly Backup and Restore Android Data
 
@@ -350,11 +362,14 @@ To enter the safe mode, follow the instructions below.
 
 Step  1 – First of all, long press the power button and let the Power options appear.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Power options](https://images.wondershare.com/drfone/article/2017/06/14986727492182.jpg)
 
 Step 2 – Now, long press on the "Power off” option. This will instantly ask you if you want to reboot into safe mode. Select the option and your device will reboot in safe mode.
 
-![‘Power off” ](https://images.wondershare.com/drfone/article/2017/06/14986728022827.jpg)
+![‘Power off”](https://images.wondershare.com/drfone/article/2017/06/14986728022827.jpg)
 
 If you are using Android version 4.2 or earlier, turn off the Samsung Galaxy F15 5G device and turn it on the back by tapping the power button. When the logo appears, tap and hold the volume down button. This will allow the Samsung Galaxy F15 5G device to boot in safe mode.
 
@@ -391,3 +406,70 @@ The safe mode is a very useful program for any Android device. But it limits the
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-flip-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Flip Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-flip-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Flip Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/exploring-android-the-most-popular-and-acclaimed-voice-capture-apps/"><u>Exploring Android The Most Popular and Acclaimed Voice Capture Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-the-power-of-visuals-with-top-free-slideshow-designs/"><u>In 2024, Unleash the Power of Visuals with Top Free Slideshow Designs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a78-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A78 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-winning-audio-editing-software-round-up-for-windows-and-mac-users/"><u>Updated In 2024, Winning Audio Editing Software Round-Up for Windows and Mac Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-prime-obs-arrangements-on-economy-computers-for-2024/"><u>[Updated] Prime OBS Arrangements on Economy Computers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-your-livestream-essential-tips-for-top-9-filters/"><u>Master Your Livestream  Essential Tips for Top 9 Filters</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a78-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A78 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-flipbook-of-facebook-feeds/"><u>2024 Approved  Flipbook of Facebook Feeds</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f25-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F25 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-quintessential-song-compendium-optimal-audio-to-enhance-montage-cinematics-for-2024/"><u>Updated The Quintessential Song Compendium Optimal Audio to Enhance Montage Cinematics for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-distinguishing-between-youtube-policies-and-cc-clauses/"><u>In 2024, Distinguishing Between YouTube Policies and CC Clauses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-fixing-rtmp-streams-in-premiere/"><u>[New] The Ultimate Guide to Fixing RTMP Streams in Premiere</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a78-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A78 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleashing-potential-growth-in-youtube-traffic/"><u>2024 Approved  Unleashing Potential  Growth in YouTube Traffic</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-capturing-your-gaming-adventures-best-practices-reviewed-for-2024/"><u>[New] Capturing Your Gaming Adventures  Best Practices Reviewed for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-reno-8t-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Reno 8T 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-seven-superior-water-tough-cams-guide/"><u>[Updated] Exploring the Seven Superior Water-Tough Cams Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify some outdated your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f25-pro-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F25 Pro 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a79-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A79 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-measuring-video-storage-space-64128gb-hard-drive-analysis/"><u>[Updated] Measuring Video Storage Space - 64/128GB Hard Drive Analysis</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-detect-and-fix-image-aspect-imbalance/"><u>New 2024 Approved Detect and Fix Image Aspect Imbalance</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-101-download-edit-and-share-your-creations-online/"><u>Video Editing 101 Download, Edit, and Share Your Creations Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-iphone-13-imei-checker-by-drfone-ios/"><u>In 2024, Best Free iPhone 13 IMEI Checker</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a79-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A79 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-aquatic-filters-boosting-gopro-cinematography/"><u>[Updated] Premium Aquatic Filters Boosting GoPro Cinematography</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a79-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A79 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-g24-power-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola G24 Power</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a79-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A79 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leveraging-communication-to-enhance-interview-success/"><u>[New] Leveraging Communication to Enhance Interview Success</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f25-pro-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F25 Pro 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieving-visual-precision-with-the-right-4k-display-selection-for-2024/"><u>Achieving Visual Precision with the Right 4K Display Selection for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-flip-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Flip Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a78-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A78 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-audio-enhancement-in-your-windows-environment-maximizing-sound-on-budget/"><u>2024 Approved Audio Enhancement in Your Windows Environment - Maximizing Sound on Budget</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-8-ios-pencil-programs-perfected-for-ipados-for-2024/"><u>[New] Top 8 iOS Pencil Programs Perfected for iPadOS for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-visualeditormaster-reviews-complete-analysis/"><u>[Updated] VisualEditorMaster Reviews – Complete Analysis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a78-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A78 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-animation-powerhouses-top-8-software-solutions-for-macwindows-for-2024/"><u>New Animation Powerhouses Top 8 Software Solutions for Mac/Windows for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a79-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A79 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-your-figma-project-with-clean-backgrounds/"><u>[Updated] Streamlining Your Figma Project with Clean Backgrounds</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-remove-audio-from-video-on-mac-free-and-official-solutions/"><u>How to Remove Audio From Video on Mac? Free and Official Solutions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/seamless-shift-to-graphics-mastering-the-art-of-tiktok-to-gif-for-2024/"><u>Seamless Shift to Graphics  Mastering the Art of TikTok to GIF for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-flip-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Flip Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-flip-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Flip Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a78-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A78 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f25-pro-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F25 Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a78-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A78 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-crafting-strikingly-viral-content-50-inspiring-tiktok-quotes-for-2024/"><u>[New] Crafting Strikingly Viral Content  50 Inspiring TikTok Quotes for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a79-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A79 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-premier-mp4-broadcast-suite/"><u>[New] In 2024, Premier MP4 Broadcast Suite</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f25-pro-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F25 Pro 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>

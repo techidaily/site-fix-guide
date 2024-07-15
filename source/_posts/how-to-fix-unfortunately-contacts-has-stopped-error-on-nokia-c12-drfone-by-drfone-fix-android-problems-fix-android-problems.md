@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Nokia C12 | Dr.fone
-date: 2024-06-30T13:47:50.519Z
-updated: 2024-07-01T13:47:50.519Z
+date: 2024-07-14T05:52:50.456Z
+updated: 2024-07-15T05:52:50.456Z
 tags: 
   - problems
 categories:
@@ -92,6 +92,9 @@ The cache memory basically stashes the copies of the concerned application. It i
 
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.3 Wipe cache partition
 
 As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the Nokia C12 device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
@@ -297,6 +300,9 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 7: Check and update Android OS
 
 A lot of times minor issues crop up due to the operating systems that get outdated. It is because the Nokia C12 device needs to get updated from time-to-time for proper functioning otherwise it will not be able to match up with the fading technologies thereby coming up with issues like “Unfortunately Settings has stopped”. We recommend here you check for the available update and update your device. For this follow the guide below.
@@ -341,6 +347,9 @@ OS bugs and general glitches within the OS and the camera app can cause camera n
 
 In the rarest cases, there might have developed an actual hardware issue with the camera system on your Nokia C12. The likely culprit is misuse and abuse, such as a dropped phone or maybe the phone was too hot for extended periods of time, causing hardware issues.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part II: How To Fix Android Camera Not Working Issue?
 
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your Nokia C12 right where you are, without needing to take the Nokia C12 device to the manufacturer’s service center.
@@ -395,6 +404,9 @@ The camera app is closely tied to the photo gallery app that comes baked in into
 
 Step 1: Go to Settings > Apps > Photos > Storage Usage.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![clear photo gallery app cache](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-8.jpg)
 
 Step 2: Tap Clear Cache.
@@ -441,6 +453,9 @@ Step 1: Launch Dr.Fone app on your PC or Mac.
 
 Step 2: Click System Repair module and then Android.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
@@ -492,3 +507,65 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://audio-shaping.techidaily.com/extensive-info-on-vimeo-video-aspect-ratio-detailled-for-2024/"><u>Extensive Info on Vimeo Video - Aspect Ratio Detailled for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-poco-c50-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco C50 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a56s-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A56s 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/form-ideas-into-visuals-free-templates-for-video-makers-for-2024/"><u>Transform Ideas Into Visuals  Free Templates for Video Makers for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-reno-9a-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Reno 9A Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-reno-8t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Reno 8T Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-reno-10-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Reno 10 Pro 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-reno-11f-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Reno 11F 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a78-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A78 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-f23-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo F23 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-guide-to-10-must-have-ig-video-editing-tools/"><u>2024 Approved  The Ultimate Guide to 10 Must-Have IG Video Editing Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/any-video-may-be-enhanced-using-adobe-premiere-transitions-if-you-are-looking-to-learn-how-to-add-fade-to-black-in-premiere-pro-then-check-out-this-fade-to-/"><u>Any Video May Be Enhanced Using Adobe Premiere Transitions. If You Are Looking to Learn How to Add Fade to Black in Premiere Pro? Then, Check Out This Fade to Black Transition Premiere Pro Guide to Learn the Trick</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-peek-into-the-best-non-youtube-sites-for-videostreams/"><u>In 2024, A Peek Into the Best Non-Youtube Sites for Videostreams</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-poco-x6-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco X6 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-poco-x5-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco X5 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-reno-8t-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Reno 8T 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-huawei-nova-y71-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Huawei Nova Y71 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-find-n3-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Find N3 Safely | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-blur-your-video-for-free-no-software-required/"><u>Updated 2024 Approved Blur Your Video for Free No Software Required</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a58-4g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A58 4G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-poco-c55-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco C55 Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-wmp-for-effortless-audio-conversion/"><u>[Updated] Navigating WMP for Effortless Audio Conversion</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-poco-m6-pro-4g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco M6 Pro 4G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a78-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A78 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-poco-m6-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco M6 Pro 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-basic-routines-preserving-google-voice-conversations/"><u>[Updated] In 2024, Basic Routines  Preserving Google Voice Conversations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-premier-pick-top-10-apps-to-catch-football-and-tennis-in-the-moment/"><u>[Updated] 2024 Approved  Premier Pick  Top 10 Apps to Catch Football and Tennis in the Moment</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boosting-youtube-traffic-perfecting-titles-and-tags-for-max-views/"><u>Boosting YouTube Traffic  Perfecting Titles & Tags for Max Views</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-save-on-soccer-spectacles-live-tape-trim-for-free/"><u>[New] Save on Soccer Spectacles - Live, Tape, Trim for Free</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-become-a-zoom-champion-in-minutes/"><u>[New] Become a Zoom Champion in Minutes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-tecno-spark-20-proplus-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Tecno Spark 20 Pro+ Phone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamline-your-skype-talks-using-obs-effectively/"><u>[New] Streamline Your Skype Talks  Using OBS Effectively</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-find-x6-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Find X6 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-find-x6-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Find X6 Safely | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-the-ultimate-list-video-makers-with-music-for-android-iphone-and-ipad/"><u>In 2024, The Ultimate List Video Makers with Music for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-in-2024-adobe-animate-text-effects-skills-you-need-to-know/"><u>Updated In 2024, Adobe Animate Text Effects Skills You Need to Know</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-in-depth-viewer-tool-for-chilled-pleasures/"><u>[New] 2024 Approved  In-Depth Viewer Tool for Chilled Pleasures</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exclusive-insight-free-access-to-1-6-video-clips/"><u>2024 Approved  Exclusive Insight  Free Access to #1-#6 Video Clips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-new-realities-metaverse-meets-omniverse/"><u>2024 Approved  Navigating New Realities  Metaverse Meets Omniverse</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-find-n3-flip-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Find N3 Flip Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a59-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A59 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-pc-setup-for-smooth-tiktok-livestreams-made-easy/"><u>In 2024, PC Setup for Smooth TikTok Livestreams Made Easy</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-poco-m6-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco M6 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-huawei-nova-y91-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Huawei Nova Y91 Phone Screen?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-reno-11-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Reno 11 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-select-a-youtube-gaming-introduction-maker-free-or-paid-edition/"><u>[New] In 2024, How to Select a YouTube Gaming Introduction Maker  Free or Paid Edition</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-6s-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 6s Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-effortless-content-access-free-downloader-tools-for-pinterest-videos/"><u>In 2024, Effortless Content Access  Free Downloader Tools for Pinterest Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-ride-the-viral-wave-mixing-tiktok-flair-into-instagram-reels/"><u>[Updated] Ride the Viral Wave  Mixing TikTok Flair Into Instagram Reels</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-find-x7-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Find X7 Safely | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-making-every-game-a-masterpiece-proven-methods-to-record-and-relish-your-sims-experiences/"><u>[New] 2024 Approved  Making Every Game a Masterpiece  Proven Methods to Record and Relish Your Sims’ Experiences</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-poco-f5-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco F5 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-poco-c51-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco C51 Safely | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-disappear-and-reappear-avoiding-shadowbans-on-tiktok/"><u>[Updated] In 2024, Disappear and Reappear  Avoiding Shadowbans on TikTok</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-poco-f5-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco F5 Pro 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-10t-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme 10T 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a79-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A79 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-discovering-the-potential-apple-devices-on-your-youtube-channel/"><u>In 2024, Discovering the Potential  Apple Devices on Your YouTube Channel</u></a></li>
+</ul></div>

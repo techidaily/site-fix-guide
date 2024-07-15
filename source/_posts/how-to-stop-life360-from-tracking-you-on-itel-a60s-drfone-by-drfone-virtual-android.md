@@ -1,7 +1,7 @@
 ---
 title: How to Stop Life360 from Tracking You On Itel A60s? | Dr.fone
-date: 2024-05-19T03:58:48.042Z
-updated: 2024-05-20T03:58:48.042Z
+date: 2024-07-14T05:19:15.809Z
+updated: 2024-07-15T05:19:15.809Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Stop Life360 from Tracking You On Itel A60s?
 excerpt: This article describes How to Stop Life360 from Tracking You On Itel A60s?
 keywords: change location on A60s,fake location on A60s,change location on android,change gps location on android,fake location on android,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## How to Stop Life360 from Tracking You On Itel A60s?
@@ -77,7 +77,10 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -106,6 +109,9 @@ Now, follow the following steps to install any fake GPS on Android.
 - Under enable developer option go to allow mock location app and select the app you installed from the list
 - Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Use a Burner Phone for Life360 Fake Location
 
 The burner is a phone on which you can install Life360 and can put it in one place while going out with another phone. It is a great trick to stop Life360 from tracking you. The only thing is that you should need to have two phones.
@@ -195,6 +201,9 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 
 **Step 5**: The joystick will appear at the side. You can use this joystick to control your spoofed movement as you open other apps and try them out.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![joystick will appear](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 **Step 6**: You can choose the Multi-Stop Route icon to see different points on the screen. The software automatically detects the best way to reach the destination, joining all selected points into one overall route for automatic GPS movement.
@@ -307,6 +316,9 @@ Instead, while using this app, you can set up start and end points for your rout
 
 **Step 2**: Long-tap points on the map to mark starting and ending locations. The app will automatically start evaluating suitable routes.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![long tap points on the map](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-8.jpg)
 
 **Step 3:** Click on the confirm tick mark icon. Follow developer permission settings-related steps, and tap on Go.
@@ -370,6 +382,9 @@ There is the possibility of limiting the details about your location to others i
 - First, launch Life360 on your device and navigate to ‘settings.’ You can find it at the bottom right corner of the screen.
 - Next, choose a circle you want to stop sharing your location with at the top of the page.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate the circle on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-3.png)
 
 - Tap on ‘location sharing’ and click on the slider next to it to disable location sharing.
@@ -427,7 +442,7 @@ Fortunately, you have another effective option, and that is by faking your GPS l
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -504,3 +519,68 @@ Life360 is a useful app for professional and personal circles. However, it can b
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/pioneering-success-with-real-time-twitter-videos/"><u>Pioneering Success with Real-Time Twitter Videos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-best-free-video-rotators-for-3gp-files-a-comprehensive-list/"><u>In 2024, The Best Free Video Rotators for 3GP Files A Comprehensive List</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-tecno-spark-go-2024-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Tecno Spark Go (2024) password or pattern lock</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-videopad-review-is-this-video-editor-right-for-you-for-2024/"><u>Updated Videopad Review Is This Video Editor Right for You for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inter-device-image-sharing-expertise/"><u>[New] Inter-Device Image Sharing Expertise</u></a></li>
+<li><a href="https://techidaily.com/will-galaxy-z-fold-5-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy Z Fold 5 play AVCHD mts files?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/asus-proart-4k-ultra-a-pro-artists-dream-display-for-2024/"><u>ASUS ProArt 4K Ultra  A Pro Artist's Dream Display for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/study-with-stars-the-finest-historical-channels-for-students-and-enthusiasts-for-2024/"><u>Study with Stars  The Finest Historical Channels for Students & Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-crafting-the-perfect-minecraft-playback-experience/"><u>2024 Approved  Crafting the Perfect Minecraft Playback Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unlocking-the-secrets-of-text-styling-in-discord/"><u>Unlocking the Secrets of Text Styling in Discord</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/essential-elements-for-implementing-channel-banners-in-games-for-2024/"><u>Essential Elements for Implementing Channel Banners in Games for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-breakdown-of-earnings-how-much-does-a-clicky-make/"><u>[New] 2024 Approved  Breakdown of Earnings  How Much Does a Clicky Make?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/bigger-head-vfx-techniques-to-impress-on-tiktok-videos-3-methods/"><u>Bigger-Head VFX Techniques to Impress on TikTok Videos (3 Methods)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-social-media-sound-to-personal-melody-an-in-depth-guide/"><u>[Updated] From Social Media Sound to Personal Melody - An In-Depth Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 13 mini?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-5-cinematiccamera-tips/"><u>2024 Approved  Top 5 Cinematic/Camera Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-complete-rankings-of-mobile-apps-altering-your-speech/"><u>In 2024, The Complete Rankings of Mobile Apps Altering Your Speech</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 11 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-ultra-clear-video-in-zoom-meetings/"><u>[New] Unlocking Ultra-Clear Video in Zoom Meetings</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-screenrecorder-evaluation-tool/"><u>2024 Approved  ScreenRecorder Evaluation Tool</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-optimize-your-skype-interactions-the-top-voice-modification-gadgets-and-software/"><u>New 2024 Approved Optimize Your Skype Interactions The Top Voice Modification Gadgets and Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-hds-finest-picks-reviewing-top-screen-recorders/"><u>In 2024, HD's Finest Picks  Reviewing Top Screen Recorders</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-decoding-and-manipulating-gender-presentation-online-a-step-by-step-approach-for-2024/"><u>[New] Decoding and Manipulating Gender Presentation Online  A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-change-screenshot-saving-location-on-mac/"><u>2024 Approved  Change Screenshot Saving Location on Mac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-your-pathway-to-successful-youtube-beginnings-techniques-1-and-2/"><u>In 2024, Your Pathway to Successful YouTube Beginnings (Techniques 1 & 2)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-endorsed-ae-text-tools/"><u>In 2024, Expert-Endorsed AE Text Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-revolutionizing-your-video-capture-with-simple-tricks/"><u>[New] 2024 Approved  Revolutionizing Your Video Capture with Simple Tricks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-blade-a73-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Blade A73 5G</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/captivate-with-time-lapse-artistry-on-samsung-phones/"><u>Captivate with Time-Lapse Artistry on Samsung Phones</u></a></li>
+</ul></div>

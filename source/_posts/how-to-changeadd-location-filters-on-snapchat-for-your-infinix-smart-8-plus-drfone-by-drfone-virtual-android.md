@@ -1,7 +1,7 @@
 ---
 title: How to Change/Add Location Filters on Snapchat For your Infinix Smart 8 Plus | Dr.fone
-date: 2024-05-19T03:58:53.605Z
-updated: 2024-05-20T03:58:53.605Z
+date: 2024-07-14T05:33:06.139Z
+updated: 2024-07-15T05:33:06.139Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change/Add Location Filters on Snapchat For your Infinix Smart 8 Plus
 excerpt: This article describes How to Change/Add Location Filters on Snapchat For your Infinix Smart 8 Plus
 keywords: change skype location for Infinix Smart 8 Plus,fake location for Android,fake Twitter location for Android,fake skype location for Android,change WhatsApp location for Infinix Smart 8 Plus,change Twitter location for Infinix Smart 8 Plus,change location for Android,change skype location for Android,change WhatsApp location for Android,change location for Infinix Smart 8 Plus,fake WhatsApp location for Android
-thumbnail: https://www.lifewire.com/thmb/x14UrRTf3--IfQ99R_ewwR4TwWY=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104288650-cd3f369f8ead449f94d1a1ce6f55c9de.jpg
+thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006aaa80a48dab2ef20ecc47cd.jpg
 ---
 
 ## How to Change/Add Location Filters on Snapchat For your Infinix Smart 8 Plus
@@ -52,6 +52,9 @@ Now that this setting is enabled on Snapchat, you can add your location filter e
 
 **Step 4.** Finally, customize your video further and then click **Send To**. Your selected location filter will be added to your Snapchat post.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![how to add location filter on Snapchat share location](https://images.wondershare.com/drfone/article/2022/03/how-to-add-location-filter-on-snapchat-3.jpg)
 
 ## Part 3: How to Change or Add a Fake Location on Snapchat Filters?
@@ -64,7 +67,7 @@ So, without dilly-dallying much, here's how to fake a **Snapchat location tag** 
 
 
 
-### [Dr.Fone - Virtual Location](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -82,7 +85,7 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 
 **Step 2.** Next, install and run Dr.Fone on your computer. Then, tap the **Virtual Location** button on the home window, and tap **Get Started**.
 
-![ how to add location filter on Snapchat, open virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
+![how to add location filter on Snapchat, open virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 3.** Now allow USB debugging on your Infinix Smart 8 Plus before clicking **Next** on Dr.Fone. Don't know how to do that? Open Settings > Additional Settings > Developer options > USB debugging. Also, choose Dr.Fone as the mock location app.
 
@@ -116,6 +119,9 @@ While installing the Snapchat app and creating an account, the app will practica
 
 Sometimes you might want to urgently find a friend on Snapchat when you are in Ghost Mode. To do that, deactivate Ghost Mode on Snapchat by clicking Profile > Settings > See My Location and disabling Ghost Mode. Now open the Snap Map, and you'll see your location with a red Bitmoji. You'll also see your nearby friends with enabled Snapchat locations on the map. If you can't find them, tap the Search icon, choose or enter their name, and see them on the map or send a text.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Wrap it Up
 
 Now you have a complete idea of what the Snapchat location filter is. In short, it is simply a creative way to share your Snapchat location tag on a post. But because you can't spoof your location on Snapchat, I recommend using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to teleport your Snapchat location to anywhere in the world. This tool also works with other social media apps like Facebook, WhatsApp, and Telegram. Enjoy!
@@ -164,13 +170,13 @@ We have discussed why it is essential to know how to change the location of TikT
 
 If you are interested in changing your location on your iOS and Android devices, the following methods are aligned for you:
 
-#### Method 1: A tested way - [Dr.Fone - Virtual location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+#### Method 1: A tested way - Dr.Fone - Virtual location
 
 Dr.Fone – Virtual Location is an application designed for Android and iOS devices. This application assists in teleporting the GPS location to any other location easily. With this location changer, you can fake your location and enjoy the content of different regions without having to travel anywhere. The following steps will guide you on how to change the TikTok country location with Dr.Fone – Virtual location:
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 **Step 1: Access the Location Changer**
 
@@ -194,6 +200,9 @@ Now, click on "Teleport Mode" by pressing the first icon on the upper-right side
 
 Now, the location of your iOS or Android phone has been fixed to the given location. So you can now enjoy your fake location content on TikTok while bypassing all the restrictions efficiently.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location is faked](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 #### Method 2: Changing Language on TikTok to Access Content from Other Regions
@@ -224,7 +233,7 @@ You can do so by ordering an international SIM card through Amazon and putting y
 
 Now, let's discuss how to change your location on TikTok from your Computer. For this, we have introduced a VPN service that fakes the location on TikTok and helps you access content from different regions.
 
-#### [ExpressVPN](https://www.expressvpn.com/)
+#### ExpressVPN
 
 ExpressVPN is a top-notch VPN that provides blazing-fast speed for browsing, streaming, and playing games with unlimited bandwidth. You can connect to the service anywhere as the application's high-speed servers work across 94 countries. In addition, it protects user data by offering the best security and encryption.
 
@@ -258,7 +267,7 @@ Yes, TikTok will not be able to detect that you are using a VPN. Therefore, you 
 
 We have extensively concluded different methods involved in **How to change location on TikTok**. For iOS and Android devices, you can do so with the help of [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . Besides, you can manually change your language or SIM card to access the content of the particular region. If you use a computer, you can use ExpressVPN and change the location of your device while hiding your IP address.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## How to Change Infinix Smart 8 Plus Location on Skout
 
@@ -304,7 +313,7 @@ The program will no longer take time and easily understand the location. It will
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -338,6 +347,9 @@ If you are still comfortable using Cydia to change Skout location, let us move o
 
 **Step 3:** Look for the FakeLocation app icon now and tap on it. Once you open it, tap on “Choose my fake location.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Choose my fake location](https://images.wondershare.com/drfone/article/2019/11/cydia-2.jpg)
 
 **Step 4:** Use the map to adjust at the location you want to spoof.
@@ -346,6 +358,9 @@ If you are still comfortable using Cydia to change Skout location, let us move o
 
 **Step 5:** Now, you are done. Just open Skout and enjoy the new location.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enjoy new location](https://images.wondershare.com/drfone/article/2019/11/cydia-4.jpg)
 
 ## Part 2: Change Skout Location on Android with a Spoofer App
@@ -416,3 +431,58 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-z-flip-5-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy Z Flip 5 Screen | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c51-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C51 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-note-12r-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi Note 12R? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-maximizing-visibility-how-to-upload-videos-to-instagram-desktop/"><u>2024 Approved  Maximizing Visibility  How to Upload Videos to Instagram Desktop</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-f5-pro-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 Pro 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-camon-20-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-zte-axon-40-lite-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of ZTE Axon 40 Lite? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-note-12t-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi Note 12T Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mpeg-video-splitter-roundup-top-picks/"><u>Free MPEG Video Splitter Roundup Top Picks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c51-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C51 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unveiling-windows-11-a-compreayer-to-master-video-editing-techniques/"><u>[New] In 2024, Unveiling Windows 11  A Compreayer to Master Video Editing Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/released-caught-in-the-web-of-missing-shorts-for-2024/"><u>Released  Caught in the Web of Missing Shorts for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c65-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C65 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-zte-nubia-z60-ultra-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of ZTE Nubia Z60 Ultra? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c50-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C50 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c55-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C55 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-rotate-avi-videos-with-ease-16-best-free-tools-and-apps/"><u>New Rotate AVI Videos with Ease 16 Best Free Tools and Apps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c51-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C51 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-f5-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ice-and-elegance-the-2022-winter-olympics-in-china/"><u>Ice & Elegance  The 2022 Winter Olympics in China</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c65-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C65 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c65-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C65 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c50-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C50 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-no-displayed-video-fixing-camera-issue-with-sony-a6400/"><u>In 2024, No Displayed Video  Fixing Camera Issue with Sony A6400</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c65-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C65 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-zte-blade-a73-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of ZTE Blade A73 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-deep-dive-into-cutting-edge-vr-technology-for-2024/"><u>A Deep Dive Into Cutting-Edge VR Technology for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c55-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C55 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-90-litewithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor 90 Litewith/without a PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/giggle-factory-gratis-memo-makers-available/"><u>Giggle Factory  Gratis Memo Makers Available</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-note-13-pro-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi Note 13 Pro 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-f5-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c65-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C65 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-liberating-c-span-content-a-guide-to-unauthorized-downloads/"><u>In 2024, Liberating C-Span Content  A Guide to Unauthorized Downloads</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c50-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C50 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-defender-written-by-michael-cramer/"><u>Navigating Windows Defender' Written by Michael Cramer</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-captivating-content-top-three-channel-growth-strategies/"><u>[Updated] Captivating Content  Top Three Channel Growth Strategies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/capturecare-essential-guide-to-ig-photo-and-video-resize/"><u>CaptureCare  Essential Guide to IG Photo & Video Resize</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-guide-distribute-your-youtube-collection/"><u>[Updated] Step-by-Step Guide  Distribute Your YouTube Collection</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c55-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C55 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/quick-guide-applying-discord-spoiler-tags-right-for-2024/"><u>Quick Guide  Applying Discord Spoiler Tags Right for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c55-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C55 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c65-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C65 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c55-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C55 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c55-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C55 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-f5-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-f5-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c51-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C51 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c51-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C51 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>

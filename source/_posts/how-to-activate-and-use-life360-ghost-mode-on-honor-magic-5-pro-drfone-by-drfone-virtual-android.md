@@ -1,7 +1,7 @@
 ---
 title: How To Activate and Use Life360 Ghost Mode On Honor Magic 5 Pro | Dr.fone
-date: 2024-05-19T03:58:56.969Z
-updated: 2024-05-20T03:58:56.969Z
+date: 2024-07-14T05:39:36.134Z
+updated: 2024-07-15T05:39:36.134Z
 tags: 
   - virtual location change
   - social app
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Activate and Use Life360 Ghost Mode On Honor Magic 5 Pro
 excerpt: This article describes How To Activate and Use Life360 Ghost Mode On Honor Magic 5 Pro
 keywords: change facebook location for Android,change location for Android,change skype location for Honor Magic 5 Pro,change location for Honor Magic 5 Pro,fake facebook location for Android,fake WhatsApp location for Android,change Twitter location for Android
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## How To Activate and Use Life360 Ghost Mode On Honor Magic 5 Pro
@@ -124,6 +124,9 @@ Disabling WiFi and data on Life360 is a common method to prevent location tracki
 
 - **Step 2**: In **Settings**, locate Life360 Disable **Cellular Data**, **Background Refresh**, and **Motion & Fitness**. Once done, the Life360 location will then remain static at the current position.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Dsiable Location Services for Life360
 
 Disabling location services provides an effective solution for pausing Life360 without detection, The method applies to both Android and iOS devices. Here’s how:
@@ -258,6 +261,9 @@ Another option is to activate Airplane Mode, severing all connections, including
 
 - **Step 1:** Access your device settings. Look for **Connections** or **Network & Internet**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![airplane mode interface](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-11.jpg)
 
 - **Step 2:** Toggle on **Airplane Mode**. The method severs all connections, including location sharing.
@@ -282,6 +288,9 @@ Switching to “Battery saving” or “Power saving” mode can affect the freq
 
 - **Step 1:** Go to your device **Settings**. Look for the **Battery** option.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![enable battery saving mode](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-13.jpg)
 
 - **Step 2:** Enable **Battery saving** or **Power saving** mode.
@@ -290,6 +299,9 @@ Switching to “Battery saving” or “Power saving” mode can affect the freq
 
 Acquiring a secondary, inexpensive phone for Life360 use may be an alternative if all else fails. This method involves monetary considerations and may not be practical for everyone.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. A Deep Dive on Life360’s Circle Feature
 
 Life360’s Circle feature serves as the cornerstone of the app. It fosters connectivity and safety among its users. After diving into **how to leave a Circle on Life360** in the above parts, it’s time to have a comprehensive look at essential aspects of the Circle feature:
@@ -357,6 +369,9 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 1. First, get into the Snapchat app and then visit either the Discover screen or the Camera or Friends. Next, tap on the magnifying glass and hit on Map.
 2. As soon as the SnapMap screen loads up, you need to access the settings by hitting the Gear icon on the top right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![start Ghost Mode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-3.jpg)
 
 3. Then, make use of the settings to set up your privacy and hit on the “Ghost Mode” toggle switch to turn it on. A pop-up window will appear with 3 different settings:
@@ -495,3 +510,51 @@ While reaching towards the end of the article, we are pretty sure that you now f
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-sony-xperia-5-v-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Sony Xperia 5 V Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-sony-xperia-10-v-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Sony Xperia 10 V Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-phantom-v-flip-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Phantom V Flip Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-innovation-unleashed-top-15-android-virtual-machines-macpc/"><u>[Updated] Innovation Unleashed  Top 15 Android Virtual Machines (Mac/PC)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713948085347-top-8-memoji-makers-to-make-a-memoji-on-pc-android-and-iphone-for-2024/"><u>Top 8 Memoji Makers to Make a Memoji on PC, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-elevate-group-video-sessions-with-discords-share-functionality/"><u>[New] In 2024, Elevate Group Video Sessions with Discord's Share Functionality</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-g2-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo G2 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-solutions-to-record-video-without-sound/"><u>2024 Approved  Best Solutions to Record Video Without Sound</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-that-accelerate-youtube-followers-acquisition/"><u>2024 Approved  Strategies That Accelerate YouTube Followers Acquisition</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-spark-20-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Spark 20 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-phantom-v-fold-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Phantom V Fold Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-s17-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo S17 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-pop-7-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Pop 7 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-z-fold-5-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy Z Fold 5 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-efficient-setup-ps4-streaming-and-recording-via-obs-for-2024/"><u>[New] Efficient Setup  PS4 Streaming and Recording via OBS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1717086805762-new-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>[New] Photography Tutorial_ How to Shoot and Create Impressive HDR Portraits</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-spark-10c-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Spark 10C Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-s17-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo S17 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-spark-20-proplus-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Spark 20 Pro+ Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-spark-go-2023-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Spark Go (2023) Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-spotlight-on-11-top-audio-capture-equipments/"><u>In 2024, Spotlight on 11 Top Audio Capture Equipments</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-play-8t-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Play 8T to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-camon-30-pro-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Camon 30 Pro 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-camon-20-pro-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Camon 20 Pro 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-overview-of-cost-free-livestream-apps-and-solutions-for-everyone/"><u>Comprehensive Overview of Cost-Free Livestream Apps & Solutions for Everyone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-pova-6-pro-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Pova 6 Pro 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/maximizing-soundcloud-music-tips-for-mp3-conversion-for-2024/"><u>Maximizing Soundcloud Music Tips for MP3 Conversion for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-copycatting-charisma-making-ingenious-parodies/"><u>In 2024, Copycatting Charisma  Making Ingenious Parodies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-sony-xperia-1-v-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Sony Xperia 1 V Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mental-gymnastics-at-the-best-puzzle-halls-for-2024/"><u>[New] Mental Gymnastics at the Best Puzzle Halls for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-achieving-professionalism-with-zoom-filter-applications/"><u>[Updated] In 2024, Achieving Professionalism with Zoom Filter Applications</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-spark-20-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Spark 20 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-film-like-a-pro-with-macbook-webcam-tutorial/"><u>[Updated] In 2024, Film Like a Pro with MacBook Webcam Tutorial</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-camon-20-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Camon 20 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-art-of-humor-in-minutes-kinemaster-techniques/"><u>[Updated] In 2024, The Art of Humor in Minutes  KineMaster Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-power-of-zoom-in-kinemaster-editing-for-2024/"><u>Unveiling the Power of Zoom in Kinemaster Editing for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-spark-10-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Spark 10 4G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-bring-your-invitations-to-life-best-video-apps-for-ios-and-android-for-2024/"><u>Updated Bring Your Invitations to Life Best Video Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-camon-20-premier-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Camon 20 Premier 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-z-flip-5-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy Z Flip 5 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-pop-8-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Pop 8 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-the-economic-landscape-of-short-video-royalties-for-2024/"><u>Navigating the Economic Landscape of Short Video Royalties for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-quick-and-the-funny-with-kinemaster-memes/"><u>2024 Approved  The Quick and the Funny with KineMaster Memes</u></a></li>
+</ul></div>

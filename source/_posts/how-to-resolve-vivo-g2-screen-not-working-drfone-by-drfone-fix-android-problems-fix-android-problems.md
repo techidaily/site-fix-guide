@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Vivo G2 Screen Not Working | Dr.fone
-date: 2024-05-19T03:59:02.408Z
-updated: 2024-05-20T03:59:02.408Z
+date: 2024-07-14T06:19:40.205Z
+updated: 2024-07-15T06:19:40.205Z
 tags: 
   - problems
 categories:
@@ -9,11 +9,14 @@ categories:
 description: This article describes How to Resolve Vivo G2 Screen Not Working
 excerpt: This article describes How to Resolve Vivo G2 Screen Not Working
 keywords: Vivo G2 android support,Vivo G2 android troubleshooting,android guide,android help,android tips,Vivo G2 android tips
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## How to Resolve Vivo G2 Screen Not Working
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 Nothing is more frustrating than your phone's touch screen becoming unresponsive. Given the importance of smartphones in daily work, a phone with a touch screen not working can badly affect your routine. It is an issue found in most smartphone brands, even among Vivo G2 phones, known for their efficient performance. If your ****Vivo G2 screen is not working****, it can be an exhausting experience.
@@ -92,6 +95,9 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
 
 ### Solution 6. Replace the Old Screen with A New Screen
@@ -129,7 +135,7 @@ Before we can learn how to fix a bricked device, it is important that you are ab
 
 
 
-### [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html)
+### Dr.Fone - Data Recovery (Android)
 
 World's 1st Android smartphone and tablet recovery software.
 
@@ -148,7 +154,10 @@ If your device is completely unresponsive, don’t worry Dr.Fone can help you ge
 
 Step 1: Download and install Wondershare Dr.Fone to your PC. Launch the program and then click on Data Recovery. Select the data types you would like to recover and then click on Next.
 
-![bricked android phone data recovery-Install Wondershare Dr.Fone ](https://images.wondershare.com/drfone/drfone/android-recover-broken-01.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![bricked android phone data recovery-Install Wondershare Dr.Fone](https://images.wondershare.com/drfone/drfone/android-recover-broken-01.jpg)
 
 Step 2. Select the issue type for your phone. Choose from "Touch screen not responsive or cannot access the phone" or "Black/broken screen".
 
@@ -168,6 +177,9 @@ Step 5: The program will begin an analysis of your device and then download the 
 
 Step 6: Then Dr.Fone will display all the recoverable file types. You can click on the files to preview them. Select the ones you need and click on "Recover to Computer" to save them to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bricked android phone data recovery-click on Recover](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
 <iframe width="750" height="415" src="https://www.youtube.com/embed/m12WULZ-6aA" frameborder="0" allowfullscreen=""></iframe>
@@ -282,7 +294,7 @@ If you’re still encountering the Parsing error, there may be a problem with th
 
 
 
-### [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/)
+### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix all android system issues in one click
 
@@ -348,6 +360,9 @@ To enable USB Debugging to fix “There is a problem parsing the package” erro
 
 • In this step, select “Developer Options” and turn on “USB Debugging”.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn on “USB Debugging”](https://images.wondershare.com/drfone/article/2017/06/14985109282251.jpg)
 
 This should solve the problem. If not, move on to the other techniques.
@@ -423,3 +438,57 @@ Parse Error: There was a problem parsing the package is an error message that ha
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-v-purse-phone-without-password-by-drfone-android/"><u>How To Unlock Honor V Purse Phone Without Password?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-x50-gt-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor X50 GT Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-play-8t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Play 8T Safely | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-get-pro-level-smoothness-best-video-stabilizer-apps-for-mobile-phones-for-2024/"><u>New Get Pro-Level Smoothness Best Video Stabilizer Apps for Mobile Phones for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic-vs-2-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic Vs 2 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-htc-u23-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead HTC U23 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-choices-excellent-youtubers-screen-recording-tools/"><u>2024 Approved  Top Choices  Excellent YouTubers' Screen Recording Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-create-captivating-videos-with-free-intros/"><u>[Updated] Create Captivating Videos with Free Intros</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-8-windows-11-video-snatchers-unveiled-for-2024/"><u>[New] Top 8 Windows 11 Video Snatchers Unveiled for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dream-of-flight-check-out-these-top-kid-friendly-drones/"><u>Dream of Flight? Check Out These Top Kid-Friendly Drones</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-huawei-nova-y71-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Huawei Nova Y71 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic-5-lite-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic 5 Lite Safely | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-uncomplicated-guide-for-crafting-and-editing-multiple-snaps-in-snapchat/"><u>[New] In 2024, Uncomplicated Guide for Crafting and Editing Multiple Snaps in Snapchat</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic-5-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic 5 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mastering-youtube-video-free-transcription-techniques/"><u>Mastering YouTube Video Free Transcription Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-htc-u23-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead HTC U23 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-90-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor 90 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-x9a-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor X9a Safely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-11-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus 11 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-y100-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Y100</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-v-purse-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor V Purse Safely | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-the-art-of-tagging-instas-top-25-must-use-tags/"><u>[New] Mastering the Art of Tagging  Insta's Top 25 Must-Use Tags</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-x8b-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor X8b Safely | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-reimagine-your-storytelling-with-smartly-scaled-instagram-videos/"><u>2024 Approved  Reimagine Your Storytelling with Smartly Scaled Instagram Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-photo-magic-the-role-of-luts-in-editing/"><u>[Updated] Unlocking Photo Magic  The Role of LUTs in Editing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-bring-back-missing-watch-playlist-icon/"><u>[Updated] In 2024, Bring Back Missing Watch Playlist Icon</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastering-memes-top-twitter-gif-saver-of-2024-unveiled/"><u>[New] Mastering Memes  Top Twitter GIF Saver of 2024 Unveiled</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-90-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor 90 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-play-7t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Play 7T Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic-6-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic 6 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shining-up-your-videos-on-android/"><u>In 2024, Shining Up Your Videos on Android</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-captivate-crowds-mastering-hashtag-use-in-high-traffic-short-videos/"><u>In 2024, Captivate Crowds  Mastering Hashtag Use in High-Traffic Short Videos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic-v2-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic V2 Safely | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-future-of-audio-crafting-androids-most-innovative-digital-audio-workstations-for-todays-sound-engineers/"><u>Updated 2024 Approved The Future of Audio Crafting Androids Most Innovative Digital Audio Workstations for Todays Sound Engineers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-90-lite-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor 90 Lite Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-huawei-nova-y91-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Huawei Nova Y91 Safely | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-premiere-pro-essentials-20-free-title-and-intro-templates-for-2024/"><u>New Premiere Pro Essentials 20 Free Title and Intro Templates for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-gt-10-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix GT 10 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic-6-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic 6 Safely | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-advanced-mac-photo-tips-5-efficient-snapshot-techniques/"><u>[Updated] 2024 Approved  Advanced Mac Photo Tips  5 Efficient Snapshot Techniques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-x7b-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor X7b Safely | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-ultimate-twitter-viewership-list-for-the-year/"><u>In 2024, The Ultimate Twitter Viewership List for the Year</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snapshot-superiority-choosing-the-best-10-cameras/"><u>[Updated] Snapshot Superiority  Choosing the Best 10 Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-omniimageai-holistic-editing-experience/"><u>[Updated] OmniImageAI  Holistic Editing Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-huawei-p60-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Huawei P60 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic5-ultimate-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic5 Ultimate Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-x50-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor X50 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-x9b-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor X9b Safely | Dr.fone</u></a></li>
+</ul></div>

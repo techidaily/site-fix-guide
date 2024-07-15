@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Vivo S18 Pro | Dr.fone
-date: 2024-06-23T05:58:13.858Z
-updated: 2024-06-24T05:58:13.858Z
+date: 2024-07-14T05:26:28.341Z
+updated: 2024-07-15T05:26:28.341Z
 tags: 
   - virtual location change
   - social app
@@ -19,6 +19,9 @@ Life360 has become a household name in location-sharing apps, renowned for its a
 
 However, there are moments when you might crave a bit of privacy or a break from constant connectivity. Whether for a surprise, personal space, or a digital detox, the need to discreetly pause Life360 arises. This article delves into the nuances of **how to pause Life360**. It will also provide insightful tips on how to do it without alerting others.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
 
@@ -71,6 +74,9 @@ By selecting **Force Stop**, you temporarily halt the app’s function without u
 
 To **pause the Life360 location** on iOS, you’ll have to open the Settings app on your iOS device. Browse through your apps and select Life360. Alternatively, you can use the search bar and type “Life360”. Once in the app’s menu, change location services to **While Using** the App. Thus, it will not share your location unless you open the app.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![life360 ios settings](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-03.jpg)
 
 ### Pause by Using Airplane Mode
@@ -134,6 +140,9 @@ From the original website of dr.fone – Virtual Location (iOS), download it on 
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Plug iPhone to PC**
@@ -150,6 +159,9 @@ You will see a map window now. Here, what you firstly need to do is to find the 
 
 Now, from the three icons available at the upper right side of the page, click on the 3rd one. This will enable the “Teleport Mode”. Once done, enter the name of the place in the field given and hit on “Go”.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 4: Spoof Location**
@@ -198,6 +210,9 @@ If you are still comfortable using Cydia to change Skout location, let us move o
 
 **Step 4:** Use the map to adjust at the location you want to spoof.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust location](https://images.wondershare.com/drfone/article/2019/11/cydia-3.jpg)
 
 **Step 5:** Now, you are done. Just open Skout and enjoy the new location.
@@ -303,7 +318,7 @@ Dr.Fone – Virtual Location is an application designed for Android and iOS devi
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 **Step 1: Access the Location Changer**
 
@@ -391,7 +406,7 @@ Yes, TikTok will not be able to detect that you are using a VPN. Therefore, you 
 
 We have extensively concluded different methods involved in **How to change location on TikTok**. For iOS and Android devices, you can do so with the help of [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . Besides, you can manually change your language or SIM card to access the content of the particular region. If you use a computer, you can use ExpressVPN and change the location of your device while hiding your IP address.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -410,3 +425,47 @@ We have extensively concluded different methods involved in **How to change loca
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-tutorial-implementing-gamers-channel-banners/"><u>[New] Ultimate Tutorial  Implementing Gamers' Channel Banners</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-note-50-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme Note 50 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-m14-4g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy M14 4G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/elite-screen-grabbers-5-non-windows-counterparts-to-snipping-tool/"><u>Elite Screen Grabbers: 5 Non-Windows Counterparts to Snipping Tool</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-online-video-creation-platforms-with-advanced-audio-features/"><u>New 2024 Approved Online Video Creation Platforms with Advanced Audio Features</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channel-growth-in-30-minutes-viral-hashtag-insights/"><u>2024 Approved  Channel Growth in 30 Minutes  Viral Hashtag Insights</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-guide-to-post-movie-wmm-content-on-vimeo-platform/"><u>[New] In 2024, Guide to Post Movie WMM Content on Vimeo Platform</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a54-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A54 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-showdown-final-cut-pro-takes-on-final-cut-express/"><u>In 2024, The Ultimate Showdown Final Cut Pro Takes on Final Cut Express</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-personalize-your-google-meet-experience-with-fresh-backgrounds/"><u>[Updated] Personalize Your Google Meet Experience with Fresh Backgrounds</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-f34-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy F34 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a14-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A14 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-secure-communication-made-easy-the-best-10-free-and-protected-video-conferencing-tools/"><u>[New] In 2024, Secure Communication Made Easy  The Best 10 Free and Protected Video Conferencing Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/effortless-mpeg-creation-from-youtube-content/"><u>Effortless MPEG Creation From YouTube Content</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mastering-twitter-video-dimensions-a-beginners-guide/"><u>Updated Mastering Twitter Video Dimensions A Beginners Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capture-your-rides-top-7-camcorders-for-skiingsnowboarding/"><u>[New] Capture Your Rides  Top 7 Camcorders for Skiing/Snowboarding</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-f54-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy F54 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-f14-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy F14 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-m54-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy M54 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a05-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A05 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-step-by-step-aspect-ratio-guide-for-youtube-creators/"><u>[Updated] In 2024, A Step-by-Step Aspect Ratio Guide for YouTube Creators</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-add-font-effect/"><u>New 2024 Approved How to Add Font Effect</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a23-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A23 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a05s-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A05s Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a15-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A15 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a15-4g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A15 4G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-memories-storing-digitalized-vintage-photographs/"><u>[Updated] Maximizing Memories  Storing Digitalized Vintage Photographs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-m14-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy M14 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-definitive-guide-to-proportion-perfection-in-youtube/"><u>[Updated] 2024 Approved  The Definitive Guide to Proportion Perfection in YouTube</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-m34-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy M34 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-poco-x5-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Poco X5? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-v30t-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme V30T Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/a-comprehensive-dissection-of-tiktoks-pfp-code/"><u>A Comprehensive Dissection of TikTok's PFP Code</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-v30-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme V30 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-deep-dive-into-exceptional-screen-recording-using-adobe-captivity/"><u>In 2024, A Deep Dive Into Exceptional Screen Recording Using Adobe Captivity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a25-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A25 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a14-4g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A14 4G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a34-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A34 5G Back to Operation | Dr.fone</u></a></li>
+</ul></div>
