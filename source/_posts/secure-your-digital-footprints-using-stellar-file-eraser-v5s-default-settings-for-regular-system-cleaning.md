@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Footprints: Using Stellar File Eraser V5's Default Settings for Regular System Cleaning"
-date: 2024-07-29T22:59:48.573Z
-updated: 2024-07-30T22:59:48.573Z
+date: 2024-09-05T22:48:42.569Z
+updated: 2024-09-06T22:48:42.569Z
 categories:
   - repair-tools
 description: "This Article Describes Secure Your Digital Footprints: Using Stellar File Eraser V5's Default Settings for Regular System Cleaning"
@@ -9,6 +9,12 @@ excerpt: "This Article Describes Secure Your Digital Footprints: Using Stellar F
 thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e63ca3e1151548a8f471104b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Secure Your Digital Footprints: Using Stellar File Eraser V5's Default Settings for Regular System Cleaning
 
 Stellar File Eraser
@@ -24,11 +30,14 @@ Stellar File Eraser
          * [3.4.1. Resolving Activation Errors](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.5. Updating the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.6. Stellar Support](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 * ![arow](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4\. Working with the Software  
   * [4.1. Erasing Files & Folders](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   * [4.2. Erasing Traces](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [4.3. Erasing Deleted Data](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [arow 4.4. Setting Schedule Erasure](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4.4\. Setting Schedule Erasure ](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
@@ -46,11 +55,14 @@ Stellar File Eraser
 * [5. Frequently Asked Questions (FAQs)](https://www.stellarinfo.com/help/stellar-file-eraser-5-windows-standard-en-frequently-asked-questions-faqs.html)
 * [6. About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Stellar File Eraser](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4.4. Setting Schedule Erasure](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.4.1\. Setting Schedule Erasure for Erasing Traces**
 
 # **4.4.1\. Setting Schedule Erasure for Erasing Traces**
@@ -61,18 +73,24 @@ Stellar File Eraser
 
 1. Run ****Stellar File Eraser** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/setting-scheduler-for-erasing-traces/user-interface.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Select**Schedule Erasure** from**Select Option** tabs displayed on the left pane of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/setting-scheduler-for-erasing-traces/Schedule-Eraser-traces.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. **Schedule Erasure** window displays and**Erase Traces** tab is by default selected.
 2. Schedule the erasure task as per your convenience. Select the**Frequency** using the**Run** drop-down list:  
    * Select**Once** to run scheduler once.  
@@ -83,11 +101,20 @@ Stellar File Eraser
 1. From**Start from** , select**Date** and**Time** of scheduler.
 2. Click**OK** .  On successful completion,   **"Task scheduled successfully"** dialog box appears.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/setting-scheduler-for-erasing-traces/Task-schedule.png)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Click**OK** to finish the process.
 
 _**Note** : A scheduler **Summary** with**Task Name** ,**Status** ,**Trigger** ,**Next Run Time** ,**Last Run Time** is created everytime when you task a schedule._

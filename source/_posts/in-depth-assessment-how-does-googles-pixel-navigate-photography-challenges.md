@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Assessment: How Does Google's Pixel Navigate Photography Challenges?"
-date: 2024-08-08T18:35:57.848Z
-updated: 2024-08-09T18:35:57.848Z
+date: 2024-09-05T22:48:42.043Z
+updated: 2024-09-06T22:48:42.043Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Assessment: How Does Google's Pixel Navigate Photography Challenges?"
@@ -9,6 +9,12 @@ excerpt: "This Article Describes In-Depth Assessment: How Does Google's Pixel Na
 thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b42dfda4969266c7308e348b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Navigating Style vs Functionality: An In-Depth Look at Amazfit GTS Wearable Tech
 
 4.2
@@ -37,9 +43,6 @@ Lifewire / Yoona Wagener
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Amazfit GTS Smartwatch
 
 ![Amazfit GTS](https://www.lifewire.com/thmb/A_Lpmewuqg5_v_xhsfuydQ5zl6E=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_HeroSquare-067af9089d9c4269979450e8963726c9.jpg)
@@ -69,7 +72,16 @@ _We purchased the Amazfit GTS_   _so our reviewer could put it to the test. Keep
  I used this device for a little over a week while sleeping, hiking, and running to see how this stylish tracker delivered. Though tracking data was never an issue, the software and companion app fell short of delivering a truly intuitive, user-friendly experience.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Design: Lightweight and a little too familiar
 
@@ -81,18 +93,12 @@ _We purchased the Amazfit GTS_   _so our reviewer could put it to the test. Keep
 
  Along with the crisp and easy-to-read display, the GTS's biggest asset is the flexible and durable silicone with a healthy selection of notches and two tabs to keep the band in place once you’ve latched it. Though it comes in a single size, I was able to find a comfortably close fit on my small 5.5-inch wrist.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Amazfit GTS](https://www.lifewire.com/thmb/hMe1Ur0Wtt9LDIiSfC3zvE_5G7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_02-0b1e98c2de40486b9fea116eb28ccd3c.jpg)
 
 Lifewire / Yoona Wagener
 
  I was unable to test this device’s 50-meter water resistance for swimming or other aquatic workouts, but I did wear it in the shower without experiencing any issue. The manufacturer does note, however, that this wearable isn’t safe for hot showers or other water sports such as scuba diving, diving, and high-speed water sports, generally.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comfort: Easy to wear but not as user-friendly
 
  While the Amazfit GTS is stylish enough to wear all day and easily coordinate with your wardrobe and comfortable to sleep with, confusing interface issues impaired overall ease of use. Along with the modular watch faces, there are screens for nearly every data point measured, accessible by swiping up from the bottom of the device.
@@ -107,10 +113,22 @@ Lifewire / Yoona Wagener
 
 ![Amazfit GTS](https://www.lifewire.com/thmb/BCJ0gqS-gzR_dq3WSGazLqPMNCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_05-9f844a14ab734d9291e338b6fa2519da.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Yoona Wagener
 
  While the display looks great and is responsive, the lack of clarity about certain menu options, both the meaning and how to activate them, and the lack of control over data widget order, takes a few points away from the overall stylish look.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Performance: Solid GPS and decent activity tracking
 
  The Amazfit GTS supports 12 common workout profiles, including running and walking, which I used the most. While it wasn’t spot-on compared with my usual tracking device, the[Garmin Venu](https://www.lifewire.com/garmin-venu-review-4843916) , it wasn’t way off the mark. On one 3-mile run, the Amazfit GTS was less than 1 minute behind and the pace also followed suit at 9 seconds slower and 275 steps shorter, while heart rate was less accurate at about 15 beats faster than the Venu. Another pleasant consistency was the reliable onboard GPS and automatic stop/start feature that worked fairly well, though with some delay.
@@ -121,9 +139,6 @@ Lifewire / Yoona Wagener
 
  This device is also capable of tracking sleep data in a relatively extensive way, complete with sleep phases, times awake when you fell asleep and woke up. The watch never failed to track data and as far as I could tell, sleep and wake times were accurate, but reading the data was a little less straightforward.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Amazfit GTS](https://www.lifewire.com/thmb/lrymbZEsmkXZy1YnjpGE5QutCbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_04-109baf1e43444eff9789d9c02e2b2e77.jpg)
 
 Lifewire / Yoona Wagener
@@ -131,7 +146,10 @@ Lifewire / Yoona Wagener
  While sleep data is elaborate, it’s presented in a way that requires a lot of scrolling or tapping back and forth across screens. For that reason, I never felt like I received a concise tip for bettering or understanding my sleep habits, which made the data feel a little too overwhelming and repetitive to make it approachable. This is an issue I had with referring to the app for any supplementary information.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Software: More style than substance
 
@@ -147,17 +165,32 @@ Lifewire / Yoona Wagener
 
  Also, the arrangement of data and explanations about how this data is sourced can feel like a bit of a maze to maneuver. There’s an icon in the upper-right corner of the app home screen that leads to all data, which is broken down into categories that aren’t wildly intuitive, such as Status data and Health sign.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Amazfit GTS](https://www.lifewire.com/thmb/hqD81eq-Q8n6BPE_n48M4SpkIRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_03-97749edaabac498bb95b0f8a9f569f0a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Yoona Wagener
 
  Certain data points such as PAI, like other areas of the Zepp app, are backed by scientific citations and explanations of importance, but there’s just too much text to make any of it digestible or glanceable.
 
  While I gathered that a PAI of 100 seemed to be ideal for cardiovascular health, the app further complicated things by suggesting, for example, a 120-minute indoor workout to gain 15 PAI. It was difficult to grasp why that would be worth it or realistic, and like many areas of the software, it felt more flashy and underdeveloped than insightful.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Battery: Solid but considerably shy of the 14-day claim
 
  The manufacturer bills the battery longevity at an impressive 14 days with typical usage in smartwatch mode, which includes continuous heart rate and sleep monitoring and logging workouts three times a week.
@@ -170,6 +203,18 @@ Lifewire / Yoona Wagener
 
  Spending between $100 to $130 for a style-conscious, band-style fitness tracker from heavy hitters such as[Fitbit](https://www.lifewire.com/what-is-fitbit-4176010) and Garmin could increase the tracking benefits considerably with extras like VO2 Max and SPO2 monitoring. For a little more (or less), gaining a user-friendly layout and companion app could be worth losing the Apple Watch aesthetic this device works hard to mirror.
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Amazfit GTS vs. Garmin vivosmart 4
 
  While the Amazfit GTS sort of looks like an Apple Watch, it doesn’t really come close to performing like one. The Garmin vivosmart 4 is much more in line with what the GTS delivers. For $130, this band-style tracker offers a streamlined design with a few upscale touches like metal finishings and attractive band colors, but it also analyzes much more than the GTS does. It tracks stress, VO2 max, blood oxygen saturation, and measures what Garmin calls body battery, which keeps you attuned to energy levels throughout the day.
@@ -183,7 +228,10 @@ Lifewire / Yoona Wagener
  The Amazfit GTS is comfortable and stylish and performs the basic fitness tracking tasks relatively well, but the confusing ecosystem diminishes the polish. If you love the look of the Apple Watch, this is a budget-friendly look-alike. But if you want a strong balance between performance and looks, the Amazfit GTS may not deliver.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
