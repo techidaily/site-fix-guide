@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor Magic Vs 2 ? Fix It Easily | Dr.fone
-date: 2024-09-11T17:58:45.729Z
-updated: 2024-09-16T16:26:52.272Z
+date: 2024-09-17T17:28:22.348Z
+updated: 2024-09-21T18:33:38.926Z
 tags: 
   - problems
 categories:
@@ -97,19 +97,6 @@ After downloading, the software will automatically start to repair your device b
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -151,6 +138,13 @@ Step 2: Press "Restore" to begin the recovery process from the Backup file we cr
 Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 Solutions to Fix Error Code 963 on Google Play Of Honor Magic Vs 2
 
@@ -241,13 +235,6 @@ Step 4 – Within a while, the Google play error 963 will be vanished.
 
 ![make the fix google play error 963 disappear on android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: 6 Common Solutions to fix Error Code 963
 
 ![fix Error Code 963](https://images.wondershare.com/drfone/article/2017/06/14984132296365.jpg)
@@ -284,9 +271,23 @@ Now select “Google Play Store” from “All” Apps.
 
 ![select “Google Play Store”](https://images.wondershare.com/drfone/article/2017/06/14984135667390.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this step, click on “Uninstall Updates” as shown below.
 
 ![Uninstall Updates](https://images.wondershare.com/drfone/article/2017/06/14984137166252.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **3\. Shift the App from SD Card to device’s memory**
 
@@ -295,13 +296,6 @@ This method is strictly for certain Apps which cannot be updated because they ar
 Visit “Settings” and select “Apps”.
 
 ![select “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984137395509.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 From “All” Apps click on the App which is unable to update.
 
@@ -380,13 +374,6 @@ With technology, uncertainties are bound to happen. It becomes quite tricky to a
 3. **Get rid of Cache:** Extras of cache can pose to be problematic in the working of applications. Users must timely clean their devices so as to brush away any kind of cache memory.
 4. **Outdated version of Play store app:** Users generally do not feel the urge for updating the play store app. It is important to use only the updated version so as the functioning of Google Play app is not affected.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: 7 fixes for Play Store stuck on downloading
 
 ### 3.1 Check SD card and phone storage space
@@ -398,10 +385,10 @@ All the applications, data of one’s device is generally loads directly in phon
 Sometimes, it’s not your phone that is going all faulty, the root cause might be the internet connection. If the internet is running low or does not seem to be stable, then the **_play store download problem_** may occur. Users must ensure that the Honor Magic Vs 2 device they are working should have a stable network connection so as to combat the problem. Then, they can try downloading the application and check if the problem is prevalent or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3.3 One click to fix corrupted Play Store components
@@ -468,6 +455,13 @@ Did you know the piling up of cache memory can certainly pull off a great deal f
 
 ![clear data to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/clear-cache-data.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.5 Update Play Store to the latest version
 
 When was the last time you cared to update your Play store app? Generally, users overlook the need of updating the application. As, they think that it may not be of any greater importance. But, in reality working in an outdated version can directly impact **_Play Store and cause download problem_**. Follow the below steps to update Play Store to latest version.
@@ -501,17 +495,16 @@ Last but certainly not the least, users must avoid downloading large application
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-best-practices-for-snapchat-posts-the-essentials-list/"><u>[New] In 2024, Best Practices for Snapchat Posts The Essentials List</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-guide-for-lenovo-screen-recording-enthusiasts/"><u>[New] In 2024, The Ultimate Guide for Lenovo Screen Recording Enthusiasts</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/1724313535664-abbyy/"><u>「タスクマイニングの基礎: 効率的なワークフローへの道」 - ABBYYブログで探るタスク分析と自動化</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-fb-upload-strategies-for-mobile-and-desktop/"><u>2024 Approved Facebook FB Upload Strategies for Mobile & Desktop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-your-film-craft-with-our-selection-of-the-five-superior-video-editing-applications/"><u>Elevate Your Film Craft With Our Selection of the Five Superior Video Editing Applications</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-eliteres-converter-windows-mac-and-online-access/"><u>In 2024, EliteRes Converter Windows, Mac & Online Access</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-f5-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/scrutinizing-the-latest-in-screen-recording-tech-by-tunefab-for-2024/"><u>Scrutinizing the Latest in Screen Recording Tech by Tunefab for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-transforming-your-footage-into-shareable-youtube-stories/"><u>[New] 2024 Approved Transforming Your Footage Into Shareable YouTube Stories</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-from-beginner-to-pro-the-essential-guide-to-capturing-your-mac-display/"><u>[Updated] 2024 Approved From Beginner to Pro The Essential Guide to Capturing Your Mac Display</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-shorts-earnings-guide-must-knows-and-future-potential/"><u>[Updated] Youtube Shorts Earnings Guide Must-Knows & Future Potential</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audio-ambiance-for-visionaries-incorporating-youtube-music-wisely/"><u>2024 Approved Audio Ambiance for Visionaries Incorporating YouTube Music Wisely</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/clear-the-darkness-step-by-step-solutions-for-eliminating-black-video-issues-in-zoom-on-pc-the-2024-handbook/"><u>Clear the Darkness: Step-by-Step Solutions for Eliminating Black Video Issues in Zoom on PC - The 2024 Handbook</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nokia-c12-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia C12 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a14-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A14 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-10t-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme 10T 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a1x-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A1x 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 

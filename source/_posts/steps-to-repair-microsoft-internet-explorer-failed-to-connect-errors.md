@@ -1,7 +1,7 @@
 ---
 title: Steps to Repair 'Microsoft Internet Explorer Failed to Connect' Errors
-date: 2024-09-10T18:35:42.146Z
-updated: 2024-09-16T18:00:23.066Z
+date: 2024-09-16T18:10:01.547Z
+updated: 2024-09-21T18:12:10.532Z
 tags:
   - win11
   - win10
@@ -74,19 +74,6 @@ If your game isn’t on the list, follow these steps:
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2\. Perform a network reset
 
  If the fix above didn’t fix your problem, the problem is not caused by your antivirus software or firewall interruption. You may want to follow these steps to reset your network quickly:
@@ -94,13 +81,6 @@ If your game isn’t on the list, follow these steps:
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
@@ -113,6 +93,13 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
@@ -121,10 +108,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 3. Right-click your current network connection, and select **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
@@ -133,6 +120,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
 
@@ -140,16 +140,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 6. Click **OK** to apply.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
@@ -211,19 +205,18 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-how-to-climb-the-social-ladder-a-guide-to-higher-facebook-page-ranks/"><u>[New] 2024 Approved How to Climb the Social Ladder A Guide to Higher Facebook Page Ranks</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mastering-youtube-titulos-con-algoritmos/"><u>[New] 2024 Approved Mastering YouTube Títulos Con Algoritmos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unlocking-zooms-potential-by-leveraging-skype/"><u>[New] In 2024, Unlocking Zoom's Potential by Leveraging Skype</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-complete-examination-of-camstudios-capturing-features/"><u>[Updated] 2024 Approved Complete Examination of CamStudio's Capturing Features</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-infinix-zero-5g-2023-turbo-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Infinix Zero 5G 2023 Turbo For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-poco-m6-pro-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Poco M6 Pro 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/inclusive-dynamic-movement-examination-for-2024/"><u>Inclusive Dynamic Movement Examination for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/pro-tips-effortless-capture-of-hulu-videos-across-windowsmaciphone-for-2024/"><u>Pro Tips Effortless Capture of Hulu Videos Across Windows/Mac/iPhone for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-utilities-free-and-paid-macpc-bd-software-compared/"><u>[New] Ultimate Utilities Free & Paid Mac/PC BD Software Compared</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-be-inspired-today-the-essentials-of-stunning-photos-on-ig-for-2024/"><u>[Updated] Be Inspired Today! The Essentials of Stunning Photos on IG for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-zte-axon-40-lite-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-note-13-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi Note 13 Pro 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-record-switch-gameplay-for-2024/"><u>How To Record Switch Gameplay for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-smoothly-view-youtube-videos-without-borders/"><u>How to Smoothly View YouTube Videos without Borders?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 6 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photo-mosaics-unveiled-a-journey-to-brighter-spaces/"><u>In 2024, Photo Mosaics Unveiled A Journey to Brighter Spaces</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/meizu-21-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Meizu 21 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-11-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme 11 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-z50s-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Z50S Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456130625-trouble-with-your-iphone-light-here-are-12-solutions-for-a-brighter-tomorrow/"><u>Trouble With Your iPhone Light? Here Are 12 Solutions for a Brighter Tomorrow!</u></a></li>
 </ul></div>
 

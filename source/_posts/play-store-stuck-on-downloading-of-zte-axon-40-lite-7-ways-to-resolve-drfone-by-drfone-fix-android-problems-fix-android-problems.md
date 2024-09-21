@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of ZTE Axon 40 Lite? 7 Ways to Resolve | Dr.fone
-date: 2024-07-14T07:00:57.063Z
-updated: 2024-07-15T07:00:57.063Z
+date: 2024-09-17T17:50:24.657Z
+updated: 2024-09-21T18:04:41.278Z
 tags: 
   - problems
 categories:
@@ -40,8 +40,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -103,6 +101,13 @@ Did you know the piling up of cache memory can certainly pull off a great deal f
 
 ![clear data to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/clear-cache-data.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.5 Update Play Store to the latest version
 
 When was the last time you cared to update your Play store app? Generally, users overlook the need of updating the application. As, they think that it may not be of any greater importance. But, in reality working in an outdated version can directly impact **_Play Store and cause download problem_**. Follow the below steps to update Play Store to latest version.
@@ -118,9 +123,6 @@ When was the last time you cared to update your Play store app? Generally, users
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.7 Avoid downloading large apps
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
@@ -135,6 +137,13 @@ The error constantly plagues thousands of Android users, and it can be incredibl
 
 Oddly enough, the “**Unfortunately, Google Play Services has stopped**.” error isn’t severe – you can fix it with a few general and easy-to-do fixes, a factory reset, or a system repair. Below, you’ll find info about why it’s happening and a list of ten possible solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Am I Getting the Message “Google Play Services Keeps Stopping?”
 
 Computers and phones often speak in error codes and apps that stop working. Even minor connectivity issues can cause these problems, leaving you wondering what’s wrong with your device or displaying the “Unfortunately, Google Play Services has stopped working.” error message.
@@ -144,6 +153,13 @@ Software errors are another set of problems that can also cause this issue. Name
 There’s also the issue of wrong app versions. Although each Android phone uses the Android operating system, these systems can be vastly different, and the apps built for them can be made to be phone-specific and only run on a specific phone model.
 
 That’s also the case with Google Play Store and Google Play Services.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Google Play Services Keeps Stopping
 
@@ -208,9 +224,6 @@ Like reverting to the previous version, you can also try reinstalling updates to
 
 As you’re already there, you might as well update all other apps after you tap **Manage apps & device**. That will ensure that older and not-up-to-date apps aren’t causing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### 5. Check Storage
 
 Believe it or not, one of the leading causes of the Google Play Services issue is a phone overfilled with apps. Namely, if you have insufficient storage, the Google Play Store app will likely crash and display errors such as “Unfortunately, Google Play Services has stopped working.”
@@ -262,6 +275,13 @@ The easiest and the most obvious fix for many Android apps is clearing the app�
 
 If this doesn’t work, move on to another possible fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8. Check Date and Time Settings
 
 Oddly enough, the Google Play Services app is prone to failure because of an incorrectly set time or date. That’s because Google’s servers constantly check these settings before issuing updates to the ZTE Axon 40 Lite devices, so you’ll need to ensure they’re correct beforehand. Here’s how:
@@ -281,9 +301,6 @@ Another regularly overlooked troublemaker is a poor internet connection. That’
 
 To test the internet connection on your ZTE Axon 40 Lite, you should open a browser and head to a random internet page to see if it’s opening and whether there are any delays. If it’s working fine, your internet connection isn’t the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 10. Adjust Google Play Services Permissions
 
 Although permissions rarely change, they can cause issues if you change them accidentally. These settings can be found in the same place where you would uninstall updates or clear the app’s cache, so you can use some of the steps mentioned above to check them.
@@ -299,8 +316,6 @@ Once inside Permission Settings, check whether the Google Play Services and Play
 Although it’s an incredibly frustrating error, the “Unfortunately, Google Play Services has stopped” message is more annoying than serious. We’ve explained why it happens, but we’ve also given you a list of solutions to fix it.
 
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
-
-
 
 ## How to Exit Android Factory Mode On ZTE Axon 40 Lite?
 
@@ -322,8 +337,6 @@ Before we can see how to safely enter and exit factory mode, it is important to 
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
 
-
-
 ### Dr.Fone - Backup & Restore (Android)
 
 Flexibly Backup and Restore Android Data
@@ -341,9 +354,6 @@ Follow these very simple steps to use this MobileTrans Phone Transfer software t
 
 Run the software on your computer and you can see all features displayed in the primary window. Choose this one: Backup & Restore. It allows you to get your device backed up entirely with one click.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup android before enter in recovery mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ### Step 2. Plug in with your device
@@ -356,9 +366,6 @@ Then plug in with your device to the computer. When your devic is detected, clic
 
 The program will display all the file types it can support to backup. Just select the ones you would like to backup and hit Backup.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the data types to backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
 ### Step 4. Start backing up your device to the computer
@@ -374,8 +381,6 @@ Note: You can use the feature of "Restore From Backup" to restore the backup fil
 From the above parts, you are well aware about what is factory mode. As we discussed, this mode fixes most troubles with Android devices.
 
 But for situations when your ZTE Axon 40 Lite gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on ZTE Axon 40 Lite logo or factory mode or blue screen of death with a single click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -424,6 +429,13 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 Step 2: Press ‘Next’ for initiating firmware downloading.
 
 ![firmware download to fix](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Dr.Fone –Repair (Android) starts Android repair as soon as download and verification of firmware is done. All Android issues along with Android stuck in factory mode will be fixed now.
 
@@ -479,7 +491,6 @@ You can also exit factory mode on unrooted device by going to Settings> Applicat
 
 As much as factory mode can be a useful solution to a number of problems, it can be quite annoying when it pops up unexpectedly. Now you are equipped with 2 effective solutions to help you safely exit factory mode if ever you find yourself in this situation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -492,9 +503,23 @@ As much as factory mode can be a useful solution to a number of problems, it can
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-windowsmac-recording-skype-chats-and-calls/"><u>[New] In 2024, Windows/Mac Recording Skype Chats & Calls</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enjoy-every-frame-best-free-download-apps-for-mobile-devices/"><u>[Updated] In 2024, Enjoy Every Frame Best Free Download Apps for Mobile Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-rectify-blank-page-views-on-social-media/"><u>[Updated] In 2024, Rectify Blank Page Views on Social Media</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-reno-11-pro-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Reno 11 Pro 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y100-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y100 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-14-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 14 to iPad | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-c22-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia C22 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-v30-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme V30 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-pathway-to-fun-in-the-world-of-pokemon-shining-pearl-explained/"><u>The Pathway to Fun in the World of Pokémon Shining Pearl Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-secrets-to-blurring-iphone-photos-a-comprehensive-guide/"><u>Unveiling the Secrets to Blurring iPhone Photos A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-is-the-changing-of-gpt-limited/"><u>Why Is the Changing of GPT Limited?</u></a></li>
+</ul></div>
 

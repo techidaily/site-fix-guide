@@ -1,7 +1,7 @@
 ---
 title: Poco C65 Screen Unresponsive? Heres How to Fix It | Dr.fone
-date: 2024-07-14T07:01:22.534Z
-updated: 2024-07-15T07:01:22.534Z
+date: 2024-09-14T17:24:34.350Z
+updated: 2024-09-21T16:39:45.335Z
 tags: 
   - problems
 categories:
@@ -109,8 +109,6 @@ Encountering a Poco C65 screen unresponsive issue can be a common problem for so
 
 By using reliable software, like Dr.Fone Repair, you can ensure that your Poco C65 phone is well-maintained and operating smoothly. With these solutions and tips, you can enjoy the benefits of your Poco C65 phone without any interruptions.
 
-
-
 ## How to Fix Error 495 While Download/Updating Android Apps On Poco C65
 
 Error 495 is a common error that occurs while downloading or updating apps from Google Play Store. This error is usually caused by a problem with the Google Play Store, and it can be fixed by clearing the cache and data of the Google Play Store app. If you are experiencing this error, follow the steps below to fix it.
@@ -136,8 +134,6 @@ Now that we know the possible reasons for the error 495, let us also know how to
 Tried several methods to make the error 495 disappear, but nothing works? Well, many people have experienced the same frustration. The root cause is that something is wrong with the Android system. You need to have your Android system repaired to fix error 495 in this situation.
 
 **Note:** _Having your Android system repaired may lose existing data on your Android. [Backup the data on your Android](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before the Android repair._
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -168,6 +164,13 @@ With [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershar
 
 ![fix error 495 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. After the firmware is downloaded, the program will automatically start to repair your Android.
 
 ![fix error 495 automatically](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -196,9 +199,6 @@ STEP 1:
 
 Go to the settings section in your device. It will be differently placed for different devices and different users.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix error 495-settings](https://images.wondershare.com/drfone/article/2017/05/14953043686356.jpg)
 
 STEP 2:
@@ -325,6 +325,19 @@ OS bugs and general glitches within the OS and the camera app can cause camera n
 
 In the rarest cases, there might have developed an actual hardware issue with the camera system on your Poco C65. The likely culprit is misuse and abuse, such as a dropped phone or maybe the phone was too hot for extended periods of time, causing hardware issues.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part II: How To Fix Android Camera Not Working Issue?
 
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your Poco C65 right where you are, without needing to take the Poco C65 device to the manufacturer’s service center.
@@ -357,9 +370,6 @@ Step 1: Go to Settings > Apps > Camera > Permissions.
 
 Step 2: Tap Camera.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
@@ -375,6 +385,13 @@ Step 1: Go to Settings > Apps > Camera and tap Storage Usage.
 Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### II.V: Clear The Photo Gallery App Cache
 
@@ -392,9 +409,6 @@ This does not happen always, but sometimes, with known bugs and issues, there ma
 
 Step 1: Go to Play Store and tap your profile picture on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google play store app updates](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-9.jpg)
 
 Step 2: Tap Manage Apps and Device.
@@ -414,8 +428,12 @@ If this is the case, close all apps and let the phone cool down. You might even 
 You may want to tap your camera system (the lenses and surrounding area) gently to see if that gets the camera working. In case it did, this is indicative of a hardware issue, and you should get it checked at the service center at your earliest convenience.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### II.IX: Fix Android Camera Not Working Issue In One Click (With Dr.Fone)
 
 Now, if the above fixes have not worked, you might want to repair your Android OS once before you make that appointment with the service centre. And, we have just the app to help you fix your camera not working on Android problem quickly.
@@ -430,9 +448,6 @@ Download Dr.Fone here.
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare drfone on windows](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Click System Repair module and then Android.
@@ -465,10 +480,16 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -482,9 +503,20 @@ The camera app on your smartphone is one of the most important apps you use. Thi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-comprehensively-reviewing-top-10-no-cost-video-communication-apps-for-professional-and-academic-needs/"><u>[Updated] 2024 Approved Comprehensively Reviewing Top 10 No-Cost Video Communication Apps for Professional and Academic Needs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-effective-techniques-for-securely-storing-itunes-videos-for-2024/"><u>[Updated] Effective Techniques for Securely Storing iTunes Videos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-dodge-digital-duplicates-to-increase-youtube-exposure/"><u>[Updated] In 2024, Dodge Digital Duplicates to Increase YouTube Exposure</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-amazing-ig-video-creation/"><u>2024 Approved Mastering Amazing IG Video Creation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-iphone-12ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on iPhone 12/iPad/iPod</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 14 Plus</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-selection-top-8-webcams-to-upgrade-streaming/"><u>In 2024, Prime Selection Top 8 Webcams to Upgrade Streaming</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-reno-9a-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo Reno 9A? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-c67-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme C67 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-camon-20-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Camon 20 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>
 

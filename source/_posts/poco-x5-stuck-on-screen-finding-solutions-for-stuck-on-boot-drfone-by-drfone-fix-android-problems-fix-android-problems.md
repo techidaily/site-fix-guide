@@ -1,7 +1,7 @@
 ---
 title: Poco X5 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-07-14T07:01:58.377Z
-updated: 2024-07-15T07:01:58.377Z
+date: 2024-09-14T18:29:45.092Z
+updated: 2024-09-21T16:17:59.981Z
 tags: 
   - problems
 categories:
@@ -53,6 +53,13 @@ The first and most proclaimed technique to refresh Poco X5 devices under such a 
 A conventional way to solve the issue of a stuck screen in Poco X5 is to leave the phone in its position. As you let its battery drain out, the phone will turn off, and you can activate the Poco X5 device again by charging it.
 
 Once you restart it this way, all the procedures will initiate again, and the Poco X5 device will be as good as new. Draining the battery has given you the leverage to regain control over the Poco X5 device again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3: Check For Updates on Poco X5 Smartphones
 
@@ -120,6 +127,13 @@ The first thing to protect your Poco X5 smartphone from getting stuck on the boo
 
 If you feel frustrated by issues like ****Poco X5 being stuck on the Android One screen,**** the best thing to avoid such a problem is to keep your device updated at all costs. Whenever there is an update on your Poco X5 smartphone, make sure to install it on time and properly. Do not leave updates uninstalled for no reason, as they can hinder the Poco X5 device’s speed and performance.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Do Not Fool Around with System Files
 
 Changing or modifying system files can be fatal for smartphones. Thus, to keep your Poco X5 safe, you need to keep your hands away from such important files. Modifying a single file can make your device useless or put you in situations like a Poco X5 smartphone stuck on the boot. For that, the best tip is to keep yourself out of engagement.
@@ -153,9 +167,6 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 Open the Phone app in Safe Mode
 
 First and foremost, the thing that can let you get rid of this trouble is Safe Mode. It is a feature that will end any excessive background functioning of the Poco X5 device. For instance, your device will be able to run sans any third-party apps when in Safe mode. Since the important functions and the naïve apps will be running on the Poco X5 device, you will get to know if it’s really a software glitch or not by running the Phone app in Safe mode. And this is the first solution we would recommend you make use of when the Phone app has stopped. Here is how to enable Safe Mode.
@@ -202,13 +213,18 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 
 ![Phone app crashing - cache partition clearance](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.6 Get the Poco X5 system repaired in one click
 
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -228,9 +244,6 @@ How to fix crashing Phone app using Dr.Fone - System Repair (Android)
 
 Click the "Start Download" button to download the tool on your computer, and then open the program to begin the repair, click on "System Repair".
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone app crashing - fix using a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Plug the Phone with PC**
@@ -269,7 +282,21 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 Solutions to Fix Error Code 963 on Google Play Of Poco X5
 
@@ -303,8 +330,6 @@ All these reasons and more can handle with ease and you can continue to use Goog
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click to fix Google Play error 963
@@ -324,9 +349,6 @@ One click to fix Google Play error 963
 
 Step 1 – To begin fixing error 963, run Dr.Fone after downloading and installing it on your PC. Now, pick out the ‘System Repair’ tab from the main screen. Thereupon, with the help of a USB cable, make connection between your Poco X5 and PC
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix google play error 963 using repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ and then click the ‘Start’ button.
@@ -365,9 +387,6 @@ Step 4 – Within a while, the Google play error 963 will be vanished.
 
 ![make the fix google play error 963 disappear on android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: 6 Common Solutions to fix Error Code 963
 
 ![fix Error Code 963](https://images.wondershare.com/drfone/article/2017/06/14984132296365.jpg)
@@ -406,9 +425,6 @@ Now select “Google Play Store” from “All” Apps.
 
 In this step, click on “Uninstall Updates” as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstall Updates](https://images.wondershare.com/drfone/article/2017/06/14984137166252.jpg)
 
 #### **3\. Shift the App from SD Card to device’s memory**
@@ -481,9 +497,6 @@ This remedy is as simple as it sounds and has helped many HTC users to get rid o
 
 Google Play Errors are a very common phenomenon these days, especially Error Code 963 which usually occurs in the Google Play Store when we try to download, install or update an App. There is no need to worry if you see Error Code 963 pop-up on your screen as your device and its software are not to be blamed for Error 963 to suddenly surface. It is a random error and can be fixed easily by you. You do not need any technical assistance to deal with the issue. All you need to do is follow the steps introduced in this article to use Google Play Store and its services smoothly.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -496,9 +509,16 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-an-in-depth-look-at-video-apps-for-iphone-and-android-users/"><u>[New] In 2024, An In-Depth Look at Video Apps for iPhone & Android Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-enhancing-learning-through-educational-videos/"><u>[New] In 2024, Enhancing Learning Through Educational Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-key-destinations-enhancing-youtube-video-impact/"><u>[New] Key Destinations Enhancing YouTube Video Impact</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-beat-bringers-sourcing-premium-dj-visuals/"><u>2024 Approved Beat Bringers Sourcing Premium DJ Visuals</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-a78-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A78 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-hot-30-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Hot 30 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edge-40-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-google-pixel-8-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Google Pixel 8 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>
 

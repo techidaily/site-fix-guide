@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Xiaomi Redmi 12 5G? 7 Ways to Resolve | Dr.fone
-date: 2024-07-14T07:00:39.607Z
-updated: 2024-07-15T07:00:39.607Z
+date: 2024-09-14T18:31:45.811Z
+updated: 2024-09-21T17:37:17.278Z
 tags: 
   - problems
 categories:
@@ -37,15 +37,17 @@ All the applications, data of one’s device is generally loads directly in phon
 
 Sometimes, it’s not your phone that is going all faulty, the root cause might be the internet connection. If the internet is running low or does not seem to be stable, then the **_play store download problem_** may occur. Users must ensure that the Xiaomi Redmi 12 5G device they are working should have a stable network connection so as to combat the problem. Then, they can try downloading the application and check if the problem is prevalent or not.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Play Store stuck on downloading
@@ -86,9 +88,6 @@ Now, follow the on the on-screen prompts to boot Android phone into the download
 
 Fret not, the program will automatically detect the most suitable firmware for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![play store download pending - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 **Step 5: Repair Android phone**
@@ -109,6 +108,13 @@ Did you know the piling up of cache memory can certainly pull off a great deal f
 
 ![clear data to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/clear-cache-data.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.5 Update Play Store to the latest version
 
 When was the last time you cared to update your Play store app? Generally, users overlook the need of updating the application. As, they think that it may not be of any greater importance. But, in reality working in an outdated version can directly impact **_Play Store and cause download problem_**. Follow the below steps to update Play Store to latest version.
@@ -120,9 +126,6 @@ When was the last time you cared to update your Play store app? Generally, users
 
 ![update device to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/update-play-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.6 Try another Google account
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
@@ -130,8 +133,6 @@ If you’re unable to see a streak of hope and wondering why my **_Play Store is
 ### 3.7 Avoid downloading large apps
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
-
-
 
 ## Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Redmi 12 5G
 
@@ -159,6 +160,13 @@ Parse Error, better known as “there was a problem parsing the package” error
 
 ![Parse Error](https://images.wondershare.com/drfone/article/2017/06/14985107664037.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The reason for the error message to pop-up are many but none of them can be blamed singularly for the “there is a problem parsing the package” error. Given below is a list of the most probable reasons for Parse Error to stop an App from installing. Examine them carefully before moving on to the solutions to fix the “there was a problem parsing the package” error.
 
 • Updating the OS may cause some disturbances in the manifest files of different Apps leading to Parse Error.
@@ -184,8 +192,6 @@ They are easy, user-friendly, and do not take much of your time. So don not wast
 #### **2.1 One Click to Fix ‘There is a Problem Parsing the Package**
 
 If you’re still encountering the Parsing error, there may be a problem with the Xiaomi Redmi 12 5G device data on your device, which means you’ll need to repair it. Luckily, there’s a simple, one-click solution you can follow called [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/).
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -218,6 +224,13 @@ Input your device and firmware information to confirm you’re installing the ri
 Once complete, the firmware will start downloading.
 
 ![download the firmware to fix problem parsing the package](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step #3** Once the firmware has downloaded, it will automatically install it to your device.
 
@@ -255,6 +268,13 @@ To enable USB Debugging to fix “There is a problem parsing the package” erro
 
 ![turn on “USB Debugging”](https://images.wondershare.com/drfone/article/2017/06/14985109282251.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This should solve the problem. If not, move on to the other techniques.
 
 #### **2.4 Check APK File**
@@ -291,9 +311,6 @@ Clearing Play Store Cache cleans the Android Market platform by deleting all clo
 
 • Select “General Settings” to “Clear local search history”.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![“Clear local search history”](https://images.wondershare.com/drfone/article/2017/06/14985110201340.jpg)
 
 #### **2.8 Factory Reset Android**
@@ -396,16 +413,11 @@ After this method, you can successfully get rid of the safe mode on Android. Res
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iiA3E-Oj_pk"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to put the phone in safe mode?
 
 If some apps or programs create a problem on your device, the solution is safe mode. Safe mode allows you to uninstall the app or the program out of your device safely. So, safe mode on Android is quite useful sometimes. Let’s have a look at how to turn on safe mode in Android.
 
 Before this, remember to take a backup of your Xiaomi Redmi 12 5G. We recommend you to use the Dr.Fone - Phone Backup (Android). This tool is the best in its class to provide users with a very easy-to-use user interface yet powerful solution.
-
-
 
 ### Dr.Fone - Phone Backup (Android)\_
 
@@ -448,7 +460,6 @@ The safe mode is a very useful program for any Android device. But it limits the
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -461,9 +472,18 @@ The safe mode is a very useful program for any Android device. But it limits the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-google-docs-speech-to-text-a-complete-guidebook/"><u>[New] 2024 Approved Google Docs Speech-to-Text A Complete Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717726008656-new-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[New] How To Upload Videos to YouTube A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-laugh-loom-image-stitcher/"><u>[New] Laugh Loom Image Stitcher</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-recording-your-mac-experience-for-free-for-2024/"><u>[Updated] Recording Your Mac Experience for FREE for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-to-show-all-your-iphones-hidden-programs/"><u>Discover How to Show All Your iPhone's Hidden Programs</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-poco-f5-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-f34-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy F34 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-s17-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo S17? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-11-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-reno-10-proplus-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Reno 10 Pro+ 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi 14 Ultra | Dr.fone</u></a></li>
+</ul></div>
 

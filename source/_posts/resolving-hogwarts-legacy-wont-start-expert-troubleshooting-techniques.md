@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Hogwarts Legacy Won't Start' : Expert Troubleshooting Techniques"
-date: 2024-09-09T18:39:29.911Z
-updated: 2024-09-16T17:35:28.763Z
+date: 2024-09-15T16:35:11.855Z
+updated: 2024-09-21T18:52:57.321Z
 tags:
   - win11
   - win10
@@ -46,19 +46,6 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -87,10 +74,16 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -98,6 +91,13 @@ Here’s how to update drivers with Driver Easy:
  After updating drivers, restart your computer and launch Among Us to check if the problem is solved. If not, then proceed to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Delete temp files
 
@@ -108,13 +108,6 @@ Here’s how to update drivers with Driver Easy:
  2) Type **%temp%** and then press Enter on your keyboard.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
   
@@ -138,26 +131,27 @@ Here’s how to update drivers with Driver Easy:
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) From the left menu, click **Turn Windows Defender Firewall on or off** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
 
@@ -184,18 +178,20 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-time-travel-with-your-phones-videos/"><u>[New] 2024 Approved Time Travel with Your Phone's Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-rich-resource-repository-prime-sites-for-free-high-quality-vector-art-for-2024/"><u>[New] Rich Resource Repository Prime Sites for Free High-Quality Vector Art for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/hoot-cool-vids-from-scratch-with-your-mac-newcomers-guide/"><u>[New] Shoot Cool Vids From Scratch with Your Mac, Newcomers Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tier-mkv-players-macos-edition/"><u>2024 Approved Top-Tier MKV Players MacOS Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-folder-management-resetting-critical-components-on-ws11/"><u>Effortless Folder Management: Resetting Critical Components on WS11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-decrease-overbearing-cpu-use-by-google-chrome-for-smoother-operation/"><u>How to Decrease Overbearing CPU Use by Google Chrome for Smoother Operation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-asus-rog-phone-8-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Asus ROG Phone 8 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/integrating-zoom-with-your-android-gadget-for-2024/"><u>Integrating Zoom with Your Android Gadget for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-investing-in-a-lg-k92-for-its-5g-tech-justified-expert-analysis-inside/"><u>Is Investing in a LG K92 for Its 5G Tech Justified? Expert Analysis Inside</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/meizu-21-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Meizu 21 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-etsy-listing-image-ratio-advice/"><u>[New] 2024 Approved Etsy Listing Image Ratio Advice</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-clear-up-audio-in-youtube-a-step-by-step-guide-for-2024/"><u>[Updated] Clear Up Audio in YouTube A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/beneath-shadows-layers-direct-x-flaw-unraveled-in-lol/"><u>Beneath Shadows Layers - Direct X Flaw Unraveled in LoL</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/beyond-one-angle-explore-our-11-multicam-review-for-2024/"><u>Beyond One Angle Explore Our #11 Multicam Review for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-canon-mx340-printer-drivers-compatible-with-windows-11-8-and-7/"><u>Free Download: Canon MX340 Printer Drivers Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-upgrade-to-winx-dvd-copy-pro-official-release-now-available/"><u>Free Upgrade to WinX DVD Copy Pro: Official Release Now Available</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-meizu-21-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Meizu 21 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-a59-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo A59 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-virtual-aid-fb-stories-downloader/"><u>In 2024, Virtual Aid FB Stories Downloader</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-lava-blaze-2-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Lava Blaze 2 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-narzo-60-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme Narzo 60 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-x-flip-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo X Flip Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125180330-save-big-with-our-top-pick-the-amazing-eleegoo-neptune-4-pro-now-just-240-at-newegg/"><u>Save Big with Our Top Pick - The Amazing Eleegoo Neptune 4 Pro, Now Just $240 at Newegg</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-itel-p55t-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Itel P55T ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
 

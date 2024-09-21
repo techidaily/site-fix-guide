@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Vivo Y36 | Dr.fone
-date: 2024-09-10T18:22:31.858Z
-updated: 2024-09-16T16:21:52.014Z
+date: 2024-09-20T17:23:18.202Z
+updated: 2024-09-21T18:47:44.811Z
 tags: 
   - problems
 categories:
@@ -62,13 +62,6 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 
 ![dr.fone main window interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,307,222** people have downloaded it
@@ -107,6 +100,13 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![dr.fone choosing a device type](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Follow the on-screen instructions until the app downloads the correct firmware for your device. As it downloads, Dr.Fone will verify it and put your device details on display. You can [<u>install the firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) on your Vivo Y36 by choosing **Fix Now**.
 
 ![dr.fone firmware download successfully](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
@@ -117,6 +117,19 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 - If the problem persists, select **TryAgain** to rerun the process.
 
 ![dr.fone completion message window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
 
@@ -198,19 +211,6 @@ A similar message shows up even while you are trying to update an App, as shown 
 
 ![can't update app](https://images.wondershare.com/drfone/article/2017/06/14984132013078.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Error Code 963 is basically an outcome of data crash which mostly is seen in cheaper smartphones. There might another reason for Error 963 preventing Apps from downloading and updating, which is Google Play Store Cache being corrupted. People also speculate SD Card related issues as many-a-times external memory enhancer chips do not support large Apps and their updates. Also, Error 963 is very common with HTC M8 and HTC M9 smartphones.
 
 All these reasons and more can handle with ease and you can continue to use Google play services smoothly. In the following segment, we will discuss various fixes to cure the problem to enable to you download, install and update Apps on your device normally.
@@ -218,6 +218,13 @@ All these reasons and more can handle with ease and you can continue to use Goog
 ## Part 2: Easiest solution to fix _Error Code 963_ on Android
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -312,13 +319,6 @@ Now select “Google Play Store” from “All” Apps.
 
 ![select “Google Play Store”](https://images.wondershare.com/drfone/article/2017/06/14984135667390.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In this step, click on “Uninstall Updates” as shown below.
 
 ![Uninstall Updates](https://images.wondershare.com/drfone/article/2017/06/14984137166252.jpg)
@@ -336,6 +336,13 @@ From “All” Apps click on the App which is unable to update.
 Now click on “Move to Phone” or “Move to internal storage” and try to download its update again from the Google Play Store.
 
 ![“Move to internal storage”](https://images.wondershare.com/drfone/article/2017/06/14984137603366.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Try updating the App now. If the Apps’s update does not download even now, DO NOT worry. There are three more ways to help you.
 
@@ -366,6 +373,13 @@ Visit “Settings”, under “Accounts” select “Google”.
 Select your account and from the “Menu” select “Remove account” as shown below.
 
 ![select “Remove account”](https://images.wondershare.com/drfone/article/2017/06/14984138188713.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once your account is removed, follow the steps given hereunder to add it back again after a few minutes:
 
@@ -464,13 +478,6 @@ Fret not, the program will automatically detect the most suitable firmware for y
 
 ![play store download pending - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5: Repair Android phone**
 
 After the package downloads, program will repair all kinds of problems surfacing over your phone automatically. This way, the **_Play store stuck on downloading_** will get resolved fully.
@@ -500,13 +507,6 @@ When was the last time you cared to update your Play store app? Generally, users
 
 ![update device to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/update-play-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3.6 Try another Google account
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
@@ -529,17 +529,20 @@ Last but certainly not the least, users must avoid downloading large application
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-google-meetings-archive/"><u>[Updated] 2024 Approved Google Meetings Archive</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hidden-treasures-on-youtube-understanding-unlisted-footage/"><u>[Updated] In 2024, Hidden Treasures on YouTube Understanding 'Unlisted' Footage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-methods-to-revamp-grades-in-photoshop/"><u>[Updated] Top Methods to Revamp Grades in Photoshop</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-the-hidden-power-of-instagrams-ask-emoji-for-2024/"><u>[Updated] Unlocking the Hidden Power of Instagram’s Ask Emoji for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lava-agni-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-infinix-zero-30-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Infinix Zero 30 5G.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g-5g-2023-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G 5G (2023) to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-for-iphone-glitches-how-to-successfully-execute-a-force-restart-and-access-recovery-options/"><u>Quick Fixes for iPhone Glitches: How to Successfully Execute a Force Restart and Access Recovery Options</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-lava-yuva-2-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Lava Yuva 2 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-10-capture-hardware-recommendations-for-online-videos-for-2024/"><u>[New] Essential 10 Capture Hardware Recommendations for Online Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-twitters-most-popular-amazon-originals-in-2e23/"><u>[Updated] In 2024, Twitter's Most Popular Amazon Originals in 2E'23</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721481099531-airplay-not-working-heres-how-you-can-fix-it/"><u>AirPlay Not Working? Here's How You Can Fix It</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-virtual-reality-iphone-edition-for-2024/"><u>Capturing Virtual Reality IPhone Edition for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/galaxy-z-fold-6-announcement-find-out-costs-debut-timeline-and-specifications-now/"><u>Galaxy Z Fold 6 Announcement: Find Out Costs, Debut Timeline & Specifications Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c02-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C02</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-curve-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze Curve 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpts-plugin-for-wolfram-alpha-triad/"><u>Leveraging ChatGPT's Plugin for Wolfram Alpha Triad</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-lava-blaze-curve-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lava Blaze Curve 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-infinix-note-30-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Infinix Note 30 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-windows-11-app-opening-secrets-revealed/"><u>Turbo Windows 11 App Opening Secrets Revealed</u></a></li>
 </ul></div>
 

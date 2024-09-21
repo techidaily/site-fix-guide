@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Xiaomi Redmi 13C 5G? 7 Ways to Resolve | Dr.fone
-date: 2024-07-14T07:00:40.710Z
-updated: 2024-07-15T07:00:40.710Z
+date: 2024-09-14T18:06:34.523Z
+updated: 2024-09-21T16:00:32.796Z
 tags: 
   - problems
 categories:
@@ -40,8 +40,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -89,9 +87,6 @@ Fret not, the program will automatically detect the most suitable firmware for y
 
 After the package downloads, program will repair all kinds of problems surfacing over your phone automatically. This way, the **_Play store stuck on downloading_** will get resolved fully.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![get to repair android to fix play store download pending](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ### 3.4 Clear data and cache of Play Store and download again
@@ -131,9 +126,6 @@ You’ve often heard that recovery mode will solve just about any problem your X
 
 Fortunately for you, this article will explain all aspects of factory mode and especially how to safely exit factory mode.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. What is Android Factory Mode?
 
 Factory mode or what is commonly known as factory reset is one of the options available for you when your Xiaomi Redmi 13C 5G is in recovery mode. Several options are available for you once you enter Recovery mode on your device but few are as effective as the wipe data/ factory reset option. This option is useful in solving a whole host of problems that your device could be experiencing.
@@ -142,16 +134,11 @@ If you have been using your Xiaomi Redmi 13C 5G for a while now and its performa
 
 It is however important to note that a factory reset or factory mode does often result in the loss of all your data. Therefore a backup is necessary to protect against this data loss risk.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. Backup your Android Device First
 
 Before we can see how to safely enter and exit factory mode, it is important to have a full backup of your device. We mentioned that a factory mode will likely erase all the data on your device. A backup will ensure that you can get your phone back to its original state before the factory mode.
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
-
-
 
 ### Dr.Fone - Backup & Restore (Android)
 
@@ -172,6 +159,13 @@ Run the software on your computer and you can see all features displayed in the 
 
 ![backup android before enter in recovery mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2. Plug in with your device
 
 Then plug in with your device to the computer. When your devic is detected, click on Backup.
@@ -190,6 +184,13 @@ After choosing the file's type for backup, click "Backup" to begin backing up yo
 
 ![android factory mode](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Note: You can use the feature of "Restore From Backup" to restore the backup file to your device, when you have the need later.
 
 ## Part 3: One Click Solution to fix Android stuck in factory mode
@@ -197,8 +198,6 @@ Note: You can use the feature of "Restore From Backup" to restore the backup fil
 From the above parts, you are well aware about what is factory mode. As we discussed, this mode fixes most troubles with Android devices.
 
 But for situations when your Xiaomi Redmi 13C 5G gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Xiaomi Redmi 13C 5G logo or factory mode or blue screen of death with a single click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -220,6 +219,13 @@ Step 1: Installation completion needs to be followed by running Dr.Fone on your 
 
 ![fix Android stuck in factory mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Select the ‘Android Repair’ option from the list to fix Android stuck in factory modeissue. Hit the ‘Start’ button soon after.
 
 ![start fixing Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -238,9 +244,6 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 
 - On a ‘Home’ button-less device – turn off the Xiaomi Redmi 13C 5G device and push down the ‘Volume Down’, ‘Power’ and ‘Bixby’ buttons for about 10 seconds and un-hold. Now, hit the ‘Volume Up’ button to get into ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Android stuck in factory mode on android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - For a device with ‘Home’ button – switch it off and hold down the ‘Power’, ‘Volume Down’ and ‘Home’ buttons together for 10 seconds and release. Click the ‘Volume Up’ button for entering ‘Download’ mode.
@@ -420,11 +423,15 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
     ![download android firmware before repair](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6**: Enter the code and hit **Confirm**to continue the system repair process. When it’s done, click the **Done**
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![confirm android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
@@ -471,14 +478,24 @@ Once inside Permission Settings, check whether the Google Play Services and Play
 
 **4,953,228** people have downloaded it
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Although it’s an incredibly frustrating error, the “Unfortunately, Google Play Services has stopped” message is more annoying than serious. We’ve explained why it happens, but we’ve also given you a list of solutions to fix it.
 
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -492,9 +509,19 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-evolutionary-path-of-roguelike-games/"><u>[New] 2024 Approved The Evolutionary Path of Roguelike Games</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-best-of-both-worlds-top-high-quality-zero-dollar-webm-tools/"><u>[Updated] Best of Both Worlds Top High-Quality, Zero-Dollar WebM Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-optimized-techniques-for-capturing-win10-games/"><u>[Updated] In 2024, Optimized Techniques for Capturing Win10 Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyberspaces-blueprint-visualizing-the-next-7-revolutions/"><u>Cyberspace's Blueprint: Visualizing the Next 7 Revolutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/harmonize-your-content-a-guide-to-musical-instagrams/"><u>Harmonize Your Content A Guide to Musical Instagrams</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/is-using-craving-explorer-safe-essential-info-before-you-start/"><u>Is Using Craving Explorer Safe? Essential Info Before You Start!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/psvr-2-exclusive-lineup-unveiled-a-complete-guide-to-upcoming-titles/"><u>PSVR 2 Exclusive Lineup Unveiled: A Complete Guide to Upcoming Titles</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-11-video-transcoding-tools-for-windows-11-desktop-and-web-solutions/"><u>Top 11 Video Transcoding Tools for Windows 11: Desktop & Web Solutions</u></a></li>
+</ul></div>
 

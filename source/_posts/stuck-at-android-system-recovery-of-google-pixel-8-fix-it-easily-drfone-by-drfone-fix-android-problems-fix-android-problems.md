@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Google Pixel 8 ? Fix It Easily | Dr.fone
-date: 2024-09-13T18:05:16.905Z
-updated: 2024-09-16T17:37:29.763Z
+date: 2024-09-18T16:38:58.474Z
+updated: 2024-09-21T18:25:56.351Z
 tags: 
   - problems
 categories:
@@ -87,19 +87,6 @@ Your device should already be in this mode but follow the instructions to make s
 
 ![fix Android stuck at System recovery in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step #4** The firmware will now start downloading. You'll be able to track this process in the window.
 
 Ensure your device, and your computer stays connected the entire time, and make sure your internet connection remains stable.
@@ -152,6 +139,13 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How To Restore a Bricked Google Pixel 8 Back to Operation
 
 In moments of lag or freezing on your Android, you might **brick Your Google Pixel 8,** which can be unsettling. This is more than just the loss of a device. A **bricked cell phone** also involves potential data erasure. Yet, it's crucial to understand the true implications of a **bricked phone**. This page tackles how to address the issue of a bricked Android phone.
@@ -159,6 +153,19 @@ In moments of lag or freezing on your Android, you might **brick Your Google Pix
 This comprehensive guide aims to the reasons behind Android phones becoming bricked. By reading below, you'll learn effective methods to **unbrick a mobile phone** without the risk of data loss.
 
 ![man holding a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-01.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1. What are Brick Phones: At a Glance
 
@@ -197,23 +204,9 @@ Below are solutions that you can employ to fix various brick phone scenarios.
 
 ![rebooting a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Reverting Android Device to Factory Defaults (Soft Brick)
 
 A universal approach to trying to recover a **brick phone** exists for all Android phones. This is, consider restoring your device to its factory settings. You can find instructions specific to your phone model online. Although this procedure erases all your data, it's possible to regain the use of your brick phone.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Get in Touch With the Manufacturer (Hard Brick and Soft Brick)
 
@@ -273,6 +266,13 @@ Below are the steps to recover data on a bricked mobile phone.
 
 ![dr.fone choose device type](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3**: Click on the **Phone with Home button** or **Phone without Home button** depending on your device. Follow the on-screen instructions and click **Next** to proceed with reviving your brick phone.
 
 ![dr.fone following on-screen instructions](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
@@ -296,6 +296,13 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 Mobile applications are important for smooth operations when it comes to smartphones. They offer convenience, entertainment, and functionality at your fingertips. However, encountering the "**App Not Available in Your Country Play Store**" issue can be frustrating. It can quickly dampen the excitement of discovering a new app.
 
 This is mainly due to geographical restrictions that are often imposed by developers. It poses a hurdle for users eager to access a particular application. However, there is no need to worry, as this article will help you in resolving this issue. It will delve into effective strategies and solutions to ensure the unavailability of an app is no longer an obstacle.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Reasons Behind the App Not Available in Your Country Play Store Issue
 
@@ -332,13 +339,6 @@ One of the most direct ways to address this issue is by manually adjusting your 
 - **Step 1.** Launch the Google Play Store on your Google Pixel 8 and tap the “Profile” icon from the top right corner. Here, choose "Settings" and follow on to tap "General."
 
 ![general settings play store](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Within the "General" tab, move towards "Account and device preferences" and tap it. There, select "Country and profiles" and tap the country to change it. Now, follow the on-screen prompts to complete the procedure.
 
@@ -386,18 +386,18 @@ Google Play Store isn't the only apps and games store. There exist many options,
 
 ![install app in aptoide](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pro Tip: Fix Play Store Available in Your Country but Not Working on All Android Smartphones
 
 If the Play Store is not working on your Google Pixel 8s or an application is not downloading from it, we have a tip for you. [<u>Wondershare Dr.Fone – System Repair (Android)</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) is a perfect solution for all the issues for your Google Pixel 8s. Whether it is the Play Store functionality issue or the downloading of applications problem, System Repair (Android) is there to resolve them.
 
 It fixes various Android issues in a matter of a few seconds. This toolkit has a high success rate of fixing Android issues, including the Play Store Not Working issue. It can also resolve the issue of [<u>Apps Keep Crashing</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html), [<u>Phone Stuck in a Boot Loop</u>](https://drfone.wondershare.com/android-issue/boot-loop-android.html), and much more.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -481,19 +481,20 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-step-by-step-guide-to-bordering-instagram-footage/"><u>[New] 2024 Approved Step-by-Step Guide to Bordering Instagram Footage</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-curated-curation-of-classic-tonal-treasures-for-2024/"><u>[Updated] Curated Curation of Classic Tonal Treasures for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-exclusive-8-video-download-utilities-guide-for-2024/"><u>[Updated] Exclusive 8 Video Download Utilities Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-restoring-correct-self-image-amidst-message-distortion-for-2024/"><u>[Updated] Restoring Correct Self-Image Amidst Message Distortion for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-mix-melodies-and-text-powerpoints-unleashed/"><u>In 2024, How to Mix Melodies & Text PowerPoints Unleashed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-perfect-text-magic-for-striking-video-scenes/"><u>In 2024, Perfect Text Magic for Striking Video Scenes</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-plus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 Plus Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-secret-how-to-display-hidden-apps-with-simple-tricks/"><u>IPhone Secret: How to Display Hidden Apps with Simple Tricks</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/itel-a60s-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A60s Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721470583289-no-audio-on-your-apple-device-heres-what-you-can-do/"><u>No Audio on Your Apple Device? Here’s What You Can Do!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-a38-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A38 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-6s-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 6s</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-essential-selection-the-greatest-free-editing-software/"><u>[New] 2024 Approved Essential Selection The Greatest Free Editing Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ios-and-desktop-leaders-in-effortless-video-to-file-conversion-for-2024/"><u>[New] IOS and Desktop Leaders in Effortless Video to File Conversion for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypassing-roku-top-methods-to-stream-without-an-official-player/"><u>Bypassing Roku: Top Methods to Stream without an Official Player</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-viewership-3-key-storytelling-approaches-for-2024/"><u>Elevate Viewership 3 Key Storytelling Approaches for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-join-google-meet-for-2024/"><u>How to Join Google Meet for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/htc-u23-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>HTC U23 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-x6-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X6 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-v30-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo V30? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-easy-acer-drivers-update-for-boosted-windows-10-performance/"><u>Quick & Easy Acer Drivers Update for Boosted Windows 10 Performance</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c33-2023-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C33 2023 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-find-x7-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Find X7 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-k11x-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo K11x Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-note-12-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 12 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-tech-a-closer-look-from-toms-hardware/"><u>Unveiling the Latest Tech: A Closer Look From Tom's Hardware</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Fix When Discord's Screen Overlay Won't Work Anymore
-date: 2024-09-15T17:20:17.453Z
-updated: 2024-09-16T17:36:38.965Z
+date: 2024-09-18T16:01:29.494Z
+updated: 2024-09-21T17:16:16.028Z
 tags:
   - win11
   - win10
@@ -156,6 +156,13 @@ If the game still freezes, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-13.jpg)
@@ -187,13 +194,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After turning off unwanted programs, relaunch your game to test your issue. If your problem still exists, try **[Fix 6](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
@@ -203,13 +203,6 @@ If your issue persists, check the fix below.
 **1)**  Right-click your taskbar and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
@@ -254,10 +247,10 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-04-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Click**Advanced** \>**Change** .
@@ -272,6 +265,13 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-39.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Click the button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
@@ -279,10 +279,16 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)** Click **Set** \>**OK** .
@@ -307,16 +313,16 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-39.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
@@ -351,15 +357,17 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/1715860834964-new-exploring-screen-capture-with-apowersoft-no-cost-involved/"><u>[New] Exploring Screen Capture with Apowersoft, No Cost Involved!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/building-your-virtual-persona-with-minimal-hassle/"><u>Building Your Virtual Persona with Minimal Hassle</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-play-8t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Play 8T Safely | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-samsung-galaxy-m34-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Samsung Galaxy M34?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-poco-c65-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Poco C65 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-a18-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo A18 FRP</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-gifs-your-step-by-step-meme-making-journey-for-2024/"><u>Mastering GIFs Your Step-by-Step Meme Making Journey for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-ais-influence-in-crafting-original-works/"><u>Navigating AI's Influence in Crafting Original Works</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-live-viewers-choice-obs-or-shadowtoolkit-for-2024/"><u>[New] Live Viewers' Choice OBS or ShadowToolkit for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-rotation-rush-guide-mastering-instagrams-art-of-turned-around-content/"><u>[Updated] 2024 Approved The Rotation Rush Guide Mastering Instagram's Art of Turned-Around Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-best-selling-vr-games-on-oculus-devices-for-2024/"><u>[Updated] Best-Selling VR Games on Oculus Devices for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-your-pc-with-the-newest-elan-smbus-driver-for-windows-now-available/"><u>Fixing Your PC with the Newest ELAN SMBus Driver for Windows - Now Available</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-insight-xbox-one-to-gigabit-ethernet-adapter-software/"><u>Free Download: Insight Xbox One to Gigabit Ethernet Adapter Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-secrets-to-crafting-enthralling-edu-videos-for-the-digital-age/"><u>In 2024, Secrets to Crafting Enthralling Edu-Videos for the Digital Age</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-v27-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo V27 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-t2-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo T2 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-acrocefexe-program-failure-a-step-by-step-guide/"><u>Solving the acrocef.exe Program Failure: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

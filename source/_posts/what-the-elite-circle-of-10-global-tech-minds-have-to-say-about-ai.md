@@ -1,7 +1,7 @@
 ---
 title: What the Elite Circle of 10 Global Tech Minds Have to Say About AI
-date: 2024-09-09T17:34:36.344Z
-updated: 2024-09-16T17:55:17.207Z
+date: 2024-09-20T17:11:56.423Z
+updated: 2024-09-21T17:18:04.541Z
 tags:
   - chatgpt
   - open-ai
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
  You can also use this picture to understand handwritten documents you've scanned or have a picture of. You can even insert a picture of a spreadsheet and ask ChatGPT to make calculations based on the data it has acquired or suggest improvements to the spreadsheet's layout.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Internet Access
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
  The standard, free version of ChatGPT has a knowledge cutoff from September 2021\. That means it does not have access to any information on events that occurred after that date. However, you can overcome this limitation using the new**Browse with Bing** mode with the GPT-4 model. This means you can access the internet within ChatGPT.
 
  Internet access lets you summarize articles, conduct up-to-date market research, and find recent news stories and papers. ChatGPT can also access a wider dataset and deliver more accurate responses. So, with the $20/month subscription, the knowledge cutoff is no longer a problem.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. DALL·E 3 Art Creation
 
@@ -72,27 +79,20 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
 
  This is how easy it has become to write a story and have beautiful illustrations! Again, if something makes the $20/month ChatGPT Plus subscription seem cheap and extremely valuable, it's definitely the combo of DALL·E 3 and GPT-4.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Plugin Access
 
 ![chatgpt plugins option selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-plugins-option-selection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Plugin access gives ChatGPT Plus a level of customization that you won't find with its competitors. These plugins serve as third-party software components that integrate with ChatGPT. While the feature is currently in beta, you can[install plugins from the plugin store](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) and pick from over 100 different options.
 
  Each plugin serves a different purpose. For example, you can use the Kayak plugin to book a trip abroad, the Instacart plugin to plan meals and buy ingredients, or interact with apps like Google Sheets and Gmail using Zapier. Some plugins can be buggy or slow, but it'll be interesting to see how useful they are once the kinks are ironed out.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Advanced Data Analytics
 
@@ -107,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
 ![Data visualized by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/data-visualized-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whether you're a small business owner or just play with data in spreadsheets, this feature can help you make data-driven decisions. You can upload your account books and ask ChatGPT not only to visualize the data for you but also to give you valuable insights into what needs improvement in your business.
@@ -123,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
 
  Fortunately, ChatGPT Plus is available almost all the time. The service is designed to give priority access to Plus subscribers, so you can use it even during peak usage times. Paying for the service is a no-brainer if your business or workflow heavily depends on ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Seamless Interactions
 
 ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
@@ -132,13 +139,6 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
  While the quality of responses is the same, the difference is immediately noticeable. You can use this language model if you feel that[GPT-4 isn't that impressive in terms of speed](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
 
  A problem with the free version is that it often stops responding, forcing you to regenerate the answers. This happens multiple times throughout a session. You won't have to worry about this with the Plus version. If you rely on ChatGPT for work, upgrading to ChatGPT Plus is a great way to save time waiting for the free version to respond.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Better Translation Capabilities
 
@@ -167,19 +167,18 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-video-creation-simplified-key-elements-of-using-aiseesofts-tech/"><u>[New] 2024 Approved Video Creation Simplified Key Elements of Using Aiseesoft's Tech</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-discover-10-superior-online-photo-background-swappers-for-2024/"><u>[New] Discover 10 Superior Online Photo Background Swappers for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-financial-overview-total-investment-for-music-clip-shootings/"><u>[New] Financial Overview Total Investment for Music Clip Shootings</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-invisible-impact-the-underestimated-toll-of-trick-likes-for-2024/"><u>[New] Invisible Impact The Underestimated Toll of Trick Likes for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-breaking-into-the-market-a-guide-to-facebook-video-content/"><u>[Updated] 2024 Approved Breaking Into the Market A Guide to Facebook Video Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-learn-quick-image-text-alteration-online-resources/"><u>[Updated] Learn Quick Image Text Alteration Online Resources</u></a></li>
-<li><a href="https://games-able.techidaily.com/infusing-servers-with-games-chess-and-poker-in-discord/"><u>Infusing Servers with Games: Chess and Poker in Discord</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-a1x-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A1x 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-hot-40-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix Hot 40? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-camon-20-premier-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Camon 20 Premier 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y200-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y200 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-maintain-anonymity-in-fb-narratives/"><u>[New] 2024 Approved Maintain Anonymity in FB Narratives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-secure-whole-page-scene-for-2024/"><u>[New] Secure Whole-Page Scene for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-aperture-allstars-the-best-camera-lenses-to-capture-the-moment-ranked-1-10/"><u>[Updated] In 2024, Aperture Allstars The Best Camera Lenses to Capture the Moment, Ranked #1-10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-google-meet-for-everyone-a-comprehensive-no-cost-strategy-booklet/"><u>[Updated] In 2024, Google Meet for Everyone A Comprehensive, No-Cost Strategy Booklet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-upgrade-your-editing-game-merging-windows-11-and-storyremix-for-video-magic/"><u>2024 Approved Upgrade Your Editing Game Merging Windows 11 & StoryRemix for Video Magic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-guide-to-segmenting-your-3d-prints-splitting-objects-efficiently/"><u>A Guide to Segmenting Your 3D Prints: Splitting Objects Efficiently</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-moto-g23-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Moto G23 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-m34-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy M34 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-lava-yuva-2-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Lava Yuva 2 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-13t-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi 13T? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c53-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C53 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/winning-with-windows-videos-tips-for-enhancing-vimeo-feeds-for-2024/"><u>Winning with Windows Videos Tips for Enhancing Vimeo Feeds for 2024</u></a></li>
 </ul></div>
 

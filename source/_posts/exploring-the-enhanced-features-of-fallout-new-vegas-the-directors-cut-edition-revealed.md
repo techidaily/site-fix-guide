@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Enhanced Features of Fallout New Vegas: The Directors Cut Edition Revealed"
-date: 2024-09-15T16:50:27.893Z
-updated: 2024-09-16T16:01:10.378Z
+date: 2024-09-18T18:15:00.408Z
+updated: 2024-09-21T16:02:10.293Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Enhanced Features of Fallout New Vegas: The Directors Cut Edition Revealed"
@@ -94,10 +94,10 @@ Lifewire / Rebecca Isaacs
 ![7 Days to Die](https://www.lifewire.com/thmb/U2XChOqkiQvFhP69V0cQ5mYcYME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4164252-3-d19d9b4d19734cffb022d6e0db90382e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
@@ -124,6 +124,19 @@ Lifewire / Rebecca Isaacs
 
  Lifewire / Rebecca Isaacs
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Graphics: Outdated, but detailed on optimal**
 
  For a game that was released in 2013 originally, the graphics could be a little better, even if you play on optimal settings. Back in the day, we played on lower settings rather than splurge on a fancy graphics card. If you play on the lower settings, it’s cringeworthy, though not as cringeworthy as the Witcher 3’s lowest settings.
@@ -132,29 +145,22 @@ Lifewire / Rebecca Isaacs
 
  Because the graphics are a rather mixed bag, the frames per second (fps) can vary dramatically. We experienced drops as low as 18 fps when playing. When surrounded by a horde, that can cost you your life.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Platform: It’s complicated**
 
  7 Days to Die runs on many platforms:[PC](https://www.lifewire.com/what-is-a-mac-4155662) ,[PS4](https://www.lifewire.com/ps4-ps4-slim-and-ps4-pro-4154452) , and[Xbox 360](https://www.lifewire.com/xbox-360-buyers-guide-3562451) . We played 7 Days on PC, and at the time of writing, they released a teaser for the Alpha 18 update which would roll out to the PC version of the game.
 
  Last time we checked, the company that owned all console rights, Telltale, went bust, and The Fun Pimps (the developer) were in legal limbo trying to reacquire their own rights. There’s a good chance that there will not be an update in the console versions of the game anytime soon as this issue makes its way through the courts. Therefore, we strongly recommend that you purchase the PC version if you decide this is a game you might like to try.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Average for an alpha game**
 
  At around $25, 7 Days isn’t the most expensive zombie game on the market. However, it is the most expensive alpha zombie game out there. Because you can purchase it on[Steam](https://www.lifewire.com/what-is-steam-4177380) or Humble Bumble, we recommend waiting for a Steam sale and getting it for a discount, especially since it’s still in progress. This way, if you decide you don’t like it in the future, you aren’t out the full price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Other sandbox shooters**
 
@@ -169,16 +175,10 @@ Lifewire / Rebecca Isaacs
  Despite flaws in graphics, there’s a lot to love about 7 Days to Die. The challenging skill tree system and dangerous intelligent zombies add an element that’s not typically found in zombie shooters. If you want a game to commit to for hours on end, building bases and exploring dungeon-like homes while slaying zombie cheerleaders, then 7 Days to Die could be a fun way to ease some stress after a long day of work.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -214,16 +214,15 @@ Lifewire / Rebecca Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-anatomy-of-an-anti-viewer-cutting-edge-strategies-for-reversed-youtube-videos/"><u>[New] In 2024, Anatomy of an Anti-Viewer Cutting Edge Strategies for Reversed YouTube Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-viral-visionaries-twitters-10-hotest-content-threads-today/"><u>[Updated] 2024 Approved Viral Visionaries Twitter's 10 Hotest Content Threads Today</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-igtv-masterpieces-top-editing-software-showcased/"><u>2024 Approved IGTV Masterpieces Top Editing Software Showcased</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-color-palettes-applying-theories-effectively/"><u>2024 Approved Mastering Color Palettes Applying Theories Effectively</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/el-compendium-best-of-the-bunch-historical-youtubes-for-study/"><u>Channel Compendium Best of the Bunch - Historical YouTubes For Study</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/frontier-ai-chipsets-and-processors-the-quintessential-innovations/"><u>Frontier AI Chipsets and Processors: The Quintessential Innovations</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-agni-2-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Agni 2 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-top-10-storyboarding-software-freeandpaid/"><u>New In 2024, Top 10 Storyboarding Software Free&Paid</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-meizu-21-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Meizu 21 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-dodge-facebook-video-sponsored-content-for-2024/"><u>[New] How to Dodge Facebook Video Sponsored Content for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-srt-decoding-for-windows-and-mac-users/"><u>[New] In 2024, SRT Decoding for Windows & Mac Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-easy-to-follow-guide-for-configuring-streamlabs-obs-for-2024/"><u>[Updated] Easy-to-Follow Guide for Configuring Streamlabs OBS for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fb-video-ads-create-and-design-with-free-creative-kit/"><u>[Updated] FB Video Ads Create & Design with Free Creative Kit</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-budget-friendly-android-video-callers/"><u>[Updated] Top Budget-Friendly Android Video Callers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-canon-printer-software-drivers-compatible-with-windows-7-81-and-10/"><u>Download Canon Printer Software Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-redmi-note-13-proplus-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi Note 13 Pro+ 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y28-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y28 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-lava-blaze-pro-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Lava Blaze Pro 5G Black and White | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Poco X5 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-07-14T07:01:50.320Z
-updated: 2024-07-15T07:01:50.320Z
+date: 2024-09-15T17:33:43.223Z
+updated: 2024-09-21T17:49:23.925Z
 tags: 
   - problems
 categories:
@@ -26,9 +26,6 @@ Luckily, despite there being so many problems out there, there are also many sol
 
 Begin by powering off your Poco X5 and unplugging your router. Wait for about a minute before plugging in the router and turning on your device. This simple reset can often restore stable connections and fix Android wifi not working.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android.jpg)
 
 ## Part 2: Turn on Airplane mode and turn off
@@ -48,6 +45,13 @@ However, if you’ve got a problem with Wi-Fi not working on your Android and ot
 3. Press the Restart button on your router and wait ten minutes before reconnecting your device and connecting again
 4. Call up your internet provider to see if there’s an internet connection issue in your area
 5. Open your web browser and log into your router settings to ensure your Poco X5 is connected to the Wi-Fi network and is allowed to send and receive data
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4. Boot your Android in safe mode
 
@@ -76,9 +80,6 @@ You need to check both of these to make sure your connection is working properly
 2. If you’re using a router adapter, make sure it’s set up properly, and your Poco X5 is connected to the adapter using the correct passwords. Try connecting another device to see if the internet connection is working on there
 3. Whichever method you’re using, try disconnecting your Poco X5 and forgetting the network, and then reconnecting and entering the right password to refresh the connection
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6. Check SSID and IP address on Android
 
 To make a Wi-Fi connection work, your Poco X5 needs to match two codes that connect and relate to your router to establish the connection and work correctly. These are known as the SSID and the IP address.
@@ -97,8 +98,6 @@ When these numbers are matching, if your Android is still not connecting to wifi
 If none of the solutions above are working, this could indicate a real problem with the firmware and operating system of your Poco X5. Fortunately, a fast solution to get everything working again is to completely repair the software of your phone.
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -201,11 +200,15 @@ As you continue to use your Poco X5, the partition cache will fill up with data 
 5. Select the Android System Recovery option, followed by Wipe Cache Partition
 6. Restart your device and connect to the internet
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 12. Reset factory settings
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - factory settings](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
 
 If worse comes to worst, another option you have is to factory reset your Poco X5. As we’ve spoken about above, while using your phone from the day you started using it, your device will fill up with files and data which can become messy and causes bugs.
@@ -219,9 +222,6 @@ However, by factory resetting your device, you can start again from the factory 
 5. Wait for your phone to complete the process
 6. Restart your device and connect to the internet
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## How to Quickly Fix Bluetooth Not Working on Poco X5
@@ -240,6 +240,13 @@ However, the problems don’t stop there. You may have problems with turning you
 
 Due to the complicated nature of Bluetooth technology, there could be many reasons as to why your Bluetooth feature is playing up in this way, but that doesn’t mean it can’t be fixed. For the rest of this guide, we’re going to explore the nine need-to-know ways you can fix the Bluetooth problems not working on your Poco X5 as quickly as possible.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
@@ -247,8 +254,6 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Poco X5. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -354,9 +359,6 @@ Here’s how to turn on your Bluetooth discoverable feature;
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Poco X5 device you’re trying to connect too
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.7 Exclude Bluetooth issues of the other device
 
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
@@ -387,8 +389,6 @@ The final consideration you’ll want to think about is that Bluetooth radio wav
 With this in mind, you’ll want to make sure you’re limiting the amount of Bluetooth activity in the area where you’re trying to use a device. While uncommon, this could be the problem.
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Poco X5 to the Poco X5 device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
-
-
 
 ## Calls on Poco X5 Go Straight to Voicemail? 12 Fixes
 
@@ -440,6 +440,13 @@ If a phone **call went straight to voicemail**, another possible explanation is 
 - **Step 3:** Select **Voice call**, then turn off your preferred outgoing and incoming calls. When prompted, enter 0000 as a password.
 
 ![call barring settings interface](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Update Your Phone’s Software
 
@@ -550,6 +557,13 @@ Dr.Fone supports over 1000 Android models, including unlocked Poco X5 models and
 
 ![select device type on dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Click **Start** to begin repairing your smartphone.
 
 ![dr.fone start system repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -592,7 +606,6 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 **4,215,287** people have downloaded it
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -605,9 +618,19 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-superior-video-editor-the-vimeo-edition/"><u>[New] 2024 Approved Superior Video Editor The Vimeo Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-a-channel-that-dominates-the-business-world-for-2024/"><u>[New] How to Create a Channel that Dominates the Business World for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-detailed-explanation-of-youtubes-operation-after-a-video-goes-live/"><u>[New] In 2024, Detailed Explanation of YouTube's Operation After a Video Goes Live</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-conquering-commercials-dodge-fb-vids-for-2024/"><u>[Updated] Conquering Commercials Dodge FB Vids for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/educational-transformation-why-teachers-should-embrace-ai-8-key-arguments/"><u>Educational Transformation: Why Teachers Should Embrace AI (8 Key Arguments)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-a14-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy A14 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-11-proplus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme 11 Pro+ in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pova-5-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pova 5 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-and-running-chatgpt-on-your-windows-machine/"><u>Step-by-Step Guide: Setting Up & Running ChatGPT on Your Windows Machine</u></a></li>
+</ul></div>
 

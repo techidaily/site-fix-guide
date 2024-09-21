@@ -1,7 +1,7 @@
 ---
 title: Poco X6 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone
-date: 2024-07-14T07:02:01.790Z
-updated: 2024-07-15T07:02:01.790Z
+date: 2024-09-16T16:18:02.930Z
+updated: 2024-09-21T18:40:13.966Z
 tags: 
   - problems
 categories:
@@ -21,7 +21,6 @@ It is very common that the Android messaging app is not working on many devices 
 You might find lots of people online stating I can't receive text messages on Android. And usually, people don’t find a legit solution for this issue. If you are also experiencing this sort of issue on your Poco X6s, then don’t panic. We have a series of methods that can supposedly fix the problem. But at first, we will learn what the main reasons this problem arises are and how do you know that it is consistent not some random error.
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
-
 
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
@@ -50,8 +49,6 @@ Apart from all these reasons, some additional causes are also there that can lea
 If you are not willing to waste your precious time fixing the message problem, then you can switch to the top-rated Android repair tool, i.e., [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). With this software, you can easily fix issues like the black screen of death, crashing apps, can't receive text messages on Android, or failed download. If you have no idea what is causing the message app problem, you can simply think of repairing the whole Android system.
 
 You surely need to try the software as it can perform the following tasks:
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -82,8 +79,12 @@ Step 3: Agree with the conditions and hit the Next button. The software will dow
 It won’t take long, and your Poco X6 will be repaired. Now you will be able to receive and send text messages without any hassle.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Remove and Insert the SIM
 
 The easiest thing that you can try if your Poco X6 is not receiving any text messages is because the SIM is not inserted right. If your SIM card is inserted wrong, then it is obvious you can't receive text messages on Android. Simply take out the SIM card, see how it must be inserted, and do it correctly. Once the SIM is inserted in the right way, you will receive the pending text messages immediately unless there is another issue preventing it.
@@ -207,6 +208,13 @@ Easiest Fix to Error Code 920
 
 ![fix error code 920 in one click](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then connect your Poco X6 using the official cable and select the ‘Android Repair’ option.
 
 ![select android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -308,9 +316,6 @@ A most effective method to fix Google Play Store not working
 
 1. Start fixing Google Play Store not working by clicking "Start". Select and confirm the correct model details as instructed.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix google play store not working in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 1. Activate the Download mode from your Poco X6.
@@ -347,6 +352,13 @@ Step 2 – Now you can see several options. Select “Automatic date and time”
 
 ![Select “Automatic date and time”](https://images.wondershare.com/drfone/article/2017/06/14985032658893.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3 – Now, go to the Play store and try to connect again. This should be working without any problem now.
 
 ### 2\. Cleaning of Cache data of Play Store
@@ -364,6 +376,13 @@ Step 4 – Now, you can find a screen like below. Tap on “Clear cache” to re
 ![Tap on “Clear cache”](https://images.wondershare.com/drfone/article/2017/06/14985032967281.jpg)
 
 Now, again try to open Google Play Store and you may successfully overcome the Play Store not working issue. If not, check the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Reset Play store by Clear data
 
@@ -395,9 +414,6 @@ Step 3 – Now click on the top right side three dots or “more” option. Here
 
 Now, go back and try to open Google Play Store again. This should work now and enter your Google ID and password again to continue. If it’s still not working, move to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Reinstall the latest version of Google Play Store
 
 Google Play store can’t be uninstalled completed completely from your Poco X6. But disabling and reinstalling its latest version can resolve the Play Store crashing issue. For doing this, just follow the below guide.
@@ -406,9 +422,6 @@ Step 1 – First of all, go to “Settings” and then move on to “Security”
 
 Step 2 – Upon clicking on this option, you can find “Android device manager”. Uncheck this and disable.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find “Android device manager”](https://images.wondershare.com/drfone/article/2017/06/14985034072163.jpg)
 
 Step 3 – Now you can be able to uninstall Google play service by going into application manager.
@@ -433,9 +446,6 @@ Step 3 – Now, tap on “Clear cache”. And you are done.
 
 Now go back and try to open Google Play store again. This might solve the Google Play Store has stopped the problem by now. If not, check the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7\. Disable the VPN
 
 The VPN is a service to get all the media outside your geographic location. This is also used to install a country-specific app in another country. But sometimes it can create a problem with Play Store crashing.  So, this is recommended to try disabling the VPN.
@@ -488,12 +498,16 @@ Step 3 – Now confirm your action and tap on the “Reset device”.
 
 ![tap on “Reset device”](https://images.wondershare.com/drfone/article/2017/06/14985039036497.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This will take a while to reset your device completely. After completion, start the Google Play Store and set up as a new device.
 
 The above methods are the best 11 among all the solutions you can get for your Play Store not working on wifi or Play Store crashing error. Try one by one and you might get rid of this problem.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -507,9 +521,22 @@ The above methods are the best 11 among all the solutions you can get for your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/beat-boot-issues-essential-tips-for-reviving-a-stalled-startup-process/"><u>Beat Boot Issues: Essential Tips for Reviving a Stalled Startup Process</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/boosting-your-instagram-aesthetics-implementing-borders-on-photos/"><u>Boosting Your Instagram Aesthetics Implementing Borders on Photos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-process-for-obtaining-dell-monitor-driver-updates-online/"><u>Hassle-Free Process for Obtaining Dell Monitor Driver Updates Online</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-v29-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo V29 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incorporating-apple-music-in-visual-content-for-2024/"><u>Incorporating Apple Music in Visual Content for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-instagram-verification-tips-and-techniques-inside/"><u>Mastering the Art of Instagram Verification – Tips and Techniques Inside!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-v30-lite-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo V30 Lite 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-y28-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y28 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/peering-into-pitfalls-a-deep-dive-into-vr-shortcomings/"><u>Peering Into Pitfalls A Deep Dive Into VR Shortcomings</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-lava-agni-2-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Lava Agni 2 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-14-plus-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-iphone-lengthy-exposure-secrets/"><u>The Ultimate iPhone Lengthy Exposure Secrets</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-phishing-scams-impersonating-leaders-dhl-microsoft-and-whatsapp-in-the-spotlight/"><u>Top Phishing Scams Impersonating Leaders: DHL, Microsoft, and WhatsApp in the Spotlight</u></a></li>
+</ul></div>
 

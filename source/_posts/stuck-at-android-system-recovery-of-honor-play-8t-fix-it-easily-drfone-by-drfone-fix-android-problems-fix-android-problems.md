@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor Play 8T ? Fix It Easily | Dr.fone
-date: 2024-09-11T17:51:04.322Z
-updated: 2024-09-16T18:19:15.400Z
+date: 2024-09-14T16:35:27.211Z
+updated: 2024-09-21T18:50:20.189Z
 tags: 
   - problems
 categories:
@@ -93,6 +93,13 @@ Ensure your device, and your computer stays connected the entire time, and make 
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -100,6 +107,13 @@ After downloading, the software will automatically start to repair your device b
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
@@ -194,6 +208,13 @@ Step 2: Click ‘Android Repair’ from the available options, and then press th
 
 ![android repair to flash dead phone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: On the Honor Play 8T device information screen, pick the appropriate device brand, name, model, and other details followed by tapping the ‘Next’ button.
 
 ![choose brand info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -214,31 +235,18 @@ Step 2: Press the ‘Next’ button for initiating firmware download.
 
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to flash Honor Play 8T dead phone with Odin?
 
@@ -253,13 +261,6 @@ Step 2: Now download suitable firmware for your device in the form of a zip fold
 Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file types recognized by Odin.
 
 ![firmware zip file](https://images.wondershare.com/drfone/article/2017/07/14991896515887.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![firmware md5 file](https://images.wondershare.com/drfone/article/2017/07/14991896708947.jpg)
 
@@ -452,6 +453,13 @@ If the Honor Play 8T device contains Home button:
 
 ![fix google play error 963 on android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the Honor Play 8T device contains no Home button:
 
 - Switch off your phone/tablet and press the ‘Volume Down’, ‘Bixby’ and ‘Power’ buttons for 10 seconds. Leave the buttons and then press the ‘Volume Up’ button for entering download mode.
@@ -461,13 +469,6 @@ If the Honor Play 8T device contains no Home button:
 Step 2 – Press the ‘Next’ button and then the program will commence the firmware downloading.
 
 ![firmware downloaded](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3 – Upon successful downloading and verification of the firmware, the process of Android device repairing will begin automatically.
 
@@ -492,13 +493,6 @@ Follow the steps given below to fix  Error Code 963:
 Visit “Settings” and select “Application Manager”.
 
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984136371337.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now select “All” to see all downloaded and built-in Apps on your device.
 
@@ -608,21 +602,19 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-streamline-your-iphoneipad-screenshots-with-2023-tricks/"><u>[New] Streamline Your iPhone/iPad Screenshots with 2023 Tricks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-exclusive-content-on-twitter-no-twitting/"><u>[Updated] In 2024, Exclusive Content on Twitter - No Twitting</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/countdown-configuration-guide-for-obs-enthusiasts-for-2024/"><u>Countdown Configuration Guide for OBS Enthusiasts for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-y100t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo Y100t Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-y17s-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo Y17s to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-google-pixel-fold-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Google Pixel Fold Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/kodi-unable-to-connect-couldnt-retrieve-directory-information-solved/"><u>Kodi Unable to Connect: Couldn't Retrieve Directory Information [Solved]</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-infinix-smart-7-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Infinix Smart 7 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/pro-mac-photography-discovering-the-best-5-screen-shots-ways-for-2024/"><u>Pro Mac Photography Discovering the Best 5 Screen Shots Ways for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-smart-8-hd-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Smart 8 HD Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-asus-rog-phone-7-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Asus ROG Phone 7 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-most-reliable-voice-recorders-suited-for-macos-users-for-2024/"><u>The Most Reliable Voice Recorders Suited for MacOS Users for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-of-the-best-10-free-whiteboard-animation-software-for-pc-and-mac/"><u>Updated 2024 Approved Best of the Best 10 Free Whiteboard Animation Software for PC and Mac</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-capturing-the-skies-dji-drone-content-for-facebook-live/"><u>[Updated] Capturing the Skies DJI Drone Content for Facebook Live</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-step-by-step-uploading-videos-to-tiktok-on-macwindows-for-2024/"><u>[Updated] Step-by-Step Uploading Videos to TikTok on Mac/Windows for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-secret-to-understanding-your-youtube-fans/"><u>[Updated] The Secret to Understanding Your YouTube Fans</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live-for-2024/"><u>[Updated] Unseen Watcher’s Manual How to Stay Anonymous on Instagram Live for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-cameras-for-face-viewing-easy-access/"><u>2024 Approved Best Cameras for Face Viewing Easy Access</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-windows-11-update-error-0x80070422-a-comprehensive-guide/"><u>Fixing the Windows 11 Update Error 0X80070422: A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-note-30-vip-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Note 30 VIP Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-se-2020-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone SE (2020) Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-guide-to-watching-fb-live-on-roku/"><u>In 2024, The Ultimate Guide to Watching FB Live on Roku</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-find-x7-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo Find X7? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-gt-neo-5-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme GT Neo 5? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-nord-n30-se-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Nord N30 SE Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 

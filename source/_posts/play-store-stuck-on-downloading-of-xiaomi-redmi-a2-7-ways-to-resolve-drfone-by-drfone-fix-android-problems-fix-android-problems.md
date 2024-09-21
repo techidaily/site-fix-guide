@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Xiaomi Redmi A2? 7 Ways to Resolve | Dr.fone
-date: 2024-07-14T07:00:43.106Z
-updated: 2024-07-15T07:00:43.106Z
+date: 2024-09-19T17:39:50.986Z
+updated: 2024-09-21T18:11:40.506Z
 tags: 
   - problems
 categories:
@@ -33,6 +33,13 @@ With technology, uncertainties are bound to happen. It becomes quite tricky to a
 
 All the applications, data of one’s device is generally loads directly in phone’s storage or the SD card (if plugged). Hence, it is crucial to check whether your phone storage or SD is not fully occupied. As it can indirectly be the reason why the issue of “**_Play Store download stuck at 99%_**” might occur. Ensure to get rid of any application that you are no longer using. Or, consider deleting any picture, videos or documents that aren’t required by you.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.2 Check Wi-Fi or cellular data connection
 
 Sometimes, it’s not your phone that is going all faulty, the root cause might be the internet connection. If the internet is running low or does not seem to be stable, then the **_play store download problem_** may occur. Users must ensure that the Xiaomi Redmi A2 device they are working should have a stable network connection so as to combat the problem. Then, they can try downloading the application and check if the problem is prevalent or not.
@@ -40,8 +47,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -91,9 +96,6 @@ After the package downloads, program will repair all kinds of problems surfacing
 
 ![get to repair android to fix play store download pending](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.4 Clear data and cache of Play Store and download again
 
 Did you know the piling up of cache memory can certainly pull off a great deal for Play Store getting stuck? Cache data may generally stash the data so that you can access it even in future course. But, this do east up a good chunk of space and result in the misbehavior of **_Play Store app_**. You can opt to brush away **_Play store stuck on downloading_** by using the following steps.
@@ -207,16 +209,11 @@ After this method, you can successfully get rid of the safe mode on Android. Res
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iiA3E-Oj_pk"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part 2: How to put the phone in safe mode?
 
 If some apps or programs create a problem on your device, the solution is safe mode. Safe mode allows you to uninstall the app or the program out of your device safely. So, safe mode on Android is quite useful sometimes. Let’s have a look at how to turn on safe mode in Android.
 
 Before this, remember to take a backup of your Xiaomi Redmi A2. We recommend you to use the Dr.Fone - Phone Backup (Android). This tool is the best in its class to provide users with a very easy-to-use user interface yet powerful solution.
-
-
 
 ### Dr.Fone - Phone Backup (Android)\_
 
@@ -267,6 +264,13 @@ In this guide, discover reliable solutions when your **Google Play Store is not 
 
 ![woman annoyed on phone not working](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part I. 7 Common Google Play Store Issues Users Encounter
 
 The Google Play Store serves as the epicenter for Android users. It facilitates seamless access to a vast array of apps. However, encountering issues with the platform can impact the functionality of your device. Below are 7 common issues on why your **Google Play Store is not responding**.
@@ -313,11 +317,25 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 - **Google account problems**. Authentication issues, incorrect credentials, or other problems with the linked Google account can disrupt the Play Store's functionality. This can also lead to repeated crashes.
 - **System glitches and bugs.**Inherent glitches and bugs within the Android operating system may affect the Play Store's performance. They can cause your device to stop unexpectedly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part III.7 Quick Solutions To Resolve Play Store Not Working Issues
 
 Encountering issues with the Google Play Store can be frustrating. It disrupts your ability to download, update, or access essential apps. Here are seven quick solutions when your **Google Play Store unfortunately has stopped.**
 
 ![fixing mobile phone issues vector image](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear Cache and Data
 
@@ -335,9 +353,6 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 - **Step 1:** Open the Play Store app and tap the three horizontal lines in the top-left corner to access the menu.
 - **Step 2:** Select **Settings** and scroll down to find the **Play Store version**. Install any available updates.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
 
 ### Check Internet Connection
@@ -369,10 +384,14 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 - **Step 1:** Access **Settings** and go to **Apps** or **Application** **Manager**.
 - **Step 2:** Find **Google Play Store** and tap on **Uninstall Updates**. Confirm the action and restart the Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Perform a System Update
 
@@ -397,9 +416,6 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 - **Step 2:** Launch the program and connect your Xiaomi Redmi A2 to the computer using a USB cable. Choose the Xiaomi Redmi A2 device type and click **Start** to initiate the repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone android problems window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
@@ -433,9 +449,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -448,9 +461,21 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unlocking-whatsapps-secret-capabilities-for-efficiency/"><u>[New] 2024 Approved Unlocking WhatsApp's Secret Capabilities for Efficiency</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quintessential-5-photo-background-changer-apps-iphone-xplus/"><u>[New] Quintessential 5 Photo Background Changer Apps (iPhone X+)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-pioneering-techniques-to-enhance-fb-video-ads/"><u>[Updated] 2024 Approved Pioneering Techniques to Enhance Fb Video Ads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-eye-candy-roundup-the-best-and-worst-of-8k-tv-tech/"><u>[Updated] In 2024, Eye Candy Roundup The Best and Worst of 8K TV Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-hidden-mastering-the-mask-of-background-blur/"><u>2024 Approved Unveiling the Hidden Mastering the Mask of Background Blur</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/exclusive-guide-ranking-most-effective-ig-money-makers-for-2024/"><u>Exclusive Guide Ranking Most Effective IG Money Makers for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuito-conversao-de-audio-e-video-transformando-ogg-em-aac-na-web-com-a-ferramenta-on-line-da-movavi/"><u>Gratuito Conversão De Áudio E Vídeo: Transformando OGG Em AAC Na Web Com a Ferramenta On-Line Da Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-smart-7-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Smart 7 Easily?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor Magic 6? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Infinix Note 30 Pro ? Fix It Easily | Dr.fone
-date: 2024-09-15T18:39:35.305Z
-updated: 2024-09-16T17:56:47.609Z
+date: 2024-09-19T17:32:43.082Z
+updated: 2024-09-21T18:32:03.438Z
 tags: 
   - problems
 categories:
@@ -159,6 +159,13 @@ When Chrome or any other app keeps running on the background, issues like “Unf
 
 ![fix Chrome crashing on Android by force quiting](https://images.wondershare.com/drfone/article/2019/05/force-quit-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. The app will be force quit now. You can then start it again to check if thing get back to normal.
 
 ## Part 3: Chrome cache overflowing
@@ -180,13 +187,6 @@ Most probably Chrome is not able to support the website you are trying to access
 ## Part 5: Android firmware corruption
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -266,13 +266,6 @@ The first thing you can do to fix Gmail not responding issue is to clear the cac
 
     ![gmail not working android - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Now, from the apps list, search “Gmail” and tap on it.
 
     ![gmail not working android - search gmail](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-2.jpg)
@@ -292,6 +285,19 @@ The next option that you can try is resetting your device. This will lead to dat
 1. Hit on “Settings” and search for “Backup & Reset” option.
 
     ![gmail not working android - go to backup and reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2. Tap on “Reset” or “Erase all data” (the option name again may vary).
 
@@ -332,13 +338,6 @@ In case you are using the Gmail over your web browser and it has tested your pat
 
 First of all, you need to make sure that the browser you are using works with Gmail or not. Gmail can smoothly perform in Google Chrome, Firefox, Safari, Internet Explorer and Microsoft Edge. However, the browsers should be updated. So, please make sure that these browsers are running on the latest versions. Moreover, in case you use Chromebook, don’t forget to update the operating system in order to let it support Gmail.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Clear Cache of web browser
 
 If you tried the above method but to no avail, try to clear the cache and cookies of the web browser. But by doing so, the browser history will be removed. As well as, the records of the websites you previously enjoyed will also be lost.
@@ -357,6 +356,13 @@ This issue is likely to emerge when you are using an outdated version of Gmail. 
 
 ![Gmail crashing on Android - check version](https://images.wondershare.com/drfone/article/2019/04/check-update-gmail.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Verify Internet Connection
 
 Another thing that carries weight while you can send or receive mails is the internet connection. As we all know that Gmail won’t respond if the Infinix Note 30 Pro device is not connected to the internet. Therefore, you are advised to turn off Wi-Fi and then enable it again. Also, please ensure to switch to Wi-Fi if you are using the cellular data. This may hamper the process and stop you from receiving or sending mails.
@@ -373,16 +379,16 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 
 ![Gmail crashing on Android - remove account](https://images.wondershare.com/drfone/article/2019/04/remove-account-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Problem 5: Stuck in sending
 
 Now, here is another annoying problem that doesn’t let Gmail working on Android properly. This problem addresses the situation where users send a mail but it gets stuck on sending. If this is the problem that you are going through, the following solutions will help you.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Try Alternative Gmail Address
 
@@ -423,19 +429,6 @@ As another solution, check Gmail sync settings to get the issue fixed.
 
 ![Gmail not responding - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Restart the Infinix Note 30 Pro device
 
 If the above method went futile, simply restart your device. Take help of the Power button on your device. Long press it and from the options, restart it. This will hopefully work for you.
@@ -443,6 +436,13 @@ If the above method went futile, simply restart your device. Take help of the Po
 ## Problem 7: Gmail app running slow
 
 The last problem that you may face is the slow-going Gmail app. In simple words, you may experience that Gmail app is operating extremely slowly. To fix this, following solutions will help you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Restart the Phone
 
@@ -484,19 +484,17 @@ Fix all Gmail issues caused by Android system:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-evaluating-the-leading-video-calling-platforms-for-tech-enthusiasts/"><u>[New] In 2024, Evaluating the Leading Video Calling Platforms for Tech Enthusiasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-video-editing-on-a-budget-with-free-fcp/"><u>[Updated] Mastering Video Editing on a Budget with Free FCP</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016225408-expert-advice-why-isnt-my-razor-kraken-mic-working-and-how-to-solve-it/"><u>Expert Advice: Why Isn't My Razor Kraken Mic Working and How to Solve It</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y100A? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-10c-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark 10C Without Password | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-authenticating-your-youtube-username-and-email/"><u>In 2024, Authenticating Your YouTube Username & Email</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-10c-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark 10C</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-12-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme 12 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-note-30-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-outstanding-non-zoom-video-conferencing-tech/"><u>[New] 2024 Approved Outstanding Non-Zoom Video Conferencing Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-recording-to-viewing-a-complete-guide-for-sharing-ultra-hd-on-youtube/"><u>[New] In 2024, From Recording to Viewing A Complete Guide for Sharing Ultra HD on Youtube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-pro-mobile-techniques-for-snapchat-recording-for-2024/"><u>[Updated] Pro Mobile Techniques for Snapchat Recording for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-mix-sweeping-sound-sections/"><u>Masterful Mix Sweeping Sound Sections</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavis-web-tool-for-easy-no-cost-file-conversion-from-wma-and-em4r-to-mp3-and-more/"><u>Movavi's Web Tool for Easy, No-Cost File Conversion: From WMA and EM4R to MP3 & More</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-s18e-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo S18e – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c55-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C55 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-90-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor 90 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-your-iphone-internet-discover-these-8-wi-fi-enhancing-hacks/"><u>Speed Up Your iPhone Internet: Discover These 8 Wi-Fi Enhancing Hacks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-a14-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy A14 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

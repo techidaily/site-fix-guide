@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Xiaomi Redmi Note 12R? 7 Ways to Resolve | Dr.fone
-date: 2024-07-14T07:00:53.589Z
-updated: 2024-07-15T07:00:53.589Z
+date: 2024-09-18T16:42:51.422Z
+updated: 2024-09-21T18:33:55.821Z
 tags: 
   - problems
 categories:
@@ -41,8 +41,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Play Store stuck on downloading
@@ -69,10 +67,14 @@ First of all, load the program on PC. In the interim, draw connection of device 
 
 Over the following screen, select “Android Repair” placed at the left panel to resolve play store stuck issue and press “Start” button too!
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![play store stuck on downloading - go to android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3: Fill in the information**
 
@@ -141,11 +143,16 @@ There are several reasons why this error can occur repeatedly and it is worth no
 - 4\. Restoring apps via a Titanium backup is also a major cause
 - 5\. Failure of certain apps such as the download manager and the media storage
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. Back up your Android Data First
 
 It is always a good idea to back up your data especially before embarking on any attempt to fix any problem with your device. This way you will always have your data with you just in case something goes wrong and you lose all your data. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) will help you easily back up your Xiaomi Redmi Note 12R. The application will allow you to back up your device with a few clicks and you can restore what you want from your backup .
-
-
 
 ### Wondershare Dr.Fone
 
@@ -180,13 +187,17 @@ When your device is displayed on the window of the program, click "Back Up Now "
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3. How to Fix "Android. Process. Media" Error
 
 With a full backup of your Xiaomi Redmi Note 12R, you can now embark on a mission to fix the error. There are several methods to clear this error. We have outlined three of the most effective solutions here.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Ensure app and system updates
 
 Updates often include patches for known issues and vulnerabilities. Ensuring that both apps and the system are up to date can resolve many potential problems.
@@ -195,9 +206,6 @@ Step 1: Visit the Google Play Store to check for available app updates.
 
 Step 2: In "Settings," go to "System" > "Software Update" to check for system updates.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Reset app preferences
 
 App preference settings might sometimes lead to conflicts or anomalies. Resetting these settings can revert apps to their default state, resolving potential issues.
@@ -242,8 +250,6 @@ This Should clear the error message for good.
 
 ### Method 6: Fix the error by using a dedicated repair tool
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Fix Android process media has stopped issue in one click
@@ -259,9 +265,6 @@ Fix Android process media has stopped issue in one click
 
 After launching Dr.Fone, click on "System Repair" from the main window.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android.process.media stopping by drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Then connect your Xiaomi Redmi Note 12R with the correct cable and choose "Android" > click "Start".
@@ -274,18 +277,6 @@ In the Xiaomi Redmi Note 12R device information interface, remember to select th
 
 To confirm the Android repair may erase all data on your device, you need to type in "000000" to proceed.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android.process.media stopping by entering code](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step 2. Repair your Xiaomi Redmi Note 12R in Download mode.**
@@ -316,10 +307,22 @@ It is our hope that when faced with this fairly common error, you will not panic
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Your Xiaomi Redmi Note 12R Screen Might be Unresponsive and How to Fix It
 
 This article aims to provide practical solutions for troubleshooting an **unresponsive Xiaomi Redmi Note 12R screen**. Whether you're facing a software glitch or hardware damage, this guide will offer useful tips and tricks to help you resolve the issue and get your device back up and running smoothly.
-
 
 ## 5 Solutions to Solve Xiaomi Redmi Note 12R Screen Unresponsive Issues
 
@@ -346,6 +349,13 @@ If force restarting doesn't work, let the battery drain completely. This can hel
 **Step 1. Leave** your Xiaomi Redmi Note 12R device on until the battery completely drains and the Xiaomi Redmi Note 12R device shuts down.
 
 **Step 2. Connect** your device to a power source and **turn it** back on.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Check for Software Updates
 
@@ -421,9 +431,6 @@ Xiaomi Redmi Note 12R Screen unresponsiveness can be a frustrating issue to deal
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -436,9 +443,16 @@ Xiaomi Redmi Note 12R Screen unresponsiveness can be a frustrating issue to deal
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-2760-printer-drivers-for-windows-11-10-and-8/"><u>Download the Latest Epson WF-2760 Printer Drivers for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/einsteigender-lernstoff-deutsche-zahlen-von-1-100-erklaren/"><u>Einsteigender Lernstoff: Deutsche Zahlen Von 1-100 Erklären</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-airdate-for-podcasts-timing-matters-most/"><u>In 2024, Optimal Airdate for Podcasts Timing Matters Most</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-hidden-details-in-asmr-recordings/"><u>In 2024, Unveiling Hidden Details in ASMR Recordings</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-a14-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy A14 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-video-blur-apps-for-iphone-and-android/"><u>New Best Video Blur Apps for iPhone and Android</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-zte-nubia-flip-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix ZTE Nubia Flip 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y36 | Dr.fone</u></a></li>
+</ul></div>
 

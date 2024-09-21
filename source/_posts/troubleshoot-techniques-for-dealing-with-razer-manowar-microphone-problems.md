@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Techniques for Dealing with Razer ManO'War Microphone Problems
-date: 2024-09-12T17:02:08.523Z
-updated: 2024-09-16T17:44:32.285Z
+date: 2024-09-17T17:51:20.733Z
+updated: 2024-09-21T17:04:33.757Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Set your Onikuma mic as the default device
 
  If there are multiple microphone inputs on your computer, the Onikuma headset mic might not be used properly until you set it as the default device. Here’s how:
@@ -72,27 +79,27 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
@@ -123,19 +130,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -165,21 +159,15 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-premier-20-unrestricted-pubg-montage-samples/"><u>[Updated] In 2024, Premier 20 Unrestricted PUBG Montage Samples</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-live-streaming-duel-pitting-obs-against-shadowgl-for-2024/"><u>[Updated] Live Streaming Duel Pitting OBS Against ShadowGL for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-obs-recording-software-unveiled-in-our-latest-study/"><u>2024 Approved Top OBS Recording Software Unveiled in Our Latest Study</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-crashes-in-ark-survival-ascended-on-windows-pcs/"><u>Effective Solutions for Continuous Crashes in ARK: Survival Ascended on Windows PCs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-of-wearable-tech-googles-new-smartwatch-discover-rumored-specs-pricing-and-expected-arrival-dates/"><u>Future of Wearable Tech: Google's New Smartwatch - Discover Rumored Specs, Pricing and Expected Arrival Dates</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a38-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A38 Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-6-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 6 Plus? Heres the Best Fixes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-asus-rog-phone-8-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Asus ROG Phone 8 Pro Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-note-30-vip-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Note 30 VIP Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-70-lite-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor 70 Lite 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-game-changing-influence-of-artificial-intelligence-on-todays-world/"><u>The Game-Changing Influence of Artificial Intelligence on Today's World</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-methods-capturing-screenshots-and-recording-your-screen-on-windows-pc/"><u>Top 5 Methods: Capturing Screenshots & Recording Your Screen on Windows PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enhanced-privacy-policy-insights/"><u>Enhanced Privacy Policy Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nubia-red-magic-9-proplus-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nubia Red Magic 9 Pro+ Phone that is Locked?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-maximizing-online-presence-through-youtube-ad-and-image-marketing/"><u>In 2024, Maximizing Online Presence Through YouTube Ad & Image Marketing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-top-tier-phone-apps-evolving-how-you-communicate/"><u>In 2024, The Top-Tier Phone Apps Evolving How You Communicate</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/managing-tension-through-chatgpt-strategies-for-relief-and-resilience/"><u>Managing Tension Through ChatGPT: Strategies for Relief and Resilience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-x7-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X7 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-sony-xperia-10-v-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Sony Xperia 10 V Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streaming-iphone-7-display-like-a-pro/"><u>Streaming iPhone 7 Display Like a Pro</u></a></li>
 </ul></div>
 

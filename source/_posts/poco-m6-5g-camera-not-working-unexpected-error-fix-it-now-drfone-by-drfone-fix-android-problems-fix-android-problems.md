@@ -1,7 +1,7 @@
 ---
 title: Poco M6 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-07-14T07:01:33.618Z
-updated: 2024-07-15T07:01:33.618Z
+date: 2024-09-20T18:48:27.411Z
+updated: 2024-09-21T18:18:16.460Z
 tags: 
   - problems
 categories:
@@ -120,6 +120,19 @@ If this is the case, close all apps and let the phone cool down. You might even 
 
 You may want to tap your camera system (the lenses and surrounding area) gently to see if that gets the camera working. In case it did, this is indicative of a hardware issue, and you should get it checked at the service center at your earliest convenience.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### II.IX: Fix Android Camera Not Working Issue In One Click (With Dr.Fone)
 
 Now, if the above fixes have not worked, you might want to repair your Android OS once before you make that appointment with the service centre. And, we have just the app to help you fix your camera not working on Android problem quickly.
@@ -131,6 +144,13 @@ Today, we will use Dr.Fone’s System Repair (Android) module to fix Android cam
 Download Dr.Fone here.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
@@ -162,21 +182,13 @@ Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000)
 
 When the repair is complete, Dr.Fone shows the final screen as below:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
-
-
 
 ## Reasons for Poco M6 5G Stuck on Startup Screen and Ways To Fix Them
 
@@ -232,9 +244,6 @@ Here is a step-by-step process for putting your Poco M6 5G or Redmi smartphone i
 
 ****Step 2****:Hold the Volume Up and the Power buttons at the same time, then release the keys when the Main menu of Recovery mode appears on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![xiaomi recovery mode operation](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-04.jpg)
 
 ****Step 3****: You can use the volumes buttons to navigate up and down and press the Power key to confirm the selection.
@@ -253,16 +262,10 @@ Here is an example of putting your Samsang smartphone into the Factory Reset DFU
 
 ****Step 3****: Swipe to and tap **Reset**.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Poco M6 5G reset button](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-06.jpg)
 
 **Note:** Before carrying out a factory reset, you need to input the password of your Poco M6 5G Account.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip: Best App To Solve Phone Stuck on Boot Screen
 
 If all the solutions above do not work and you do not want to perform a factory reset on your phone, one option is to use an application called [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is one of the most effective phone recovery solutions and can help to bring your phone back to a state like it was brand new. Being ****stuck on the startup screen**** page will be a problem of the past.
@@ -347,8 +350,6 @@ You have already understood ‘why won't your app open?’ at the start of this 
 
 Well, in such a case [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can prove to be your savior. It resolves failed Android system update issues, crashing apps, and black screen of death. It can also get an unresponsive or bricked Android device or boot loop stuck device fixed with one click.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Why won't my app open? The quick fix is here!
@@ -413,6 +414,13 @@ Follow the steps given below to update the app which won't open on your phone:
 
 ![Visit Google Play Store](https://images.wondershare.com/drfone/article/2017/06/14984583996008.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 • Now select “My Apps & Games” from the main menu.
 
 ![select “My Apps & Games](https://images.wondershare.com/drfone/article/2017/06/14984183627979.jpg)
@@ -453,6 +461,13 @@ Carefully follow the step-by-step instructions given below to clear all App cach
 
 ![Clear data](https://images.wondershare.com/drfone/article/2017/06/14984585184488.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: 3 Common fix if all Apps won’t open on Android
 
 In this segment, we will discuss solutions to the problem if all your Apps won't open. They are simple and easy to follow and solve the error in no time.
@@ -470,6 +485,13 @@ To update your software:
 • From the options available on the screen, tap on “System Updates"
 
 ![tap on “System Updates](https://images.wondershare.com/drfone/article/2017/06/14984184697337.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 • In this step, if you are prompted for an update, follow the instruction given and do so.
 
@@ -507,7 +529,6 @@ Your phone will now reboot and will be required to set up from scratch.
 
 So go ahead and try them out now!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -520,9 +541,19 @@ So go ahead and try them out now!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-batch-background-erasure-in-affinity-photo/"><u>[New] Mastering Batch Background Erasure in Affinity Photo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-hidden-windows-10-advanced-options/"><u>[RECOVERED]: Hidden Windows 10 Advanced Options</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-crafting-the-perfect-mc-homestead-layout/"><u>[Updated] 2024 Approved Crafting the Perfect MC Homestead Layout</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-hd-action-recorders-under-100/"><u>[Updated] Best HD Action Recorders Under $100</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hassle-free-photo-and-video-upload-ios-device-for-2024/"><u>Hassle-Free Photo & Video Upload IOS Device for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-s23-tactical-edition-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy S23 Tactical Edition Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-100-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor 100 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-8t-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 8T 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-overcoming-non-responsive-file-explorer-problems-on-windows-11-systems/"><u>Solved: Overcoming Non-Responsive File Explorer Problems on Windows 11 Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-complete-iphone-7-screen-capture-manual-for-2024/"><u>The Complete iPhone 7 Screen Capture Manual for 2024</u></a></li>
+</ul></div>
 

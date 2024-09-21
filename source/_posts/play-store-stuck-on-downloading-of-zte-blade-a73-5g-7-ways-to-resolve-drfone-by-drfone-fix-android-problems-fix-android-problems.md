@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of ZTE Blade A73 5G? 7 Ways to Resolve | Dr.fone
-date: 2024-07-14T07:00:58.171Z
-updated: 2024-07-15T07:00:58.171Z
+date: 2024-09-20T17:48:20.344Z
+updated: 2024-09-21T17:40:13.534Z
 tags: 
   - problems
 categories:
@@ -40,8 +40,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -91,6 +89,13 @@ After the package downloads, program will repair all kinds of problems surfacing
 
 ![get to repair android to fix play store download pending](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.4 Clear data and cache of Play Store and download again
 
 Did you know the piling up of cache memory can certainly pull off a great deal for Play Store getting stuck? Cache data may generally stash the data so that you can access it even in future course. But, this do east up a good chunk of space and result in the misbehavior of **_Play Store app_**. You can opt to brush away **_Play store stuck on downloading_** by using the following steps.
@@ -101,9 +106,6 @@ Did you know the piling up of cache memory can certainly pull off a great deal f
 4. Optionally, make use of “Force Stop” feature to halt the functioning of the app.
 5. At last, reboot/restart your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear data to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/clear-cache-data.jpeg)
 
 ### 3.5 Update Play Store to the latest version
@@ -125,6 +127,13 @@ If you’re unable to see a streak of hope and wondering why my **_Play Store is
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix Unfortunately Settings Has Stopped on ZTE Blade A73 5G Quickly
 
 All of you, sooner or later, must have found the “Unfortunately Settings has stopped” error on your ZTE Blade A73 5G. The problem can occur if the Settings keeps stopping or crashing. Many times, you may try to open the Settings but it doesn’t even open. Or possibly, it may freeze after getting opened thereby hampering the ZTE Blade A73 5G device's performance.
@@ -141,9 +150,6 @@ Well! There can be a number of reasons why this thing happens. For instance, cus
 - [Part 6: Factory reset your Android](https://drfone.wondershare.com/android-stopped/unfortunately-settings-has-stopped.html#Part6)
 - [Part 7: Check and update Android OS](https://drfone.wondershare.com/android-stopped/unfortunately-settings-has-stopped.html#Part7)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Clear the cache of Settings and Google Play Service
 
 It is possible that the corrupted cache files are responsible for this error. Hence, as the first tip, we would like you to clear the Settings cache if that is what triggers the “Unfortunately Settings has stopped” issue. Clearing it would definitely make Settings run appropriately. And The steps to clear the cache of the Google Play Services app are similar. Here is how to clear the cache of Settings:
@@ -152,9 +158,6 @@ It is possible that the corrupted cache files are responsible for this error. He
 2. In the list of applications, look for “Settings” and open it.
 3. Now, select “Storage” followed by “Clear Cache”.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![settings crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-settings.jpg)
 
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
@@ -182,8 +185,6 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your ZTE Blade A73 5G, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all ZTE Blade A73 5G devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -230,6 +231,13 @@ Once the firmware is completely downloaded, your ZTE Blade A73 5G will automatic
 ![Android settings not responding - fix the issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: Wipe cache partition to restore Settings
 
@@ -349,9 +357,6 @@ Dr.Fone is designed to tackle various repairing problems that occur in Android d
 2. It fixes all Android-related problems, including the [Black screen of death](https://drfone.wondershare.com/iphone-problems/fix-iphone-15-black-screen-of-death.html), the Play Store not working, and more.
 3. This tool is compatible with all the mainstream ZTE Blade A73 5G models, including the latest ones.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps Required To Resolve System Glitches via Wondershare Dr.Fone – System Repair
 
 Now, we’ll provide you with a guide to resolve the Not Turning On issue of your ZTE Blade A73 5G. Go through the steps mentioned below to use Dr.Fone for the repair process.
@@ -362,9 +367,6 @@ Starting with, you will have to activate Dr.Fone on your computer and head to th
 
 ![launch dr fone android repair](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,082,195** people have downloaded it
@@ -439,11 +441,25 @@ There are scenarios where a phone, like the ZTE Blade A73 5G 3, hangs or gets st
 
 ![reboot google pixel to safe mode](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reason 2. Problematic App
 
 **Solution:** While in Safe Mode, observe if the ZTE Blade A73 5G device boots up properly. If it successfully boots, it suggests that a third-party application is causing the problem. To pinpoint the problematic app, uninstall recently added apps individually and restart the ZTE Blade A73 5G device after each removal. This process helps pinpoint the problematic app causing the hang during startup.
 
 ![uninstall app in google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reason 3. Stacked Up App Cache and Data
 
@@ -467,9 +483,6 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 
 **3,673,294** people have downloaded it
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -482,9 +495,19 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhancing-youtube-content-with-free-music-sources/"><u>[New] 2024 Approved Enhancing YouTube Content with Free Music Sources</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unveiling-valheims-soil-secrets-premium-seed-guide-for-2024/"><u>[New] Unveiling Valheim's Soil Secrets Premium Seed Guide for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-from-rookie-to-pro-unveiling-the-secrets-of-ginger-isle/"><u>[Updated] 2024 Approved From Rookie to Pro Unveiling the Secrets of Ginger Isle</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-metaverse-multiverse-dichotomy-explained/"><u>2024 Approved The Metaverse-Multiverse Dichotomy Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2n80dw-complete-driver-installation-guide-for-windows-users/"><u>Brother HL-L2n80DW: Complete Driver Installation Guide for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-the-excitement-from-home-tips-for-watching-the-2024-summer-olympics-through-livestreams/"><u>Experience the Excitement From Home: Tips for Watching the 2024 Summer Olympics Through Livestreams</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-itel-s23plus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Itel S23+ in Minutes | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c51-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C51 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a23-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A23 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy F04 | Dr.fone</u></a></li>
+</ul></div>
 

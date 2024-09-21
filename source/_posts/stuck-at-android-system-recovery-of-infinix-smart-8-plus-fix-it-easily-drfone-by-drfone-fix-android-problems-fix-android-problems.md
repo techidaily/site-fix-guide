@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Infinix Smart 8 Plus ? Fix It Easily | Dr.fone
-date: 2024-09-13T17:16:10.104Z
-updated: 2024-09-16T18:14:40.092Z
+date: 2024-09-17T16:06:57.464Z
+updated: 2024-09-21T17:19:20.683Z
 tags: 
   - problems
 categories:
@@ -52,13 +52,6 @@ Step 5: Finally, press and hold both the Power and the Volume up Key for around 
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dr.Fone - System Repair (Android)
 
 One-stop solution to fix Android stuck at System recovery
@@ -108,6 +101,13 @@ You'll be notified when the operation is complete and when you're able to discon
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
 If, however, your device is stuck on system recovery mode, here's how you can easily get it out of system recovery. The process is slightly different for different Android devices, so you should check your device's manual before attempting this process.
@@ -123,6 +123,13 @@ Step 4: Press the Volume down key to select the "Wipe Data/ Factory Reset option
 Step 5: Next, you need to press the Volume down button to highlight "Delete All User Data" and then press the Power button to select it. The device will reset and present the "Reboot System Now" option.
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5. Backup and Restore Android System
 
@@ -266,13 +273,6 @@ How to re-install Google Chrome:
 
 ![Re-install Google Chrome on Google Play Store](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 3: Repair the system to fix the phone showing offline
 
 When persistent offline issues seem deeply rooted in your device's system, a comprehensive system repair may be the solution. Wondershare Dr. Fone's system repair tool is designed to address a range of system problems, providing a reliable way to fix any problem you have with your phone.
@@ -292,6 +292,19 @@ How to use Dr. Fone's system repair tool:
 Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox section and connect your Infinix Smart 8 Plus. Choose System Repair and pick Android as your device type.
 
 ![Open Dr.Fone System Repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -334,13 +347,6 @@ Android is undoubtedly amongst the best smartphone platforms but comes with its 
 Such an Android screen of death is caused by a temporary software crash but can also occur due to certain hardware issues. We understand the inconvenience caused to you when you see the **Android blue screen of death**. Here are ways to fix the error and great software to extract all your data to keep it unaltered and safe.
 
 Read on to learn more about the Android screen of death and ways to combat it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How to rescue data on Infinix Smart 8 Plus with blue screen of death?
 
@@ -439,13 +445,6 @@ Step 1: Get the Infinix Smart 8 Plus device in ‘Download’ mode to fix the **
 
 ![fix android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Tap the ‘Next’ button to download firmware.
 
 ![download firmware to fix android without home key](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -499,10 +498,10 @@ Software problems can manifest the Android equivalent of a blue screen of death.
 ![update the android os](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 8: How to fix the Android blue screen of death by factory reset?
@@ -522,6 +521,13 @@ Use the Volume Down button to scroll downwards and reach the "Wipe data/Factory 
 Now use the power button to select it and wait for the Infinix Smart 8 Plus device to reboot automatically.
 
 You will notice that the Android device will turn back on without getting stuck at the **Android blue screen of death**. Now you can set up your device from scratch.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 9: What Should You Do if Android Still Stuck on Blue Screen?
 
@@ -545,17 +551,14 @@ The Android screen of death, especially the **Android blue screen of death**, is
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-essential-free-windows-screen-recording-software-1-5-for-2024/"><u>[Updated] Essential Free Windows Screen Recording Software #1-5 for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/analyzing-idle-designation-on-discord-fact-or-fiction/"><u>Analyzing 'Idle' Designation on Discord: Fact or Fiction?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/full-scoop-deciphering-the-google-podcast-app/"><u>Full Scoop Deciphering the Google Podcast App</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-edgeplus-2023-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Edge+ (2023) Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oneplus-ace-2-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of OnePlus Ace 2 Pro Phone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-unleashing-creativity-secrets-of-unique-yt-short-content/"><u>In 2024, Unleashing Creativity Secrets of Unique YT Short Content</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-c12-plus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia C12 Plus – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-xcover-7-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy XCover 7 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-selection-8-must-have-laptop-backgrounds-for-2024/"><u>Ultimate Selection 8 Must-Have Laptop Backgrounds for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-unboxing-and-first-thoughts-on-samsung-galaxy-buds-plus-headphones/"><u>Experience Unboxing & First Thoughts on Samsung Galaxy Buds Plus Headphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-guide-merging-srt-captions-with-mp4-video-content-for-2024/"><u>Expert Guide Merging SRT Captions with MP4 Video Content for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-tecno-camon-20-pro-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Camon 20 Pro 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-edge-40-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Edge 40 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-gaming-silence-broken-fix-the-soundless-mystery-in-borderlands-3/"><u>PC Gaming Silence Broken: Fix the Soundless Mystery in Borderlands 3</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quickdvd-master-elite-edition-lightning-speed-hd-content-conversion-for-securely-ripping-encrypted-discs-on-windows-11/"><u>QuickDVD Master Elite Edition: Lightning Speed HD Content Conversion for Securely Ripping Encrypted Discs on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y78plus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y78+ Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-x8b-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor X8b? | Dr.fone</u></a></li>
 </ul></div>
 

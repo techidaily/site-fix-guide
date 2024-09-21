@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Google Pixel 8 Pro ? Fix It Easily | Dr.fone
-date: 2024-09-10T17:42:14.923Z
-updated: 2024-09-16T17:54:49.593Z
+date: 2024-09-14T16:22:57.666Z
+updated: 2024-09-21T17:27:49.340Z
 tags: 
   - problems
 categories:
@@ -101,6 +101,13 @@ You'll be notified when the operation is complete and when you're able to discon
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
 If, however, your device is stuck on system recovery mode, here's how you can easily get it out of system recovery. The process is slightly different for different Android devices, so you should check your device's manual before attempting this process.
@@ -116,6 +123,13 @@ Step 4: Press the Volume down key to select the "Wipe Data/ Factory Reset option
 Step 5: Next, you need to press the Volume down button to highlight "Delete All User Data" and then press the Power button to select it. The device will reset and present the "Reboot System Now" option.
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5. Backup and Restore Android System
 
@@ -158,6 +172,13 @@ Unlike before, Android phones today are equipped with several cores. Each of the
 ### The CPU Clock Speed
 
 Simply put, clock speed is basically the speed at which the CPU cores can carry out a cycle in a second. A faster clock speed definitely translates into the Google Pixel 8 Pro device’s higher performance. For instance, an octa-core Android phone with a one GHz per second clock speed is a decent device. But it’s less powerful than a device with the same number of cores but runs at two GHz per second.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Random Access Memory
 
@@ -257,13 +278,6 @@ It’s always recommended to update your phone to the latest Android version. As
 
 ![update android version](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-5.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 5: Reset Your Google Pixel 8 Pro to Factory Settings
 
 One way to restore the original performance of your Google Pixel 8 Pro is to revert it back to factory settings. It deletes all the phone’s data and adjusts the settings to default. Most of the time, this procedure works magic. It fixes numerous issues, including the Android phone that’s slow and constantly freezing. But ensure your phone has already been backed up before commencing this step. You may use [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to help you back up and secure your files.
@@ -289,19 +303,6 @@ _Here’s how to reset your Google Pixel 8 Pro to factory settings:_
 - **Step 6:** Your Android device will ask you to confirm the procedure. From there, click **Erase Everything.**
 
 ![reset to factory settings](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-6.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 6: Fix the System Issue Using Wondershare Dr.Fone
 
@@ -406,13 +407,6 @@ Step 1: It’s essential that you put the Android device under ‘Download’ mo
 
 ![fix Android phone won’t charge for a phone with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - If the ‘Home’ button is not there, you got to turn down the Google Pixel 8 Pro device and altogether hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ keys between 5-10 seconds. Soon after you release the keys, tap the ‘Volume Up’ button for entering the ‘Download’ mode.
 
 ![fix Android phone won’t charge for a phone without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
@@ -420,13 +414,6 @@ Step 1: It’s essential that you put the Android device under ‘Download’ mo
 Step 2: Click ‘Next’ to start downloading the Android firmware.
 
 ![download android firmware to fix](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Now, Dr.Fone - System Repair (Android) would verify the firmware and then start repairing the Android system on its own. It will ultimately fix your ‘why won't My Google Pixel 8 Pro charge’ trouble.
 
@@ -476,6 +463,13 @@ Follow the steps given below to clear your device’s cache:
 
 ![cached data](https://images.wondershare.com/drfone/article/2017/06/14985010715377.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 • Click “OK” to clear all unwanted cache from your device as shown above.
 
 Try charging your phone after clearing the cache. If your phone doesn't charge even now, do not worry. There are more ways to help you combat My Google Pixel 8 Pro won't charge problem.
@@ -491,13 +485,6 @@ Restarting a device is simple and can be done by following the steps given below
 • From the options that appear, click on “Restart”/ “Reboot” as shown in the image below.
 
 ![restart device](https://images.wondershare.com/drfone/article/2017/06/14985010975405.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To restart your device, you may also press the power button for about 20-25 seconds for the phone/tablet to automatically reboot.
 
@@ -533,6 +520,13 @@ Follow the steps given below to factory reset your device:
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/06/14985012572851.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 • In this step, select “Factory data reset” and then “Reset Device”.
 
 • Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
@@ -563,19 +557,17 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-the-future-of-playtime-analysis-beyond-fbx-solutions/"><u>[New] The Future of Playtime Analysis Beyond FBX Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-360-degree-video-9-must-have-tips-for-filmmakers/"><u>2024 Approved The Art of 360-Degree Video 9 Must-Have Tips for Filmmakers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-itel-p55t-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Itel P55T Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-edge-40-neo-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Edge 40 Neo to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-14-ultra-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi 14 Ultra for Free? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-note-30-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-better-to-choose-an-ipad-pro-129-m4-or-a-macbook-air-with-m3-chip-compare-here/"><u>Is It Better to Choose an iPad Pro 12.9 M4 or a MacBook Air with M3 Chip – Compare Here!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-poco-m6-pro-4g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Poco M6 Pro 4G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/physical-activity-groups/"><u>Physical Activity Groups:</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/mline-profitability-on-yt-post-monetization-financial-steps-for-2024/"><u>Streamline Profitability on YT – Post-Monetization Financial Steps for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winxvideo-ai/"><u>WinxVideo AI: 화면, 웹캠 및 오디오를 자연스럽게 기름소를 태우고 다시 정교하게 만들어요</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-sync-your-world-with-these-free-beat-detectors/"><u>[New] Sync Your World with These Free Beat Detectors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-are-reviews-on-merchandise-streamed-for-cash/"><u>[Updated] 2024 Approved Are Reviews on Merchandise Streamed for Cash?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-dji-phantom-3-professional-review/"><u>[Updated] DJI Phantom 3 Professional Review</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-ensuring-your-content-is-safe-for-tiktok-uploading/"><u>[Updated] In 2024, Ensuring Your Content Is Safe for TikTok Uploading</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/freshest-version-of-dells-wi-fi-driver-for-seamless-connectivity-in-windows-7-systems/"><u>Freshest Version of Dell's Wi-Fi Driver for Seamless Connectivity in Windows 7 Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-infinix-smart-7-hd-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Infinix Smart 7 HD Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-google-pixel-fold-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Google Pixel Fold for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a24-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A24 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24-ultra-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24 Ultra Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/successful-guide-installing-mouse-drivers-on-windows-7/"><u>Successful Guide: Installing Mouse Drivers on Windows 7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Samsung Galaxy S23 | Dr.fone
-date: 2024-09-14T18:37:29.947Z
-updated: 2024-09-16T18:29:24.205Z
+date: 2024-09-18T16:51:39.282Z
+updated: 2024-09-21T17:39:27.277Z
 tags: 
   - problems
 categories:
@@ -64,6 +64,13 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4,307,222** people have downloaded it
 
 ### Key Features
@@ -99,6 +106,13 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 - **Step 2:** Connect your Samsung Galaxy S23 to the computer using a USB cable. Dr.Fone will detect your device, and you'll be prompted to choose your device's type. Select **Android** **Repair**.
 
 ![dr.fone choosing a device type](https://images.wondershare.com/drfone/guide/system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Follow the on-screen instructions until the app downloads the correct firmware for your device. As it downloads, Dr.Fone will verify it and put your device details on display. You can [<u>install the firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) on your Samsung Galaxy S23 by choosing **Fix Now**.
 
@@ -138,13 +152,6 @@ An outdated Play Store version may lead to compatibility issues. Open the Google
 Cached data in the Play Store can sometimes cause download problems. Head to the Samsung Galaxy S23 device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Verify Google Account
 
@@ -209,19 +216,6 @@ Do you seek to resolve the problem of the ****Samsung Galaxy S23  Plus stuck on
 The first and most proclaimed technique to refresh Samsung Galaxy S23 devices under such a problem is to force restart them. If the Samsung Galaxy S23 device is stuck, you will have to perform this process by pressing the "Power" and "Volume Up" keys for 15 seconds. Continue holding the buttons until the Samsung Galaxy S23 device vibrates or restarts by showing the screen again.
 
 ![force restart nokia](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Leave the Phone For a While To Drain Its Battery
 
@@ -307,6 +301,13 @@ As you have observed, the power of Dr.Fone can be a perfect phone manager for yo
 
 **4,675,795** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 With that, this brings the article on Samsung Galaxy S23 smartphones to a conclusion. If you are still facing issues with your ****Samsung Galaxy S23  stuck on the "Samsung Galaxy S23" screen,**** this article is the perfect solution for your problem.
@@ -318,6 +319,13 @@ With all the provided methods, we do hope that you will be able to restore the s
 Smartphones nowadays contribute to our daily workflow, whether you’re a student or a professional. They get more sophisticated and add new features every year, making them more attractive with each new release. However, users sometimes deal with their **screen touch not working** on Android, raising various concerns.
 
 ![fix unresponsive android/ios touchscreen intro](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you are facing a similar issue, this page has all the solutions to teach you **what to do if your phone screen is not working.** By exploring the different methods below, you will be able to know how to fix a frozen phone touch screen as an Android user. Read on for more information.
 
@@ -348,6 +356,13 @@ Your **phone screen not responding** can also be due to software glitches that 
 It may not respond properly when an Android device is dirty due to water, sweat, or body oils. It will not be able to take inputs, causing your **phone to not respond to touch**. A poor screen protector and a tightly pressed phone case will also negatively impact your smartphone.
 
 ![dirty samsung screen](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: What To Do When Your Smartphone Is Not Responding to Touch
 
@@ -385,19 +400,6 @@ If your Samsung Galaxy S23 Redmi **phone is stuck on loading screen** or “thi
 
 ![reboot xiaomi redmi options](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-06.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Update Your Software
 
 Your smartphone may behave erratically due to software bugs. While these are out of your control, you can quickly fix **your phone not responding to touch** by simply updating your OS to the latest version. Here’s how.
@@ -406,13 +408,6 @@ Your smartphone may behave erratically due to software bugs. While these are out
 - For Android owners, go to **Settings > Software Update.** Tap the **Check for software updates**to see if a new update is available.
 
 ![ios software update](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-07.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Perform a Factory Reset
 
@@ -475,13 +470,6 @@ Here are the pros and cons of using Wondershare Dr.Fone (Android)
 **Cons**
 
 - The iOS and Android versions of Wondershare Dr.Fone are sold separately. You’ll have to get each version of the program if you own a smartphone for both iOS and Android.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Pricing
 
@@ -556,14 +544,16 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-infinix-hot-30i-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Infinix Hot 30i FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-play-7t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Play 7T Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-note-30-vip-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 VIP Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximize-output-win-based-time-management-apps-reviewed/"><u>Maximize Output: Win-Based Time Management Apps Reviewed</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-s24plus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy S24+ – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/step-by-step-guide-to-crafting-engaging-valorant-thumbnails-for-2024/"><u>Step-by-Step Guide to Crafting Engaging Valorant Thumbnails for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/transforming-photographs-into-stunning-collaborative-art/"><u>Transforming Photographs Into Stunning Collaborative Art</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/virtual-cameras-revolutionized-explore-manycam-live-streaming-apps/"><u>Virtual Cameras Revolutionized: Explore ManyCam Live Streaming Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-top-swaps-in-film-history-7-best/"><u>[New] In 2024, Top Swaps in Film History #7 Best</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-secrets-revealed-how-to-capture-your-facebook-sessions/"><u>[New] Secrets Revealed How to Capture Your Facebook Sessions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-logic-pros-approach-to-softening-audio-tracks-gradually/"><u>2024 Approved Logic Pro's Approach to Softening Audio Tracks Gradually</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-your-vob-videos-for-free-discover-the-leading-8-converters-for-quick-mpg-conversion-online/"><u>Convert Your VOB Videos for Free: Discover the Leading 8 Converters for Quick MPG Conversion Online</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nokia-c300-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nokia C300 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-effortless-subtitling-and-cc-addition-techniques-for-youtube-users/"><u>In 2024, Effortless Subtitling & CC Addition Techniques for YouTube Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-nokia-c32-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia C32 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-a2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi A2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y78t | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Xiaomi 13T? 7 Ways to Resolve | Dr.fone
-date: 2024-07-14T07:00:35.878Z
-updated: 2024-07-15T07:00:35.878Z
+date: 2024-09-18T17:03:39.981Z
+updated: 2024-09-21T18:54:59.815Z
 tags: 
   - problems
 categories:
@@ -40,8 +40,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -91,6 +89,13 @@ After the package downloads, program will repair all kinds of problems surfacing
 
 ![get to repair android to fix play store download pending](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.4 Clear data and cache of Play Store and download again
 
 Did you know the piling up of cache memory can certainly pull off a great deal for Play Store getting stuck? Cache data may generally stash the data so that you can access it even in future course. But, this do east up a good chunk of space and result in the misbehavior of **_Play Store app_**. You can opt to brush away **_Play store stuck on downloading_** by using the following steps.
@@ -114,6 +119,13 @@ When was the last time you cared to update your Play store app? Generally, users
 
 ![update device to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/update-play-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.6 Try another Google account
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
@@ -121,8 +133,6 @@ If you’re unable to see a streak of hope and wondering why my **_Play Store is
 ### 3.7 Avoid downloading large apps
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
-
-
 
 ## 7 Fixes for "Unfortunately, Phone Has Stopped" on Xiaomi 13T
 
@@ -158,6 +168,13 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.3 Update Google Play services
 
 Since Android is created by Google, there must be some Google Play services that are crucial to run several system functions. And if attempting the previous methods isn’t of any use, try updating Google Play services when you find the Phone app stopped. For doing this, you need to make sure that automatic updates are turned on in Google settings. If not, enable it and get the apps including Google Play services updated for smoother functions.
@@ -190,8 +207,6 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -249,6 +264,13 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## How To Fix Unresponsive Touch Screen on Xiaomi 13T
@@ -275,9 +297,6 @@ Below are some of the most common reasons you’re experiencing touch problems o
 
 If any of the outlined reasons above are the cause of your **touch screen malfunctioning,** here are some solutions to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Remove the Screen Protector and Phone Case
 
 Some phone cases and screen protectors cause **touch problems** on your Android screen. This issue is prevalent if you recently changed your phone case or screen protector. It may be due to incompatibility, but you should remove them to see if your phone starts responding again.
@@ -290,9 +309,6 @@ A **touchscreen malfunctioning** can also be a sign of a dirty display. Since th
 
 ![android dirty screen](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Stop Using Your Android Device for a While
 
 **Touch problems** also arise due to abnormal temperature changes. Your phone might experience ghost touch if it’s too cold or hot. For your screen to function correctly, it needs to be in a temperate environment. Remember to take breaks between phone usage, especially when the phone gets too hot. Avoid using your device under hot conditions, direct sunlight, or anything affecting your phone’s normal temperature.
@@ -309,9 +325,6 @@ To restart your Android, press and hold the **Power** button for several second
 
 Before attempting to have your device checked for any hardware defects, you should try completing a Factory Reset. To do this, go to **Settings > Backup and Reset.** Next, tap on **Factory data reset** \> **Delete all**.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android factory data reset](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-05.jpg)
 
 Performing a Factory Data Reset will erase all your data and restore your device to its factory default settings. Creating a backup before doing this step is recommended, as you will lose all your personal data once the process starts.
@@ -349,8 +362,12 @@ If doing all the earlier workarounds and fixes couldn’t resolve the **touchscr
 Your **phone touch problem** might not be caused by the screen, even when you had it replaced. If your Android is still unresponsive, it’s best to bring your smartphone to an authorized service center or directly to the phone manufacturer, especially when all efforts are exhausted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How To Fix Android Touch Problem With an Alternative
 
 If all the general **phone touch problems** on your Xiaomi 13T persist, you should strongly consider [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) to do the job. The program can fix all Android system issues without any required skills. Problems caused by the operating system or software, such as the black screen of death, boot loop, ghost touch, and more, are done within less than 10 minutes with the program.
@@ -415,9 +432,6 @@ If you can’t take your cracked screen to a repair shop, apply a small amount o
 
 You can download and install Dr.Fone – System Repair (iOS) or (Android) for free to evaluate the program’s offerings. You can do the first few steps to see if the app supports your device. However, you need to get the full version and enter a valid license code to repair your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,471,551** people have downloaded it
@@ -427,7 +441,6 @@ You can download and install Dr.Fone – System Repair (iOS) or (Android) for fr
 If the **touchscreen is malfunctioning** on your smartphone, one of the fixes above should help solve the problem. If it did not solve the issue, consider using Dr. Fone – System Repair for iOS or Android when you need an all-in-one solution to all your phone screen problems.
 
 However, if your screen is broken or cracked, going to an authorized service center is still your best bet, especially when your screen urgently needs a replacement. Delaying it further may hurt your wallet in the long run, so it’s best to fix it as soon as possible.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -441,9 +454,21 @@ However, if your screen is broken or cracked, going to an authorized service cen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-elevate-video-output-quality-mastering-aiseesoft-screencast-tech/"><u>[New] Elevate Video Output Quality Mastering Aiseesoft Screencast Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-powerdirector-unboxed-a-complete-review-users/"><u>[New] PowerDirector Unboxed A Complete Review Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-capture-youtubes-subtitles-on-no-cost-platforms/"><u>[Updated] 2024 Approved Capture YouTube's Subtitles on No-Cost Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-discovering-the-best-soil-sprouts-of-valheim/"><u>[Updated] 2024 Approved Discovering the Best Soil Sprouts of Valheim</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-honor-magic-6-lite-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor Magic 6 Lite in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-itel-a60-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Itel A60 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-lava-blaze-pro-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Lava Blaze Pro 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-y200e-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo Y200e 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-x50-gt-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor X50 GT Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/steps-to-successfully-install-the-latest-xp-pen-driver-software/"><u>Steps to Successfully Install the Latest XP-Pen Driver Software</u></a></li>
+</ul></div>
 

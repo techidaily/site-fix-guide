@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Persistent Microsoft Edge Crashes on Windows 10 Systems
-date: 2024-09-10T16:51:05.716Z
-updated: 2024-09-16T17:48:57.563Z
+date: 2024-09-16T16:49:27.483Z
+updated: 2024-09-21T18:17:19.983Z
 tags:
   - win11
   - win10
@@ -69,13 +69,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
  Restart your computer and your game to test your issue. If the game still crashes, move on to Fix 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3:**Run the game as an administrator**
 
  Steam sometimes may require administrator privileges to perform certain functions or to access certain files. Try running Steam as an administrator, then launch Oxygen Not Included from Steam client to see if that fixes your issue. Here is how to do it:
@@ -95,6 +88,13 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 **4)** Restart Oxygen Not Included from Steam.
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4:**Run the game in compatibility mode**
 
@@ -120,19 +120,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Relaunch your game to check if your issue had been resolved.
 
  If you still get the error code in Windows 8 mode, repeat **steps 1 – 3**  and select **Windows 7**  from the drop-down list.
@@ -153,6 +140,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-284.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the**BETAS tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-287.png)
@@ -162,13 +156,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
  If you’re given a password to unlock the appropriate branch, type the password in the box next to**CHECK CODE** , click**CHECK CODE** and your branch will now be in the dropdown menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-288.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
 
@@ -192,6 +179,13 @@ If the game crashing issue persists, check the fix below.
 **3)** Restart your computer and your game to test your issue.
 
  This should fix your problem. If it didn’t, don’t fret. Check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7:**Update your Graphics driver**
 
@@ -229,22 +223,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8:**Check for Windows updates**
 
@@ -253,6 +241,13 @@ OR
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type**windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -282,13 +277,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-277.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Relaunch Steam to download and reinstall Oxygen Not Included. Then, try launching the game again to see if this fixed your problem.
 
  Hopefully, you’re able to play Oxygen Not Included now. If you have any questions or suggestions, feel free to leave a comment below.
@@ -314,19 +302,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-deciphering-highlighted-discussion-threads/"><u>[New] 2024 Approved Deciphering Highlighted Discussion Threads</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/utting-edge-filmmaking-techniques-youtubes-insights-and-competitors/"><u>[New] Cutting-Edge Filmmaking Techniques YouTube's Insights & Competitors</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-top-6-tools-to-download-lite-videos-from-facebook/"><u>[New] In 2024, Top 6 Tools to Download Lite Videos From Facebook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlock-creative-potential-with-expert-macro-video-cinematography-guidance/"><u>[Updated] Unlock Creative Potential with Expert Macro Video Cinematography Guidance</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-11-proplus-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-budget-conscious-laptop-tools-for-dvd-watchers-for-2024/"><u>Best Budget-Conscious Laptop Tools for DVD Watchers for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-rapid-recovery-from-kernelbasedll-bugs/"><u>Effective Fixes for Rapid Recovery From KernelBase.dll Bugs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-c51-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme C51 Pattern Lock Screen</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-k11-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo K11 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-z-fold-5-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy Z Fold 5 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimized-recording-software-seamless-every-time/"><u>In 2024, Optimized Recording Software - Seamless Every Time</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-reno-11f-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo Reno 11F 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-smart-7-hd-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Smart 7 HD Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23plus-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23+ Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-controlling-who-can-leave-a-comment-on-your-youtube-videos/"><u>[Updated] 2024 Approved Controlling Who Can Leave a Comment on Your YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-chromium-os-built-in-video-capturer-for-2024/"><u>[Updated] Chromium OS Built-In Video Capturer for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-create-gif-format-outros/"><u>[Updated] How To Create GIF Format Outros</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-spark-interest-and-build-community-through-these-10-igtv-approaches-for-2024/"><u>[Updated] Spark Interest and Build Community Through These 10 IGTV Approaches for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-get-your-acer-wi-fi-drivers-downloaded-today/"><u>Easy Installation Guide: Get Your Acer Wi-Fi Drivers Downloaded Today!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/zero-to-cool-video-star-your-mac-youtube-journey-starts-here-for-2024/"><u>From Zero to Cool Video Star Your Mac Youtube Journey Starts Here for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-redmi-note-12-pro-4g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi Note 12 Pro 4G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-htc-u23-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve HTC U23 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-modern-electronics-by-toms-expertise/"><u>In-Depth Analysis of Modern Electronics by Tom's Expertise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/is-it-possible-to-use-handbrake-for-decrypting-and-converting-secure-dvds-on-macoswindows/"><u>Is It Possible to Use Handbrake for Decrypting and Converting Secure DVDs on macOS/Windows?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-vivo-x-fold-2-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Vivo X Fold 2</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on ZTE Axon 40 Lite | Dr.fone</u></a></li>
 </ul></div>
 

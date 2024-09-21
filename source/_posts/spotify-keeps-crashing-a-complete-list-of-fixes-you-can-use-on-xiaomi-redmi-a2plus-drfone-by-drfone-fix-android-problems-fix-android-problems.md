@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi A2+ | Dr.fone
-date: 2024-08-16T09:50:12.444Z
-updated: 2024-08-17T09:50:12.444Z
+date: 2024-09-17T16:27:54.224Z
+updated: 2024-09-21T17:56:34.408Z
 tags: 
   - problems
 categories:
@@ -71,9 +71,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 - **Step 10:** Type “**000000**” in the dialog box and click **Confirm**.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
@@ -236,6 +233,13 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
 ### 11. Clear the Cache
@@ -299,7 +303,18 @@ So Android repair requires programming knowledge to do it?
 
 No! With Dr.Fone - System Repair (Android), you can do Android repair in just a few steps and get all issues like Wifi Authentication error fixed easily.
 
-
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -388,9 +403,6 @@ If the above solution won’t work, then you would be required to walk the extra
 
 4\. From the IP Settings menu, change the field from DHCP to Static. This will let you establish a static connection between your device and the router.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![change the field](https://images.wondershare.com/drfone/article/2017/06/14981520827015.jpg)
 
 5\. As soon as you will change it to static, you will get different fields related to your network’s IP address, gateway, DNS, and more. Simply fill these fields and tap on the “Save” button once you are done.
@@ -407,9 +419,6 @@ It has been observed that, when we connect to Wifi, our device chooses a wrong s
 
 2\. Now, turn on your device’s Wifi and tap on the option of “Add network”. Here, you would be asked to give a network name and select the security type. To manually select it, tap on the “Security” option.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on the “Security”](https://images.wondershare.com/drfone/article/2017/06/14981521984185.jpg)
 
 3\. From here, you will get a list of various security protocols that you can pick. Select “WPA/WPA2-PSK” and save your selection.
@@ -418,18 +427,6 @@ It has been observed that, when we connect to Wifi, our device chooses a wrong s
 
 Now, try to connect to the network again. Most likely, it will let you fix the authentication error on your device.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Update Android firmware to the latest
 
 There are instances where an outdated OS version of your Xiaomi Redmi A2+ may create a hindrance in establishing a connection between your device and the WiFi network. You need to update your Android firmware to the latest version and then check if the problem persists or not.
@@ -478,9 +475,6 @@ If the equipment wears out after a certain time, there is a need to have it chan
 
 A software update on your Xiaomi Redmi A2+ smartphone might be causing issues with the screen stuck on the boot. The best way to get rid of this problem is to update your system software to the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: 5 Solutions To Solve Xiaomi Redmi A2+ Screen Stuck on Boot
 
 Do you seek to resolve the problem of the ****Xiaomi Redmi A2+  Plus stuck on the Android One screen?**** There are specific techniques that can be tried as a remedy. These solutions are tried and recommended by experts. Go through the details provided below to solve the issues with your stuck Xiaomi Redmi A2+ screen.
@@ -490,6 +484,13 @@ Do you seek to resolve the problem of the ****Xiaomi Redmi A2+  Plus stuck on t
 The first and most proclaimed technique to refresh Xiaomi Redmi A2+ devices under such a problem is to force restart them. If the Xiaomi Redmi A2+ device is stuck, you will have to perform this process by pressing the "Power" and "Volume Up" keys for 15 seconds. Continue holding the buttons until the Xiaomi Redmi A2+ device vibrates or restarts by showing the screen again.
 
 ![force restart nokia](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Leave the Phone For a While To Drain Its Battery
 
@@ -527,6 +528,13 @@ You will be directed to the Xiaomi Redmi A2+ device information screen, where yo
 
 ![add the nokia phone details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ****Step 3: Put Your Xiaomi Redmi A2+ in Download Mode****
 
 Following this, you will have to put your Xiaomi Redmi A2+ in Download Mode. For that, you need to follow the steps according to the condition of the Xiaomi Redmi A2+ device:
@@ -550,6 +558,19 @@ To proceed, tap the "Next" button to download the firmware. As you verify the fi
 ### Solution 5: Contact the Customer Service Center of Xiaomi Redmi A2+
 
 If the issue of the ****Xiaomi Redmi A2+  stuck on the "Xiaomi Redmi A2+" screen**** continues, you will have to contact the Xiaomi Redmi A2+ device's customer support. With no proper method left for the Xiaomi Redmi A2+ device, the only effective technique is to visit the authorized store for Xiaomi Redmi A2+ smartphones and claim the issue with the Xiaomi Redmi A2+ device. In this way, you might receive or get a fully repaired device with no additional charges if the Xiaomi Redmi A2+ smartphone is under warranty.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Avoid Xiaomi Redmi A2+ Screen Stuck on Boot?
 
@@ -581,9 +602,6 @@ With that, this brings the article on Xiaomi Redmi A2+ smartphones to a conclusi
 
 With all the provided methods, we do hope that you will be able to restore the status of your Xiaomi Redmi A2+ smartphone and make it functional. For the finest results, you have also discovered Dr.Fone – System Repair (Android) as the best solution for repairing such devices.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -596,46 +614,17 @@ With all the provided methods, we do hope that you will be able to restore the s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-quickly-craft-perfect-subtitles-and-captions-for-facebook-video-feeds/"><u>[New] 2024 Approved  How To Quickly Craft Perfect Subtitles and Captions for Facebook Video Feeds</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-immediate-frame-grabbers-help/"><u>[New] In 2024, Immediate Frame Grabber's Help</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-l1-1-core-library-loader-not-found/"><u>[Resolved] L1-1 Core Library Loader Not Found</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-outriders-lag-issue/"><u>[Solved] Outriders Lag Issue</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-become-a-gif-expert-in-snapchat-today/"><u>[Updated] In 2024, Become a GIF Expert in Snapchat Today</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-masterclass-in-making-panzoids/"><u>2024 Approved  Masterclass in Making Panzoids</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlimited-picture-pools-the-best-10-resources/"><u>2024 Approved  Unlimited Picture Pools  The Best 10 Resources</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-nokia-c02-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nokia C02 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-f23-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo F23 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-k11x-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo K11x Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 12 mini?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c67-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C67 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-professional-posting-hacks-for-instagram-tv/"><u>In 2024, Professional Posting Hacks for Instagram TV</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-downloading-twitter-video-content-to-mp3/"><u>In 2024, Strategies for Downloading Twitter Video Content to MP3</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/master-social-media-youtube-to-facebook-links/"><u>Master Social Media  YouTube to Facebook Links</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/motorola-moto-g73-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G73 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-t2-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo T2 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-vn-video-editor-for-mac-the-ultimate-guide-to-installation-and-alternatives/"><u>New In 2024, VN Video Editor for Mac The Ultimate Guide to Installation and Alternatives</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nubia-z50-ultra-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Z50 Ultra Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nubia-z50-ultra-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Z50 Ultra Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-magic-6-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor Magic 6? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-tecno-camon-20-pro-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Camon 20 Pro 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-a78-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo A78 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/predicting-film-production-costs-music-video/"><u>Predicting Film Production Costs  Music Video</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-gt-neo-5-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme GT Neo 5 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-magic-5-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor Magic 5 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f04-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F04 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m34-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M34 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/streaming-fb-video-content-on-television-devices-for-2024/"><u>Streaming FB Video Content On Television Devices for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-m34-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy M34 FRP Bypass</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-blueprint-for-thriving-on-instagrams-crowd/"><u>[New] In 2024, The Blueprint for Thriving on Instagram's Crowd</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-one-device-two-os-file-migration-tactics/"><u>[New] One Device, Two OS File Migration Tactics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamline-your-screens-the-benefits-of-using-showmore/"><u>[Updated] Streamline Your Screens The Benefits of Using ShowMore</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-microsoft-flight-simulator-2020-updates-pending-error/"><u>Fix Your Microsoft Flight Simulator 2020 'Updates Pending' Error</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-105-classic-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia 105 Classic Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-nord-ce-3-lite-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Nord CE 3 Lite 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-a38-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo A38 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-performers-a-selection-of-the-best-cable-modemrouter-combinations-available/"><u>Top Performers : A Selection of the Best Cable Modem/Router Combinations Available</u></a></li>
 </ul></div>
+

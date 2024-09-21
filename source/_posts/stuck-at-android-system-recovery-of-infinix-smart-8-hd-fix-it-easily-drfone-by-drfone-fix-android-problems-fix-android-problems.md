@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Infinix Smart 8 HD ? Fix It Easily | Dr.fone
-date: 2024-09-12T16:28:10.601Z
-updated: 2024-09-16T18:06:07.054Z
+date: 2024-09-18T18:27:43.651Z
+updated: 2024-09-21T16:36:46.902Z
 tags: 
   - problems
 categories:
@@ -92,13 +92,6 @@ Your device should already be in this mode but follow the instructions to make s
 Ensure your device, and your computer stays connected the entire time, and make sure your internet connection remains stable.
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
@@ -247,7 +240,27 @@ Step 3: In this step, download the latest version of Odin on your PC and move it
 
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
 
@@ -264,13 +277,6 @@ Step 6: Now, you may use a USB to connect your Infinix Smart 8 HD to the PC. Odi
 Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA” or “AP” on the Odin window and then click “Start”.
 
 ![open md5 file](https://images.wondershare.com/drfone/article/2017/07/14991898009725.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Finally, once the flashing process is complete, your Infinix Smart 8 HD phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
 
@@ -325,13 +331,6 @@ After this, click on “Flashing” and select “Firmware update” and then br
 Then move on to select “Dead Phone USB Flashing” from the Firmware Update Box.
 
 ![dead phone usb flashing](https://images.wondershare.com/drfone/article/2017/07/14991900551025.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lastly, just click on “Refurbish” and connect your phone to the PC using a USB cable.
 
@@ -395,6 +394,13 @@ The first thing you can do to fix Gmail not responding issue is to clear the cac
 
     ![gmail not working android - search gmail](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Go to “Storage” followed by “Clear Cache”.
 
 ![gmail not working android - clear cache in storage](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-3.jpg)
@@ -446,13 +452,6 @@ Again, restarting can also be helpful in this situation. When you boot the Infin
 
 In case you are using the Gmail over your web browser and it has tested your patience in loading, here are the solutions that could prove to be fruitful for you. Please check these out.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Ensure to Use Gmail Supported Browser
 
 First of all, you need to make sure that the browser you are using works with Gmail or not. Gmail can smoothly perform in Google Chrome, Firefox, Safari, Internet Explorer and Microsoft Edge. However, the browsers should be updated. So, please make sure that these browsers are running on the latest versions. Moreover, in case you use Chromebook, don’t forget to update the operating system in order to let it support Gmail.
@@ -474,6 +473,13 @@ Gmail also gives you problem in sending or receive mails and messages. And to tr
 This issue is likely to emerge when you are using an outdated version of Gmail. And therefore, the first solution says you to check if the Gmail update is available. You can go to the Play Store and from the “My apps & games” option, you can see if Gmail needs to be updated or not.
 
 ![Gmail crashing on Android - check version](https://images.wondershare.com/drfone/article/2019/04/check-update-gmail.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Verify Internet Connection
 
@@ -509,13 +515,6 @@ As already mentioned, be sure of an active internet connection while working wit
 
 Now try to send the mail and see if things are still the same or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Check Attachments
 
 Large attachments can also be the reason for this issue. We would here like to suggest you to check the attachments you are sending. If these are not so important, you can remove them and send the mail. Or if it is not possible to send the mail without attachments, compressing the files can be a solution.
@@ -540,6 +539,13 @@ As another solution, check Gmail sync settings to get the issue fixed.
 3. See the tiny box beside “Sync Gmail” and check it if it is not.
 
 ![Gmail not responding - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Restart the Infinix Smart 8 HD device
 
@@ -589,20 +595,20 @@ Fix all Gmail issues caused by Android system:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-crafting-the-perfect-schedule-for-jobs-and-youtube/"><u>[New] 2024 Approved Crafting the Perfect Schedule for Jobs & YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-best-writing-ever-seen-across-film-genres/"><u>2024 Approved Best Writing Ever Seen Across Film Genres</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-starter-guide-to-motion-graphics-mastery/"><u>2024 Approved Starter Guide to Motion Graphics Mastery</u></a></li>
-<li><a href="https://win-blog.techidaily.com/crusader-kings-iii-update-fixes-previous-pc-compatibility-issues/"><u>Crusader Kings III Update Fixes Previous PC Compatibility Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-expertise-with-toms-guide-the-ultimate-insight-destination/"><u>Dive Into Hardware Expertise with Tom's Guide - The Ultimate Insight Destination</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-and-updating-brother-mfc-7860dw-drivers-for-optimal-windows-performance/"><u>Installing and Updating Brother MFC-7860DW Drivers for Optimal Windows Performance</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nokia-c12-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nokia C12 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-ultimate-guide-to-win1011s-hdmi-update/"><u>The Ultimate Guide to Win10/11's HDMI Update</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-facebook-analytics-simplified/"><u>[New] Navigating Facebook Analytics Simplified</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-decoding-hashtags-role-in-elevating-your-youtube-gaming-experience/"><u>[Updated] 2024 Approved Decoding Hashtags' Role in Elevating Your YouTube Gaming Experience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-timing-and-regularity-key-factors-influencing-youtube-traffic/"><u>2024 Approved Timing and Regularity Key Factors Influencing YouTube Traffic</u></a></li>
+<li><a href="https://facebook.techidaily.com/connecting-compassion-techs-5-million-aid-to-pandemic/"><u>Connecting Compassion: Tech's $5 Million Aid to Pandemic</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-ai-in-developer-tools-why-rote-automation-is-a-thing-of-the-past-insights-from-zdnet/"><u>Embracing AI in Developer Tools: Why Rote Automation Is a Thing of the Past - Insights From ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-gta-5-not-starting-expert-tips-and-solutions/"><u>How to Overcome GTA 5 Not Starting: Expert Tips and Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-m14-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy M14 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-x90s-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo X90S in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-g54-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola G54 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-magic-5-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic 5 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-m54-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy M54 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-v27-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo V27 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-a58-4g-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo A58 4G</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-netgear-nighthawk-x6-ac3200-router-speed-meets-security-for-your-home/"><u>Ultimate Guide to the Netgear Nighthawk X6 AC3200 Router: Speed Meets Security for Your Home</u></a></li>
 </ul></div>
 

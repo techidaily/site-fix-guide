@@ -1,7 +1,7 @@
 ---
 title: Poco M6 Pro 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone
-date: 2024-07-14T07:01:37.147Z
-updated: 2024-07-15T07:01:37.147Z
+date: 2024-09-14T17:39:15.496Z
+updated: 2024-09-21T16:43:17.834Z
 tags: 
   - problems
 categories:
@@ -42,9 +42,6 @@ In the rarest cases, there might have developed an actual hardware issue with th
 
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your Poco M6 Pro 4G right where you are, without needing to take the Poco M6 Pro 4G device to the manufacturer’s service center.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.I: Restart The Handset
 
 One of the first things to do any time an app or your phone or tablet does not work like it should, restarting the Poco M6 Pro 4G device refreshes everything just enough to resolve most commonly occurring issues.
@@ -59,10 +56,20 @@ If the camera app (or any app for that matter) has been in the background for a 
 
 Step 1: Launch the app switcher on your specific Android device the way your device manufacturer suggests you to. Usually, it is a swipe up and hold gesture to get into the app switcher.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![closing apps in app switcher](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
 
@@ -90,9 +97,6 @@ Step 1: Go to Settings > Apps > Camera and tap Storage Usage.
 
 Step 2: Tap Clear Cache.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
 ### II.V: Clear The Photo Gallery App Cache
@@ -148,6 +152,19 @@ Step 1: Launch Dr.Fone app on your PC or Mac.
 Step 2: Click System Repair module and then Android.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
 
@@ -205,6 +222,13 @@ OS bugs and general glitches within the OS and the camera app can cause camera n
 
 In the rarest cases, there might have developed an actual hardware issue with the camera system on your Poco M6 Pro 4G. The likely culprit is misuse and abuse, such as a dropped phone or maybe the phone was too hot for extended periods of time, causing hardware issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part II: How To Fix Android Camera Not Working Issue?
 
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your Poco M6 Pro 4G right where you are, without needing to take the Poco M6 Pro 4G device to the manufacturer’s service center.
@@ -247,9 +271,6 @@ Clearing the camera app cache is sometimes helpful. To do that:
 
 Step 1: Go to Settings > Apps > Camera and tap Storage Usage.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![clear camera app cache](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-6.jpg)
 
 Step 2: Tap Clear Cache.
@@ -262,9 +283,6 @@ The camera app is closely tied to the photo gallery app that comes baked in into
 
 Step 1: Go to Settings > Apps > Photos > Storage Usage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear photo gallery app cache](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-8.jpg)
 
 Step 2: Tap Clear Cache.
@@ -309,6 +327,13 @@ Step 1: Launch Dr.Fone app on your PC or Mac.
 
 ![wondershare drfone on windows](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Click System Repair module and then Android.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
@@ -343,8 +368,6 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
 
-
-
 ## Full Solutions to Fix Error Code 920 In Google Play on Poco M6 Pro 4G
 
 If you are using an Android device, you might have encountered the error code 920 in Google Play Store. This error usually occurs when you are trying to download or update an app from the Google Play Store. The error code 920 can be quite frustrating, as it prevents you from downloading or updating your favorite apps. However, there are several ways to fix this error and get your apps back up and running. In this article, we will show you some of the best solutions to fix error code 920 in Google Play Store on Poco M6 Pro 4G.
@@ -361,6 +384,13 @@ Trust me, once you face an error it’s frustrating until you find a solution to
 Sometimes people think that they have endangered the fate of humanity because of the error that is being displayed (Just Kidding). Don’t worry you haven’t crashed any server or did any damage to your device but you just gave your device a lot of work. Before you got this error you were downloading a lot of apps right. Well, that’s the exact reason why you came up with this error in the first place. There are various reasons behind this error code 920, however, the prominent ones are –
 
 ![error code 920](https://images.wondershare.com/drfone/article/2017/06/14985021968933.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - a. Too much load on your data connection.
 - b. The cache is not cleaned. Thus the connection is getting hampered due to overload.
@@ -468,7 +498,6 @@ Again it is best if you follow the methods as illustrated above for removing err
 
 Play Store error 920 is a pretty common error and its solutions are also very easy. Please do ensure that you follow each and every step in sync so that you can get the best result out of these methods and get over with the error code 920 on Google play store.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -481,9 +510,22 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-add-videos-in-instagram-story/"><u>[New] How to Add Videos in Instagram Story</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-push-the-limits-a-review-of-lgs-27uhd68-freesync-display/"><u>[New] Push the Limits A Review of LG’s 27UHD68 FreeSync Display</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-syma-x5c-an-in-depth-beginners-guide-for-future-pilots/"><u>[New] Syma X5C An In-Depth Beginner’s Guide for Future Pilots</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-4k-clarity-comparison-projectors-vs-traditional-televisions-for-2024/"><u>[Updated] 4K Clarity Comparison Projectors vs Traditional Televisions for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/blueprints-for-making-youtube-intro-videos-that-stick/"><u>Blueprints for Making YouTube Intro Videos that Stick</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-spark-20c-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Tecno Spark 20C to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-time-reverse-footage-on-your-phone/"><u>In 2024, Time-Reverse Footage on Your Phone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y56-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y56 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-x6-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X6 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-m14-4g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy M14 4G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f14-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F14 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-installation-mbox2-driver-updates-and-downloads-for-windows-no-more-issues/"><u>Successful Installation: MBox2 Driver Updates & Downloads for Windows - No More Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix GT 10 Pro | Dr.fone</u></a></li>
+</ul></div>
 

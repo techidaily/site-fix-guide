@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Lenovo ThinkPhone ? Fix It Easily | Dr.fone
-date: 2024-09-10T16:46:13.014Z
-updated: 2024-09-16T16:25:09.740Z
+date: 2024-09-20T16:15:13.635Z
+updated: 2024-09-21T17:25:10.315Z
 tags: 
   - problems
 categories:
@@ -214,6 +214,13 @@ Click "Next", and the software will begin downloading the firmware repair files.
 
 ![firmware downloading to android](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step #4** Now you can sit back and watch the magic happen!
 
 Make sure your computer stays connected to the internet, and your device stays connected to your computer throughout the entire process. Once the firmware has been downloaded, it will be automatically installed onto your mobile device, removing the boot loop Android error.
@@ -239,6 +246,13 @@ If you cannot take the battery out, let the phone be off for about 3 to 5 minute
 Simply performing a soft reset on your device can help you if you are looking for solutions for how to fix the bootloop issue. This a very useful method as it does not result in any kind of loss in data and protects all your media files, documents, settings, etc.
 
 In case the Lenovo ThinkPhone device does not turn on normally and is still stuck in the bootloop Android problem, be prepared to use the troubleshooting techniques given and explained below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Boot into Safe Mode to fix Android boot loop
 
@@ -369,13 +383,6 @@ After you open the software, hit on the “System Repair” button from the main
 
 ![fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Choose the Tab**
 
 Now, from the next screen, you are supposed to choose “Android Repair” tab. It is given on the left panel.
@@ -399,19 +406,6 @@ Tip: You can use [Dr.Fone – Phone Backup (Android)](https://tools.techidaily.c
 You will get some instructions on your screen to keep your device in Download mode. Follow them according to the Lenovo ThinkPhone device you own and hit “Next”. When you do this, the program will detect your device and let you download the latest firmware.
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
@@ -456,14 +450,20 @@ In case the above steps didn’t figure out the problem, here is the next tip. T
 
 ![clear cache partition](https://images.wondershare.com/drfone/article/2019/02/clear-cache-partition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Check now if the error is eliminated. If unfortunately not, please try the following solution.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Enable the easy mode
 
@@ -477,10 +477,10 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Boot your phone to safe mode
@@ -510,10 +510,10 @@ Along with this, we would also suggest you go take backup of your data so that y
 - Wait a few minutes and your device will reboot.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Install a new launcher to replace TouchWiz
@@ -534,21 +534,19 @@ We believe that you will find the above methods helpful. However, if still in ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-harnessing-microsoft-teams-power-with-simple-snap-camera-use/"><u>[New] In 2024, Harnessing Microsoft Teams' Power with Simple Snap Camera Use</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-windows-media-seamless-cd-extraction/"><u>[New] Unveiling Windows Media Seamless CD Extraction</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-20-most-memorable-anime-series-intros/"><u>2024 Approved 20 Most Memorable Anime Series Intros</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/demystifying-the-instagram-video-constraint/"><u>Demystifying the Instagram Video Constraint</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-x50iplus-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor X50i+ Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-m6-pro-4g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco M6 Pro 4G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-expert-guide-to-optimal-tripod-setup-for-high-quality-vlogs/"><u>In 2024, Expert Guide to Optimal Tripod Setup for High-Quality Vlogs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-image-perfection-an-editors-guide/"><u>In 2024, Image Perfection An Editor's Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-ace-2-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 2 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-x50-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor X50 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/sony-xperia-10-v-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 10 V Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-beginners-roadmap-to-choosing-a-camera/"><u>The Beginner's Roadmap to Choosing a Camera</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-productivity-the-ultimate-guide-to-using-chatgpt-for-telecommuting/"><u>Unlock Productivity: The Ultimate Guide to Using ChatGPT for Telecommuting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-dominating-the-digital-space-from-5000-to-over-a-million-views-for-2024/"><u>[New] Dominating the Digital Space From 5,000 to Over a Million Views for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nfographic-hottest-social-media-trends-that-will-take-over-2023-for-2024/"><u>[New] Infographic - Hottest Social Media Trends That Will Take Over 2023 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-charting-new-territories-leading-6-artists-in-nft-landscape/"><u>[Updated] Charting New Territories Leading 6 Artists in NFT Landscape</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-grow-to-1k-per-month-master-the-art-of-ig-popularity/"><u>[Updated] In 2024, Grow to 1K Per Month Master the Art of IG Popularity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-basics-to-expertise-the-quantum-hdr-journey/"><u>2024 Approved From Basics to Expertise The Quantum HDR Journey</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-fbx-game-recorder-playbook/"><u>2024 Approved The FBX Game Recorder Playbook</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-the-task-didnt-complete-as-expected-notification-in-windows-11/"><u>Fixing the 'Task Didn't Complete as Expected' Notification in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-magic-6-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor Magic 6 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-11-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 11 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-motorola-edge-40-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Motorola Edge 40 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-13t-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi 13T Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola Moto G23 | Dr.fone</u></a></li>
 </ul></div>
 
