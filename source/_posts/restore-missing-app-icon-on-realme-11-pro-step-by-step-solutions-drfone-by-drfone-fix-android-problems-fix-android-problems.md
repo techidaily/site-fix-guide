@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Realme 11 Pro Step-by-Step Solutions | Dr.fone
-date: 2024-09-01T10:04:17.025Z
-updated: 2024-09-02T10:04:17.025Z
+date: 2024-10-07T19:33:31.228Z
+updated: 2024-10-12T17:10:20.943Z
 tags: 
   - problems
 categories:
@@ -19,7 +19,6 @@ The growing conversation around the **missing app icons on Android** issue has c
 After all, the presence of app icons on our Android device's home screen is important for convenient access to our frequently used applications. When your Realme 11 Pro's icons suddenly disappear, it can leave you feeling lost about how to use and access your apps.
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your Realme 11 Pro.
-
 
 ## Part 1: Make Sure if the Missing App Is Installed
 
@@ -95,9 +94,6 @@ How to fix the Android system using Dr.Fone’s system repair tool:
 
 Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox section and connect your Realme 11 Pro. Choose System Repair and pick Android as your device type.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
@@ -154,7 +150,12 @@ When you encounter an Android system crash, before looking for solutions to fix 
 
 [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html) is currently one of the most popular tools to retrieve data from not only broken or damaged, locked devices, and unresponsive devices but also from devices that face an Android system crash. You may try the software for free for scanning the data to understand its work. Dr.Fone’s Data Extraction tool not only retrieves and back-up contacts and messages but also your photos, videos, audio files, WhatsApp, docs, call logs, and other file folders. It is also equipped to retrieve data from the Realme 11 Pro device’s internal memory as well as Google drive.
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -173,9 +174,23 @@ You may follow the steps given below to rescue your data from crashed Android de
 
 ![Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Select "Android" > "Recover from Broken Phone" in the lower right corner.
 
 ![select data type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. Choose the "Touch screen not responsive or cannot access the phone" to continue.
 
@@ -193,16 +208,33 @@ You may follow the steps given below to rescue your data from crashed Android de
 
 ![analyze phone data](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-06.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7\. Finally, the process will take a few minutes to scan and display your phone data. Select “Recover to Computer” to retrieve all data on your PC as a backup.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recover data to computer](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
 Using Dr.Fone Damage Extraction software is intuitive and very safe. It prevents data loss and allows you to adopt various ways to recover your device from the Android system crash issue.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Why does my Android phone system keep crashing?
 
@@ -271,8 +303,12 @@ If you are constantly facing issues of your Realme 11 Pro crashing, there is a p
 ![press the uninstall option](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 7: Clear cache partition to fix Android crash issue
 
 Clearing cache is a good idea because it cleans your device and reduces the burden on the Android software and gives it enough space to function normally and carry out its operations.
@@ -389,6 +425,13 @@ Once it downloads and is verified, click the "Fix Now" button to repair the Andr
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 11: Factory reset the Realme 11 Pro device to fix the Android crash issue
 
 Factory Resetting is advisable only when nothing else works. Also, there are two ways of doing it depending on whether the Android crash is permanent or temporary.
@@ -399,9 +442,6 @@ Follow the steps given below to factory reset your device while it is switched o
 
 Now select “Backup and Reset”.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![backup reset](https://images.wondershare.com/drfone/article/2017/07/14988993192107.jpg)
 
 In this step, select “Factory data reset” and then “Reset Device” to confirm Factory Reset.
@@ -414,6 +454,13 @@ When you are at the Recovery Mode screen, scroll down using volume down key, and
 
 ![factory reset](https://images.wondershare.com/drfone/article/2017/07/14988993508337.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Wait for your device to perform the task and then:
 
 Reboot the phone in Recovery Mode by selecting the first option.
@@ -421,8 +468,6 @@ Reboot the phone in Recovery Mode by selecting the first option.
 Bottomline, the tips given above have helped many to solve the Android system crash issue. So do not hesitate to try them, but don't forget to extract your data with Dr.Fone’s Data Recovery tool.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
-
 
 ## Want to Uninstall Google Play Service from Realme 11 Pro? Here is How
 
@@ -442,9 +487,6 @@ If you think that Google Play Service only provides a platform to download new a
 
 Furthermore, it might tamper with the overall functionality of your device as well. For instance, you could encounter network issues, messaging problems, app crashing, and more. Since the Play Service is closely associated with Android system, it might have a prominent effect on your phone. If you have a rooted device, then you can easily install custom ROM and resolve these issues. Though, for a non-rooted device, overcoming these problems could be a big hurdle.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to disable Google Play Service?
 
 By now, you already know all the repercussions of getting rid of Google Play Services permanently. Before you learn how to update Play Store after uninstalling updates, be sure whether you wish to uninstall Google Play Services or not. You can also choose to simply disable the services as well. If you face any severe issue afterward, then you can always enable the services manually.
@@ -454,7 +496,6 @@ To disable the Google Play Services, just go to your phone’s Settings > Applic
 ![uninstall google play services-open Google Play Services](https://images.wondershare.com/drfone/article/2017/06/14981537155144.jpg)
 
 Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -468,9 +509,22 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-ideal-mac-voice-storage-tools-the-most-reliable-5/"><u>[New] 2024 Approved Ideal Mac Voice Storage Tools The Most Reliable 5</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-vivid-imagery-with-nikon-j5s-4k-capability-revealed/"><u>[Updated] Vivid Imagery with Nikon J5's 4K Capability Revealed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-boosting-gamers-skills-with-accurate-xbox-captures/"><u>2024 Approved Boosting Gamers' Skills with Accurate Xbox Captures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-skype-capture-manual-unveiling-the-best-free-and-paid-practices-windowsmac/"><u>2024 Approved Skype Capture Manual Unveiling the Best Free and Paid Practices (Windows/Mac)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-hot-30-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Hot 30 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-innovative-investigation-vll-on-app-standards/"><u>In 2024, Innovative Investigation VLL on App Standards</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximize-your-iphone-xs-selfie-potential-top-free-apps/"><u>In 2024, Maximize Your iPhone X's Selfie Potential - Top Free Apps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-agni-2-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Agni 2 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-a05s-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy A05s FRP Bypass</u></a></li>
+</ul></div>
 

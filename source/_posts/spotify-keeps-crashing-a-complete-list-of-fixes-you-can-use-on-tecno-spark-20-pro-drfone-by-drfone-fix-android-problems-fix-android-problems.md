@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Spark 20 Pro | Dr.fone
-date: 2024-09-26T19:11:01.047Z
-updated: 2024-10-01T20:29:04.586Z
+date: 2024-10-05T17:11:52.473Z
+updated: 2024-10-13T00:10:45.124Z
 tags: 
   - problems
 categories:
@@ -66,10 +66,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 ![downloading firmware in progress](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
@@ -84,13 +84,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 12:** Once it finishes, click **Done**to complete the system repair.
 
 ![completed android system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -100,13 +93,6 @@ There are two ways to enter Download Mode: one for Android devices with the Home
 The steps for entering Download Mode on an Android phone with the Home button are as follows:
 
 ![enter download mode with the home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 1:** Turn off your phone.
 - **Step 2:** Press and hold the **Volume Down**,**Home**, and **Power** buttons simultaneously.
@@ -178,6 +164,13 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6. Update Your System Software
 
 Your Spotify app might keep crashing because your system is outdated. Try updating it to the latest version to try and fix the crashing problem. The steps for the Android system update are as follows:
@@ -209,16 +202,10 @@ If your system is updated, then Spotify might need an update. The app might malf
 ![update spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-15.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8. Free up Storage
@@ -236,13 +223,6 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9. Reinstall Spotify
 
 There’s another solution if the Spotify app keeps crashing. You can try uninstalling and reinstalling it again on your Android. That will reset the app and might solve your problem. Follow the next steps to reinstall Spotify:
@@ -252,6 +232,13 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 - **Step 3:** Then, press **Uninstall**.
 
 ![uninstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** Press **OK**.
 - **Step 5:** Then, open the PlayStore and find Spotify.
@@ -275,6 +262,13 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 11. Clear the Cache
 
@@ -350,6 +344,13 @@ Android repair tool to fix Google Play Services not updating
 Initiate the process of downloading the software on your computer. Now, click on “Install” button and go along with the installation procedure. Click on “System Repair” option from the Toolbox window.
 
 ![fix google play services not updating with Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2: Device Connection**
 
@@ -430,6 +431,13 @@ This is how it works when Google Play Services can't be installed on your device
 
 ![google play services not installing - wipe cache](https://images.wondershare.com/drfone/article/2023/05/wipe-data.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Turn off the Tecno Spark 20 Pro device to begin with and then follow the steps for recovery mode.
 - On the recovery screen, use the “Volume” buttons for scrolling up and down and go to “Wipe cache partition”.
 - To confirm, press the “Power” button. Now, the Tecno Spark 20 Pro device will begin to wipe the cache.
@@ -462,13 +470,6 @@ The steps are:
 
 - Open “Settings” and go to “Backup & Reset”.
 - Choose “Factory Reset” followed by “Reset Phone”.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs about Google Play Services
 
@@ -545,13 +546,6 @@ From following screen, fill the fields of “Brand”, “Name”, “Model”, 
 
 ![contacts stopping on samsung - enter info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Download Firmware package
 
 Just follow the on-screen steps for booting your Tecno Spark 20 Pro into download mode. Then, hit the “Next” button to proceed with downloading the most suitable firmware package for your Tecno Spark 20 Pro.
@@ -600,6 +594,13 @@ As we know the cache memories are the temporary files build by the firmware. The
 
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the Tecno Spark 20 Pro device.
 
 ### 2.4 Disable Google+ app
@@ -627,13 +628,6 @@ Many a times, we skip updating our device software thinking it is of less import
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.6 Reset App Preferences
 
@@ -692,24 +686,20 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-becoming-a-video-wizard-with-screencast-insider-tips/"><u>[New] 2024 Approved Becoming a Video Wizard with Screencast Insider Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-leading-talents-top-instagram-hlv-constructors/"><u>[New] Leading Talents Top Instagram HLV Constructors</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-5-effective-tricks-for-youtube-subscriber-surges/"><u>[Updated] 2024 Approved 5 Effective Tricks for YouTube Subscriber Surges</u></a></li>
-<li><a href="https://fox-http.techidaily.com/become-a-vr-trailblazer-with-your-mobile-device-for-2024/"><u>Become a VR Trailblazer with Your Mobile Device for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/detailed-tutorial-implementing-custom-lut-filters-in-obs-productions/"><u>Detailed Tutorial Implementing Custom LUT Filters in OBS Productions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evolving-interactions-discover-the-six-surprising-uses-of-snapchats-my-ai-feature/"><u>Evolving Interactions: Discover the Six Surprising Uses of Snapchat's My AI Feature</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-lost-ark-from-crashing-on-your-computer/"><u>Fixes and Solutions: How To Stop 'Lost Ark' From Crashing on Your Computer</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-magic-5-lite-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor Magic 5 Lite Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-reno-8t-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Reno 8T 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-tecno-pova-5-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Tecno Pova 5 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-journey-from-ad-revenue-to-bank-account-balance/"><u>In 2024, The Journey From Ad Revenue to Bank Account Balance</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-ace-2-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 2 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-limitations-unanswerable-queries-and-tasks-beyond-chatgpts-reach/"><u>Top 7 Limitations: Unanswerable Queries & Tasks Beyond ChatGPT's Reach</u></a></li>
-<li><a href="https://techidaily.com/vivo-data-retrieval-tool-restore-lost-data-from-vivo-by-fonelab-android-recover-data/"><u>Vivo Data Retrieval tool – restore lost data from Vivo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-thin-line-of-vr-content-availability/"><u>[New] Navigating the Thin Line of VR Content Availability</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-six-innovative-ways-to-screen-capture-netflix-flicks-on-your-macbook/"><u>[New] Six Innovative Ways to Screen Capture Netflix Flicks on Your MacBook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-story-lore-who-are-the-premier-channels-for-2024/"><u>[New] Story Lore Who Are the Premier Channels for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-making-a-buzz-aesthetic-strategies-for-podcast-brands/"><u>[Updated] In 2024, Making a Buzz Aesthetic Strategies for Podcast Brands</u></a></li>
+<li><a href="https://common-error.techidaily.com/cannot-apply-feature-updates-for-windows-10-build-1607-let-us-help-you-resolve-that/"><u>Cannot Apply Feature Updates for Windows 10 Build 1607? Let Us Help You Resolve That</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-issues-how-to-restore-functionality-of-the-windows-11-taskbar/"><u>Fixing Issues: How to Restore Functionality of the Windows 11 Taskbar</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-moto-g23-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Moto G23 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-m34-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy M34 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-lava-yuva-2-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Lava Yuva 2 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-13t-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi 13T? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c53-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C53 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sparkle-with-style-personalize-brands-using-pre-set-graphics/"><u>Sparkle with Style Personalize Brands Using Pre-Set Graphics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-free-4k-hevc-h265-video-player-applications/"><u>Top Rated Free 4K HEVC H.265 Video Player Applications</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-zte-nubia-flip-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from ZTE Nubia Flip 5G to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

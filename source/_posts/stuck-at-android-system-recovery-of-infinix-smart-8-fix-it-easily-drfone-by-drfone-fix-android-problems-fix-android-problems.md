@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Infinix Smart 8 ? Fix It Easily | Dr.fone
-date: 2024-10-05T21:13:52.984Z
-updated: 2024-10-06T20:16:49.686Z
+date: 2024-10-10T00:10:35.368Z
+updated: 2024-10-12T17:47:34.810Z
 tags: 
   - problems
 categories:
@@ -31,6 +31,13 @@ Now that you know how useful the Android System can be, you may want to know how
 Step 1: Hold down the power key and then select "Power Off" from the options on the screen. If, however, your screen is unresponsive, keep holding the power key for several seconds until the Infinix Smart 8 device is completely turned off.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
@@ -117,6 +124,13 @@ Step 5: Next, you need to press the Volume down button to highlight "Delete All 
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5. Backup and Restore Android System
 
 Losing data on your Infinix Smart 8 is a common occurrence, and since Android devices don't really have an automatic full backup solution, it is important to know how to backup and restore your device system. Here's how to easily do that.
@@ -149,13 +163,6 @@ You might find lots of people online stating I can't receive text messages on An
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
 The most common symptoms that would clarify that your Android messaging service is not working right are given below:
@@ -185,10 +192,10 @@ If you are not willing to waste your precious time fixing the message problem, t
 You surely need to try the software as it can perform the following tasks:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
@@ -217,13 +224,6 @@ Step 3: Agree with the conditions and hit the Next button. The software will dow
 
 ![android not receiving texts - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 It won’t take long, and your Infinix Smart 8 will be repaired. Now you will be able to receive and send text messages without any hassle.
 
 ## Part 2: Remove and Insert the SIM
@@ -236,6 +236,13 @@ Another simple method that you can try if you are not receiving text messages on
 
 ![android not receiving texts - check connection](https://images.wondershare.com/drfone/article/2019/02/no-internet-connection.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Consult your Carrier about the Data Plan
 
 Maybe you are unable to get messages on your Infinix Smart 8s because your existing data plan has expired. You can directly contact your Carrier about the issues where your Infinix Smart 8 is not receiving texts. If your plan has expired, then you might have to renew it immediately. If not, then try out other fixes to resolve this issue.
@@ -245,19 +252,6 @@ Maybe you are unable to get messages on your Infinix Smart 8s because your exist
 Sometimes, people complain that Infinix Smart 8 is not receiving texts from iPhone, and it might be because of the SIM card issue. So, the best thing you can try is to remove the SIM from your current phone and insert it into another phone.
 
 When you are offline the message is saved on the server and just about when you get online, the text messages are delivered. If it is the SIM issue, then you will not get the message unless you contact your network operator.
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6: Clear the Cache of Messaging App
 
@@ -300,24 +294,24 @@ Taking the iPhone in hand makes sure that you are connected to a network. Open s
 ![android not receiving texts - check iphone message](https://images.wondershare.com/drfone/article/2019/02/deactivate-imessages.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the FaceTime option is also on, you might have to deactivate that too to send messages and calls as regular ones.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 11: Update Your Android
 
 Updating the operating system to the latest Android version can fix some system errors which may cause the "Android not receiving texts" issue because the latest version always brings a better user experience and fix the know bugs.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -344,13 +338,6 @@ A ****stuck pixel phone**** is always on, so it shows up on a touchscreen as a 
 In contrast to the stuck pixel, the dead pixel subpixels are all left unpowered, turning them off. A ****dead pixel on the phone**** is a tiny, persistent rectangle of black or white color on the part of the phone screen not working.
 
 ![stuck white pixel and dead pixel](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Some Differences Between Stuck and Dead Infinix Smart 8s on Phone
 
@@ -435,6 +422,13 @@ Consider a factory data reset if the previous options did not resolve your issue
 
 ![smartphone reset settings](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**
 
 It is crucial to wait for the system to finish deleting all data during the factory data reset. For instructions tailored to your device, see your manufacturer's help page.
@@ -450,6 +444,13 @@ Dealing with the ****stuck pixels on the phone**** can be a challenging issue t
 ****Step 2:**** Choose either ****Android**** or ****iPhone,**** depending on the type of device you have.
 
 ![Wondershare Dr.Fone  device type](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ****Note:****
 
@@ -494,13 +495,6 @@ Dead pixels cannot spread because each pixel functions independently of the othe
 
 It simply signifies that this specific area of your screen had poor manufacturing quality or is physically damaged if you have a patch of closely spaced ****dead pixels on your phone****. When a group of dead pixels is close together, it indicates localized damage or defect to that specific area. So, the pixels in that region no longer produce light or color.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. How Many Stuck Infinix Smart 8s Are Acceptable?
 
 It frequently happens throughout the LCD manufacturing process when one or more subpixels enter an unchanging state, leading to a bright or lifeless pixel. Generally speaking, an acceptable display has 1 to 5 fixed subpixels.
@@ -529,19 +523,18 @@ Remember to back up your data before attempting any fixes and to seek profession
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-unlock-optimal-video-playback-by-tuning-speed-in-snapchat/"><u>[New] Unlock Optimal Video Playback by Tuning Speed in Snapchat</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unveiling-vr-the-creation-gap-for-2024/"><u>[New] Unveiling VR The Creation Gap for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-twinkling-typefaces-the-essence-of-bouncy-text/"><u>[Updated] Twinkling Typefaces The Essence of Bouncy Text</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-vivo-g2-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo G2? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721978747018-chatgpt-desktop-not-out-yet-check-out-this-excellent-alternative-to-stay-ahead/"><u>ChatGPT Desktop Not Out Yet? Check Out This Excellent Alternative to Stay Ahead</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-the-epson-et-4550-drivers-on-your-pc/"><u>Effortless Installation of the Epson ET-4550 Drivers on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/firefox-on-turbocharge-unlock-extreme-speed-with-these-effortless-tweaks/"><u>Firefox on Turbocharge: Unlock Extreme Speed with These Effortless Tweaks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-redmi-13c-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi Redmi 13C Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-70-lite-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor 70 Lite 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-itel-a70-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Itel A70</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pivot-points-revolutionize-your-youtube-angles-with-ease-for-2024/"><u>[Updated] Pivot Points Revolutionize Your YouTube Angles with Ease for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-360-videos-for-fb-creation-and-sharing-guide/"><u>2024 Approved Mastering 360 Videos for FB Creation & Sharing Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-precision-viewing-at-a-glance-quick-minigame-tips/"><u>2024 Approved Precision Viewing at a Glance Quick Minigame Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-comedic-image-editor/"><u>2024 Approved Top-Ranked Comedic Image Editor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoiding-the-overflow-how-to-edit-your-pile-up-of-tiktok-drafts-for-2024/"><u>Avoiding the Overflow How to Edit Your Pile-Up of TikTok Drafts for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-free-and-premium-background-editor-apps-for-smartphones-enhance-your-photos/"><u>Best Free and Premium Background Editor Apps for Smartphones: Enhance Your Photos!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/change-location-on-yik-yak-for-your-zte-nubia-flip-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your ZTE Nubia Flip 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ntle-bots-elevate-youtube-watch-time/"><u>Dismantle Bots, Elevate YouTube Watch Time</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensuring-seamless-gameplay-in-cities-skylines-2-a-guide-to-prevent-pc-issues-and-crashes/"><u>Ensuring Seamless Gameplay in Cities: Skylines 2 - A Guide to Prevent PC Issues and Crashes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-13c-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi 13C Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-6-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 6</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Assessment: How Does Google's Pixel Navigate Photography Challenges?"
-date: 2024-10-05T02:22:03.092Z
-updated: 2024-10-07T02:59:16.317Z
+date: 2024-10-09T17:45:10.151Z
+updated: 2024-10-12T20:56:50.429Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Assessment: How Does Google's Pixel Navigate Photography Challenges?"
@@ -82,10 +82,10 @@ Lifewire / Yoona Wagener
  I was unable to test this device’s 50-meter water resistance for swimming or other aquatic workouts, but I did wear it in the shower without experiencing any issue. The manufacturer does note, however, that this wearable isn’t safe for hot showers or other water sports such as scuba diving, diving, and high-speed water sports, generally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comfort: Easy to wear but not as user-friendly
@@ -103,10 +103,10 @@ Lifewire / Yoona Wagener
 ![Amazfit GTS](https://www.lifewire.com/thmb/BCJ0gqS-gzR_dq3WSGazLqPMNCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_05-9f844a14ab734d9291e338b6fa2519da.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
@@ -124,19 +124,6 @@ Lifewire / Yoona Wagener
  This device is also capable of tracking sleep data in a relatively extensive way, complete with sleep phases, times awake when you fell asleep and woke up. The watch never failed to track data and as far as I could tell, sleep and wake times were accurate, but reading the data was a little less straightforward.
 
 ![Amazfit GTS](https://www.lifewire.com/thmb/lrymbZEsmkXZy1YnjpGE5QutCbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_04-109baf1e43444eff9789d9c02e2b2e77.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -164,6 +151,13 @@ Lifewire / Yoona Wagener
 
  While I gathered that a PAI of 100 seemed to be ideal for cardiovascular health, the app further complicated things by suggesting, for example, a 120-minute indoor workout to gain 15 PAI. It was difficult to grasp why that would be worth it or realistic, and like many areas of the software, it felt more flashy and underdeveloped than insightful.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery: Solid but considerably shy of the 14-day claim
 
  The manufacturer bills the battery longevity at an impressive 14 days with typical usage in smartwatch mode, which includes continuous heart rate and sleep monitoring and logging workouts three times a week.
@@ -171,10 +165,10 @@ Lifewire / Yoona Wagener
  That’s pretty much the way I used this device, though with maybe an extra workout or two and with the display in always-on mode, and the battery drained by day seven. On the bright side, it recharged quickly in less than the manufacturer’s 2-hour estimate. Amazfit also claims that the battery can last up to 46 days in basic mode without Bluetooth or heart-rate monitoring turned on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Price: Slightly pricey for what it is
@@ -195,18 +189,18 @@ Lifewire / Yoona Wagener
 
  The Amazfit GTS is comfortable and stylish and performs the basic fitness tracking tasks relatively well, but the confusing ecosystem diminishes the polish. If you love the look of the Apple Watch, this is a budget-friendly look-alike. But if you want a strong balance between performance and looks, the Amazfit GTS may not deliver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Apple Watch SE](https://www.lifewire.com/apple-watch-se-review-5088223)
 * [Fitbit Sense](https://www.lifewire.com/fitbit-sense-review-5085832)
 * [Garmin Vivomove HR](https://www.lifewire.com/garmin-vivomove-hr-review-4843913)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -239,22 +233,14 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-a-global-perspective-your-favorite-travel-youtubers-for-2024/"><u>[New] A Global Perspective Your Favorite Travel Youtubers for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unlock-creative-potential-smart-b-roll-incorporation-for-2024/"><u>[Updated] Unlock Creative Potential Smart B Roll Incorporation for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-create-and-grow-an-online-space-for-beauty-product-reviews/"><u>2024 Approved How To Create and Grow an Online Space for Beauty Product Reviews</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/high-performance-low-cost-dive-into-the-tp-link-archer-a9-router-for-less-than-a-hundred-bucks/"><u>High Performance, Low Cost: Dive Into the TP-Link Archer A9 Router for Less than a Hundred Bucks!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-huawei-p60-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Huawei P60’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-zte-nubia-z60-ultra-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead ZTE Nubia Z60 Ultra Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-tecno-pova-6-pro-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Pova 6 Pro 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-poco-f5-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Poco F5 Pro 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-90-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor 90 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-magic-5-lite-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor Magic 5 Lite Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-m14-4g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy M14 4G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamline-your-webcam-experience-top-18-tools-for-video-capture/"><u>Streamline Your Webcam Experience Top 18 Tools for Video Capture</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transition-tactics-for-a-hassle-free-macos-11-big-sur-upgrade-for-2024/"><u>Transition Tactics for a Hassle-Free macOS 11 Big Sur Upgrade for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-avoid-a-snapbreak-ways-to-maintain-your-snapstreaks/"><u>[New] Avoid a Snapbreak Ways to Maintain Your Snapstreaks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-real-time-screen-replay-on-chrome-pcs/"><u>[New] In 2024, Real-Time Screen Replay on Chrome PCs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-honor-x9a-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor X9a in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-hot-40i-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 40i Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-moto-g24-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Moto G24 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-8t-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 8T Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-process-for-igtv-on-instagram-stories-for-2024/"><u>Step-by-Step Process for IGTV on Instagram Stories for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-battle-of-bot-eloquence-snapchat-triumphs/"><u>The Battle of Bot Eloquence: Snapchat Triumphs?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-monitor-issues-non-compatible-screen-refresh-rates/"><u>Troubleshooting Monitor Issues: Non-Compatible Screen Refresh Rates</u></a></li>
 </ul></div>
 

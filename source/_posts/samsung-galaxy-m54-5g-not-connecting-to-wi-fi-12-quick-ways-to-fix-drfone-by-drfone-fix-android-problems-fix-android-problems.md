@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy M54 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone
-date: 2024-08-28T09:09:07.047Z
-updated: 2024-08-29T09:09:07.047Z
+date: 2024-10-09T16:26:17.775Z
+updated: 2024-10-12T16:05:30.380Z
 tags: 
   - problems
 categories:
@@ -63,18 +63,6 @@ If your device connects to the internet while in Safe Mode, you’ll know you ha
 
 ## Part 5. Check the Android Wi-Fi adapter
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - check adapter](https://images.wondershare.com/drfone/article/2019/04/android-wifi-adapter.jpeg)
 
 If you’re using a Wi-Fi adapter on your device to connect to the internet, you’ll need to make sure this is working. This could be an adapter on your Samsung Galaxy M54 5G itself, especially if you’re using an older device, or if you’re using an adapter to boost the ranger of your router network.
@@ -98,16 +86,11 @@ Every wireless device will have its own codes and making sure they’re matched 
 
 When these numbers are matching, if your Android is still not connecting to wifi, you’ll know this wasn’t the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 7. Fix Android system issues in one click
 
 If none of the solutions above are working, this could indicate a real problem with the firmware and operating system of your Samsung Galaxy M54 5G. Fortunately, a fast solution to get everything working again is to completely repair the software of your phone.
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -143,9 +126,6 @@ Once installed, connect your Samsung Galaxy M54 5G to your computer using a USB 
 
 **Step Five** Now put your phone into Download Mode by following the on-screen instructions, so your device is ready for the repair process. The method for getting your phone into Download Mode will vary depending on your device, so make sure you’re following the right instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - boot in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step Six** Once the software has detected your device in Download Mode, it will automatically begin the repair process. You need to make sure your device stays connected throughout this time, and your computer stays on.
@@ -213,12 +193,16 @@ As you continue to use your Samsung Galaxy M54 5G, the partition cache will fill
 5. Select the Android System Recovery option, followed by Wipe Cache Partition
 6. Restart your device and connect to the internet
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 12. Reset factory settings
 
 ![wifi not working on android - factory settings](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If worse comes to worst, another option you have is to factory reset your Samsung Galaxy M54 5G. As we’ve spoken about above, while using your phone from the day you started using it, your device will fill up with files and data which can become messy and causes bugs.
 
@@ -241,6 +225,12 @@ After all, the presence of app icons on our Android device's home screen is impo
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your Samsung Galaxy M54 5G.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Make Sure if the Missing App Is Installed
 
@@ -318,9 +308,6 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,136,839** people have downloaded it
@@ -337,6 +324,13 @@ The platform will detect your Samsung Galaxy M54 5G's brand. Confirm the Name, M
 
 ![Confirm your Samsung Galaxy M54 5G’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4.** Activate Download de
 
 Follow the instructions to put your Samsung Galaxy M54 5G into Download Mode. Once you are in Download Mode, the firmware will be downloaded automatically.
@@ -348,6 +342,13 @@ Follow the instructions to put your Samsung Galaxy M54 5G into Download Mode. On
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Once finished, click Done and see if your phone has returned to normal.
 
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **More Articles About Android System:**
 
@@ -368,6 +369,13 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 The market has embraced Samsung Galaxy M54 5G  for being the pioneers in the industry. Although the company lacked in providing explicit smartphones, they were still able to catch up with the race. Samsung Galaxy M54 5G C31, known to provide durability of the next level, is taking up the latest shelves of Samsung Galaxy M54 5G smartphones. Although the company promises reliability, there are several problems involving such smartphones.
 
 One prominent solution stated by Samsung Galaxy M54 5G users involves the screen stuck in the boot. If your ****Samsung Galaxy M54 5G  is stuck on the "Samsung Galaxy M54 5G" screen**** for no particular reason, you will have to read this article. As this article tackles all reasons involving the problem, it comes up with the necessary solutions. These solutions will help Samsung Galaxy M54 5G users find solutions for their stuck screens on the boot.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: What Causes Samsung Galaxy M54 5G Screen Stuck on Boot?
 
@@ -404,6 +412,13 @@ The first and most proclaimed technique to refresh Samsung Galaxy M54 5G devices
 A conventional way to solve the issue of a stuck screen in Samsung Galaxy M54 5G is to leave the phone in its position. As you let its battery drain out, the phone will turn off, and you can activate the Samsung Galaxy M54 5G device again by charging it.
 
 Once you restart it this way, all the procedures will initiate again, and the Samsung Galaxy M54 5G device will be as good as new. Draining the battery has given you the leverage to regain control over the Samsung Galaxy M54 5G device again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3: Check For Updates on Samsung Galaxy M54 5G Smartphones
 
@@ -455,6 +470,20 @@ To proceed, tap the "Next" button to download the firmware. As you verify the fi
 
 ![repairing the nokia phone](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 5: Contact the Customer Service Center of Samsung Galaxy M54 5G
 
 If the issue of the ****Samsung Galaxy M54 5G  stuck on the "Samsung Galaxy M54 5G" screen**** continues, you will have to contact the Samsung Galaxy M54 5G device's customer support. With no proper method left for the Samsung Galaxy M54 5G device, the only effective technique is to visit the authorized store for Samsung Galaxy M54 5G smartphones and claim the issue with the Samsung Galaxy M54 5G device. In this way, you might receive or get a fully repaired device with no additional charges if the Samsung Galaxy M54 5G smartphone is under warranty.
@@ -489,9 +518,6 @@ With that, this brings the article on Samsung Galaxy M54 5G smartphones to a con
 
 With all the provided methods, we do hope that you will be able to restore the status of your Samsung Galaxy M54 5G smartphone and make it functional. For the finest results, you have also discovered Dr.Fone – System Repair (Android) as the best solution for repairing such devices.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -504,9 +530,26 @@ With all the provided methods, we do hope that you will be able to restore the s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-horizon-proworks-complete-4k-integrated-solution/"><u>[New] 2024 Approved Horizon ProWorks Complete 4K Integrated Solution</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unleashing-the-potency-of-open-source-video-engines/"><u>[New] 2024 Approved Unleashing the Potency of Open Source Video Engines</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-strategies-for-success-in-the-metaverse-space-for-2024/"><u>[New] Strategies for Success in the Metaverse Space for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/creative-composition-ideal-apps-for-ios-and-android/"><u>Creative Composition Ideal Apps for iOS and Android</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nubia-red-magic-9-proplus-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nubia Red Magic 9 Pro+ Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-skills-for-non-audio-shooting/"><u>In 2024, Essential Skills for Non-Audio Shooting</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-smart-8-pluss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Infinix Smart 8 Pluss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-sony-xperia-10-v-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Sony Xperia 10 V? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-note-12-pro-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi Note 12 Pro 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/prime-applications-transforming-vtuber-voices-on-the-fly-for-2024/"><u>Prime Applications Transforming VTuber Voices on the Fly for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/print-your-vitalsource-textbooks-as-pdfs-a-simple-and-budget-friendly-approach/"><u>Print Your VitalSource Textbooks as PDFs: A Simple & Budget-Friendly Approach</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015884432-quick-guide-to-effective-microphone-testing-techniques/"><u>Quick Guide to Effective Microphone Testing Techniques!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-k70e-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi K70E Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-note-12t-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi Note 12T Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-sony-xperia-1-v-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Sony Xperia 1 V Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-serious-sam-4-fixes-for-pc-performance-issues/"><u>Troubleshooting Serious Sam 4: Fixes for PC Performance Issues</u></a></li>
+</ul></div>
 

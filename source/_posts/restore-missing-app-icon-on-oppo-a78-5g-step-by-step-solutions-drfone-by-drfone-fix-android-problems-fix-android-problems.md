@@ -1,7 +1,7 @@
 ---
 title: Restore Missing App Icon on Oppo A78 5G Step-by-Step Solutions | Dr.fone
-date: 2024-09-01T10:05:06.477Z
-updated: 2024-09-02T10:05:06.477Z
+date: 2024-10-05T19:30:43.666Z
+updated: 2024-10-12T18:11:42.747Z
 tags: 
   - problems
 categories:
@@ -20,7 +20,6 @@ After all, the presence of app icons on our Android device's home screen is impo
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your Oppo A78 5G.
 
-
 ## Part 1: Make Sure if the Missing App Is Installed
 
 Before proceeding with troubleshooting the **missing app icon on your Android** device, it's essential to confirm whether the app is still installed or if it has been accidentally deleted. To do it, you can have a quick check on Google Play:
@@ -29,9 +28,6 @@ Before proceeding with troubleshooting the **missing app icon on your Android** 
 - **Step 2:** Tap your Google profile at the top right and find Manage apps and devices.
 - **Step 3:** Open Manage and select the “Installed” tab.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check if the missing app is installed](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-1.jpg)
 
 Now, see whether you can find the **app icon that disappeared on your Android.** If you can’t find it, it means the app has been accidentally deleted, and you can install it back on your device. However, if it’s confirmed to be installed on your Android but remains missing from your home screen, you can continue the following practice.
@@ -65,6 +61,13 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Re-enable disabled app
 
 **App icons can also disappear on the Android** home screen if you unintentionally or intentionally disable them. Certain phone models even offer a functionality known as 'Freezer,' allowing users to temporarily halt the apps. While in a frozen state, the app remains inactive and doesn't appear on the home screen until you unfrozen it.
@@ -74,6 +77,13 @@ To re-enable the disabled app, you can follow the steps here:
 - **Step 1**. Open the Apps & Notifications on the Settings.
 - **Step 2.** Select the app which icon is missing on your home screen. For example, tap the phone app if the **phone icon disappears on your Android.**
 - **Step 3:** In the App Info, tap Enable.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Reset Android to factory settings
 
@@ -101,6 +111,13 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4,136,839** people have downloaded it
 
@@ -136,9 +153,6 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 
 [<u>Authentication Error Occurred? Here Are 10 Proven Fixes</u>](https://drfone.wondershare.com/android-issue/authentication-error.html)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 When the **app disappears from the home screen of your Android**, it can hinder your ability to access and use the app efficiently. There are several reasons why an app might disappear from your Android home screen, and addressing the issue depends on the specific circumstances.
@@ -156,8 +170,6 @@ In this article, we will also talk about a unique technique to retrieve the data
 When you encounter an Android system crash, before looking for solutions to fix it, make sure you retrieve all your data and information stored on your device. This might sound tedious but a very important step indeed.
 
 [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html) is currently one of the most popular tools to retrieve data from not only broken or damaged, locked devices, and unresponsive devices but also from devices that face an Android system crash. You may try the software for free for scanning the data to understand its work. Dr.Fone’s Data Extraction tool not only retrieves and back-up contacts and messages but also your photos, videos, audio files, WhatsApp, docs, call logs, and other file folders. It is also equipped to retrieve data from the Oppo A78 5G device’s internal memory as well as Google drive.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -199,6 +211,13 @@ You may follow the steps given below to rescue your data from crashed Android de
 7\. Finally, the process will take a few minutes to scan and display your phone data. Select “Recover to Computer” to retrieve all data on your PC as a backup.
 
 ![recover data to computer](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Using Dr.Fone Damage Extraction software is intuitive and very safe. It prevents data loss and allows you to adopt various ways to recover your device from the Android system crash issue.
 
@@ -246,9 +265,6 @@ To uninstall unwanted and incompatible Apps, please follow the steps below.
 
 1\. Visit “Settings” and search for “Application Manager” or “Apps”.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![application manager](https://images.wondershare.com/drfone/article/2017/07/14988991424495.jpg)
 
 Select the App you wish to uninstall. From the options that appear before you, click on “Uninstall” to delete the App from your device.
@@ -273,6 +289,20 @@ If you are constantly facing issues of your Oppo A78 5G crashing, there is a pos
 
 ![press the uninstall option](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 7: Clear cache partition to fix Android crash issue
 
 Clearing cache is a good idea because it cleans your device and reduces the burden on the Android software and gives it enough space to function normally and carry out its operations.
@@ -283,9 +313,23 @@ In case the Android system crash issue is temporary, follow the steps given belo
 
 ![android settings](https://images.wondershare.com/drfone/article/2017/07/14989068987919.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Now tap on “Cached Data”, and then click “OK” to clear all unwanted cache from your device as shown above.
 
 ![](https://images.wondershare.com/drfone/article/2017/07/14988992219452.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 However, if the Android crash problem is such that your phone has frozen, becomes unresponsive, and does not turn on, you must first boot into the Recovery Mode screen.
 
@@ -385,9 +429,6 @@ Whatsoever Android you own, you need to put it in Download Mode, depending on th
 
 Once it downloads and is verified, click the "Fix Now" button to repair the Android successfully. You may need to provide a PIN to confirm the process. Once provided, the next screen shows the progress of the repair process. As it completes, click the "Done" button to conclude fixing the Android system crash issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
@@ -412,9 +453,6 @@ You may also follow the instructions given below to Master set your device in Re
 
 When you are at the Recovery Mode screen, scroll down using volume down key, and from the options given, select “Factory Reset” using the power key.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset](https://images.wondershare.com/drfone/article/2017/07/14988993508337.jpeg)
 
 Wait for your device to perform the task and then:
@@ -425,8 +463,6 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
 ## Super Easy Ways To Deal with Oppo A78 5G Unresponsive Screen
 
 The evolution of smartphones signifies the development of mobile communication technology. Different from the initial years, they are not just used for messaging and calling but have many other applications. Oppo A78 5G cell phones are presently utilized for perusing the Internet and exploring through maps, photography, videography, and numerous other used cases. A development in arranged availability goes hand-in-hand with the development of cell phones.
@@ -434,7 +470,6 @@ The evolution of smartphones signifies the development of mobile communication t
 Oppo A78 5G smartphones are gaining popularity owing to their low costs, high quality, and innovative features. High-resolution cameras, extensive battery life, and lightning-fast processing are just a few of the advantages of these mobile devices. Nevertheless, customers may sometimes need help with issues, such as a non-functioning Oppo A78 5G touchscreen, which may be challenging.
 
 Some common issues might arise for Oppo A78 5G phone users. The Redmi note 4 touch not working is a serious problem. It can only go up to the initialization screen. In this guide, you'll find the information you need to troubleshoot and fix the most common problems reported by Motorola customers.
-
 
 ## **What causes a Oppo A78 5G Screen to be unresponsive?**
 
@@ -538,7 +573,6 @@ Sometimes, Oppo A78 5G smartphones may experience problems with their screen. Th
 
 When following the directions, the user may require more research into some troubleshooting techniques. If this is the case, Dr.Fone Repair is usually the solution. The fact that Dr. Fone can continually tweak his system of unresponsive screens is wonderful news. This helpful tool can fix both black screens and endless starting cycles. That's why it's an integral part of every modern computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -551,9 +585,17 @@ When following the directions, the user may require more research into some trou
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-step-by-step-guide-inserting-captions-in-instagram-clips/"><u>[New] 2024 Approved Step-by-Step Guide Inserting Captions in Instagram Clips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-leading-apps-to-create-professional-youtube-intros/"><u>[New] 5 Leading Apps to Create Professional YouTube Intros</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-integrated-content-the-brands-on-youtube-movement/"><u>[Updated] 2024 Approved Integrated Content The Brands on YouTube Movement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-guide-to-instas-trendy-filters-for-2024/"><u>[Updated] The Ultimate Guide to Insta's Trendy Filters for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y27s-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y27s Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-poco-x5-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Poco X5 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/al-solution-screen-capture-for-youtube-success-for-2024/"><u>Optimal Solution Screen Capture for YouTube Success for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-edgeplus-2023-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Edge+ (2023) Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Google Pixel 8 | Dr.fone</u></a></li>
+</ul></div>
 

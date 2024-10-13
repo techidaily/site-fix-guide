@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Cortana: Expert Advice for Restoring AI Assistant"
-date: 2024-09-29T16:05:36.542Z
-updated: 2024-10-07T02:22:15.114Z
+date: 2024-10-10T17:31:17.054Z
+updated: 2024-10-12T17:36:40.402Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ Jurassic World Evolution is an exciting game where you can create your own park 
 4. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Adjust the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your graphics driver
 
  Graphics card driver is vital to the game performance. So, to prevent Jurassic World Evolution from crashing and avoid other potential issues, you should keep your graphics driver up to date.
@@ -42,15 +49,15 @@ There are two ways you can update the graphics driver:
 ![update graphics driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/01/de-borderless.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -69,15 +76,16 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2-1.jpg)
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files.jpg)
-4. Wait until the process finishes and re-open the game to test.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files.jpg)
+4. Wait until the process finishes and re-open the game to test.
 
  Does Jurassic World Evolution return to normal now? If the crashing issue persists, check out[Fix 3](https://tools.techidaily.com/drivereasy/download/) below.
 
@@ -87,30 +95,23 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-1.jpg)
 2. Mouse over the Jurassic World Evolution tile and click the**icons with three dots** . Then click**Verify** on the pop-up menu.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-1.jpg)
 3. After the process completes, restart your game to test.
 
 Do the crashes disappear now? If not, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Remove conflicting applications
 
  According to other players, some audio applications like**Nahimic Sonic Studio** or**Sonic Radar** will interfere with Jurassic World Evolution and result in the crashing problem. If you have also installed these two programs on your computer, try uninstalling them and see if that helps.
 
  If you’re still unable to play the game, continue to the next fix then.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable overlays
 
@@ -125,13 +126,6 @@ Do the crashes disappear now? If not, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Disable Discord overlay
 
 1. Open Discord and click the**cogwheel icon** .  
@@ -140,13 +134,26 @@ Do the crashes disappear now? If not, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check whether Jurassic World Evolution stops crashing or not. If this method doesn’t give any luck, proceed to the last one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the graphics settings
@@ -162,10 +169,10 @@ Do the crashes disappear now? If not, try the next fix below.
 4. Go Back to the Settings Menu and navigate to the**Graphics** tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-1.jpg)
@@ -196,15 +203,19 @@ Do the crashes disappear now? If not, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unlocking-the-secrets-of-expert-periscope-use/"><u>[New] In 2024, Unlocking the Secrets of Expert Periscope Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-quickly-enable-or-disable-bing-chat-ai-in-windows-11-taskbar-search/"><u>How to Quickly Enable or Disable Bing Chat AI in Windows 11 Taskbar Search</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-v27-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo V27 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Realme C51? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-unveiling-the-secrets-of-video-captioning-in-vimeo/"><u>In 2024, Unveiling the Secrets of Video Captioning in Vimeo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsungs-latest-contender-the-book4-edge-with-elite-chip-seen-as-underperforming-compared-to-iphone-12-benchmark-insights/"><u>Samsung's Latest Contender, the Book4 Edge with Elite Chip, Seen as Underperforming Compared to iPhone 12 - Benchmark Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-combat-windows-camera-loss-of-media/"><u>Strategies to Combat Windows Camera Loss of Media</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-video-shooting-equipment-a-comprehensive-review/"><u>[New] Top Video Shooting Equipment A Comprehensive Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-add-flair-with-gifs-on-snapchat-a-comprehensive-walkthrough/"><u>[Updated] In 2024, Add Flair with GIFs on Snapchat – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-turning-still-memories-into-moments-in-motion/"><u>[Updated] In 2024, Turning Still Memories Into Moments in Motion</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-6-plus-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 6 Plus by Name | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-honor-x9a-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor X9a Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-ideal-apps-to-transform-vtuber-speech-patterns/"><u>In 2024, Ideal Apps to Transform Vtuber Speech Patterns</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-tecno-spark-10-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Spark 10 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keep-your-devices-online-anywhere-utilizing-rokus-wi-fi-sharing-capabilities-for-school-and-hotel-stays/"><u>Keep Your Devices Online Anywhere: Utilizing Roku's Wi-Fi Sharing Capabilities for School & Hotel Stays</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a15-4g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A15 4G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-3d-printing-materials-of-2024/"><u>Top Recommended 3D Printing Materials of 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-nokia-g310-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nokia G310 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 
