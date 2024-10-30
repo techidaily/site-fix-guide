@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Tecno Phantom V Flip | Dr.fone
-date: 2024-10-19T16:55:53.468Z
-updated: 2024-10-24T17:21:21.813Z
+date: 2024-10-23T22:49:58.639Z
+updated: 2024-10-30T11:33:51.606Z
 tags: 
   - problems
 categories:
@@ -127,6 +127,13 @@ A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u
 
 ![android internal storage menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Update the Play Store
 
 An outdated Play Store version may lead to compatibility issues. Open the Google Play Store, go to **Settings**, and tap the **Play Store version**. If an update is available, install it to ensure compatibility with the latest apps.
@@ -151,24 +158,18 @@ Incorrect date and time settings may disrupt the authentication process. Verify 
 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Review Download Restrictions
 
 Device settings or parental controls might impose restrictions on certain app downloads. Examine the download restrictions in the Tecno Phantom V Flip device settings and adjust them accordingly to allow for the installation of desired apps.
 
 ![download restrictions on android](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-12.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Restart the Tecno Phantom V Flip device
 
@@ -198,6 +199,13 @@ Below are some possible causes of Tecno Phantom V Flip screen unresponsiveness, 
 
 - **Touchscreen problems:**Sometimes, the touchscreen itself can become unresponsive for various reasons. For instance, Tecno Phantom V Flip Y2 and 5A users may face this issue if they have accidentally dropped their phone, exposed it to water, or used an incompatible screen protector. It can result in a damaged or malfunctioning touchscreen, making it difficult or impossible to operate the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Common Solutions To Solve A Tecno Phantom V Flip Screen Unresponsive
 
 In the previous section, we identified the possible causes of Tecno Phantom V Flip screen unresponsiveness, including soft-bricked software, hardware problems, and touchscreen issues. While the underlying reasons for screen unresponsiveness can be varied and complex, some common solutions can help resolve the issue. Here are three of the most common solutions to address tablet screen unresponsiveness, no matter the Tecno Phantom V Flip model.
@@ -210,31 +218,11 @@ Restarting the phone is typically the initial solution that comes to mind when w
 
 It is the most commonly used method to fix Tecno Phantom V Flip's touch screen and power button issues, such as unresponsiveness. By restarting the Tecno Phantom V Flip device, background processes are disabled, and memory is freed up, allowing programs to run smoothly and potentially resolve the problem. To restart a Tecno Phantom V Flip device, press the Power and Volume Up buttons simultaneously, and release the Power button once the Tecno Phantom V Fliplogo appears.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2. Leave The Phone And Let The Battery Drain Completely
 
 ![low battery](https://images.wondershare.com/drfone/article/2023/03/drain-your-phone-battery.jpg)
 
 Sometimes, the tablet screen may become unresponsive due to a software issue preventing the Tecno Phantom V Flip device from functioning correctly. Leaving the Tecno Phantom V Flip device unused and draining the battery helps resolve these issues. After fully discharging the battery, the Tecno Phantom V Flip device can be recharged and turned back on, potentially resolving the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3. Contact Custom Service
 
@@ -254,13 +242,6 @@ You can clear your cached data using the default settings.
 - To clear the cache, select **Clear Cache**.
 
 ![clear cached data on xiaomi 5a](https://images.wondershare.com/drfone/article/2023/03/clear-cached-data-on-xiaomi5a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5. Back Up And Factory Reset
 
@@ -324,13 +305,6 @@ One primary reason behind cellular network unavailability glitches lies in unsta
 
 Another contributing factor is the geographical terrain. In remote or sparsely populated areas, cellular tower coverage might be limited. It causes a signal disturbance or complete loss of the network.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Network Congestion
 
 During peak usage hours or in densely populated areas, network congestion can also be a cause. It leads to temporary unavailability of the cellular network for voice calls. When the network is overloaded with traffic, it might struggle to accommodate more voice calls. That results in connectivity issues.
@@ -338,6 +312,13 @@ During peak usage hours or in densely populated areas, network congestion can al
 ### 4\. Technical Glitches
 
 Furthermore, technical glitches within the Tecno Phantom V Flip device or network infrastructure can cause this issue. These glitches could range from software bugs to hardware malfunctions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Battery or Power Issues
 
@@ -375,6 +356,13 @@ Another crucial step in resolving this error involves ensuring that the Airplane
 
 ![toggle airplane mode](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 3. Selecting the Network Operator of the Tecno Phantom V Flip device
 
 In certain instances, manually selecting your network operator can help. It effectively resolves the "**Cellular Network Not Available for Voice Calls Android**" error on your Tecno Phantom V Flip. By choosing the network operator manually, you ensure a deliberate connection to a specific carrier. This potentially bypasses issues related to automatic network selection. Follow these steps to select your network operator manually:
@@ -382,6 +370,13 @@ In certain instances, manually selecting your network operator can help. It effe
 - **Step 1.** Access "Settings" on your Tecno Phantom V Flip, then tap on "Connections." From there, navigate to "Mobile Networks" and proceed by selecting "Network Operators."
 
 ![open mobile network carriers](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** Look for the "Automatically Select" toggle, which will be turned on. Toggle it off to see available networks and choose the one best suited to your device.
 
@@ -395,13 +390,6 @@ Sometimes, resolving the "**Cellular Network Not Available for Voice Calls**" er
 
 ![restart android device](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 5. Enable Roaming Settings
 
 There are situations where you're in an area with weak or no coverage from your primary network provider. In such a case, enabling roaming settings on your Tecno Phantom V Flip can sometimes resolve the issue at hand. Enabling roaming allows your device to connect to partner networks. This extends your coverage beyond your home network's reach. Follow these steps to enable roaming settings on your Tecno Phantom V Flip:
@@ -413,6 +401,13 @@ There are situations where you're in an area with weak or no coverage from your 
 - **Step 2.** Presently, you will encounter the "Data Roaming" option. Toggle this option on to enable data roaming on your device and resolve the issue.
 
 ![turn on data roaming](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 6. Update Android Smartphone
 
@@ -458,13 +453,6 @@ Despite all your attempts, the **cellular network not available for voice calls*
 
 Dr.Fone specializes in resolving a wide array of Android system issues, including the notorious [<u>black screen of death</u>](https://drfone.wondershare.com/samsung/fix-samsung-black-screen-after-dropping.html). With this tool, users can effortlessly restore their Android system to normal functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Features of Wondershare Dr.Fone
 
 1. Fone’s advanced repairing mechanism has the ability to repair even the bricked Android devices.
@@ -474,10 +462,10 @@ Dr.Fone specializes in resolving a wide array of Android system issues, includin
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
@@ -544,24 +532,16 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ow-to-create-impactful-online-ads-on-a-limited-budget/"><u>[New] How to Create Impactful Online Ads on a Limited Budget</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-leveraging-luminaries-for-greater-exposure/"><u>[New] In 2024, Leveraging Luminaries for Greater Exposure</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-perfect-pace-essential-strategies-to-create-engaging-slow-motion-videos-and-images-for-instagram-audiences/"><u>[New] In 2024, Perfect Pace Essential Strategies to Create Engaging Slow Motion Videos and Images for Instagram Audiences</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-veiled-glance-at-digital-diary-fb/"><u>[Updated] 2024 Approved Veiled Glance at Digital Diary (FB)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-education-evolved-embracing-vr-technology-for-2024/"><u>[Updated] Education Evolved Embracing VR Technology for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/best-twitter-video-downloaders-how-to-save-twitter-videos/"><u>Best Twitter Video Downloaders How to Save Twitter Videos</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-your-display-from-shimmering-ultimate-screen-stabilization-guide/"><u>How to Stop Your Display From Shimmering – Ultimate Screen Stabilization Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-v27-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo V27 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://blog-min.techidaily.com/i-migliori-cinque-lettori-multimediali-uhd-4k-pcmac-recensioni-and-download-scelta-finale/"><u>I Migliori Cinque Lettori Multimediali UHD 4K PC/Mac: Recensioni & Download | Scelta Finale</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-charting-a-course-budget-planning-for-youtube-growth/"><u>In 2024, Charting a Course Budget Planning for YouTube Growth</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oneplus-ace-2v-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on OnePlus Ace 2V – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-x-flip-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo X Flip Black and White | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-f23-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo F23 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide/"><u>[New] 2024 Approved How to Create Impactful Valorant Thumbnails A Compreayer's Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-perfecting-space-and-system-the-ultimate-preparation-guide/"><u>[New] Perfecting Space & System The Ultimate Preparation Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-vsr-video-vaulter-reviews-comprehensive-guide/"><u>[New] VSR Video Vaulter Reviews Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-composing-news-wrap-up-scripts-for-2024/"><u>[Updated] Composing News Wrap-Up Scripts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unlocking-youtubes-hidden-gems-keyword-research/"><u>2024 Approved Unlocking YouTube's Hidden Gems Keyword Research</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-evaluation-of-the-imo-chat-application-features/"><u>Expert Evaluation of the Imo Chat Application Features</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-f14-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy F14 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y100i-power-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y100i Power 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y200e-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y200e 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-n30-se-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 SE Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-complete-guide-of-top-video-language-translators/"><u>Updated 2024 Approved Complete Guide of Top Video Language Translators</u></a></li>
 </ul></div>
 
