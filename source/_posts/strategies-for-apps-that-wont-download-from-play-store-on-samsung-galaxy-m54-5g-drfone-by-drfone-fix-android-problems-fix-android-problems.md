@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Samsung Galaxy M54 5G | Dr.fone
-date: 2024-10-29T10:31:32.561Z
-updated: 2024-10-29T16:08:00.098Z
+date: 2024-10-30T22:49:49.657Z
+updated: 2024-11-05T05:05:19.406Z
 tags: 
   - problems
 categories:
@@ -62,6 +62,13 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 
 ![dr.fone main window interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,307,222** people have downloaded it
@@ -104,13 +111,6 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![dr.fone firmware download successfully](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Initiating the system repair process will be accompanied by a progress bar visible on the screen. Upon completion, a prompt window will emerge, presenting a completion message.
 
 - If you can download apps successfully, click **Done**to close the tool.
@@ -118,11 +118,25 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![dr.fone completion message window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
 
 ## Part IV. 8 Other Methods of Resolving Common App Downloading Issues
 
 Here are 8 other methods to troubleshoot and resolve common app downloading problems:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Check Internet Connection
 
@@ -151,13 +165,6 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the Samsung Galaxy M54 5G device settings, select **Accounts**, and ensure your Google account is active and synced.
 
 ![syncing google account on device](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check Date and Time Settings
 
@@ -352,6 +359,13 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![drfone system repair for ios](https://images.wondershare.com/drfone/product-2021/system-repair/swp2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2B (For Android)**: Click **Start.** On the next window, choose the **Brand, Name, Model, Country,** and **Carrier** of your smartphone, then click **Next**.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -362,6 +376,13 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4,262,204** people have downloaded it
 
 ## Conclusion
@@ -369,13 +390,6 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 Our increasing reliance on smartphones has led to amazing advancements in new technologies. However, lingering issues such as your **phone screen not turning on** or your **phone screen being black but still working** are ongoing problems to many. That’s why learning how to prevent these events is essential to take care of your smartphone.
 
 Doing all the recommended methods above usually solves the case. If the different fixes don’t work for you, Dr.Fone – System Repair for iOS and Android can help resolve all your problems within less than 10 minutes. You can download it for free on Windows and Mac to test it yourself.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Cellular Network Not Available for Voice Calls On Samsung Galaxy M54 5G
 
@@ -392,13 +406,6 @@ Facing the "**Cellular Network Not Available for Voice Calls Android**" error ca
 ### 1\. Internet Access
 
 One primary reason behind cellular network unavailability glitches lies in unstable internet access. Voice calls over cellular networks often require a stable internet connection. When this connection fluctuates or drops, it can result in the dreaded error message.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Terrain Coverage
 
@@ -440,13 +447,6 @@ Moreover, with it, you can ensure your device is connected to a reliable network
 
 ![checking network availability](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 2. Check the Airplane Mode of the Smartphone
 
 Another crucial step in resolving this error involves ensuring that the Airplane Mode is disabled. This mode, when activated, disables all wireless connections. It also includes cellular networks, which could lead to connectivity issues. Follow these simple steps to check and disable Airplane Mode on your device:
@@ -462,13 +462,6 @@ In certain instances, manually selecting your network operator can help. It effe
 - **Step 1.** Access "Settings" on your Samsung Galaxy M54 5G, then tap on "Connections." From there, navigate to "Mobile Networks" and proceed by selecting "Network Operators."
 
 ![open mobile network carriers](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Look for the "Automatically Select" toggle, which will be turned on. Toggle it off to see available networks and choose the one best suited to your device.
 
@@ -490,6 +483,13 @@ There are situations where you're in an area with weak or no coverage from your 
 
 ![open mobile network connections](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Presently, you will encounter the "Data Roaming" option. Toggle this option on to enable data roaming on your device and resolve the issue.
 
 ![turn on data roaming](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-8.jpg)
@@ -501,6 +501,13 @@ Updating your Samsung Galaxy M54 5G's OS to the latest version can often resolve
 - **Step 1.** In your device's Settings, scroll through to find the "Software Update" option. Select it, and on the subsequent screen, verify the availability of any updates.
 
 ![open software update settings](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** If an update is accessible, select the 'Download and Install' choice. Then, proceed by following the prompts displayed on the screen to finalize the process.
 
@@ -517,6 +524,13 @@ Performing a factory reset is a drastic but effective measure. It can resolve pe
 - **Step 2.** You will need to tap "Reset" to confirm your choice. Then, follow the on-screen guidelines carefully to complete the reset process.
 
 ![perform factory reset](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 8. Contact Carrier Provider
 
@@ -545,13 +559,6 @@ Dr.Fone specializes in resolving a wide array of Android system issues, includin
 3. It boasts the highest success rate when it comes to fixing Android devices.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -603,13 +610,6 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 
 ![drfone](https://images.wondershare.com/drfone/activity/icon-que.svg) What might be causing my SIM card to not display a network?
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -624,20 +624,21 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-mastermind-knowledge-capture-via-mematics-app-for-2024/"><u>[New] Mastermind Knowledge Capture via Mematic's App for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-assessing-instagrams-limits-on-posted-videos-for-2024/"><u>[Updated] Assessing Instagram's Limits on Posted Videos for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-planting-prowess-in-valheim-uncovering-premium-saplings/"><u>[Updated] In 2024, Planting Prowess in Valheim Uncovering Premium Saplings</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-thumbnail-size-mastery-for-higher-traffic-videos/"><u>[Updated] In 2024, Thumbnail Size Mastery for Higher Traffic Videos</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nubia-z50s-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nubia Z50S Pro Unlock Without Password</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-filmmakers-pathway-to-anime-subscription-buttons-in-filmora/"><u>In 2024, Filmmaker’s Pathway to Anime Subscription Buttons in Filmora</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-gionee-f3-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Gionee F3 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/itel-s23plus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel S23+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nokia-c210-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C210 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-13c-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi 13C Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlocking-the-secrets-of-your-pcs-print-job-records-a-comprehensive-walkthrough-for-windows-10-users/"><u>Unlocking the Secrets of Your PC's Print Job Records - A Comprehensive Walkthrough for Windows 10 Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-seamless-integration-of-phone-and-pc-timelines-with-zoom-meetings/"><u>[New] 2024 Approved Seamless Integration of Phone & PC Timelines with Zoom Meetings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-elevate-your-game-advanced-ps4-recording-strategies-with-obs/"><u>[New] In 2024, Elevate Your Game Advanced PS4 Recording Strategies with OBS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ransform-your-youtube-experience-with-bespoeid-shorts-thumbnails-for-2024/"><u>[New] Transform Your YouTube Experience with Bespoeid Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-17-solutions-for-removing-picture-outlines/"><u>[Updated] Prime 17 Solutions for Removing Picture Outlines</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-note-12t-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi Note 12T Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-redmi-note-12-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi Note 12 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-integrating-ai-in-video-production-game-streaming-edition/"><u>In 2024, Integrating AI in Video Production Game Streaming Edition</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-lava-yuva-3-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Lava Yuva 3 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-x7b-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor X7b Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-s23plus-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel S23+ Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/star-wars-jedi-fallen-order-overcoming-initialization-hurdles-and-getting-play-time/"><u>Star Wars Jedi: Fallen Order - Overcoming Initialization Hurdles and Getting Play Time</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-idevices-with-questionable-worth-a-critical-review/"><u>Top 4 iDevices with Questionable Worth: A Critical Review</u></a></li>
 </ul></div>
 
