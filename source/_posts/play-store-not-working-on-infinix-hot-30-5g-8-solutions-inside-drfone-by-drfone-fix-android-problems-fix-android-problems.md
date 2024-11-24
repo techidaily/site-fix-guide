@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Infinix Hot 30 5G? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:17.209Z
-updated: 2024-07-15T06:52:17.209Z
+date: 2024-11-23T20:10:54.782Z
+updated: 2024-11-24T21:44:24.153Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ A functional Google Play Store is crucial for Android users to access, update, a
 
 In this guide, discover reliable solutions when your **Google Play Store is not responding**. The article will teach you how to tackle these problems and ensure a seamless app experience. Don't let technical glitches hinder your digital journey—follow these troubleshooting steps for a swift resolution. Explore the page below to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![woman annoyed on phone not working](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-01.jpg)
 
 ## Part I. 7 Common Google Play Store Issues Users Encounter
@@ -29,9 +26,6 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Inability To Open the Play Store
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
@@ -48,9 +42,6 @@ The dreaded "Not Responding" message can bring usability to a standstill. Users 
 
 When downloads and installations fail, you will be unable to enjoy new apps or updates. This issue can be annoying when trying to access crucial software improvements or security updates.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Authentication and Account Issues
 
 Problems with authentication and account access can lock users out of their Google accounts on the Play Store. It prevents users from purchasing or downloading apps. The issue not only hampers functionality but also raises security concerns.
@@ -80,6 +71,10 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 Encountering issues with the Google Play Store can be frustrating. It disrupts your ability to download, update, or access essential apps. Here are seven quick solutions when your **Google Play Store unfortunately has stopped.**
 
 ![fixing mobile phone issues vector image](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear Cache and Data
 
@@ -111,6 +106,10 @@ Restore your device's app settings to default for improved functionality. Below 
 - **Step 2:** Tap the three dots in the top-right corner and choose **Reset app preferences**.
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Re-add Google Account
 
@@ -186,8 +185,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
 ## Effective Methods on How To Take Viruses Off Your Phone
 
 Cell phones have become a part of a person’s daily life. It offers convenience and connectivity at your fingertips. Yet, these handy devices are prone to viruses when used carelessly. Viruses can infiltrate your phone through unverified downloads, unsecured networks, or malicious links. This can compromise your data and device performance.
@@ -195,6 +192,10 @@ Cell phones have become a part of a person’s daily life. It offers convenience
 In this article, you’ll explore practical methods on **h ow to take a virus off your phone**. From simple preventive measures to specific solutions, this guide aims to equip you with practical strategies, ensuring a safer and smoother mobile experience by safeguarding your phone against the perils of viruses.
 
 ![phone with virus logo](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why You Get Mobile Viruses in the First Place
 
@@ -227,9 +228,6 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![dr.fone homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,391,426** people have downloaded it
@@ -237,6 +235,10 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 - **Step 2:** Choose either **Android** or **iPhone**. In this example, iPhone shall be selected. For Android devices, simply follow and mirror the prompts that will follow.
 
 ![system repair os options](https://images.wondershare.com/drfone/guide/system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Select **iOS Repair** to proceed.
 
@@ -282,6 +284,10 @@ For iPhones, here’s how you can do it:
 - **Step 4:** Your phone should now be in safe mode.
 
 ![ios safe mode](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Downloading Anti-Virus Software
 
@@ -330,10 +336,11 @@ In most cases, incoming calls going to voicemail without ringing are common. How
 
 This article will discuss why incoming **phone calls go straight to voicemail** and how to fix the problem. We’ll also show you how to use Wondershare Dr.Fone, a powerful Android System Repair tool, to solve such issues. So, if you’re uncertain why that last **call went straight to voicemail**, keep reading, and we’ll cover everything you need to know.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![phone voicemail notification representation](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Not Ringing? Here’s Why Calls on Your Phone Go Straight to Voicemail
 
@@ -361,6 +368,10 @@ One reason calls go **straight to voicemail without ringing** is if you enabled 
 - **Step 1:** Open the **Phone Dialer** app on your device, then tap the **menu** icon and select **Settings**.
 
 ![phone dial app settings](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Navigate to **Supplementary services** > **Call forwarding**.
 
@@ -481,9 +492,17 @@ Dr.Fone supports over 1000 Android models, including unlocked Infinix Hot 30 5G 
 
 ![dr.fone system repair toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **Android** as the Infinix Hot 30 5G device type.
 
 ![select device type on dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Click **Start** to begin repairing your smartphone.
 
@@ -500,6 +519,10 @@ Dr.Fone supports over 1000 Android models, including unlocked Infinix Hot 30 5G 
 - **Step 7:** Wait while the app downloads the firmware; once done, click **Fix Now**.
 
 ![firmware downloaded ready to use](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** Enter the code in the input box to verify the Infinix Hot 30 5G device information in the dialogue box, then click **Confirm**.
 
@@ -527,7 +550,6 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 **4,215,287** people have downloaded it
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -540,9 +562,23 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unleash-creativity-with-ezvides-tool-for-capturing-your-desktop/"><u>[New] Unleash Creativity with EZvide's Tool for Capturing Your Desktop</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unleash-the-full-potential-of-your-android-device-with-obs-studio/"><u>[Updated] In 2024, Unleash the Full Potential of Your Android Device with OBS Studio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-visionarys-toolkit-for-personalized-animation-techniques/"><u>[Updated] The Visionary's Toolkit for Personalized Animation Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-getting-started-audacitys-guide-to-microphone-use-on-mac/"><u>2024 Approved Getting Started Audacity's Guide to Microphone Use on Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unlock-the-secrets-crafting-captivating-instagram-unboxing-videos/"><u>2024 Approved Unlock the Secrets Crafting Captivating Instagram Unboxing Videos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-f23-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo F23 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-guide-to-iphone-reflections-in-landscapes/"><u>In 2024, The Essential Guide to iPhone Reflections in Landscapes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-the-art-of-streaming-via-obs-into-social-networks/"><u>Mastering the Art of Streaming via OBS Into Social Networks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-find-n3-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo Find N3 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-xiaomi-redmi-k70e-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Redmi K70E? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-pova-6-pro-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Pova 6 Pro 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-meizu-21-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Meizu 21 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/securely-sharing-video-on-youtube-with-settings/"><u>Securely Sharing Video on YouTube with Settings</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+</ul></div>
 

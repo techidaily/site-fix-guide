@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Infinix Smart 7? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:26.543Z
-updated: 2024-07-15T06:52:26.543Z
+date: 2024-11-17T20:32:36.671Z
+updated: 2024-11-24T20:53:47.647Z
 tags: 
   - problems
 categories:
@@ -26,9 +26,6 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Inability To Open the Play Store
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
@@ -63,6 +60,10 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 
 ![man having issues on mobile phone](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Network issues.**Unstable or poor internet connections can disrupt the communication between the Infinix Smart 7 device and the Play Store. It can lead to frequent crashes.
 - **Outdated Play Store version.**Running an outdated version of the Play Store may result in compatibility issues. The lack of essential updates can cause the application to stop unexpectedly.
 - **Cache and data accumulation**. Over time, cached data and accumulated data in the Play Store can become corrupted. It can hinder the smooth operation of your phone and contribute to sudden stops.
@@ -84,6 +85,10 @@ Revitalize your Google Play Store by addressing performance issues. Clearing cac
 
 ![clearing cache and date on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Play Store
 
 Enhance your Play Store's functionality by ensuring it's up-to-date. This method suits those who haven't updated their Google Play Store for a long time. Follow the steps below.
@@ -92,6 +97,14 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 - **Step 2:** Select **Settings** and scroll down to find the **Play Store version**. Install any available updates.
 
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check Internet Connection
 
@@ -105,6 +118,10 @@ Restore your device's app settings to default for improved functionality. Below 
 - **Step 2:** Tap the three dots in the top-right corner and choose **Reset app preferences**.
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Re-add Google Account
 
@@ -153,6 +170,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone device information window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Simply click **Done** on the prompt window displaying a confirmation message to exit the tool if your Infinix Smart 7 starts successfully. In the event that the Infinix Smart 7 device fails to start, select **Try Again** to initiate the process once more.
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -173,6 +194,10 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,131,376** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -232,8 +257,6 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Infinix Smart 7, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Infinix Smart 7 devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix "Unfortunately, Settings Has Stopped"
@@ -266,13 +289,14 @@ In the next window, you need to fill in some necessary information like the name
 
 ![Android settings not responding - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Enter Download Mode
 
 Now, you need to take your device into Download mode. For this, you need to follow the onscreen instruction according to your device. Click “Next” and you will notice the firmware downloading progress on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 5: Repair the Issue
@@ -295,9 +319,6 @@ Like RAM, wiping cache is also vital so as to make the Infinix Smart 7 device’
 
 ![Android settings not responding - cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: Factory reset your Android
 
 You can also opt for Factory resetting your device to fix the issue of Settings keeps stopping. By removing everything from the Infinix Smart 7 device, it will make your device run properly. If you have important data on your device, please make sure to [create a backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before taking action if you don’t want to lose it. The steps are as follows.
@@ -336,11 +357,6 @@ In this article we are going to look at how you can fix your device if you are s
 
 Before we can learn how to fix a bricked device, it is important that you are able to save the data that is on the Infinix Smart 7 device. Having the data saved somewhere else will be the added insurance you need in case anything goes wrong during the process. There are very few software solutions in the market to help you get back data from a bricked device. One of these and the most reliable is [Wondershare Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html).
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st Android smartphone and tablet recovery software.
@@ -382,15 +398,16 @@ Step 6: Then Dr.Fone will display all the recoverable file types. You can click 
 
 ![bricked android phone data recovery-click on Recover](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <iframe width="750" height="415" src="https://www.youtube.com/embed/m12WULZ-6aA" frameborder="0" allowfullscreen=""></iframe>
 
 ## Part 2: How to Fix Your Bricked Android Phone
 
 Android devices are usually very flexible in allowing users to flash ROM but sometimes an incorrect process can result in a bricked device. While there are few solutions to this problem, here are a few things you can do;
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### When the Infinix Smart 7 device Boots Straight into Recovery
 
 If the Infinix Smart 7 device can boot to the recovery screen, you can find an alternative ROM to install and copy it your device. Installation can then be done in the recovery menu. If the Infinix Smart 7 device is booting to recovery mode there is a chance that it can be fixed.
@@ -419,6 +436,10 @@ Step 5: Go to “Wipe data/ factory reset.”
 
 ![bricked android phone data recovery-Wipe data/ factory reset](https://images.wondershare.com/drfone/others/fix-bricked-android-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6: Finally reboot the Infinix Smart 7 device by selecting “Reboot system now.” This should fix the problem. You may also want to flash the same ROM or try a new one.
 
 If the above methods don’t work, try one of the following options.
@@ -443,9 +464,6 @@ If you are planning on installing custom ROM you need to install Custom Recovery
 
 While installing Custom ROM can actually be a great way to customize your device, it is also the leading reason for bricked devices. Therefore ensure that you understand what you are doing when you decide to customize your device. Learn as much as you can about the process before attempting everything.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -458,9 +476,21 @@ While installing Custom ROM can actually be a great way to customize your device
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-professional-editors-showdown-filmora-vs-democracy-creator-features/"><u>[New] 2024 Approved Professional Editors Showdown Filmora Vs. Democracy Creator Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-mp4-to-fb-transcoder/"><u>2024 Approved Top MP4-to-FB Transcoder</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-overcome-steams-persistent-disk-write-glitches-effortlessly/"><u>Effective Strategies to Overcome Steam's Persistent Disk Write Glitches Effortlessly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-lava-blaze-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-m6-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco M6 5G on Mac?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-magic-5-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor Magic 5 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-play-7t-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor Play 7T Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-v27-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo V27 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-infinix-hot-40i-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Infinix Hot 40i Android SIM Unlock APK</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-15-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 15</u></a></li>
+</ul></div>
 

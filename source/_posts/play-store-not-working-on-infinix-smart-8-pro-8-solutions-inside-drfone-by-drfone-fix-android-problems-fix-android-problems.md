@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Infinix Smart 8 Pro? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:31.160Z
-updated: 2024-07-15T06:52:31.160Z
+date: 2024-11-18T16:16:05.916Z
+updated: 2024-11-24T21:24:11.977Z
 tags: 
   - problems
 categories:
@@ -66,14 +66,15 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 - **Google account problems**. Authentication issues, incorrect credentials, or other problems with the linked Google account can disrupt the Play Store's functionality. This can also lead to repeated crashes.
 - **System glitches and bugs.**Inherent glitches and bugs within the Android operating system may affect the Play Store's performance. They can cause your device to stop unexpectedly.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part III.7 Quick Solutions To Resolve Play Store Not Working Issues
 
 Encountering issues with the Google Play Store can be frustrating. It disrupts your ability to download, update, or access essential apps. Here are seven quick solutions when your **Google Play Store unfortunately has stopped.**
 
 ![fixing mobile phone issues vector image](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear Cache and Data
 
@@ -122,9 +123,6 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 - **Step 1:** Access **Settings** and go to **Apps** or **Application** **Manager**.
 - **Step 2:** Find **Google Play Store** and tap on **Uninstall Updates**. Confirm the action and restart the Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
 
 ### Perform a System Update
@@ -152,13 +150,25 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone android problems window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
 
 ![dr.fone device information window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Simply click **Done** on the prompt window displaying a confirmation message to exit the tool if your Infinix Smart 8 Pro starts successfully. In the event that the Infinix Smart 8 Pro device fails to start, select **Try Again** to initiate the process once more.
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
 
@@ -187,11 +197,13 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
 
 Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog of our lives. Be it in the professional era or personal (gossips, oomph) stuffs, it is a crucial engaging kind of application. WhatsApp is the slow poison yet a useful tool used worldwide after call logs or messages. Imagining a day without is enough to put someone off. And if one has recently faced a problem in WhatsApp crashing or not opening, then it is enough to give a heart break. It can be due to Cache memory piled up, storage running out of space, WhatsApp components getting corrupted. In such a case, resolving the problem by using an effective solution is very important! Don’t worry and wander as we will provide impeccable range of fixes to bid bye to WhatsApp stopping problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause 1: WhatsApp-related Firmware Components went wrong
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -227,9 +239,6 @@ Next will be the information screen. Simply enter the model, brand and other det
 
 Subsequently, you need to go along with the onscreen instructions. This will boot your device in the download mode. The step is necessary to download the firmware. When you follow the steps, you need to click “Next”. The program will then start downloading the firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![whatsapp stopping - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 **Step 5: Repair Android**
@@ -264,6 +273,10 @@ Insufficient storage could be the other reason why for your WhatsApp has stopped
 
 - Firstly, go to Settings and check the storage. Make sure it is enough i.e. at least 100 to 200MB.
 - Secondly, start eliminating the apps that are no longer needed. This will indeed create more space in your device and will let your WhatsApp wok properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cause 5: Gmail Account no longer valid or hacked
 
@@ -309,8 +322,6 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
 
-
-
 ## App Won't Open on Your Infinix Smart 8 Pro? Here Are All Fixes
 
 It is not a very rare phenomenon where an App won't open, crash abruptly or face trouble while launching on an Android device. Many Android phone users also add to the fact that whenever they try to launch an App, it keeps loading but does not run smoothly, as it should in normal circumstances.
@@ -320,6 +331,10 @@ In such a scenario it is obvious for Android Smartphone users to look for possib
 Many people are also interested in knowing about the causes behind why an App won't open or why multiple/all Apps won’t open. This article will answer your query about why won't my App open on an Android phone by listing a few probable causes for the problem.
 
 Here are all the fixes you need if an App won’t open on your Infinix Smart 8 Pro. Read on to find out all about why Apps won't open on your Infinix Smart 8 Pro and solutions to overcome such a problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Possible reasons for Apps won't open
 
@@ -340,8 +355,6 @@ The causes for the problem to occur are many and no specific reason can be estab
 You have already understood ‘why won't your app open?’ at the start of this article. But, you are not happy with the traditional solutions to fix the app won't open issue.
 
 Well, in such a case [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can prove to be your savior. It resolves failed Android system update issues, crashing apps, and black screen of death. It can also get an unresponsive or bricked Android device or boot loop stuck device fixed with one click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -379,9 +392,6 @@ Step 1: You got to boot the Android device under Download mode, as it’s import
 
 - Android devise with a ‘Home’ button – Press together ‘Volume Down’, ‘Home’, and ‘Power’ buttons together for 5 to 10 seconds after turning off the Infinix Smart 8 Pro device. Release them afterward and click the ‘Volume Up’ button to get into the ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![boot android in download mode with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - When there is no ‘Home’ button – Turn off the Infinix Smart 8 Pro device and then for 5 to 10 seconds, keep the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons pressed. Tap the ‘Volume Up’ button after releasing all the buttons to enter the ‘Download’ mode.
@@ -418,6 +428,10 @@ Follow the steps given below to update the app which won't open on your phone:
 
 ![Update All](https://images.wondershare.com/drfone/article/2017/06/14984183782889.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once the App is updated, close all Apps and tabs running in the background. Now try to launch the app once again. If it opens, your problem is solved. If not, DO NOT worry as there are more ways to help you.
 
 2\. Force Stop the App
@@ -450,6 +464,14 @@ Carefully follow the step-by-step instructions given below to clear all App cach
 
 ![Clear data](https://images.wondershare.com/drfone/article/2017/06/14984585184488.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: 3 Common fix if all Apps won’t open on Android
 
 In this segment, we will discuss solutions to the problem if all your Apps won't open. They are simple and easy to follow and solve the error in no time.
@@ -480,9 +502,6 @@ Restarting your Infinix Smart 8 Pro to fix an error might sound old school but i
 
 • Now click on “Restart”.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on “Restart”](https://images.wondershare.com/drfone/article/2017/06/14984184913200.jpg)
 
 Your phone will automatically restart and once it does, you can try to launch the App. You may also restart your Infinix Smart 8 Pro by pressing the power button for about 15-20 seconds.
@@ -507,7 +526,6 @@ Your phone will now reboot and will be required to set up from scratch.
 
 So go ahead and try them out now!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -520,9 +538,18 @@ So go ahead and try them out now!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-action-packed-angling-best-fishing-cameras-ranked/"><u>[New] Action-Packed Angling Best Fishing Cameras Ranked</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reveal-and-receive-the-most-exciting-sites-for-buying-mystery-boxes/"><u>[Updated] Reveal and Receive The Most Exciting Sites for Buying Mystery Boxes</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/attenuating-audio-gradually-in-fl-projects-for-2024/"><u>Attenuating Audio Gradually in FL Projects for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-7-plus-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 7 Plus to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-poco-m6-pro-4g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Poco M6 Pro 4G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-resolve-problems-with-the-realtek-rtl8723be-network-adapter-drivers/"><u>How to Resolve Problems with the Realtek RTL8723BE Network Adapter Drivers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-seipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone SE/iPad/iPod</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-a60s-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel A60s Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-13t-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi 13T Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>
 

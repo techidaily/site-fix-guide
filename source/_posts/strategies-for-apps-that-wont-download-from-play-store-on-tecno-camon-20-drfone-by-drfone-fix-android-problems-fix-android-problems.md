@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Tecno Camon 20 | Dr.fone
-date: 2024-11-11T16:28:24.769Z
-updated: 2024-11-15T07:59:25.535Z
+date: 2024-11-23T18:04:46.620Z
+updated: 2024-11-24T21:55:11.939Z
 tags: 
   - problems
 categories:
@@ -66,6 +66,10 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 
 **4,307,222** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features
 
 The summarized points show why Dr.Fone is a flexible and powerful tool for Android users with various phone models.
@@ -104,6 +108,10 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![dr.fone firmware download successfully](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Initiating the system repair process will be accompanied by a progress bar visible on the screen. Upon completion, a prompt window will emerge, presenting a completion message.
 
 - If you can download apps successfully, click **Done**to close the tool.
@@ -133,18 +141,15 @@ An outdated Play Store version may lead to compatibility issues. Open the Google
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Clear Play Store Cache and Data
 
 Cached data in the Play Store can sometimes cause download problems. Head to the Tecno Camon 20 device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Verify Google Account
 
@@ -157,13 +162,6 @@ Authentication issues with your Google account can prevent app downloads. Confir
 Incorrect date and time settings may disrupt the authentication process. Verify that your device's date and time are set correctly. Enable automatic date and time settings to ensure accuracy.
 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Review Download Restrictions
 
@@ -257,6 +255,10 @@ Step 2: Hitting the ‘Next’ button starts downloading the Android firmware.
 
 ![fix App won't open in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Once Dr.Fone - System Repair (Android) verifies the downloaded firmware, it begins fixing the app won't open the issue asap.
 
 ![fixing App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -278,13 +280,6 @@ Follow the steps given below to update the app which won't open on your phone:
 • Now select “My Apps & Games” from the main menu.
 
 ![select “My Apps & Games](https://images.wondershare.com/drfone/article/2017/06/14984183627979.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 • In this step, you may click on “Update All” to update all Apps for which an update is available or manually select the Apps which you wish to Update.
 
@@ -366,13 +361,6 @@ To Factory Reset your Tecno Camon 20, carefully follow the guidelines given belo
 
 ![Backup and reset](https://images.wondershare.com/drfone/article/2017/06/14984185141857.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 • Now click on “Factory Data Reset”>“Reset Device”>“Erase Everything”
 
 ![Erase Everything](https://images.wondershare.com/drfone/article/2017/06/14984185334400.jpg)
@@ -382,6 +370,10 @@ Your phone will now reboot and will be required to set up from scratch.
 “Why Won’t my App open” is a question asked by many Android phone users who fear that the problem occurs due to a virus attack or a system failure. However, this is not the case. The reason for the error to the surface is quite minor and can be fixed by you, sitting at home, without resorting to any kind of technical or external assistance. The solutions listed above are easy to understand and not very time-consuming.
 
 So go ahead and try them out now!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Android App Not Installed Error on Tecno Camon 20 Quickly?
 
@@ -433,6 +425,10 @@ So App not installed on your Tecno Camon 20 or tablet? The most horrible part is
 
 Android system repair used to require high technical skills. But most of the users know little about technical things. Well, worry not ![Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) allows you to repair Android easily, that is, complete the fix with just one click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - System Repair (Android)
 
 A powerful tool to fix the "Android App not installed" error in one click
@@ -453,10 +449,7 @@ A powerful tool to fix the "Android App not installed" error in one click
 ![fix Android App not installed error using a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Select the "Android" option and click "Start".
@@ -472,28 +465,22 @@ A powerful tool to fix the "Android App not installed" error in one click
 ![fix Android App not installed error in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. After the firmware is downloaded, the tool will start to repair your Android, hereby fixing the "Android App not installed" error.
 
 ![fix Android App not installed error after firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 ## Part 3: How to fix App not installed error on Android
 
 We understand that it can be a tricky situation to be in when Android App not installed error pops up, but what if we tell you can get rid of it in easy and simple steps? Yes, there is!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### #1. Delete unnecessary files/Apps
 
@@ -506,13 +493,6 @@ Visiting “Settings” on your device. Then select "Manage apps", "Application 
 Now select the App you wish to uninstall and wait for the App Info screen to open, then click on “Uninstall” as shown in the screenshot.
 
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14994441067237.jpg "uninstall app")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can also uninstall the unnecessary application on the home screen, just long-press the app you want to uninstall until you see the "uninstall" icon. Click "Uninstall", then, you need to click "OK" to confirm the uninstall process.
 
@@ -539,6 +519,10 @@ You can now restart your device and try to install the app now, it should work!
 ### #4. Choose App location wisely
 
 It is advisable to not tamper with the App’s location and let the software decide where it needs to be placed. As far as possible, let the Apps be in your device’s internal memory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### #5. Format SD Card
 
@@ -582,19 +566,22 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-from-chaos-to-clarity-combining-obs-with-zoom/"><u>[New] 2024 Approved From Chaos to Clarity Combining OBS with Zoom</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mpc-hc-high-quality-audio-and-video/"><u>[Updated] 2024 Approved MPC-HC High Quality Audio and Video</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-sharexs-competitors-unveiled/"><u>[Updated] ShareX's Competitors Unveiled</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-social-network-videos-downloaded-for-audio-conversion/"><u>2024 Approved Social Network Videos Downloaded for Audio Conversion</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-insights/"><u>Navigating the World of Electronics with Tom’s Hardware Insights</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-samsung-galaxy-s24-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Samsung Galaxy S24? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-11-proplus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme 11 Pro+ Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/redefining-patient-engagement-through-chatgpt-innovation/"><u>Redefining Patient Engagement Through ChatGPT Innovation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/saving-sticky-notes-a-windows-guide/"><u>Saving Sticky Notes: A Windows Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-correcting-the-infamous-haldll-error-on-different-windows-platforms/"><u>Troubleshooting and Correcting the Infamous hal.dll Error on Different Windows Platforms</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-14-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi 14 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-zero-cost-zest-the-ultimate-guide-to-free-game-film-for-2024/"><u>[New] Zero Cost Zest The Ultimate Guide to Free Game Film for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-amplify-your-chat-status-with-melodies/"><u>2024 Approved Amplify Your Chat Status with Melodies</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-voice-changers-guide-free-easy-pathways-for-auditory-enhancements/"><u>2024 Approved The Voice Changer's Guide Free, Easy Pathways for Auditory Enhancements</u></a></li>
+<li><a href="https://win-help.techidaily.com/can-you-design-and-create-your-custom-book-cover-using-flipbuildercoms-tools/"><u>Can You Design and Create Your Custom Book Cover Using FlipBuilder.com's Tools?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-nokia-c12-plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nokia C12 Plus Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-v-purse-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor V Purse Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-streaming-iphone-7-display-like-a-pro/"><u>In 2024, Streaming iPhone 7 Display Like a Pro</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-through-the-best-youtube-to-avi-options/"><u>Navigating Through the Best YouTube-to-AVI Options</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-11f-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 11F 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-12-proplus-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme 12 Pro+ 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m14-4g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M14 4G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/k-it-down-youtubes-video-trimming-process-for-2024/"><u>Shrink It Down YouTube's Video Trimming Process for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/be-growth-secrets-masterful-narration-techniques/"><u>YouTube Growth Secrets Masterful Narration Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Honor 90 Pro? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:51:53.489Z
-updated: 2024-07-15T06:51:53.489Z
+date: 2024-11-20T21:31:00.577Z
+updated: 2024-11-24T20:18:00.854Z
 tags: 
   - problems
 categories:
@@ -26,9 +26,6 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Inability To Open the Play Store
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
@@ -69,6 +66,10 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 - **Google account problems**. Authentication issues, incorrect credentials, or other problems with the linked Google account can disrupt the Play Store's functionality. This can also lead to repeated crashes.
 - **System glitches and bugs.**Inherent glitches and bugs within the Android operating system may affect the Play Store's performance. They can cause your device to stop unexpectedly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part III.7 Quick Solutions To Resolve Play Store Not Working Issues
 
 Encountering issues with the Google Play Store can be frustrating. It disrupts your ability to download, update, or access essential apps. Here are seven quick solutions when your **Google Play Store unfortunately has stopped.**
@@ -85,8 +86,9 @@ Revitalize your Google Play Store by addressing performance issues. Clearing cac
 ![clearing cache and date on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-05.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Update Play Store
 
 Enhance your Play Store's functionality by ensuring it's up-to-date. This method suits those who haven't updated their Google Play Store for a long time. Follow the steps below.
@@ -127,6 +129,10 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Perform a System Update
 
 Ensure your device's overall stability by performing a system update to ensure the stable operation of the Play Store. Follow the steps below.
@@ -150,9 +156,6 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 - **Step 2:** Launch the program and connect your Honor 90 Pro to the computer using a USB cable. Choose the Honor 90 Pro device type and click **Start** to initiate the repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone android problems window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
@@ -234,9 +237,6 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.III: Check App Permissions
 
 These days, thanks to strides in the privacy initiatives, apps need permissions before they can function the way they do. Most of the times, apps such as camera do have the necessary permissions, but sometimes it is possible that the permissions are set incorrectly. To check if the camera app has the requisite permissions, do the following:
@@ -252,8 +252,9 @@ Step 2: Tap Camera.
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### II.IV: Clear The Camera App Cache
 
 Clearing the camera app cache is sometimes helpful. To do that:
@@ -336,6 +337,10 @@ Step 6: Dr.Fone automatically downloads the most recent firmware for your device
 
 ![fix android camera not working](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000) to confirm and begin the repair process.
 
 ![confirm android firmware repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -344,13 +349,15 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
-
-
 
 ## Home Button Not Working on Honor 90 Pro? Here Are Real Fixes
 
@@ -384,6 +391,10 @@ Step 1: To begin with the process, launch the software on your computer and sele
 
 ![fix home button not working android](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Thereafter, connect your Honor 90 Pro to the computer using a USB cable and select the “Android Repair” tab from the left menu.
 
 ![home button not working android - connect device](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -400,6 +411,10 @@ Step 5: After downloading the firmware, the software will start the repair proce
 
 ![home button not working android - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.2 Force Restart your Android
 
 Whenever you encounter with Android virtual soft keys, not working problem, the first thing you should try is to force [restart your phone](https://www.wondershare.com/reset-android/restart-android-without-power-button.html). If the problem is due to a software issue, then it can be probably fixed by simply force restarting your Android.
@@ -411,6 +426,10 @@ Step 1: To begin with, press and hold the power button and either volume up or d
 Step 2: Next, press the power button for a few moments to force restart your device.
 
 ![home button not working android - force restart](https://images.wondershare.com/drfone/article/2019/02/force-restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.3 Restore Factory Settings
 
@@ -445,6 +464,10 @@ When your Android home and back button not working because of hardware reasons, 
 The Simple Control app is the first and foremost solution to fix the Android home button not working issue. With the help of this app, you can fix many soft keys of your device. It is specially designed for Android users facing trouble using home, volume, back, and camera buttons. Plus, the app utilizes Accessibility service, but it doesn’t get access to your sensitive and personal information.
 
 ![simple control app](https://images.wondershare.com/drfone/article/2019/02/simple-control-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Pros:
 
@@ -534,7 +557,6 @@ URL: [https://play.google.com/store/apps/details?id=com.home.button.bottom](http
 
 Hopefully, the methods covered in this post helps you to fix Android home and back button not working problem for you. If it is a system issue, then the best thing you can do is to take advantage of Dr.Fone - System Repair (Android) software. It can surely help you to fix your Android system to normal within a few minutes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -547,9 +569,24 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-samsung-photo-editor-review-pros-con-features-and-guide-for-2024/"><u>[New] Samsung Photo Editor Review - Pros, Con, Features, and Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-investigating-cash-for-review-scenarios/"><u>[Updated] 2024 Approved Investigating Cash-for-Review Scenarios</u></a></li>
+<li><a href="https://win11.techidaily.com/amplifying-steam-data-flow-combatting-sudden-drops/"><u>Amplifying Steam Data Flow: Combatting Sudden Drops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/anticipated-announcements-in-apples-october-event-spotlight-on-revolutionary-m4-mac-mini-innovative-ipads-and-advanced-ai-features/"><u>Anticipated Announcements in Apple's October Event: Spotlight on Revolutionary M4 Mac Mini, Innovative iPads, and Advanced AI Features</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-razr-40-ultra-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Razr 40 Ultra in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-c110-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia C110 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-m6-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco M6 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sci-fis-new-realms-exploring-the-best-metaverse-adventures-on-screen/"><u>In 2024, Sci-Fi's New Realms Exploring the Best Metaverse Adventures on Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-cross-border-mouse-navigation-and-glance-with-powertoys/"><u>Mastering Cross-Border Mouse Navigation & Glance with PowerToys</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mastering-the-playback-of-ultra-hd-8k-videos-at-4320p-resolution-on-your-windows-or-macos-device/"><u>Mastering the Playback of Ultra HD 8K Videos at 4320P Resolution on Your Windows or macOS Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-lava-blaze-curve-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Lava Blaze Curve 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Updated In 2024, Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+</ul></div>
 

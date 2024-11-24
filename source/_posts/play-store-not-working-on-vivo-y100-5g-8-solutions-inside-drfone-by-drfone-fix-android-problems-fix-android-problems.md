@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Vivo Y100 5G? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:55:24.644Z
-updated: 2024-07-15T06:55:24.644Z
+date: 2024-11-17T18:53:26.935Z
+updated: 2024-11-24T17:06:26.847Z
 tags: 
   - problems
 categories:
@@ -42,9 +42,17 @@ The dreaded "Not Responding" message can bring usability to a standstill. Users 
 
 When downloads and installations fail, you will be unable to enjoy new apps or updates. This issue can be annoying when trying to access crucial software improvements or security updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Authentication and Account Issues
 
 Problems with authentication and account access can lock users out of their Google accounts on the Play Store. It prevents users from purchasing or downloading apps. The issue not only hampers functionality but also raises security concerns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Problems
 
@@ -70,10 +78,11 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 
 Encountering issues with the Google Play Store can be frustrating. It disrupts your ability to download, update, or access essential apps. Here are seven quick solutions when your **Google Play Store unfortunately has stopped.**
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixing mobile phone issues vector image](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear Cache and Data
 
@@ -83,6 +92,10 @@ Revitalize your Google Play Store by addressing performance issues. Clearing cac
 - **Step 2**: Locate and select **Google** **Play** **Store**. Within **Storage**, choose **Clear** **Cache** and **Clear** **Data**. Confirm your action and restart the Play Store.
 
 ![clearing cache and date on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Play Store
 
@@ -97,9 +110,6 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reset App Preferences
 
 Restore your device's app settings to default for improved functionality. Below are the steps.
@@ -138,9 +148,6 @@ Ensure your device's overall stability by performing a system update to ensure t
 
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part IV. How To Repair Play Store Not Working With an Alternative
 
 Repairing your Google Play Store can be swift and effective with Dr.Fone - System Repair. This tool offers advanced features to diagnose and fix various system issues without the advanced skills required. It provides a quick and efficient resolution for a malfunctioning Google Play Store. Follow these three simple steps to get started:
@@ -186,9 +193,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Authentication Error Occurred on Vivo Y100 5G? Here Are 10 Proven Fixes
 
 There are times when users get an authentication error while they connect to a Wifi network. The problem is mostly found in Android whenever a device tries to establish a connection to Wifi. If your device is also experiencing an authentication problem Wifi, then don’t worry. It can easily be resolved. In this post, we will make you familiar with the root cause for the Vivo Y100 5G Wifi problem and how you can resolve whenever authentication error occurred on your device.
@@ -221,8 +225,6 @@ So Android repair requires programming knowledge to do it?
 
 No! With Dr.Fone - System Repair (Android), you can do Android repair in just a few steps and get all issues like Wifi Authentication error fixed easily.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 An easy-to-operate tool to fix Android system issues like a Wifi authentication error
@@ -241,6 +243,10 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 1. After the Dr.Fone tool is downloaded, install, and launch it. You can see the following screen.
 
 ![fix Wifi Authentication Error by android repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Connect your Vivo Y100 5G to the computer, and select "Android Repair" in the middle.
 
@@ -271,6 +277,10 @@ Step 3: Depending on your Vivo Y100 5G model, look for “IP Settings” and tap
 Step 4: Note down the static IP address fields and wipe off all the fields. Punch it in again and then save it.
 
 ![change dhcp settings of wifi](https://images.wondershare.com/drfone/article/2019/06/dhcp-static.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check carefully for duplicate Wi-Fi names before you connect
 
@@ -314,9 +324,6 @@ If the above solution won’t work, then you would be required to walk the extra
 
 5\. As soon as you will change it to static, you will get different fields related to your network’s IP address, gateway, DNS, and more. Simply fill these fields and tap on the “Save” button once you are done.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fill these fields](https://images.wondershare.com/drfone/article/2017/06/14981521159129.jpg)
 
 Now, try to connect to the Wifi hotspot again. You would be able to overcome the authentication problem of Wifi.
@@ -359,7 +366,9 @@ Let it do for a while. Afterward, turn it off and try to connect to the Wifi net
 
 After following these quick and easy suggestions, you would be able to fix the Vivo Y100 5G Wifi problem for sure. Even if you use any other Android device, then its authentication error can easily be resolved after these effective solutions. Go ahead and give these expert solutions a try and let us know about your experience as well. If you have any other solution to fix the authentication problem Wifi, then share it with us as well in the comments.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bricked Your Vivo Y100 5G? Here’s A Full Solution
 
@@ -367,11 +376,13 @@ A bricked phone is a device that won’t turn on no matter what you do and every
 
 In this article we are going to look at how you can fix your device if you are sure it is bricked, how to rescue the data on your bricked device and even how you can avoid this situation in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Rescue the data on your Bricked Android Phone
 
 Before we can learn how to fix a bricked device, it is important that you are able to save the data that is on the Vivo Y100 5G device. Having the data saved somewhere else will be the added insurance you need in case anything goes wrong during the process. There are very few software solutions in the market to help you get back data from a bricked device. One of these and the most reliable is [Wondershare Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html).
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -385,6 +396,10 @@ World's 1st Android smartphone and tablet recovery software.
 - 100% safe to use.
 
 **4,771,974** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Use Dr.Fone - Data Recovery (Android) to Rescue Data from a Bricked Android
 
@@ -458,6 +473,10 @@ Sometimes these errors can be caused if the ROM installation was performed via S
 
 If all else fails, it is time to returning the Vivo Y100 5G device to the vendor if your warranty is still applicable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Useful Tips to avoid Bricking your Android Phone
 
 If you are planning on installing custom ROM you need to install Custom Recovery. This will enable you restore the Vivo Y100 5G device to its original settings should anything go wrong and hopefully help you avoid bricking your device.
@@ -472,7 +491,6 @@ If you are planning on installing custom ROM you need to install Custom Recovery
 
 While installing Custom ROM can actually be a great way to customize your device, it is also the leading reason for bricked devices. Therefore ensure that you understand what you are doing when you decide to customize your device. Learn as much as you can about the process before attempting everything.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -485,9 +503,26 @@ While installing Custom ROM can actually be a great way to customize your device
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-capturing-vistas-with-the-high-end-z32x-monitor/"><u>[New] Capturing Vistas with the High-End Z32X Monitor</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-instant-impact-applying-motion-blur-to-ai-artwork/"><u>[Updated] 2024 Approved Instant Impact Applying Motion Blur to AI Artwork</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fastest-iphoneandroid-apps-for-enhanced-music/"><u>[Updated] Fastest iPhone/Android Apps for Enhanced Music</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-raw-footage-to-final-cut-youtube-studio-edition/"><u>[Updated] From Raw Footage to Final Cut YouTube Studio Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/extraordinary-investment-opportunity-a-luxurious-2amo-property-in-texas-comes-equipped-with-a-pre-built-5786-sq-ft-data-centre-and-high-performance-liquid-c18/"><u>Extraordinary Investment Opportunity: A Luxurious $2.amo Property in Texas Comes Equipped With a Pre-Built 5,786 Sq Ft Data Centre & High-Performance Liquid Cooling – No Traditional Bedrooms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/fine-tuning-your-videos-shape-with-aspect-ratio-for-2024/"><u>Fine-Tuning Your Video's Shape with Aspect Ratio for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-hidefake-snapchat-location-on-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-zero-5g-2023-turbo-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Zero 5G 2023 Turbo in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-g22-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nokia G22 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-y100-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo Y100 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/quick-solutions-for-resolving-cinavia-error-code-3-on-your-media-player/"><u>Quick Solutions for Resolving Cinavia Error Code #3 on Your Media Player</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f15-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F15 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/synergy-of-gpt-and-cryptocurrency-discussions/"><u>Synergy of GPT and Cryptocurrency Discussions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-iphone-14-screensaver-shields-the-ultimate-guide/"><u>Top-Rated iPhone 14 Screensaver Shields: The Ultimate Guide</u></a></li>
+</ul></div>
 

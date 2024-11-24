@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Oppo Find X6 Pro | Dr.fone
-date: 2024-11-13T10:53:09.654Z
-updated: 2024-11-15T03:03:15.342Z
+date: 2024-11-21T21:25:15.859Z
+updated: 2024-11-24T22:01:30.403Z
 tags: 
   - problems
 categories:
@@ -67,10 +67,7 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 **4,307,222** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Features
@@ -101,11 +98,19 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3,143,540** people have downloaded it
 
 - **Step 2:** Connect your Oppo Find X6 Pro to the computer using a USB cable. Dr.Fone will detect your device, and you'll be prompted to choose your device's type. Select **Android** **Repair**.
 
 ![dr.fone choosing a device type](https://images.wondershare.com/drfone/guide/system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Follow the on-screen instructions until the app downloads the correct firmware for your device. As it downloads, Dr.Fone will verify it and put your device details on display. You can [<u>install the firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) on your Oppo Find X6 Pro by choosing **Fix Now**.
 
@@ -117,13 +122,6 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 - If the problem persists, select **TryAgain** to rerun the process.
 
 ![dr.fone completion message window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
 
@@ -153,6 +151,14 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Verify Google Account
 
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the Oppo Find X6 Pro device settings, select **Accounts**, and ensure your Google account is active and synced.
@@ -174,13 +180,6 @@ Device settings or parental controls might impose restrictions on certain app do
 ### Restart the Oppo Find X6 Pro device
 
 Sometimes, a simple restart can resolve various issues. Power off your device, wait a few seconds and then power it back on. This can help refresh system processes and eliminate temporary glitches.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -262,13 +261,6 @@ Here is an example of putting your Samsang smartphone into the Factory Reset DFU
 
 ![Oppo Find X6 Pro reset button](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** Before carrying out a factory reset, you need to input the password of your Oppo Find X6 Pro Account.
 
 ## Bonus Tip: Best App To Solve Phone Stuck on Boot Screen
@@ -276,13 +268,6 @@ Here is an example of putting your Samsang smartphone into the Factory Reset DFU
 If all the solutions above do not work and you do not want to perform a factory reset on your phone, one option is to use an application called [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is one of the most effective phone recovery solutions and can help to bring your phone back to a state like it was brand new. Being ****stuck on the startup screen**** page will be a problem of the past.
 
 ![interface of dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The following steps will show you how to use Dr.Fone to perform system repair on your phone.
 
@@ -325,13 +310,6 @@ A boot loop typically starts when there is a change to your system before a rebo
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,405,439** people have downloaded it
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -377,13 +355,6 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
 
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Uninstall the Google update
 
 Uninstalling Google Play Store updates has also responded well to many users. It has worked in the case of the “Unfortunately Settings has stopped” error. So, we would also like to suggest you use this tip if the others don’t work. Here are the steps to be followed for this.
@@ -394,9 +365,17 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Oppo Find X6 Pro, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Oppo Find X6 Pro devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -430,11 +409,19 @@ In the next window, you need to fill in some necessary information like the name
 
 ![Android settings not responding - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Enter Download Mode
 
 Now, you need to take your device into Download mode. For this, you need to follow the onscreen instruction according to your device. Click “Next” and you will notice the firmware downloading progress on your screen.
 
 ![Android settings not responding - download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Repair the Issue
 
@@ -466,6 +453,10 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: Check and update Android OS
 
 A lot of times minor issues crop up due to the operating systems that get outdated. It is because the Oppo Find X6 Pro device needs to get updated from time-to-time for proper functioning otherwise it will not be able to match up with the fading technologies thereby coming up with issues like “Unfortunately Settings has stopped”. We recommend here you check for the available update and update your device. For this follow the guide below.
@@ -475,13 +466,6 @@ A lot of times minor issues crop up due to the operating systems that get outdat
 3. If there is any, go along with the prompts to install it and make your phone even smarter.
 
 ![Android settings not responding - update android firmware](https://images.wondershare.com/drfone/article/2019/04/update-samsung.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -505,22 +489,22 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-your-workflow-with-macs-finest-snipers/"><u>[New] Streamlining Your Workflow with Mac's Finest Snipers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-polar-performances-ultimate-beijing-olympics-scoop/"><u>[Updated] In 2024, Polar Performances Ultimate Beijing Olympics Scoop</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-s24-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy S24 Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-camon-20-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Camon 20 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-to-develop-emotional-intelligence/"><u>How to Use ChatGPT to Develop Emotional Intelligence</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mold-memorable-memes-via-giphy/"><u>In 2024, Mold Memorable Memes via Giphy</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/maximizing-roi-with-targeted-market-research-strategies-for-2024/"><u>Maximizing ROI with Targeted Market Research Strategies for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-poco-c65-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Poco C65 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-market-professional-insights-on-selecting-your-ideal-32-television-this-year-zdnet/"><u>Navigating the Market: Professional Insights on Selecting Your Ideal 32 Television This Year | ZDNET</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-zte-nubia-flip-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On ZTE Nubia Flip 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resetting-functionality-enable-right-click-on-windows-11-touchpad/"><u>Resetting Functionality: Enable Right-Click on Windows 11 Touchpad</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-note-12-pro-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi Note 12 Pro 4G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-notch-mac-visual-archiver/"><u>Top-Notch Mac Visual Archiver</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-cutting-edge-tips-for-figma-background-removal/"><u>[New] 2024 Approved Cutting-Edge Tips for Figma Background Removal</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-game-ahead-with-funimates-easy-apk-instructions-for-2024/"><u>[New] Game Ahead with Funimate's Easy APK Instructions for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-cryptic-conundrums-bidding-on-the-invisible-artifacts-of-2023/"><u>2024 Approved Cryptic Conundrums Bidding on the Invisible Artifacts of 2023</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1728487479726-ssdhdd/"><u>如何將硬碟上的系統複製到新SSD/HDD：全面指南</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-peak-performance-how-to-update-razer-blackwidow-gamepad-drivers/"><u>Ensure Peak Performance: How to Update Razer BlackWidow Gamepad Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unparalleled-speed-with-tcls-latest-4k-gaming-screen-at-1000hz-refresh-rate/"><u>Experience Unparalleled Speed with TCL’s Latest 4K Gaming Screen at 1,000Hz Refresh Rate</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/expert-secrets-to-exceptional-tiktok-videos/"><u>Expert Secrets to Exceptional TikTok Videos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-superior-sound-swap-technology-the-top-free-option-for-valorant-gamers/"><u>In 2024, Superior Sound Swap Technology The Top Free Option for Valorant Gamers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-ace-2-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 2 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-smart-7-hd-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix Smart 7 HD? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-g54-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola G54 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-essential-guide-to-lg-360-camera-features-update-2023-for-2024/"><u>The Essential Guide to LG 360 Camera Features Update 2023 for 2024</u></a></li>
 </ul></div>
 

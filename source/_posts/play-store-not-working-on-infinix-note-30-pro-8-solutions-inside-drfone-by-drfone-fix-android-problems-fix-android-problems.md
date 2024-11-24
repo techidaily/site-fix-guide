@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Infinix Note 30 Pro? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:24.264Z
-updated: 2024-07-15T06:52:24.264Z
+date: 2024-11-23T18:21:49.346Z
+updated: 2024-11-24T22:14:46.782Z
 tags: 
   - problems
 categories:
@@ -30,6 +30,10 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Crashing Issues
 
 [<u>Frequent crashes</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html) undermine the stability of the Play Store. Users attempting to browse or download apps may find themselves abruptly kicked out of the application. It can disrupt your intended tasks and cause annoyance in the long run.
@@ -37,6 +41,10 @@ The inability to open the Play Store leaves you without access to new apps or up
 ### Not Responding Errors
 
 The dreaded "Not Responding" message can bring usability to a standstill. Users navigating the Play Store may experience delays or complete unresponsiveness. It can lead to a frustrating and unproductive experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Download and Installation Failures
 
@@ -47,8 +55,9 @@ When downloads and installations fail, you will be unable to enjoy new apps or u
 Problems with authentication and account access can lock users out of their Google accounts on the Play Store. It prevents users from purchasing or downloading apps. The issue not only hampers functionality but also raises security concerns.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Update Problems
 
 [<u>Difficulties in updating apps </u>](https://drfone.wondershare.com/samsung/install-uninstall-update-samsung-kies-on-pc.html) can leave users with outdated software. It can potentially compromise security and miss out on new features. The issue diminishes the user experience by depriving you of the latest enhancements.
@@ -133,6 +142,10 @@ Ensure your device's overall stability by performing a system update to ensure t
 
 ![perform system update on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
 
 ## Part IV. How To Repair Play Store Not Working With an Alternative
@@ -141,9 +154,6 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 - **Step 1**: Begin by downloading and installing Dr.Fone - System Repair (Android) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,207,329** people have downloaded it
@@ -154,9 +164,6 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone device information window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 4:** Simply click **Done** on the prompt window displaying a confirmation message to exit the tool if your Infinix Note 30 Pro starts successfully. In the event that the Infinix Note 30 Pro device fails to start, select **Try Again** to initiate the process once more.
@@ -304,6 +311,10 @@ It’s always recommended to update your phone to the latest Android version. As
 
 ![update android version](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5: Reset Your Infinix Note 30 Pro to Factory Settings
 
 One way to restore the original performance of your Infinix Note 30 Pro is to revert it back to factory settings. It deletes all the phone’s data and adjusts the settings to default. Most of the time, this procedure works magic. It fixes numerous issues, including the Android phone that’s slow and constantly freezing. But ensure your phone has already been backed up before commencing this step. You may use [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to help you back up and secure your files.
@@ -317,9 +328,6 @@ _Here’s how to back up your Infinix Note 30 Pro using Wondershare Dr.Fone:_
 
 **Step 5:** Check the files or data you wish to back up. Right after, click **Backup.**
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start wondershare drfone backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
 _Here’s how to reset your Infinix Note 30 Pro to factory settings:_
@@ -401,6 +409,10 @@ With technology, uncertainties are bound to happen. It becomes quite tricky to a
 
 ## Part 3: 7 fixes for Play Store stuck on downloading
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.1 Check SD card and phone storage space
 
 All the applications, data of one’s device is generally loads directly in phone’s storage or the SD card (if plugged). Hence, it is crucial to check whether your phone storage or SD is not fully occupied. As it can indirectly be the reason why the issue of “**_Play Store download stuck at 99%_**” might occur. Ensure to get rid of any application that you are no longer using. Or, consider deleting any picture, videos or documents that aren’t required by you.
@@ -412,8 +424,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -443,6 +453,10 @@ Over the following screen, select “Android Repair” placed at the left panel 
 
 ![play store stuck on downloading - go to android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Fill in the information**
 
 It is important to add in all the necessary information for successful execution of program. Make sure to give details of “Brand”, “Name”, “Country”, “Model” and all other fields.
@@ -455,16 +469,21 @@ Now, follow the on the on-screen prompts to boot Android phone into the download
 
 Fret not, the program will automatically detect the most suitable firmware for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![play store download pending - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Repair Android phone**
 
 After the package downloads, program will repair all kinds of problems surfacing over your phone automatically. This way, the **_Play store stuck on downloading_** will get resolved fully.
 
 ![get to repair android to fix play store download pending](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.4 Clear data and cache of Play Store and download again
 
@@ -489,6 +508,10 @@ When was the last time you cared to update your Play store app? Generally, users
 
 ![update device to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/update-play-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.6 Try another Google account
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
@@ -496,9 +519,6 @@ If you’re unable to see a streak of hope and wondering why my **_Play Store is
 ### 3.7 Avoid downloading large apps
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -512,9 +532,22 @@ Last but certainly not the least, users must avoid downloading large application
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-secrets-of-recording-video-without-distracting-noise/"><u>[New] 2024 Approved Secrets of Recording Video without Distracting Noise</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-expressive-photography-techniques-applying-motion-blur-to-faces/"><u>[Updated] In 2024, Expressive Photography Techniques Applying Motion Blur to Faces</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-normal-to-fantastic-picture-distortion-insights/"><u>2024 Approved From Normal to Fantastic Picture Distortion Insights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-profitable-pursuits-on-youtube-the-non-ad-revenue-roadmap/"><u>2024 Approved Profitable Pursuits on YouTube The Non-Ad Revenue Roadmap</u></a></li>
+<li><a href="https://games-able.techidaily.com/directly-interact-with-games-using-androids-second-screen-feature/"><u>Directly Interact with Games Using Android's Second Screen Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-choice-for-ultimate-apple-watches-of-2c34-detailed-reviews-and-ratings/"><u>Experts' Choice for Ultimate Apple Watches of 2C34: Detailed Reviews and Ratings</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-realme-gt-3-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme GT 3 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unlock-vertical-video-potential-top-editing-apps-for-mobile/"><u>New 2024 Approved Unlock Vertical Video Potential Top Editing Apps for Mobile</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-motorola-moto-g34-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Motorola Moto G34 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-s18-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo S18 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy S23 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Nubia Z50S Pro? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:53:23.543Z
-updated: 2024-07-15T06:53:23.543Z
+date: 2024-11-21T19:46:37.655Z
+updated: 2024-11-24T19:59:50.187Z
 tags: 
   - problems
 categories:
@@ -33,6 +33,10 @@ The inability to open the Play Store leaves you without access to new apps or up
 ### Crashing Issues
 
 [<u>Frequent crashes</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html) undermine the stability of the Play Store. Users attempting to browse or download apps may find themselves abruptly kicked out of the application. It can disrupt your intended tasks and cause annoyance in the long run.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Not Responding Errors
 
@@ -90,6 +94,10 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
@@ -101,9 +109,6 @@ Restore your device's app settings to default for improved functionality. Below 
 - **Step 1:** Go to your device's **Settings** and select **Apps** or **Application** **Manager**.
 - **Step 2:** Tap the three dots in the top-right corner and choose **Reset app preferences**.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
 
 ### Re-add Google Account
@@ -114,6 +119,10 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 - **Step 2:** Select **Google** and remove the account. Re-add the Google account and verify if the Play Store functions properly.
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Uninstall Play Store Updates
 
@@ -134,6 +143,10 @@ Ensure your device's overall stability by performing a system update to ensure t
 ![perform system update on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-10.jpg)
 
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part IV. How To Repair Play Store Not Working With an Alternative
 
@@ -180,8 +193,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
 ## Nubia Z50S Pro Stuck on Screen – Finding Solutions For Stuck on Boot
 
 The market has embraced Nubia Z50S Pro  for being the pioneers in the industry. Although the company lacked in providing explicit smartphones, they were still able to catch up with the race. Nubia Z50S Pro C31, known to provide durability of the next level, is taking up the latest shelves of Nubia Z50S Pro smartphones. Although the company promises reliability, there are several problems involving such smartphones.
@@ -218,6 +229,10 @@ The first and most proclaimed technique to refresh Nubia Z50S Pro devices under 
 
 ![force restart nokia](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2: Leave the Phone For a While To Drain Its Battery
 
 A conventional way to solve the issue of a stuck screen in Nubia Z50S Pro is to leave the phone in its position. As you let its battery drain out, the phone will turn off, and you can activate the Nubia Z50S Pro device again by charging it.
@@ -230,10 +245,11 @@ Another quick remedy to try on your Nubia Z50S Pro smartphones involves updating
 
 ****Step 1:**** Open the “Settings” of your Nubia Z50S Pro smartphone and continue to the “System” section in the list of options. You will have to access the “Advanced” options in the “System” menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the system option](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** As you lead to the advanced options, look for “System update” in the provided options. Look for the “Check for update” button. This will check if your Nubia Z50S Pro needs any software updates or not.
 
@@ -249,9 +265,6 @@ If your ****Nubia Z50S Pro  Plus is stuck on the Android One screen,**** this pl
 
 As you launch Dr.Fone after downloading it on your computer, continue to the "System Repair" option. You will have to start by connecting the Android device to the computer through a USB cable. Select "Android Repair" from the options available and continue to the following options.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the system repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 2: Define Device Information and Confirm****
@@ -314,6 +327,10 @@ With that, this brings the article on Nubia Z50S Pro smartphones to a conclusion
 
 With all the provided methods, we do hope that you will be able to restore the status of your Nubia Z50S Pro smartphone and make it functional. For the finest results, you have also discovered Dr.Fone – System Repair (Android) as the best solution for repairing such devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 Solutions to Solve YouTube App Crashing on Nubia Z50S Pro
 
 YouTube can be considered among the apps that are widely used by users. And seeing “Unfortunately YouTube has stopped” error on the Android display screen is a thing that you can’t stand. The reasons can be multiple for why YouTube is not working or it keeps crashing. For instance, an outdated app, not updated OS, low storage, or corrupted cache. No matter what has triggered the problem on your device, we have solutions for it. Please read and follow this article to get the problem sorted.
@@ -329,6 +346,10 @@ The issues like YouTube keeps crashing are often get disappeared by just quittin
 ![Youtube not working android - fix by restarting app](https://images.wondershare.com/drfone/article/2019/06/restart-youtube.jpg)
 
 - You can now restart your device and then launch the app again. Check if this works or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restart the Android
 
@@ -351,15 +372,11 @@ When the stored cache files start getting crash, the “Unfortunately YouTube ha
 - Now, choose “YouTube” from the list of apps.
 - Open “Storage” and click on “Clear Cache”.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Youtube not working android - clear cache](https://images.wondershare.com/drfone/article/2019/06/clear-cache-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reinstall YouTube from Play Store
 
@@ -383,7 +400,9 @@ The apps that run on the internet might start crashing due to connectivity issue
 
 There are times when a corrupted system gives you such errors. And therefore, you should try re-flashing the stock ROM on your Nubia Z50S Pro. Before you wonder how we would like to introduce a highly recommended tool for this. It is Dr.Fone - System Repair (Android). It holds the proficiency to flash the stock ROM in just a click. So, when your YouTube is not responding due to a corrupted system, make use of this tool to get it solved. The benefits associated with this tool are as follows.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -401,9 +420,6 @@ Android repair tool to flash the stock ROM of Android
 
 Start with visiting the website on your PC and downloading the Dr.Fone toolkit. Install and open the tool. Now, from the main screen, choose “System Repair”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Youtube not responding - fix with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Connect Device**
@@ -439,7 +455,6 @@ When nothing works, the last resort you can go with is resetting the Nubia Z50S 
 
 ![Youtube crashing on Android - factory reset android](https://images.wondershare.com/drfone/article/2019/06/factory-reset.jpg)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -452,9 +467,21 @@ When nothing works, the last resort you can go with is resetting the Nubia Z50S 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-exploring-new-realms-of-thought-30plus-vr-metaphysical-messages-for-2024/"><u>[Updated] Exploring New Realms of Thought 30+ VR Metaphysical Messages for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-modern-vr-equipment-overview/"><u>2024 Approved Modern VR Equipment Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-efficiency-integrating-new-folders-into-windows-11-menu/"><u>Boosting Efficiency: Integrating New Folders Into Windows 11 Menu</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-domestic-tasks-leveraging-chatgpt-for-efficiency-gains/"><u>Elevate Domestic Tasks: Leveraging ChatGPT for Efficiency Gains</u></a></li>
+<li><a href="https://article-posts.techidaily.com/evaluating-cloud-services-with-a-budget-lens-2-written-by-ai/"><u>Evaluating Cloud Services with a Budget Lens (2 Written by AI)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-motorola-moto-g84-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Moto G84 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-12-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 12 Space | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-xiaomi-redmi-13c-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Xiaomi Redmi 13C 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-105-classic-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia 105 Classic in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-x9a-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor X9a – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-12-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 12 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-motorola-edge-2023-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Motorola Edge 2023 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-the-power-of-animation-converting-videos-into-cartoons-for-2024/"><u>Updated Unlock the Power of Animation Converting Videos Into Cartoons for 2024</u></a></li>
+</ul></div>
 

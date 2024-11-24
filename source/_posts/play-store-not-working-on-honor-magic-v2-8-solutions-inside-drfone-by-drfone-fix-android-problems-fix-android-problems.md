@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Honor Magic V2? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:00.550Z
-updated: 2024-07-15T06:52:00.550Z
+date: 2024-11-21T16:40:43.986Z
+updated: 2024-11-24T21:06:05.716Z
 tags: 
   - problems
 categories:
@@ -25,6 +25,10 @@ In this guide, discover reliable solutions when your **Google Play Store is not 
 The Google Play Store serves as the epicenter for Android users. It facilitates seamless access to a vast array of apps. However, encountering issues with the platform can impact the functionality of your device. Below are 7 common issues on why your **Google Play Store is not responding**.
 
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Inability To Open the Play Store
 
@@ -103,9 +107,6 @@ Restore your device's app settings to default for improved functionality. Below 
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Re-add Google Account
 
 Resolve Play Store issues by re-adding your Google account. Follow these steps in **Settings** to remove and re-add your Google account, ensuring a seamless and error-free experience.
@@ -114,6 +115,10 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 - **Step 2:** Select **Google** and remove the account. Re-add the Google account and verify if the Play Store functions properly.
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Uninstall Play Store Updates
 
@@ -124,6 +129,14 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Perform a System Update
 
 Ensure your device's overall stability by performing a system update to ensure the stable operation of the Play Store. Follow the steps below.
@@ -132,6 +145,10 @@ Ensure your device's overall stability by performing a system update to ensure t
 - **Step 2:** Next, choose **System update** or **Check for Updates** and install any available system updates**.**
 
 ![perform system update on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
 
@@ -185,6 +202,10 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
 One of the main reasons why people own a phone is for convenience. It will be ironic if that device, supposed to grant convenience, provides problems instead. Some people face this when their ****Android phone is stuck on the logo**** page and unable to do anything. As expected, this is common in Android phones and is why people are unhappy with Android phones.
 
 This article will share the possible reasons why your ****Android phone is stuck on the boot screen****. This article will share three possible reasons for this problem and five valuable tips to help fix this issue. If all else fails, we have an application to share and recommend that is guaranteed to solve your problem in no time. Keep on reading to find out more!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Is Your Honor Magic V2 Stuck on the Boot Screen?
 
@@ -248,9 +269,6 @@ Cache refers to a software or hardware component of an Android device that store
 
 Wiping out the cache data from your Honor Magic V2 could free up more space, allow your device to function faster, and avoid problems such as being stuck at the ****Android boot screen****. Do not worry; wiping the cache data is entirely safe and will not lead to any loss of important data or programs on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5. Factory Reset
 
 If all the methods above fail, performing a factory rest might be your last option. However, it is important to note that performing a factory reset will erase everything on your phone, including apps, contacts, photos, etc. As a tip, back up all your data from your device before performing a factory reset. That way, you can still retrieve all your precious information after the reset.
@@ -283,18 +301,6 @@ Refer to the tutorial below to solve your ****Android phone is stuck on the logo
 
 **Step 4**: Follow the instructions provided on the page and wait for the system repair to finish. After which, click on ****Done**** to complete the process.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
@@ -302,8 +308,6 @@ Refer to the tutorial below to solve your ****Android phone is stuck on the logo
 This article summarizes some possible reasons your ****Android phone is stuck on the logo**** page. Five useful strategies were shared to easily overcome your Honor Magic V2 being stuck in the boot. However, if all the above methods do not work, we recommend trying the Dr.Fone-System Repair.
 
 Dr.Fone-System Repair repairs the operating system issues and fixes the problem with your Honor Magic V2. Once you power on your Honor Magic V2 again, you can rest assured that it will be like new.
-
-
 
 ## How to Fix Android.Process.Media Has Stopped on Honor Magic V2
 
@@ -325,8 +329,6 @@ There are several reasons why this error can occur repeatedly and it is worth no
 
 It is always a good idea to back up your data especially before embarking on any attempt to fix any problem with your device. This way you will always have your data with you just in case something goes wrong and you lose all your data. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) will help you easily back up your Honor Magic V2. The application will allow you to back up your device with a few clicks and you can restore what you want from your backup .
 
-
-
 ### Wondershare Dr.Fone
 
 Flexibly Back up and Restore Android Data
@@ -345,6 +347,10 @@ Step 1. Download, install, and run the program
 Click the "Start Download" button above to get the software installed on your computer. Then run it. The primary window of the software looks like below.
 
 ![Android. Process. Media - backup android](https://images.wondershare.com/drfone/guide/connect-my-device-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2. Connect your device
 
@@ -372,9 +378,6 @@ Step 1: Visit the Google Play Store to check for available app updates.
 
 Step 2: In "Settings," go to "System" > "Software Update" to check for system updates.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Reset app preferences
 
 App preference settings might sometimes lead to conflicts or anomalies. Resetting these settings can revert apps to their default state, resolving potential issues.
@@ -401,6 +404,10 @@ Step 5: Next you need to open Google Play and when presented with an error, clic
 
 Step 6: Turn off the Honor Magic V2 device and then turn it back on. Go to the Google Services framework again and turn it on to see if the issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Check Google Sync & Media Storage settings
 
 Step 1: Go to Settings > Accounts and Personal> Google Sync and uncheck all the checkboxes to stop the Google Synchronization.
@@ -417,12 +424,7 @@ This Should clear the error message for good.
 
 [Safe mode](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html) can temporarily disable third-party apps, allowing only core system apps. This detects if a third-party app causes the "Android process media keeps stopping" error. If the problem disappears in safe mode, a third-party app might be the cause. Uninstalling it can restore normal function. If the problem persists in safe mode, a deeper system issue might exist, needing further investigation or support.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 6: Fix the error by using a dedicated repair tool
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -453,6 +455,10 @@ To confirm the Android repair may erase all data on your device, you need to typ
 
 ![fix android.process.media stopping by entering code](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Repair your Honor Magic V2 in Download mode.**
 
 Read and follow the [guide here](https://drfone.wondershare.com/guide/android-repair.html) to boot your Honor Magic V2 in Download mode.
@@ -466,6 +472,10 @@ Then click "Next" to start downloading the firmware.
 It may take a while, so you could have a cup of coffee to wait for the repair process completed.
 
 ![android.process.media stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -481,7 +491,6 @@ It is our hope that when faced with this fairly common error, you will not panic
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -494,9 +503,21 @@ It is our hope that when faced with this fairly common error, you will not panic
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-selection-the-greatest-free-editing-software/"><u>[New] 2024 Approved Essential Selection The Greatest Free Editing Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discovering-income-monetization-through-youtube-sponsored-videos/"><u>[Updated] 2024 Approved Discovering Income Monetization Through YouTube Sponsored Videos?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-snapchat-checklist-for-engaging-content-for-2024/"><u>[Updated] The Ultimate Snapchat Checklist for Engaging Content for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-how-fast-access-memory-influences-your-systems-speed/"><u>Exploring How Fast-Access Memory Influences Your System's Speed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-the-cant-find-msvcr71dll-error-with-these-troubleshooting-steps/"><u>Fix the Can't Find MSVCR71.DLL Error with These Troubleshooting Steps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-camon-20-premier-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Camon 20 Premier 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-redmi-note-13-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi Note 13 Pro 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connection-problems-with-the-corsaire-void-headset-microphone/"><u>Overcoming Connection Problems with the Corsaire Void Headset Microphone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-m6-pro-4g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco M6 Pro 4G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-honor-100-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Honor 100 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/reroute-mac-screenshot-file-destination-for-2024/"><u>Reroute Mac Screenshot File Destination for 2024</u></a></li>
+</ul></div>
 

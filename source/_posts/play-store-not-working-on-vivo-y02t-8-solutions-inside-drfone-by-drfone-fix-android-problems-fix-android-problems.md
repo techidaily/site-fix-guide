@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Vivo Y02T? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:55:23.438Z
-updated: 2024-07-15T06:55:23.438Z
+date: 2024-11-17T16:49:28.929Z
+updated: 2024-11-24T18:29:37.585Z
 tags: 
   - problems
 categories:
@@ -26,6 +26,10 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Inability To Open the Play Store
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
@@ -46,6 +50,10 @@ When downloads and installations fail, you will be unable to enjoy new apps or u
 
 Problems with authentication and account access can lock users out of their Google accounts on the Play Store. It prevents users from purchasing or downloading apps. The issue not only hampers functionality but also raises security concerns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Problems
 
 [<u>Difficulties in updating apps </u>](https://drfone.wondershare.com/samsung/install-uninstall-update-samsung-kies-on-pc.html) can leave users with outdated software. It can potentially compromise security and miss out on new features. The issue diminishes the user experience by depriving you of the latest enhancements.
@@ -59,6 +67,10 @@ Persistent connection and network errors impede the Play Store's ability to fetc
 If you're wondering **why does Google Play Store keeps stopping** on your phone, there can be several factors. Here are some of them below.
 
 ![man having issues on mobile phone](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Network issues.**Unstable or poor internet connections can disrupt the communication between the Vivo Y02T device and the Play Store. It can lead to frequent crashes.
 - **Outdated Play Store version.**Running an outdated version of the Play Store may result in compatibility issues. The lack of essential updates can cause the application to stop unexpectedly.
@@ -94,9 +106,6 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reset App Preferences
 
 Restore your device's app settings to default for improved functionality. Below are the steps.
@@ -115,9 +124,6 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Uninstall Play Store Updates
 
 This method troubleshoots Play Store problems by uninstalling updates. Here's how.
@@ -183,8 +189,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
 ## How To Restore a Bricked Vivo Y02T Back to Operation
 
 In moments of lag or freezing on your Android, you might **brick Your Vivo Y02T,** which can be unsettling. This is more than just the loss of a device. A **bricked cell phone** also involves potential data erasure. Yet, it's crucial to understand the true implications of a **bricked phone**. This page tackles how to address the issue of a bricked Android phone.
@@ -192,7 +196,6 @@ In moments of lag or freezing on your Android, you might **brick Your Vivo Y02T,
 This comprehensive guide aims to the reasons behind Android phones becoming bricked. By reading below, you'll learn effective methods to **unbrick a mobile phone** without the risk of data loss.
 
 ![man holding a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-01.jpg)
-
 
 ## Part 1. What are Brick Phones: At a Glance
 
@@ -239,6 +242,10 @@ A universal approach to trying to recover a **brick phone** exists for all Andro
 
 Normally, smartphone warranties span from 1 to 2 years. If your phone remains unrooted and falls within that coverage period, consider reaching out to the manufacturer. This direct approach could lead to your phone being repaired or replaced with a new one at no cost to you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Seek Professional Assistance (Hard Brick and Soft Brick)
 
 When your phone falls outside the warranty coverage, consider seeking help from a reputable repair shop. However, be aware that any lost data cannot be attributed to their efforts. Fortunately, you can recover lost data using reliable data recovery software once your phone is operational again.
@@ -254,6 +261,10 @@ Dr.Fone - System Repair (Android) empowers you to resolve a range of prevalent A
 ![dr.fone system repair main window](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,039,461** people have downloaded it
 
@@ -287,14 +298,15 @@ Below are the steps to recover data on a bricked mobile phone.
 
 - **Step 1**: Download and install Dr.Fone – System Repair (Android) on your computer. Launch the app and select **System Repair.** Next, choose Select **Android** as the Vivo Y02T device type. Then, connect to your Vivo Y02T. Choose **Phone Brick** as the Android problem and click **Start.**
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect brick phone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 2**: Select the correct device information. Choose the **Brand**, **Name**, **Model**, **Country**, and **Carrier**. Tick the box next to **I agree** button and click **Next** to proceed to the next step.
 
 ![dr.fone choose device type](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: Click on the **Phone with Home button** or **Phone without Home button** depending on your device. Follow the on-screen instructions and click **Next** to proceed with reviving your brick phone.
 
@@ -305,6 +317,10 @@ Below are the steps to recover data on a bricked mobile phone.
 ![reviving brick phone process completion window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,311,328** people have downloaded it
 
@@ -359,6 +375,10 @@ Now that you know what the Vivo Y02T Flash Tool is all about, it's time to learn
 
 ![xiaomi fastboot screen](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Using the Vivo Y02T Flash Tool, click **Select**. Then, locate the firmware files you downloaded earlier.
 
 ![xiaomi flash tool browse for folder menu](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-05.jpg)
@@ -389,6 +409,10 @@ Repair Android System Errors without Any Trouble.
 
 ![wondershare dr.fone interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 One of Dr.Fone's most astonishing powers is its "System Repair" feature. This is where the real magic happens. If your Vivo Y02T phone is bricked, it can help repair the underlying software glitches that caused the issue. Moreover, Dr.Fone brings a toolbox of features to the table, making it more than just a one-trick pony. Here are its key features:
 
 - **Data Recovery:**If you've lost precious data, Dr.Fone can help recover it, even from a bricked phone.
@@ -409,6 +433,10 @@ Now that you know about Dr.Fone, it's time to understand how to use it. Hopefull
 
 ![wondershare dr.fone system repair start screen](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Confirm your device details. You can edit any details that might be wrong.
 
 ![wondershare dr.fone device details confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -419,18 +447,6 @@ Now that you know about Dr.Fone, it's time to understand how to use it. Hopefull
 
 - **Step 6.** After downloading the firmware, verify and proceed with the installation by clicking **Fix Now**. Confirm firmware installation by typing "000000" into the text box in the appearing window. Click **Confirm** afterward.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare dr.fone initiate system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 7.** After the process is finished, your phone should now be okay. Click **Done**.
@@ -451,13 +467,9 @@ So, there you have it – your guide to fixing a **bricked Vivo Y02T** phone. Re
 
 As a parting reminder, always keep a tool ready for emergencies. For this, choose Dr.Fone. It's a super tool for all your phone problems. Give it a shot and be confident with your phone wherever you go and whatever you do with it.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,052,835** people have downloaded it
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -471,9 +483,21 @@ As a parting reminder, always keep a tool ready for emergencies. For this, choos
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-a-compreenas-guide-to-high-quality-mov-recording-in-windows-10/"><u>[New] A Compreenas Guide to High-Quality MOV Recording in Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-everlasting-screenshot-functionality/"><u>[New] Everlasting Screenshot Functionality</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-video-formats-face-off-determining-the-best-av1-or-vp9-for-2024/"><u>[New] Video Formats Face Off Determining the Best, AV1 or VP9 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-ultimate-guide-to-charging-up-your-video-empire/"><u>2024 Approved The Ultimate Guide to Charging Up Your Video Empire</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-world-within-reach-mondly-languages-two-year-dream-quest/"><u>A World Within Reach: Mondly Languages, Two-Year Dream Quest</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dive-into-the-world-of-youtuber-shorts/"><u>Dive Into the World of Youtuber Shorts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-mini-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 mini to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-undo-macos-sierras-os-x-transition-for-2024/"><u>How to Undo MacOS Sierra's OS X Transition for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-a14-4g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Camon 20 | Dr.fone</u></a></li>
+</ul></div>
 

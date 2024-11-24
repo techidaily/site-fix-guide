@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y36i | Dr.fone
-date: 2024-11-09T08:37:45.479Z
-updated: 2024-11-14T18:18:43.111Z
+date: 2024-11-20T17:49:03.913Z
+updated: 2024-11-24T16:01:43.312Z
 tags: 
   - problems
 categories:
@@ -65,13 +65,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![downloading firmware in progress](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
 
 ![fix your android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
@@ -83,6 +76,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 12:** Once it finishes, click **Done**to complete the system repair.
 
@@ -114,6 +111,10 @@ You can force-close Spotify and open it again to make it work properly. That is 
 - **Step 2:** If it’s not working, open **App Switcher** or **Recent Apps**. Different Android devices open it differently. Thus, you can swipe up from your Home screen, or if you have three buttons at the bottom, press **Recent Apps**.
 
 ![recent apps on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Find Spotify in **Recent Apps**and click **X** or swipe up over it to force-close it.
 - **Step 4:** Try opening Spotify again.
@@ -163,6 +164,10 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 - **Step 5:** Go to **Set Time**and set the right time.
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6. Update Your System Software
 
@@ -236,6 +241,10 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 
 ![search if spotify is down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-20.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** You’ll see several websites that check real-time app servers and if they’re down.
 
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
@@ -264,6 +273,10 @@ When using different apps and websites, your device caches data from those sourc
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -303,6 +316,10 @@ You may follow the steps given below to rescue your data from crashed Android de
 2\. Select "Android" > "Recover from Broken Phone" in the lower right corner.
 
 ![select data type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Choose the "Touch screen not responsive or cannot access the phone" to continue.
 
@@ -362,20 +379,6 @@ Another quick solution to avoid Android devices crashing is to shut down unneces
 
 ![press the clean now button](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: Uninstall incompatible Apps to fix Android crash issue
 
 If your Android system crash takes place frequently but the Vivo Y36i device turns on normally after that, there is a chance that some Apps may be causing the problem. Unnecessary and large App files burden the Vivo Y36i device system and force it to crash every now and then. Make sure you download, install and store only those Apps which are fully compatible with your Android system. DO NOT download Apps from other unknown sources and use only Google Play store for the purpose. All other incompatible Apps must be deleted to prevent them from tweaking your software.
@@ -385,13 +388,6 @@ To uninstall unwanted and incompatible Apps, please follow the steps below.
 1\. Visit “Settings” and search for “Application Manager” or “Apps”.
 
 ![application manager](https://images.wondershare.com/drfone/article/2017/07/14988991424495.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Select the App you wish to uninstall. From the options that appear before you, click on “Uninstall” to delete the App from your device.
 
@@ -415,13 +411,6 @@ If you are constantly facing issues of your Vivo Y36i crashing, there is a possi
 
 ![press the uninstall option](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 7: Clear cache partition to fix Android crash issue
 
 Clearing cache is a good idea because it cleans your device and reduces the burden on the Android software and gives it enough space to function normally and carry out its operations.
@@ -435,13 +424,6 @@ In case the Android system crash issue is temporary, follow the steps given belo
 2\. Now tap on “Cached Data”, and then click “OK” to clear all unwanted cache from your device as shown above.
 
 ![](https://images.wondershare.com/drfone/article/2017/07/14988992219452.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 However, if the Android crash problem is such that your phone has frozen, becomes unresponsive, and does not turn on, you must first boot into the Recovery Mode screen.
 
@@ -525,6 +507,10 @@ After selecting the nature of the Vivo Y36i device you want to repair, navigate 
 
 ![press the start button](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Define the Parameters of Device**
 
 You will be redirected to a new window where you need to define and verify some parameters before repairing the Android. Select the "Brand," provide a "Name," select a "Model," and provide a country where it has been bought. Define the "Carrier" and click "Next" after confirming.
@@ -598,13 +584,6 @@ Flashing a dead Android phone might be skeptical for many users who have been in
 
 From battery issues to physical damage to the Vivo Y36i device, there can be many reasons your Vivo Y36i died. The reasons for a dead Android phone are not restricted to these points. There can be software-related issues or firmware issues that might cause such havoc on your Android.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to flash Vivo Y36i in one click
 
 While you are worried about how to flash Vivo Y36i instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Vivo Y36i logo.
@@ -677,6 +656,10 @@ Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file ty
 
 ![firmware zip file](https://images.wondershare.com/drfone/article/2017/07/14991896515887.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![firmware md5 file](https://images.wondershare.com/drfone/article/2017/07/14991896708947.jpg)
 
 Step 3: In this step, download the latest version of Odin on your PC and move it to the desktop, and then right-click on the downloaded Odin file to select “Run as Administrator”.
@@ -719,6 +702,10 @@ Step 3: Now, on the SP Flash tool window, click on “Download” and select “
 
 ![scatter loading](https://images.wondershare.com/drfone/article/2017/07/14991898892877.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: The last step would be to locate the file downloaded by you and click “Open” and then finally, select “Download” on the SP Flash tool window.
 
 ![load the downloaded file](https://images.wondershare.com/drfone/article/2017/07/14991899108318.jpg)
@@ -726,13 +713,6 @@ Step 4: The last step would be to locate the file downloaded by you and click �
 After completing the above steps, connect your dead device to the PC with a USB cable and wait for it to get recognized. The flashing process will take a few minutes to finish and then you will see a green circle indicating “OK Download”.
 
 That's it! Now simply disconnect your phone and wait for it to reboot.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: How to flash Vivo Y36i dead phone with the Phoenix tool?
 
@@ -778,6 +758,10 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: How to flash a dead Android phone by checking screen faulty
 
 The screen of your Vivo Y36i may be faulty, due to which it is not launching. While seeking the right way of **how to fix a dead Android phone,** you can force restart your phone using the Volume buttons according to your device model.
@@ -818,24 +802,15 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization/"><u>[New] How to Make Money on Vimeo Your Ultimate Guide to Vimeo Monetization</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-clear-up-audio-in-youtube-a-step-by-step-guide/"><u>[New] In 2024, Clear Up Audio in YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-enhanced-video-editing-suites-on-windows/"><u>[Updated] 2024 Approved Enhanced Video Editing Suites on WIndows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>[Updated] In 2024, GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
-<li><a href="https://fox-access.techidaily.com/a-new-era-of-business-with-vr-integration-for-2024/"><u>A New Era of Business with VR Integration for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-performance-lags-and-stuttering-in-playstation-4-gameplay-for-ac-valhalla/"><u>Addressing Performance Lags & Stuttering in PlayStation 4 Gameplay for AC Valhalla</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-13-pro-max-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/hp-wireless-keyboard-failures-heres-how-to-get-it-working-again/"><u>HP Wireless Keyboard Failures? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-narzo-60x-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo 60x 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-v27e-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V27e Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a15-4g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A15 4G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://tools.techidaily.com/vistastylebuilder/products/"><u>Vistastylebuilder's Products</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-discover-innovative-strategies-in-creating-stunning-fb-ad-videos/"><u>[New] Discover Innovative Strategies in Creating Stunning FB Ad Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-viral-video-to-visuals-converting-tweets-to-costless-cgi/"><u>[Updated] Viral Video to Visuals Converting Tweets to Costless CGI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/editing-existing-projects/"><u>Editing Existing Projects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhancing-engagement-in-tiktok-unpack-videos-for-2024/"><u>Enhancing Engagement in TikTok Unpack Videos for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-gt-5-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme GT 5? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Smart 8 HD | Dr.fone</u></a></li>
 </ul></div>
 

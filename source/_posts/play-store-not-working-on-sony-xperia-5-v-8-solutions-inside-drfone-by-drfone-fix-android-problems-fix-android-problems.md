@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Sony Xperia 5 V? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:54:41.297Z
-updated: 2024-07-15T06:54:41.297Z
+date: 2024-11-21T19:33:58.897Z
+updated: 2024-11-24T19:52:28.006Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ A functional Google Play Store is crucial for Android users to access, update, a
 
 In this guide, discover reliable solutions when your **Google Play Store is not responding**. The article will teach you how to tackle these problems and ensure a seamless app experience. Don't let technical glitches hinder your digital journey—follow these troubleshooting steps for a swift resolution. Explore the page below to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![woman annoyed on phone not working](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-01.jpg)
 
 ## Part I. 7 Common Google Play Store Issues Users Encounter
@@ -36,6 +33,10 @@ The inability to open the Play Store leaves you without access to new apps or up
 ### Crashing Issues
 
 [<u>Frequent crashes</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html) undermine the stability of the Play Store. Users attempting to browse or download apps may find themselves abruptly kicked out of the application. It can disrupt your intended tasks and cause annoyance in the long run.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Not Responding Errors
 
@@ -84,6 +85,10 @@ Revitalize your Google Play Store by addressing performance issues. Clearing cac
 
 ![clearing cache and date on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Play Store
 
 Enhance your Play Store's functionality by ensuring it's up-to-date. This method suits those who haven't updated their Google Play Store for a long time. Follow the steps below.
@@ -124,9 +129,6 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Perform a System Update
 
 Ensure your device's overall stability by performing a system update to ensure the stable operation of the Play Store. Follow the steps below.
@@ -183,8 +185,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
 ## Sony Xperia 5 V Stuck on Screen – Finding Solutions For Stuck on Boot
 
 The market has embraced Sony Xperia 5 V  for being the pioneers in the industry. Although the company lacked in providing explicit smartphones, they were still able to catch up with the race. Sony Xperia 5 V C31, known to provide durability of the next level, is taking up the latest shelves of Sony Xperia 5 V smartphones. Although the company promises reliability, there are several problems involving such smartphones.
@@ -221,15 +221,16 @@ The first and most proclaimed technique to refresh Sony Xperia 5 V devices under
 
 ![force restart nokia](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2: Leave the Phone For a While To Drain Its Battery
 
 A conventional way to solve the issue of a stuck screen in Sony Xperia 5 V is to leave the phone in its position. As you let its battery drain out, the phone will turn off, and you can activate the Sony Xperia 5 V device again by charging it.
 
 Once you restart it this way, all the procedures will initiate again, and the Sony Xperia 5 V device will be as good as new. Draining the battery has given you the leverage to regain control over the Sony Xperia 5 V device again.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3: Check For Updates on Sony Xperia 5 V Smartphones
 
 Another quick remedy to try on your Sony Xperia 5 V smartphones involves updating their software. If there is any prevailing software update to install on the smartphone, you will have to check and update it by following the steps guided below:
@@ -254,13 +255,14 @@ As you launch Dr.Fone after downloading it on your computer, continue to the "Sy
 
 ![choose the system repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2: Define Device Information and Confirm****
 
 You will be directed to the Sony Xperia 5 V device information screen, where you must define the identification parameters of the Sony Xperia 5 V device. Select the brand, name, model, country, and carrier details for proper system recovery. On clicking "Next," you will receive a warning where you will have to type the number "000000" to proceed with the method.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add the nokia phone details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 ****Step 3: Put Your Sony Xperia 5 V in Download Mode****
@@ -295,6 +297,10 @@ What if you come to know that you can avoid the Sony Xperia 5 V screen stuck-on 
 
 The first thing to protect your Sony Xperia 5 V smartphone from getting stuck on the boot is to keep it safe from unauthorized and malicious data. The best thing to keep a device secure is to follow all security protocols and avoid bypassing them. If you try downloading something not authorized by the Play Store itself, for instance, an APK, it can make your device vulnerable to malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Keep Your Device Updated
 
 If you feel frustrated by issues like ****Sony Xperia 5 V being stuck on the Android One screen,**** the best thing to avoid such a problem is to keep your device updated at all costs. Whenever there is an update on your Sony Xperia 5 V smartphone, make sure to install it on time and properly. Do not leave updates uninstalled for no reason, as they can hinder the Sony Xperia 5 V device’s speed and performance.
@@ -302,6 +308,10 @@ If you feel frustrated by issues like ****Sony Xperia 5 V being stuck on the And
 ### 3\. Do Not Fool Around with System Files
 
 Changing or modifying system files can be fatal for smartphones. Thus, to keep your Sony Xperia 5 V safe, you need to keep your hands away from such important files. Modifying a single file can make your device useless or put you in situations like a Sony Xperia 5 V smartphone stuck on the boot. For that, the best tip is to keep yourself out of engagement.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Use Wondershare Dr.Fone To Manage All Data With Ease
 
@@ -345,6 +355,10 @@ The presence of corrupted system files is also a significant cause of such issue
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: The Common Solutions to Solve a Sony Xperia 5 V Screen Unresponsive
 
 Fixing the ****Sony Xperia 5 Vscreen not working**** is easy as long as it is not a serious hardware issue. While there are multiple ways to solve this problem, we have chosen the 6 most common and easy solutions. Listed below are the 6 common solutions to solve a Sony Xperia 5 V screen unresponsive:
@@ -371,6 +385,10 @@ It is an excellent option if your Sony Xperia 5 V device's touch is not working 
 
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 4. Wipe the Cache of Your Sony Xperia 5 V Device
 
 A common reason for ****Sony Xperia 5 V Nord being stuck on the loading screen**** is the filled cache partition. If you do not clean out the cache partition of your Sony Xperia 5 V device, its performance will degrade. As a result, your device will experience issues like the touch screen not working or getting stuck at the loading screen. Here is how you can clear the cache of your Sony Xperia 5 V device:
@@ -381,14 +399,19 @@ A common reason for ****Sony Xperia 5 V Nord being stuck on the loading screen**
 
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
 
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 5. Reset to Factory Settings
 
@@ -423,7 +446,6 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 
 To sum up this article, it can be said that issues like ****Sony Xperia 5 V not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -436,9 +458,20 @@ To sum up this article, it can be said that issues like ****Sony Xperia 5 V not 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-innovative-classroom-techniques-utilizing-youtube-effectively/"><u>[New] 2024 Approved Innovative Classroom Techniques Utilizing YouTube Effectively</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-expert-tips-streaming-youtube-and-fb-videos-seamlessly-with-apple-tv-for-2024/"><u>[Updated] Expert Tips Streaming YouTube & FB Videos Seamlessly with Apple TV for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-key-facts-on-youtube-lives-visual-identity/"><u>2024 Approved Key Facts on YouTube Live's Visual Identity</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-f15-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy F15 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-official-method-to-unlock-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Pro Max Official Method to Unlock Your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-infinix-smart-8-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Infinix Smart 8 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-magic-5-lite-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor Magic 5 Lite to PC? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-lava-yuva-2-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Lava Yuva 2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620229832-quick-and-simple-guide-converting-avi-files-into-psp-format-made-easy/"><u>Quick and Simple Guide: Converting AVI Files Into PSP Format Made Easy!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nokia-c110-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nokia C110 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ling-the-top-6-favorite-short-form-video-download-tools/"><u>Unveiling the Top 6 Favorite Short-Form Video Download Tools</u></a></li>
+</ul></div>
 

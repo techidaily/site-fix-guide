@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo S18 Pro | Dr.fone
-date: 2024-11-11T17:37:53.449Z
-updated: 2024-11-14T16:12:18.955Z
+date: 2024-11-17T22:04:49.131Z
+updated: 2024-11-24T16:02:48.425Z
 tags: 
   - problems
 categories:
@@ -87,6 +87,10 @@ The steps for entering Download Mode on an Android phone with the Home button ar
 
 ![enter download mode with the home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 1:** Turn off your phone.
 - **Step 2:** Press and hold the **Volume Down**,**Home**, and **Power** buttons simultaneously.
 - **Step 3:** Press the **Volume Up**button to enter Download Mode.
@@ -133,6 +137,10 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4. Restart Your Device
 
 Another way to stop Spotify from crashing can be restarting your Android. The steps may vary slightly depending on the Vivo S18 Pro device, but they’re mostly the same. Follow these steps to restart your device:
@@ -152,6 +160,10 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 - **Step 4:** Tap **Set Date**and set the correct date.
 
 ![set date on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Go to **Set Time**and set the right time.
 
@@ -187,6 +199,10 @@ If your system is updated, then Spotify might need an update. The app might malf
 
 ![update spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8. Free up Storage
 
 Spotify can start crashing if your Android’s storage space is at capacity. That can also cause other apps to crash, not only Spotify. Therefore, check the storage space and free up as much as possible. Follow these steps:
@@ -199,6 +215,10 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 - **Step 3:** Here, you can see how much of your storage space is available and what’s taking up the most space.
 
 ![available storage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
 
@@ -235,6 +255,10 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 11. Clear the Cache
 
 When using different apps and websites, your device caches data from those sources. Since there’s no need to pile up your Spotify cache, you can clear it. Follow these steps:
@@ -242,13 +266,6 @@ When using different apps and websites, your device caches data from those sourc
 - **Step 1:** Open **Settings**.
 
 ![settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-22.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2:** Go to **Apps**.
 - **Step 3:** Find **Spotify** and tap it.
@@ -263,27 +280,7 @@ When using different apps and websites, your device caches data from those sourc
 
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -330,6 +327,10 @@ One-click solution to flash Vivo S18 Pro
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step-by-step Tutorial
 
 We are going to explain how to flash a dead Android phone using a PC using Dr.Fone - System Repair (Android)
@@ -341,13 +342,6 @@ We are going to explain how to flash a dead Android phone using a PC using Dr.Fo
 Step 1: Once you have downloaded and installed Dr.Fone, launch it. From the main menu, tap on ‘System Repair’ and get your Vivo S18 Pro connected to it.
 
 ![how to flash Dead Android phone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: Click ‘Android Repair’ from the available options, and then press the ‘Start’ button to fix the Dead Android phone by flashing it.
 
@@ -405,13 +399,6 @@ Step 4: Now, boot your dead device to Download Mode by pressing the power, volum
 
 ![boot in download mode](https://images.wondershare.com/drfone/article/2017/07/14991897353612.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
 
 ![android download mode](https://images.wondershare.com/drfone/article/2017/07/14991897566586.jpg)
@@ -464,13 +451,6 @@ Now, on the toolbar, click “Tools” and select “Data Package Download” fr
 
 ![data package download](https://images.wondershare.com/drfone/article/2017/07/14991899684185.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then move to download the firmware for your dead Vivo S18 Pro  and save it in a new Folder. Once done, go back to the Phoenix tool window and click on “File” and select “Open Product”.
 
 ![open product](https://images.wondershare.com/drfone/article/2017/07/14991899991748.jpg)
@@ -500,6 +480,10 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 ![choose wipe data factory reset option](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-1.jpg)
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7: How to flash a dead Android phone by checking screen faulty
 
@@ -567,11 +551,19 @@ If specific apps refuse to cooperate, a quick remedy is to restart the head unit
 
 ![google maps needs location permission](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screen and Display Problems (Head Unit)
 
 Issues with the screen or display on your car’s head unit can be disconcerting. To troubleshoot, commence with a simple restart of the head unit.
 
 If the problem lingers, escalate the solution by restarting the entire car. Should these steps prove ineffective, seeking professional assistance at a maintenance center is advisable. This ensures a thorough examination and potential resolution of [<u>hardware-related problems</u>](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html), providing a comprehensive fix for persistent screen and display issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Voice Commands Not Working
 
@@ -607,13 +599,6 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 
 ![wondershare dr.fone phone os chooser](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Initiate the Android System Repair by clicking **Start**.
 
 ![wondershare dr.fone system repair start screen](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -638,19 +623,6 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 
 **4,276,578** people have downloaded it
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In wrapping up this guide, you’ve explored common reasons **Android Auto does not work**. You’ve also been provided practical solutions to keep your driving experience seamless. Remember, regular maintenance of your car’s head unit and periodic checks on your Vivo S18 Pro can preemptively address potential issues.
@@ -671,14 +643,19 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pros-choice-identifying-the-best-9-webmicrone-capture-gear-23-for-2024/"><u>[New] Pro's Choice Identifying the Best 9 Webmicrone Capture Gear ('23) for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bot-communication-how-they-pretend-to-speak/"><u>Bot Communication: How They Pretend to Speak</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-realme-12-proplus-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme 12 Pro+ 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-winning-strategies-and-hashtags-for-youtubes-best-freefirers/"><u>In 2024, Winning Strategies & Hashtags for YouTube's Best FreeFirers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/1716464772269-thriving-as-a-novice-youtuber-sidestep-these-8-crucial-pitfalls/"><u>Thriving as a Novice YouTuber? Sidestep These 8 Crucial Pitfalls!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncover-the-power-of-sound-no-cost-voice-effects-at-your-fingertips-for-2024/"><u>Uncover the Power of Sound No-Cost Voice Effects at Your Fingertips for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-picks-and-tips-for-thriving-in-valheim/"><u>[New] Top Picks & Tips for Thriving in Valheim</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-redefining-high-definition-with-samsungs-ubd-k850u-update/"><u>2024 Approved Redefining High Definition with Samsung's UBD K850U Update</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-a05s-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel A05s to New Android? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-c51-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme C51 Phone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-lenovo-thinkpad-x1-nano-your-next-featherlight-computing-solution/"><u>In-Depth Analysis of the Lenovo ThinkPad X1 Nano: Your Next Featherlight Computing Solution</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-divide-and-conquer-a-step-by-step-guide-to-splitting-videos-in-windows-live-movie-maker/"><u>New In 2024, Divide and Conquer A Step-by-Step Guide to Splitting Videos in Windows Live Movie Maker</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-x6-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X6 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-zero-5g-2023-turbo-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Zero 5G 2023 Turbo Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-logiciels-de-clonage-ssd-micron-pour-un-transfert-de-donnees-sans-probleme/"><u>Top Logiciels De Clonage SSD Micron Pour Un Transfert De Données Sans Problème</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unmarked-and-unbeatable-top-free-video-editing-software-2024/"><u>Unmarked and Unbeatable Top Free Video Editing Software 2024</u></a></li>
 </ul></div>
 

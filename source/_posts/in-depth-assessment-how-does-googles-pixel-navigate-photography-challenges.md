@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Assessment: How Does Google's Pixel Navigate Photography Challenges?"
-date: 2024-11-08T04:05:43.377Z
-updated: 2024-11-15T09:14:02.115Z
+date: 2024-11-17T16:00:45.884Z
+updated: 2024-11-24T17:44:56.675Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Assessment: How Does Google's Pixel Navigate Photography Challenges?"
@@ -37,19 +37,6 @@ Lifewire / Yoona Wagener
 
 4.2
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazfit GTS Smartwatch
 
 ![Amazfit GTS](https://www.lifewire.com/thmb/A_Lpmewuqg5_v_xhsfuydQ5zl6E=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_HeroSquare-067af9089d9c4269979450e8963726c9.jpg)
@@ -79,10 +66,7 @@ _We purchased the Amazfit GTS_   _so our reviewer could put it to the test. Keep
  I used this device for a little over a week while sleeping, hiking, and running to see how this stylish tracker delivered. Though tracking data was never an issue, the software and companion app fell short of delivering a truly intuitive, user-friendly experience.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design: Lightweight and a little too familiar
@@ -102,10 +86,7 @@ Lifewire / Yoona Wagener
  I was unable to test this device’s 50-meter water resistance for swimming or other aquatic workouts, but I did wear it in the shower without experiencing any issue. The manufacturer does note, however, that this wearable isn’t safe for hot showers or other water sports such as scuba diving, diving, and high-speed water sports, generally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comfort: Easy to wear but not as user-friendly
@@ -125,13 +106,6 @@ Lifewire / Yoona Wagener
 Lifewire / Yoona Wagener
 
  While the display looks great and is responsive, the lack of clarity about certain menu options, both the meaning and how to activate them, and the lack of control over data widget order, takes a few points away from the overall stylish look.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance: Solid GPS and decent activity tracking
 
@@ -165,6 +139,10 @@ Lifewire / Yoona Wagener
 
 ![Amazfit GTS](https://www.lifewire.com/thmb/hqD81eq-Q8n6BPE_n48M4SpkIRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_03-97749edaabac498bb95b0f8a9f569f0a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
  Certain data points such as PAI, like other areas of the Zepp app, are backed by scientific citations and explanations of importance, but there’s just too much text to make any of it digestible or glanceable.
@@ -183,6 +161,10 @@ Lifewire / Yoona Wagener
 
  Spending between $100 to $130 for a style-conscious, band-style fitness tracker from heavy hitters such as[Fitbit](https://www.lifewire.com/what-is-fitbit-4176010) and Garmin could increase the tracking benefits considerably with extras like VO2 Max and SPO2 monitoring. For a little more (or less), gaining a user-friendly layout and companion app could be worth losing the Apple Watch aesthetic this device works hard to mirror.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazfit GTS vs. Garmin vivosmart 4
 
  While the Amazfit GTS sort of looks like an Apple Watch, it doesn’t really come close to performing like one. The Garmin vivosmart 4 is much more in line with what the GTS delivers. For $130, this band-style tracker offers a streamlined design with a few upscale touches like metal finishings and attractive band colors, but it also analyzes much more than the GTS does. It tracks stress, VO2 max, blood oxygen saturation, and measures what Garmin calls body battery, which keeps you attuned to energy levels throughout the day.
@@ -196,10 +178,7 @@ Lifewire / Yoona Wagener
  The Amazfit GTS is comfortable and stylish and performs the basic fitness tracking tasks relatively well, but the confusing ecosystem diminishes the polish. If you love the look of the Apple Watch, this is a budget-friendly look-alike. But if you want a strong balance between performance and looks, the Amazfit GTS may not deliver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -207,6 +186,10 @@ Lifewire / Yoona Wagener
 * [Apple Watch SE](https://www.lifewire.com/apple-watch-se-review-5088223)
 * [Fitbit Sense](https://www.lifewire.com/fitbit-sense-review-5085832)
 * [Garmin Vivomove HR](https://www.lifewire.com/garmin-vivomove-hr-review-4843913)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -239,22 +222,22 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-snappy-business-tactics-on-snapchat-for-2024/"><u>[New] Snappy Business Tactics on Snapchat for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-visionary-viewership-to-virtual-value/"><u>[Updated] 2024 Approved Visionary Viewership to Virtual Value</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-empowering-your-wit-crafting-humor-with-gifs-step-by-step/"><u>[Updated] In 2024, Empowering Your Wit Crafting Humor with GIFs Step by Step</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-precise-approach-to-blend-gopro-videos-with-surrounding-virtual-landscapes/"><u>[Updated] Precise Approach to Blend GoPro Videos with Surrounding Virtual Landscapes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/discover-effortless-pathways-to-dynamic-snaps-for-2024/"><u>Discover Effortless Pathways to Dynamic Snaps for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exploring-the-keychron-c3-pro-an-affordable-option-packed-with-advanced-keyboard-capabilities-for-enhanced-productivity/"><u>Exploring the Keychron C3 Pro: An Affordable Option Packed with Advanced Keyboard Capabilities for Enhanced Productivity</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-note-12-pro-4gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi Note 12 Pro 4Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-x50i-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor X50i – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-meizu-21-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Meizu 21 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-hot-30i-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Hot 30i Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-20-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 20 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-c51-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme C51 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-poco-c50-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Poco C50 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-social-image-saver-stealing-and-storing-gif-images-from-twitter/"><u>The Social Image Saver Stealing and Storing GIF Images From Twitter</u></a></li>
+<li><a href="https://facebook.techidaily.com/exposing-the-illusion-tips-to-discern-real-from-phony-fb/"><u>Exposing the Illusion: Tips to Discern Real From Phony FB</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-installing-the-latest-webcam-driver-for-a-smooth-windows-11-experience/"><u>Guide to Installing the Latest Webcam Driver for a Smooth Windows 11 Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-15-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 15 When You Forget the Passcode?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-play-pokemon-unite-on-pc/"><u>How to Play ‘Pokémon Unite’ on PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-gt-10-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix GT 10 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-basic-concepts-of-plotting-and-characterizing/"><u>In 2024, Basic Concepts of Plotting and Characterizing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-proplus-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 Pro+ 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-motorola-moto-g84-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Motorola Moto G84 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-sony-xperia-10-v-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Sony Xperia 10 V Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722027061255-twitters-cleared-of-smileys-linuss-uncovering-trojans-breakdown-and-ai-gpt-issues-displayed/"><u>Twitters Cleared of Smileys, Linus's Uncovering, Trojans Breakdown, & AI GPT Issues Displayed.</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-free-and-easy-3gp-video-rotation-top-picks-for-this-year/"><u>Updated In 2024, Free and Easy 3GP Video Rotation Top Picks for This Year</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oneplus-12-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from OnePlus 12? Here is How | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/zero-price-audio-excellence-ranking-of-top-10-desktop-tools/"><u>Zero-Price Audio Excellence Ranking of Top 10 Desktop Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On ZTE Nubia Z60 Ultra? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:56:11.546Z
-updated: 2024-07-15T06:56:11.546Z
+date: 2024-11-20T19:54:49.904Z
+updated: 2024-11-24T22:20:06.663Z
 tags: 
   - problems
 categories:
@@ -42,6 +42,10 @@ The dreaded "Not Responding" message can bring usability to a standstill. Users 
 
 When downloads and installations fail, you will be unable to enjoy new apps or updates. This issue can be annoying when trying to access crucial software improvements or security updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Authentication and Account Issues
 
 Problems with authentication and account access can lock users out of their Google accounts on the Play Store. It prevents users from purchasing or downloading apps. The issue not only hampers functionality but also raises security concerns.
@@ -59,6 +63,10 @@ Persistent connection and network errors impede the Play Store's ability to fetc
 If you're wondering **why does Google Play Store keeps stopping** on your phone, there can be several factors. Here are some of them below.
 
 ![man having issues on mobile phone](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Network issues.**Unstable or poor internet connections can disrupt the communication between the ZTE Nubia Z60 Ultra device and the Play Store. It can lead to frequent crashes.
 - **Outdated Play Store version.**Running an outdated version of the Play Store may result in compatibility issues. The lack of essential updates can cause the application to stop unexpectedly.
@@ -112,6 +120,10 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Uninstall Play Store Updates
 
 This method troubleshoots Play Store problems by uninstalling updates. Here's how.
@@ -129,6 +141,10 @@ Ensure your device's overall stability by performing a system update to ensure t
 - **Step 2:** Next, choose **System update** or **Check for Updates** and install any available system updates**.**
 
 ![perform system update on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
 
@@ -154,6 +170,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
 
 Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known for its user-friendly interface and high success rate. Its ability to address a wide range of Android issues offers a comprehensive solution to various system-related problems. Below are the platform's key highlights.
@@ -170,6 +190,10 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,131,376** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -224,6 +248,10 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![system repair os options](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **iOS Repair** to proceed.
 
 ![dr.fone ios system repair options](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
@@ -267,9 +295,6 @@ For iPhones, here’s how you can do it:
 - **Step 3:** Hold the volume down button until you see the Apple logo.
 - **Step 4:** Your phone should now be in safe mode.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios safe mode](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-12.jpg)
 
 ### Method 3: Downloading Anti-Virus Software
@@ -290,18 +315,6 @@ Generally, the Factory Reset option should be in **Settings > General & Backup a
 
 IOS devices should be under **Settings > General > Transfer or Reset iPhone**.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios transfer or reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-14.jpg)
 
 Remember, each method has its strengths and weaknesses. Dr.Fone is quick and effective, Safe Mode is limited but useful, anti-virus apps can protect, and a Factory Reset gives a clean slate. Try these methods to zap those viruses away!
@@ -323,13 +336,15 @@ Viruses can make your phones act weird, but you have the tools to fight back. Ke
 
 And, if you’re thinking, “**How do I get a virus off My ZTE Nubia Z60 Ultra?**” then Wondershare Dr.Fone is a reliable hero. It’s quick and effective in clearing out those bugs. By staying aware and taking preventive steps, you can keep your phone safe and ensure a trouble-free experience. And if viruses strike, Dr. Fone’s got your back for an instant fix!
 
-
-
 ## Fix Can't Take Screenshot Due to Security Policy on ZTE Nubia Z60 Ultra
 
 “**Can’t take screenshots due to security policy**” is a screenshot restriction on your Android smartphone. You’ve probably seen this error message before, especially when taking screenshots of banking or video streaming apps. But why do apps and websites block screenshots? It’s actually for your good.
 
 Screenshots can be misused to steal money or pirate copyrighted content. By prohibiting screenshots, apps and websites can help to protect your data and privacy. If you want to learn more, keep reading. This article will explain why apps and websites prevent screenshot capture and why it’s important for security. We’ll also give you tips on how to take photos of apps and websites that don’t let you take screenshots.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Can’t Take Screenshots Due to Security Policy on Android? Here’s Why
 
@@ -371,9 +386,6 @@ Some apps and websites allow users to share private information. Some apps, like
 
 You **can’t take screenshots due to security policy Whatsapp** features, View Once media option. This method stops people from taking pictures of private media chats, protecting users’ privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp screenshot blocked](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-03.jpg)
 
 You Are Using a Secure Folder
@@ -400,9 +412,6 @@ If you are using this Android device, you can enable the screen capture feature 
 
 - **Step 3:** Enable **ZTE Nubia Z60 Ultra capture**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable samsung capture](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-06.jpg)
 
 Once you have enabled screen capture, you can check if you can take screenshots of any app or website.
@@ -495,6 +504,10 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 ![dr.fone toolbox selection interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Click **Start** on the new window.
 
 ![dr.fone system repair solutions](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -515,6 +528,10 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 ![firmware downloaded interface](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** Read the dialogue box note, enter the code in the input box, and click **Confirm**.
 
 ![enter code in the dialogue box](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -527,18 +544,6 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 ![android system issue repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 You can fix the “**Can’t take screenshot due to security policy**” error on Android in different ways. But it depends on the cause of the error. If an app is causing the error, you can try two things. First, remove the app’s screenshot restriction. Second, download a different screenshot app or a different device to take screenshots.
@@ -546,7 +551,6 @@ You can fix the “**Can’t take screenshot due to security policy**” error o
 Although there are ways to bypass the “**Can’t take screenshot due to security policy**” error message, it’s crucial to know why screenshots are not allowed. Many apps and websites do not permit it to protect sensitive information, prevent piracy, and follow regulations. They also do it to prevent fraud, protect user privacy, and safeguard intellectual property.
 
 If you think the issue is with your Android system, or your device becomes bricked after trying other methods, experiencing app crashes, or otherwise malfunctioning, try using the Dr.Fone System Repair tool. It is worth trying and can fix most Android system issues in a few minutes.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -560,9 +564,21 @@ If you think the issue is with your Android system, or your device becomes brick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-interplatform-video-uploading-twitter-and-tumblr-synced-for-2024/"><u>[New] Interplatform Video Uploading Twitter & Tumblr Synced for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-paving-the-way-to-a-more-engaging-profile-adding-linktree-on-tiktok/"><u>[New] Paving the Way to a More Engaging Profile Adding Linktree on TikTok</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-transform-your-games-into-a-live-stream-spectacle/"><u>[Updated] Transform Your Games Into a Live Stream Spectacle</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/change-location-on-yik-yak-for-your-vivo-y200-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y200 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dissecting-revenue-allocation-for-shortform-content-makers/"><u>Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-itel-p55plus-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Itel P55+ in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-nokia-g310-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Nokia G310 Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-sony-xperia-1-v-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Sony Xperia 1 V to New Android? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-redmi-note-13-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi Redmi Note 13 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-novel-window-11-secrets-for-enhanced-usage/"><u>In 2024, Unveiling Novel WINDOW 11 Secrets for Enhanced Usage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/proposing-six-economical-substitutes-for-openais-sora/"><u>Proposing Six Economical Substitutes for OpenAI's Sora</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-s18-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo S18 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+</ul></div>
 

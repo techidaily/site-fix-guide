@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Vivo Y78 5G? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:55:39.721Z
-updated: 2024-07-15T06:55:39.721Z
+date: 2024-11-17T20:03:35.157Z
+updated: 2024-11-24T20:35:51.599Z
 tags: 
   - problems
 categories:
@@ -112,6 +112,10 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Uninstall Play Store Updates
 
 This method troubleshoots Play Store problems by uninstalling updates. Here's how.
@@ -146,6 +150,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone android problems window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
 
 ![dr.fone device information window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -160,6 +168,10 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Key Features**
 
 - **Fixes diverse Android issues**. Dr.Fone - System Repair excels in resolving a multitude of Android problems. This includes a black screen, [<u>a boot loop</u>](https://drfone.wondershare.com/iphone-problems/iphone-boot-loop.html), and [<u>bricked Android devices</u>](https://drfone.wondershare.com/android-issue/fix-soft-bricked-android.html). Its comprehensive approach ensures you can rely on a single tool to tackle a wide range of system-related issues.
@@ -171,16 +183,11 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 
 **4,131,376** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Addressing issues when your **Google Play Store does not work** is crucial for an uninterrupted Android experience. Follow the outlined steps to regain control and enjoy a seamless app experience. Don't let frustrations linger; take immediate action for a hassle-free Google Play Store.
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
-
-
 
 ## Cellular Network Not Available for Voice Calls On Vivo Y78 5G
 
@@ -201,6 +208,10 @@ One primary reason behind cellular network unavailability glitches lies in unsta
 ### 2\. Terrain Coverage
 
 Another contributing factor is the geographical terrain. In remote or sparsely populated areas, cellular tower coverage might be limited. It causes a signal disturbance or complete loss of the network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Network Congestion
 
@@ -230,9 +241,6 @@ A myriad of purposeful solutions exists to resolve the **TracFone cellular netwo
 | **Contact Carrier Provider** | High (Specialized Help) | Moderate | Varies (Depends on Carrier Provider) |
 | **Wondershare Dr.Fone - System Repair** | Highest (Complex Issues) | Easiest | 5-10 |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 1. Check the Availability of Cellular Networks
 
 Before diving into complex fixes, the first thing to do is to check if nearby cell networks are available and how strong their signals are. It is an essential step when trying to fix the "**Cellular Network Not Available**" error. This basic check ensures your phone is close enough to a working network tower, which matters for staying connected. It allows you to find out the availability of nearby cellular networks.
@@ -247,10 +255,11 @@ Another crucial step in resolving this error involves ensuring that the Airplane
 
 **Instructions:** Swipe down on your phone's screen from the top to access the Notification Panel, unveiling the Quick Settings tiles. Search for the airplane-shaped icon; if Airplane Mode is active, the icon will be highlighted or shown in a distinct color. Tap the Airplane Mode to turn off the Airplane Mode on your Android.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toggle airplane mode](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3. Selecting the Network Operator of the Vivo Y78 5G device
 
@@ -291,6 +300,10 @@ Updating your Vivo Y78 5G's OS to the latest version can often resolve performan
 - **Step 1.** In your device's Settings, scroll through to find the "Software Update" option. Select it, and on the subsequent screen, verify the availability of any updates.
 
 ![open software update settings](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** If an update is accessible, select the 'Download and Install' choice. Then, proceed by following the prompts displayed on the screen to finalize the process.
 
@@ -387,17 +400,9 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 ![drfone](https://images.wondershare.com/drfone/activity/icon-que.svg) What might be causing my SIM card to not display a network?
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6 Solutions to Fix Error 505 in Google Play Store on Vivo Y78 5G
 
 In case you are receiving the error code 505 while downloading an application from Google play store and have no clue what is it, then this is the right article for you. In this article we are covering the reasons behind the occurrence of Google play error 505. Not only that, we are also providing 6 solutions to fix the error code 505. Usually, this error is seen with Android 5.0 Lollipop version and occurs at the time when you try to install the already downloaded application making it hard to run the app.
@@ -431,8 +436,6 @@ Any error that occurs during downloading or installation process not only hinder
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
@@ -456,15 +459,16 @@ Step2: Select the "Android Repair" among the 3 tabs, connect your Android to PC,
 
 ![select android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3: Choose the correct device details from each field, confirm them and continue.
 
 ![select correct device details to fix error code 505](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step4: Boot your Android in download mode, then start downloading the firmware of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix error code 505 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Step5: After the Vivo Y78 5G device firmware is downloaded, the tool will start repairing your Android.
@@ -544,6 +548,10 @@ Due to continuous updation of new apps and services Google Play store used to be
 
 ![Google Play store](https://images.wondershare.com/drfone/article/2017/06/14976277251819.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - \>Go to Settings
 - \>Visit Application Manager or Apps
 - \>Select Google Play Store
@@ -593,10 +601,13 @@ The 506 error code is a frequent error when operating the Google Play Store. You
 
 However, sometimes the five simple couldn’t work anymore. A system repair software can be helpful quickly. We really recommend [the Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) , only a few minutes, the error will be fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -610,9 +621,22 @@ Not being able to download or install the app is very frustrating and time-consu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-saving-mov-videos-on-windows-11-a-guide-with-six-steps/"><u>[New] In 2024, Saving .MOV Videos on Windows 11 - A Guide with Six Steps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-has-your-back-shorts-now-showing-up/"><u>[Updated] YouTube Has Your Back - Shorts Now Showing Up</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/change-location-on-yik-yak-for-your-vivo-y100i-power-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y100i Power 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-gaming-anywhere-anytime-without-needing-data/"><u>Dive Into Gaming Anywhere, Anytime without Needing Data</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-tecno-spark-10-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Tecno Spark 10 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-get-ready-to-download-best-ios-apps-transforming-fb-videos/"><u>In 2024, Get Ready to Download Best iOS Apps Transforming FB Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-getting-real-broadcast-your-life-on-youtube-using-obs/"><u>In 2024, Getting Real Broadcast Your Life on Youtube Using OBS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-se-2022-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone SE (2022) in the Best Ways</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015605294-league-of-legends-players-say-goodbye-to-voice-chat-troubles/"><u>League of Legends Players, Say Goodbye to Voice Chat Troubles</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-g14-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G14 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f14-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F14 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uniting-chatgpt-and-iphones-siri-a-guide/"><u>Uniting ChatGPT & iPhone's Siri: A Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-12-best-free-animation-programs-for-pc-and-mac-users-for-2024/"><u>Updated 12 Best Free Animation Programs for PC and Mac Users for 2024</u></a></li>
+</ul></div>
 

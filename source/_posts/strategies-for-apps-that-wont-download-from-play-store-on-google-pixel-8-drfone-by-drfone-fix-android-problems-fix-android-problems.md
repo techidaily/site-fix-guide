@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Google Pixel 8 | Dr.fone
-date: 2024-11-09T01:54:37.809Z
-updated: 2024-11-15T06:04:32.073Z
+date: 2024-11-20T20:27:41.523Z
+updated: 2024-11-24T19:51:40.219Z
 tags: 
   - problems
 categories:
@@ -84,6 +84,10 @@ One of the standout features of Dr.Fone - System Repair is its high success rate
 
 When grappling with persistent issues hindering app downloads on the Google Play Store, having a reliable third-party tool becomes essential to safeguard your apps and ensure a seamless user experience. The next section will show you how to use the platform to fix the **apps not downloading in the Google Play Store** problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part III. First Choice: Use Dr.Fone - System Repair for App Downloading Issues
 
 Using Dr.Fone - System Repair to resolve app downloading issues is straightforward. Here are three simple steps to effectively address app-related challenges:
@@ -113,13 +117,6 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part IV. 8 Other Methods of Resolving Common App Downloading Issues
 
 Here are 8 other methods to troubleshoot and resolve common app downloading problems:
@@ -127,6 +124,10 @@ Here are 8 other methods to troubleshoot and resolve common app downloading prob
 ### Check Internet Connection
 
 A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u> <u> an Internet signal check</u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) to ensure you are connected to a reliable Wi-Fi network or have a strong mobile data signal. If the connection is weak, consider switching to a more robust network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Free Up Storage Space
 
@@ -191,13 +192,6 @@ Here are some common reasons why your Google Pixel 8 is bricked:
 - **Android firmware is being updated:**If the phone is interrupted when updating the Android firmware, it will be bricked.
 - **Installing harmful applications:**You installed harmful programs on your Google Pixel 8, or the phone was infected with a virus.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2. How to Fix a Bricked Phone
 
 The first step is to establish how badly your device is bricked. In most cases, you will be working with soft bricks that are pretty simple to repair. If your phone is stuck in a boot loop or enters recovery mode every time you turn it on, you may have a soft brick.
@@ -234,6 +228,10 @@ This issue, however, may be resolved by wiping the data and cache partitions in 
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Finally, on your smartphone, choose the Reboot system immediately.
 
 ### Method 3. Perform a Factory Reset
@@ -245,20 +243,6 @@ A factory reset can undo the alterations made to your device that resulted in th
 - **Step 3:** Select **“Reboot System Now”** to restart your device.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4. Flash a Custom ROM
 
@@ -291,13 +275,6 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 
 ![recover files](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 3. How to Prevent Bricking Your Phone
@@ -317,13 +294,6 @@ Here are some things to remember to prevent your device from bricking:
 It is certainly upsetting when your gadget bricks, but you may attempt the solutions listed above to resolve the issue. Meanwhile, if you want to solve the problem quickly and easily, you can try Wondershare Dr.Fone. It can not only help you repair your Android smartphone, but it can also help you extract data from a bricked device, recover data, and many more Android device solutions!
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Pixel 8 Camera Not Working Unexpected Error? Fix It Now
 
@@ -362,10 +332,7 @@ One of the first things to do any time an app or your phone or tablet does not w
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
@@ -388,9 +355,17 @@ Step 1: Go to Settings > Apps > Camera > Permissions.
 
 ![camera permissions check android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Tap Camera.
 
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
 
@@ -401,6 +376,10 @@ Clearing the camera app cache is sometimes helpful. To do that:
 Step 1: Go to Settings > Apps > Camera and tap Storage Usage.
 
 ![clear camera app cache](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Tap Clear Cache.
 
@@ -436,13 +415,6 @@ We do not realize the immense power that is packed into the thin smartphone form
 
 If this is the case, close all apps and let the phone cool down. You might even want to shut the phone off to help cool it faster.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### II.VIII: Nudge The Camera System
 
 You may want to tap your camera system (the lenses and surrounding area) gently to see if that gets the camera working. In case it did, this is indicative of a hardware issue, and you should get it checked at the service center at your earliest convenience.
@@ -462,6 +434,10 @@ Download Dr.Fone here.
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
 ![wondershare drfone on windows](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Click System Repair module and then Android.
 
@@ -483,6 +459,10 @@ Step 6: Dr.Fone automatically downloads the most recent firmware for your device
 
 ![fix android camera not working](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000) to confirm and begin the repair process.
 
 ![confirm android firmware repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -490,6 +470,10 @@ Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000)
 When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -511,18 +495,24 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ideal-strategies-for-recording-app-activity/"><u>[Updated] Ideal Strategies for Recording App Activity</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-effortless-media-transfer-twitter-videos-on-whatsapp/"><u>2024 Approved Effortless Media Transfer Twitter Videos on WhatsApp</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-the-blue-screen-of-death-handling-halinitializationfailed-error-code-0x00000n5c/"><u>Fixing the Blue Screen of Death: Handling HAL_INITIALIZATION_FAILED Error Code 0X00000n5c</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-xiaomi-redmi-12-is-unlocked-by-drfone-android/"><u>How To Check if Your Xiaomi Redmi 12 Is Unlocked</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-c12-plus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia C12 Plus – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-cable-modem-options-discover-the-superior-choices/"><u>Navigating Cable Modem Options: Discover the Superior Choices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/press-release-abbyy-secures-funding-from-marlin-equity-partners-strategic-growth-milestone/"><u>Press Release: ABBYY Secures Funding From Marlin Equity Partners – Strategic Growth Milestone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-xcover-7-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy XCover 7 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-t2-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo T2 5G</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-why-your-mass-effect-legendary-edition-wont-start/"><u>Troubleshooting Tips: Why Your Mass Effect Legendary Edition Won't Start</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-digital-doppelganger-drawing-crafting-caricatured-emblems/"><u>[New] Digital Doppelganger Drawing Crafting Caricatured Emblems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfecting-your-tone-techniques-for-zoom-podcast-sessions-for-2024/"><u>[New] Perfecting Your Tone Techniques for ZOOM Podcast Sessions for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-brief-bliss-in-photo-collage-crafting-the-google-way-for-2024/"><u>[Updated] Brief Bliss in Photo Collage Crafting - The Google Way for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-navigate-a-sea-of-tiktok-saves-with-proper-editing-know-how-for-2024/"><u>[Updated] Navigate a Sea of TikTok Saves with Proper Editing Know-How for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-best-practices-for-uploading-windows-media-content-to-vimeo/"><u>2024 Approved Best Practices for Uploading Windows Media Content to Vimeo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eight-quick-fixes-when-your-iphones-control-center-wont-respond-get-it-running-smoothly-again/"><u>Eight Quick Fixes When Your iPhone's Control Center Won't Respond – Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-apple-tv-secrets-to-reaching-peak-functionality/"><u>Elevate Your Apple TV: Secrets to Reaching Peak Functionality</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-13-ultra-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi 13 Ultra Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-x50-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor X50 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-nokia-xr21-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nokia XR21 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y100a-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y100A Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-g42-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia G42 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-troubleshooting-iphone-x-regaining-access-via-facial-id/"><u>In 2024, Troubleshooting iPhone X Regaining Access via Facial ID</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-x7-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X7 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-defy-2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Defy 2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
 </ul></div>
 

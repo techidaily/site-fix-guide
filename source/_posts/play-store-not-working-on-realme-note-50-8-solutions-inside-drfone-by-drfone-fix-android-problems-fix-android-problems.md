@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Realme Note 50? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:54:15.874Z
-updated: 2024-07-15T06:54:15.874Z
+date: 2024-11-21T18:08:19.954Z
+updated: 2024-11-24T17:47:58.750Z
 tags: 
   - problems
 categories:
@@ -66,23 +66,19 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 - **Google account problems**. Authentication issues, incorrect credentials, or other problems with the linked Google account can disrupt the Play Store's functionality. This can also lead to repeated crashes.
 - **System glitches and bugs.**Inherent glitches and bugs within the Android operating system may affect the Play Store's performance. They can cause your device to stop unexpectedly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part III.7 Quick Solutions To Resolve Play Store Not Working Issues
 
 Encountering issues with the Google Play Store can be frustrating. It disrupts your ability to download, update, or access essential apps. Here are seven quick solutions when your **Google Play Store unfortunately has stopped.**
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixing mobile phone issues vector image](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear Cache and Data
 
@@ -114,6 +110,10 @@ Restore your device's app settings to default for improved functionality. Below 
 - **Step 2:** Tap the three dots in the top-right corner and choose **Reset app preferences**.
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Re-add Google Account
 
@@ -189,8 +189,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
 ## 9 Solutions to Fix Realme Note 50 System Crash Issue
 
 Android crash, better known as Android system crash is not a recent issue and has troubled many users in the past as well. It means when your device crashes suddenly and refuses to turn on again or when your device freezes and becomes unresponsive. It may also happen that your Realme Note 50 crashes abruptly but boots up normally only to crash again after a few minutes or hours. Android Crash sounds like a very serious problem and something that could damage your device or permanently destroy the software, but Android system crash can be dealt with easily. Just in case you suffer from an Android crash and want to know how to fix the Android system crash issue, rest assured that this problem is fixable. There are various ways to tackle the situation, to be discussed further, and you may choose the one that best suits you.
@@ -202,8 +200,6 @@ In this article, we will also talk about a unique technique to retrieve the data
 When you encounter an Android system crash, before looking for solutions to fix it, make sure you retrieve all your data and information stored on your device. This might sound tedious but a very important step indeed.
 
 [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html) is currently one of the most popular tools to retrieve data from not only broken or damaged, locked devices, and unresponsive devices but also from devices that face an Android system crash. You may try the software for free for scanning the data to understand its work. Dr.Fone’s Data Extraction tool not only retrieves and back-up contacts and messages but also your photos, videos, audio files, WhatsApp, docs, call logs, and other file folders. It is also equipped to retrieve data from the Realme Note 50 device’s internal memory as well as Google drive.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -232,9 +228,6 @@ You may follow the steps given below to rescue your data from crashed Android de
 
 4\. You will now see device options before you. Select yours and move on to feed in your device name and model details.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
 
 5\. Now press the volume down, power, and home button on your device together to boot the phone in Download mode.
@@ -274,6 +267,10 @@ Once you have successfully retrieved your data, consider solving the Android cra
 **Instructions:** Hold your Realme Note 50's "Power" button on the side of the phone. As the following window appears on the screen, select the "Reboot" option to restart the Android device successfully.
 
 ![restart the android device](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Shut down unnecessary running apps
 
@@ -327,9 +324,6 @@ In case the Android system crash issue is temporary, follow the steps given belo
 
 1\. On your Realme Note 50, visit “Settings” and find “Storage”
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android settings](https://images.wondershare.com/drfone/article/2017/07/14989068987919.jpg)
 
 2\. Now tap on “Cached Data”, and then click “OK” to clear all unwanted cache from your device as shown above.
@@ -341,6 +335,10 @@ However, if the Android crash problem is such that your phone has frozen, become
 1\. Press the volume down button and power button together until you see a screen with multiple options before you.
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14988992495864.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. Once you are on the Recovery Mode screen, use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
@@ -374,6 +372,10 @@ Updating the Android device will cast out all glitches that prevent it from oper
 
 ![choose download and install option](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 10: Use Wondershare Dr.Fone – System Repair To Fix Android System Crash
 
 If you are not getting any specific solution to the problem, you can try fixing the Android system crash problems using specific tools. These third-party tools can be an excellent option for resolving system errors in Android devices. [Wondershare Dr.Fone – System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) is a great tool designed to resolve all system issues in Realme Note 50] and other smartphones.
@@ -383,6 +385,10 @@ It features a great system providing a one-click Android repair option for fixin
 ### Key Features of Wondershare Dr.Fone – System Repair (Android)
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -430,6 +436,10 @@ Whatsoever Android you own, you need to put it in Download Mode, depending on th
 
 ![download the android os firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Fix the Firmware of Android**
 
 Once it downloads and is verified, click the "Fix Now" button to repair the Android successfully. You may need to provide a PIN to confirm the process. Once provided, the next screen shows the progress of the repair process. As it completes, click the "Done" button to conclude fixing the Android system crash issue.
@@ -458,9 +468,6 @@ You may also follow the instructions given below to Master set your device in Re
 
 When you are at the Recovery Mode screen, scroll down using volume down key, and from the options given, select “Factory Reset” using the power key.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset](https://images.wondershare.com/drfone/article/2017/07/14988993508337.jpeg)
 
 Wait for your device to perform the task and then:
@@ -485,14 +492,9 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -539,6 +541,10 @@ Tip: You can use [Dr.Fone – Phone Backup (Android)](https://tools.techidaily.c
 You will get some instructions on your screen to keep your device in Download mode. Follow them according to the Realme Note 50 device you own and hit “Next”. When you do this, the program will detect your device and let you download the latest firmware.
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
@@ -594,6 +600,10 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 
 ![easy mode to fix TouchWiz stopping](https://images.wondershare.com/drfone/article/2019/02/easy-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
 
 ### Boot your phone to safe mode
@@ -626,7 +636,6 @@ Along with this, we would also suggest you go take backup of your data so that y
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -639,9 +648,20 @@ We believe that you will find the above methods helpful. However, if still in ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fix-guide.techidaily.com/how-to-changefake-your-xiaomi-redmi-k70-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi Redmi K70 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Samsung Galaxy Z Fold 5.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-magic-6-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor Magic 6 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-nokia-c12-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nokia C12 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-narzo-60-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme Narzo 60 Pro 5G Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-sony-xperia-10-v-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Sony Xperia 10 V? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ready-for-action-top-6-thrilling-chatgpt-designed-games-await/"><u>Ready for Action? Top 6 Thrilling ChatGPT-Designed Games Await</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-high-res-screens-for-playstation-5-for-2024/"><u>Top 5 High-Res Screens for PlayStation 5 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-setting-up-obs-studio-for-high-definition-4k-capturing-and-streaming/"><u>Ultimate Guide: Setting Up OBS Studio for High-Definition 4K Capturing and Streaming</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-tecno-camon-30-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Tecno Camon 30 Pro 5G? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

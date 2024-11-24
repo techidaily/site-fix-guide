@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Infinix Note 30 Pro ? Fix It Easily | Dr.fone
-date: 2024-11-12T20:02:35.428Z
-updated: 2024-11-14T19:01:40.968Z
+date: 2024-11-17T20:58:00.203Z
+updated: 2024-11-24T19:23:04.728Z
 tags: 
   - problems
 categories:
@@ -40,9 +40,17 @@ Step 3: Press the Volume up and Volume down keys and use the Power key to select
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
@@ -81,6 +89,10 @@ Insert your device information, including the brand, carrier details, model and 
 
 ![select items to correctly fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #3** Follow the onscreen instructions on how to put your device in Download Mode.
 
 Your device should already be in this mode but follow the instructions to make sure. There are methods available for devices, both with and without home buttons.
@@ -96,19 +108,6 @@ Ensure your device, and your computer stays connected the entire time, and make 
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
@@ -129,6 +128,10 @@ Step 4: Press the Volume down key to select the "Wipe Data/ Factory Reset option
 Step 5: Next, you need to press the Volume down button to highlight "Delete All User Data" and then press the Power button to select it. The device will reset and present the "Reboot System Now" option.
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Backup and Restore Android System
 
@@ -157,13 +160,6 @@ Android system recovery mode can be quite useful, especially when your system is
 Google Chrome is one of the most popular web browsers in the world. It is fast, secure, and easy to use. However, like any other app, it is not free from errors. Many users have reported that Chrome crashes or won’t open on their Infinix Note 30 Pro. If you are also facing this issue, then you have come to the right place. In this article, we will discuss the reasons behind this problem and provide you with 7 solutions to fix Chrome crashes or won’t open on Infinix Note 30 Pro.
 
 Being one of the widely used browsers, Chrome is always our rescue whenever vital information is our need. Imagine, you launched Chrome for some urgent work and all of a sudden, got “Unfortunately Chrome has stopped” error. You re-opened it thinking about proper functioning of it now but to no avail. Does this situation sound familiar? Are you in a same problem as well? Fret not! We will discuss in this article why your Chrome is crashing on Android and the potential solutions to do away with the problem. Please read the article attentively and know what helps you best.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Too many tabs opened
 
@@ -197,13 +193,6 @@ While using any app for long, the temporary files for those gets collected in th
 
 Most probably Chrome is not able to support the website you are trying to access. We doubt if the particular website you are making use of is the culprit and making Chrome keeps stopping. In such case, we would like to recommend you to make use of another browser and try to access the website from there. See if this works or not. If now, please follow the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: Android firmware corruption
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
@@ -234,6 +223,10 @@ Now, you need to connect your Infinix Note 30 Pro with the computer using USB co
 
 ![fix Chrome crashing on Android - connect android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Enter Details
 
 On the following screen, you need to select the right phone brand, name model and enter career details. Check once to confirm and hit on “Next”.
@@ -243,13 +236,6 @@ Step 4: Download Firmware
 Now, follow the steps displaying on the screen to enter the DFU mode. When you do this, click on “Next” and the program will download the firmware.
 
 ![download firmware and fix Chrome crashing on Android](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Repair the Issue
 
@@ -285,13 +271,6 @@ Ever since Android is introduced, it has almost eliminated the need of computers
 
 First and foremost, the most common situation people meet with is when there Gmail keeps crashing. Or simply, it doesn’t respond at all. When you open it, it stuck for a few seconds and then you have to close it. It seriously is an annoying issue. If your Gmail is also not responding or crashing and you aren’t able to work properly, following are the solution you can follow.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Clear Cache
 
 The first thing you can do to fix Gmail not responding issue is to clear the cache of Gmail. This has higher chance to get the issue resolved. To do this:
@@ -312,6 +291,10 @@ The first thing you can do to fix Gmail not responding issue is to clear the cac
 
 Restarting the Infinix Note 30 Pro device in the first place simply resolves many problems and so in the instance when Gmail keeps stopping. Simply long press the power button of your device and restart the Infinix Note 30 Pro device. See of the problem gets vanished or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Factory Reset the Infinix Note 30 Pro device
 
 The next option that you can try is resetting your device. This will lead to data loss so we suggest you to take backup firstly and then proceed with this method.
@@ -319,13 +302,6 @@ The next option that you can try is resetting your device. This will lead to dat
 1. Hit on “Settings” and search for “Backup & Reset” option.
 
     ![gmail not working android - go to backup and reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. Tap on “Reset” or “Erase all data” (the option name again may vary).
 
@@ -350,15 +326,16 @@ When still the Gmail not working issue persists and you can’t sync, make sure 
 
     ![Gmail crashing on Android - find settings](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Check the box next to “Sync Gmail” if it’s not checked.
 
 ![Gmail crashing on Android - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Restart the Infinix Note 30 Pro device
@@ -381,13 +358,6 @@ If you tried the above method but to no avail, try to clear the cache and cookie
 
  If not the above one, try this tip. It encourages you to check your browser extensions. Perhaps these are interfering with the Gmail and due to this conflict, Gmail won’t load. You can either turn off these extensions and plug-ins temporarily or make use of the incognito mode of the browser where there are no such things like extensions and plug-ins.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Problem 4: Gmail can’t send or receive
 
 Gmail also gives you problem in sending or receive mails and messages. And to troubleshoot such issue, following are the solutions mentioned.
@@ -397,6 +367,10 @@ Gmail also gives you problem in sending or receive mails and messages. And to tr
 This issue is likely to emerge when you are using an outdated version of Gmail. And therefore, the first solution says you to check if the Gmail update is available. You can go to the Play Store and from the “My apps & games” option, you can see if Gmail needs to be updated or not.
 
 ![Gmail crashing on Android - check version](https://images.wondershare.com/drfone/article/2019/04/check-update-gmail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Verify Internet Connection
 
@@ -473,6 +447,10 @@ It is a universal method to fix minor Android system issues. And here too, we wo
 
 Usually all the apps start running slow when the Infinix Note 30 Pro device is not having sufficient space. As the apps need space to function quickly and appropriately, having the Infinix Note 30 Pro device on low storage can prove to be a bad luck for Gmail. So, make sure you wipe out the items you no longer needed on your device and create some room so that the Gmail responds nicely and won’t be running slow anymore.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Gmail App
 
 As the last tip that will indeed help you is to update the Gmail app. Until you update the app when required, Gmail keeps stopping you from working and you will definitely get frustrated. Therefore, go to Play Store and look for the Gmail update. If it is available, welcome it with smile and bid farewell to the problem of slow running Gmail.
@@ -505,16 +483,18 @@ Fix all Gmail issues caused by Android system:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-streamlining-roblox-games-on-mac-for-recording/"><u>[New] Streamlining Roblox Games on Mac for Recording</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/471317-9781848033122-77-ways-to-improve-your-wellbeing/"><u>77 Ways to Improve Your Wellbeing | Free Book</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/best-online-video-saving-tools-reviewed-and-ranked-for-2024/"><u>Best Online Video Saving Tools Reviewed & Ranked for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic-6-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic 6 Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-note-50-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme Note 50 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-note-12r-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi Note 12R Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-note-12-pro-4g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi Note 12 Pro 4G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-se-2022-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone SE (2022) Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-y55s-5g-2023-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo Y55s 5G (2023) ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-hook-creation-tool-for-online-titles-for-2024/"><u>[New] Ultimate Hook-Creation Tool for Online Titles for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-time-efficient-methods-for-recording-vimeo-videos/"><u>[Updated] In 2024, Time-Efficient Methods for Recording Vimeo Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-a-comprehensive-guide-to-interoperable-playlists/"><u>2024 Approved A Comprehensive Guide to Interoperable Playlists</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-channel-transformation-unleash-potential-with-tubebuddy/"><u>2024 Approved Channel Transformation Unleash Potential with TubeBuddy</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-meizu-21-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Meizu 21 Phone When You Forget the Password</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clear-cut-instructions-to-address-and-repair-steamvrs-error-308/"><u>Clear-Cut Instructions to Address and Repair SteamVR's Error 308</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-two-screen-viewing-step-by-step-guide-for-netflix-users/"><u>In 2024, Mastering Two Screen Viewing - Step By Step Guide For Netflix Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-v30-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo V30? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c33-2023-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C33 2023 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-find-x7-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Find X7 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-k11x-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo K11x Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-note-12-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 12 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 

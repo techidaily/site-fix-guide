@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Vivo Y78t? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:55:42.523Z
-updated: 2024-07-15T06:55:42.523Z
+date: 2024-11-20T21:48:20.185Z
+updated: 2024-11-24T18:52:16.781Z
 tags: 
   - problems
 categories:
@@ -81,6 +81,10 @@ Revitalize your Google Play Store by addressing performance issues. Clearing cac
 
 ![clearing cache and date on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Play Store
 
 Enhance your Play Store's functionality by ensuring it's up-to-date. This method suits those who haven't updated their Google Play Store for a long time. Follow the steps below.
@@ -102,6 +106,10 @@ Restore your device's app settings to default for improved functionality. Below 
 - **Step 2:** Tap the three dots in the top-right corner and choose **Reset app preferences**.
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Re-add Google Account
 
@@ -130,6 +138,10 @@ Ensure your device's overall stability by performing a system update to ensure t
 
 ![perform system update on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
 
 ## Part IV. How To Repair Play Store Not Working With an Alternative
@@ -138,9 +150,6 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 - **Step 1**: Begin by downloading and installing Dr.Fone - System Repair (Android) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,207,329** people have downloaded it
@@ -157,11 +166,19 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
 
 Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known for its user-friendly interface and high success rate. Its ability to address a wide range of Android issues offers a comprehensive solution to various system-related problems. Below are the platform's key highlights.
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -180,8 +197,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
 ## Top 4 Android System Repair Software for Vivo Y78t Bricked Devices
 
 Is your Vivo Y78t device showing signs of being "bricked" or "soft-bricked"? When a **Vivo Y78t is bricked**, it becomes unresponsive and unusable. But fear not, as this article will guide you through reviving your device's functionality. It will delve into the significance of unbricking and how it restores usability.
@@ -193,6 +208,10 @@ Moreover, this article will introduce you to the world of **Vivo Y78t unbrick to
 ## Part 1: Understanding Bricked Vivo Y78t
 
 Have you ever heard the term "bricked" concerning your Vivo Y78t device? This section explains it to you in simple terms. Imagine your device becoming like a brick, unresponsive and seemingly lifeless. That's what happens when a **Vivo Y78t gets bricked**. There are two main types of brick: soft brick and hard brick.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soft Brick
 
@@ -232,18 +251,6 @@ So, why is it important to know all this? Well, a bricked device isn't just frus
 
 Now that you've grasped the concept, let's dive into how to **unbrick a Vivo Y78t**. That's where Android system repair software comes in. These clever programs are like doctors for your device's software. They diagnose and fix issues to keep your appliance running smoothly. Let's explore the cream of the crop when it comes to these software solutions:
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### <u>Wondershare Dr.Fone</u>
 
 Dr.Fone - System Repair (Android) is like a magic wand for your Vivo Y78t device. It's designed to rescue your device from troubles and make it run smoothly again. Dr.Fone - System Repair (Android) is built to  fix various issues, including a bricked device. It can resolve problems like [<u>black screens</u>](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html), frozen devices, boot loops, and even devices stuck in recovery mode.
@@ -306,9 +313,6 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Vivo Y78t*
 
 - **Step 3:** When you click through to the next window, the service will automatically recognize the manufacturer of the Android device. Choose the appropriate **Brand**, **Name**, **Model**, **Country**, and **Carrier** from the drop-down menus. Select **OPEN** in the **Carrier** area if the phone is unlocked. The next step is to tick the box labeled **I accept the risk and am ready to continue**. Click **Next** to proceed with the rest of the Vivo Y78t device repair.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 4:** Put your Vivo Y78t into **Download Mode** when prompted.
@@ -338,6 +342,10 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Vivo Y78t*
 This software is a real game-changer in resolving Android system problems. It specializes in repairing system issues, enhancing device performance, and cleaning up unnecessary files.
 
 ![repair system and phone master](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -388,6 +396,10 @@ Check below to learn about this app's drawback:
 
 - Advanced issues might require professional intervention.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### <u>Phone Doctor Plus</u>
 
 Phone Doctor Plus is like a health check-up app for your device. It's designed to repair system issues and diagnose hardware problems that might contribute to a bricked device.
@@ -413,6 +425,10 @@ This app's advantages include the following:
 Check out this app's disadvantages below:
 
 - Not solely focused on software repair, might not cover all scenarios.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Tips on Preventing Future Bricking Incidents
 
@@ -462,15 +478,16 @@ Encountering a **bricked Vivo Y78t** device can be a frustrating roadblock. Howe
 
 So, whether your device is experiencing a soft brick or a hard brick, you now have the best tools and knowledge to overcome it. Dive into the Android system repair software world, explore your options, and bid farewell to brick. Welcome a revived, functioning Vivo Y78t device into your daily life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Solutions to Fix Chrome Crashes or Won’t Open on Vivo Y78t
 
 Google Chrome is one of the most popular web browsers in the world. It is fast, secure, and easy to use. However, like any other app, it is not free from errors. Many users have reported that Chrome crashes or won’t open on their Vivo Y78t. If you are also facing this issue, then you have come to the right place. In this article, we will discuss the reasons behind this problem and provide you with 7 solutions to fix Chrome crashes or won’t open on Vivo Y78t.
 
 Being one of the widely used browsers, Chrome is always our rescue whenever vital information is our need. Imagine, you launched Chrome for some urgent work and all of a sudden, got “Unfortunately Chrome has stopped” error. You re-opened it thinking about proper functioning of it now but to no avail. Does this situation sound familiar? Are you in a same problem as well? Fret not! We will discuss in this article why your Chrome is crashing on Android and the potential solutions to do away with the problem. Please read the article attentively and know what helps you best.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Too many tabs opened
 
 One of the main reasons why Chrome keeps crashing could be the multiple opened tabs. If you keep open the tabs, it may slow down the performance of Chrome and the app will use RAM. As a result, it will obviously get stopped midway. Therefore, we suggest you to close the tabs which are opened. And once you do that, exit the app and then launch it again.
@@ -507,8 +524,6 @@ Most probably Chrome is not able to support the website you are trying to access
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix crashing Chrome
@@ -533,14 +548,6 @@ Step 2: Get Android Device Connected
 
 Now, you need to connect your Vivo Y78t with the computer using USB cord. When the Vivo Y78t device is connected successfully, click on the “Android Repair” option from the left panel.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Chrome crashing on Android - connect android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Enter Details
@@ -579,7 +586,6 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 
 ![fix Chrome crashing by updating android](https://images.wondershare.com/drfone/article/2019/05/update-android.jpg)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -592,9 +598,21 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-youtube-consumption-strategies-for-organizing-videos-for-future-viewing/"><u>[New] 2024 Approved Elevating YouTube Consumption Strategies for Organizing Videos for Future Viewing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-fixing-overencoded-obs-videos/"><u>[New] In 2024, Fixing Overencoded OBS Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-expedited-guide-to-effective-double-take-technique-for-2024/"><u>[Updated] Expedited Guide to Effective Double-Take Technique for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-gopro-hero-5-vs-nikon-km-170-for-adventurers-for-2024/"><u>[Updated] GoPro HERO 5 vs Nikon KM-170 for Adventurers for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-gps-location-on-xiaomi-13t-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Xiaomi 13T Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-p55t-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel P55T Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/schaffung-von-windows-recovery-medien-auf-einem-usb-stick-alternative-ansatze-zur-datenrettung/"><u>Schaffung Von Windows Recovery-Medien Auf Einem USB-Stick - Alternative Ansätze Zur Datenrettung</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/see-all-around-the-ultimate-guide-to-11-bridging-cams-for-2024/"><u>See All Around The Ultimate Guide to #11 Bridging Cams for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-6-social-media-outlets-boosting-business-revenue/"><u>Top 6 Social Media Outlets Boosting Business Revenue</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ultimate-list-of-ae-title-enhancement-methods/"><u>Ultimate List of AE Title Enhancement Methods</u></a></li>
+</ul></div>
 

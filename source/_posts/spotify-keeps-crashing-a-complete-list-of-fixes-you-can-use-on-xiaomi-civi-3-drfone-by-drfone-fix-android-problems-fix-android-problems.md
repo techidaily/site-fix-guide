@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Civi 3 | Dr.fone
-date: 2024-11-10T11:28:23.323Z
-updated: 2024-11-15T01:25:41.659Z
+date: 2024-11-17T20:40:29.013Z
+updated: 2024-11-24T21:47:28.262Z
 tags: 
   - problems
 categories:
@@ -65,6 +65,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![downloading firmware in progress](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
 
 ![fix your android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
@@ -86,13 +90,6 @@ There are two ways to enter Download Mode: one for Android devices with the Home
 The steps for entering Download Mode on an Android phone with the Home button are as follows:
 
 ![enter download mode with the home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 1:** Turn off your phone.
 - **Step 2:** Press and hold the **Volume Down**,**Home**, and **Power** buttons simultaneously.
@@ -131,13 +128,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![log out of spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Tap **Log In**.
 
 ![log into spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-6.jpg)
@@ -146,6 +136,10 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 - **Step 6:** Tap **Login**again, and you’re in.
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4. Restart Your Device
 
@@ -234,13 +228,6 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 10. Check if Spotify Is Down
 
 If your Spotify keeps crashing and closing, it might not be your device’s problem. Sometimes, Spotify’s server can be down, and many people face the same issue. If that’s the case, you can check with your friends if their Spotify is working or check online if Spotify is down. To do that, follow these steps:
@@ -254,7 +241,15 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 11. Clear the Cache
 
@@ -273,16 +268,13 @@ When using different apps and websites, your device caches data from those sourc
 
 ![spotify storage usage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-24.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Tap **Clear Cache**.
 
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -300,18 +292,15 @@ In this guide, discover reliable solutions when your **Google Play Store is not 
 
 ![woman annoyed on phone not working](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I. 7 Common Google Play Store Issues Users Encounter
 
 The Google Play Store serves as the epicenter for Android users. It facilitates seamless access to a vast array of apps. However, encountering issues with the platform can impact the functionality of your device. Below are 7 common issues on why your **Google Play Store is not responding**.
 
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Inability To Open the Play Store
 
@@ -390,6 +379,10 @@ Restore your device's app settings to default for improved functionality. Below 
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Re-add Google Account
 
 Resolve Play Store issues by re-adding your Google account. Follow these steps in **Settings** to remove and re-add your Google account, ensuring a seamless and error-free experience.
@@ -409,10 +402,7 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Perform a System Update
@@ -448,6 +438,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
 
 Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known for its user-friendly interface and high success rate. Its ability to address a wide range of Android issues offers a comprehensive solution to various system-related problems. Below are the platform's key highlights.
@@ -464,19 +458,6 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,131,376** people have downloaded it
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -524,6 +505,10 @@ As mentioned before, some apps rely on the internet to function. If you don’t 
 
 ![check the internet connection](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Force Stop the Apps Keep Crashing
 
 If your ****apps keep crashing****, you should try force-closing the targeted app and re-opening it. Doing this will flush out minor bugs and glitches from the app. These temporary bugs and glitches can occur due to various reasons and hamper the app's working. Use the following steps to force stop the app that keeps crashing and re-open it:
@@ -531,13 +516,6 @@ If your ****apps keep crashing****, you should try force-closing the targeted ap
 - ****Step 1:**** On your Xiaomi Civi 3, move the app icon and press it to select “App Info.” On the App Info screen, tap the “Force Stop” button to force close the app. The button can be either on the down left or down right corner.
 
 ![tap on force stop](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - ****Step 2:**** After force closing the app, relaunch it and see if the app crashing issue is resolved.
 
@@ -675,14 +653,19 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-ultimate-top-5-cost-free-pinterest-videos-download/"><u>[New] Ultimate Top 5 Cost-Free Pinterest Videos Download</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722975507764-enhancing-your-brother-device-functionality-windows-compatible-driver-upgrades-available-now/"><u>Enhancing Your Brother Device Functionality: Windows-Compatible Driver Upgrades Available Now</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-does-find-my-friends-work-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ios-16-lock-screen-troubles-how-to-activate-and-enhance-the-depth-effect-feature-7-tips/"><u>IOS 16 Lock Screen Troubles: How to Activate and Enhance the Depth Effect Feature (7 Tips)</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-pova-5-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Pova 5 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/principles-of-learning-not-relying-on-gpt-for-grades/"><u>Principles of Learning: Not Relying on GPT for Grades</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-note-30-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Note 30 Pro Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/tackling-covid-19-rumors-strategies-for-social-media/"><u>Tackling COVID-19 Rumors: Strategies for Social Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/accelerate-fun-factors-essential-5-steps-to-better-games-on-macos/"><u>Accelerate Fun Factors: Essential 5 Steps to Better Games on macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-access-violation-windows-save-permissions-error/"><u>Fixing Access Violation: Windows Save Permissions Error</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-asus-board-software-for-your-windows-pc/"><u>How to Get the Latest ASUS Board Software for Your Windows PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-itel-p55t-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Itel P55T Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-s18e-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo S18e in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-n30-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-x5-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X5 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-guide-for-your-new-scansnap-s1100-scanner-drivers/"><u>Quick Setup Guide for Your New Scansnap S1100 Scanner Drivers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/strategic-youtube-content-publishing-to-boost-view-counts-for-2024/"><u>Strategic YouTube Content Publishing to Boost View Counts for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/tips-for-including-vimeo-content-on-instagram-for-2024/"><u>Tips for Including Vimeo Content on Instagram for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-16-from-infinix-hot-30-5g-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 16 from Infinix Hot 30 5G to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
 </ul></div>
 

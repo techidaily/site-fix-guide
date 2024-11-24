@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Network: An Expert Review of the AC1200 Wireless Repeater by Netgear (EX6200 Series)"
-date: 2024-11-13T23:17:24.623Z
-updated: 2024-11-15T03:12:24.426Z
+date: 2024-11-20T21:04:55.164Z
+updated: 2024-11-24T16:26:51.389Z
 categories:
   - BestProducts
 description: "This Article Describes Boosting Your Network: An Expert Review of the AC1200 Wireless Repeater by Netgear (EX6200 Series)"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/ac5ea28508f08a71ef3011645ae3c8126537c0f91
 ## Experience Speed with the TP-Link Archer C80 - The Budget Wireless Router Reviewed
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
@@ -44,6 +48,10 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Erika Rawes
 
 [View On Walmart $68](https://www.walmart.com/ip/124219534) [View On Target $100](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.target.com%2Fp%2Ftp-link-ac1900-mu-mimo-mesh-compatible-dual-band-router%2F-%2FA-79847605%3Fslfpid%3D3) [View On Staples $91](https://www.staples.com/tp-link-archer-c80-ac1900-dual-band-wireless-and-ethernet-router-black/product%5F24467939?cid=AFF%3A24467939&slfpid=3)
@@ -63,13 +71,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -79,10 +80,7 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -98,6 +96,10 @@ Lifewire / Erika Rawes
  On the bright side, the C80 has beamforming, which promotes a more concentrated signal and a longer range. It has 3 x 3 MU-MIMO technology, which means it can transmit and receive three data streams simultaneously. This helps the router provide a faster signal when you’re watching shows, gaming, or using a 3 x 3 capable computer. It has smart connect, which makes it possible for your router to switch devices between bands, and airtime fairness, which helps reduce lag caused by older or slower devices by distributing airtime more equally. This way, a slow device is less likely to bog down the network.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/tXeiVJNqjtwMg97as87xxtsMwhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_04-375b5f92ce9d44f4af109c8f6bfada16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -117,13 +119,6 @@ Lifewire / Erika Rawes
 
  Every closet, bathroom, and bedroom maintained a signal, and I experienced no dead zones whatsoever.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Software: TP-Link Tether app**
 
  The C80 is a cinch to set up in less than five minutes, with guest networks created and all. The TP-Link Tether app is one of my favorite router companion apps. The interface is super clean, and you can see exactly what devices are on each of your network bands. You can even have the app alert you when a new device signs into your network.
@@ -134,21 +129,7 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Around 100 bucks**
 
@@ -163,6 +144,10 @@ Lifewire / Erika Rawes
 **Fast speeds and an exceptionally long range.**
 
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -199,20 +184,19 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/crafting-a-winning-windowsmac-skype-chat-circle/"><u>Crafting a Winning Windows/Mac Skype Chat Circle</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-8-linux-software-for-editors-for-2024/"><u>Essential 8 Linux Software for Editors for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y100i-power-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y100i Power 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-c67-4g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme C67 4G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/huawei-nova-y91-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Huawei Nova Y91 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-x100-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo X100 Pro FRP Bypass</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximizing-video-quality-in-zoom-conferences-for-2024/"><u>Maximizing Video Quality in Zoom Conferences for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209699345-9781547585601-meditacion-meditacion-para-principiantes-guiada-para-lograr-la-espiritualidad-del-estado-zen/"><u>Meditación : Meditación Para Principiantes Guiada Para Lograr La Espiritualidad Del Estado Zen | Free Book</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pinnacle-10-tools-for-masterful-online-subtitle-edits-for-2024/"><u>Pinnacle 10 Tools for Masterful Online Subtitle Edits for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-note-12-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi Note 12 Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tackling-iphone-13-glitches-head-on-strategies-for-resolving-its-top-6-faults/"><u>Tackling iPhone 13 Glitches Head-On: Strategies for Resolving Its Top 6 Faults</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-cutting-and-compositing-for-youtube-videos-using-premiere-pro/"><u>[New] 2024 Approved Cutting and Compositing for YouTube Videos Using Premiere Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unlocking-the-power-of-google-meet-with-your-tech/"><u>[New] In 2024, Unlocking the Power of Google Meet with Your Tech</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-pro-techniques-recording-your-twitch-showcase-for-2024/"><u>[Updated] Pro Techniques Recording Your Twitch Showcase for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-x-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone X When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-redmi-k70-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi K70 Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-edge-2023-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Edge 2023 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-momentum-go-from-zero-to-viral-in-fb/"><u>Mastering Momentum Go From Zero to Viral in FB</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-samsung-galaxy-a05s-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Samsung Galaxy A05s? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-s24plus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy S24+ Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/swift-and-simple-acquiring-itunes-radio-episodes/"><u>Swift and Simple Acquiring iTunes Radio Episodes</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-the-enigma-of-fbs-secretive-users/"><u>Unraveling the Enigma of Fb's Secretive Users</u></a></li>
 </ul></div>
 

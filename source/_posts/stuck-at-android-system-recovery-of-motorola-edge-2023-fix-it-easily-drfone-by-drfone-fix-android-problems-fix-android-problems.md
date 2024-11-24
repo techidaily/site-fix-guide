@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Motorola Edge 2023 ? Fix It Easily | Dr.fone
-date: 2024-11-08T04:54:03.261Z
-updated: 2024-11-15T13:22:08.130Z
+date: 2024-11-23T16:29:21.332Z
+updated: 2024-11-24T21:04:50.420Z
 tags: 
   - problems
 categories:
@@ -31,6 +31,10 @@ Now that you know how useful the Android System can be, you may want to know how
 Step 1: Hold down the power key and then select "Power Off" from the options on the screen. If, however, your screen is unresponsive, keep holding the power key for several seconds until the Motorola Edge 2023 device is completely turned off.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
@@ -77,6 +81,10 @@ Once installed on your computer, open onto the main menu and connect your Motoro
 
 ![get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Insert your device information, including the brand, carrier details, model and country and region you're in to ensure you're downloading the correct firmware.
 
 ![select items to correctly fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -86,6 +94,10 @@ Insert your device information, including the brand, carrier details, model and 
 Your device should already be in this mode but follow the instructions to make sure. There are methods available for devices, both with and without home buttons.
 
 ![fix Android stuck at System recovery in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #4** The firmware will now start downloading. You'll be able to track this process in the window.
 
@@ -190,25 +202,11 @@ Now, hit on the "Android Repair" from the 3 options on the left, followed by hit
 
 ![fix sim not provisioned on android - select android repair](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3. Boot your device in Download mode
 
 You must put your device in Download mode for better repairing of your Android OS. Simply follow the onscreen guide to boot your Android in DFU mode and hit "Next" thereafter. Once done, the software will automatically start downloading the most compatible and recent firmware for your device.
 
 ![fix sim not provisioned on android - boot in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4. Initiate Repairing
 
@@ -223,13 +221,6 @@ As soon as the download completes, the software verifies the firmware and automa
 ### 2.2 Ensure the SIM card is not dirty or wet
 
 At times, the issue can be as simple as cleaning your SIM card and SIM slot properly. Ensuring that SIM is not wet either and then putting it back into its place. If this works, then the SIM not working in Android was due to the dirt or moisture that was preventing proper contact between SIM card pins and smartphone circuit.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.3 Insert the SIM card correctly
 
@@ -250,13 +241,6 @@ Usually, when you buy a new SIM card, it gets automatically activated within 24 
 
 Note: The aforementioned options are straightforward and are quick ways to enable activation. It depends on your carrier network whether they support them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.5 Contact your carrier
 
 Even if your SIM isn’t activated, grab another working device to make a phone call to your carrier or network. Ensure, to explain the entire situation and the error message to them. Be patient while they investigate the issue. It may eat up a heck load of time or may get resolved in a few minutes that completely depend upon the complexity of the issue.
@@ -273,6 +257,10 @@ A yet another reason why SIM not working in Android can be because of the SIM ca
 
 Or just in case, you’ve still no joy and the SIM not provisioned on Android message is bothering you. Try making use of another Android device. Eject the SIM card from the Motorola Edge 2023 device which is creating problems and try plugging it into other Motorola Edge 2023] and other smartphones. Perhaps, this will let you know whether the issue is with your device only or with the SIM card itself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.8 Try a new SIM card
 
 Still, wondering how to fix SIM not provisioned? Perhaps, nothing worked for you, right? Well, on that note, you must head to your carrier store and request a new SIM card. Also, inform them about the “SIM not provisioned MM2” error, they will be able to execute proper diagnostics over your old SIM card and hopefully get it resolved. Or else, they’ll equip you with a brand new SIM card and swap the new SIM card into your device and get it activated in the meantime. Eventually, restoring the normal functioning of your device.
@@ -283,24 +271,29 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Solved] Warning: Camera Failed on Motorola Edge 2023
 
 In this article, you will learn why camera fails on Motorola Edge 2023 devices, how to make camera work again, as well as a system repair tool to fix this issue in few clicks.
 
 [![](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Motorola Edge 2023 devices are one of the best Android devices available in the market and their users are always satisfied with their features. However, it is a recent observation that many Motorola Edge 2023 users complain about Motorola Edge 2023 camera failed error while using the camera App on the Motorola Edge 2023 device. It is a strange error and pops up suddenly with only one option to tap on, i.e., “OK”
 
 The error message reads as follows: “Warning: Camera Failed”.
 
 Once you click on “OK” the app shuts down abruptly and your Motorola Edge 2023 camera is failed. We understand this is not a very pleasing situation, thus, here are ways to tackle the camera failed Motorola Edge 2023 issue. Let us now move ahead and find out why exactly you experience Warning: Camera Failed error and how to fix it.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Why Motorola Edge 2023 phone has Warning: Camera Failed error?
 
@@ -365,25 +358,11 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 
 ![camera app](https://images.wondershare.com/drfone/article/2017/07/14997065904511.jpg "camera app")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
 ![clear data](https://images.wondershare.com/drfone/article/2017/07/14997066321127.jpg "clear data")
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How to fix Camera Failed error by removing third-party Apps?
 
@@ -411,13 +390,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![power off device](https://images.wondershare.com/drfone/article/2017/07/14997067521730.jpeg "power off device")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Now, press and hold the power on/off, home and volume up button simultaneously. Your device will now vibrate. This a signal to let go of the power button (only).
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14997067742072.jpg "boot in recovery mode")
@@ -426,11 +398,19 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
 
 You may try to use the camera app once the process completes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: How to fix Camera Failed error by Reset Settings?
 
@@ -472,6 +452,10 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/07/14997070554687.jpg "erase everything")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: You will have to set up your Motorola Edge 2023 device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Motorola Edge 2023 devices.
@@ -490,21 +474,19 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/hat-everyone-must-know-about-creating-short-form-videos-for-2024/"><u>[New] What Everyone Must Know About Creating Short-Form Videos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1716069816635-updated-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series-for-2024/"><u>[Updated] Capturing Screen Content via Built-In Recorders in the Mate and P Series. For 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-impossible-roblox-app-failures/"><u>Eliminating Impossible Roblox App Failures</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/enhancing-your-playtime-non-gamebar-video-recording-options-for-2024/"><u>Enhancing Your Playtime Non-GameBar Video Recording Options for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-gt-neo-5-se-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme GT Neo 5 SE? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-smart-8-plus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Smart 8 Plus Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedies-for-no-powershell-found-on-your-windows-device/"><u>Remedies for No PowerShell Found on Your Windows Device</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/ultimate-12-stream-live-tv-platform/"><u>Ultimate 12-Stream Live TV Platform</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-top-ranked-iphone-ipad-file-sync-software-effortlessly-move-photos-music-and-videos-between-devices-and-pc/"><u>Ultimate Guide: Top-Ranked iPhone iPad File Sync Software - Effortlessly Move Photos, Music & Videos Between Devices and PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-apples-smart-technology-in-ios-181-beta-version-learn-how-to-participate-today/"><u>Unveiling Apple's Smart Technology in iOS 18.1 Beta Version – Learn How to Participate Today!</u></a></li>
-<li><a href="https://solve-news.techidaily.com/1726220847308-3gpwma-movavi/"><u>オンラインで3GPとWMAファイルを無料で変換 - Movavi</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capture-your-world-no-cost-screen-recording-apps-for-pcmac/"><u>[New] In 2024, Capture Your World No-Cost Screen Recording Apps for PC/Mac</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-supercharge-your-tweet-views-for-flawless-hd/"><u>[New] Supercharge Your Tweet Views for Flawless HD</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-skybound-streaming-engaging-your-audience-on-facebook/"><u>[Updated] Skybound Streaming Engaging Your Audience on Facebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-steady-selfies-and-photos/"><u>2024 Approved The Art of Steady Selfies & Photos</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-v30t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme V30T without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-pova-5-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Pova 5 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-7-high-earning-remote-job-tools-maximize-your-profits-working-from-anywhere/"><u>Top 7 High-Earning Remote Job Tools: Maximize Your Profits Working From Anywhere</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-vr-bikes-to-check-out/"><u>Top VR Bikes to Check Out</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-setup-tutorial-installing-logitechs-mx-master-desktop-software/"><u>Ultimate Setup Tutorial: Installing Logitech's MX Master Desktop Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/windows-instant-file-review-techniques-for-2024/"><u>Windows Instant File Review Techniques for 2024</u></a></li>
 </ul></div>
 

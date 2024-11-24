@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Sony Xperia 5 V | Dr.fone
-date: 2024-11-14T10:49:58.916Z
-updated: 2024-11-14T23:47:03.843Z
+date: 2024-11-21T19:33:49.095Z
+updated: 2024-11-24T17:02:27.523Z
 tags: 
   - problems
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 Does your **Spotify keep crashing**? You’re not alone. This problem is widespread and can happen to anyone. Fortunately, there are ways to rectify it quickly and easily. We’ve prepared a guide to fixing your Spotify crashing problem.
 
 In our guide, you’ll find out why your Spotify keeps crashing. Moreover, you’ll get a list of fixes for your **Spotify closing** problem and detailed instructions. Once you’ve read our guide, you’ll successfully solve the problem of **Spotify crashing on Android**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Spotify Keeps Crashing
 
@@ -81,6 +85,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![completed android system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There are two ways to enter Download Mode: one for Android devices with the Home button and another for those without it.
 
 The steps for entering Download Mode on an Android phone with the Home button are as follows:
@@ -133,13 +141,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4. Restart Your Device
 
 Another way to stop Spotify from crashing can be restarting your Android. The steps may vary slightly depending on the Sony Xperia 5 V device, but they’re mostly the same. Follow these steps to restart your device:
@@ -148,13 +149,6 @@ Another way to stop Spotify from crashing can be restarting your Android. The st
 - **Step 2:** Tap **Restart**. That will restart your Android, and you can try opening Spotify again.
 
 ![restart android to fix spotify crashing](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5. Set Up Your Time and Date
 
@@ -189,16 +183,7 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 ![install system update on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-13.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7. Update Your App
@@ -260,19 +245,6 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
 ### 11. Clear the Cache
@@ -288,6 +260,10 @@ When using different apps and websites, your device caches data from those sourc
 
 ![spotify in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-23.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Tap **Storage**or **Storage usage**.
 
 ![spotify storage usage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-24.jpg)
@@ -296,13 +272,14 @@ When using different apps and websites, your device caches data from those sourc
 
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -314,6 +291,10 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 ## Authentication Error Occurred on Sony Xperia 5 V? Here Are 10 Proven Fixes
 
 There are times when users get an authentication error while they connect to a Wifi network. The problem is mostly found in Android whenever a device tries to establish a connection to Wifi. If your device is also experiencing an authentication problem Wifi, then don’t worry. It can easily be resolved. In this post, we will make you familiar with the root cause for the Sony Xperia 5 V Wifi problem and how you can resolve whenever authentication error occurred on your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Any idea about the Wi-Fi authentication problem?
 
@@ -501,13 +482,6 @@ There could be plenty of reasons for getting the process system is not respondin
 
 No matter what the cause is, there are plenty of ways to overcome this issue. We have listed a handful of them in this post.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fix Android Process Not Responding? 8 Fixes
 
 When this error occurs, it can disrupt the normal operation of the Sony Xperia 5 V device, causing apps to freeze or crash. Fortunately, there are several effective methods to address this problem.
@@ -517,6 +491,10 @@ When this error occurs, it can disrupt the normal operation of the Sony Xperia 5
 This is one of the easiest ways to resolve the **process system not responding** error. If you are getting this error on your phone, then try to manually restart your device. The way to restart your phone might differ from one device to another. Mostly, it can be done by long-pressing the power button. This will provide different power options. Tap on the “Reboot” one to restart your phone.
 
 ![power off android device](https://images.wondershare.com/drfone/article/2017/06/14980669668439.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If it won’t work, then long press the Power and Volume up buttons at the same time until the screen goes off. Afterward, use the power button again to turn it on.
 
@@ -542,13 +520,6 @@ In case the Android internal memory is completely filled, it will slow down the 
 
 ![press the free up button](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Enter Safe Mode to Uninstall Suspicious Apps
 
 This issue can also occur if you have installed an app from the Google Play Store with a very low rating or an APK. Unlike Apple App Store, anyone can easily upload their mobile apps on Play Store, so it is important to check the app's credibility before installing it. Following are the simplified instructions to enter the safe mode and delete all suspicious applications:
@@ -564,6 +535,10 @@ Updating the apps is crucial for any Android device to work with high efficiency
 **Step 1:** Locate the Play Store from the Android home screen and access it. Then, tap the “Profile” icon from the top right corner and proceed to the “Manage apps and devices” option. Afterward, you can check how many app updates are available from the “Updates available” option. To update the apps, you will have to go inside this option.
 
 ![choose the updates available](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** You can tap on the “Update All” button if you want to update all the apps one by one. Otherwise, you can press the “Update” option adjacent to each app name to update the frequently used ones.
 
@@ -612,18 +587,15 @@ Android repair tool to fix all Android system issues in one click
 
 ![fix process system not responding by confirming device details](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - 5\. After a while, your Android will be repaired with the "process system isn't responding" error fixed.
 
 ![process system not responding successfully fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Factory reset Android
 
@@ -682,20 +654,19 @@ Now that you know different ways to fix the **process system not responding** er
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-viral-success-the-most-loved-ae-themes-for-social-media/"><u>[New] 2024 Approved Viral Success The Most Loved AE Themes for Social Media</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-pioneering-usability-unearthed-strategies-for-amplified-windows-11-capabilities/"><u>[Updated] In 2024, Pioneering Usability Unearthed Strategies for Amplified Windows 11 Capabilities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>[Updated] Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/nix-youtube-snippet-playback-on-all-devices/"><u>Nix YouTube Snippet Playback on All Devices</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-edge-2023-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Edge 2023 Black and White | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-reno-11-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo Reno 11 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a25-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A25 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-free-tools-fur-den-externen-speicherdruck-von-hartnackigen-matrizen-herunterladen/"><u>Top Free Tools Für Den Externen Speicherdruck Von Hartnäckigen Matrizen – Herunterladen</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-strategies-for-ps4-video-game-preservation-for-2024/"><u>Top Strategies for PS4 Video Game Preservation for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-all-you-need-to-know-about-bandicam-updated/"><u>[Updated] All You Need to Know About Bandicam (Updated )</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-quick-guide-youtube-soundtracks-to-mp3-for-macos-2shift-for-2024/"><u>[Updated] Quick Guide YouTube Soundtracks to MP3 for MacOS 2Shift for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-save-photo-from-video-in-windows-11-photos-app/"><u>2024 Approved How to Save Photo From Video in Windows 11 Photos App</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-voice-of-volume-6-free-apps-for-channeling-youtube-music-onto-android-devices/"><u>2024 Approved Voice of Volume 6 Free Apps for Channeling YouTube Music Onto Android Devices</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/creating-captivating-e-brochures-with-custom-fonts-in-flipbuilder/"><u>Creating Captivating E-Brochures with Custom Fonts in FlipBuilder</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-infinix-gt-10-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Infinix GT 10 Pro.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/firefoxs-prime-expert-downloads-and-addons-navigating-facebook-videos-for-2024/"><u>Firefox's Prime Expert Downloads & Addons Navigating Facebook Videos for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-note-30-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Note 30 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-guide-to-updating-the-microsoft-sculpt-keyboards-software/"><u>Seamless Guide to Updating the Microsoft Sculpt Keyboard's Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor V Purse | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Infinix Note 30 5G? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:21.997Z
-updated: 2024-07-15T06:52:21.997Z
+date: 2024-11-20T21:13:41.560Z
+updated: 2024-11-24T16:02:22.798Z
 tags: 
   - problems
 categories:
@@ -55,13 +55,18 @@ Problems with authentication and account access can lock users out of their Goog
 Persistent connection and network errors impede the Play Store's ability to fetch data. It hinders users from browsing and downloading apps. The issue is frustrating in areas with unstable internet connectivity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part II. Why Does the Google Play Store Keep Stopping?
 
 If you're wondering **why does Google Play Store keeps stopping** on your phone, there can be several factors. Here are some of them below.
 
 ![man having issues on mobile phone](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Network issues.**Unstable or poor internet connections can disrupt the communication between the Infinix Note 30 5G device and the Play Store. It can lead to frequent crashes.
 - **Outdated Play Store version.**Running an outdated version of the Play Store may result in compatibility issues. The lack of essential updates can cause the application to stop unexpectedly.
@@ -104,9 +109,6 @@ Restore your device's app settings to default for improved functionality. Below 
 - **Step 1:** Go to your device's **Settings** and select **Apps** or **Application** **Manager**.
 - **Step 2:** Tap the three dots in the top-right corner and choose **Reset app preferences**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
 
 ### Re-add Google Account
@@ -152,9 +154,17 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone android problems window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
 
 ![dr.fone device information window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Simply click **Done** on the prompt window displaying a confirmation message to exit the tool if your Infinix Note 30 5G starts successfully. In the event that the Infinix Note 30 5G device fails to start, select **Try Again** to initiate the process once more.
 
@@ -183,8 +193,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
 ## Stuck at Android System Recovery Of Infinix Note 30 5G ? Fix It Easily
 
 In this article, you will learn what is Android system recovery, and how to fix Android stuck at system recovery step by step. To get out of Android system recovery more easily, you need this Android repair tool.
@@ -205,6 +213,10 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
@@ -212,6 +224,10 @@ Step 2: Next, you need to hold down the Power and the Volume Key. You should abl
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
 
@@ -224,8 +240,6 @@ Step 5: Finally, press and hold both the Power and the Volume up Key for around 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -318,9 +332,6 @@ Android system recovery mode can be quite useful, especially when your system is
 
 The “**Process system isn’t responding**” is a common error that occurs in almost every kind of Android device. Even though most Android smartphone manufacturers have taken a huge leap in the last few years, the operating system still suffers from a few pitfalls. The process system isn't responding Android is one of those errors that have been reported plenty of times. I definitely understand encountering the 'Process System Isn't Responding' error on your Infinix Note 30 5G can be frustrating.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![process system isn't responding](https://images.wondershare.com/drfone/article/2017/06/14980669359224.jpg)
 
 However, there are several straightforward methods to resolve this issue. This article will provide a step-by-step guide on how to fix the problem and restore your device to normal functionality.
@@ -356,6 +367,10 @@ If it won’t work, then long press the Power and Volume up buttons at the same 
 
 ![force restart android](https://images.wondershare.com/drfone/article/2023/07/process-system-isnt-responding.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset App Preferences
 
 Sometimes the apps interfere with the Infinix Note 30 5G device's settings because they were given permission to access specific functions. It is recommended to allow the asked permission precisely because some suspicious apps can also steal your sensitive data. Here are the straightforward instructions you need to follow to reset the app preferences:
@@ -364,20 +379,25 @@ Proceed to the “Apps and Notifications” settings from the Settings app. Next
 
 ![reset the app preferences](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Free Up Space to Make Sure Android Have Enough Internal Memory
 
 In case the Android internal memory is completely filled, it will slow down the processing speed of the Infinix Note 30 5G device. Internal memory is vital for the Infinix Note 30 5G device to run all the background apps or the process required by the OS to run the Infinix Note 30 5G device efficiently. You can follow these steps to free up some space on your Infinix Note 30 5G:
 
 **Step 1:** Open the Settings app on your Infinix Note 30 5G and access the “Battery and Device Care” option by scrolling down. Next, tap on the “Three Dots” from the top right corner and choose the “Storage Booster” feature.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the storage booster option](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-2.jpg)
 
 **Step 2:** Following this, you can select the data you want to remove from the internal memory. Your device will show the space it will free up for you, and you can press the “Free Up” button to free up the storage.
 
 ![press the free up button](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Enter Safe Mode to Uninstall Suspicious Apps
 
@@ -385,9 +405,6 @@ This issue can also occur if you have installed an app from the Google Play Stor
 
 Press and hold the “Power” button of your Android and press and hold the “Power Off” option to access the “Safe Mode” feature. Afterward, confirm to enter the safe mode and remove all the suspicious apps from the Infinix Note 30 5G device. You can do this by holding on to the app and selecting the “Uninstall” option from the pop-up options.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn on the safe mode](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-4.jpg)
 
 ### Fix 5: Update All Apps on your Device
@@ -415,8 +432,6 @@ Also, if you are storing apps on the SD card, then your phone might encounter th
 If all the above tricks don't get your device out of the process system not responding state, then there may be some system issues on your Android. In this case, an Android repair can successfully fix issues like process system isn't responding.
 
 **Note:** _Android repair may wipe out existing Android data. [Back up your Android data](https://drfone.wondershare.com/iphone-backup-and-restore.html) before going on._
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -457,8 +472,6 @@ Android repair tool to fix all Android system issues in one click
 
 It is always considered the most used way to factory reset your phone in order to resolve the process system not responding error. Though, this should be your last resort, as it will wipe off your device’s data entirely. Even if you are performing a factory reset, make sure that you back up your data by using a reliable tool like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/).
 
-
-
 ### Wondershare Dr.Fone
 
 Flexibly Back up and Restore Android Data
@@ -496,8 +509,11 @@ If you are using an older version of Android, then you might get another pop-up 
 
 ![restore stock boot image](https://images.wondershare.com/drfone/article/2017/06/14980671431228.jpg)
 
-Now that you know different ways to fix the **process system not responding** error, you can easily overcome this issue and make the most out of your device. Simply start with the easy fixes, and if they don’t work, then take extreme measures like unrooting your device or restoring it to factory setting. Also, make sure to back up your data before taking any extreme measures.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+Now that you know different ways to fix the **process system not responding** error, you can easily overcome this issue and make the most out of your device. Simply start with the easy fixes, and if they don’t work, then take extreme measures like unrooting your device or restoring it to factory setting. Also, make sure to back up your data before taking any extreme measures.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -511,9 +527,26 @@ Now that you know different ways to fix the **process system not responding** er
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-hdr-workflows-for-aspiring-pros/"><u>[New] Comprehensive HDR Workflows for Aspiring Pros</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-methods-to-clear-up-obs-fullscreen-troubles-for-2024/"><u>[Updated] Methods to Clear Up OBS Fullscreen Troubles for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-obs-vs-twitch-studio-which-is-better/"><u>[Updated] OBS Vs Twitch Studio Which Is Better?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-stand-out-on-youtube-logo-tips-for-visibility-for-2024/"><u>[Updated] Stand Out on YouTube Logo Tips for Visibility for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/acer-wireless-connectivity-made-easy-get-your-bluetooth-driver-today/"><u>Acer Wireless Connectivity Made Easy: Get Your Bluetooth Driver Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-electronics-with-tom-in-depth-hardware-insights/"><u>Exploring Electronics with Tom: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-a14-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy A14 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-11-proplus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme 11 Pro+ in Minutes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-a78-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo A78 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oneplus-11-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on OnePlus 11 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-f5-pro-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco F5 Pro 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-11-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-hp-officejet-pro-n8610-drivers-seamless-compatibility-with-modern-and-legacy-windows-systems/"><u>Updated HP Officejet Pro N8610 Drivers: Seamless Compatibility with Modern and Legacy Windows Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726028749276-windows-10dvd/"><u>Windows 10用画像スライドショーの作り方とDVDへの書き込み</u></a></li>
+</ul></div>
 

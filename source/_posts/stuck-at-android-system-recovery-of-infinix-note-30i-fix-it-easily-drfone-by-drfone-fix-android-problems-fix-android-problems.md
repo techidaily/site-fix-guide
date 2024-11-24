@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Infinix Note 30i ? Fix It Easily | Dr.fone
-date: 2024-11-11T04:23:19.895Z
-updated: 2024-11-15T05:02:45.120Z
+date: 2024-11-20T20:14:14.360Z
+updated: 2024-11-24T18:45:56.814Z
 tags: 
   - problems
 categories:
@@ -31,13 +31,6 @@ Now that you know how useful the Android System can be, you may want to know how
 Step 1: Hold down the power key and then select "Power Off" from the options on the screen. If, however, your screen is unresponsive, keep holding the power key for several seconds until the Infinix Note 30i device is completely turned off.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
@@ -88,13 +81,6 @@ Insert your device information, including the brand, carrier details, model and 
 
 ![select items to correctly fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step #3** Follow the onscreen instructions on how to put your device in Download Mode.
 
 Your device should already be in this mode but follow the instructions to make sure. There are methods available for devices, both with and without home buttons.
@@ -111,9 +97,21 @@ After downloading, the software will automatically start to repair your device b
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
@@ -219,29 +217,9 @@ The Google Services Framework plays a crucial role in your Infinix Note 30i. It 
 
 ![access system apps](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Now, find and tap the "Google Services Framework" app and go on to press "Storage and Cache." Here, use "Clear Cache" and "Clear Storage" to clear its cache and data.
 
 ![clear storage and cache](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-6.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update the Android OS Version
 
@@ -250,6 +228,14 @@ An outdated operating system is a common factor behind compatibility issues. Thi
 **Instructions.** You will need to start by accessing the Infinix Note 30i device's “Settings.” Scroll down to find and press the "System" option. On the following screen, tap "Software Update" to check if an update is available. If there is one, follow the on-screen prompts to update your device's OS.
 
 ![checking system update](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Uninstall the Google Play Store Updates
 
@@ -328,6 +314,10 @@ The first thing you need to do is to launch Wondershare Dr.Fone on your PC and a
 
 ![android system repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Step 2: Put Device Details and Download the Firmware
 
 After that, you need to enter the Infinix Note 30i device details like the “Name, Model, Brand, etc.” and put your phone on a Download Mode. Following this step, the firmware will download on its own, and you need to click the “Fix Now” button to install it on your Infinix Note 30i.
@@ -344,18 +334,15 @@ In the last step, you will have to put in the code and proceed with the “Confi
 
 **3,120,524** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To conclude, encountering compatibility issues like “**Google Play your device isn’t compatible with this version**,” can be a frustrating roadblock. However, this article has armed you with the knowledge through exploring various fixes. You now possess a toolkit of solutions to overcome the notorious issue. From forced quitting the Google Play Store to exploring the realm of custom ROMs, each fix has been crafted to cater to different user preferences.
 
 For users seeking a comprehensive solution, Wondershare Dr.Fone emerges as a versatile and powerful tool. It goes beyond conventional troubleshooting methods. Its "Android Repair" feature is tailored to address various Android system issues, including those affecting the Google Play Store.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Persistent Pandora Crashes on Infinix Note 30i
 
@@ -377,13 +364,6 @@ Crashes often result from glitches or bugs within the app’s code. These unexpe
 - **Reinstalling the app.**If the problem persists, uninstall Pandora and reinstall it from the Google Play Store. This process can refresh the app’s data and settings, potentially resolving persistent issues.
 
 If these basic fixes fail to address the continuous crashing of the Pandora app, or if the crashes persist over an extended period, the next section will provide advanced solutions. These initial troubleshooting steps aim to tackle common and temporary issues that could impede Pandora’s performance. If the problem persists, it might necessitate more intricate resolutions or further investigation into the app’s underlying technicalities.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Causes Behind Constant Pandora App Crashes and Solutions
 
@@ -415,6 +395,10 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 ![wondershare dr.fone phone os chooser](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Click **Start** to initiate Android System Repair.
 
 ![dr.fone system repair start screen](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -432,15 +416,16 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 ![wondershare dr.fone initiate system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 7:** Once finished, click **Done**. Your Pandora app should not crash once you reinstall it again by now.
 
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cache Buildup
 
@@ -463,13 +448,6 @@ If the suggested fixes don’t work, and you still wonder “**why does Pandora 
 - **Consider trying other music streaming apps.**Explore alternative music streaming applications available on the Google Play Store. Several reliable options offer similar services to Pandora, providing an opportunity to continue enjoying music while bypassing the persistent app issues.
 - **Contact customer support.**Reach out to Pandora’s customer support for tailored assistance. They may offer specific troubleshooting steps or insights into the app’s technical glitches.
 - **Consider a new phone.** Upgrade to a new phone if the crashes persist despite troubleshooting, and your device is outdated or incompatible. This might help resolve the issue by providing a more stable environment for app usage.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -495,18 +473,17 @@ When persistent issues arise, especially if other apps are affected similarly, W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-enhance-presentations-with-background-music-for-2024/"><u>[Updated] Enhance Presentations with Background Music for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-optimizing-media-playback-compatible-formats-and-conversion-strategies-for-your-kindle-fire/"><u>1. Optimizing Media Playback: Compatible Formats and Conversion Strategies for Your Kindle Fire</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-innovative-auditory-transitions-with-logic-pro-x/"><u>2024 Approved Innovative Auditory Transitions with Logic Pro X</u></a></li>
-<li><a href="https://win-superb.techidaily.com/accelerate-legacy-systems-proven-strategies-by-zdnet-to-boost-old-windows-11-pcs-or-macbooks/"><u>Accelerate Legacy Systems: Proven Strategies by ZDNet to Boost Old Windows 11 PCs or Macbooks</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-oppo-a79-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo A79 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capture-creativity-speedy-drawing-techniques-for-windows-photo-editor/"><u>Capture Creativity Speedy Drawing Techniques for Windows Photo Editor</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-how-you-can-secure-an-unbelievable-iphone-15-pro-max-at-only-one-penny-through-amazon-a-closer-look/"><u>Discover How You Can Secure an Unbelievable iPhone 15 Pro Max at Only One Penny Through Amazon - A Closer Look</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Itel A60? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-a1-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A1 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-gt-3-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme GT 3 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-proficient-movie-recording-multiplatform-devices-unveiled/"><u>[New] Proficient Movie Recording Multiplatform Devices Unveiled</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-top-asmr-content-creators-on-youtube/"><u>[Updated] 2024 Approved Top ASMR Content Creators on YouTube</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oneplus-nord-n30-se-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked OnePlus Nord N30 SE Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-assortment-premier-webcam-stabilizers/"><u>In 2024, Optimal Assortment Premier Webcam Stabilizers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-s18e-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo S18e? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-video-editing-compatible-software-across-windows-systems/"><u>Pro Video Editing Compatible Software Across Windows Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-y78plus-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y78+ Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a24-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A24 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-capturing-images-with-your-lenovo-computers-built-in-camera/"><u>Step-by-Step Guide: Capturing Images with Your Lenovo Computer's Built-In Camera</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-wma/"><u>오픈소스 동영상을 무료로 구조화: Movavi에서 WMA 편집</u></a></li>
 </ul></div>
 

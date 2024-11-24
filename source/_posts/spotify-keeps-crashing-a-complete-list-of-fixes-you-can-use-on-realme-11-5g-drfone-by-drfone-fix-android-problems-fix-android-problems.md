@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme 11 5G | Dr.fone
-date: 2024-11-11T12:29:26.834Z
-updated: 2024-11-14T23:41:58.171Z
+date: 2024-11-20T21:19:15.090Z
+updated: 2024-11-24T21:00:36.986Z
 tags: 
   - problems
 categories:
@@ -29,13 +29,6 @@ Some people have encountered a problem with their Spotify accounts. Spotify can 
 Another reason the Spotify app keeps crashing could be an antivirus or a VPN blocking Spotify from working. Moreover, your device might be out of storage space, causing your phone to slow down and crash apps.
 
 Several other reasons for this problem include network issues, a weak Wi-Fi signal, or the battery saving mode. Furthermore, your apps and files might be corrupted, or an app on your phone might block Spotify from working correctly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. Spotify Keeps Crashing: Best Fixes
 
@@ -76,6 +69,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![fix your android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 10:** Type “**000000**” in the dialog box and click **Confirm**.
 
 ![confirm system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -83,13 +80,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 12:** Once it finishes, click **Done**to complete the system repair.
 
@@ -147,6 +137,10 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4. Restart Your Device
 
 Another way to stop Spotify from crashing can be restarting your Android. The steps may vary slightly depending on the Realme 11 5G device, but they’re mostly the same. Follow these steps to restart your device:
@@ -196,24 +190,10 @@ If your system is updated, then Spotify might need an update. The app might malf
 
 ![play store on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Search and open Spotify in the Play Store.
 - **Step 3:** Tap Update
 
 ![update spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8. Free up Storage
 
@@ -247,10 +227,7 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 7:** Once it installs, log in to test if it’s working.
@@ -267,6 +244,10 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 - **Step 3:** You’ll see several websites that check real-time app servers and if they’re down.
 
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
@@ -293,6 +274,14 @@ When using different apps and websites, your device caches data from those sourc
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 If your Spotify app keeps crashing, several reasons might be behind it. For instance, your storage space might be at capacity, your system might need an update, your phone might have a software bug, or the Spotify server might be down.
@@ -317,13 +306,6 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dr.Fone - System Repair (Android)
 
 One click tool to fix "Unfortunately TouchWiz has stopped"
@@ -345,13 +327,6 @@ The one-click repairing process begins with downloading Dr.Fone from its officia
 After you open the software, hit on the “System Repair” button from the main interface. With the help of a genuine USB cable, get your Realme 11 5G phone and connect it with the computer.
 
 ![fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Choose the Tab**
 
@@ -385,6 +360,10 @@ Now, when the firmware is downloaded, the program will itself begin to repair yo
 
 ![get android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Clear the cache data the TouchWiz
 
 Maximum Android devices are designed to deleted cache data upon getting updated to the newest Android system. However, Realme 11 5G stands as an exception in such case. And therefore, many times **_TouchWiz starts stopping_** right after upgrading. Thus, due to the collection of cache data, TouchWiz can display error. This calls for removing the cache from TouchWiz and run things smoothly. Here is how to do this:
@@ -404,6 +383,10 @@ Please note that this will delete all your Home screens post this method.
 ### Disable Motion & gesture settings
 
 The functions regarding Motions and Gestures can be responsible for why **_TouchWiz home has stopped_** in your device. Usually the Realme 11 5G devices running on Android version less than Marshmallow are prone to encountering this issue. Or the Realme 11 5G devices having modest specs often fall prey to the issue. When you disable these settings, you might get out of the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change the Animation Scale
 
@@ -479,18 +462,15 @@ If you cannot find any reason why your Realme 11 5G will not switch on, here are
 4. Your device is clogged up with dust and lint causing the hardware to not work properly.
 5. [Your power button is broken](https://www.wondershare.com/reset-android/restart-android-without-power-button.html), which caused it to not be able to trigger the necessary action needed to power up the Android phone. Check to also see if your connectors have no carbon build-up which will cause your phone to not be charged properly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Rescue Data on Android Phone That Will Not Turn On
 
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -601,6 +581,10 @@ Step 3: Dr.Fone - System Repair (Android) would verify your firmware download an
 
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Android Phone Won't Turn On: **Common Fix**
 
 To try fixing an Android Phone that won’t turn on, follow these steps:
@@ -645,18 +629,20 @@ It is important to note that your phone contains some important data. Therefore,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-a-complete-strategy-for-superior-animoji-use-on-iphone-x-for-2024/"><u>[Updated] A Complete Strategy for Superior Animoji Use on iPhone X for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/connectivity-redefined-a-detailed-review-of-the-innovative-mobvoi-ticwatch-pro-4g-smartwatch/"><u>Connectivity Redefined: A Detailed Review of the Innovative Mobvoi Ticwatch Pro 4G Smartwatch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-continued-opportunity-building-successful-ventures-with-ai-model-innovations-insights-from-zdnet/"><u>Exploring Continued Opportunity: Building Successful Ventures with AI Model Innovations - Insights From ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782323-9781591438526-gods-of-eden/"><u>Gods of Eden | Free Book</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-your-tecno-phantom-v-flip-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Tecno Phantom V Flip Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-s24plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy S24+ Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-playbook-a-guide-to-efficiently-posting-srt-files-online/"><u>In 2024, The Ultimate Playbook A Guide to Efficiently Posting SRT Files Online</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1728486621966-usb/"><u>USBデバイスのパーティション回復手順を解説します</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-total-exploration-of-vsco-photography-functions/"><u>[Updated] Total Exploration of VSCO Photography Functions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-alert-tones-top-selection-of-websites/"><u>2024 Approved Premium Alert Tones Top Selection of Websites</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-v29e-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V29e Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nubia-z50-ultra-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nubia Z50 Ultra in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-elite-selection-top-9-free-youtube-channel-branding-apps/"><u>In 2024, Elite Selection Top 9 Free YouTube Channel Branding Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-quick-guide-capturing-vimeo-videos/"><u>In 2024, Quick Guide Capturing Vimeo Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-fcp-safety-net-saving-and-backing-up-your-projects/"><u>New 2024 Approved The Ultimate FCP Safety Net Saving and Backing Up Your Projects</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-x50i-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor X50i ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-premier-16-youtube-openings-elevating-viewer-count-for-2024/"><u>The Premier 16 YouTube Openings Elevating Viewer Count for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unveiling-the-mysteries-of-ig-metrics-an-essential-toolkit-for-marketers-for-2024/"><u>Unveiling the Mysteries of IG Metrics An Essential Toolkit for Marketers for 2024</u></a></li>
 </ul></div>
 

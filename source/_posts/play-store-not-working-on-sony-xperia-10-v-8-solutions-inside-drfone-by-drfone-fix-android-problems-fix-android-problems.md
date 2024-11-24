@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Sony Xperia 10 V? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:54:40.179Z
-updated: 2024-07-15T06:54:40.179Z
+date: 2024-11-21T17:58:06.852Z
+updated: 2024-11-24T16:06:27.686Z
 tags: 
   - problems
 categories:
@@ -72,9 +72,6 @@ Encountering issues with the Google Play Store can be frustrating. It disrupts y
 
 ![fixing mobile phone issues vector image](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Clear Cache and Data
 
 Revitalize your Google Play Store by addressing performance issues. Clearing cache and data can be a crucial step when troubleshooting malfunctions or glitches in the app. Here's how.
@@ -83,6 +80,10 @@ Revitalize your Google Play Store by addressing performance issues. Clearing cac
 - **Step 2**: Locate and select **Google** **Play** **Store**. Within **Storage**, choose **Clear** **Cache** and **Clear** **Data**. Confirm your action and restart the Play Store.
 
 ![clearing cache and date on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Play Store
 
@@ -96,6 +97,10 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset App Preferences
 
@@ -203,18 +208,10 @@ Flashing a dead Android phone might be skeptical for many users who have been in
 
 From battery issues to physical damage to the Sony Xperia 10 V device, there can be many reasons your Sony Xperia 10 V died. The reasons for a dead Android phone are not restricted to these points. There can be software-related issues or firmware issues that might cause such havoc on your Android.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to flash Sony Xperia 10 V in one click
 
 While you are worried about how to flash Sony Xperia 10 V instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Sony Xperia 10 V logo.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 One-click solution to flash Sony Xperia 10 V
@@ -269,6 +266,10 @@ Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to flash Sony Xperia 10 V dead phone with Odin?
 
 In this segment, we will learn how to fix the dead Android phone, i.e., Sony Xperia 10 V phones using Odin software. Odin is software used internally by Sony Xperia 10 V to generally unblock devices and perform a more utility-based job, namely, flashing new firmware in place of the old one. There are different variants available, so choose the one which is supported by your Galaxy phone. Here is a step-by-step explanation of how to flash dead Android phone (Sony Xperia 10 V) using Odin software.
@@ -278,6 +279,10 @@ Step 1: Install the driver software on the computer. You can find the best drive
 Step 2: Now download suitable firmware for your device in the form of a zip folder that you can open and store on your desktop.
 
 ![download suitable firmware](https://images.wondershare.com/drfone/article/2017/07/14991894766699.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file types recognized by Odin.
 
@@ -293,9 +298,6 @@ Step 3: In this step, download the latest version of Odin on your PC and move it
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![boot in download mode](https://images.wondershare.com/drfone/article/2017/07/14991897353612.jpg)
 
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
@@ -368,6 +370,10 @@ Lastly, just click on “Refurbish” and connect your phone to the PC using a U
 
 That was it, the flashing process may take up to a few minutes after which your dead Sony Xperia 10 V  will restart automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: How to flash a dead phone that won’t turn on via factory reset?
 
 Using tools for flashing Android devices can be a solution; however, it is heavily restricted to the Sony Xperia 10 V device models. For a generalized solution, there can be other options that you can go with. Factory resetting an Android device by putting it in Recovery Mode is one way. To know **how to flash a dead Android phone** using factory reset, go through the steps featured below:
@@ -377,6 +383,10 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 **Step 2:** As the Android boot menu opens on your screen, use the “Volume Down” and “Volume Up” keys to scroll up and down the menu. On accessing the “Wipe Data/Factory Reset” option, use the “Power” key to select the particular option.
 
 ![choose wipe data factory reset option](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
 
@@ -394,6 +404,10 @@ Another solution that can help you fix the dead Android phone is changing its ba
 
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 9: How to repair dead Android phone by contacting official support
 
 If you are unable to discover any proper solution for **how to flash dead Android phones,** you might have to consult the respective customer support of the Android phone manufacturers. Consult customer support to discover why the phone is dead and how it can be flashed. The respective personnel will assist you in resolving the issue, which might require monetary input from your side.
@@ -405,8 +419,6 @@ A dead Android phone might be the cause of worry, but the techniques given above
 It has been observed that Wondershare Dr.Fone – System Repair (Android) assists in the best way. Resolve all your concerns involving your dead Android phone and flash it to make it operable again.
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
-
-
 
 ## Why Does My Sony Xperia 10 V Keep Turning Off By Itself? 6 Fixes Are Here
 
@@ -448,6 +460,10 @@ Note: Sometimes, the above-mentioned code may not work. In such cases, try diali
 
 If the battery looks good as you can see in the screenshot above and everything else seems normal, it means that your battery is healthy and need not be replaced. You may now move on to the next step to cure your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: One-click to fix Android phone keeps turning off
 
 We understand how annoying it is to find your Sony Xperia 10 V turning off randomly on its own. So, when the age-old remedies to fix the phone keeps turning off turns futile, you need to go for a reliable tool like [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/).
@@ -456,9 +472,6 @@ Apart from tackling the Android phone keeps turning off the issue, it can also r
 
 Your trouble with ‘why does My Sony Xperia 10 V keep shutting off?’ can be resolved easily using Dr.Fone - System Repair (Android). But, before that, you need to ensure that [the Android device has been backed up properly](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to eliminate the risk of data erasing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - System Repair (Android)
@@ -485,6 +498,10 @@ Step 2: Here, you need to press the ‘Start’ button right after hitting the �
 
 ![choose repair to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Pick your Sony Xperia 10 V details over the Sony Xperia 10 V device information interface. Click the ‘Next’ button afterward.
 
 ![start to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -510,6 +527,10 @@ Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once dow
 ![fixed phone keeps turning off with the repair program](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Update software to the latest version to fix Android phone keeps turning off
 
@@ -554,8 +575,6 @@ That's all. Well, booting to Safe Mode is easy and it also helps you to identify
 **Note:** _You must take a back-up of all your data because once you perform a factory reset on your device, all media, contents, data, and other files are wiped out, including your device settings._
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a great way to back up all your data to prevent it from getting lost after resetting the phone. It works brilliantly as it backs up all data and allows users to retrieve it fully or selectively. You can backup all files from your Android to PC in just a click and restore them later. Try this software for free before purchasing it to understand it's working better. It does not tamper with your data and only requires you to follow the simple steps given below to backup your Android data:
-
-
 
 ### Wondershare Dr.Fone
 
@@ -612,7 +631,6 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -625,9 +643,23 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-3-part-blueprint-to-monitor-and-maximize-your-youtube-profits/"><u>[New] 2024 Approved 3-Part Blueprint to Monitor and Maximize Your YouTube Profits</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-from-captured-moment-to-moving-picture/"><u>[New] In 2024, From Captured Moment to Moving Picture</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-transforming-vision-into-action-building-a-successful-fb-reel-channel/"><u>[Updated] In 2024, Transforming Vision Into Action Building a Successful FB Reel Channel</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comment-contourner-les-restrictions-de-fichier-dans-le-systeme-dexploitation-windows-11-guide-complet/"><u>Comment Contourner Les Restrictions De Fichier Dans Le Système D'Exploitation Windows 11: Guide Complet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/defend-your-iphone-from-threats-explore-these-six-leading-security-applications/"><u>Defend Your iPhone From Threats: Explore These Six Leading Security Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-key-drawbacks-of-usb-c-technology-a-must-read-list/"><u>Discover the Key Drawbacks of USB-C Technology – A Must-Read List</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-honor-x9a-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor X9a Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100i-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100i to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-free-online-video-stabilization-software/"><u>New 2024 Approved The Ultimate Guide to Free Online Video Stabilization Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-z50s-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Z50S Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/repair-manual-fixing-faulty-xbox-series-sx/"><u>Repair Manual: Fixing Faulty Xbox Series S/X</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Infinix Smart 8 HD? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:29.943Z
-updated: 2024-07-15T06:52:29.943Z
+date: 2024-11-22T21:52:51.534Z
+updated: 2024-11-24T21:12:29.218Z
 tags: 
   - problems
 categories:
@@ -26,9 +26,6 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Inability To Open the Play Store
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
@@ -40,6 +37,10 @@ The inability to open the Play Store leaves you without access to new apps or up
 ### Not Responding Errors
 
 The dreaded "Not Responding" message can bring usability to a standstill. Users navigating the Play Store may experience delays or complete unresponsiveness. It can lead to a frustrating and unproductive experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Download and Installation Failures
 
@@ -93,9 +94,17 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset App Preferences
 
@@ -196,6 +205,10 @@ Answering what causes Infinix Smart 8 HD screen unresponsiveness is difficult. M
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Battery Issue
 
 If your device's battery is damaged or is at the end of its lifespan, it can cause the touch screen not responding issues. Moreover, the low battery and issue with the charging port can also lead to this problem.
@@ -232,9 +245,6 @@ Contacting Infinix Smart 8 HD customer support can also help resolve the ****Inf
 
 It is an excellent option if your Infinix Smart 8 HD device's touch is not working due to hardware issues. They can help guide you to a suitable service center to fix your phone and resolve this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
 
 ### Solution 4. Wipe the Cache of Your Infinix Smart 8 HD Device
@@ -249,6 +259,10 @@ A common reason for ****Infinix Smart 8 HD Nord being stuck on the loading scree
 
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
@@ -259,10 +273,11 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ****Step 1:**** Launch Settings on your Infinix Smart 8 HD device and tap “System” to select “Reset Options.”
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select reset options](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
@@ -273,8 +288,9 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 If none of the above-mentioned fixes have worked so far, you should replace the touch screen. Replacing the touch screen is recommended in case of hardware and severe software issues. However, it can be quite an expensive fix as new touch screens aren't cheap. The prices for new touchscreens differ depending on the model. These prices start from $20 and go up to hundreds of dollars.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to Avoid Infinix Smart 8 HD Screen being Unresponsive?
 
 Protecting your Infinix Smart 8 HD device against system issues like touch not working is not difficult. While it is true that you can't 100% avoid such problems, the risks can still be reduced to a great extent. To prevent your Infinix Smart 8 HD screen from being unresponsive, here are some tips you can follow:
@@ -291,8 +307,6 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 ## Conclusion
 
 To sum up this article, it can be said that issues like ****Infinix Smart 8 HD not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
-
-
 
 ## Infinix Smart 8 HD Not Connecting to Wi-Fi? 12 Quick Ways to Fix
 
@@ -374,8 +388,6 @@ If none of the solutions above are working, this could indicate a real problem w
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 A one-click tool to fix Wi-Fi not working on Android
@@ -400,6 +412,10 @@ Once installed, connect your Infinix Smart 8 HD to your computer using a USB cab
 
 ![fix wifi slow on android by repairing android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Three** On the next screen, go through the options and use the drop-down menus to make sure the information is correct for your individual device. Accept the terms and conditions of the software, and then click the "Next" button.
 
 ![wifi slow on android - select info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -419,6 +435,10 @@ Once installed, connect your Infinix Smart 8 HD to your computer using a USB cab
 The whole process is automatic, so you won’t need to do anything until it’s finished. Once completed, you can disconnect your phone and start connecting it to the internet as normal!
 
 ![wifi not working on android - wifi issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -449,9 +469,6 @@ Each Wi-Fi network router will give the opportunity to choose and change the pas
 4. Save the password and restart the router to disconnect all devices
 5. Now connect your Infinix Smart 8 HD to the router using the new password
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 10. Reset network settings on Android
 
 ![android phone not connecting to wifi - reset network](https://images.wondershare.com/drfone/article/2019/04/android-reset-network.jpg)
@@ -466,6 +483,10 @@ Here’s how you can do this easily on your Infinix Smart 8 HD;
 4. Tap the Reset Network option
 5. If you need to, enter the PIN number or passcode for the Android device, and the Infinix Smart 8 HD device will confirm the reset has taken place
 6. Reconnect your Infinix Smart 8 HD to your Wi-Fi network for the changes to take effect
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 11. Clear partition cache in recovery mode
 
@@ -497,7 +518,6 @@ However, by factory resetting your device, you can start again from the factory 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -510,9 +530,21 @@ However, by factory resetting your device, you can start again from the factory 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-ultimate-self-bio-blueprint-for-building-a-distinctive-online-presence/"><u>[New] 2024 Approved The Ultimate Self-Bio Blueprint for Building a Distinctive Online Presence</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-optimize-your-youtube-videos-faster-rendering-smarter-uploads/"><u>[New] In 2024, Optimize Your YouTube Videos Faster Rendering, Smarter Uploads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevating-channel-excellence-with-ideas-and-vision-for-2024/"><u>[Updated] Elevating Channel Excellence with Ideas & Vision for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elevate-your-page-a-guide-to-growing-facebook-followers/"><u>Elevate Your Page A Guide to Growing Facebook Followers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-itel-a60s-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Itel A60s Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-deleted-files-before-commit-in-git/"><u>How to Restore Deleted Files Before Commit in Git</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-master-fast-photoshop-edits-on-windows-11/"><u>In 2024, Master Fast Photoshop Edits on Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-newcomers-guide-to-profitability-on-periscope-live-streaming/"><u>In 2024, Newcomer’s Guide to Profitability on Periscope Live Streaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-xr21-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia XR21 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-overwatch-glitches-fixing-the-persistent-screen-lock-up-issue/"><u>Overcoming Overwatch Glitches: Fixing the Persistent Screen Lock-Up Issue</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-note-50-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Note 50 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y27 5G | Dr.fone</u></a></li>
+</ul></div>
 

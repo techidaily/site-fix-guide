@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Vivo Y77t? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:55:38.624Z
-updated: 2024-07-15T06:55:38.624Z
+date: 2024-11-22T17:01:11.525Z
+updated: 2024-11-24T19:38:58.203Z
 tags: 
   - problems
 categories:
@@ -30,6 +30,10 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Crashing Issues
 
 [<u>Frequent crashes</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html) undermine the stability of the Play Store. Users attempting to browse or download apps may find themselves abruptly kicked out of the application. It can disrupt your intended tasks and cause annoyance in the long run.
@@ -37,6 +41,10 @@ The inability to open the Play Store leaves you without access to new apps or up
 ### Not Responding Errors
 
 The dreaded "Not Responding" message can bring usability to a standstill. Users navigating the Play Store may experience delays or complete unresponsiveness. It can lead to a frustrating and unproductive experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Download and Installation Failures
 
@@ -90,6 +98,10 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
@@ -102,6 +114,10 @@ Restore your device's app settings to default for improved functionality. Below 
 - **Step 2:** Tap the three dots in the top-right corner and choose **Reset app preferences**.
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Re-add Google Account
 
@@ -150,6 +166,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone device information window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Simply click **Done** on the prompt window displaying a confirmation message to exit the tool if your Vivo Y77t starts successfully. In the event that the Vivo Y77t device fails to start, select **Try Again** to initiate the process once more.
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -192,10 +212,11 @@ Trust me, once you face an error it’s frustrating until you find a solution to
 
 Sometimes people think that they have endangered the fate of humanity because of the error that is being displayed (Just Kidding). Don’t worry you haven’t crashed any server or did any damage to your device but you just gave your device a lot of work. Before you got this error you were downloading a lot of apps right. Well, that’s the exact reason why you came up with this error in the first place. There are various reasons behind this error code 920, however, the prominent ones are –
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![error code 920](https://images.wondershare.com/drfone/article/2017/06/14985021968933.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - a. Too much load on your data connection.
 - b. The cache is not cleaned. Thus the connection is getting hampered due to overload.
@@ -269,9 +290,6 @@ Step 1 - To remove that load Just turn your wifi off and then turn your wifi on 
 
 Step 2 - Now after doing this go to your Play Store application and download the application that you were going to download. Now your Play Store Error 920 won’t be bothering you anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![error code 920-turn off wifi](https://images.wondershare.com/drfone/article/2017/06/14985022435219.jpg)
 
 #### **METHOD 4: Clearing the cache and data of Google Play Store**
@@ -300,16 +318,11 @@ Step 3 - In that section find the account you use for the play store or the acco
 
 Step 4 - Now you have successfully removed your account and after that re-add your account. After entering your email id and password and hence adding your account. Go back to the play store and find the application that you were downloading or updating when the error code 920 came in. Now re-install it or update it back again. This time you won’t be faced with the play store error 920.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![error code 920-remove account](https://images.wondershare.com/drfone/article/2017/06/14985022914137.jpg)
 
 Again it is best if you follow the methods as illustrated above for removing error code 920 and this might have solved your problem by now. If now, you go for a complete factory reset, do it only at the extreme stage as this will delete all your personal data.
 
 Play Store error 920 is a pretty common error and its solutions are also very easy. Please do ensure that you follow each and every step in sync so that you can get the best result out of these methods and get over with the error code 920 on Google play store.
-
-
 
 ## 8 Solutions to Solve YouTube App Crashing on Vivo Y77t
 
@@ -336,9 +349,21 @@ Similar to the app, if you restart the Vivo Y77t device, it will start operating
 
 ![Youtube not working android - fix by restarting android](https://images.wondershare.com/drfone/article/2019/06/restart-device.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use a VPN
 
 There is a possibility that YouTube is prohibited in your region. Banning some apps is done for some safety reasons. And therefore, you need to check if this is done in your area or not. If yes, then we shouldn’t mention the reason why YouTube is not working on Android. In such a case, use a VPN to access YouTube.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Clear the Cache of YouTube
 
@@ -366,13 +391,15 @@ The apps that run on the internet might start crashing due to connectivity issue
 
 ![Youtube not responding - reset network settings](https://images.wondershare.com/drfone/article/2019/06/reset-network-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** In some phones, you may find the option in “System” > “Advanced” > “Reset”.
 
 ## Re-flash the stock ROM of Android in one click
 
 There are times when a corrupted system gives you such errors. And therefore, you should try re-flashing the stock ROM on your Vivo Y77t. Before you wonder how we would like to introduce a highly recommended tool for this. It is Dr.Fone - System Repair (Android). It holds the proficiency to flash the stock ROM in just a click. So, when your YouTube is not responding due to a corrupted system, make use of this tool to get it solved. The benefits associated with this tool are as follows.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -390,18 +417,12 @@ Android repair tool to flash the stock ROM of Android
 
 Start with visiting the website on your PC and downloading the Dr.Fone toolkit. Install and open the tool. Now, from the main screen, choose “System Repair”.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Youtube not responding - fix with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Connect Device**
 
 With the help of the USB cord, connect your Vivo Y77t to the computer. Click on “Android Repair” now from the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Youtube not responding - connect device to pc](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step 3: Enter Information**
@@ -431,7 +452,6 @@ When nothing works, the last resort you can go with is resetting the Vivo Y77t d
 
 ![Youtube crashing on Android - factory reset android](https://images.wondershare.com/drfone/article/2019/06/factory-reset.jpg)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -444,9 +464,22 @@ When nothing works, the last resort you can go with is resetting the Vivo Y77t d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-beatmatching-your-vids-syncing-music-seamlessly-on-facebook/"><u>[New] In 2024, Beatmatching Your Vids Syncing Music Seamlessly on Facebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-pump-up-your-viewership-with-these-proven-methods/"><u>[New] In 2024, Pump Up Your Viewership with These Proven Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-lg-redefines-reality-with-its-latest-virtual-gaming-device-for-2024/"><u>[Updated] LG Redefines Reality with Its Latest Virtual Gaming Device for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-best-of-the-brainless-top-zombie-game-sweepstakes-for-2024/"><u>[Updated] The Best of the Brainless Top Zombie Game Sweepstakes for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-we-trust-current-ai-technologies-to-detect-content-plagiarism-effectively/"><u>Can We Trust Current AI Technologies to Detect Content Plagiarism Effectively?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-find-my-friends-work-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-overcoming-bcm2045a0-driver-challenges-quickly/"><u>Easy Guide to Overcoming BCM2045A0 Driver Challenges Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-guide-to-behringer-audio-drivers/"><u>Free Download: Ultimate Guide to Behringer Audio Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastery-of-on-screen-text-entry-controls-activatingdeactivating-in-windows-10/"><u>Mastery of On-Screen Text Entry Controls – Activating/Deactivating in Windows ➡️ 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-lenovo-thinkphone-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Lenovo ThinkPhone? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f15-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F15 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>
 

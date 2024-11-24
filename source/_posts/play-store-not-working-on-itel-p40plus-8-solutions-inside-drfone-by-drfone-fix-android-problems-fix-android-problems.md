@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Itel P40+? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:33.448Z
-updated: 2024-07-15T06:52:33.448Z
+date: 2024-11-23T21:35:24.340Z
+updated: 2024-11-24T19:59:27.406Z
 tags: 
   - problems
 categories:
@@ -25,6 +25,14 @@ In this guide, discover reliable solutions when your **Google Play Store is not 
 The Google Play Store serves as the epicenter for Android users. It facilitates seamless access to a vast array of apps. However, encountering issues with the platform can impact the functionality of your device. Below are 7 common issues on why your **Google Play Store is not responding**.
 
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Inability To Open the Play Store
 
@@ -58,9 +66,6 @@ Persistent connection and network errors impede the Play Store's ability to fetc
 
 If you're wondering **why does Google Play Store keeps stopping** on your phone, there can be several factors. Here are some of them below.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![man having issues on mobile phone](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-03.jpg)
 
 - **Network issues.**Unstable or poor internet connections can disrupt the communication between the Itel P40+ device and the Play Store. It can lead to frequent crashes.
@@ -84,9 +89,6 @@ Revitalize your Google Play Store by addressing performance issues. Clearing cac
 
 ![clearing cache and date on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Update Play Store
 
 Enhance your Play Store's functionality by ensuring it's up-to-date. This method suits those who haven't updated their Google Play Store for a long time. Follow the steps below.
@@ -100,6 +102,10 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset App Preferences
 
 Restore your device's app settings to default for improved functionality. Below are the steps.
@@ -110,8 +116,9 @@ Restore your device's app settings to default for improved functionality. Below 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Re-add Google Account
 
 Resolve Play Store issues by re-adding your Google account. Follow these steps in **Settings** to remove and re-add your Google account, ensuring a seamless and error-free experience.
@@ -129,6 +136,10 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 - **Step 2:** Find **Google Play Store** and tap on **Uninstall Updates**. Confirm the action and restart the Play Store.
 
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Perform a System Update
 
@@ -154,6 +165,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 - **Step 2:** Launch the program and connect your Itel P40+ to the computer using a USB cable. Choose the Itel P40+ device type and click **Start** to initiate the repair process.
 
 ![dr.fone android problems window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
 
@@ -203,8 +218,6 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -276,6 +289,10 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 
 Please note that this will delete all your Home screens post this method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disable Motion & gesture settings
 
 The functions regarding Motions and Gestures can be responsible for why **_TouchWiz home has stopped_** in your device. Usually the Itel P40+ devices running on Android version less than Marshmallow are prone to encountering this issue. Or the Itel P40+ devices having modest specs often fall prey to the issue. When you disable these settings, you might get out of the problem.
@@ -304,9 +321,6 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 - Open “Settings” and go to “Personalization”.
 - Hit on “Easy Mode” now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![easy mode to fix TouchWiz stopping](https://images.wondershare.com/drfone/article/2019/02/easy-mode.jpg)
 
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
@@ -340,8 +354,6 @@ Along with this, we would also suggest you go take backup of your data so that y
 ### Install a new launcher to replace TouchWiz
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
-
-
 
 ## Cellular Network Not Available for Voice Calls On Itel P40+
 
@@ -415,6 +427,10 @@ In certain instances, manually selecting your network operator can help. It effe
 
 ![open mobile network carriers](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Look for the "Automatically Select" toggle, which will be turned on. Toggle it off to see available networks and choose the one best suited to your device.
 
 ![select mobile carrier](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-5.jpg)
@@ -445,9 +461,6 @@ Updating your Itel P40+'s OS to the latest version can often resolve performance
 
 - **Step 1.** In your device's Settings, scroll through to find the "Software Update" option. Select it, and on the subsequent screen, verify the availability of any updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open software update settings](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-9.jpg)
 
 - **Step 2.** If an update is accessible, select the 'Download and Install' choice. Then, proceed by following the prompts displayed on the screen to finalize the process.
@@ -472,6 +485,10 @@ If you've exhausted all options and the issue persists, reaching out to your car
 
 ![contact provider for solution](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **You May Also Like:**
 
 [<u>Top 5 DFU Tools for iPhone to Enter DFU Mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html)
@@ -493,6 +510,10 @@ Dr.Fone specializes in resolving a wide array of Android system issues, includin
 3. It boasts the highest success rate when it comes to fixing Android devices.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -544,7 +565,6 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 
 ![drfone](https://images.wondershare.com/drfone/activity/icon-que.svg) What might be causing my SIM card to not display a network?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -557,9 +577,20 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-techniques-to-frame-photos-with-leading-lines-iphone/"><u>[New] Techniques to Frame Photos with Leading Lines (iPhone)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-capturing-the-world-in-full-circle-experts-360-cams-review-2023/"><u>2024 Approved Capturing the World in Full Circle - Expert's 360 Cams Review, 2023</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/harness-the-power-of-artificebotics-at-newegg-for-a-tailored-selection-of-high-quality-pc-parts/"><u>Harness the Power of Artificebotics at Newegg for a Tailored Selection of High-Quality PC Parts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-asus-rog-phone-7-ultimate-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Asus ROG Phone 7 Ultimate Safely | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-spark-go-2023-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Spark Go (2023) Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-realme-12-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Realme 12 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-map-my-ride-cycling-tracker/"><u>In-Depth Analysis of the Map My Ride Cycling Tracker</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpts-power-to-navigate-the-pathway-towards-your-dream-career-opportunity/"><u>Leveraging ChatGPT's Power to Navigate the Pathway Towards Your Dream Career Opportunity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/quick-growth-guide-mastering-instagram-likes-and-video/"><u>Quick Growth Guide - Mastering Instagram Likes & Video</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Itel P55 | Dr.fone</u></a></li>
+</ul></div>
 

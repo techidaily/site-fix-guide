@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme 12 5G | Dr.fone
-date: 2024-11-10T01:35:23.558Z
-updated: 2024-11-14T19:26:38.526Z
+date: 2024-11-17T19:22:00.048Z
+updated: 2024-11-24T19:29:46.798Z
 tags: 
   - problems
 categories:
@@ -47,6 +47,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![select system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Choose the **Android**
 
 ![pick android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
@@ -66,16 +70,7 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 ![downloading firmware in progress](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
@@ -142,10 +137,7 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 ![log into spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 5:** Enter your login credentials.
@@ -185,6 +177,10 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 
 ![settings on your android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Go to **System** or **About Phone**.
 
 ![about phone to find system update](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-12.jpg)
@@ -208,10 +204,7 @@ If your system is updated, then Spotify might need an update. The app might malf
 ![update spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8. Free up Storage
@@ -240,10 +233,7 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 ![uninstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4:** Press **OK**.
@@ -267,13 +257,6 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
 ### 11. Clear the Cache
@@ -296,13 +279,6 @@ When using different apps and websites, your device caches data from those sourc
 - **Step 5:** Tap **Clear Cache**.
 
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -333,6 +309,10 @@ Many users also feel that incomplete or improper installation may cause the App 
 There may be many more reasons for them; unfortunately, App has stopped error to show up, but no one reason can be blamed for it.
 
 Therefore it is important for us to carefully examine the problem and choose from the solutions given below to fix Unfortunately, Youtube has stopped; unfortunately, Netalpha has stopped; unfortunately, the internet has stopped and many other similar unfortunately App has stopped working errors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: A One-Click Fix to ‘Unfortunately App has Stopped’
 
@@ -373,13 +353,6 @@ Follow the on-screen instructions on how to then boot your Realme 12 5G in Downl
 Once booted, the software will verify your firmware and start repairing your device. Make sure your phone stays connected throughout the process, and you’ll be ready to go and your ‘unfortunately the internet \[or another app\] has stopped’ error should be erased!
 
 ![Internet stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _This could take some time, depending on your internet connection and speeds, so be mindful that everything stays connected._
 
@@ -453,13 +426,6 @@ Note: Once the factory reset process is complete, your device will automatically
 
 Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has stopped, unfortunately, the internet has stopped working and so on are very common these days. They disrupt the normal functioning of an App/Apps and prevent you from using the App/Apps smoothly. Unfortunately, App has stopped error is not a serious problem and does not mean there is a problem with the App, your Android OS version, or your handset. It is a random error which occurs due to various reasons in a given situation. If you experience such an error while sign in your favorite App/Apps, DO NOT panic as unfortunately, App has stopped error can be fixed easily. All you need to do is be patient with the App’s software and not try to launch it again and again once it crashes, and an error message pops-up. Just follow the methods listed and explained in detail in the previous segments to solve the problem of unfortunately App has stopped.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## App Won't Open on Your Realme 12 5G? Here Are All Fixes
 
 It is not a very rare phenomenon where an App won't open, crash abruptly or face trouble while launching on an Android device. Many Android phone users also add to the fact that whenever they try to launch an App, it keeps loading but does not run smoothly, as it should in normal circumstances.
@@ -477,6 +443,10 @@ If you are an Android phone user and face a problem while trying to open an App 
 It is appropriate to tag our generation as smartphone addicts because we use smartphones for anything and everything. All our important information, such as photos, videos, audio files, documents, notes, calendars, emails, etc, are stored on our phones. This causes a major storage/space problem in our phones and **a shortage of storage space** is one of the main reasons why an App won’t open or why all Apps won't open on your Realme 12 5G. To see how much of your storage space is occupied by Apps, go to “Settings” and select “Application Manager”.
 
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984182929893.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Settings](https://images.wondershare.com/drfone/article/2017/06/14984583143306.jpg)
 
@@ -562,6 +532,10 @@ Follow the steps given below to update the app which won't open on your phone:
 
 ![Update All](https://images.wondershare.com/drfone/article/2017/06/14984183782889.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once the App is updated, close all Apps and tabs running in the background. Now try to launch the app once again. If it opens, your problem is solved. If not, DO NOT worry as there are more ways to help you.
 
 2\. Force Stop the App
@@ -642,6 +616,10 @@ To Factory Reset your Realme 12 5G, carefully follow the guidelines given below:
 
 ![Erase Everything](https://images.wondershare.com/drfone/article/2017/06/14984185334400.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Your phone will now reboot and will be required to set up from scratch.
 
 “Why Won’t my App open” is a question asked by many Android phone users who fear that the problem occurs due to a virus attack or a system failure. However, this is not the case. The reason for the error to the surface is quite minor and can be fixed by you, sitting at home, without resorting to any kind of technical or external assistance. The solutions listed above are easy to understand and not very time-consuming.
@@ -662,18 +640,24 @@ So go ahead and try them out now!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-maximizing-ad-performance-with-engaging-fb-animation-strategies/"><u>[Updated] In 2024, Maximizing Ad Performance with Engaging FB Animation Strategies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-content-control-muting-followers-for-2024/"><u>[Updated] Mastering Content Control Muting Followers for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-richest-revenue-generators-in-the-youtube-universe/"><u>[Updated] Richest Revenue Generators in the YouTube Universe</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-list-of-gratuitous-quality-memes/"><u>[Updated] The Essential List of Gratuitous, Quality Memes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-best-practices-for-efficient-slide-capture/"><u>2024 Approved Best Practices for Efficient Slide Capture</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cure-for-blacked-out-windows-11-with-fall-patch/"><u>Cure for Blacked-Out Windows 11 with Fall Patch</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-tecno-pova-5-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Tecno Pova 5 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-leave-a-life360-group-on-zte-nubia-z60-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On ZTE Nubia Z60 Ultra Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-s24-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy S24 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-does-find-my-friends-work-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-gt-5-240w-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme GT 5 (240W)?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-magic-6-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor Magic 6? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/este-articulo-muestra-5-metodos-sencillos-y-efectivos-para-crear-copias-de-seguridad-de-carpetas-especificas-en-la-ultima-version-de-windows-empieza-a-prote65/"><u>Este Artículo Muestra 5 Métodos Sencillos Y Efectivos Para Crear Copias De Seguridad De Carpetas Específicas en La Última Versión De Windows, ¡Empieza a Proteger Tus Archivos Hoy!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-lava-yuva-3-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Yuva 3 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a05s-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A05s Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/meta-drops-a-new-chapter-for-nfts-on-instafb/"><u>Meta Drops: A New Chapter for NFTs on Insta/FB</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-a2-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo A2? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-x50-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor X50 Black and White | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/t-from-the-leading-7-android-apps-to-eradicate-ads/"><u>Select From the Leading 7 Android Apps to Eradicate Ads</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/share-your-ps4-gaming-moments-online-sharing-made-easy-for-2024/"><u>Share Your PS4 Gaming Moments Online Sharing Made Easy for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-motorola-edge-2023-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Edge 2023 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-new-and-improved-bioshock-2-remaster-eliminating-crashes-and-elevating-play/"><u>The New and Improved BioShock 2 Remaster - Eliminating Crashes and Elevating Play</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-ranking-exterior-disk-drives-in-2e24-a-comprehensive-guide/"><u>Top-Ranking Exterior Disk Drives in 2E24: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-rated-free-video-to-audio-converters-on-demand-edition-for-2024/"><u>Top-Rated Free Video-to-Audio Converters On-Demand Edition for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-convert-mp4-to-mp3-best-apps-for-iphone-and-android/"><u>Updated Convert MP4 to MP3 Best Apps for iPhone and Android</u></a></li>
 </ul></div>
 

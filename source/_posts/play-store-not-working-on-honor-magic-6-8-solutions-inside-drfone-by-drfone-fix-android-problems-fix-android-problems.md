@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Honor Magic 6? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:51:58.228Z
-updated: 2024-07-15T06:51:58.228Z
+date: 2024-11-17T19:51:11.389Z
+updated: 2024-11-24T22:17:24.919Z
 tags: 
   - problems
 categories:
@@ -26,6 +26,10 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Inability To Open the Play Store
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
@@ -41,6 +45,10 @@ The dreaded "Not Responding" message can bring usability to a standstill. Users 
 ### Download and Installation Failures
 
 When downloads and installations fail, you will be unable to enjoy new apps or updates. This issue can be annoying when trying to access crucial software improvements or security updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Authentication and Account Issues
 
@@ -90,14 +98,6 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
@@ -129,6 +129,10 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Perform a System Update
 
 Ensure your device's overall stability by performing a system update to ensure the stable operation of the Play Store. Follow the steps below.
@@ -154,6 +158,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone android problems window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
 
 ![dr.fone device information window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -162,13 +170,14 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
 
 Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known for its user-friendly interface and high success rate. Its ability to address a wide range of Android issues offers a comprehensive solution to various system-related problems. Below are the platform's key highlights.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Key Features**
@@ -179,6 +188,10 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 - **High success rate**. The software boasts a high success rate in resolving Android issues. Its effectiveness in tackling various problems has garnered trust among users. It's one of the go-to solutions for those seeking reliable and efficient system repairs.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,131,376** people have downloaded it
 
@@ -196,13 +209,16 @@ This comprehensive guide aims to the reasons behind Android phones becoming bric
 
 ![man holding a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-01.jpg)
 
-
 ## Part 1. What are Brick Phones: At a Glance
 
 The term "**bricked phone**" is used when a device becomes non-functional. This is typically due to a critical software or firmware error. There are two distinct scenarios for encountering a bricked phone: a soft brick and a hard brick.
 
 - **Soft Brick**. A soft brick entails a phone that's not operational due to software glitches or conflicts but is not irreparable.
 - **Hard Brick**.A hard brick signifies a more dire situation. This is where the phone becomes inoperable, resembling an actual brick in terms of functionality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Common Causes of a Cell Phone Bricking
 
@@ -246,9 +262,6 @@ Normally, smartphone warranties span from 1 to 2 years. If your phone remains un
 
 When your phone falls outside the warranty coverage, consider seeking help from a reputable repair shop. However, be aware that any lost data cannot be attributed to their efforts. Fortunately, you can recover lost data using reliable data recovery software once your phone is operational again.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use a Dedicated App To Fix Bricked Mobile Phones (Hard Brick and Soft Brick)
 
 Among the array of tools designed for unbricking and recovery, one standout is [Wondershare Dr.Fone - System Repair (Android).](https://tools.techidaily.com/wondershare/drfone/android-repair/) With an exceptional recovery rate, it stands out as one of the top contenders for data retrieval. Its performance is notable when applied to modern brick phones, making it a highly effective choice for these devices.
@@ -279,9 +292,6 @@ This software is designed to fix glitches including most modern Android devices.
 
 Dr.Fone - System Repair (Android) offers free access for you to test the initial steps and verify device compatibility. This cost-effective feature ensures value for money every step of the way.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Main Advantages of Using Dr.Fone – System Repair (Android)
 
 Dr. Fone – System Repair (Android) is a great solution with numerous tools to help you manage your Honor Magic 6 in various ways. Here are some of the advantages of using the app for fixing **bricked phones.**
@@ -289,6 +299,10 @@ Dr. Fone – System Repair (Android) is a great solution with numerous tools to 
 - Fone – System Repair (Android) comes with a clean UI making navigation and usage easy. The user-friendly design offers a seamless experience for beginners and professionals alike.
 - Utilizing the app for system repair is an effortless and speedy process. It doesn't take up much time to revive your **bricked phone**so you can use it right away.
 - The System Repair toolkit only needs you to click on a few buttons. Combined with its clean UI and speedy process, using the app is a breeze.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. How To Revive a Bricked Phone Using Dr.Fone – System Repair (Android)
 
@@ -301,6 +315,10 @@ Below are the steps to recover data on a bricked mobile phone.
 - **Step 2**: Select the correct device information. Choose the **Brand**, **Name**, **Model**, **Country**, and **Carrier**. Tick the box next to **I agree** button and click **Next** to proceed to the next step.
 
 ![dr.fone choose device type](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: Click on the **Phone with Home button** or **Phone without Home button** depending on your device. Follow the on-screen instructions and click **Next** to proceed with reviving your brick phone.
 
@@ -348,6 +366,10 @@ It is possible that the corrupted cache files are responsible for this error. He
 
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Clear the Android phone’s RAM and retry
 
 As the next tip, we would like to suggest you clear your device’s RAM by ceasing the running apps in the background. RAM, if at the increased level, is responsible for the Honor Magic 6 device’s freezing, poor performance, and most probably is the reason behind crashing Settings. Also, if the apps in the background keep running, they might conflict with the Settings and stop it to perform properly. Therefore clearing RAM is important when Android Settings is not responding. Here is how to do it.
@@ -356,18 +378,6 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
     Note: Please note that different devices have different ways to go to the Recent apps screen. Do it according to the Honor Magic 6 device you own.
 2. Now, swipe the apps and tap on the clear option. You will be able to notice the amount of RAM cleared
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
 
 ## Part 3: Uninstall the Google update
@@ -383,8 +393,6 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Honor Magic 6, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Honor Magic 6 devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -472,9 +480,6 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -487,9 +492,26 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-efficiently-enhance-iphone-videos-dimensions-in-focus/"><u>[New] In 2024, Efficiently Enhance iPhone Videos Dimensions in Focus</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-engagement-top-hashtags-for-gameplay-vids/"><u>[New] In 2024, Elevate Engagement Top Hashtags for Gameplay Vids</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-navigate-your-way-through-premiere-pros-fs-mode/"><u>[New] Navigate Your Way Through Premiere Pro's FS Mode</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/boost-your-conversions-by-turning-pdf-brochures-into-engaging-digital-flipbooks-with-flipbuildercom/"><u>Boost Your Conversions by Turning PDF Brochures Into Engaging Digital Flipbooks with FlipBuilder.com</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-palm-2-versus-openai-gpt-4-showdown-exploring-their-divergent-paths-in-ai-innovation/"><u>Google PaLM 2 Versus OpenAI GPT-4 Showdown: Exploring Their Divergent Paths in AI Innovation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic-v2-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic V2 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-itel-s23plus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Itel S23+ in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-reno-11-pro-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Reno 11 Pro 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-advanced-mac-toolkit-screenaudio-recording-feature/"><u>In 2024, Advanced Mac Toolkit Screen/Audio Recording Feature</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/jokegenius-get-the-best-meme-app-for-2024/"><u>JokeGenius - Get the Best Meme App for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/las-mejores-aplicaciones-gratuitas-para-convertir-videos-ade-4k-descubrira-los-12-mas-efectivos-para-su-computadora/"><u>Las Mejores Aplicaciones Gratuitas Para Convertir Videos A/De 4K, Descubrirá Los 12 Más Efectivos Para Su Computadora</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c51-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C51 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-razr-40-ultra-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Razr 40 Ultra Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a23-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A23 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009181263-revive-the-villainy-fix-noise-failures-in-evil-genius-2-easily/"><u>Revive the Villainy – Fix Noise Failures in 'Evil Genius 2' Easily!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/seamless-sharing-of-vast-viewpoints-uploading-wide-angle-content-on-iosandroid-for-2024/"><u>Seamless Sharing of Vast Viewpoints Uploading Wide Angle Content on iOS/Android for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy F04 | Dr.fone</u></a></li>
+</ul></div>
 

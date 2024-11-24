@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Motorola G54 5G? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:56.040Z
-updated: 2024-07-15T06:52:56.040Z
+date: 2024-11-17T18:24:52.548Z
+updated: 2024-11-24T19:25:44.507Z
 tags: 
   - problems
 categories:
@@ -20,15 +20,16 @@ In this guide, discover reliable solutions when your **Google Play Store is not 
 
 ![woman annoyed on phone not working](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I. 7 Common Google Play Store Issues Users Encounter
 
 The Google Play Store serves as the epicenter for Android users. It facilitates seamless access to a vast array of apps. However, encountering issues with the platform can impact the functionality of your device. Below are 7 common issues on why your **Google Play Store is not responding**.
 
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Inability To Open the Play Store
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
@@ -49,13 +50,14 @@ When downloads and installations fail, you will be unable to enjoy new apps or u
 
 Problems with authentication and account access can lock users out of their Google accounts on the Play Store. It prevents users from purchasing or downloading apps. The issue not only hampers functionality but also raises security concerns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Problems
 
 [<u>Difficulties in updating apps </u>](https://drfone.wondershare.com/samsung/install-uninstall-update-samsung-kies-on-pc.html) can leave users with outdated software. It can potentially compromise security and miss out on new features. The issue diminishes the user experience by depriving you of the latest enhancements.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Connection and Network Errors
 
 Persistent connection and network errors impede the Play Store's ability to fetch data. It hinders users from browsing and downloading apps. The issue is frustrating in areas with unstable internet connectivity.
@@ -156,11 +158,12 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone device information window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Simply click **Done** on the prompt window displaying a confirmation message to exit the tool if your Motorola G54 5G starts successfully. In the event that the Motorola G54 5G device fails to start, select **Try Again** to initiate the process once more.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
@@ -168,6 +171,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known for its user-friendly interface and high success rate. Its ability to address a wide range of Android issues offers a comprehensive solution to various system-related problems. Below are the platform's key highlights.
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -185,8 +192,6 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 Addressing issues when your **Google Play Store does not work** is crucial for an uninterrupted Android experience. Follow the outlined steps to regain control and enjoy a seamless app experience. Don't let frustrations linger; take immediate action for a hassle-free Google Play Store.
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
-
-
 
 ## Full Solutions to Fix Error Code 920 In Google Play on Motorola G54 5G
 
@@ -244,6 +249,10 @@ Easiest Fix to Error Code 920
 Then connect your Motorola G54 5G using the official cable and select the ‘Android Repair’ option.
 
 ![select android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #3** On the next screen, insert your device information to ensure you’re downloading the correct firmware.
 
@@ -333,6 +342,10 @@ During these processes, bugs can occur, and if they can’t sort themselves out,
 
 **Step 3:** The app will automatically install itself once downloaded. Open the app, sign in to your account using your log-in details, and you should be able to use the app like normal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Check for new Snapchat Updates
 
 ![snapchat not responding - check for new updates](https://images.wondershare.com/drfone/article/2019/04/update-snapchat-app.jpg)
@@ -371,13 +384,15 @@ Here’s how to fix it.
 
     ![wipe cahce of snapchat crashing - step 5](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-five.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Fix the system issues that caused Snapchat stopping
 
 If you’re experiencing the Snapchat crashing on Android often, or you’re experiencing similar errors with other apps, this can be an indication that there’s something wrong with your Android operating system.
 
 The best way to fix this is to repair your device using the software known as Dr.Fone - System Repair (Android). This is a powerful repair system that can completely recover your device from any errors, including the Snapchat keeps crashing error.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -407,9 +422,6 @@ Once completed, open the software, so you’re on the main menu.
 
 On the next screen, use the drop-down menus to confirm the model, brand, operating system, and carrier of your device. Click Next to confirm the details are correct.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![snapchat crashing - select details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step 4:** You’ll now need to put your phone into Download Mode, sometimes referred to as Recovery Mode. For this, you can follow the onscreen instructions. Make sure your device stays connected to your computer throughout this process.
@@ -421,6 +433,10 @@ The method will slightly differ depending on whether your device has a home butt
 **Step 5:** Once in Download Mode, the software will now download and install a fresh version of your Motorola G54 5G’s operating system. This can take some time, so make sure your device stays connected, and your computer stays on and doesn’t shut down.
 
 ![snapchat crashing - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6:** That’s it! Once you see the screen saying your device has been repaired, you’ll be able to close the Dr.Fone - System Repair (Android) software, disconnect your phone, and can start using Snapchat as normal without the Snapchat not responding error coming up!
 
@@ -454,6 +470,10 @@ To resolve this, you can simply try connecting to another Wi-Fi network or a dat
 
 ![snapchat stopping - forget wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Now tap the new Wi-Fi network you want to connect to. Insert the Wi-Fi security code and connect. Now try reopening and using the Snapchat to see if you can use it.
 
 ![snapchat stopping - reconnect wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change3.png)
@@ -461,6 +481,10 @@ To resolve this, you can simply try connecting to another Wi-Fi network or a dat
 ## Part 7. Stop using the custom ROM
 
 ![snapchat stopping - stop rom](https://images.wondershare.com/drfone/article/2019/04/android-custom-rom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you’re running a custom Android ROM on your device, with some versions of the ROM and some apps, you’re going to experience errors simply because of the way the apps and the ROMs are coded and designed.
 
@@ -476,9 +500,6 @@ However, this reflashing process is simple thanks to the Dr.Fone - System Repair
 6. Put your device into Download Mode by following the onscreen instructions
 7. Allow the software to repair your Motorola G54 5G automatically
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 8. Reset the factory settings of your Android
 
 ![snapchat stopping - factory resetting](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
@@ -493,7 +514,6 @@ Make sure you back up your personal files from your device first like your photo
 
 **Step 2:** Click the Reset Phone option. That’s it! The phone will take several minutes to complete the process, after which your phone will be reset to its original state.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -506,9 +526,20 @@ Make sure you back up your personal files from your device first like your photo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-digital-enhancement-social-story-recorder/"><u>[Updated] In 2024, Digital Enhancement Social Story Recorder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-5-best-gba-emulators-for-ios-you-can-find/"><u>2024 Approved 5 Best GBA Emulators for iOS You Can Find</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/current-online-threats-and-innovations-analyzing-new-twitter-scams-metas-authentication-enhancement-with-verification-system-and-inside-scoop-on-chatgpt-4-f24/"><u>Current Online Threats & Innovations: Analyzing New Twitter Scams, Meta’s Authentication Enhancement with Verification System & Inside Scoop on ChatGPT- 4 Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-watchlist-using-double-display-with-netflix/"><u>Enhance Your Watchlist Using Double Display with Netflix</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-quality-action-recorders-12-enhanced-with-gps-navigation/"><u>In 2024, High-Quality Action Recorders 12, Enhanced with GPS Navigation</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/menantang-pemusnahan-data-d-drive-dengan-langkah-langkah-ringkas-dan-efektif/"><u>Menantang Pemusnahan Data D Drive Dengan Langkah-Langkah Ringkas Dan Efektif</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-go-2023-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark Go (2023) Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m54-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M54 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-guide-to-local-users-and-groups-on-win1110/"><u>The Complete Guide to Local Users and Groups on WIN11/10</u></a></li>
+</ul></div>
 

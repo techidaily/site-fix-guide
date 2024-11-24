@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Vivo X90S? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:55:22.176Z
-updated: 2024-07-15T06:55:22.176Z
+date: 2024-11-19T20:26:08.362Z
+updated: 2024-11-24T21:59:32.712Z
 tags: 
   - problems
 categories:
@@ -34,9 +34,6 @@ The inability to open the Play Store leaves you without access to new apps or up
 
 [<u>Frequent crashes</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html) undermine the stability of the Play Store. Users attempting to browse or download apps may find themselves abruptly kicked out of the application. It can disrupt your intended tasks and cause annoyance in the long run.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Not Responding Errors
 
 The dreaded "Not Responding" message can bring usability to a standstill. Users navigating the Play Store may experience delays or complete unresponsiveness. It can lead to a frustrating and unproductive experience.
@@ -106,6 +103,10 @@ Restore your device's app settings to default for improved functionality. Below 
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Re-add Google Account
 
 Resolve Play Store issues by re-adding your Google account. Follow these steps in **Settings** to remove and re-add your Google account, ensuring a seamless and error-free experience.
@@ -114,6 +115,10 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 - **Step 2:** Select **Google** and remove the account. Re-add the Google account and verify if the Play Store functions properly.
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Uninstall Play Store Updates
 
@@ -186,9 +191,6 @@ One of the main reasons why people own a phone is for convenience. It will be ir
 
 This article will share the possible reasons why your ****Android phone is stuck on the boot screen****. This article will share three possible reasons for this problem and five valuable tips to help fix this issue. If all else fails, we have an application to share and recommend that is guaranteed to solve your problem in no time. Keep on reading to find out more!
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Is Your Vivo X90S Stuck on the Boot Screen?
 
 There are countless reasons why a problem happens, just like why your ****Android phone is stuck on the logo**** page. This section sieved out the top 3 reasons why your ****Android boot screen**** happens and some tips to overcome it.
@@ -201,6 +203,10 @@ Fortunately, this is not a complicated fix. Android accepts different fixes and 
 
 Although it is fun to customize and change the software, following trusted sources ensures you do not damage your phone. Having an ****Android phone stuck on the logo**** page is one of the many examples of the problems that might happen if changes to the software go out of hand.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Android Software Updates
 
 Updates are a common cause of ****Android phones stuck on the logo****. It happened when the update did not complete as it should have been. Several reasons for incomplete updates, such as poor internet connection, the connection between computer and phone being lost, a power cut, the phone freezing, and the list go on. When an update is uncompleted, issues such as being stuck at the ****Android boot screen**** and many others might occur.
@@ -210,6 +216,10 @@ Before an update starts, your mobile device will notify you of the duration of t
 When an update is disrupted or stopped before it completes, the existing Android version will become corrupted while the new software to be updated is incomplete. This means that your Vivo X90S has no system to run on. Always complete your software updates, and you will not have the problem of your ****Android phone getting stuck on the logo****.
 
 ![updating software](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. Malfunctioning Applications
 
@@ -232,8 +242,9 @@ When encountering problems with your Vivo X90S, such as being stuck at the ****A
 ![forcing rebooting android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2. Pull Out Battery
 
 Another way to restart your Vivo X90S when it is frozen is to try taking the battery out. Android devices are designed with a removable battery, and sometimes you can resolve the issue easily by removing the battery and replacing it after a couple of seconds. Then, turn on your device again and test to see if your ****Android phone is stuck on the logo**** page.
@@ -254,6 +265,10 @@ Cache refers to a software or hardware component of an Android device that store
 
 Wiping out the cache data from your Vivo X90S could free up more space, allow your device to function faster, and avoid problems such as being stuck at the ****Android boot screen****. Do not worry; wiping the cache data is entirely safe and will not lead to any loss of important data or programs on your phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5. Factory Reset
 
 If all the methods above fail, performing a factory rest might be your last option. However, it is important to note that performing a factory reset will erase everything on your phone, including apps, contacts, photos, etc. As a tip, back up all your data from your device before performing a factory reset. That way, you can still retrieve all your precious information after the reset.
@@ -270,9 +285,6 @@ Follow the steps below to perform a factory rest on your Vivo X90S:
 
 If all the solutions above do not work and you do not want to perform a factory reset on your phone, one option is to use an app called Dr.Fone. It is one of the most effective phone recovery solutions and can help to bring your Vivo X90S back to a state like it was brand new. Being stuck on the ****Android boot screen**** will be a problem of the past.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![interface of dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Refer to the tutorial below to solve your ****Android phone is stuck on the logo**** page issue.
@@ -283,15 +295,16 @@ Refer to the tutorial below to solve your ****Android phone is stuck on the logo
 
 ![selecting issue from dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Input the ****Brand****, ****Name****, ****Model****, ****Country,**** and ****Carrier**** of your phone and click on ****Next****.
 
 ![filling in data for phone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step 4**: Follow the instructions provided on the page and wait for the system repair to finish. After which, click on ****Done**** to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
@@ -299,8 +312,6 @@ Refer to the tutorial below to solve your ****Android phone is stuck on the logo
 This article summarizes some possible reasons your ****Android phone is stuck on the logo**** page. Five useful strategies were shared to easily overcome your Vivo X90S being stuck in the boot. However, if all the above methods do not work, we recommend trying the Dr.Fone-System Repair.
 
 Dr.Fone-System Repair repairs the operating system issues and fixes the problem with your Vivo X90S. Once you power on your Vivo X90S again, you can rest assured that it will be like new.
-
-
 
 ## Why Does My Vivo X90S Keep Turning Off By Itself? 6 Fixes Are Here
 
@@ -380,6 +391,10 @@ Step 3: Pick your Vivo X90S details over the Vivo X90S device information interf
 
 ![start to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Phase 2: Enter ‘Download’ mode to repair and resolve ‘why does My Vivo X90S keep turning off’
 
 Step 1: On your Vivo X90S, go to ‘Download’ mode following the instructions.
@@ -401,6 +416,10 @@ Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once dow
 ![fixed phone keeps turning off with the repair program](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Update software to the latest version to fix Android phone keeps turning off
 
@@ -446,7 +465,9 @@ That's all. Well, booting to Safe Mode is easy and it also helps you to identify
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a great way to back up all your data to prevent it from getting lost after resetting the phone. It works brilliantly as it backs up all data and allows users to retrieve it fully or selectively. You can backup all files from your Android to PC in just a click and restore them later. Try this software for free before purchasing it to understand it's working better. It does not tamper with your data and only requires you to follow the simple steps given below to backup your Android data:
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Wondershare Dr.Fone
 
@@ -503,7 +524,6 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -516,9 +536,22 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-effortless-control-enhancing-gameplay-on-steam-using-switch-pro/"><u>[New] Effortless Control Enhancing Gameplay on Steam Using Switch Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-highly-compensated-online-visionary-creator/"><u>[New] Highly Compensated Online Visionary Creator</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-how-to-fix-wpd-filesystem-volume-driver-issues/"><u>[SOLVED] How to Fix WPD FileSystem Volume Driver Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortlessly-resolve-your-rage-2-game-crashing-woes-step-by-step-guide-inside/"><u>Effortlessly Resolve Your RAGE 2 Game-Crashing Woes – Step-by-Step Guide Inside</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/exploring-options-for-advanced-livestreaming-setups-for-2024/"><u>Exploring Options for Advanced Livestreaming Setups for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-moto-g24-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Moto G24 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-s17e-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo S17e Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-uncomplicated-guide-for-crafting-and-editing-multiple-snaps-in-snapchat/"><u>In 2024, Uncomplicated Guide for Crafting and Editing Multiple Snaps in Snapchat</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-moto-g23-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Moto G23 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-itel-p55-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210936373-9780717151431-the-happiness-habit/"><u>The Happiness Habit | Free Book</u></a></li>
+</ul></div>
 

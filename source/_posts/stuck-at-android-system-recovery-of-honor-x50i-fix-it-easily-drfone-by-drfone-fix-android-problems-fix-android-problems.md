@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor X50i ? Fix It Easily | Dr.fone
-date: 2024-11-09T16:17:37.963Z
-updated: 2024-11-15T03:15:58.257Z
+date: 2024-11-23T22:18:32.622Z
+updated: 2024-11-24T21:22:36.697Z
 tags: 
   - problems
 categories:
@@ -44,23 +44,9 @@ Step 4: The white Google logo will appear immediately followed by the Android lo
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
@@ -95,6 +81,10 @@ Insert your device information, including the brand, carrier details, model and 
 
 ![select items to correctly fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #3** Follow the onscreen instructions on how to put your device in Download Mode.
 
 Your device should already be in this mode but follow the instructions to make sure. There are methods available for devices, both with and without home buttons.
@@ -114,13 +104,6 @@ After downloading, the software will automatically start to repair your device b
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
@@ -165,6 +148,10 @@ Android system recovery mode can be quite useful, especially when your system is
 All of you, sooner or later, must have found the “Unfortunately Settings has stopped” error on your Honor X50i. The problem can occur if the Settings keeps stopping or crashing. Many times, you may try to open the Settings but it doesn’t even open. Or possibly, it may freeze after getting opened thereby hampering the Honor X50i device's performance.
 
 ![unfortunately settings has stopped](https://images.wondershare.com/drfone/article/2022/04/fix-unfortunately-settings-has-stopped.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Well! There can be a number of reasons why this thing happens. For instance, custom ROM installations, not enough space in the Honor X50i device or perhaps an outdated version of Android. If you are struggling with the same issue and want to know what to do when Android Settings is not responding, this post will help you. We have explained everything in detail along with the solutions. So, scroll down and get things sorted.
 
@@ -244,13 +231,6 @@ In the next window, you need to fill in some necessary information like the name
 
 ![Android settings not responding - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Enter Download Mode
 
 Now, you need to take your device into Download mode. For this, you need to follow the onscreen instruction according to your device. Click “Next” and you will notice the firmware downloading progress on your screen.
@@ -277,6 +257,10 @@ Like RAM, wiping cache is also vital so as to make the Honor X50i device’s ope
 
 ![Android settings not responding - cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: Factory reset your Android
 
 You can also opt for Factory resetting your device to fix the issue of Settings keeps stopping. By removing everything from the Honor X50i device, it will make your device run properly. If you have important data on your device, please make sure to [create a backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before taking action if you don’t want to lose it. The steps are as follows.
@@ -288,10 +272,11 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 7: Check and update Android OS
@@ -311,13 +296,6 @@ If your Honor X50i shows the "Unfortunately Settings has stopped" error, don't w
 For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html). It's known for fixing many iOS problems without losing any data. Remember, a well-working device is just a few steps away!
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Play Services Won't Update? 12 Fixes are Here on Honor X50i
 
@@ -344,6 +322,10 @@ Before diving into the solutions, it's essential to understand the potential cau
 For those seeking a quick and effortless solution, several third-party tools offer one-click fixes for the Google Play Services update problem. These tools automate the update process, ensuring that you have the latest version of Google Play Services installed. However, it is crucial to use reputable and trusted tools to avoid potential security risks.
 
 If you cannot update Google play services by the reason of custom ROM incompatibility or Google Play component corruption, there is a serious need of repairing firmware then. And to repair Android firmware, one of the expert ways is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This professional tool vows to bring your Honor X50is back to normal by fixing the issues with ease. Here are the advantages of this tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -377,6 +359,10 @@ You will notice the next screen which asks for some information. Please ensure t
 
 ![google play services not updating - enter details and fix](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4: Download Mode**
 
 You will now see some instructions on your PC screen. Just follow those according to your device. And then your device will boot in Download mode. Once done, hit on “Next”. The program will now download the firmware.
@@ -397,13 +383,6 @@ When the firmware is downloaded completely, the program will automatically start
 
 In most cases, restarting the Honor X50i device can simply do the trick. When you restart the Honor X50i device, most of the issues get eliminated making the Honor X50i device perform better than before. Also, it is all about RAM. While you restart your device, the RAM gets cleared. As a result, the apps work properly. So, in the first place, we would like you to restart your Honor X50i when you cannot update Google Play Services. Once restarted, try to update again and see if the results are positive.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2. Uninstall Google Play Services Updates and Reattempt the Update
 
 Uninstalling previous Google Play Services updates resolves conflicts and errors, often addressing the issue of updates. This process clears potential obstacles, enabling a successful update of Google Play Services. Here's how you can do it:
@@ -422,13 +401,6 @@ Uninstalling previous Google Play Services updates resolves conflicts and errors
 ### Method 3. Update Google Play Store
 
 Ensure that you have the latest version of the Google Play Store app installed on your device. Open the Play Store, go to Settings, and check for updates. Updating the Play Store can often resolve compatibility issues with Google Play Services updates.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4. Google account and re-add it
 
@@ -449,6 +421,10 @@ Here is how to clear Google Play Services cache:
 - Launch “Settings” on your phone and go to “Apps & Notifications” or “Application” or “Application Manager”.
 - Now, from all the apps’ list, choose “Google Play Services”.
 - On opening it, tap “Storage” followed by “Clear Cache”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 7. Boot into download mode to clear cache of whole phone
 
@@ -503,9 +479,17 @@ Google Play Services is a background service on Android devices that provides es
 
 Keeping Google Play Services updated is crucial for several reasons. It ensures compatibility with the latest versions of Google apps, improves app performance, and enhances security. Updates often introduce new features, bug fixes, and optimizations, providing a better user experience and access to the latest advancements offered by Google.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Can I uninstall Google Play Services?
 
 No, Google Play Services cannot be uninstalled as it is a core system component required for the proper functioning of Google apps and services. Removing or disabling it can lead to malfunctions and render many Google apps non-functional. However, you can disable specific permissions or clear its cache and data if troubleshooting issues related to Google Play Services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. How can I check the version of Google Play Services on my device?
 
@@ -538,21 +522,18 @@ Encountering difficulties when updating Google Play Services can be frustrating,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-innovate-and-create-ranked-list-of-best-drawing-apps-for-android-users/"><u>[New] Innovate and Create Ranked List of Best Drawing Apps for Android Users</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-integrating-social-features-for-playlist-dissemination/"><u>2024 Approved Integrating Social Features for Playlist Dissemination</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-create-or-remove-windows-server-2022-system-restore-partition/"><u>How to Create or Remove Windows Server 2022 System Restore Partition</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-7-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 7?</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-innovative-music-creation-with-ipads-the-8-leading-ios-daws-you-must-try/"><u>In 2024, Innovative Music Creation with iPads The 8 Leading iOS DAWs You Must Try</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-infinix-note-30i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Infinix Note 30i without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tunemaster-pro-how-to-download-and-assess/"><u>In 2024, TuneMaster Pro How to Download & Assess</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/motorola-edge-2023-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 2023 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfect-images-with-frames-best-sites-and-tools-of-2023-reviewed/"><u>Perfect Images with Frames Best Sites and Tools of 2023 Reviewed</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-tecno-spark-20-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Spark 20? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-10t-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 10T 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-v30-lite-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V30 Lite 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-x-fold-2-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo X Fold 2 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-m34-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy M34 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-s23-ultra-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy S23 Ultra Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-potential-a-detailed-review-of-the-netgear-nighthawk-c7000-wireless-modem/"><u>Unveiling the Potential: A Detailed Review of the Netgear Nighthawk C7000 Wireless Modem</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screenpause-recorder-tutorial-for-2024/"><u>[New] ScreenPause Recorder Tutorial for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-rated-free-and-paid-android-video-editors/"><u>2024 Approved Top-Rated Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-comprehensive-guide-and-downloads-for-amd-gpio-interface/"><u>Easy Install: Comprehensive Guide & Downloads for AMD GPIO Interface</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-13-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 13</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-spark-20-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Spark 20 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-k11-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo K11 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c110-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C110 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-eliminate-shaking-mouse-scroll/"><u>Steps to Eliminate Shaking Mouse Scroll</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-10-best-drones-for-industrial-lifting-tasks/"><u>The 10 Best Drones for Industrial Lifting Tasks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-is-arm-based-mediatek-gears-up-to-power-windows-laptops-post-qualcomm-pact/"><u>The Future Is ARM-Based: MediaTek Gears Up to Power Windows Laptops Post Qualcomm Pact</u></a></li>
 </ul></div>
 

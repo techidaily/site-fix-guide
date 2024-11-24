@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Infinix Hot 30i? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:18.475Z
-updated: 2024-07-15T06:52:18.475Z
+date: 2024-11-17T21:48:15.492Z
+updated: 2024-11-24T21:45:25.613Z
 tags: 
   - problems
 categories:
@@ -20,9 +20,6 @@ In this guide, discover reliable solutions when your **Google Play Store is not 
 
 ![woman annoyed on phone not working](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part I. 7 Common Google Play Store Issues Users Encounter
 
 The Google Play Store serves as the epicenter for Android users. It facilitates seamless access to a vast array of apps. However, encountering issues with the platform can impact the functionality of your device. Below are 7 common issues on why your **Google Play Store is not responding**.
@@ -49,6 +46,10 @@ When downloads and installations fail, you will be unable to enjoy new apps or u
 
 Problems with authentication and account access can lock users out of their Google accounts on the Play Store. It prevents users from purchasing or downloading apps. The issue not only hampers functionality but also raises security concerns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Problems
 
 [<u>Difficulties in updating apps </u>](https://drfone.wondershare.com/samsung/install-uninstall-update-samsung-kies-on-pc.html) can leave users with outdated software. It can potentially compromise security and miss out on new features. The issue diminishes the user experience by depriving you of the latest enhancements.
@@ -63,11 +64,19 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 
 ![man having issues on mobile phone](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Network issues.**Unstable or poor internet connections can disrupt the communication between the Infinix Hot 30i device and the Play Store. It can lead to frequent crashes.
 - **Outdated Play Store version.**Running an outdated version of the Play Store may result in compatibility issues. The lack of essential updates can cause the application to stop unexpectedly.
 - **Cache and data accumulation**. Over time, cached data and accumulated data in the Play Store can become corrupted. It can hinder the smooth operation of your phone and contribute to sudden stops.
 - **Google account problems**. Authentication issues, incorrect credentials, or other problems with the linked Google account can disrupt the Play Store's functionality. This can also lead to repeated crashes.
 - **System glitches and bugs.**Inherent glitches and bugs within the Android operating system may affect the Play Store's performance. They can cause your device to stop unexpectedly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part III.7 Quick Solutions To Resolve Play Store Not Working Issues
 
@@ -76,8 +85,9 @@ Encountering issues with the Google Play Store can be frustrating. It disrupts y
 ![fixing mobile phone issues vector image](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Clear Cache and Data
 
 Revitalize your Google Play Store by addressing performance issues. Clearing cache and data can be a crucial step when troubleshooting malfunctions or glitches in the app. Here's how.
@@ -109,6 +119,10 @@ Restore your device's app settings to default for improved functionality. Below 
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Re-add Google Account
 
 Resolve Play Store issues by re-adding your Google account. Follow these steps in **Settings** to remove and re-add your Google account, ensuring a seamless and error-free experience.
@@ -117,6 +131,10 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 - **Step 2:** Select **Google** and remove the account. Re-add the Google account and verify if the Play Store functions properly.
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Uninstall Play Store Updates
 
@@ -160,9 +178,6 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
 
 Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known for its user-friendly interface and high success rate. Its ability to address a wide range of Android issues offers a comprehensive solution to various system-related problems. Below are the platform's key highlights.
@@ -186,8 +201,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
 ## Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Hot 30i
 
 Unable to install your favorite Apps from Google Play Store because there was a problem parsing the package?
@@ -208,9 +221,6 @@ There was a problem parsing the package may occur due to several reasons, most o
 
 Read on to find out more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Reasons for the parsing error
 
 Parse Error, better known as “there was a problem parsing the package” error is very common and normally surfaces when we try to download and install new Apps onto our Android devices from Google Play Store.
@@ -242,8 +252,6 @@ They are easy, user-friendly, and do not take much of your time. So don not wast
 #### **2.1 One Click to Fix ‘There is a Problem Parsing the Package**
 
 If you’re still encountering the Parsing error, there may be a problem with the Infinix Hot 30i device data on your device, which means you’ll need to repair it. Luckily, there’s a simple, one-click solution you can follow called [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/).
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -311,9 +319,6 @@ To enable USB Debugging to fix “There is a problem parsing the package” erro
 
 • In this step, select “Developer Options” and turn on “USB Debugging”.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn on “USB Debugging”](https://images.wondershare.com/drfone/article/2017/06/14985109282251.jpg)
 
 This should solve the problem. If not, move on to the other techniques.
@@ -372,6 +377,10 @@ The whole process of factory resetting your Infinix Hot 30i might sound tedious,
 
 Parse Error: There was a problem parsing the package is an error message that has troubled many Android users. The good part is that the above-stated fixes not only solve the problem but also prevent it from occurring in the future. So, keep them in mind the next time you or anyone you know faces such an issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Android App Not Installed Error on Infinix Hot 30i Quickly?
 
 App not installed on Android is no more an unknown Error Code during Application installation as many people experience it on a day-to-day basis. An "Application not installed" error message usually pops up when you are trying to download and install an App with a .apk file extension from somewhere other than the Google Play Store. The error is very confusing at first but makes sense when you realize that this unknown Error Code during Application installation is neither a software issue nor a hardware problem. It is a direct outcome of what you do with your device. Yes, you heard that right. Your faulty actions can cause Android App not installed error.
@@ -422,8 +431,6 @@ So App not installed on your Infinix Hot 30i or tablet? The most horrible part i
 
 Android system repair used to require high technical skills. But most of the users know little about technical things. Well, worry not ![Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) allows you to repair Android easily, that is, complete the fix with just one click.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 A powerful tool to fix the "Android App not installed" error in one click
@@ -459,7 +466,15 @@ A powerful tool to fix the "Android App not installed" error in one click
 
 ![fix Android App not installed error after firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to fix App not installed error on Android
 
@@ -472,6 +487,10 @@ Insufficient storage can prevent the app from being installed. Make some storage
 Visiting “Settings” on your device. Then select "Manage apps", "Application Manager" or "Apps" (varies based on device model or version) from the list of options before you.
 
 ![application manager](https://images.wondershare.com/drfone/article/2017/07/14994440695192.jpg "application manager")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now select the App you wish to uninstall and wait for the App Info screen to open, then click on “Uninstall” as shown in the screenshot.
 
@@ -531,7 +550,6 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 
 ![safe Download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -544,9 +562,20 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-content-reach-and-impact-social-blades-role-in-youtube-analytics/"><u>[New] In 2024, Enhance Content Reach and Impact - Social Blade's Role in YouTube Analytics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-steer-clear-of-virtual-reality-sickness-for-2024/"><u>[Updated] Steer Clear of Virtual Reality Sickness for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-double-effect-wonders-for-tiktoks/"><u>2024 Approved Step-by-Step Guide Double Effect Wonders for TikToks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freezing-issues-how-to-defrost-a-stuck-computer-in-windows-11/"><u>Freezing Issues? How to Defrost a Stuck Computer in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-12-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 12? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quickconvert-for-windows-10-seamless-hassle-free-dvd-to-mp4-conversion-with-winx-technology/"><u>QuickConvert for Windows 10: Seamless, Hassle-Free DVD to MP4 Conversion with WinX Technology</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a34-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A34 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unlocking-restricted-content-top-3-methods-for-accessing-blocked-youtube-videos/"><u>Unlocking Restricted Content: Top 3 Methods for Accessing Blocked YouTube Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/virtual-classroom-language-proficiency-made-easy/"><u>Virtual Classroom: Language Proficiency Made Easy</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Vivo Y100? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:55:25.900Z
-updated: 2024-07-15T06:55:25.900Z
+date: 2024-11-19T21:40:03.552Z
+updated: 2024-11-24T19:59:27.236Z
 tags: 
   - problems
 categories:
@@ -54,9 +54,6 @@ Problems with authentication and account access can lock users out of their Goog
 
 Persistent connection and network errors impede the Play Store's ability to fetch data. It hinders users from browsing and downloading apps. The issue is frustrating in areas with unstable internet connectivity.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part II. Why Does the Google Play Store Keep Stopping?
 
 If you're wondering **why does Google Play Store keeps stopping** on your phone, there can be several factors. Here are some of them below.
@@ -115,6 +112,10 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Uninstall Play Store Updates
 
 This method troubleshoots Play Store problems by uninstalling updates. Here's how.
@@ -123,6 +124,10 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 - **Step 2:** Find **Google Play Store** and tap on **Uninstall Updates**. Confirm the action and restart the Play Store.
 
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Perform a System Update
 
@@ -180,8 +185,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
 ## What To Do if Your Vivo Y100 Auto Does Not Work
 
 Embracing the convenience of Android Auto enhances your driving experience. It seamlessly connects your smartphone with your vehicle. However, in the realm of technology, glitches and malfunctions are commonplace. Android Auto, too, may [<u>encounter software or hardware issues</u>](https://drfone.wondershare.com/device-diagnostics/how-to-run-a-hardware-test-on-xiaomi.html) that disrupt its functionality.
@@ -214,6 +217,10 @@ Even if it is such a great technology, sometimes **Android Auto won’t connect.
 
 The solution here is straightforward – invest in a high-quality USB cable. This ensures a stable link between your smartphone and the car’s infotainment system. Meanwhile, Bluetooth pairing problems may require a bit of digital maneuvering. Try restarting your phone, rebooting the car’s infotainment system, or resetting Bluetooth settings to establish a smooth connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### App-Specific Problems (Certain Apps Not Working)
 
 Android Auto relies heavily on various navigation, communication, and entertainment applications.
@@ -240,9 +247,6 @@ Understanding that these issues are inherent to any technology, Android Auto use
 
 If navigating through various troubleshooting steps seems complicated, especially if the issue resides within your Vivo Y100, a swift and efficient solution comes in the form of Wondershare Dr.Fone - System Repair.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 While the methods presented earlier primarily address software glitches, Dr.Fone can tackle more profound issues, offering a quick fix to revitalize your Android Auto experience. It is a comprehensive toolkit that caters to various Android needs, ensuring a seamless and optimized experience. Among its array of features, the System Repair feature in Dr.Fone acts as a reset button for your Vivo Y100.
@@ -271,9 +275,6 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 
 - **Step 4:** Confirm the accuracy of your device details. If needed, edit any information that may be incorrect.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare dr.fone device details confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 5:** Place your phone into Download mode following the guidelines tailored for phones with or without home buttons. Your phone will commence downloading the dedicated firmware.
@@ -283,6 +284,10 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 - **Step 6:** Once the firmware is downloaded, verify and proceed with the installation by clicking **Fix Now**. Confirm the firmware installation by inputting “000000” into the text box in the appearing window. Click **Confirm** afterward.
 
 ![wondershare dr.fone initiate system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Upon completion of the process, your phone should now be restored. Click **Done** to conclude.
 
@@ -297,6 +302,10 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 In wrapping up this guide, you’ve explored common reasons **Android Auto does not work**. You’ve also been provided practical solutions to keep your driving experience seamless. Remember, regular maintenance of your car’s head unit and periodic checks on your Vivo Y100 can preemptively address potential issues.
 
 By staying proactive, you ensure a consistently smooth ride with Android Auto. For comprehensive system repair and addressing broader Android-related needs, consider trying out Dr.Fone. It’s a versatile tool that can enhance your Android experience and keep your digital journey hassle-free. Take control of your drive and explore the full potential of your Vivo Y100s with Dr.Fone today.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Persistent Pandora Crashes on Vivo Y100
 
@@ -329,6 +338,10 @@ A stable internet connection is pivotal for seamless app functionality. Crashes 
 
 ![wi-fi page android](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Corrupted/Broken Devices
 
 If you notice that all other [apps are crashing](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html), your device’s system may also have a problem. In this case, simple app reinstalls/restarts can fix the problem.
@@ -349,15 +362,16 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 ![wondershare dr.fone phone os chooser](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Click **Start** to initiate Android System Repair.
 
 ![dr.fone system repair start screen](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 4:** Check if the Vivo Y100 device details presented onscreen are correct. You may edit them accordingly for any mistakes.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone device details confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 5:** Follow the onscreen instructions to place your phone into Download mode. Then, Dr.Fone will download the firmware.
@@ -368,9 +382,21 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 ![wondershare dr.fone initiate system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Once finished, click **Done**. Your Pandora app should not crash once you reinstall it again by now.
 
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cache Buildup
 
@@ -382,9 +408,6 @@ Accumulated cache data can hamper app performance, leading to frequent crashes. 
 
 Outdated system software can create compatibility issues, causing app instability. Ensure your device’s system software is up-to-date. Check for and install any pending system updates in your device’s settings. Updated software often includes [bug fixes](https://drfone.wondershare.com/iphone-problems/fix-ios-17-keyborad-bug-and-autocorrect-issue.html) and improvements that can rectify compatibility-related crashes.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![xiaomi firmware update page](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-11.jpg)
 
 You can systematically troubleshoot and resolve the issues by addressing the potential culprits behind constant Pandora app crashes, ensuring a smoother and uninterrupted music streaming experience. If the problems persist, contacting Pandora support or seeking professional assistance might be advisable to delve deeper into the technical aspects of the app’s performance issues.
@@ -407,7 +430,6 @@ When persistent issues arise, especially if other apps are affected similarly, W
 
 **3,362,023** people have downloaded it
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -420,9 +442,21 @@ When persistent issues arise, especially if other apps are affected similarly, W
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-elevate-your-time-lapse-game-with-essential-gopro-studio-skills/"><u>[New] Elevate Your Time-Lapse Game with Essential GoPro Studio Skills</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-crafting-compelling-narratives-in-instagram-ads-top-10-tips-for-success/"><u>[New] In 2024, Crafting Compelling Narratives in Instagram Ads Top 10 Tips for Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-shoot-exceptional-igtv-video-content-with-mobile-and-professional-cameras/"><u>[New] Shoot Exceptional IGTV Video Content with Mobile & Professional Cameras</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-crafting-memes-magic-transform-your-tiktoks-into-gifs-for-2024/"><u>[Updated] Crafting Memes Magic Transform Your TikToks Into GIFs for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-art-of-soundless-storytelling-removing-audio-from-videos-with-imovie/"><u>2024 Approved The Art of Soundless Storytelling Removing Audio From Videos with iMovie</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/foster-fresh-thinking-the-best-5-ai-text-generators/"><u>Foster Fresh Thinking: The Best 5 AI Text Generators</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-zte-nubia-flip-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve ZTE Nubia Flip 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-e13-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto E13 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y100i-power-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y100i Power 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/reveal-the-best-7-video-streaming-apps-to-go-live-on-youtube-iphoneandroid-for-2024/"><u>Reveal the Best 7 Video Streaming Apps to Go Live on YouTube (iPhone/Android) for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-smart-8-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Smart 8</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Civi 3 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Motorola Moto G13? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:59.489Z
-updated: 2024-07-15T06:52:59.489Z
+date: 2024-11-21T20:39:47.003Z
+updated: 2024-11-24T19:48:02.754Z
 tags: 
   - problems
 categories:
@@ -24,9 +24,6 @@ In this guide, discover reliable solutions when your **Google Play Store is not 
 
 The Google Play Store serves as the epicenter for Android users. It facilitates seamless access to a vast array of apps. However, encountering issues with the platform can impact the functionality of your device. Below are 7 common issues on why your **Google Play Store is not responding**.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
 
 ### Inability To Open the Play Store
@@ -41,6 +38,10 @@ The inability to open the Play Store leaves you without access to new apps or up
 
 The dreaded "Not Responding" message can bring usability to a standstill. Users navigating the Play Store may experience delays or complete unresponsiveness. It can lead to a frustrating and unproductive experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Download and Installation Failures
 
 When downloads and installations fail, you will be unable to enjoy new apps or updates. This issue can be annoying when trying to access crucial software improvements or security updates.
@@ -48,6 +49,10 @@ When downloads and installations fail, you will be unable to enjoy new apps or u
 ### Authentication and Account Issues
 
 Problems with authentication and account access can lock users out of their Google accounts on the Play Store. It prevents users from purchasing or downloading apps. The issue not only hampers functionality but also raises security concerns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Problems
 
@@ -157,6 +162,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
 
 Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known for its user-friendly interface and high success rate. Its ability to address a wide range of Android issues offers a comprehensive solution to various system-related problems. Below are the platform's key highlights.
@@ -196,9 +205,6 @@ There could be plenty of reasons for facing an authentication error on your devi
 
 In this scenario, whenever you try to connect to a Wifi network (even after supplying the correct password and username), it doesn’t connect to it. Instead, it displays an authentication error occurred promptly. Thankfully, there are plenty of ways to overcome the authentication problem Wifi. In the next section, we have provided three different solutions to fix the Motorola Moto G13 Wifi problem (as it mostly happens on Android devices).
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: 10 Solutions to Fix Wifi Authentication Error
 
 Before we make you familiar with different fixes for the Wifi authentication error, it is important to check your router beforehand. Chances are that you could be getting the authentication error because your router is not functioning properly. You can restart it and try to connect any other device to it as well to check it. After making sure that there is no problem with your network or router, follow these suggestions to overcome the authentication error occurred issue.
@@ -215,7 +221,9 @@ So Android repair requires programming knowledge to do it?
 
 No! With Dr.Fone - System Repair (Android), you can do Android repair in just a few steps and get all issues like Wifi Authentication error fixed easily.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -252,9 +260,6 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 
 ![Wifi Authentication Error fixing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Use static IP address instead of DHCP
 
 DHCP, or Dynamic Host Configuration Protocol is the default IP address assignment for the Wi-Fi settings on many devices. Whereas DHCP can cause IP address conflict during the dynamic IP address assignment. So, you'd better change "DHCP" to "Static" to see if the authentication error persists.
@@ -267,9 +272,6 @@ Step 3: Depending on your Motorola Moto G13 model, look for “IP Settings” an
 
 Step 4: Note down the static IP address fields and wipe off all the fields. Punch it in again and then save it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change dhcp settings of wifi](https://images.wondershare.com/drfone/article/2019/06/dhcp-static.jpg)
 
 ### Check carefully for duplicate Wi-Fi names before you connect
@@ -287,6 +289,10 @@ One of the easiest ways to fix the authentication problem of Wifi is to reset th
 2\. When you would select a network, it will provide the basic information related to it. Just tap on the “Forget” button and agree to the pop-up message. This will erase the network’s information from your device.
 
 ![tap on the “Forget”](https://images.wondershare.com/drfone/article/2017/06/14981517891308.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Afterward, turn on your Wifi again and tap to the network you wish to connect to. Simply provide the credentials and tap on the “Connect” button to reestablish the connection. This way, you can reset the network successfully.
 
@@ -308,6 +314,10 @@ If the above solution won’t work, then you would be required to walk the extra
 
 ![Show advanced options](https://images.wondershare.com/drfone/article/2017/06/14981519311624.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. From the IP Settings menu, change the field from DHCP to Static. This will let you establish a static connection between your device and the router.
 
 ![change the field](https://images.wondershare.com/drfone/article/2017/06/14981520827015.jpg)
@@ -316,7 +326,15 @@ If the above solution won’t work, then you would be required to walk the extra
 
 ![fill these fields](https://images.wondershare.com/drfone/article/2017/06/14981521159129.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, try to connect to the Wifi hotspot again. You would be able to overcome the authentication problem of Wifi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change Network Security Type
 
@@ -346,11 +364,19 @@ Step 2: Now, opt for the “System Update” option. If the update is available,
 
 Sometimes, the WiFi router may hang up while establishing a connection and therefore, the wifi authentication problem occurs. Try restarting your Wi-Fi router and then check if your device connects successfully. If this doesn’t work, try to [reset your Android Network Settings](https://drfone.wondershare.com/android-issue/authentication-error.html#reset).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Bonus tip: Turn Airplane mode on/off
 
 By simply turning on the Airplane mode (and later turning it off), you can easily fix the authentication problem Wifi most of the time. You can find a toggle button for Airplane mode on the notification bar of your phone. If you can’t find it there, then go to your phone’s Settings > Connection > More Networks and turn on the feature of “Airplane Mode”.
 
 ![go to Connection](https://images.wondershare.com/drfone/article/2017/06/14981523333039.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Let it do for a while. Afterward, turn it off and try to connect to the Wifi network again.
 
@@ -411,9 +437,6 @@ Easiest Fix to Error Code 920
 
 Then connect your Motorola Moto G13 using the official cable and select the ‘Android Repair’ option.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step #3** On the next screen, insert your device information to ensure you’re downloading the correct firmware.
@@ -482,9 +505,6 @@ Again it is best if you follow the methods as illustrated above for removing err
 
 Play Store error 920 is a pretty common error and its solutions are also very easy. Please do ensure that you follow each and every step in sync so that you can get the best result out of these methods and get over with the error code 920 on Google play store.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -497,9 +517,20 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-copyright-what-if-my-videos-removed-immediately-due-to-copyright/"><u>[New] 2024 Approved Facebook Copyright | What If My Videos Removed Immediately Due to Copyright?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-enhance-rhythm-skills-no-cost-with-these-free-beat-trackers/"><u>[New] In 2024, Enhance Rhythm Skills - No Cost, With These Free Beat Trackers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-revitalizing-a-frozen-obs-video-source-feed/"><u>[Updated] 2024 Approved Revitalizing a Frozen OBS Video Source Feed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-effortlessly-schedule-meetings-with-zoom-through-email/"><u>[Updated] In 2024, Effortlessly Schedule Meetings with Zoom Through Email</u></a></li>
+<li><a href="https://extra-information.techidaily.com/4k-innovation-top-10-mac-compatible-displays-for-2024/"><u>4K Innovation Top 10 Mac-Compatible Displays for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-the-persistent-black-screen-problem-in-hitman-codename-3-pc/"><u>Effective Solutions for the Persistent Black Screen Problem in Hitman: Codename 3 (PC)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-x50i-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor X50i Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oneplus-ace-2-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your OnePlus Ace 2 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-2-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze 2 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-9a-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 9A Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-lava-yuva-3-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Lava Yuva 3 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+</ul></div>
 

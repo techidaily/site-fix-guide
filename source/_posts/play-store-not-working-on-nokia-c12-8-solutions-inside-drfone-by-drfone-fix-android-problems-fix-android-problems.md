@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Nokia C12? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:53:08.904Z
-updated: 2024-07-15T06:53:08.904Z
+date: 2024-11-20T18:30:29.576Z
+updated: 2024-11-24T18:33:12.021Z
 tags: 
   - problems
 categories:
@@ -19,6 +19,10 @@ A functional Google Play Store is crucial for Android users to access, update, a
 In this guide, discover reliable solutions when your **Google Play Store is not responding**. The article will teach you how to tackle these problems and ensure a seamless app experience. Don't let technical glitches hinder your digital journey—follow these troubleshooting steps for a swift resolution. Explore the page below to learn more.
 
 ![woman annoyed on phone not working](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I. 7 Common Google Play Store Issues Users Encounter
 
@@ -50,9 +54,6 @@ Problems with authentication and account access can lock users out of their Goog
 
 [<u>Difficulties in updating apps </u>](https://drfone.wondershare.com/samsung/install-uninstall-update-samsung-kies-on-pc.html) can leave users with outdated software. It can potentially compromise security and miss out on new features. The issue diminishes the user experience by depriving you of the latest enhancements.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Connection and Network Errors
 
 Persistent connection and network errors impede the Play Store's ability to fetch data. It hinders users from browsing and downloading apps. The issue is frustrating in areas with unstable internet connectivity.
@@ -84,6 +85,10 @@ Revitalize your Google Play Store by addressing performance issues. Clearing cac
 
 ![clearing cache and date on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Play Store
 
 Enhance your Play Store's functionality by ensuring it's up-to-date. This method suits those who haven't updated their Google Play Store for a long time. Follow the steps below.
@@ -97,6 +102,10 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset App Preferences
 
 Restore your device's app settings to default for improved functionality. Below are the steps.
@@ -105,6 +114,10 @@ Restore your device's app settings to default for improved functionality. Below 
 - **Step 2:** Tap the three dots in the top-right corner and choose **Reset app preferences**.
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Re-add Google Account
 
@@ -131,9 +144,6 @@ Ensure your device's overall stability by performing a system update to ensure t
 - **Step 1:** Access **Settings**, scroll down, and select **System** or **Software Update**.
 - **Step 2:** Next, choose **System update** or **Check for Updates** and install any available system updates**.**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![perform system update on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-10.jpg)
 
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
@@ -160,9 +170,6 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
 
 Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known for its user-friendly interface and high success rate. Its ability to address a wide range of Android issues offers a comprehensive solution to various system-related problems. Below are the platform's key highlights.
@@ -180,16 +187,15 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 
 **4,131,376** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Addressing issues when your **Google Play Store does not work** is crucial for an uninterrupted Android experience. Follow the outlined steps to regain control and enjoy a seamless app experience. Don't let frustrations linger; take immediate action for a hassle-free Google Play Store.
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on Nokia C12
 
@@ -223,8 +229,6 @@ Any error that occurs during downloading or installation process not only hinder
 #### **Solution 1: One click to make error code 505 disappear**
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -261,6 +265,10 @@ Step5: After the Nokia C12 device firmware is downloaded, the tool will start re
 
 ![fix error code 505 when firmware is downloaded](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6: When your Android is repaired, the error code 505 will disappear.
 
 ![error code 505 fixed successfully](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -280,6 +288,10 @@ At the top, an option will appear
 \>Then Select Enable
 
 ![Application Manger](https://images.wondershare.com/drfone/article/2017/06/14976274734570.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Enabling download manager to give permission to the Nokia C12 device to start the download or installation process.
 
@@ -359,6 +371,10 @@ Or call them at their call center number regarding the issue.
 
 ![call center number](https://images.wondershare.com/drfone/article/2017/06/14976278809798.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus FAQ about Google Play error
 
 **Q1: What is a 505 error code?**
@@ -419,12 +435,13 @@ Here are the three most common solutions to deal with phone screens being unresp
 
 Restarting the Nokia C12 device is a simple and quick solution to an unresponsive phone screen. To restart the phone, press and hold the **power button** until the screen **turns off**, then press and hold the **power button** again to t**urn the phone back on**.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check the Charging Port and Battery
 
 ![charging realme phone](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sometimes, an unresponsive screen can be caused by a dead battery or a faulty charging port. To check for these issues:
 
@@ -468,6 +485,10 @@ If the phone's screen is physically damaged or cracked, it may need to be replac
 
 - Contact a professional repair center or the manufacturer for replacement parts and installation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to avoid Nokia C12 Screen being unresponsive?
 
 To avoid Nokia C12 screen being unresponsive, here are some suggestions based on the possible causes:
@@ -506,7 +527,6 @@ Nokia C12 phones offer numerous benefits, including high-quality cameras, fast p
 
 To deal with an unresponsive screen, users can try restarting the Nokia C12 device, checking the charging port and battery, or contacting a professional. Additional solutions for specific Nokia C12 models include checking the phone's temperature, resetting to factory settings, or replacing a new screen. To avoid an unresponsive screen, users can check software updates on time, inspect the phone's hardware, avoid extreme temperatures, keep the screen clean, and reduce the number of running apps. Dr.Fone is a helpful tool that can help manage and repair your phone's data.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -519,9 +539,26 @@ To deal with an unresponsive screen, users can try restarting the Nokia C12 devi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-online-video-editors-for-youtube/"><u>[New] 2024 Approved Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-boring-to-breathtaking-the-transformation-of-channel-titles/"><u>[Updated] In 2024, From Boring to Breathtaking The Transformation of Channel Titles</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-elevating-your-youtube-profile-with-high-impact-artwork-guide/"><u>2024 Approved Elevating Your YouTube Profile with High-Impact Artwork Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-y78t-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo Y78t by Name | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-find-my-friends-work-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-the-google-wireless-nest-doorbell-perform-evaluating-battery-powered-versions/"><u>How the Google Wireless Nest Doorbell Perform: Evaluating Battery-Powered Versions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oneplus-nord-ce-3-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve OnePlus Nord CE 3 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-8-ultimate-free-3d-players-perfect-for-pcmac-users-out-there/"><u>In 2024, 8 Ultimate Free 3D Players Perfect for PC/Mac Users Out There</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-new-era-for-android-time-lapsing-trends-and-techniques/"><u>In 2024, A New Era for Android Time-Lapsing Trends & Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-honor-magic-5-lite-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Honor Magic 5 Lite Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-zero-30-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Zero 30 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-a78-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo A78 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-chromecast-compatibility-how-to-stream-videos-in-any-format/"><u>New Chromecast Compatibility How to Stream Videos in Any Format</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-moto-g24-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Moto G24 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-key-to-successful-large-scale-instagram-videos/"><u>The Key to Successful Large-Scale Instagram Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-filmati-mp4-direttamente-in-wmv-senza-costi-tramite-il-servizio-di-conversione-online-libero-movavi/"><u>Trasforma I Tuoi Filmati .mp4 Direttamente in .wmv Senza Costi Tramite Il Servizio Di Conversione Online Libero Movavi</u></a></li>
+</ul></div>
 

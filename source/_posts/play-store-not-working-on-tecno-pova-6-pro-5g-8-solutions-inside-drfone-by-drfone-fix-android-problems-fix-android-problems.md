@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Tecno Pova 6 Pro 5G? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:54:49.598Z
-updated: 2024-07-15T06:54:49.598Z
+date: 2024-11-17T19:53:19.200Z
+updated: 2024-11-24T19:28:06.914Z
 tags: 
   - problems
 categories:
@@ -19,6 +19,10 @@ A functional Google Play Store is crucial for Android users to access, update, a
 In this guide, discover reliable solutions when your **Google Play Store is not responding**. The article will teach you how to tackle these problems and ensure a seamless app experience. Don't let technical glitches hinder your digital journey—follow these troubleshooting steps for a swift resolution. Explore the page below to learn more.
 
 ![woman annoyed on phone not working](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I. 7 Common Google Play Store Issues Users Encounter
 
@@ -60,6 +64,10 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 
 ![man having issues on mobile phone](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Network issues.**Unstable or poor internet connections can disrupt the communication between the Tecno Pova 6 Pro 5G device and the Play Store. It can lead to frequent crashes.
 - **Outdated Play Store version.**Running an outdated version of the Play Store may result in compatibility issues. The lack of essential updates can cause the application to stop unexpectedly.
 - **Cache and data accumulation**. Over time, cached data and accumulated data in the Play Store can become corrupted. It can hinder the smooth operation of your phone and contribute to sudden stops.
@@ -71,6 +79,10 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 Encountering issues with the Google Play Store can be frustrating. It disrupts your ability to download, update, or access essential apps. Here are seven quick solutions when your **Google Play Store unfortunately has stopped.**
 
 ![fixing mobile phone issues vector image](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear Cache and Data
 
@@ -171,9 +183,6 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 
 **4,131,376** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Addressing issues when your **Google Play Store does not work** is crucial for an uninterrupted Android experience. Follow the outlined steps to regain control and enjoy a seamless app experience. Don't let frustrations linger; take immediate action for a hassle-free Google Play Store.
@@ -212,8 +221,6 @@ So Android repair requires programming knowledge to do it?
 
 No! With Dr.Fone - System Repair (Android), you can do Android repair in just a few steps and get all issues like Wifi Authentication error fixed easily.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 An easy-to-operate tool to fix Android system issues like a Wifi authentication error
@@ -236,6 +243,10 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 1. Connect your Tecno Pova 6 Pro 5G to the computer, and select "Android Repair" in the middle.
 
 ![fix Wifi Authentication Error by selecting option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Select all the details that match your device, and click "Next".
 
@@ -267,6 +278,10 @@ Step 4: Note down the static IP address fields and wipe off all the fields. Punc
 
 Perhaps, you might connect to a WiFi with a similar name. There are good chances that some users do not modify their WiFi network name and possibly, your neighbor may have the same WiFi network, service provider. Therefore, ensure you connect to the correct WiFi network.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset the Wifi network
 
 One of the easiest ways to fix the authentication problem of Wifi is to reset the network. To do this, you would be required to forget the respective network first and then connect to it again. This can be done by simply following these steps.
@@ -297,9 +312,6 @@ If the above solution won’t work, then you would be required to walk the extra
 
 3\. It will display basic information related to your Wifi network. Just tap on the “Show advanced options” button to access more options related to the network setting.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Show advanced options](https://images.wondershare.com/drfone/article/2017/06/14981519311624.jpg)
 
 4\. From the IP Settings menu, change the field from DHCP to Static. This will let you establish a static connection between your device and the router.
@@ -309,6 +321,10 @@ If the above solution won’t work, then you would be required to walk the extra
 5\. As soon as you will change it to static, you will get different fields related to your network’s IP address, gateway, DNS, and more. Simply fill these fields and tap on the “Save” button once you are done.
 
 ![fill these fields](https://images.wondershare.com/drfone/article/2017/06/14981521159129.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, try to connect to the Wifi hotspot again. You would be able to overcome the authentication problem of Wifi.
 
@@ -327,6 +343,10 @@ It has been observed that, when we connect to Wifi, our device chooses a wrong s
 ![Select “WPA/WPA2-PSK”](https://images.wondershare.com/drfone/article/2017/06/14981522445076.jpg)
 
 Now, try to connect to the network again. Most likely, it will let you fix the authentication error on your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Android firmware to the latest
 
@@ -362,6 +382,10 @@ Luckily for your, multiple ways are available to resolve this issue. This articl
 
 Answering what causes Tecno Pova 6 Pro 5G screen unresponsiveness is difficult. Many reasons, ranging from minor bugs to serious hardware issues, can cause it. To find out the exact or near exact reason, you will have to review your device's activity before this issue occurs. You can use the following common reasons behind the ****Tecno Pova 6 Pro 5G 6T touch screen not working**** as the basis of your investigation:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Touchscreen Calibration
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
@@ -370,22 +394,14 @@ Excessive smartphone use can cause the touchscreen to go out of the required set
 
 If your device's battery is damaged or is at the end of its lifespan, it can cause the touch screen not responding issues. Moreover, the low battery and issue with the charging port can also lead to this problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Corrupted System Files
 
 The presence of corrupted system files is also a significant cause of such issues. These corrupted files can also lead to serious performance issues on your phone.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Conflicting Settings
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
@@ -400,9 +416,6 @@ As with any other issue or device, the first fix you should always try first is 
 
 ****Instruction:**** Press and hold the “Power” button for a couple of seconds until it turns off. Wait a few moments and then use the “Power” button to turn on the Tecno Pova 6 Pro 5G device. In some of the Tecno Pova 6 Pro 5G devices, you also have to use the “Volume Down” button along with the “Power” button to restart the Tecno Pova 6 Pro 5G device.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
 
 ### Solution 2. Check the Charging Port and Battery
@@ -435,6 +448,10 @@ A common reason for ****Tecno Pova 6 Pro 5G Nord being stuck on the loading scre
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5. Reset to Factory Settings
 
 Sometimes, clearing the cache partition doesn't help resolve the touchscreen issue. In that case, You have to factory reset your Tecno Pova 6 Pro 5G device. It is the best and last solution if other fixes haven't worked and you can't pinpoint the reason. Factory resetting your Tecno Pova 6 Pro 5G will delete all phone data. Thus, you should create a proper backup before trying this fix. Follow these steps to factory reset your Tecno Pova 6 Pro 5G in no time:
@@ -447,9 +464,6 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 6. Replace the Old Screen with A New Screen
 
 If none of the above-mentioned fixes have worked so far, you should replace the touch screen. Replacing the touch screen is recommended in case of hardware and severe software issues. However, it can be quite an expensive fix as new touch screens aren't cheap. The prices for new touchscreens differ depending on the model. These prices start from $20 and go up to hundreds of dollars.
@@ -471,9 +485,6 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 
 To sum up this article, it can be said that issues like ****Tecno Pova 6 Pro 5G not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -486,9 +497,24 @@ To sum up this article, it can be said that issues like ****Tecno Pova 6 Pro 5G 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-enhance-trust-secure-your-tiktok-age-details/"><u>[New] 2024 Approved Enhance Trust Secure Your TikTok Age Details</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-guide-to-youtube-short-video-insights-for-2024/"><u>[New] The Ultimate Guide to YouTube Short Video Insights for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-innovative-flying-selecting-the-best-drone-gimbals-today/"><u>2024 Approved Innovative Flying Selecting the Best Drone Gimbals Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-roblox-revealed-masterful-methods-for-closer-insight/"><u>2024 Approved Roblox Revealed Masterful Methods for Closer Insight</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-meizu-21-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Meizu 21 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oneplus-ace-2-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead OnePlus Ace 2 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-poco-f5-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Poco F5 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-mastery-achieved-mondlys-best-of-2022-award/"><u>Language Mastery Achieved: Mondly's Best of 2022 Award</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-huawei-nova-y71-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Huawei Nova Y71? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-13c-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi 13C? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-f5-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-address-mount-and-blade-ii-bannerlord-crashing-issues/"><u>Step-by-Step Solutions to Address Mount & Blade II: Bannerlord Crashing Issues</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965897219-xbox-accessory-driver-troubles-heres-how-you-can-fix-it-in-windows-1187-systems/"><u>Xbox Accessory Driver Troubles? Here's How You Can Fix It in Windows 11/8/7 Systems!</u></a></li>
+</ul></div>
 

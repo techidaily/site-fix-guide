@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Honor X8b? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:10.190Z
-updated: 2024-07-15T06:52:10.190Z
+date: 2024-11-18T20:16:30.293Z
+updated: 2024-11-24T22:27:20.474Z
 tags: 
   - problems
 categories:
@@ -20,13 +20,14 @@ In this guide, discover reliable solutions when your **Google Play Store is not 
 
 ![woman annoyed on phone not working](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I. 7 Common Google Play Store Issues Users Encounter
 
 The Google Play Store serves as the epicenter for Android users. It facilitates seamless access to a vast array of apps. However, encountering issues with the platform can impact the functionality of your device. Below are 7 common issues on why your **Google Play Store is not responding**.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
 
 ### Inability To Open the Play Store
@@ -36,6 +37,10 @@ The inability to open the Play Store leaves you without access to new apps or up
 ### Crashing Issues
 
 [<u>Frequent crashes</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html) undermine the stability of the Play Store. Users attempting to browse or download apps may find themselves abruptly kicked out of the application. It can disrupt your intended tasks and cause annoyance in the long run.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Not Responding Errors
 
@@ -93,9 +98,6 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
@@ -108,6 +110,10 @@ Restore your device's app settings to default for improved functionality. Below 
 - **Step 2:** Tap the three dots in the top-right corner and choose **Reset app preferences**.
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Re-add Google Account
 
@@ -127,6 +133,10 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Perform a System Update
 
 Ensure your device's overall stability by performing a system update to ensure the stable operation of the Play Store. Follow the steps below.
@@ -134,9 +144,6 @@ Ensure your device's overall stability by performing a system update to ensure t
 - **Step 1:** Access **Settings**, scroll down, and select **System** or **Software Update**.
 - **Step 2:** Next, choose **System update** or **Check for Updates** and install any available system updates**.**
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![perform system update on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-10.jpg)
 
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
@@ -154,6 +161,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 - **Step 2:** Launch the program and connect your Honor X8b to the computer using a USB cable. Choose the Honor X8b device type and click **Start** to initiate the repair process.
 
 ![dr.fone android problems window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
 
@@ -185,8 +196,6 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 Addressing issues when your **Google Play Store does not work** is crucial for an uninterrupted Android experience. Follow the outlined steps to regain control and enjoy a seamless app experience. Don't let frustrations linger; take immediate action for a hassle-free Google Play Store.
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
-
-
 
 ## 11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor X8b
 
@@ -237,6 +246,10 @@ A most effective method to fix Google Play Store not working
 
 ![google play store stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Video tutorial to fix Google Play Store not working
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -269,9 +282,6 @@ Step 3 – Here you can find the “Google Play Store” app listed. Open it by 
 
 Step 4 – Now, you can find a screen like below. Tap on “Clear cache” to remove all the cache from the application.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Tap on “Clear cache”](https://images.wondershare.com/drfone/article/2017/06/14985032967281.jpg)
 
 Now, again try to open Google Play Store and you may successfully overcome the Play Store not working issue. If not, check the next solution.
@@ -319,6 +329,10 @@ Step 2 – Upon clicking on this option, you can find “Android device manager�
 Step 3 – Now you can be able to uninstall Google play service by going into application manager.
 
 ![uninstall Google play service](https://images.wondershare.com/drfone/article/2017/06/14985034252357.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4 – After that, try to open any app that requires Google Play store to open, and that will automatically guide you to install the Google Play service. Now install the updated version of the Google Play service.
 
@@ -404,6 +418,10 @@ In this article, we delve into how to resolve the "**your device isn’t compati
 
 Encountering the frustrating "**your device isn’t compatible with this version Google Play**" error can be disruptive. That's why it is essential to go through the underlying reasons causing this compatibility issue:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Outdated Operating System Firmware
 
 One of the primary culprits behind the compatibility error is [<u>outdated OS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html). App developers release updates to keep up with the latest features and security patches. That's why an obsolete OS version on your device may render it incompatible with the newer app versions available on the Google Play Store.
@@ -440,15 +458,16 @@ Force quitting the Google Play Store is a simple yet effective first step in res
 
 ![force stop play store](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Clear Google Play Store Cache
 
 Clearing the cache of the Google Play Store is a targeted solution. It addresses potential compatibility issues arising from corrupted or outdated temporary files. The cache stores data that helps the app load faster. Yet, when these files become corrupted, it can lead to performance issues. Follow these steps to clear the Google Play Store cache and the "**device not compatible Google Play”** issue:
 
 - **Step 1.** After finding the Google Play Store on your device, press and hold the icon until a pop-up menu appears. Here, touch the “App info” option to reach the screen displaying information about the app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access app info](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-3.jpg)
 
 - **Step 2.** Here, press "Storage and Cache," and on the following screen, tap "Clear cache." Confirm your action to wipe the cache data. Afterward, access the targeted app again to check if the issue is resolved.
@@ -494,6 +513,10 @@ If all else fails and the compatibility issue persists, sideloading the app can 
 - **Step 1.** Long-press the Google Chrome icon to open the app info menu. Navigate to the "Install unknown apps" section. Here, toggle the switch to enable "Allow from this source."
 
 ![allow apps to download via chrome](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Afterward, access a reliable, trusted website where the APK for the targeted app is available. Download and install the app to resolve the compatibility issues.
 
@@ -574,7 +597,6 @@ To conclude, encountering compatibility issues like “**Google Play your device
 
 For users seeking a comprehensive solution, Wondershare Dr.Fone emerges as a versatile and powerful tool. It goes beyond conventional troubleshooting methods. Its "Android Repair" feature is tailored to address various Android system issues, including those affecting the Google Play Store.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -587,9 +609,24 @@ For users seeking a comprehensive solution, Wondershare Dr.Fone emerges as a ver
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-mastering-the-art-of-attracting-and-managing-brands-as-affiliates-on-youtube/"><u>[New] 2024 Approved Mastering the Art of Attracting and Managing Brands as Affiliates on YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-platform-debate-which-appliance-prevails-podcast-or-youtube-in-2024/"><u>[New] The Platform Debate Which Appliance Prevails – Podcast or YouTube, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastermind-mind-games-trivia-channel-hunt-for-24/"><u>2024 Approved Mastermind Mind Games - Trivia Channel Hunt for '24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-gt-neo-5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme GT Neo 5 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/forza-horizon-asterisk-4-noise-solutions-eliminate-silence-and-enjoy-the-race-again/"><u>Forza Horizon Asterisk 4 Noise Solutions - Eliminate Silence and Enjoy the Race Again</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-hot-40i-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Hot 40i in Minutes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c51-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C51 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-tecno-camon-30-pro-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Tecno Camon 30 Pro 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-v30-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme V30 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-g22-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nokia G22 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y27-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y27 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-playing-4k-uhd-movies-on-mac-computers-key-points-and-tips/"><u>Ultimate Guide to Playing 4K UHD Movies on Mac Computers: Key Points & Tips</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ultimate-guide-how-to-successfully-copy-an-msata-ssd-with-secure-boot-feature/"><u>Ultimate Guide: How to Successfully Copy an mSATA SSD with Secure Boot Feature</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-headshot-generator-for-2024/"><u>Updated What Is an AI Headshot Generator for 2024</u></a></li>
+</ul></div>
 

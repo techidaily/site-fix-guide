@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Nokia C12 Plus ? Fix It Easily | Dr.fone
-date: 2024-11-09T08:32:31.318Z
-updated: 2024-11-14T20:21:57.265Z
+date: 2024-11-23T20:47:54.545Z
+updated: 2024-11-24T20:15:54.865Z
 tags: 
   - problems
 categories:
@@ -32,16 +32,13 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
 
@@ -58,6 +55,10 @@ Step 5: Finally, press and hold both the Power and the Volume up Key for around 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -168,6 +169,10 @@ A **Nokia C12 Plus 4 not turning on** might simply be a victim of a drained batt
 
 ![power source issues](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reason 3. Charging Port Issues
 
 **Solution:** Check the charging port thoroughly to identify any dirt, debris, or signs of damage. Gently clean the port using compressed air or a small brush. If there's visible damage, consider professional repair services.
@@ -200,13 +205,6 @@ Sometimes, a Nokia C12 Plus 3 might not turn on due to physical damage incurred 
 
 An Android smartphone, including the Nokia C12 Plus 3 XL, can encounter situations where the OS becomes extremely buggy. It leads to various issues, such as the **Nokia C12 Plus 3 XL won’t turn on** or [getting stuck in a boot loop](https://drfone.wondershare.com/android-issue/motorola-phone-stuck-on-boot.html). Software glitches, corrupted system files, or incompatible apps can contribute to such problems.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Reason 1. Device Stuck in the Boot Loop
 
 **Solution:** Try initiating a force restart to help fix this issue. You can do that by pressing and holding the "Power" and "Volume Up" keys at the same time for 10 seconds.
@@ -214,10 +212,11 @@ An Android smartphone, including the Nokia C12 Plus 3 XL, can encounter situatio
 ![google pixel device stuck boot loop](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reason 2. Software Glitches or System Crash
@@ -298,20 +297,6 @@ When an Android device experiences severe software damage, it can lead to major 
 
 ![reset settings google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Reason 2. Factory Reset as a Solution
 
 [Performing a factory reset](https://drfone.wondershare.com/reset-android/how-to-factory-reset-huawei-phone-when-locked.html) serves as the ultimate solution. This is true when facing critical software damage that leads to a non-responsive Nokia C12 Plus 3/4. This process erases all user data, apps, settings, and files stored on the Nokia C12 Plus device, reverting it to its original factory state.
@@ -321,6 +306,10 @@ When an Android device experiences severe software damage, it can lead to major 
 - **Step 1.** Access the "Settings" application on your Nokia C12 Plus 3/4. Then, navigate through the menu until you locate the "System" category located further down the list. Within the "System" settings, tap the last option named "Reset Options."
 
 ![open system settings google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** On the following screen, press the "Erase All Data (Factory Reset)" option. Afterward, follow the on-screen instructions to complete the process.
 
@@ -349,16 +338,7 @@ There are scenarios where a phone, like the Nokia C12 Plus 3, hangs or gets stuc
 ![clear storage and cache](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-19.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reason 4. Outdated Application
@@ -366,13 +346,6 @@ There are scenarios where a phone, like the Nokia C12 Plus 3, hangs or gets stuc
 **Solution:** If the application is essential, ensure to seek updates within the Google Play Store. Updating the app to its latest version could potentially resolve any compatibility issues. Alternatively, if updates are not available or don’t resolve the problem, consider uninstalling and reinstalling the app.
 
 ![update app to latest version](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-20.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -392,6 +365,10 @@ If so, don’t worry; you’re not alone. Snapchat crashing in this way is nothi
 
 Fortunately, there are plenty of solutions out there to help you out and get the app working again as it should do. Today, we’re going to explore them all to help you get back to what you were doing before and as though there was never a problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Install Snapchat again from Google Play Store
 
 ![snapchat not responding - reinstall snapchat](https://images.wondershare.com/drfone/article/2019/04/install-snapchat-googleplay.png)
@@ -405,13 +382,6 @@ During these processes, bugs can occur, and if they can’t sort themselves out,
 **Step 2:** Open the Google App Store from your device and search ‘Snapchat’ in the search bar. Find the official app page and download the app onto your device.
 
 **Step 3:** The app will automatically install itself once downloaded. Open the app, sign in to your account using your log-in details, and you should be able to use the app like normal.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. Check for new Snapchat Updates
 
@@ -501,6 +471,10 @@ The method will slightly differ depending on whether your device has a home butt
 
 ![snapchat crashing - fixed issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 5. Check for the Android update
@@ -524,6 +498,10 @@ To resolve this, you can simply try connecting to another Wi-Fi network or a dat
 **Step 1:** Open the Settings menu on your Nokia C12 Plus, followed by the Wi-Fi option.
 
 ![snapchat stopping - connect to wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Tap the new Wi-Fi network you’re currently connected to, and then tap the ‘Forget’ option, to stop your phone connecting to it.
 
@@ -579,22 +557,20 @@ Make sure you back up your personal files from your device first like your photo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-cutting-edge-techniques-for-captivating-readership-on-subreddits-for-2024/"><u>[New] Cutting-Edge Techniques for Captivating Readership on Subreddits for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-8-must-have-apps-for-instagram-schedulers-on-all-smartphones-for-2024/"><u>[New] The 8 Must-Have Apps for Instagram Schedulers on All Smartphones for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-quick-start-making-your-own-sports-highlight-film/"><u>2024 Approved Quick Start Making Your Own Sports Highlight Film</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-guide-to-srgb-and-rgb/"><u>Comprehensive Guide to Srgb & Rgb</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a78-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A78 Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oneplus-open-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked OnePlus Open in Minutes | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-top-5-best-lightweight-action-cameras/"><u>In 2024, Top 5 Best Lightweight Action Cameras</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-reviews-with-toms-technology-digest/"><u>Pioneering Hardware Reviews with Tom's Technology Digest</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y100t-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y100t? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nokia-xr21-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nokia XR21 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-display-normalized-after-fix/"><u>Screen Display Normalized After Fix</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-evolution-how-facebook-twitter-instagram-and-youtube-shape-communication/"><u>Social Media Evolution: How Facebook, Twitter, Instagram & YouTube Shape Communication</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211332450-9789362619648-the-key-to-a-signature-lifestyle/"><u>The Key to a Signature LifeStyle | Free Book</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-interpreting-instagrams-per-video-timeframe-rule/"><u>[New] 2024 Approved Interpreting Instagram's Per-Video Timeframe Rule</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unraveling-the-top-8-premium-free-srt-translation-websites/"><u>[Updated] Unraveling the Top 8 Premium Free SRT Translation Websites</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-itel-p40plus-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Itel P40+ Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-officejet-4630-driver-download-and-update/"><u>HP Officejet 4630 Driver Download & Update</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learning-reinvented-mondlys-ascent-in-germanys-online-world/"><u>Learning Reinvented: Mondly’s Ascent in Germany's Online World</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/maximum-video-stowage-on-a-single-64gb-unit/"><u>Maximum Video Stowage on a Single 64Gb Unit</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-revolutionize-your-video-content-how-to-convert-videos-into-cartoons-in-minutes-for-2024/"><u>New Revolutionize Your Video Content How to Convert Videos Into Cartoons in Minutes for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-itel-p55plus-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Itel P55+? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c55-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C55 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-90-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor 90 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-upgrading-your-raspberry-pi-pico/"><u>The Ultimate Guide to Upgrading Your Raspberry Pi Pico</u></a></li>
 </ul></div>
 

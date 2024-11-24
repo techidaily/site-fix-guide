@@ -1,7 +1,7 @@
 ---
 title: Play Store Stuck on Downloading Of Asus ROG Phone 8? 7 Ways to Resolve | Dr.fone
-date: 2024-07-14T06:56:12.653Z
-updated: 2024-07-15T06:56:12.653Z
+date: 2024-11-20T17:03:02.439Z
+updated: 2024-11-24T16:50:14.367Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 Just as any problem gives some indication of anything wrong is going to befall. Similarly, a user does feel some unexpected turns of events resulting in **_Play Store to stick at downloading_**. If one happens to see that the progress bar has suddenly frozen to a certain scope and taking ages to march any further, it is treated as the first signs for Play store not working properly. Another, such scenario is where your apps are not able to download easily. Rather, the Play store reflects a message downloads are yet in the pending queue. If one happens to witness such problems, these can be in fact be giving you the warning signal of the Play store problem
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Causes of why “Play Store Stuck on Downloading”
 
 With technology, uncertainties are bound to happen. It becomes quite tricky to analyze the real problem and craft a solution. As, there can be several causes that might be disturbing the smooth functionality of Play store. Here are some collated issues that we’ve gathered that are indicative of the cause.
@@ -32,16 +29,10 @@ With technology, uncertainties are bound to happen. It becomes quite tricky to a
 
 ## Part 3: 7 fixes for Play Store stuck on downloading
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.1 Check SD card and phone storage space
 
 All the applications, data of one’s device is generally loads directly in phone’s storage or the SD card (if plugged). Hence, it is crucial to check whether your phone storage or SD is not fully occupied. As it can indirectly be the reason why the issue of “**_Play Store download stuck at 99%_**” might occur. Ensure to get rid of any application that you are no longer using. Or, consider deleting any picture, videos or documents that aren’t required by you.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.2 Check Wi-Fi or cellular data connection
 
 Sometimes, it’s not your phone that is going all faulty, the root cause might be the internet connection. If the internet is running low or does not seem to be stable, then the **_play store download problem_** may occur. Users must ensure that the Asus ROG Phone 8 device they are working should have a stable network connection so as to combat the problem. Then, they can try downloading the application and check if the problem is prevalent or not.
@@ -49,8 +40,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -80,11 +69,19 @@ Over the following screen, select “Android Repair” placed at the left panel 
 
 ![play store stuck on downloading - go to android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Fill in the information**
 
 It is important to add in all the necessary information for successful execution of program. Make sure to give details of “Brand”, “Name”, “Country”, “Model” and all other fields.
 
 ![play store stuck on downloading - fill in info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Ensure to Download Firmware**
 
@@ -112,9 +109,6 @@ Did you know the piling up of cache memory can certainly pull off a great deal f
 
 ![clear data to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/clear-cache-data.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.5 Update Play Store to the latest version
 
 When was the last time you cared to update your Play store app? Generally, users overlook the need of updating the application. As, they think that it may not be of any greater importance. But, in reality working in an outdated version can directly impact **_Play Store and cause download problem_**. Follow the below steps to update Play Store to latest version.
@@ -130,6 +124,10 @@ When was the last time you cared to update your Play store app? Generally, users
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.7 Avoid downloading large apps
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
@@ -139,7 +137,6 @@ Last but certainly not the least, users must avoid downloading large application
 Asus ROG Phone 8 has established a notable presence within the custom development arena. This trait holds for Asus ROG Phone 8. Today, it's still one of the most popular budget smartphones available. The popular smartphone offers the freedom to flash custom ROMs, attain administrative privileges, access countless customization options, and much more.
 
 Yet, delving into these capabilities comes with its share of risks. The potential for your **Asus ROG Phone 8 to brick** is high if you don't know what you're doing. This page teaches you how to **unbrick your Asus ROG Phone 8** if it happens.
-
 
 ## Part 1. Potential Causes of a Asus ROG Phone 8 Becoming Bricked
 
@@ -156,9 +153,6 @@ Every Android device is susceptible to experiencing a system failure that leads 
 
 When faced with a **bricked Asus ROG Phone 8**, below are various techniques to revive it. Whether through software resets or hardware interventions, these methods can help breathe life back into your device.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![unbrick redmi note 9 techniques](https://images.wondershare.com/drfone/article/2023/08/revive-your-bricked-redmi-note9-02.jpg)
 
 ### Discharge the Battery
@@ -197,11 +191,19 @@ Asus ROG Phone 8 offers its official software tools, such as the Asus ROG Phone 
 
 However, if the Asus ROG Phone 8Flash Tool did not unbrick your Asus ROG Phone 8, consider using [Wondershare Dr.Fone - System Repair (Android).](https://tools.techidaily.com/wondershare/drfone/android-repair/) The platform allows you to **unbrick your Asus ROG Phone 8** with a few clicks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Reviving Your Asus ROG Phone 8 Using Wondershare Dr.Fone - System Repair (Android)
 
 Dr.Fone - System Repair (Android) equips Asus ROG Phone 8 users with the ability to tackle soft brick and hard brick issues. This specialized Android repair tool enables you to restore your Asus ROG Phone 8 through a streamlined process, requiring just a few simple clicks.
 
 ![dr.fone system repair main window](https://images.wondershare.com/drfone/guide/system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -230,6 +232,10 @@ One of Dr.Fone's key strengths is its user-friendly design. It caters to users w
 #### Free Version for Evaluation
 
 Dr.Fone - System Repair (Android) offers a free version for everyone. It allows users to test its capabilities before committing to a purchase. This trial version grants users the opportunity to assess the tool's effectiveness and suitability for **unbricking their Asus ROG Phone 8**. This instills confidence before investing in a full license.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Unbrick Asus ROG Phone 8 Using Dr.Fone - System Repair (Android)
 
@@ -261,6 +267,10 @@ Repair Android System Errors without Any Trouble.
 
 ![follow on screen prompts](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4**: As your Asus ROG Phone 8 enters Download Mode, the firmware download will start automatically. Follow the on-screen instructions. Wait for the system to initiate the repair procedure automatically. Upon completion, a message will pop up on the main window. Click **Done** to exit the tool. You can click **Try again** to repeat the process if needed.
 
 ![redmi note 9 finished unbricking](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -276,8 +286,6 @@ Don't let a **bricked Asus ROG Phone 8** stand in your way. Use the array of tec
 
 Lastly, you can still refer to Asus ROG Phone 8 for repairs. It remains the primary solution in numerous cases. Utilizing your warranty can alleviate the associated costs. Seeking assistance from a specialized technician is also a viable route to consider for a thorough device assessment.
 
-
-
 ## Asus ROG Phone 8 Not Receiving Texts? 10 Hassle-Free Solutions Here
 
 If you are using an Asus ROG Phone 8, you might have encountered the issue of not receiving texts. This issue can be quite frustrating, as it prevents you from staying connected with your friends and family. However, there are several ways to fix this issue and get your texts back up and running. In this article, we will show you some of the best solutions to fix the issue of not receiving texts on Asus ROG Phone 8.
@@ -287,7 +295,6 @@ It is very common that the Android messaging app is not working on many devices 
 You might find lots of people online stating I can't receive text messages on Android. And usually, people don’t find a legit solution for this issue. If you are also experiencing this sort of issue on your Asus ROG Phone 8s, then don’t panic. We have a series of methods that can supposedly fix the problem. But at first, we will learn what the main reasons this problem arises are and how do you know that it is consistent not some random error.
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
-
 
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
@@ -316,8 +323,6 @@ Apart from all these reasons, some additional causes are also there that can lea
 If you are not willing to waste your precious time fixing the message problem, then you can switch to the top-rated Android repair tool, i.e., [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). With this software, you can easily fix issues like the black screen of death, crashing apps, can't receive text messages on Android, or failed download. If you have no idea what is causing the message app problem, you can simply think of repairing the whole Android system.
 
 You surely need to try the software as it can perform the following tasks:
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -361,6 +366,10 @@ Another simple method that you can try if you are not receiving text messages on
 
 Maybe you are unable to get messages on your Asus ROG Phone 8s because your existing data plan has expired. You can directly contact your Carrier about the issues where your Asus ROG Phone 8 is not receiving texts. If your plan has expired, then you might have to renew it immediately. If not, then try out other fixes to resolve this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Try the SIM card in Another Phone or Slot
 
 Sometimes, people complain that Asus ROG Phone 8 is not receiving texts from iPhone, and it might be because of the SIM card issue. So, the best thing you can try is to remove the SIM from your current phone and insert it into another phone.
@@ -374,6 +383,10 @@ In smartphones, the memory space often gets filled up with cache. And not everyo
 Step 1: Open the Settings and go to Apps. Find the Messages app from the list and tap to open it. There you will see the storage occupied by the app along with the cache.
 
 ![android not receiving texts clear cache](https://images.wondershare.com/drfone/article/2019/02/clear-message-cache.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Click on the Clear Cache button and wait as the Asus ROG Phone 8 device free up the memory of your device.
 
@@ -394,6 +407,10 @@ Step 2: There, you will see the existing messages on the SIM. You can either del
 If you can’t receive messages on your default app, then you can try installing a third-party messaging app. Nowadays, most people use social media messaging apps like WhatsApp, Skype, etc. for messaging. So, if somehow, the Android is not receiving texts, then the new apps can help you to send and receive messages with a non-native network.
 
 _Further Reading: [15 Best Free Chat Apps in 2022. Chat Now!](https://drfone.wondershare.com/topsoftware/best-free-chat-apps.html) _
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 9: Ensure your Phone is Fully Charged
 
@@ -417,7 +434,6 @@ Updating the operating system to the latest Android version can fix some system 
 
 Now you know several methods that can work if the Android messaging app is not working.  If you experience this kind of issue with your Asus ROG Phone 8, then you are most likely to resolve them with these fixes. If none of the solutions seem to fix the issue, then you can take the help of Dr. Fone - System Repair (Android) feature. With this tool, you can resolve all kinds of working issues on your device.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -430,9 +446,21 @@ Now you know several methods that can work if the Android messaging app is not w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-action-filmmaking-elevated-gopros-best-15-color-grading-look-ups/"><u>[New] Action Filmmaking Elevated GoPro's Best 15 Color Grading Look-Ups</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-detailed-methods-for-seamless-wirecast-livestreams-on-youtube/"><u>2024 Approved Detailed Methods for Seamless WireCast Livestreams on YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-instagram-insights-and-tips-for-new-users/"><u>Discovering Instagram: Insights and Tips for New Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-rtx-2080-graphics-card-drivers-for-windows-10-7-and-8-users/"><u>Get the Most Recent RTX 2080 Graphics Card Drivers for Windows 10, 7 & 8 Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-7-bootloader-easily-by-drfone-android/"><u>How to Unlock Infinix Smart 7 Bootloader Easily</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-infinix-note-30-vip-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Infinix Note 30 VIP Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-ultimate-guide-to-excellent-monitors-for-photo-professionals/"><u>In 2024, The Ultimate Guide to Excellent Monitors for Photo Professionals</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-k11-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo K11 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-lava-yuva-3-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Lava Yuva 3 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/save-big-with-amazons-labor-day-deals-snag-an-ipad-at-a-steal-just-199/"><u>Save Big with Amazon’s Labor Day Deals: Snag an iPad at a Steal - Just $199!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-videoschnell-konverter-fur-windows-11-sichere-und-effiziente-losungen/"><u>Top 10 Videoschnell Konverter Für Windows 11: Sichere Und Effiziente Lösungen</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-gionee-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Gionee FRP Bypass</u></a></li>
+</ul></div>
 

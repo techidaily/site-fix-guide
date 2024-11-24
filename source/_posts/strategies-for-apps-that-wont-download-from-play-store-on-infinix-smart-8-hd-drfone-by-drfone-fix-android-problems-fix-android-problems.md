@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Infinix Smart 8 HD | Dr.fone
-date: 2024-11-11T09:53:15.520Z
-updated: 2024-11-14T16:38:41.785Z
+date: 2024-11-19T21:02:08.845Z
+updated: 2024-11-24T21:33:36.866Z
 tags: 
   - problems
 categories:
@@ -29,13 +29,6 @@ The reasons below collectively contribute to the frustration users experience wh
 ### Connectivity Issues
 
 Slow or unstable internet connections can interfere with the download process. It often leads to failed or delayed app installations. You will experience frustration when faced with connectivity issues, impacting your ability to access desired apps.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Insufficient Storage
 
@@ -120,9 +113,17 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part IV. 8 Other Methods of Resolving Common App Downloading Issues
 
 Here are 8 other methods to troubleshoot and resolve common app downloading problems:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check Internet Connection
 
@@ -133,6 +134,10 @@ A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u
 [<u>Insufficient storage</u>](https://drfone.wondershare.com/backup/fix-not-enough-icloud-storage-problem.html) on your device can hinder app installations. Navigate to the Infinix Smart 8 HD device settings, access the **Storage** section, and clear unnecessary files or apps. Creating more space ensures a smoother download experience.
 
 ![android internal storage menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update the Play Store
 
@@ -157,6 +162,10 @@ Authentication issues with your Google account can prevent app downloads. Confir
 Incorrect date and time settings may disrupt the authentication process. Verify that your device's date and time are set correctly. Enable automatic date and time settings to ensure accuracy.
 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Review Download Restrictions
 
@@ -183,6 +192,10 @@ Android devices are very prone to this problem, and hence Android device owners 
 A charging problem can occur due to a temporary software crash. It is also possible that a corrupted device cache may be causing such a glitch. Another reason for phones not to charge normally or charge slowly is an inappropriate power source or defective charging cable and adapter. All these and many more problems will be cured in the 10 solutions to fix My Infinix Smart 8 HD won't charge error.
 
 So if you're still thinking about why won't My Infinix Smart 8 HD charge, read on to find out solutions to fix My Infinix Smart 8 HD won't charge problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. One-click solution to fix Android phone won’t charge
 
@@ -248,13 +261,6 @@ It is also very commonly observed that the charging end of the cable which gets 
 
 ![charging cable](https://images.wondershare.com/drfone/article/2017/06/14985459762305.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Check/clean charging port
 
 The charging port in your device is a small opening where the charging end of the cabbie is inserted for the current to flow to the phone/tablet. Very often, we notice that the charging port gets blocked with tiny particles of dirt. The charging port might also get clogged if dirt and dust get accumulated in it, preventing the sensors from receiving and forwarding the current to the Infinix Smart 8 HD device.
@@ -305,6 +311,10 @@ Restarting a device is simple and can be done by following the steps given below
 
 ![restart device](https://images.wondershare.com/drfone/article/2017/06/14985010975405.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To restart your device, you may also press the power button for about 20-25 seconds for the phone/tablet to automatically reboot.
 
 ### 7\. Download and install the Ampere App
@@ -324,10 +334,7 @@ To check for and install updates on your device, you must be connected to WiFi o
 ![android software update](https://images.wondershare.com/drfone/article/2017/06/14985460584295.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If there is an update available, you will be prompted to download it. Just follow the instructions given before you install a brand new Android OS version on your device.
@@ -354,13 +361,6 @@ Follow the steps given below to factory reset your device:
 
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 10\. Replace your battery
 
 This should be your last resort to fix My Infinix Smart 8 HD won't charge problem, and you should only attempt to replace your battery if none of the other techniques work. Also, please consult a technician before purchasing and installing a new battery in your device as different phones and tablets have a different type of battery requirements.
@@ -383,6 +383,10 @@ The issues like YouTube keeps crashing are often get disappeared by just quittin
 
 ![Youtube not working android - fix by restarting app](https://images.wondershare.com/drfone/article/2019/06/restart-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - You can now restart your device and then launch the app again. Check if this works or not.
 
 ## Restart the Android
@@ -395,22 +399,12 @@ Similar to the app, if you restart the Infinix Smart 8 HD device, it will start 
 ![Youtube not working android - fix by restarting android](https://images.wondershare.com/drfone/article/2019/06/restart-device.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use a VPN
 
 There is a possibility that YouTube is prohibited in your region. Banning some apps is done for some safety reasons. And therefore, you need to check if this is done in your area or not. If yes, then we shouldn’t mention the reason why YouTube is not working on Android. In such a case, use a VPN to access YouTube.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Clear the Cache of YouTube
 
@@ -462,13 +456,6 @@ Start with visiting the website on your PC and downloading the Dr.Fone toolkit. 
 
 ![Youtube not responding - fix with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Connect Device**
 
 With the help of the USB cord, connect your Infinix Smart 8 HD to the computer. Click on “Android Repair” now from the left panel.
@@ -487,24 +474,15 @@ Now, follow the instructions given on the screen according to your device. Click
 
 ![Youtube crashing on Android - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Repair the Issue**
 
 Lastly, when the firmware is downloaded, the system will start getting repaired on its own. You need to wait until you are informed about the completion of the process.
 
 ![Youtube crashing on Android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Reset Factory Settings of this Device
 
@@ -529,18 +507,22 @@ When nothing works, the last resort you can go with is resetting the Infinix Sma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-expert-routines-for-flawless-webinar-replays/"><u>[New] 2024 Approved Expert Routines for Flawless Webinar Replays</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-android-enables-seamless-screen-capturing/"><u>[New] 2024 Approved How Android Enables Seamless Screen Capturing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-how-to-fine-tune-music-for-stunning-canva-clips/"><u>[Updated] How to Fine-Tune Music for Stunning Canva Clips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-vivid-visuals-brush-up-your-youtube-beauty-videos/"><u>2024 Approved Vivid Visuals Brush up Your YouTube Beauty Videos</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-k11x-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo K11x Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210663842-9781667438627-impostore-io-mai-piu/"><u>Impostore, io? Mai più! | Free Book</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/motorola-moto-g73-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G73 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-a78-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo A78 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-magic-5-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor Magic 5 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f04-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F04 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-laptop-trackpad/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Laptop Trackpad</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-skagen-falster-3-timeless-design-amidst-cutting-edge-smartwatch-innovations/"><u>Unveiling the Skagen Falster 3: Timeless Design Amidst Cutting-Edge Smartwatch Innovations</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-an-acer-laptop-with-no-sound/"><u>[Solved] How to Fix An Acer Laptop With No Sound</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/balanced-diet-building-blocks-from-tech-tutorials/"><u>Balanced Diet Building Blocks From Tech Tutorials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expertly-ranked-12-camcorders-featuring-location-navigation/"><u>Expertly Ranked 12 Camcorders Featuring Location Navigation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/forward-thinking-ios-for-ps2-emulation/"><u>Forward-Thinking iOS for PS2 Emulation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008004892-get-past-forza-horizon-ns-load-screen-the-ultimate-fix-guide/"><u>Get Past Forza Horizon N's Load Screen: The Ultimate Fix Guide!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-choosing-livestream-software-the-obs-vs-streamlabs-dilemma/"><u>In 2024, Choosing Livestream Software The OBS Vs. Streamlabs Dilemma</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-stop-muted-tracks-in-tweeted-video-content/"><u>In 2024, Stop Muted Tracks in Tweeted Video Content</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-note-30i-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30i Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210582108-9781957895369-laughing-your-life-healthy/"><u>Laughing Your Life Healthy | Free Book</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-flip-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Flip Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-common-challenges-fixing-eos-authentication-failures-in-palworld/"><u>Overcoming Common Challenges: Fixing EOS Authentication Failures in Palworld</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-itel-s23plus-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Itel S23+? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-zte-nubia-flip-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My ZTE Nubia Flip 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-note-50-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme Note 50 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-v27-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V27 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-a14-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy A14 4G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-xcover-7-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy XCover 7 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
 

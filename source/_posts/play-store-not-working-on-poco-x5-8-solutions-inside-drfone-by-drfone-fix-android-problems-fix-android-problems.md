@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Poco X5? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:53:53.430Z
-updated: 2024-07-15T06:53:53.430Z
+date: 2024-11-19T21:55:12.207Z
+updated: 2024-11-24T22:33:38.566Z
 tags: 
   - problems
 categories:
@@ -50,6 +50,10 @@ Problems with authentication and account access can lock users out of their Goog
 
 [<u>Difficulties in updating apps </u>](https://drfone.wondershare.com/samsung/install-uninstall-update-samsung-kies-on-pc.html) can leave users with outdated software. It can potentially compromise security and miss out on new features. The issue diminishes the user experience by depriving you of the latest enhancements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Connection and Network Errors
 
 Persistent connection and network errors impede the Play Store's ability to fetch data. It hinders users from browsing and downloading apps. The issue is frustrating in areas with unstable internet connectivity.
@@ -79,9 +83,6 @@ Revitalize your Google Play Store by addressing performance issues. Clearing cac
 - **Step 1:** Head to your device's **Settings** and navigate to **Apps** or **Application** **Manager**.
 - **Step 2**: Locate and select **Google** **Play** **Store**. Within **Storage**, choose **Clear** **Cache** and **Clear** **Data**. Confirm your action and restart the Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clearing cache and date on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-05.jpg)
 
 ### Update Play Store
@@ -93,9 +94,17 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset App Preferences
 
@@ -114,6 +123,10 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 - **Step 2:** Select **Google** and remove the account. Re-add the Google account and verify if the Play Store functions properly.
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Uninstall Play Store Updates
 
@@ -180,8 +193,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
 ## [8 Quick Fixes] Unfortunately, Snapchat has Stopped on Poco X5
 
 Have you ever been deep in conversation with a loved one or friend, taking advantage of all the funny filters and games Snapchat has to offer when you’ve suddenly been presented with the ‘Unfortunately, Snapchat has Stopped’ error code? This is usually followed by the app crashing back to the main menu.
@@ -193,6 +204,10 @@ Fortunately, there are plenty of solutions out there to help you out and get the
 ## Part 1. Install Snapchat again from Google Play Store
 
 ![snapchat not responding - reinstall snapchat](https://images.wondershare.com/drfone/article/2019/04/install-snapchat-googleplay.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One of the best ways to resolve the Snapchat crashing problem or [Snap Map not working issue](https://drfone.wondershare.com/snapchat/snap-map-not-working.html) is to delete the app and reinstall it again. When you’re using your phone, there is data continually flowing around and data being sent here, there, and everywhere.
 
@@ -248,8 +263,6 @@ If you’re experiencing the Snapchat crashing on Android often, or you’re exp
 
 The best way to fix this is to repair your device using the software known as Dr.Fone - System Repair (Android). This is a powerful repair system that can completely recover your device from any errors, including the Snapchat keeps crashing error.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Dedicated repair tool to fix Snapchat crashing on Android.
@@ -274,6 +287,10 @@ Once completed, open the software, so you’re on the main menu.
 
 ![snapchat crashing - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Confirm details.
 
 On the next screen, use the drop-down menus to confirm the model, brand, operating system, and carrier of your device. Click Next to confirm the details are correct.
@@ -292,16 +309,14 @@ The method will slightly differ depending on whether your device has a home butt
 
 **Step 6:** That’s it! Once you see the screen saying your device has been repaired, you’ll be able to close the Dr.Fone - System Repair (Android) software, disconnect your phone, and can start using Snapchat as normal without the Snapchat not responding error coming up!
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![snapchat crashing - fixed issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. Check for the Android update
 
 ![snapchat stopping - check for android update](https://images.wondershare.com/drfone/article/2019/04/android-update-firmware.png)
@@ -331,6 +346,10 @@ To resolve this, you can simply try connecting to another Wi-Fi network or a dat
 **Step 3:** Now tap the new Wi-Fi network you want to connect to. Insert the Wi-Fi security code and connect. Now try reopening and using the Snapchat to see if you can use it.
 
 ![snapchat stopping - reconnect wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7. Stop using the custom ROM
 
@@ -381,8 +400,9 @@ Begin by powering off your Poco X5 and unplugging your router. Wait for about a 
 ![restart android](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Turn on Airplane mode and turn off
 
 Turn on Airplane Mode for a few seconds, then turn it off. This maneuver refreshes your device's network connections and might rectify the Android not connecting to wifi issue.
@@ -416,9 +436,6 @@ The best way to do this is to boot your device in Safe Mode. The process for doi
 
 If your device connects to the internet while in Safe Mode, you’ll know you have a problem with an app or service that’s running on your device. If this is the case, you’ll need to go through your apps and delete them and then reinstall them one at a time until you find the app or service that is causing your internet problems.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. Check the Android Wi-Fi adapter
 
 ![wifi not working on android - check adapter](https://images.wondershare.com/drfone/article/2019/04/android-wifi-adapter.jpeg)
@@ -450,7 +467,9 @@ If none of the solutions above are working, this could indicate a real problem w
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -570,7 +589,6 @@ However, by factory resetting your device, you can start again from the factory 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -583,9 +601,17 @@ However, by factory resetting your device, you can start again from the factory 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-short-form-content-breakdown-now/"><u>[New] 2024 Approved Short Form Content Breakdown Now!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-constructing-an-engaging-tiktok-aftermath/"><u>[Updated] Constructing an Engaging TikTok Aftermath</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-a34-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy A34 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-theory-to-practice-seven-practical-ways-chatgpt-is-being-utilized-today/"><u>From Theory to Practice: Seven Practical Ways ChatGPT Is Being Utilized Today</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/get-started-with-ease-facebook-insight-basics-for-2024/"><u>Get Started with Ease Facebook Insight Basics for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-s24-ultra-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy S24 Ultra Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-5-best-sd-card-for-gopro-cameras-hero-87-included/"><u>In 2024, 5 Best SD Card for GoPro Cameras - Hero 8/7 Included</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-v29-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo V29 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-x8b-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor X8b Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Itel S23+ | Dr.fone</u></a></li>
+</ul></div>
 

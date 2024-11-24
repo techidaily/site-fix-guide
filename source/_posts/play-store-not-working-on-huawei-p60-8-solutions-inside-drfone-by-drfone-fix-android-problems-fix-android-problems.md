@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Huawei P60? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:52:14.921Z
-updated: 2024-07-15T06:52:14.921Z
+date: 2024-11-18T21:47:09.040Z
+updated: 2024-11-24T22:37:40.556Z
 tags: 
   - problems
 categories:
@@ -46,6 +46,10 @@ When downloads and installations fail, you will be unable to enjoy new apps or u
 
 Problems with authentication and account access can lock users out of their Google accounts on the Play Store. It prevents users from purchasing or downloading apps. The issue not only hampers functionality but also raises security concerns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Problems
 
 [<u>Difficulties in updating apps </u>](https://drfone.wondershare.com/samsung/install-uninstall-update-samsung-kies-on-pc.html) can leave users with outdated software. It can potentially compromise security and miss out on new features. The issue diminishes the user experience by depriving you of the latest enhancements.
@@ -54,9 +58,6 @@ Problems with authentication and account access can lock users out of their Goog
 
 Persistent connection and network errors impede the Play Store's ability to fetch data. It hinders users from browsing and downloading apps. The issue is frustrating in areas with unstable internet connectivity.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part II. Why Does the Google Play Store Keep Stopping?
 
 If you're wondering **why does Google Play Store keeps stopping** on your phone, there can be several factors. Here are some of them below.
@@ -75,9 +76,6 @@ Encountering issues with the Google Play Store can be frustrating. It disrupts y
 
 ![fixing mobile phone issues vector image](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Clear Cache and Data
 
 Revitalize your Google Play Store by addressing performance issues. Clearing cache and data can be a crucial step when troubleshooting malfunctions or glitches in the app. Here's how.
@@ -109,9 +107,6 @@ Restore your device's app settings to default for improved functionality. Below 
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Re-add Google Account
 
 Resolve Play Store issues by re-adding your Google account. Follow these steps in **Settings** to remove and re-add your Google account, ensuring a seamless and error-free experience.
@@ -120,6 +115,10 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 - **Step 2:** Select **Google** and remove the account. Re-add the Google account and verify if the Play Store functions properly.
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Uninstall Play Store Updates
 
@@ -140,6 +139,10 @@ Ensure your device's overall stability by performing a system update to ensure t
 ![perform system update on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-10.jpg)
 
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part IV. How To Repair Play Store Not Working With an Alternative
 
@@ -223,9 +226,6 @@ Trying to reboot your android device in safe mode is the first and easiest thing
 
 - **Step 1:** Turn off your smartphone and press the **Volume Up** + **Power** button to enter recovery mode. Then, using the volume controls, navigate the menu and select Reboot system now.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android safe mode](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-1.jpg)
 
 - **Step 2:** Select the highlighted option by pressing the **Power button**. After that, wait for your device to reset normally.
@@ -243,6 +243,10 @@ This issue, however, may be resolved by wiping the data and cache partitions in 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-2.jpg)
 
 - **Step 3:** Finally, on your smartphone, choose the Reboot system immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3. Perform a Factory Reset
 
@@ -277,6 +281,10 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 
 ![select symptom of your phone](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Use the recovery wizard to enter your Android smartphone into Download Mode. Connect your Android handset to the computer after following the instructions to begin automatically analyzing your device.
 
 ![follow instructions](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
@@ -305,14 +313,15 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
-
 ## How To Revive Your Bricked Huawei P60 in Minutes
 
 Huawei P60 has established a notable presence within the custom development arena. This trait holds for Huawei P60. Today, it's still one of the most popular budget smartphones available. The popular smartphone offers the freedom to flash custom ROMs, attain administrative privileges, access countless customization options, and much more.
 
 Yet, delving into these capabilities comes with its share of risks. The potential for your **Huawei P60 to brick** is high if you don't know what you're doing. This page teaches you how to **unbrick your Huawei P60** if it happens.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Potential Causes of a Huawei P60 Becoming Bricked
 
@@ -324,6 +333,10 @@ The factors that lead to your **Huawei P60 to brick** vary. The possible solutio
 - Using inappropriate methods when performing root access can also result in bricking. Performing root access is dangerous as it grants entry to the Huawei P60 device's root directory housing the operating system.
 
 Every Android device is susceptible to experiencing a system failure that leads to a bricked state. The risk remains consistent whether your device is from Huawei P60, Huawei P60, Huawei P60, or any other brand. That's why it's strongly advised against modifying their smartphones, especially when you don't know what you're doing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Techniques To Unbrick a Huawei P60
 
@@ -367,6 +380,10 @@ Huawei P60 offers its official software tools, such as the Huawei P60Flash Tool.
 
 However, if the Huawei P60Flash Tool did not unbrick your Huawei P60, consider using [Wondershare Dr.Fone - System Repair (Android).](https://tools.techidaily.com/wondershare/drfone/android-repair/) The platform allows you to **unbrick your Huawei P60** with a few clicks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Reviving Your Huawei P60 Using Wondershare Dr.Fone - System Repair (Android)
 
 Dr.Fone - System Repair (Android) equips Huawei P60 users with the ability to tackle soft brick and hard brick issues. This specialized Android repair tool enables you to restore your Huawei P60 through a streamlined process, requiring just a few simple clicks.
@@ -377,9 +394,6 @@ Dr.Fone - System Repair (Android) equips Huawei P60 users with the ability to ta
 
 **3,227,773** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features
 
 Dr.Fone - System Repair (Android) offers several benefits to **unbrick your Huawei P60** easily. Below are its key features.
@@ -410,6 +424,10 @@ Dr. Fone's features are perfect for unbricking Huawei P60 devices. Below are the
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
@@ -430,6 +448,10 @@ Repair Android System Errors without Any Trouble.
 
 ![set up device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Given that the Huawei P60 lacks a **Home** button, click the **Phone without Home button** option. Follow the prompts displayed on-screen and proceed by clicking **Next** to initiate the process of restoring your bricked phone.
 
 ![follow on screen prompts](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
@@ -449,7 +471,6 @@ Don't let a **bricked Huawei P60** stand in your way. Use the array of technique
 
 Lastly, you can still refer to Huawei P60 for repairs. It remains the primary solution in numerous cases. Utilizing your warranty can alleviate the associated costs. Seeking assistance from a specialized technician is also a viable route to consider for a thorough device assessment.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -462,9 +483,26 @@ Lastly, you can still refer to Huawei P60 for repairs. It remains the primary so
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ssential-illumination-products-for-video-creators/"><u>[New] Essential Illumination Products for Video Creators</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-expert-tips-migrating-twitch-videos-to-youtube/"><u>[New] Expert Tips Migrating Twitch Videos to YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-diy-photography-support-systems-for-2024/"><u>[Updated] DIY Photography Support Systems for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-smoothly-softening-endings-audio-fades-made-simple-with-adobe-premiere-pro/"><u>[Updated] In 2024, Smoothly Softening Endings Audio Fades Made Simple with Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hits-and-misses-the-photographers-account/"><u>2024 Approved Hits and Misses The Photographer's Account</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-content-discovery-with-powerful-title-and-tag-use/"><u>2024 Approved Mastering Content Discovery with Powerful Title & Tag Use</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/basketball-enthusiasts-guide-to-online-viewing/"><u>Basketball Enthusiast's Guide to Online Viewing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-spark-20-proplus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Spark 20 Pro+ Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nokia-c12-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nokia C12 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-versus-pc-understanding-their-fundamental-variances/"><u>Mac versus PC: Understanding Their Fundamental Variances</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-neo-5-se-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT Neo 5 SE Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a14-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A14 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f34-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F34 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-x7b-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor X7b ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-rise-of-gptbot-and-the-reasons-behind-site-restrictions/"><u>The Rise of GPTBot and the Reasons Behind Site Restrictions</u></a></li>
+</ul></div>
 

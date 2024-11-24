@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Infinix Smart 8 HD ? Fix It Easily | Dr.fone
-date: 2024-11-09T12:03:34.740Z
-updated: 2024-11-15T09:46:42.626Z
+date: 2024-11-17T17:32:28.180Z
+updated: 2024-11-24T20:46:44.002Z
 tags: 
   - problems
 categories:
@@ -139,13 +139,6 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Flash Dead Infinix Smart 8 HD Safely
 
 - Fix malfunctioning Android to normal in one click.
@@ -185,13 +178,6 @@ One-click solution to flash Infinix Smart 8 HD
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step-by-step Tutorial
 
 We are going to explain how to flash a dead Android phone using a PC using Dr.Fone - System Repair (Android)
@@ -228,6 +214,10 @@ Step 2: Press the ‘Next’ button for initiating firmware download.
 
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -243,6 +233,10 @@ Step 1: Install the driver software on the computer. You can find the best drive
 Step 2: Now download suitable firmware for your device in the form of a zip folder that you can open and store on your desktop.
 
 ![download suitable firmware](https://images.wondershare.com/drfone/article/2017/07/14991894766699.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file types recognized by Odin.
 
@@ -272,6 +266,10 @@ Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA
 
 ![open md5 file](https://images.wondershare.com/drfone/article/2017/07/14991898009725.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, once the flashing process is complete, your Infinix Smart 8 HD phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
 
 ## Part 4: How to flash MTK Android dead phone with SP Flash tool?
@@ -298,13 +296,6 @@ After completing the above steps, connect your dead device to the PC with a USB 
 
 That's it! Now simply disconnect your phone and wait for it to reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How to flash Infinix Smart 8 HD dead phone with the Phoenix tool?
 
 Phoenix tool, better known as PhoenixSuit, is a tool similar to the SP False tool and Odin. It works very well with Infinix Smart 8 HD  and is the best answer to “How to fix dead Android phone?”, “How to flash dead Android phone using PC?”, etc.
@@ -314,6 +305,10 @@ Let's look at the steps of flashing the Infinix Smart 8 HD dead phone with the P
 First, download and install the Infinix Smart 8 HD PC Suite driver on your PC. Then you will need to download the PhoenixSuit tool and then launch it.
 
 ![nokia pc suite](https://images.wondershare.com/drfone/article/2017/07/14991899457235.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, on the toolbar, click “Tools” and select “Data Package Download” from the drop-down list.
 
@@ -363,15 +358,16 @@ Another solution that can help you fix the dead Android phone is changing its ba
 
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 9: How to repair dead Android phone by contacting official support
 
 If you are unable to discover any proper solution for **how to flash dead Android phones,** you might have to consult the respective customer support of the Android phone manufacturers. Consult customer support to discover why the phone is dead and how it can be flashed. The respective personnel will assist you in resolving the issue, which might require monetary input from your side.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -402,13 +398,6 @@ The first thing you can do to fix Gmail not responding issue is to clear the cac
 
     ![gmail not working android - search gmail](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Go to “Storage” followed by “Clear Cache”.
 
 ![gmail not working android - clear cache in storage](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-3.jpg)
@@ -425,25 +414,11 @@ The next option that you can try is resetting your device. This will lead to dat
 
     ![gmail not working android - go to backup and reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Tap on “Reset” or “Erase all data” (the option name again may vary).
 
 If unfortunately the above solutions don’t work, there is a requirement to flash the stock Android ROM again. Before you wonder how, there is a professional one-click tool that can surely be of assistance. It is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). The tool takes special care of the Android phones and fixes almost every system issues with ease. It takes no special technical skills and performs efficiently.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Problem 2: Gmail won’t sync between all ends
 
@@ -462,6 +437,10 @@ When still the Gmail not working issue persists and you can’t sync, make sure 
 
     ![Gmail crashing on Android - find settings](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Check the box next to “Sync Gmail” if it’s not checked.
 
 ![Gmail crashing on Android - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
@@ -469,6 +448,10 @@ When still the Gmail not working issue persists and you can’t sync, make sure 
 ### Restart the Infinix Smart 8 HD device
 
 Again, restarting can also be helpful in this situation. When you boot the Infinix Smart 8 HD device again, check if your Gmail can sync or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Problem 3: Gmail won’t load
 
@@ -516,13 +499,6 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 
 Now, here is another annoying problem that doesn’t let Gmail working on Android properly. This problem addresses the situation where users send a mail but it gets stuck on sending. If this is the problem that you are going through, the following solutions will help you.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Try Alternative Gmail Address
 
 First of all, if Gmail is not working due to stuck in sending issue, we advise you to make use of some other Gmail address to send the mail. If the problem still occurs, jump to the next solution.
@@ -566,9 +542,17 @@ As another solution, check Gmail sync settings to get the issue fixed.
 
 If the above method went futile, simply restart your device. Take help of the Power button on your device. Long press it and from the options, restart it. This will hopefully work for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Problem 7: Gmail app running slow
 
 The last problem that you may face is the slow-going Gmail app. In simple words, you may experience that Gmail app is operating extremely slowly. To fix this, following solutions will help you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart the Phone
 
@@ -610,18 +594,18 @@ Fix all Gmail issues caused by Android system:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-your-monetary-gains-from-mobile-youtube-channels-2024-guide/"><u>[New] Maximizing Your Monetary Gains From Mobile YouTube Channels - 2024 Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-add-visual-appeal-with-these-methods-for-yt-video-inclusion-in-ppt/"><u>[Updated] 2024 Approved Add Visual Appeal with These Methods for YT Video Inclusion in PPT</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-arcade-avenue-a-million-paths-in-play/"><u>[Updated] 2024 Approved Arcade Avenue A Million Paths in Play</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fix-in-a-flash-rapid-recovery-techniques-for-disrupted-fb-lives/"><u>[Updated] In 2024, Fix in a Flash Rapid Recovery Techniques for Disrupted FB Lives</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-iphones-finest-leading-cost-free-photo-layout-apps-ranked/"><u>2024 Approved IPhone's Finest Leading Cost-Free Photo Layout Apps Ranked</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-y55s-5g-2023-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo Y55s 5G (2023)</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-a54-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy A54 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-infographics-boosting-buzz-through-social-videos/"><u>In 2024, Infographics Boosting Buzz Through Social Videos</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-meizu-21-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Meizu 21 FRP</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-find-n3-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo Find N3 Black and White | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/tackle-frame-drops-head-on-a-valorant-players-guide-to-improving-low-fps/"><u>Tackle Frame Drops Head-On: A Valorant Player's Guide to Improving Low FPS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-immutable-tiktok-hyperlink-process-for-profiles/"><u>[Updated] 2024 Approved Immutable TikTok Hyperlink Process for Profiles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unmasking-the-significance-of-snapchat-emojis/"><u>[Updated] In 2024, Unmasking the Significance of Snapchat Emojis</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unlock-your-old-game-library-with-these-premier-pc-gba-emulators/"><u>[Updated] Unlock Your Old Game Library with These Premier PC GBA Emulators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-your-first-step-designing-attractive-videos-on-a-mac/"><u>[Updated] Your First Step Designing Attractive Videos on a Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-voice-changers-guide-free-easy-pathways-for-auditory-enhancements/"><u>2024 Approved The Voice Changer's Guide Free, Easy Pathways for Auditory Enhancements</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-mic-on-runmuss-gaming-audio-device/"><u>How to Resolve Non-Functional Mic on Runmuss Gaming Audio Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oppo-reno-8t-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo Reno 8T? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a24-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A24 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-20-proplus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 20 Pro+ Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/trust-in-big-tech-wanes-facebook-under-scrutiny/"><u>Trust in Big Tech Wanes; Facebook Under Scrutiny</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-claude-3-dominates-chatgpt-unpacking-the-four-benefits/"><u>Why Claude 3 Dominates ChatGPT - Unpacking the Four Benefits</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Play Store Not Working On Nubia Red Magic 8S Pro+? 8 Solutions Inside | Dr.fone
-date: 2024-07-14T06:53:20.123Z
-updated: 2024-07-15T06:53:20.123Z
+date: 2024-11-18T19:29:57.533Z
+updated: 2024-11-24T22:01:35.500Z
 tags: 
   - problems
 categories:
@@ -51,8 +51,9 @@ Problems with authentication and account access can lock users out of their Goog
 [<u>Difficulties in updating apps </u>](https://drfone.wondershare.com/samsung/install-uninstall-update-samsung-kies-on-pc.html) can leave users with outdated software. It can potentially compromise security and miss out on new features. The issue diminishes the user experience by depriving you of the latest enhancements.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Connection and Network Errors
 
 Persistent connection and network errors impede the Play Store's ability to fetch data. It hinders users from browsing and downloading apps. The issue is frustrating in areas with unstable internet connectivity.
@@ -74,6 +75,10 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 Encountering issues with the Google Play Store can be frustrating. It disrupts your ability to download, update, or access essential apps. Here are seven quick solutions when your **Google Play Store unfortunately has stopped.**
 
 ![fixing mobile phone issues vector image](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear Cache and Data
 
@@ -133,6 +138,10 @@ Ensure your device's overall stability by performing a system update to ensure t
 
 ![perform system update on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
 
 ## Part IV. How To Repair Play Store Not Working With an Alternative
@@ -142,6 +151,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 - **Step 1**: Begin by downloading and installing Dr.Fone - System Repair (Android) on your computer.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,207,329** people have downloaded it
 
@@ -156,6 +169,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 - **Step 4:** Simply click **Done** on the prompt window displaying a confirmation message to exit the tool if your Nubia Red Magic 8S Pro+ starts successfully. In the event that the Nubia Red Magic 8S Pro+ device fails to start, select **Try Again** to initiate the process once more.
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
 
@@ -202,9 +219,6 @@ The first thing that comes to mind when your **phone screen suddenly goes black*
 
 If your **phone is working, but the screen is black,** there’s also a high probability that you are having an isolated issue with a particular application. An app could be loading something, which often happens for streaming apps such as YouTube, Netflix, Prime, and more, especially if you have slow internet connectivity.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Software Issues
 
 A potential reason why **your phone screen went black but still works** could be because of your smartphone’s software. This problem suggests that your Nubia Red Magic 8S Pro+ is crashing, potentially freezing your device if not addressed immediately. If this is the cause, then your device is likely experiencing a critical system error, and you should directly try to reboot your phone.
@@ -251,6 +265,10 @@ If you own an iPhone 7, press and hold the **Side** button and **Volume Down** 
 
 In some cases, your **phone screen is black but still works** because of installing incompatible apps on your iOS/Android device. If the installed app is frequently crashing, it may be the source of a blank cell phone **screen.** Uninstall the problem app to see if the black screen disappears or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Inspect the LCD Connectors
 
 If **your phone screen goes black but still works,** you should inspect the logic board to the LCD screen to see if it has become disconnected. It is common for smartphones that often get dropped a few times. It’s best to plug the connectors back to regain your screen’s functionality.
@@ -277,9 +295,6 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 **Step 1C**: Press and hold the **Power** button as well as the **Volume Up** and **Volume Down** buttons simultaneously and continue holding until the screen starts.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android recovery mode 01](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-06.jpg)
 
 **Step 2**: Use the **Volume** buttons to navigate the choices and select **Wipe data/factory reset** and confirm your choice with the **Power** button.
@@ -357,6 +372,10 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![drfone system repair for ios](https://images.wondershare.com/drfone/product-2021/system-repair/swp2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2B (For Android)**: Click **Start.** On the next window, choose the **Brand, Name, Model, Country,** and **Carrier** of your smartphone, then click **Next**.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -375,8 +394,6 @@ Our increasing reliance on smartphones has led to amazing advancements in new te
 
 Doing all the recommended methods above usually solves the case. If the different fixes don’t work for you, Dr.Fone – System Repair for iOS and Android can help resolve all your problems within less than 10 minutes. You can download it for free on Windows and Mac to test it yourself.
 
-
-
 ## 8 Ultimate Fixes for Google Play Your Nubia Red Magic 8S Pro+ Isn't Compatible
 
 Nowadays, keeping yourself informed about the newest apps and features is essential. Have you encountered the error message "**Google Play your device isn’t compatible with this version**?” When attempting to download or update an application, this problem can pose a significant obstacle. The good news is that you can now alleviate those concerns.
@@ -391,9 +408,17 @@ Encountering the frustrating "**your device isn’t compatible with this version
 
 One of the primary culprits behind the compatibility error is [<u>outdated OS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html). App developers release updates to keep up with the latest features and security patches. That's why an obsolete OS version on your device may render it incompatible with the newer app versions available on the Google Play Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Insufficient Hardware Requirements
 
 Each application has specific hardware prerequisites that your device needs to fulfill. In case your smartphone does not meet the required specifications, you won't be able to utilize the app. Thus, Google Play Store may restrict access to certain applications, citing compatibility issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Corrupted Cache Files
 
@@ -435,18 +460,6 @@ Clearing the cache of the Google Play Store is a targeted solution. It addresses
 
 ![clear play store cache](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Remove the Google Services Framework’s Cache and Data
 
 The Google Services Framework plays a crucial role in your Nubia Red Magic 8S Pro+. It is essential in the functioning of various Google services, including the Google Play Store. Clearing its cache and data can be an effective method to tackle compatibility issues. Here's a step-by-step guide on how to remove the Google Services Framework's cache and data:
@@ -485,9 +498,6 @@ If all else fails and the compatibility issue persists, sideloading the app can 
 
 - **Step 1.** Long-press the Google Chrome icon to open the app info menu. Navigate to the "Install unknown apps" section. Here, toggle the switch to enable "Allow from this source."
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![allow apps to download via chrome](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-10.jpg)
 
 - **Step 2.** Afterward, access a reliable, trusted website where the APK for the targeted app is available. Download and install the app to resolve the compatibility issues.
@@ -537,6 +547,10 @@ Repair Android System Errors without Any Trouble.
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps Involved To Fix Play Store Not Working Properly via Wondershare Dr.Fone
 
 Now, we will be discussing the guide to resolve your “**Google Play your device isn’t compatible with this version”** errors. Here is how to fix the Play Store not working properly with Wondershare Dr.Fone – System Repair (Android):
@@ -569,7 +583,6 @@ To conclude, encountering compatibility issues like “**Google Play your device
 
 For users seeking a comprehensive solution, Wondershare Dr.Fone emerges as a versatile and powerful tool. It goes beyond conventional troubleshooting methods. Its "Android Repair" feature is tailored to address various Android system issues, including those affecting the Google Play Store.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -582,9 +595,22 @@ For users seeking a comprehensive solution, Wondershare Dr.Fone emerges as a ver
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-how-to-make-asmr-videos-all-you-need-to-know-for-2024/"><u>[New] How to Make ASMR Videos All You Need to Know for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-essential-audacity-manual-for-mac-audio-capture/"><u>[New] The Essential Audacity Manual for Mac Audio Capture</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ultimate-guide-using-old-school-film-tricks-today/"><u>[Updated] 2024 Approved Ultimate Guide Using Old-School Film Tricks Today</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-sparking-social-media-stories-facebook-fame-techniques-for-2024/"><u>[Updated] Sparking Social Media Stories Facebook Fame Techniques for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revival-artisan-selection/"><u>2024 Approved Revival Artisan Selection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/amplify-your-iphones-sound-with-top-rated-podcasts-for-2024/"><u>Amplify Your iPhone's Sound with Top-Rated Podcasts for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-infinix-note-30-vip-racing-edition-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Note 30 VIP Racing Edition Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/guide-to-efficiently-retrieve-youtubes-srt-files/"><u>Guide to Efficiently Retrieve YouTube's SRT Files</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-tecno-camon-30-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Tecno Camon 30 Pro 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-v30-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V30 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/i-migliori-lettori-dvd-gratis-compatibili-con-windows-11-riproduci-tutti-i-tuoi-film-preferiti/"><u>I Migliori Lettori DVD Gratis Compatibili Con Windows 11: Riproduci Tutti I Tuoi Film Preferiti</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-implementing-effective-transitions-on-inshot/"><u>Step-by-Step Implementing Effective Transitions on Inshot</u></a></li>
+</ul></div>
 

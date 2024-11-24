@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Lenovo ThinkPhone ? Fix It Easily | Dr.fone
-date: 2024-11-14T06:22:03.579Z
-updated: 2024-11-14T19:06:43.652Z
+date: 2024-11-21T16:31:14.445Z
+updated: 2024-11-24T22:39:46.575Z
 tags: 
   - problems
 categories:
@@ -35,6 +35,10 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
 
@@ -93,22 +97,12 @@ Ensure your device, and your computer stays connected the entire time, and make 
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
@@ -130,6 +124,10 @@ Step 4: Press the Volume down key to select the "Wipe Data/ Factory Reset option
 Step 5: Next, you need to press the Volume down button to highlight "Delete All User Data" and then press the Power button to select it. The device will reset and present the "Reboot System Now" option.
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Backup and Restore Android System
 
@@ -234,6 +232,10 @@ Make sure your computer stays connected to the internet, and your device stays c
 
 ![fixed android boot loop smoothly](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You’ll be notified when the process is done and when you can remove your device and start using free from the boot loop Android error!
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
@@ -286,10 +288,7 @@ Once you've identified and uninstalled the problematic app, restart your device 
 By following these steps and using Safe Mode to isolate problematic apps, you can effectively troubleshoot and resolve boot loop issues on your Lenovo ThinkPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Factory reset to fix Android bootloop issue
@@ -318,13 +317,6 @@ Reboot the phone in Recovery Mode by selecting the first option.
 
 This solution is known to fix the boot loop error 9 out of 10 times, but if you still can't start your Lenovo ThinkPhone normally, consider using a CWM Recovery to resolve the Android boot loop issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: Use CWM Recovery to fix bootloop on rooted Android
 
 CWM stands for ClockworkMod and it is a very popular custom recovery system. To use this system to solve the boot loop Android error, your Lenovo ThinkPhone must be rooted with CWM Recovery System which basically means CWM must be downloaded and installed on your device.
@@ -337,6 +329,10 @@ Note: you might have to use a different combination of keys to enter into Recove
 
 ![enter into Recovery Mode](https://images.wondershare.com/drfone/article/2017/07/14994539374814.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Scroll down using” the volume key to select "Advanced".
 
 ![select “Advanced”](https://images.wondershare.com/drfone/article/2017/07/14994539628787.jpeg)
@@ -344,6 +340,10 @@ Scroll down using” the volume key to select "Advanced".
 Now select “Wipe” and choose to wipe "Dalvik Cache".
 
 ![wipe “Dalvik Cache”](https://images.wondershare.com/drfone/article/2017/07/14994539844927.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this step, select "Mounts and Storage" to click on "Wipe" or "Cache".
 
@@ -375,6 +375,10 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - System Repair (Android)
 
 One click tool to fix "Unfortunately TouchWiz has stopped"
@@ -396,13 +400,6 @@ The one-click repairing process begins with downloading Dr.Fone from its officia
 After you open the software, hit on the “System Repair” button from the main interface. With the help of a genuine USB cable, get your Lenovo ThinkPhone phone and connect it with the computer.
 
 ![fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Choose the Tab**
 
@@ -430,6 +427,10 @@ You will get some instructions on your screen to keep your device in Download mo
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7: Repair Device**
 
 Now, when the firmware is downloaded, the program will itself begin to repair your device. Wait and keep the Lenovo ThinkPhone device connected until you get the notification for process completion.
@@ -450,13 +451,6 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 
 ![clear cache to fix touchwiz home stopping](https://images.wondershare.com/drfone/article/2019/02/clear-cache-touchwiz.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Please note that this will delete all your Home screens post this method.
 
 ### Disable Motion & gesture settings
@@ -468,10 +462,7 @@ The functions regarding Motions and Gestures can be responsible for why **_Touch
 When you use TouchWiz, it may consume higher memory usage for high amount of graphic maintenance. As a result, the “**_unfortunately TouchWiz home has stopped_**” error might crop up. Taking this into consideration, you should try reconfiguring the animation scale and get rid of the error. Here’s how:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Clear Cache Partition
@@ -484,13 +475,6 @@ In case the above steps didn’t figure out the problem, here is the next tip. T
 - You will observe some options on the screen. Take help of Volume buttons, scroll down to choose “Wipe Cache Partition”. Press Power button to confirm and the Lenovo ThinkPhone device will be rebooted.
 
 ![clear cache partition](https://images.wondershare.com/drfone/article/2019/02/clear-cache-partition.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check now if the error is eliminated. If unfortunately not, please try the following solution.
 
@@ -549,24 +533,17 @@ We believe that you will find the above methods helpful. However, if still in ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-navigating-apples-content-downloading-with-ease/"><u>[New] Navigating Apple's Content Downloading with Ease</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-premium-portfolio-cutting-edge-cardboard-vr-game-listings/"><u>[New] Premium Portfolio Cutting-Edge Cardboard VR Game Listings</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-ranking-the-ultimate-vr-fun-on-mobile-devices-for-2024/"><u>[New] Ranking the Ultimate VR Fun on Mobile Devices for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-funimate-joy-comprehensive-tutorials/"><u>[New] Unleashing Funimate Joy - Comprehensive Tutorials</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-retro-social-media-revelations-mastering-outdated-fb-functionality/"><u>[Updated] 2024 Approved Retro Social Media Revelations Mastering Outdated FB Functionality</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-smart-shoppers-guide-to-affordable-cloud-space/"><u>2024 Approved The Smart Shopper's Guide to Affordable Cloud Space</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expressing-affection-through-keys-the-ultimate-guide-to-typing-a-love-icon/"><u>Expressing Affection Through Keys: The Ultimate Guide to Typing a Love Icon</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/gratuit-gebaseerd-opmusik-verzamelen-in-wav-format-heffen-onlinemusicconverter/"><u>Gratuit Gebaseerd Opmusik Verzamelen In WAV Format - Heffen Onlinemusicconverter</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-motorola-moto-g73-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Motorola Moto G73 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-gt-3-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme GT 3 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-music-movement-between-services/"><u>In 2024, Streamline Your Music Movement Between Services</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-105-classic-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia 105 Classic Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/sierras-icloud-full-desktop-and-document-liberation/"><u>Sierra’s iCloud Full Desktop and Document Liberation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-marketers-methods-detecting-illusory-engagement-signals/"><u>[New] Marketers’ Methods Detecting Illusory Engagement Signals</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-visionary-artistry-breakdown-studio-25-explored-in-detail-2023-for-2024/"><u>[New] Visionary Artistry Breakdown Studio 25 Explored in Detail, 2023 for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/future-proof-entertainment-identifying-leading-home-theater-pc-brands-and-models/"><u>Future-Proof Entertainment: Identifying Leading Home Theater PC Brands and Models</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/iphone-15-showdown-determining-the-better-choice-between-pro-and-pro-max-models/"><u>IPhone 15 Showdown: Determining the Better Choice Between Pro and Pro Max Models</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-a70-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A70 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-update-a-comprehensive-guide-to-personalizing-your-iphones-control-center-on-ios-18-tips/"><u>Mastering the Update: A Comprehensive Guide to Personalizing Your iPhone's Control Center on iOS 18 - Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigate-your-fitness-with-ease-the-apple-watch-gps-versus-cellular-edition-breakdown/"><u>Navigate Your Fitness with Ease: The Apple Watch GPS Versus Cellular Edition Breakdown</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-11-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 11 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-lava-yuva-3-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lava Yuva 3 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/revolutionner-la-configuration-de-votre-ordinateur-dell-5-techniques-pour-reimaginer-avec-windows-1087/"><u>Révolutionner La Configuration De Votre Ordinateur Dell: 5 Techniques Pour Réimaginer Avec Windows 10/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-refreshing-your-dell-sm-bus-controller-driver/"><u>Step-by-Step Guide: Refreshing Your Dell SM Bus Controller Driver</u></a></li>
 </ul></div>
 

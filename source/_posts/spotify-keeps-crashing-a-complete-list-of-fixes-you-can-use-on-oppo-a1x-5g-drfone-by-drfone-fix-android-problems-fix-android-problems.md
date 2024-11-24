@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo A1x 5G | Dr.fone
-date: 2024-11-08T09:09:02.955Z
-updated: 2024-11-14T21:33:57.683Z
+date: 2024-11-20T19:25:00.045Z
+updated: 2024-11-24T20:46:08.040Z
 tags: 
   - problems
 categories:
@@ -29,13 +29,6 @@ Some people have encountered a problem with their Spotify accounts. Spotify can 
 Another reason the Spotify app keeps crashing could be an antivirus or a VPN blocking Spotify from working. Moreover, your device might be out of storage space, causing your phone to slow down and crash apps.
 
 Several other reasons for this problem include network issues, a weak Wi-Fi signal, or the battery saving mode. Furthermore, your apps and files might be corrupted, or an app on your phone might block Spotify from working correctly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. Spotify Keeps Crashing: Best Fixes
 
@@ -73,10 +66,7 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 ![downloading firmware in progress](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
@@ -87,6 +77,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![confirm system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -94,6 +88,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 12:** Once it finishes, click **Done**to complete the system repair.
 
 ![completed android system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There are two ways to enter Download Mode: one for Android devices with the Home button and another for those without it.
 
@@ -137,6 +135,10 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 - **Step 3:** Scroll to the bottom of the settings and tap **Log Out**.
 
 ![log out of spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Tap **Log In**.
 
@@ -214,6 +216,10 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 
 ![available storage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
 
 ### 9. Reinstall Spotify
@@ -232,7 +238,15 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Once it installs, log in to test if it’s working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10. Check if Spotify Is Down
 
@@ -242,19 +256,6 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 - **Step 2:** Type “**Is Spotify down**” in the search bar.
 
 ![search if spotify is down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-20.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** You’ll see several websites that check real-time app servers and if they’re down.
 
@@ -290,13 +291,6 @@ When using different apps and websites, your device caches data from those sourc
 If your Spotify app keeps crashing, several reasons might be behind it. For instance, your storage space might be at capacity, your system might need an update, your phone might have a software bug, or the Spotify server might be down.
 
 We’ve given you 11 solutions to fix the Spotify crashing problem. However, if your system needs repairing, you can try Wondershare Dr.Fone for quick and easy repair. This solution and all others will surely help you fix the crashing problem.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Cellular Network Not Available for Voice Calls On Oppo A1x 5G
 
@@ -418,6 +412,10 @@ Performing a factory reset is a drastic but effective measure. It can resolve pe
 
 ![perform factory reset](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 8. Contact Carrier Provider
 
 If you've exhausted all options and the issue persists, reaching out to your carrier provider for assistance is a viable solution. Carrier providers can offer specific insights and guidance regarding network-related issues. When connected to customer service, explain the issue you're experiencing in detail. Contacting your carrier provider enables you to tap into their expertise and resources.
@@ -468,6 +466,10 @@ Launch the software. Then, navigate to the "Toolbox" section located in the left
 
 ![start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Step 2. Provide Details of Your Android Device
 
 The system automatically identifies the brand of the Android device undergoing repair. Afterward, choose the “Name,” “Model,” “Country,” and “Carrier” from the provided list options. If the Oppo A1x 5G device is already unlocked, you can choose OPEN in the Carrier section. Then, confirm by checking the warning box indicating agreement and readiness to proceed. Click on “Next” to initiate the repair process for your Oppo A1x 5G.
@@ -480,23 +482,9 @@ Follow the guidance displayed on your device's screen to access Download Mode. O
 
 ![perform android repair successfully](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,336,459** people have downloaded it
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -516,13 +504,6 @@ You’ve often heard that recovery mode will solve just about any problem your O
 
 Fortunately for you, this article will explain all aspects of factory mode and especially how to safely exit factory mode.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1. What is Android Factory Mode?
 
 Factory mode or what is commonly known as factory reset is one of the options available for you when your Oppo A1x 5G is in recovery mode. Several options are available for you once you enter Recovery mode on your device but few are as effective as the wipe data/ factory reset option. This option is useful in solving a whole host of problems that your device could be experiencing.
@@ -536,13 +517,6 @@ It is however important to note that a factory reset or factory mode does often 
 Before we can see how to safely enter and exit factory mode, it is important to have a full backup of your device. We mentioned that a factory mode will likely erase all the data on your device. A backup will ensure that you can get your phone back to its original state before the factory mode.
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Backup & Restore (Android)
 
@@ -661,6 +635,10 @@ Step 5: Reboot the Oppo A1x 5G device
 
 ![android stuck factory mode](https://images.wondershare.com/drfone/others/android-factory-mode-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Method 2: Using Terminal Emulator**
 
 Step 1: Install Terminal emulator
@@ -705,19 +683,22 @@ As much as factory mode can be a useful solution to a number of problems, it can
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-shoot-vertical-panorama-photos-with-your-mobile-phone/"><u>[New] How to Shoot Vertical Panorama Photos with Your Mobile Phone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-chest-of-free-fcp/"><u>[New] Unlocking the Chest of Free FCP</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-best-webcams-elevating-podcast-aesthetics/"><u>[Updated] In 2024, Best Webcams Elevating Podcast Aesthetics</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-youtube-prodigy-vs-creative-hub-beta-edition/"><u>[Updated] YouTube Prodigy Vs. Creative Hub Beta Edition</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-comprehensive-study-editmagics-power-edition/"><u>2024 Approved Comprehensive Study EditMagic's Power Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-b550-chipsets-harnessing-amds-value-packed-pcie-40-technology-for-gamers-and-professionals/"><u>Affordable B550 Chipsets: Harnessing AMD’s Value-Packed PCIe 지속성 4.0 Technology for Gamers and Professionals</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/guide-complet-sync-and-protect-votre-pc-avec-windows-11-sur-un-nas-synology/"><u>Guide Complet : Sync & Protect Votre PC Avec Windows 11 Sur Un NAS Synology</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-m14-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy M14 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-focus-on-clarity-top-10-phones-excelling-at-4k-video-recording/"><u>In 2024, Focus on Clarity Top 10 Phones Excelling at 4K Video Recording</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-edge-40-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Edge 40 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-voice-logging-made-simple-with-ipad-apps-for-2024/"><u>[New] Voice Logging Made Simple with iPad Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-retro-social-media-revelations-mastering-outdated-fb-functionality/"><u>[Updated] 2024 Approved Retro Social Media Revelations Mastering Outdated FB Functionality</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-essential-guide-to-youtube-time-tracking/"><u>[Updated] 2024 Approved The Essential Guide to YouTube Time Tracking</u></a></li>
+<li><a href="https://win-dash.techidaily.com/2024-windows/"><u>2024年度のベスト: Windowsユーザに選ばれた無料音声記録プログラム</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-windows-support-startechs-7-8-and-11-solved/"><u>Effortless Windows Support: StarTech's 7, 8, & 11 Solved</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-software-for-your-logitech-m525-free-download-guide/"><u>Essential Software for Your Logitech M525 - Free Download Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975425730-get-instant-access-step-by-step-to-download-your-validity-fingerprint-sensors-driver-now/"><u>Get Instant Access: Step-by-Step to Download Your Validity Fingerprint Sensor's Driver Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-dark-mode-on-the-windows-calculator-app/"><u>How to Enable Dark Mode on the Windows Calculator App</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-tecno-phantom-v-flip-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Phantom V Flip – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-hot-40-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Hot 40 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-zte-axon-40-lite-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on ZTE Axon 40 Lite Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
 
