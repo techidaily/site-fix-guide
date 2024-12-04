@@ -1,7 +1,7 @@
 ---
 title: My Videos Arent Playing on Vivo Y02T – What Can I Do? | Dr.fone
-date: 2024-07-14T06:45:46.193Z
-updated: 2024-07-15T06:45:46.193Z
+date: 2024-11-26T18:03:35.942Z
+updated: 2024-12-03T22:29:45.121Z
 tags: 
   - problems
 categories:
@@ -129,9 +129,6 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your Vivo Y02T in 
 - **Step 5**: Fill in information about your phone’s **Brand, Name, Model, Country,** and **Carrier**.
 - **Step 6**: Agree with the warning and select **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![wondershare dr.fone device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 7**: Follow the on-screen instructions to put your device in **Download Mode**.
@@ -179,13 +176,19 @@ To reinstall it again, go to the Google Play Store, search for the video app you
 
 **4,974,400** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Like other smartphones, Android devices occasionally encounter glitches when playing video files. In most instances, the solution can be as simple as restarting your device. In others, you might have to perform a full factory reset or use software like Wondershare Dr.Fone to repair your Android OS.
 
 Whatever the case is, don’t despair. There’s usually a solution that can fix the problem and ensure your device works as expected.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Methods for Vivo Y02T Won’t Turn On
 
@@ -197,9 +200,6 @@ It will offer both basic steps and advanced techniques. With clear instructions 
 
 A **Vivo Y02T 4 not turning on** might simply be a victim of a drained battery due to lack of charging. Several factors could lead to this, including a damaged charging cable or adapter. Moreover, issues with the power source or a malfunctioning charging port can be the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reason 1. Damaged Charging Cable or Adapter
 
 **Solution:** Replace the charging cable or adapter with a known working one. Try using a different USB-C cable and adapter to ensure it's not a faulty connection.
@@ -232,9 +232,6 @@ Sometimes, a Vivo Y02T 3 might not turn on due to physical damage incurred by th
 
 **Solution**: If the Vivo Y02T 3 has been exposed to water or moisture, immediately turn it off. Moreover, do not attempt to power it on. Place the Vivo Y02T device in a bowl of uncooked rice or silica gel packets to help absorb moisture. Alternatively, use a vacuum or hairdryer in a cool setting to draw out moisture. It's crucial to let the Vivo Y02T device dry completely before attempting to power it on.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google pixel water damage](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-5.jpg)
 
 ### Reason 3. Hardware Malfunction
@@ -242,6 +239,10 @@ Sometimes, a Vivo Y02T 3 might not turn on due to physical damage incurred by th
 **Solution:** [Check for any hardware malfunction symptoms](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html) such as [overheating](https://drfone.wondershare.com/iphone-problems/iphone-overheating-after-updating-to-ios-17.html), unusual sounds, or a burnt smell. If any such signs are evident, refrain from attempting to turn on the Vivo Y02T device. You should seek professional assistance from authorized service centers.
 
 ![google pixel hardware malfunction](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Scenario 3. Buggy Android Smartphone
 
@@ -283,6 +284,10 @@ Starting with, you will have to activate Dr.Fone on your computer and head to th
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,082,195** people have downloaded it
 
 - **Step 2:** Start Android System Repair
@@ -291,11 +296,19 @@ In the next step, choose the "Start" button that appears, by which your device w
 
 ![set device properties and proceed](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Utilize the Firmware
 
 Afterward, the firmware will start to download automatically once the Vivo Y02T device enters a Download Mode. You need to select the "Fix Now" button and continue typing in a "000000" code. Then, proceed with the "Confirm" option to install the firmware on your device.
 
 ![confirm firmware installation](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** End the System Repair of Android
 
@@ -321,6 +334,10 @@ At times, an Android device, including the Vivo Y02T 3/4, might benefit from a p
 
 **Solution.** To shut down your Vivo Y02T 3/4, press and hold the power button, then choose 'Power Off' from the menu that appears. After the Vivo Y02T device powers down, wait for about 30 seconds to 1 minute to ensure it has fully shut down before moving forward. Subsequently, press and hold the power button until the Google logo displays to restart your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scenario 6. Software Damaged? Restore Immediately
 
 When an Android device experiences severe software damage, it can lead to major issues like **the Vivo Y02T 3 won't turn on**. This can hinder the functionality of the Vivo Y02T device. It also includes the inability to turn on or persistent system malfunctions. In such cases, performing a complete phone restore becomes a necessary solution:
@@ -345,6 +362,10 @@ When an Android device experiences severe software damage, it can lead to major 
 
 ![factory reset google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scenario 7. Phone Hangs on Installed App
 
 There are scenarios where a phone, like the Vivo Y02T 3, hangs or gets stuck on a specific installed app. It happens during the startup process, and it can prevent the Vivo Y02T device from turning on properly. This issue often arises due to a malfunctioning or poorly coded app. This app disrupts the Vivo Y02T device's startup routine, causing **Vivo Y02T 4 won’t turn on**.
@@ -355,9 +376,6 @@ There are scenarios where a phone, like the Vivo Y02T 3, hangs or gets stuck on 
 
 ![reboot google pixel to safe mode](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reason 2. Problematic App
 
 **Solution:** While in Safe Mode, observe if the Vivo Y02T device boots up properly. If it successfully boots, it suggests that a third-party application is causing the problem. To pinpoint the problematic app, uninstall recently added apps individually and restart the Vivo Y02T device after each removal. This process helps pinpoint the problematic app causing the hang during startup.
@@ -418,8 +436,6 @@ All these reasons and more can handle with ease and you can continue to use Goog
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click to fix Google Play error 963
@@ -443,14 +459,15 @@ Step 1 – To begin fixing error 963, run Dr.Fone after downloading and installi
 
 Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ and then click the ‘Start’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3 – On the following screen, you need to choose the appropriate details for your device like the name, brand, model, country/region etc. Later, go for warning confirmation and hit ‘Next’.
 
 ![device references selected](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Phase 2: Taking Android device in Download mode for repairing**
 
@@ -479,6 +496,10 @@ Step 3 – Upon successful downloading and verification of the firmware, the pro
 Step 4 – Within a while, the Google play error 963 will be vanished.
 
 ![make the fix google play error 963 disappear on android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: 6 Common Solutions to fix Error Code 963
 
@@ -590,7 +611,6 @@ This remedy is as simple as it sounds and has helped many HTC users to get rid o
 
 Google Play Errors are a very common phenomenon these days, especially Error Code 963 which usually occurs in the Google Play Store when we try to download, install or update an App. There is no need to worry if you see Error Code 963 pop-up on your screen as your device and its software are not to be blamed for Error 963 to suddenly surface. It is a random error and can be fixed easily by you. You do not need any technical assistance to deal with the issue. All you need to do is follow the steps introduced in this article to use Google Play Store and its services smoothly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -603,9 +623,18 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-snap-ad-creation-essential-tips-for-impactful-promotion/"><u>[New] 2024 Approved Mastering Snap Ad Creation Essential Tips for Impactful Promotion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-screen-selections-for-immersive-xbox-series-x-gaming/"><u>[New] In 2024, Ultimate Screen Selections for Immersive Xbox Series X Gaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-and-science-of-screen-excellence-sony-xperia-xz-review-for-2024/"><u>[New] The Art and Science of Screen Excellence - Sony Xperia XZ Review for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-guide-to-success-in-stardews-enigmatic-ginger-isle-for-2024/"><u>[New] The Ultimate Guide to Success in Stardew's Enigmatic Ginger Isle for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-honored-advisors-elite-iphone-audio-experts/"><u>[Updated] Honored Advisors Elite iPhone Audio Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fast-solutions-unstuck-from-shader-optimization-in-star-wars-battlefront-ii/"><u>Fast Solutions: Unstuck From Shader Optimization in Star Wars Battlefront II</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nubia-red-magic-8s-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nubia Red Magic 8S Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-15-plus-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 15 Plus</u></a></li>
+</ul></div>
 

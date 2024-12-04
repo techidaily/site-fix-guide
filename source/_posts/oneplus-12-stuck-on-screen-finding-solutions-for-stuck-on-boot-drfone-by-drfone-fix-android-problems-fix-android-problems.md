@@ -1,7 +1,7 @@
 ---
 title: OnePlus 12 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-07-14T06:48:07.114Z
-updated: 2024-07-15T06:48:07.114Z
+date: 2024-11-27T00:09:56.598Z
+updated: 2024-12-04T01:01:21.620Z
 tags: 
   - problems
 categories:
@@ -48,6 +48,10 @@ The first and most proclaimed technique to refresh OnePlus 12 devices under such
 
 ![force restart nokia](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2: Leave the Phone For a While To Drain Its Battery
 
 A conventional way to solve the issue of a stuck screen in OnePlus 12 is to leave the phone in its position. As you let its battery drain out, the phone will turn off, and you can activate the OnePlus 12 device again by charging it.
@@ -76,9 +80,6 @@ If your ****OnePlus 12  Plus is stuck on the Android One screen,**** this platfo
 
 As you launch Dr.Fone after downloading it on your computer, continue to the "System Repair" option. You will have to start by connecting the Android device to the computer through a USB cable. Select "Android Repair" from the options available and continue to the following options.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the system repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 2: Define Device Information and Confirm****
@@ -86,6 +87,10 @@ As you launch Dr.Fone after downloading it on your computer, continue to the "Sy
 You will be directed to the OnePlus 12 device information screen, where you must define the identification parameters of the OnePlus 12 device. Select the brand, name, model, country, and carrier details for proper system recovery. On clicking "Next," you will receive a warning where you will have to type the number "000000" to proceed with the method.
 
 ![add the nokia phone details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3: Put Your OnePlus 12 in Download Mode****
 
@@ -107,9 +112,6 @@ To proceed, tap the "Next" button to download the firmware. As you verify the fi
 
 ![repairing the nokia phone](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Contact the Customer Service Center of OnePlus 12
 
 If the issue of the ****OnePlus 12  stuck on the "OnePlus 12" screen**** continues, you will have to contact the OnePlus 12 device's customer support. With no proper method left for the OnePlus 12 device, the only effective technique is to visit the authorized store for OnePlus 12 smartphones and claim the issue with the OnePlus 12 device. In this way, you might receive or get a fully repaired device with no additional charges if the OnePlus 12 smartphone is under warranty.
@@ -154,6 +156,10 @@ We understand the inconvenience caused, therefore, here are ways to tell you how
 
 However, before moving on, let us learn a little about the causes for the Android boot loop error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What might cause the bootloop issue on Android?
 
 Android boot loop error might seem weird and unexplainable but it occurs because of some specific reasons.
@@ -177,8 +183,6 @@ Read on to know more about how to fix the bootloop error without any data loss w
 If you are trying to figure out how to fix boot loop, the first option you have is the one-click fix to Android Bootloop which involves using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) software.
 
 This is designed to repair any data corruption on your device and restores your firmware to its usual working condition.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -231,6 +235,10 @@ You’ll be notified when the process is done and when you can remove your devic
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Soft reset to fix Android bootloop issue
 
 When your device is stuck in Android boot loop, it does not necessarily mean that it is bricked. Boot loop might be occurring due to a simpler problem which can be fixed by turning off your device. This sounds like a home remedy for a serious problem but it works and resolves the problem most of the time.
@@ -241,6 +249,10 @@ Turn the OnePlus 12 device off and take out its battery.
 
 ![take out its battery](https://images.wondershare.com/drfone/article/2017/07/14994538333532.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you cannot take the battery out, let the phone be off for about 3 to 5 minutes, and then turn it back on.
 
 Simply performing a soft reset on your device can help you if you are looking for solutions for how to fix the bootloop issue. This a very useful method as it does not result in any kind of loss in data and protects all your media files, documents, settings, etc.
@@ -249,10 +261,11 @@ In case the OnePlus 12 device does not turn on normally and is still stuck in th
 
 ## Part 4: Boot into Safe Mode to fix Android boot loop
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![boot into safe mode](https://images.wondershare.com/drfone/article/2023/08/boot-loop-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Booting your OnePlus 12 into Safe Mode is a useful troubleshooting step to fix boot loop issues caused by third-party apps. When in Safe Mode, the OnePlus 12 device will start up with only essential system apps, and any downloaded apps that might be causing conflicts won't run. Here's how you can boot your OnePlus 12 into Safe Mode to address the boot loop problem:
 
@@ -280,6 +293,10 @@ Now that you're in Safe Mode, it's time to identify the troublesome app. Start b
 Once you've identified and uninstalled the problematic app, restart your device normally to exit Safe Mode. Your Android device should now start up without getting stuck in a boot loop.
 
 By following these steps and using Safe Mode to isolate problematic apps, you can effectively troubleshoot and resolve boot loop issues on your OnePlus 12.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Factory reset to fix Android bootloop issue
 
@@ -325,9 +342,6 @@ Scroll down using” the volume key to select "Advanced".
 
 Now select “Wipe” and choose to wipe "Dalvik Cache".
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wipe “Dalvik Cache”](https://images.wondershare.com/drfone/article/2017/07/14994539844927.jpg)
 
 In this step, select "Mounts and Storage" to click on "Wipe" or "Cache".
@@ -342,9 +356,6 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## My Videos Aren't Playing on OnePlus 12 – What Can I Do?
 
 ![person holding their android with black screen](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-1.jpg)
@@ -356,6 +367,10 @@ However, regardless of the capabilities of Android phones and the features that 
 You may encounter **videos not playing on your OnePlus 12** more frequently than you like. Whether it’s video files you’ve recorded using your phone or files you’ve downloaded, this glitch can get pretty annoying pretty fast. Fortunately, there are several solutions you could try to fix it.
 
 See what you can do if **videos won’t play on your Android.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Are My Videos Not Playing On Android?
 
@@ -454,6 +469,10 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your OnePlus 12 in
 
 ![wondershare dr.fone toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Select **System Repair > Android**.
 - **Step 4**: In the new window, select **Start**.
 
@@ -497,6 +516,10 @@ Cookies are usually there to improve the user experience, allowing you to load w
 
 You’ll first need to launch your mobile browser to clear cookies and browsing data. If you’re using Google Chrome, the process is simple and streamlined. Tap the three dots in the upper right corner and go to **Settings**. From there, go to **Privacy and security > Clear browsing data > Clear data**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10. Reinstall Video Apps
 
 If you still have issues with videos not playing on your OnePlus 12, you could try deleting and reinstalling your video apps. Sometimes, simply updating the video app might still retain the glitch causing problems. However, if you delete it in its entirety and then install it again, the issue should be gone.
@@ -515,9 +538,6 @@ Like other smartphones, Android devices occasionally encounter glitches when pla
 
 Whatever the case is, don’t despair. There’s usually a solution that can fix the problem and ensure your device works as expected.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -530,9 +550,21 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-comprehensively-ranked-win-11-hd-cameras-and-recorders/"><u>[New] In 2024, Comprehensively Ranked Win 11 HD Cameras & Recorders</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-whats-behind-tiktoks-mysterious-pfp-an-in-depth-guide/"><u>[New] In 2024, What's Behind TikTok's Mysterious PFP? An In-Depth Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-overcoming-dark-pixels-in-online-video-platform-for-2024/"><u>[Updated] Overcoming Dark Pixels in Online Video Platform for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-unalterable-tiktok-profile-url-integration-blueprint/"><u>2024 Approved The Unalterable TikTok Profile URL Integration Blueprint</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oneplus-nord-n30-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead OnePlus Nord N30 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/linkedin-premium-membership-are-the-benefits-justified/"><u>LinkedIn Premium Membership: Are The Benefits Justified?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/maximizing-engagement-with-instagrams-ask-emoji-for-2024/"><u>Maximizing Engagement with Instagram's Ask Emoji for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-razr-40-ultra-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Razr 40 Ultra Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-smart-7-hd-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Smart 7 HD Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-verdict-on-docooler-12mp-usb-webcam-exceptional-quality-or-just-a-marketing-gimmick/"><u>The Verdict on Docooler 12Mp USB Webcam: Exceptional Quality or Just a Marketing Gimmick?</u></a></li>
+</ul></div>
 

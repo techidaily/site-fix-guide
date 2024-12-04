@@ -1,7 +1,7 @@
 ---
 title: Nubia Red Magic 8S Pro+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone
-date: 2024-07-14T06:47:37.012Z
-updated: 2024-07-15T06:47:37.012Z
+date: 2024-12-01T21:13:06.242Z
+updated: 2024-12-04T01:15:15.521Z
 tags: 
   - problems
 categories:
@@ -48,6 +48,10 @@ The first and most proclaimed technique to refresh Nubia Red Magic 8S Pro+ devic
 
 ![force restart nokia](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2: Leave the Phone For a While To Drain Its Battery
 
 A conventional way to solve the issue of a stuck screen in Nubia Red Magic 8S Pro+ is to leave the phone in its position. As you let its battery drain out, the phone will turn off, and you can activate the Nubia Red Magic 8S Pro+ device again by charging it.
@@ -66,9 +70,6 @@ Another quick remedy to try on your Nubia Red Magic 8S Pro+ smartphones involves
 
 ![tap on check for update](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 4: Using Wondershare Dr.Fone
 
 One of the finest options available to perform is using a third-party platform that promises smooth operability. Wondershare Dr.Fone is a platform designed to provide such smartphones another life to survive. Its unique functionality repairs all the issues with a smartphone and makes it as good as a new one.
@@ -105,14 +106,19 @@ Turn off the Android device and hold the "Volume Down," "Bixby," and "Power" but
 
 To proceed, tap the "Next" button to download the firmware. As you verify the firmware, the repairing process starts on your Nubia Red Magic 8S Pro+ device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![repairing the nokia phone](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 5: Contact the Customer Service Center of Nubia Red Magic 8S Pro+
 
 If the issue of the ****Nubia Red Magic 8S Pro+  stuck on the "Nubia Red Magic 8S Pro+" screen**** continues, you will have to contact the Nubia Red Magic 8S Pro+ device's customer support. With no proper method left for the Nubia Red Magic 8S Pro+ device, the only effective technique is to visit the authorized store for Nubia Red Magic 8S Pro+ smartphones and claim the issue with the Nubia Red Magic 8S Pro+ device. In this way, you might receive or get a fully repaired device with no additional charges if the Nubia Red Magic 8S Pro+ smartphone is under warranty.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Avoid Nubia Red Magic 8S Pro+ Screen Stuck on Boot?
 
@@ -130,9 +136,6 @@ If you feel frustrated by issues like ****Nubia Red Magic 8S Pro+ being stuck on
 
 Changing or modifying system files can be fatal for smartphones. Thus, to keep your Nubia Red Magic 8S Pro+ safe, you need to keep your hands away from such important files. Modifying a single file can make your device useless or put you in situations like a Nubia Red Magic 8S Pro+ smartphone stuck on the boot. For that, the best tip is to keep yourself out of engagement.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Use Wondershare Dr.Fone To Manage All Data With Ease
 
 As you have observed, the power of Dr.Fone can be a perfect phone manager for you at all times. While providing system repair services, it can also help you manage your device's data and other statuses. Thus, consider keeping Dr.Fone close to your device and its operations. In this way, you will be able to have complete control over all types of data present in the Nubia Red Magic 8S Pro+ smartphone.
@@ -146,8 +149,6 @@ As you have observed, the power of Dr.Fone can be a perfect phone manager for yo
 With that, this brings the article on Nubia Red Magic 8S Pro+ smartphones to a conclusion. If you are still facing issues with your ****Nubia Red Magic 8S Pro+  stuck on the "Nubia Red Magic 8S Pro+" screen,**** this article is the perfect solution for your problem.
 
 With all the provided methods, we do hope that you will be able to restore the status of your Nubia Red Magic 8S Pro+ smartphone and make it functional. For the finest results, you have also discovered Dr.Fone – System Repair (Android) as the best solution for repairing such devices.
-
-
 
 ## Simple Solutions to Fix Android SystemUI Has Stopped Error For Nubia Red Magic 8S Pro+
 
@@ -172,6 +173,10 @@ Android device owners would agree that OS updates are very helpful as they fix t
 Another reason for the Android SystemUI isn't responding error to occur, maybe because of flashing a new ROM or due to improper firmware update installation. Even when you restore the backed up data from cloud or your Google Account, such Android, unfortunately, the process com.android.systemui has stopped error may show up.
 
 It is not possible to say for sure which one of the above-mentioned reasons is causing your device to show Android SystemUI is not responding error. But what we can do is move on to fixing the Android SystemUI by following any one of the three methods given the following segments.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to fix “com.android.systemui has stopped” in one click
 
@@ -212,6 +217,10 @@ In case your Android has no Home button:
 - Turn off your device. Hold down “Volume Down + Bixby + Power” buttons altogether for about 10seconds. Let go of the buttons afterward and hit the Volume Up to boot in download mode.
 
 ![fix Android system UI stopping with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2 – Once done, hit “Next” to initiate the downloading of the firmware.
 
@@ -258,9 +267,6 @@ Different Android devices have different ways to put it in recovery mode. Refer 
 
 - Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android system ui-”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14985098383121.jpg)
 
 - After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
@@ -296,6 +302,10 @@ The whole process of factory resetting your Nubia Red Magic 8S Pro+ might sound 
 
 Android SystemUI isn't responding or Android, unfortunately, the process com.android.systemui has stopped error is commonly seen by users on their devices. It is not a random error and is linked to either the software, Google App, cache partition, or data stored in the Nubia Red Magic 8S Pro+ device. It is fairly simple to deal with this issue as all you need to do is install or roll back your Android OS update, uninstall Google App updates, clear cache partition, or factory reset your device to clear all data, files, and settings stored in it. The methods listed and explained above are the best ways to fight the problem and to prevent it from troubling you in the future. These methods have been adopted by affected users all over the world who recommend them because they are safe and involve minimum risks as compared to other tools to solve the Android SystemUI has stopped error. So go ahead and try them now!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do if Google Play Services Keeps Stopping on Nubia Red Magic 8S Pro+
 
 ![google play services app keeps stopping](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-1.jpg)
@@ -316,6 +326,10 @@ There’s also the issue of wrong app versions. Although each Android phone uses
 
 That’s also the case with Google Play Store and Google Play Services.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Google Play Services Keeps Stopping
 
 The Google Play Services keeps stopping error is an infamous one, and it can appear for various reasons and even on brand new phones. However, these causes can be categorized into three groups, which are:
@@ -325,6 +339,10 @@ The Google Play Services keeps stopping error is an infamous one, and it can app
 3. Wrong Play Services Version
 
 Regardless of what’s causing the issue on your phone, we’ve compiled a list of ten possible solutions, and you can find those below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solutions to Try When Google Play Services Keeps Stopping
 
@@ -371,9 +389,6 @@ Like reverting to the previous version, you can also try reinstalling updates to
 - **Step 1**: Go into **Settings**\> **Apps** and find **Google Play Services**.
 - **Step 2**: Tap it and press **Uninstall Updates**at the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
     ![uninstall google play services updates](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-3.jpeg)
 
 - **Step 3**: Exit the **Settings**app and restart the phone.
@@ -381,6 +396,10 @@ Like reverting to the previous version, you can also try reinstalling updates to
 - **Step 5**: Find and tap the **Play Store version**to update your **Google Play Services**.
 
 As you’re already there, you might as well update all other apps after you tap **Manage apps & device**. That will ensure that older and not-up-to-date apps aren’t causing the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5. Check Storage
 
@@ -446,6 +465,10 @@ Oddly enough, the Google Play Services app is prone to failure because of an inc
 
 Once you check or change these settings, try using the Google Play Store app and check whether the issue is fixed. Restarting the phone after changing the settings is also highly advisable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9. Troubleshoot Your Internet Connection
 
 Another regularly overlooked troublemaker is a poor internet connection. That’s because most apps nowadays are meant to work in online mode only, and losing connection or using a bad one interferes with the app’s functionality.
@@ -468,7 +491,6 @@ Although it’s an incredibly frustrating error, the “Unfortunately, Google Pl
 
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -481,9 +503,21 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-optimize-your-content-creation-for-vimeo-with-best-edits-for-2024/"><u>[New] Optimize Your Content Creation for Vimeo with Best Edits for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-20-easygoing-country-rhythms-to-boogie-down-and-unwind-on-tiktok-for-2024/"><u>[Updated] 20 Easygoing Country Rhythms to Boogie Down & Unwind on TikTok for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-optimal-techniques-recording-console-games-via-pc/"><u>[Updated] 2024 Approved Optimal Techniques Recording Console Games via PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-art-of-persuasion-top-30-video-strategies/"><u>2024 Approved Master the Art of Persuasion Top 30 Video Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/aktiver-nvenc-encoder-in-handbrake-schritt-fur-schritt-anleitung-zur-einrichtung/"><u>Aktiver NVENC-Encoder in HandBrake: Schritt-Für-Schritt Anleitung Zur Einrichtung</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-s23-ultra-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy S23 Ultra in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-pro-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-find-x6-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo Find X6 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-loss-of-display-on-personal-computers/"><u>Remedying Loss of Display on Personal Computers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/r-your-narrative-crafting-engaging-youtube-descriptions-using-pre-set-templates-for-2024/"><u>Tailor Your Narrative Crafting Engaging YouTube Descriptions Using Pre-Set Templates for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-best-ai-phone-apps-on-both-os-platforms/"><u>Unveiling the Best AI Phone Apps on Both OS Platforms</u></a></li>
+</ul></div>
 
