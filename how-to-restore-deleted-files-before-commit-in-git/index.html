@@ -26,34 +26,25 @@
 <meta property="og:site_name" content="Fix Guide">
 <meta property="og:description" content="Learn how to restore deleted files before commit in Git using the reset and checkout commands. We also show how to batch restore deleted files in Git.">
 <meta property="og:locale" content="en_US">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/7443-2082538">
-<meta property="og:image" content="https://appsumo.8odi.net/i/5597632/2082538/7443">
 <meta property="og:image" content="https://fix-guide.techidaily.com/images/git/how-to-restore-deleted-files-before-commit-in-git/initial-repo-before-deletes.webp">
 <meta property="og:image" content="https://fix-guide.techidaily.com/images/git/how-to-restore-deleted-files-before-commit-in-git/initial-repo-commits.webp">
 <meta property="og:image" content="https://fix-guide.techidaily.com/images/git/how-to-restore-deleted-files-before-commit-in-git/delete-file.webp">
 <meta property="og:image" content="https://fix-guide.techidaily.com/images/git/how-to-restore-deleted-files-before-commit-in-git/rm-autostages-deletion.webp">
 <meta property="og:image" content="https://fix-guide.techidaily.com/images/git/how-to-restore-deleted-files-before-commit-in-git/git-reset-unstage-change.webp">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/14420-1659704">
-<meta property="og:image" content="https://imp.pxf.io/i/5597632/1659704/14420">
 <meta property="og:image" content="https://fix-guide.techidaily.com/images/git/how-to-restore-deleted-files-before-commit-in-git/unstage-deleted-file.webp">
 <meta property="og:image" content="https://fix-guide.techidaily.com/images/git/how-to-restore-deleted-files-before-commit-in-git/git-restore-deleted-file-2-steps.webp">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/5172-427477">
-<meta property="og:image" content="https://arkmc.pxf.io/i/5597632/427477/5172">
 <meta property="og:image" content="https://fix-guide.techidaily.com/images/git/how-to-restore-deleted-files-before-commit-in-git/git-undelete-single-step-checkout.webp">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/17634-1509856">
 <meta property="og:image" content="https://fix-guide.techidaily.com/images/git/how-to-restore-deleted-files-before-commit-in-git/delete-several-files.webp">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/7443-2075461">
-<meta property="og:image" content="https://appsumo.8odi.net/i/5597632/2075461/7443">
 <meta property="og:image" content="https://fix-guide.techidaily.com/images/git/how-to-restore-deleted-files-before-commit-in-git/batch-restore-deletions.webp">
 <meta property="og:image" content="https://fix-guide.techidaily.com/images/git/how-to-restore-deleted-files-before-commit-in-git/all-deleted-files-restored.webp">
-<meta property="article:published_time" content="2024-07-13T22:25:59.856Z">
-<meta property="article:modified_time" content="2024-07-26T04:37:21.002Z">
+<meta property="article:published_time" content="2024-12-20T01:02:08.880Z">
+<meta property="article:modified_time" content="2024-12-25T15:42:34.149Z">
 <meta property="article:author" content="Abel">
 <meta property="article:tag" content="git restore">
 <meta property="article:tag" content="undo">
 <meta property="article:tag" content="restore deleted files">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://a.impactradius-go.com/display-ad/7443-2082538">
+<meta name="twitter:image" content="https://fix-guide.techidaily.com/images/git/how-to-restore-deleted-files-before-commit-in-git/initial-repo-before-deletes.webp">
     
 
     <!-- google site verification -->
@@ -730,15 +721,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-14 06:25:59</span>
-        <span class="mobile">2024-07-14 06:25:59</span>
+        <span class="desktop">2024-12-20 09:02:08</span>
+        <span class="mobile">2024-12-20 09:02:08</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-26 12:37:21</span>
-            <span class="mobile">2024-07-26 12:37:21</span>
+            <span class="desktop">2024-12-25 23:42:34</span>
+            <span class="mobile">2024-12-25 23:42:34</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -806,19 +797,6 @@
 <p>We can either unstage deleted file first and then restore it in the working tree in a separate step. Alternatively, we can combine the two operations into one step.</p>
 <p>This tutorial shows a clever trick to batch undelete multiple files with a single command.</p>
 <h2 id="1-Restore-Deleted-Files-Before-Commit-Using-the-reset-and-checkout-Commands-in-Git"><a href="#1-Restore-Deleted-Files-Before-Commit-Using-the-reset-and-checkout-Commands-in-Git" class="headerlink" title="1. Restore Deleted Files Before Commit Using the reset and checkout Commands in Git"></a>1. Restore Deleted Files Before Commit Using the <code>reset</code> and <code>checkout</code> Commands in Git</h2><p>First, let us set up a repository and add a few files. It looks like this:</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2082538"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2082538/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
 <p><img  
                      lazyload
                      src="/images/loading.svg"
@@ -863,19 +841,6 @@
                      data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/git-reset-unstage-change.webp"
                       alt="Git reset unstage change"
                 ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/14420-1659704"
-                      border="0" alt="" width="728" height="90"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1659704/14420"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
 <p><img  
                      lazyload
                      src="/images/loading.svg"
@@ -894,6 +859,10 @@
                      data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/git-restore-deleted-file-2-steps.webp"
                       alt="Git restore deleted file 2 steps"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="2-Restore-Deleted-Files-Before-Commit-Using-the-git-checkout-Command-in-Git"><a href="#2-Restore-Deleted-Files-Before-Commit-Using-the-git-checkout-Command-in-Git" class="headerlink" title="2. Restore Deleted Files Before Commit Using the git checkout Command in Git"></a>2. Restore Deleted Files Before Commit Using the <code>git checkout</code> Command in Git</h2><p>The <code>git checkout</code> command provides us with a form where we can combine the two steps above into one.</p>
 <div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git checkout &lt;commit&gt; [--] &lt;path_to_file&gt;</span><br></pre></td></tr></table></figure></div>
 
@@ -901,40 +870,27 @@
 <div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git checkout HEAD -- file7.txt</span><br></pre></td></tr></table></figure></div>
 
 <p><code>HEAD</code> points to our last commit. We did not commit the deletion, so our last commit does not know the delete operation.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/5172-427477"
-                      border="0" alt="" width="728" height="90"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://arkmc.pxf.io/i/5597632/427477/5172"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
 <p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/git-undelete-single-step-checkout.webp"
                       alt="Git undelete single step checkout"
                 ></p>
-<h2 id="3-Restore-a-Batch-of-Deleted-Files-Before-Commit-in-Git"><a href="#3-Restore-a-Batch-of-Deleted-Files-Before-Commit-in-Git" class="headerlink" title="3. Restore a Batch of Deleted Files Before Commit in Git"></a>3. Restore a Batch of Deleted Files Before Commit in Git</h2><p>What if we deleted a bunch of files and did not commit? Suppose we deleted 1000 files, and we now want to restore all of them.</p>
 <!-- affiliate ads begin -->
-<p><a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17634-1509856"
-                      border="0" alt="" width="730" height="383"
-                ></a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<h2 id="3-Restore-a-Batch-of-Deleted-Files-Before-Commit-in-Git"><a href="#3-Restore-a-Batch-of-Deleted-Files-Before-Commit-in-Git" class="headerlink" title="3. Restore a Batch of Deleted Files Before Commit in Git"></a>3. Restore a Batch of Deleted Files Before Commit in Git</h2><p>What if we deleted a bunch of files and did not commit? Suppose we deleted 1000 files, and we now want to restore all of them.</p>
 <p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/delete-several-files.webp"
                       alt="Delete several files"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p>Typing the above commands 1000 times isn’t a programmer’s way to do stuff. Instead, we can use wildcards in the path specifiers to match many files and undelete them with a single command.</p>
 <div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git reset HEAD .</span><br></pre></td></tr></table></figure></div>
 
@@ -943,36 +899,54 @@
 <div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git checkout .</span><br></pre></td></tr></table></figure></div>
 
 <p>The same command with <code>file7.txt</code> is again replaced with the <code>.</code> wildcard. It restores all the unstaged deletions in one go.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2075461"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2075461/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
 <p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/batch-restore-deletions.webp"
                       alt="Batch restore deletions"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="/images/git/how-to-restore-deleted-files-before-commit-in-git/all-deleted-files-restored.webp"
                       alt="All deleted files restored"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p><ins class="adsbygoogle"
     style="display:block"
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins></p>
+<p><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a target="_blank" rel="noopener" href="https://article-helps.techidaily.com/new-join-the-meme-revolution-expert-tips-for-the-metaverse-for-2024/"><u>[New] Join the Meme Revolution Expert Tips for the Metaverse for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-lab.techidaily.com/ransforming-life-experiences-into-engaging-yt-videos/"><u>[New] Transforming Life Experiences Into Engaging YT Videos</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-support.techidaily.com/updated-premier-silent-sound-converters/"><u>[Updated] Premier Silent Sound Converters</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/updated-rapidly-rise-with-smart-instagram-reel-techniques-for-2024/"><u>[Updated] Rapidly Rise with Smart Instagram Reel Techniques for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-blog.techidaily.com/cracking-the-code-resolve-error-80070057-in-call-of-duty-black-ops-cold-war-easily/"><u>Cracking the Code: Resolve Error 80070057 in Call of Duty: Black Ops Cold War Easily</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://article-posts.techidaily.com/enhancing-game-experience-with-voice-alteration-on-ps45/"><u>Enhancing Game Experience with Voice Alteration on PS4/5</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oneplus-nord-n30-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked OnePlus Nord N30 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://mondly-stories.techidaily.com/mastering-french-salutations-the-ultimate-guide-to-bonjour/"><u>Mastering French Salutations: The Ultimate Guide to 'Bonjour'</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-12-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi 12 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/steps-to-record-voice-memo-on-iphone/"><u>Steps to Record Voice Memo on iPhone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-y78plus-t1-edition-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo Y78+ (T1) Edition FRP</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win11-tips.techidaily.com/unlock-cmd-capabilities-with-these-top-5-hacks/"><u>Unlock Cmd Capabilities with These Top 5 Hacks</u></a></li>
+</ul></div>
+
 
         </div>
 
@@ -983,11 +957,11 @@
         <li><strong>Title:</strong> How to Restore Deleted Files Before Commit in Git</li>
         <li><strong>Author:</strong> Abel</li>
         <li><strong>Created at
-                :</strong> 2024-07-14 06:25:59</li>
+                :</strong> 2024-12-20 09:02:08</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-07-26 12:37:21
+                    :</strong> 2024-12-25 23:42:34
             </li>
         
         <li>
@@ -1035,13 +1009,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/how-to-revive-your-bricked-asus-rog-phone-7-ultimate-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"
+                        href="/strategies-for-apps-that-wont-download-from-play-store-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">How To Revive Your Bricked Asus ROG Phone 7 Ultimate in Minutes | Dr.fone</span>
+                                <span class="post-nav-title-item">Strategies for Apps That Wont Download From Play Store On Honor 90 | Dr.fone</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1051,10 +1025,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/how-to-restore-a-bricked-zte-nubia-z60-ultra-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"
+                        href="/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">How To Restore a Bricked ZTE Nubia Z60 Ultra Back to Operation | Dr.fone</span>
+                                <span class="post-nav-title-item">Spotify Keeps Crashing A Complete List of Fixes You Can Use on Poco C51 | Dr.fone</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
