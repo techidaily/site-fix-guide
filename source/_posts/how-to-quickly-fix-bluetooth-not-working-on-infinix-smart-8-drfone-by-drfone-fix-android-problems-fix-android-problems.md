@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Infinix Smart 8 | Dr.fone
-date: 2024-07-14T06:11:26.705Z
-updated: 2024-07-15T06:11:26.705Z
+date: 2025-01-06T16:17:43.067Z
+updated: 2025-01-10T17:51:53.379Z
 tags: 
   - problems
 categories:
@@ -36,7 +36,9 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -64,9 +66,17 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
 
 ![bluetooth not working on android - download mode to fix issues](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
 
@@ -74,9 +84,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Infinix Smart 8 and start using it and your Bluetooth features.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.2 Restart Android and turn on Bluetooth again
 
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
@@ -103,9 +110,6 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 4. Go back of the Menu and restart your phone
 5. Now turn your Bluetooth feature on and turn connecting it to your preferred device
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.4 Remove paired devices
 
 ![android bluetooth problems - remove paired devices](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-paried.jpg)
@@ -122,6 +126,10 @@ Here’s how;
 ### 2.5 Use Bluetooth in safe mode
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you’re having problems with your connection and paired devices, sometimes you may have conflicting software faults in your device that are causing the problems. If this is the case, you’ll need to boot your Infinix Smart 8 in Safe Mode.
 
@@ -147,6 +155,10 @@ Here’s how to turn on your Bluetooth discoverable feature;
 2. Toggle the Bluetooth switch, so it’s on
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Infinix Smart 8 device you’re trying to connect too
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.7 Exclude Bluetooth issues of the other device
 
@@ -231,6 +243,10 @@ You Are Using a Secure Folder
 
 Companies design secure folders to protect your most sensitive data from unauthorized access, so screenshots are not allowed within them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. 8 Ways To Take Screenshots When You Can’t Due to Security Policy
 
 If you’re trying to take a screenshot of an app or website with a security policy in place, there’s usually no way to circumvent it. However, there are a few things you can do to take pictures of these apps and website content.
@@ -261,9 +277,6 @@ Apps and websites may prohibit screenshots in incognito mode to protect your pri
 
 - **Step 1:** Open Chrome on your Infinix Smart 8 and type “chrome://flags” in the address bar.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chrome experimental flags](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-07.jpg)
 
 - **Step 2:** Search for Incognito Screenshot and choose **Enabled** from the drop-down menu.
@@ -386,9 +399,6 @@ Although there are ways to bypass the “**Can’t take screenshot due to securi
 
 If you think the issue is with your Android system, or your device becomes bricked after trying other methods, experiencing app crashes, or otherwise malfunctioning, try using the Dr.Fone System Repair tool. It is worth trying and can fix most Android system issues in a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Fix Unresponsive Phone Touchscreen Of Infinix Smart 8
 
 Smartphones nowadays contribute to our daily workflow, whether you’re a student or a professional. They get more sophisticated and add new features every year, making them more attractive with each new release. However, users sometimes deal with their **screen touch not working** on Android, raising various concerns.
@@ -396,6 +406,10 @@ Smartphones nowadays contribute to our daily workflow, whether you’re a studen
 ![fix unresponsive android/ios touchscreen intro](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-01.jpg)
 
 If you are facing a similar issue, this page has all the solutions to teach you **what to do if your phone screen is not working.** By exploring the different methods below, you will be able to know how to fix a frozen phone touch screen as an Android user. Read on for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Top Causes of an Unresponsive Touchscreen
 
@@ -486,14 +500,15 @@ You might be asked to enter the pin of the security lock on the phone if you’v
 
 **S****tep 3:** You may need to enter your Infinix Smart 8 account password if you have bounded an account to your phone after taping **Delete all**. Then your Infinix Smart 8 phone will reset. You’ll see its initial setup screen when it turns back on.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Fix Unresponsive Touchscreen With an Alternative
 
 The methods outlined above usually solve issues on your **smartphone not responding to touch**. If all else fails, Wondershare Dr.Fone for [<u>iOS</u>](https://drfone.wondershare.com/ios-system-repair.html) and [<u>Android</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) can fix various smartphone issues within less than 10 minutes. The program enables you to fix common scenarios such as black screen, boot loop, bricked iOS or Android, and much more without any required skills.
 
 ![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -521,6 +536,10 @@ Meanwhile, here are the tech specs for Wondershare Dr.Fone (Android)’s minimum
 | **Computer OS** | **Android** |
 | --- | --- |
 | Windows 7, 8, 8.1, 10, 11 | Android 2.1 and up |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pros and Cons
 
@@ -574,6 +593,10 @@ In this step-by-step guide below, you can fix your **unresponsive phone screen**
 
 Some common questions you should know when taking care of an unresponsive phone touchscreen are listed below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Why Did My iPhone Screen Go Black After Not Responding to Touch?
 
 Your iPhone screen with a **touch issue** will sometimes go black after not responding to touch due to several issues. It could be hardware, software, issues with a particular app, software crash, or you have a low battery. If it’s a drained battery, you’re in luck; all you have to do is charge it. Otherwise, you’ll have to perform a force restart on your iPhone to try to reboot it.
@@ -594,9 +617,6 @@ Knowing the common causes of an **unresponsive phone touchscreen** is the first
 
 Wondershare Dr.Fone works on almost all modern smartphones today and can fix a **stop-working phone screen** within less than 10 minutes. It’s beginner-friendly and doesn’t require advanced technical know-how to use right away.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -609,9 +629,18 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-thunder-gods-fury-new-age-begins-for-2024/"><u>[New] Thunder God's Fury New Age Begins for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-quick-diy-tricks-for-professional-quality-homemade-films/"><u>[Updated] Quick DIY Tricks for Professional-Quality Homemade Films</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-nokia-c12-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia C12 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-superior-top-ten-nintendo-switch-combat-games-max-156/"><u>In 2024, Superior Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209671892-9781760871253-make-it-happen/"><u>Make It Happen | Free Book</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-no-watermark-wonders-top-10-free-online-video-editing-tools-for-2024/"><u>New No-Watermark Wonders Top 10 Free Online Video Editing Tools for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-infinix-zero-30-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Zero 30 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-nord-n30-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Nord N30 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solving-graphic-warping-issues-expert-tips-from-yl-computings-leading-display-tech/"><u>Solving Graphic Warping Issues: Expert Tips From YL Computing's Leading Display Tech</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-motorola-razr-40-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Razr 40 ? Fix It Easily | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Lava Yuva 3 Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:57.875Z
-updated: 2024-07-15T06:16:57.875Z
+date: 2025-01-03T18:34:43.800Z
+updated: 2025-01-10T18:14:54.921Z
 tags: 
   - problems
 categories:
@@ -27,6 +27,10 @@ Answering what causes Lava Yuva 3 screen unresponsiveness is difficult. Many rea
 ### 1\. Touchscreen Calibration
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Battery Issue
 
@@ -74,9 +78,17 @@ A common reason for ****Lava Yuva 3 Nord being stuck on the loading screen**** 
 
 ![wait for oneplus logo](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
@@ -97,6 +109,10 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 ### Solution 6. Replace the Old Screen with A New Screen
 
 If none of the above-mentioned fixes have worked so far, you should replace the touch screen. Replacing the touch screen is recommended in case of hardware and severe software issues. However, it can be quite an expensive fix as new touch screens aren't cheap. The prices for new touchscreens differ depending on the model. These prices start from $20 and go up to hundreds of dollars.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Avoid Lava Yuva 3 Screen being Unresponsive?
 
@@ -141,9 +157,6 @@ The Phone app relies on cached data and stored settings to function properly. If
 
 Android devices need sufficient memory (RAM) and processing power to run apps smoothly. If your device is running low on memory or processing capacity, it may struggle to handle the Phone app and its processes. It can lead to crashes and the error message. Running many resource-intensive apps at the same time also causes this issue. Other reasons include too many background processes that contribute to this error.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Conflicting Third-Party Apps
 
 Third-party apps installed on your device can sometimes conflict with the Phone app. These conflicts can occur for various reasons, such as incompatible app versions. The software bugs within the third-party apps or configurations can also clash with the Phone app. Such conflicts can disrupt the normal operation of the Phone app. The result of all this trigger the error message.
@@ -188,9 +201,6 @@ Once the corrupted data is gone, it will restore the Phone app to proper functio
 
 ![clear phone app cache and data](https://images.wondershare.com/drfone/article/2023/06/process-com-android-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disable Automatic Updates Feature
 
 In some cases, this error may occur due to conflicts or compatibility issues with the automatic app updates feature. The automatic update on your Lava Yuva 3 keeps your apps updated. Disabling this feature temporarily can help resolve the problem.
@@ -230,6 +240,10 @@ It is worth considering the SIM Toolkit is a potential source of the problem. Th
 - ****Step 2:**** Now, you need to tap "Storage" to proceed. On the next screen, first, tap "Clear Cache" to clean the cache, and later press "Clear Data."
 
 ![use clear cache and data](https://images.wondershare.com/drfone/article/2023/06/process-com-android-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform Factory Reset
 
@@ -279,9 +293,17 @@ The subsequent step involves entering Download Mode on your device, following th
 
 ![start the fix process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,595,007** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -299,6 +321,10 @@ This article will discuss why incoming **phone calls go straight to voicemail** 
 
 ![phone voicemail notification representation](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Not Ringing? Here’s Why Calls on Your Phone Go Straight to Voicemail
 
 If an incoming call to your **cell phone goes straight to voicemail** without ringing, there could be a few reasons. Here’s what to look for and what you should do to fix it:
@@ -314,10 +340,11 @@ Here’s an alternative way:
 - **Step 1:** Open the **Settings** app and go to **Notifications**.
 - **Step 2:** Tap **Do not disturb**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![notifications settings interface](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Toggle **Do Not Disturb** offto disable the mode.
 
@@ -331,9 +358,6 @@ One reason calls go **straight to voicemail without ringing** is if you enabled 
 
 - **Step 2:** Navigate to **Supplementary services** > **Call forwarding**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![call settings supplementary services](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-05.jpg)
 
 3. Disable Call Barring
@@ -410,6 +434,10 @@ Do you also find yourself asking what does it mean? It could be that he has bloc
 
 ![block numbers on the phone](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you still have trouble reaching your boyfriend, try calling him from a different number. If your call didn’t go through, you know that he hasn’t blocked your number and that there may be another issue with his phone.
 
 9. Turn Off Google One VPN
@@ -443,9 +471,6 @@ Dr.Fone supports over 1000 Android models, including unlocked Lava Yuva 3 models
 
 - **Step 1:** Download Dr.Fone on your computer, then launch it once installed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,118,635** people have downloaded it
@@ -500,9 +525,6 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 **4,215,287** people have downloaded it
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -515,9 +537,20 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facesave-videorecorder-pro/"><u>[Updated] In 2024, FaceSave Videorecorder Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-13c-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi 13C 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/pcdjs-lyrx-18-update-now-available-premium-karaoke-software-with-improved-sound-engine-plus-additional-functions-secure-installation-offer/"><u>PCDJ's LYRX 1.8 Update Now Available: Premium Karaoke Software with Improved Sound Engine + Additional Functions | Secure Installation Offer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-x50-gt-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor X50 GT? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-lava-agni-2-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lava Agni 2 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-utilizing-anthropics-claude-tools/"><u>Step-by-Step: Utilizing Anthropic's Claude Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-x50iplus-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor X50i+ Device</u></a></li>
+</ul></div>
 

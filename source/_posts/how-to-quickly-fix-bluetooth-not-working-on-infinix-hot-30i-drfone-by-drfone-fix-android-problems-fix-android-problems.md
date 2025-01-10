@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Infinix Hot 30i | Dr.fone
-date: 2024-07-14T06:11:18.592Z
-updated: 2024-07-15T06:11:18.592Z
+date: 2025-01-03T18:38:10.019Z
+updated: 2025-01-10T16:57:13.320Z
 tags: 
   - problems
 categories:
@@ -35,8 +35,6 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Infinix Hot 30i. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -113,9 +111,6 @@ Here’s how;
 3. Go through these settings and remove/delete/forget every connection on your device
 4. Now when you go to connect to a device using Bluetooth, repair the Infinix Hot 30i device, enter the passcode, and use a fresh paired connection.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.5 Use Bluetooth in safe mode
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
@@ -145,6 +140,10 @@ Here’s how to turn on your Bluetooth discoverable feature;
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Infinix Hot 30i device you’re trying to connect too
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.7 Exclude Bluetooth issues of the other device
 
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
@@ -165,6 +164,10 @@ By testing out another Bluetooth device to see if it will work with your preferr
 One of the common misconceptions of Bluetooth is just how far the wireless range is of the service. You need to make sure your devices are well and truly close to each other to make sure a stable connection can be formed.
 
 The further away the Infinix Hot 30i devices are from each other, the less likely the connection will remain secure. As a rule of thumb, Bluetooth can work up to 100 meters, but to play it safe, always try and keep your devices under 50m apart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.9 Avoid interference of other Bluetooth sources
 
@@ -209,7 +212,9 @@ Any error that occurs during downloading or installation process not only hinder
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -279,10 +284,11 @@ Working with an old operating system is ok, but many times old version also crea
 - \>Click on Update
 - \>Need to click on Install (if any update is available)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update](https://images.wondershare.com/drfone/article/2017/06/14976276197089.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Solution 4: Clearing the cache memory from Google services Framework and Google play store**
 
@@ -320,9 +326,6 @@ The reason behind the installation error code 505 might be Google play store upd
 
 Due to continuous updation of new apps and services Google Play store used to be flooded with so many updates or sometimes does not updated properly. That sometimes caused the problem in dealing with app installation. Resolving the issue is important to make your play store ready for future updation and installation.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google Play store](https://images.wondershare.com/drfone/article/2017/06/14976277251819.jpg)
 
 - \>Go to Settings
@@ -348,10 +351,11 @@ Note: If still, you are in the state of trouble to solve the issue of error code
 
 Or call them at their call center number regarding the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![call center number](https://images.wondershare.com/drfone/article/2017/06/14976278809798.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus FAQ about Google Play error
 
@@ -381,11 +385,19 @@ However, sometimes the five simple couldn’t work anymore. A system repair soft
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Solved] Warning: Camera Failed on Infinix Hot 30i
 
 In this article, you will learn why camera fails on Infinix Hot 30i devices, how to make camera work again, as well as a system repair tool to fix this issue in few clicks.
 
 [![](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Infinix Hot 30i devices are one of the best Android devices available in the market and their users are always satisfied with their features. However, it is a recent observation that many Infinix Hot 30i users complain about Infinix Hot 30i camera failed error while using the camera App on the Infinix Hot 30i device. It is a strange error and pops up suddenly with only one option to tap on, i.e., “OK”
 
@@ -410,8 +422,6 @@ There might be much more reasons for the camera failed error, but these are the 
 ## Part 2: How to fix Infinix Hot 30i Camera Failed in One Click?
 
 If you are experiencing some kind of issues in your Infinix Hot 30is such as Infinix Hot 30i camera failed, the Infinix Hot 30i device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Infinix Hot 30i devices and perform a complete system repair so the Infinix Hot 30i device starts working normally.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -482,9 +492,6 @@ Simply, follow the instructions given below to remove Apps from Infinix Hot 30i 
 
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to fix Camera Failed error by wiping Cache Partition?
 
 This method might seem tedious and time-consuming and you may also lose your data and essential settings. However, wiping the Cache Partition only cleans your device system internally and gets rid off any unwanted and trouble making elements causing Warning: Camera Failed error. Follow the step-by-step guide given below to clean Cache Partition smoothly:
@@ -492,6 +499,10 @@ This method might seem tedious and time-consuming and you may also lose your dat
 1\. Firstly, switch off the Infinix Hot 30i device by pressing the power button and tapping on “Power Off” as shown in the screenshot below. Then wait for the lit screen to turn off completely before proceeding further.
 
 ![power off device](https://images.wondershare.com/drfone/article/2017/07/14997067521730.jpeg "power off device")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. Now, press and hold the power on/off, home and volume up button simultaneously. Your device will now vibrate. This a signal to let go of the power button (only).
 
@@ -504,6 +515,10 @@ This method might seem tedious and time-consuming and you may also lose your dat
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You may try to use the camera app once the process completes.
 
@@ -518,6 +533,10 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
 
 ![camera settings](https://images.wondershare.com/drfone/article/2017/07/14997069036741.jpeg "camera settings")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Now look for “Reset Settings” options and click on it.
 
@@ -551,9 +570,6 @@ Note: You will have to set up your Infinix Hot 30i device from scratch once it i
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Infinix Hot 30i devices.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -566,9 +582,20 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-making-your-mark-on-facebooks-algorithmic-landscape/"><u>[Updated] In 2024, Making Your Mark on Facebook's Algorithmic Landscape</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-achieving-livestream-control-fifteen-innovative-techniques/"><u>2024 Approved Achieving Livestream Control Fifteen Innovative Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-peering-into-the-digital-universe-what-is-vr/"><u>2024 Approved Peering Into the Digital Universe What Is VR?</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-tips-for-turning-off-thumbnail-previews-in-flipbooks-with-flipbuilder-software/"><u>Expert Tips for Turning Off Thumbnail Previews in Flipbooks with FlipBuilder Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-xr-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone XR</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-s17-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo S17 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-asus-rog-phone-8-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Asus ROG Phone 8 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-microsoft-edge-from-crashing-on-your-windows-11-system/"><u>How to Stop Microsoft Edge From Crashing on Your Windows 11 System</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-xiaomi-redmi-note-13-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Xiaomi Redmi Note 13 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-venture-outside-of-tiktok-with-these-top-video-app-picks/"><u>In 2024, Venture Outside of TikTok with These Top Video App Picks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/wiederherstellung-verlorener-dateien-in-windows-11-funf-bewahrte-strategien-fur-den-effektiven-datenwiederaufbau/"><u>Wiederherstellung Verlorener Dateien in Windows 11: Fünf Bewährte Strategien Für Den Effektiven Datenwiederaufbau</u></a></li>
+</ul></div>
 

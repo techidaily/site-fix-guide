@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Vivo Y28 5G | Dr.fone
-date: 2024-07-14T06:14:54.297Z
-updated: 2024-07-15T06:14:54.297Z
+date: 2025-01-08T17:49:41.276Z
+updated: 2025-01-10T18:09:43.611Z
 tags: 
   - problems
 categories:
@@ -20,9 +20,6 @@ Fortunately, despite there being many reasons why a problem could occur to your 
 
 Let’s get straight into it!
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. About Bluetooth Not Working on Android
 
 Of course, the most common problem to occur with Bluetooth technology in your Vivo Y28 5G is when it doesn’t connect to the Vivo Y28 5G device you’re trying to link it to. This could be anything from a Bluetooth headset or headphones, to a portable speaker or even an in-car audio system.
@@ -38,8 +35,6 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Vivo Y28 5G. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -65,9 +60,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
@@ -105,6 +97,10 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 3. Tap the Clear Cache option
 4. Go back of the Menu and restart your phone
 5. Now turn your Bluetooth feature on and turn connecting it to your preferred device
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.4 Remove paired devices
 
@@ -148,9 +144,6 @@ Here’s how to turn on your Bluetooth discoverable feature;
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Vivo Y28 5G device you’re trying to connect too
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.7 Exclude Bluetooth issues of the other device
 
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
@@ -181,8 +174,6 @@ The final consideration you’ll want to think about is that Bluetooth radio wav
 With this in mind, you’ll want to make sure you’re limiting the amount of Bluetooth activity in the area where you’re trying to use a device. While uncommon, this could be the problem.
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Vivo Y28 5G to the Vivo Y28 5G device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
-
-
 
 ## How To Fix Unresponsive Touch Screen on Vivo Y28 5G
 
@@ -219,6 +210,10 @@ Some phone cases and screen protectors cause **touch problems** on your Android 
 A **touchscreen malfunctioning** can also be a sign of a dirty display. Since the screen relies on contact between your fingers and the touchpad to perform actions, this also applies to foreign particles such as dirt, debris, smudges, oil, and more. Clean your touchscreen with wipes or a soft cloth by gently wiping over the screen.
 
 ![android dirty screen](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Stop Using Your Android Device for a While
 
@@ -272,6 +267,10 @@ If doing all the earlier workarounds and fixes couldn’t resolve the **touchscr
 
 Your **phone touch problem** might not be caused by the screen, even when you had it replaced. If your Android is still unresponsive, it’s best to bring your smartphone to an authorized service center or directly to the phone manufacturer, especially when all efforts are exhausted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How To Fix Android Touch Problem With an Alternative
 
 If all the general **phone touch problems** on your Vivo Y28 5G persist, you should strongly consider [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) to do the job. The program can fix all Android system issues without any required skills. Problems caused by the operating system or software, such as the black screen of death, boot loop, ghost touch, and more, are done within less than 10 minutes with the program.
@@ -315,6 +314,10 @@ Follow the step-by-step guide below to start fixing general phone screen problem
 **Step 2:** Click **Start** to initiate the setup on a new window. From there, select the **Brand, Name, Model, Country,** and **Carrier** of your Vivo Y28 5G and click **Next**.
 
 ![dr.fone general phone screen problems 02](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: Follow the on-screen instructions on the main program window to initiate the repair process. After that, wait for your Android smartphone to return to its original state.
 
@@ -369,11 +372,13 @@ Flashing a dead Android phone might be skeptical for many users who have been in
 
 From battery issues to physical damage to the Vivo Y28 5G device, there can be many reasons your Vivo Y28 5G died. The reasons for a dead Android phone are not restricted to these points. There can be software-related issues or firmware issues that might cause such havoc on your Android.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to flash Vivo Y28 5G in one click
 
 While you are worried about how to flash Vivo Y28 5G instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Vivo Y28 5G logo.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -386,6 +391,10 @@ One-click solution to flash Vivo Y28 5G
 - It is one of its kind and the first one-click Android repair software on the market.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-step Tutorial
 
@@ -407,6 +416,10 @@ Step 3: On the Vivo Y28 5G device information screen, pick the appropriate devic
 
 ![choose brand info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Phase 2: Put the Android device in Download mode to start repair.**
 
 Step 1: It is essential to boot your Vivo Y28 5G in Download mode before repairing.
@@ -426,6 +439,10 @@ Step 2: Press the ‘Next’ button for initiating firmware download.
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -451,15 +468,16 @@ Step 3: In this step, download the latest version of Odin on your PC and move it
 
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
 
 ![boot in download mode](https://images.wondershare.com/drfone/article/2017/07/14991897353612.jpg)
 
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android download mode](https://images.wondershare.com/drfone/article/2017/07/14991897566586.jpg)
 
 Step 6: Now, you may use a USB to connect your Vivo Y28 5G to the PC. Odin will recognize your device, and in the Odin window, you will see a message saying “Added”.
@@ -536,12 +554,13 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 
 **Step 2:** As the Android boot menu opens on your screen, use the “Volume Down” and “Volume Up” keys to scroll up and down the menu. On accessing the “Wipe Data/Factory Reset” option, use the “Power” key to select the particular option.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose wipe data factory reset option](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-1.jpg)
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7: How to flash a dead Android phone by checking screen faulty
 
@@ -569,7 +588,6 @@ It has been observed that Wondershare Dr.Fone – System Repair (Android) assist
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -582,9 +600,17 @@ Carefully follow the instructions given, and you will be able to reboot your dea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-8-best-zombie-games/"><u>[Updated] The 8 Best Zombie Games</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb-for-2024/"><u>[Updated] Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB) for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-resolving-blue-screen-error-0x0000003b-a-comprehensive-guide-to-fixing-the-critical-process-died-issue/"><u>Diagnosing and Resolving Blue Screen Error 0X0000003B - A Comprehensive Guide to Fixing the Critical Process Died Issue</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-a58-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo A58 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-3-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord 3 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-motorola-moto-g04-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Moto G04 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-differences-a-comprehensive-guide-through-level-1-2-and-3-ev-charging/"><u>Unlock the Differences: A Comprehensive Guide Through Level 1, 2 & 3 EV Charging</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-top-free-3d-animation-apps-for-mobile/"><u>Updated Unleash Your Creativity Top Free 3D Animation Apps for Mobile</u></a></li>
+</ul></div>
 

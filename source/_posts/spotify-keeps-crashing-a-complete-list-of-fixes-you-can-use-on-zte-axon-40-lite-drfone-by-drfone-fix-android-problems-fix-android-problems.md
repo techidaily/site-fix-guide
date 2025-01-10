@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on ZTE Axon 40 Lite | Dr.fone
-date: 2024-12-20T00:54:30.166Z
-updated: 2024-12-25T09:44:42.275Z
+date: 2025-01-03T18:24:30.860Z
+updated: 2025-01-10T17:30:46.587Z
 tags: 
   - problems
 categories:
@@ -59,10 +59,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![select your android model in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 6:** Tick the **“I agree with the warning, and I am ready to proceed”**checkbox and click **Next**.
 - **Step 7:** Put your Android in **Download Mode**. You can find the steps below these instructions.
 - **Step 8:** The program will automatically download once you put the phone in Download Mode.
@@ -90,6 +86,10 @@ There are two ways to enter Download Mode: one for Android devices with the Home
 The steps for entering Download Mode on an Android phone with the Home button are as follows:
 
 ![enter download mode with the home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1:** Turn off your phone.
 - **Step 2:** Press and hold the **Volume Down**,**Home**, and **Power** buttons simultaneously.
@@ -147,7 +147,7 @@ Another way to stop Spotify from crashing can be restarting your Android. The st
 ![restart android to fix spotify crashing](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5. Set Up Your Time and Date
@@ -208,10 +208,6 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 
 ![available storage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
 
 ### 9. Reinstall Spotify
@@ -229,6 +225,10 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 - **Step 6:** Tap **Install**to reinstall the app again.
 
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
@@ -255,10 +255,6 @@ When using different apps and websites, your device caches data from those sourc
 
 ![settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-22.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** Go to **Apps**.
 - **Step 3:** Find **Spotify** and tap it.
 
@@ -274,6 +270,10 @@ When using different apps and websites, your device caches data from those sourc
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 If your Spotify app keeps crashing, several reasons might be behind it. For instance, your storage space might be at capacity, your system might need an update, your phone might have a software bug, or the Spotify server might be down.
@@ -287,10 +287,6 @@ There is no doubt that it is quite frustrating when your device buttons, such as
 ## Part 1: 4 Common Measures to Fix Home Button Not Working Android
 
 Here, we are going to mention four common methods that you can try to resolve the home button problem on your ZTE Axon 40 Lite with ease.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.1 One click to fix Android Home Button Not Working
 
@@ -345,7 +341,7 @@ Step 2: Next, press the power button for a few moments to force restart your dev
 ![home button not working android - force restart](https://images.wondershare.com/drfone/article/2019/02/force-restart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1.3 Restore Factory Settings
@@ -376,11 +372,19 @@ Step 2: After that, click “Check for updates” and if updates are available, 
 
 When your Android home and back button not working because of hardware reasons, you can’t get the problem resolved by simply rebooting your device. In such cases, you have to use alternative apps to replace the home button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 Simple Control app
 
 The Simple Control app is the first and foremost solution to fix the Android home button not working issue. With the help of this app, you can fix many soft keys of your device. It is specially designed for Android users facing trouble using home, volume, back, and camera buttons. Plus, the app utilizes Accessibility service, but it doesn’t get access to your sensitive and personal information.
 
 ![simple control app](https://images.wondershare.com/drfone/article/2019/02/simple-control-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Pros:
 
@@ -398,6 +402,10 @@ URL: [https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en\
 Button Savior app is one of the ultimate apps that can help you to fix the Android home button not working problem with ease. For this app, root and no root versions are available on the Google Play store. To fix the Home button not working issue, no root version is the right one. But, if you want to fix the Back button or other buttons, then you need to go for the root version.
 
 ![button savior](https://images.wondershare.com/drfone/article/2019/02/button-savior-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Pros:
 
@@ -470,10 +478,6 @@ URL: [https://play.google.com/store/apps/details?id=com.home.button.bottom](http
 
 Hopefully, the methods covered in this post helps you to fix Android home and back button not working problem for you. If it is a system issue, then the best thing you can do is to take advantage of Dr.Fone - System Repair (Android) software. It can surely help you to fix your Android system to normal within a few minutes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix Android App Not Installed Error on ZTE Axon 40 Lite Quickly?
 
 App not installed on Android is no more an unknown Error Code during Application installation as many people experience it on a day-to-day basis. An "Application not installed" error message usually pops up when you are trying to download and install an App with a .apk file extension from somewhere other than the Google Play Store. The error is very confusing at first but makes sense when you realize that this unknown Error Code during Application installation is neither a software issue nor a hardware problem. It is a direct outcome of what you do with your device. Yes, you heard that right. Your faulty actions can cause Android App not installed error.
@@ -543,10 +547,6 @@ A powerful tool to fix the "Android App not installed" error in one click
 
 ![fix Android App not installed error using a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Select the "Android" option and click "Start".
 
 ![fix Android App not installed error - select Android Repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -559,15 +559,15 @@ A powerful tool to fix the "Android App not installed" error in one click
 
 ![fix Android App not installed error in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. After the firmware is downloaded, the tool will start to repair your Android, hereby fixing the "Android App not installed" error.
 
 ![fix Android App not installed error after firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 ![safe Download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to fix App not installed error on Android
 
@@ -611,10 +611,6 @@ You can now restart your device and try to install the app now, it should work!
 
 It is advisable to not tamper with the App’s location and let the software decide where it needs to be placed. As far as possible, let the Apps be in your device’s internal memory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### #5. Format SD Card
 
 The chances of your SD Card being corrupted are very high. You can format it either while it is in your device or externally.
@@ -637,6 +633,10 @@ Finally, if nothing else works, restart your device to end all operations which 
 
 ![restart device](https://images.wondershare.com/drfone/article/2017/07/14994442937664.jpg "restart device")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Encountering the "App Not Installed" error on Android can be frustrating, but by understanding the causes and implementing the appropriate solutions, you can overcome this issue. We saw that Android App not installed error can be fixed quickly if you keep in mind the tips given in this article. However, please ensure that you follow each instruction carefully to avoid any further goof up.
@@ -657,22 +657,18 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/get-now-latest-graphics-cards-download-geforce-rtx-3080-driver-for-win1087-systems/"><u>[Get Now] Latest Graphics Cards: Download GeForce RTX 3080 Driver for Win10/8/7 Systems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-supercharge-your-smartphones-video-quality/"><u>[New] Supercharge Your Smartphone's Video Quality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-no-8-virtual-pixel-mashup-software/"><u>[Updated] No. 8 Virtual Pixel Mashup Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nubia-red-magic-9-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nubia Red Magic 9 Pro Phone When You Forget the Password</u></a></li>
-<li><a href="https://extra-information.techidaily.com/delving-into-the-strengths-of-yuneecs-typhoon-h-drone/"><u>Delving Into the Strengths of Yuneec's Typhoon H Drone</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-f34-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy F34 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-s24-ultra-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy S24 Ultra Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-budget-deals-on-high-quality-gopros/"><u>In 2024, Budget Deals on High-Quality GoPros</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-c110-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia C110 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-xiaomi-mix-fold-3-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi Mix Fold 3 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-glitches-solved-dell-monitor-issues/"><u>No More Glitches: Solved Dell Monitor Issues</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-10t-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 10T 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-for-successful-age-of-empires-iv-installation/"><u>Resolved: Troubleshooting Steps for Successful 'Age of Empires IV' Installation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24plus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boosting-subscriber-commitment-top-strategies-for-keeping-viewers-coming-back-on-youtube/"><u>[New] 2024 Approved Boosting Subscriber Commitment Top Strategies for Keeping Viewers Coming Back on YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/levate-your-youtube-content-with-7-premium-free-audio-sounds/"><u>[New] Elevate Your YouTube Content With 7 Premium, Free Audio Sounds</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-androids-creme-de-la-creme-for-fast-vid-fixing-for-2024/"><u>[Updated] Android's Crème De La Crème for Fast Vid Fixing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-seamless-inshot-edits/"><u>[Updated] Mastering the Art of Seamless Inshot Edits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-photopea-blueprint-for-flawless-image-backdrop/"><u>[Updated] The Photopea Blueprint for Flawless Image Backdrop</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-itel-p55plus-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Itel P55+ in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-s18-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo S18 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-itel-s23-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-free-mp4-split-tools-discover-the-top-7-choices-for-windows-and-mac-os-x/"><u>Ultimate Guide to Free MP4 Split Tools - Discover the Top 7 Choices for Windows and Mac OS X</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-list-of-the-top-8-phone-game-titles/"><u>Ultimate List of the Top 8 Phone Game Titles</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/unleash-the-power-of-iphone-n-14-visuals-with-yl-computings-exclusive-image-library/"><u>Unleash the Power of iPhone N 14 Visuals with YL Computing's Exclusive Image Library!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/user-guide-to-navigating-the-apple-books-digital-library/"><u>User Guide to Navigating the Apple Books Digital Library</u></a></li>
 </ul></div>
 

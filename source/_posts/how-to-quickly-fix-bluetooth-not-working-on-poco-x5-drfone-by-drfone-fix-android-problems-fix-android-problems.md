@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Poco X5 | Dr.fone
-date: 2024-07-14T06:13:09.890Z
-updated: 2024-07-15T06:13:09.890Z
+date: 2025-01-05T17:50:27.584Z
+updated: 2025-01-10T18:48:46.761Z
 tags: 
   - problems
 categories:
@@ -36,8 +36,6 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Bluetooth issues in one click
@@ -58,9 +56,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step Two** Connect your Poco X5 to your computer using the USB cable, wait a couple of seconds, and then click the System Repair option. On the Menu on the left, click Android Repair, and then press Start.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![bluetooth not working on android - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
@@ -105,9 +100,6 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 
 ### 2.4 Remove paired devices
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - remove paired devices](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-paried.jpg)
 
 Sometimes, you may have a problem with the Poco X5 device you’re trying to connect to via Bluetooth, especially if this is a device you’ve updated. To counter and repair this, you’re going to need to remove the paired devices saved with your device and then reconnect them.
@@ -162,8 +154,9 @@ By testing out another Bluetooth device to see if it will work with your preferr
 4. If the Poco X5 devices connect, you’ll know there’s a problem with your Poco X5
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.8 Place both devices within close proximity
 
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
@@ -181,6 +174,10 @@ The final consideration you’ll want to think about is that Bluetooth radio wav
 With this in mind, you’ll want to make sure you’re limiting the amount of Bluetooth activity in the area where you’re trying to use a device. While uncommon, this could be the problem.
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Poco X5 to the Poco X5 device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Home Button Not Working on Poco X5? Here Are Real Fixes
 
@@ -228,9 +225,6 @@ Step 4: After that, the software will download the appropriate firmware to repai
 
 Step 5: After downloading the firmware, the software will start the repair process. Wait for a few seconds, the problem should get fixed and your phone will get back to its normal state.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![home button not working android - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ### 1.2 Force Restart your Android
@@ -244,6 +238,10 @@ Step 1: To begin with, press and hold the power button and either volume up or d
 Step 2: Next, press the power button for a few moments to force restart your device.
 
 ![home button not working android - force restart](https://images.wondershare.com/drfone/article/2019/02/force-restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.3 Restore Factory Settings
 
@@ -268,6 +266,10 @@ Step 1: Open the Settings and then, go to “About device”. Next, click “Sys
 Step 2: After that, click “Check for updates” and if updates are available, then download and install it to update your Android version.
 
 ![home button not working android - update android](https://images.wondershare.com/drfone/article/2019/02/update-firmware.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: What if the Home Button fails due to hardware reasons?
 
@@ -295,6 +297,10 @@ URL: [https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en\
 Button Savior app is one of the ultimate apps that can help you to fix the Android home button not working problem with ease. For this app, root and no root versions are available on the Google Play store. To fix the Home button not working issue, no root version is the right one. But, if you want to fix the Back button or other buttons, then you need to go for the root version.
 
 ![button savior](https://images.wondershare.com/drfone/article/2019/02/button-savior-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Pros:
 
@@ -327,6 +333,10 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=nu.nav.bar](https://play.google.com/store/apps/details?id=nu.nav.bar)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.4 Home Button app
 
 Home button app is another remarkable solution to replace broken and failed home buttons for users having trouble while using buttons. With this app, it is quite easy to press or even long press on the home button as assistive touch.
@@ -345,6 +355,10 @@ Cons:
 - Sometimes, it shuts down automatically.
 
 URL: [https://play.google.com/store/apps/details?id=nu.home.button](https://play.google.com/store/apps/details?id=nu.home.button)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.5 Multi-action Home Button app
 
@@ -433,6 +447,10 @@ If you are using this Android device, you can enable the screen capture feature 
 
 ![android app settings interface](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Choose **Special access** > **All files access**.
 
 ![android apps special access settings](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-05.jpg)
@@ -464,6 +482,10 @@ Use Google Assistant
 With Google Assistant, taking screenshots on your Poco X5 is now easier than ever. Just say, “Hey, Google, take a screenshot,” Google Assistant will capture the screen and save it to your gallery.
 
 ![google assistant command](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use a Third-Party App To Take Screenshots
 
@@ -523,9 +545,6 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 1:** Once you have downloaded Dr.Fone, install it and launch it on your desktop. Then, connect your Poco X5 to your desktop using a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,567,199** people have downloaded it
@@ -533,6 +552,10 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 - **Step 2:** From the **Toolbox** homepage, select **System Repair** > **Android**.
 
 ![dr.fone toolbox selection interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Click **Start** on the new window.
 
@@ -574,9 +597,6 @@ Although there are ways to bypass the “**Can’t take screenshot due to securi
 
 If you think the issue is with your Android system, or your device becomes bricked after trying other methods, experiencing app crashes, or otherwise malfunctioning, try using the Dr.Fone System Repair tool. It is worth trying and can fix most Android system issues in a few minutes.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -589,9 +609,21 @@ If you think the issue is with your Android system, or your device becomes brick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-blur-faces-or-objects-in-youtube-videos/"><u>[New] How to Blur Faces or Objects in YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revive-your-phone-top-tips-for-missing-iphone-x/"><u>[New] Revive Your Phone Top Tips for Missing iPhone X</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ignite-your-screenplay-essential-wins11-apps-and-games-for-2024/"><u>[Updated] Ignite Your Screenplay Essential Wins11 Apps & Games for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-master-the-art-of-video-editing-with-top-7-sounds-selections-for-2024/"><u>[Updated] Master the Art of Video Editing with Top 7 Sounds Selections for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-creative-splitscreens-in-youtube-filmmaking/"><u>2024 Approved Mastering Creative Splitscreens in YouTube Filmmaking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-podcast-acquisition-on-apple-devices/"><u>2024 Approved Mastering Podcast Acquisition on Apple Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-online-movie-making-software-top-picks/"><u>Free Online Movie Making Software Top Picks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-save-spotify-playlists-as-editable-text-files-for-offline-use/"><u>How To Save Spotify Playlists as Editable Text Files for Offline Use</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-moto-g13-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Moto G13 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-microsoft-store-hiccup-0x80131500/"><u>Remedying Microsoft Store Hiccup 0X80131500</u></a></li>
+</ul></div>
 

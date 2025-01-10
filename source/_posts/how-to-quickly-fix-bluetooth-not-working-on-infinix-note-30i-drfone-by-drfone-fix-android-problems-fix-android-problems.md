@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Infinix Note 30i | Dr.fone
-date: 2024-07-14T06:11:25.489Z
-updated: 2024-07-15T06:11:25.489Z
+date: 2025-01-04T18:12:07.429Z
+updated: 2025-01-10T18:57:44.104Z
 tags: 
   - problems
 categories:
@@ -20,9 +20,6 @@ Fortunately, despite there being many reasons why a problem could occur to your 
 
 Let’s get straight into it!
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. About Bluetooth Not Working on Android
 
 Of course, the most common problem to occur with Bluetooth technology in your Infinix Note 30i is when it doesn’t connect to the Infinix Note 30i device you’re trying to link it to. This could be anything from a Bluetooth headset or headphones, to a portable speaker or even an in-car audio system.
@@ -38,8 +35,6 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Infinix Note 30i. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -75,13 +70,14 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Infinix Note 30i and start using it and your Bluetooth features.
 
 ### 2.2 Restart Android and turn on Bluetooth again
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
 
 One of the most common solutions in technology is simply to turn it on and off again, which is the case to happen here. By restarting your device, you can clear out any problems you may be suffering from to help it get up and running again. Here’s how;
@@ -135,6 +131,10 @@ Here’s how to find out;
 4. Wait a minute on the Main Menu
 5. Now turn on your Bluetooth and connect it to your preferred device
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.6 Turn on the discoverable feature
 
 ![android bluetooth problems - discoverable feature](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-discoverable.jpg)
@@ -163,19 +163,11 @@ By testing out another Bluetooth device to see if it will work with your preferr
 
 ### 2.8 Place both devices within close proximity
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One of the common misconceptions of Bluetooth is just how far the wireless range is of the service. You need to make sure your devices are well and truly close to each other to make sure a stable connection can be formed.
 
@@ -207,9 +199,17 @@ The first thing you can do to fix Gmail not responding issue is to clear the cac
 
     ![gmail not working android - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Now, from the apps list, search “Gmail” and tap on it.
 
     ![gmail not working android - search gmail](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Go to “Storage” followed by “Clear Cache”.
 
@@ -227,6 +227,10 @@ The next option that you can try is resetting your device. This will lead to dat
 
     ![gmail not working android - go to backup and reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Tap on “Reset” or “Erase all data” (the option name again may vary).
 
 If unfortunately the above solutions don’t work, there is a requirement to flash the stock Android ROM again. Before you wonder how, there is a professional one-click tool that can surely be of assistance. It is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). The tool takes special care of the Android phones and fixes almost every system issues with ease. It takes no special technical skills and performs efficiently.
@@ -236,6 +240,10 @@ If unfortunately the above solutions don’t work, there is a requirement to fla
 ## Problem 2: Gmail won’t sync between all ends
 
 The next most common problem where people get stuck with is when there Gmail won’t sync. Here are the solutions to this particular problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Make Space in the Phone
 
@@ -262,9 +270,6 @@ Again, restarting can also be helpful in this situation. When you boot the Infin
 
 In case you are using the Gmail over your web browser and it has tested your patience in loading, here are the solutions that could prove to be fruitful for you. Please check these out.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ensure to Use Gmail Supported Browser
 
 First of all, you need to make sure that the browser you are using works with Gmail or not. Gmail can smoothly perform in Google Chrome, Firefox, Safari, Internet Explorer and Microsoft Edge. However, the browsers should be updated. So, please make sure that these browsers are running on the latest versions. Moreover, in case you use Chromebook, don’t forget to update the operating system in order to let it support Gmail.
@@ -311,6 +316,10 @@ Now, here is another annoying problem that doesn’t let Gmail working on Androi
 
 First of all, if Gmail is not working due to stuck in sending issue, we advise you to make use of some other Gmail address to send the mail. If the problem still occurs, jump to the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Network Connection
 
 As already mentioned, be sure of an active internet connection while working with Gmail. When you are not using a stable connection, it may lead to stuck on sending, Gmail crashing and many other issues. You can fix the issue by doing these three things:
@@ -345,6 +354,10 @@ As another solution, check Gmail sync settings to get the issue fixed.
 3. See the tiny box beside “Sync Gmail” and check it if it is not.
 
 ![Gmail not responding - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart the Infinix Note 30i device
 
@@ -405,9 +418,6 @@ Here’s an alternative way:
 - **Step 1:** Open the **Settings** app and go to **Notifications**.
 - **Step 2:** Tap **Do not disturb**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![notifications settings interface](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-03.jpg)
 
 - **Step 3:** Toggle **Do Not Disturb** offto disable the mode.
@@ -423,6 +433,10 @@ One reason calls go **straight to voicemail without ringing** is if you enabled 
 - **Step 2:** Navigate to **Supplementary services** > **Call forwarding**.
 
 ![call settings supplementary services](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Disable Call Barring
 
@@ -585,9 +599,6 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 **4,215,287** people have downloaded it
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -600,9 +611,22 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-art-of-viral-youtube-shorts-content/"><u>[New] Mastering the Art of Viral YouTube Shorts Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-youtube-live-streaming-software-and-hardware-you-should-know-for-2024/"><u>[Updated] Best YouTube Live Streaming Software and Hardware You Should Know for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-and-correcting-windows-compatibility-problems-with-battlenet-launcher/"><u>Addressing and Correcting Windows Compatibility Problems with Battle.net Launcher</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dawn-evaluation-non-conformist-thoughts/"><u>Dawn Evaluation Non-Conformist Thoughts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715684287817-how-to-use-markers-in-video-recording-and-editing/"><u>How to Use Markers in Video Recording and Editing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-11f-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 11F 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-common-windows-11-pc-resetting-challenges-fixing-there-was-a-problem-errors-simply-and-effectively/"><u>Overcoming Common Windows 11 PC Resetting Challenges: Fixing There Was a Problem Errors Simply and Effectively</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-xiaomi-redmi-note-13-proplus-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Redmi Note 13 Pro+ 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-x50-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor X50 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-narzo-60-pro-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme Narzo 60 Pro 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-asus-rog-phone-7-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Asus ROG Phone 7 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unusual-sideway-photos-in-instagram-storytelling/"><u>Unusual Sideway Photos in Instagram Storytelling</u></a></li>
+</ul></div>
 

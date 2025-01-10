@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor 100 Screen Not Working | Dr.fone
-date: 2024-07-14T06:15:47.947Z
-updated: 2024-07-15T06:15:47.947Z
+date: 2025-01-08T16:46:24.053Z
+updated: 2025-01-10T16:11:33.389Z
 tags: 
   - problems
 categories:
@@ -94,9 +94,17 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 6. Replace the Old Screen with A New Screen
 
 If none of the above-mentioned fixes have worked so far, you should replace the touch screen. Replacing the touch screen is recommended in case of hardware and severe software issues. However, it can be quite an expensive fix as new touch screens aren't cheap. The prices for new touchscreens differ depending on the model. These prices start from $20 and go up to hundreds of dollars.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Avoid Honor 100 Screen being Unresponsive?
 
@@ -110,6 +118,10 @@ Protecting your Honor 100 device against system issues like touch not working is
 A new version of Dr.Fone is expected to release in the latter half of this month. The new version will include many improvements, advanced features, and increased device support. Furthermore, it will also have a better and more user-friendly interface.
 
 ![dr.fone phone toolbox](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -131,9 +143,6 @@ Experiencing a **cell phone blank screen** is not exclusive to Android or iOS us
 
 The first thing that comes to mind when your **phone screen suddenly goes black** is you have a drained battery. Even though this is obvious, it’s still important to mention, as this is usually what most people encounter. To fix this problem, plug your smartphone into a charger and wait for your device to turn on again. If it works, then you just prevented a rather annoying experience.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drained iphone battery](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-02.jpg)
 
 ### App Troubles
@@ -153,6 +162,10 @@ If you dropped your phone, there’s a high chance the LCD connectors went loose
 ## Part 2: How To Fix Black Screen on Your Phone
 
 Here are four valuable methods you should know on **what to do when your phone screen goes black** on your iPhone or Android smartphone to get them working again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Force Restart your Android/iOS Smartphone
 
@@ -226,9 +239,6 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 **Step 2:** Next, choose **Erase All Content and Settings**. Check the list of items you want to remove.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios erase all content and settings](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-08.jpg)
 
 **Step 3:** Tap **Continue** and enter your iPhone passcode. A message warns you that the process will delete all media and data and reset all settings.
@@ -241,6 +251,10 @@ If **your phone screen went black but still works** and doing the methods above 
 
 ![drfone system repair main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features
 
 Dr.Fone – System Repair for iOS and Android has fantastic features you can immediately take advantage of. Here are its key features below.
@@ -252,6 +266,10 @@ Dr.Fone – System Repair can fix all kinds of issues on your Android/iOS, such 
 - **Supports up to 1000+ Android Smartphones and the latest iOS**
 
 All iOS versions, including the latest iOS 16 and iOS 16 beta, are fully supported by Dr.Fone – System Repair. The app handles all your smartphone issues without data loss to secure your info. On the other hand, if you own an Android, the app supports up to 1000+ Android smartphones, making it highly versatile for Android owners.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tech Specs
 
@@ -300,12 +318,17 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![drfone system repair process complete](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,262,204** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -313,11 +336,6 @@ Our increasing reliance on smartphones has led to amazing advancements in new te
 
 Doing all the recommended methods above usually solves the case. If the different fixes don’t work for you, Dr.Fone – System Repair for iOS and Android can help resolve all your problems within less than 10 minutes. You can download it for free on Windows and Mac to test it yourself.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 Solutions to Fix Error 505 in Google Play Store on Honor 100
 
 In case you are receiving the error code 505 while downloading an application from Google play store and have no clue what is it, then this is the right article for you. In this article we are covering the reasons behind the occurrence of Google play error 505. Not only that, we are also providing 6 solutions to fix the error code 505. Usually, this error is seen with Android 5.0 Lollipop version and occurs at the time when you try to install the already downloaded application making it hard to run the app.
@@ -329,6 +347,10 @@ The occurrence chance is more in the old operating systems, 4 KitKat, Android ve
 ## Part 1: Reasons for Google Play error 505
 
 ![error 505](https://images.wondershare.com/drfone/article/2017/06/14976272942912.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As per the report by some users, error 505 occurs in certain apps such as Weather App, SBI, ITV, Adobe Air 15, We Chat etc.
 
@@ -350,8 +372,6 @@ Any error that occurs during downloading or installation process not only hinder
 #### **Solution 1: One click to make error code 505 disappear**
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -406,18 +426,6 @@ At the top, an option will appear
 
 \>Then Select Enable
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Application Manger](https://images.wondershare.com/drfone/article/2017/06/14976274734570.jpg)
 
 Enabling download manager to give permission to the Honor 100 device to start the download or installation process.
@@ -482,6 +490,10 @@ Due to continuous updation of new apps and services Google Play store used to be
 
 ![Click on Uninstalling Updates](https://images.wondershare.com/drfone/article/2017/06/14976277917398.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Solution 6: Third party App**
 
 In the case, error 505 occur due to the installation of two or more apps with duplicate permission of data, as many times we use to install two similar kind of app that creates the situation where both seeking out for somewhat similar permissions for the installation. The manual finding is a long and tiring process. Then you can take the assistance of ‘Lucky Patcher App’ to find out which app is creating the conflict. This app will assist you in finding out the duplicity if any and then modifying it. Through this app, once you will find out which particular app is causing the conflict, then you can delete that conflicting app from your phone so that problem of error code 505 gets sort out.
@@ -526,7 +538,6 @@ However, sometimes the five simple couldn’t work anymore. A system repair soft
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -539,9 +550,22 @@ Not being able to download or install the app is very frustrating and time-consu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-upgrading-made-easy-your-guide-to-smooth-tech-transitions/"><u>[New] In 2024, Upgrading Made Easy Your Guide to Smooth Tech Transitions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-starting-a-podcast-financial-planning-essentials/"><u>[New] Starting a Podcast Financial Planning Essentials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-augmented-reality-on-android-a-step-towards-future-viewing/"><u>[Updated] Augmented Reality on Android - A Step Towards Future Viewing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-yourselfie-instagrams-verification-essentials/"><u>[Updated] In 2024, Mastering Yourselfie Instagram's Verification Essentials</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-maximize-impact-on-snapchat-with-these-15-strategies/"><u>[Updated] Maximize Impact on Snapchat With These 15 Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ez-grabber-user-manual-in-a-nutshell/"><u>[Updated] The EZ Grabber User Manual in a Nutshell</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-soundtrack-of-stills-visual-audio-crafting/"><u>[Updated] The Soundtrack of Stills Visual-Audio Crafting</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-gt-10-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix GT 10 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-12plus-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme 12+ 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y78-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y78 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-moto-g14-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Moto G14 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-y17s-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y17s Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo V29 Pro | Dr.fone</u></a></li>
+</ul></div>
 

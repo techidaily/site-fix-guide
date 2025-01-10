@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Vivo Y36 | Dr.fone
-date: 2024-07-14T06:14:55.410Z
-updated: 2024-07-15T06:14:55.410Z
+date: 2025-01-04T17:36:46.825Z
+updated: 2025-01-10T16:11:57.664Z
 tags: 
   - problems
 categories:
@@ -36,8 +36,6 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Bluetooth issues in one click
@@ -63,6 +61,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
 
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
 
@@ -116,6 +118,10 @@ Here’s how;
 ### 2.5 Use Bluetooth in safe mode
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you’re having problems with your connection and paired devices, sometimes you may have conflicting software faults in your device that are causing the problems. If this is the case, you’ll need to boot your Vivo Y36 in Safe Mode.
 
@@ -181,13 +187,16 @@ This comprehensive guide aims to the reasons behind Android phones becoming bric
 
 ![man holding a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-01.jpg)
 
-
 ## Part 1. What are Brick Phones: At a Glance
 
 The term "**bricked phone**" is used when a device becomes non-functional. This is typically due to a critical software or firmware error. There are two distinct scenarios for encountering a bricked phone: a soft brick and a hard brick.
 
 - **Soft Brick**. A soft brick entails a phone that's not operational due to software glitches or conflicts but is not irreparable.
 - **Hard Brick**.A hard brick signifies a more dire situation. This is where the phone becomes inoperable, resembling an actual brick in terms of functionality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Common Causes of a Cell Phone Bricking
 
@@ -222,6 +231,10 @@ Below are solutions that you can employ to fix various brick phone scenarios.
 ### Reverting Android Device to Factory Defaults (Soft Brick)
 
 A universal approach to trying to recover a **brick phone** exists for all Android phones. This is, consider restoring your device to its factory settings. You can find instructions specific to your phone model online. Although this procedure erases all your data, it's possible to regain the use of your brick phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Get in Touch With the Manufacturer (Hard Brick and Soft Brick)
 
@@ -285,6 +298,10 @@ Below are the steps to recover data on a bricked mobile phone.
 
 ![dr.fone following on-screen instructions](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Once the Vivo Y36 device enters Download Mode, the firmware will automatically start downloading. Follow the on-screen prompts and wait for the system to initiate the repair process. Once it concludes, the completion message will appear on the main window. Click **Done** to close the tool or click **Try again** to repeat the process.
 
 ![reviving brick phone process completion window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -298,8 +315,6 @@ Below are the steps to recover data on a bricked mobile phone.
 Fixing a **bricked phone** may seem daunting, but solutions are within reach. This page explained the distinctions between soft and hard brick scenarios. It also identified common causes and revealed effective methods for unbricking.
 
 Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. The tool offers a comprehensive toolkit for recovery and data rescue. The power to reclaim lost data lies in your hands. Act, follow the methods outlined, and recover your brick phone.
-
-
 
 ## 7 Fixes for "Unfortunately, Phone Has Stopped" on Vivo Y36
 
@@ -315,6 +330,10 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 - Infection through malware and virus on your phone is also included when the Phone app might crash.
 
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.1 Open the Phone app in Safe Mode
 
@@ -346,21 +365,13 @@ When the firmware is not updated, it may conflict with some apps and maybe that�
 1. Open "Settings" and go to "About Device".
 2. Now tap on "Software Updates" and check for the availability of the new update.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone app crashing - update firmware](https://images.wondershare.com/drfone/article/2023/05/samsung-android-update-shot.jpg)
 
 1. Download and install it and then try to use the Phone app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.5 Clear partition cache
 
@@ -378,12 +389,11 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -403,9 +413,6 @@ How to fix crashing Phone app using Dr.Fone - System Repair (Android)
 
 Click the "Start Download" button to download the tool on your computer, and then open the program to begin the repair, click on "System Repair".
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone app crashing - fix using a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Plug the Phone with PC**
@@ -413,6 +420,10 @@ Click the "Start Download" button to download the tool on your computer, and the
 Take your original USB cord and then connect your Vivo Y36 to the computer. When the Vivo Y36 device is connected, click on "Android" from the two tabs > click "Start"
 
 ![Phone app crashing - connect phone to pc](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Enter the Details**
 
@@ -424,10 +435,11 @@ As the next step, enter some important details on the next screen. Be sure to en
 
 Downloading firmware will be the next step. Prior to this, you have to go through the instructions given onscreen to enter the DFU mode. Please click on "Next" and the program will bring the suitable firmware version and start downloading it.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone app crashing - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Get the Vivo Y36 device Repaired**
 
@@ -445,13 +457,9 @@ If none of the above methods worked for you, the last resort you are left with i
 2. Look for "Factory data reset" and then tap on "Reset phone".
 3. Within a while, your device will go through resetting and boot up to normalcy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -465,9 +473,20 @@ If none of the above methods worked for you, the last resort you are left with i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamlining-screen-record-on-mac-via-keyboard-shortcuts/"><u>[New] 2024 Approved Streamlining Screen Record on Mac via Keyboard Shortcuts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ignite-passion-in-push-ups-and-jumps-with-these-top-20-songs/"><u>[Updated] Ignite Passion in Push-Ups and Jumps with These Top 20 Songs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-checklist-before-choosing-youtube-tv/"><u>2024 Approved The Ultimate Checklist Before Choosing YouTube TV</u></a></li>
+<li><a href="https://article-posts.techidaily.com/assembling-an-eye-catching-movie-miniature-for-2024/"><u>Assembling an Eye-Catching Movie Miniature for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-6s-plus-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 6s Plus? Fixed | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-streamline-events-with-obs-crafting-a-time-based-feature/"><u>In 2024, Streamline Events with OBS Crafting a Time-Based Feature</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-and-fix-interruptions-in-fortnites-playback-quality-on-pc-systems/"><u>Optimize and Fix Interruptions in Fortnite's Playback Quality on PC Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-gt-5-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme GT 5? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nubia-red-magic-9-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nubia Red Magic 9 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-moto-g13-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Moto G13 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-logitech-g9-grove-headset-on-pc/"><u>Troubleshooting Non-Functional Logitech G9 Grove Headset on PC</u></a></li>
+</ul></div>
 

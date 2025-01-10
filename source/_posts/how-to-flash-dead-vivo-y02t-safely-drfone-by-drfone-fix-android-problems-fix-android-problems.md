@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Vivo Y02T Safely | Dr.fone
-date: 2024-07-14T06:09:55.553Z
-updated: 2024-07-15T06:09:55.553Z
+date: 2025-01-04T18:02:26.022Z
+updated: 2025-01-10T16:36:41.654Z
 tags: 
   - problems
 categories:
@@ -35,11 +35,13 @@ Flashing a dead Android phone might be skeptical for many users who have been in
 
 From battery issues to physical damage to the Vivo Y02T device, there can be many reasons your Vivo Y02T died. The reasons for a dead Android phone are not restricted to these points. There can be software-related issues or firmware issues that might cause such havoc on your Android.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to flash Vivo Y02T in one click
 
 While you are worried about how to flash Vivo Y02T instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Vivo Y02T logo.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -73,6 +75,10 @@ Step 3: On the Vivo Y02T device information screen, pick the appropriate device 
 
 ![choose brand info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Phase 2: Put the Android device in Download mode to start repair.**
 
 Step 1: It is essential to boot your Vivo Y02T in Download mode before repairing.
@@ -83,16 +89,14 @@ Step 1: It is essential to boot your Vivo Y02T in Download mode before repairing
 
 - In the absence of a ‘Home’ button: Switch off the Android device and hold the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons for 5 to 10 seconds, then release them. Hit the ‘Volume Up’ button for entering the ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Press the ‘Next’ button for initiating firmware download.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
@@ -183,6 +187,10 @@ Then move to download the firmware for your dead Vivo Y02T  and save it in a new
 
 ![open product](https://images.wondershare.com/drfone/article/2017/07/14991899991748.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Simply, feed in the details and then click “OK”.
 
 ![check the details](https://images.wondershare.com/drfone/article/2017/07/14991900207363.jpg)
@@ -209,6 +217,10 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: How to flash a dead Android phone by checking screen faulty
 
 The screen of your Vivo Y02T may be faulty, due to which it is not launching. While seeking the right way of **how to fix a dead Android phone,** you can force restart your phone using the Volume buttons according to your device model.
@@ -217,9 +229,6 @@ If the Android vibrates on restarting and the screen does not lighten up, the pr
 
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 8: How to fix a dead Android phone by changing the battery
 
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your Vivo Y02T, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
@@ -237,6 +246,10 @@ A dead Android phone might be the cause of worry, but the techniques given above
 It has been observed that Wondershare Dr.Fone – System Repair (Android) assists in the best way. Resolve all your concerns involving your dead Android phone and flash it to make it operable again.
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do if Google Play Services Keeps Stopping on Vivo Y02T
 
@@ -268,12 +281,13 @@ The Google Play Services keeps stopping error is an infamous one, and it can app
 
 Regardless of what’s causing the issue on your phone, we’ve compiled a list of ten possible solutions, and you can find those below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solutions to Try When Google Play Services Keeps Stopping
 
 There are many solutions for the issue of Google Play Services that keeps stopping. We’ve listed the most famous and effective ones, and you’ll find them below in no particular order. Try them out and see whether they fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. Do a Factory Reset
 
@@ -404,17 +418,20 @@ Once inside Permission Settings, check whether the Google Play Services and Play
 
 **4,953,228** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Although it’s an incredibly frustrating error, the “Unfortunately, Google Play Services has stopped” message is more annoying than serious. We’ve explained why it happens, but we’ve also given you a list of solutions to fix it.
 
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6 Solutions to Fix Error 505 in Google Play Store on Vivo Y02T
 
 In case you are receiving the error code 505 while downloading an application from Google play store and have no clue what is it, then this is the right article for you. In this article we are covering the reasons behind the occurrence of Google play error 505. Not only that, we are also providing 6 solutions to fix the error code 505. Usually, this error is seen with Android 5.0 Lollipop version and occurs at the time when you try to install the already downloaded application making it hard to run the app.
@@ -447,8 +464,6 @@ Any error that occurs during downloading or installation process not only hinder
 #### **Solution 1: One click to make error code 505 disappear**
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -504,6 +519,10 @@ At the top, an option will appear
 \>Then Select Enable
 
 ![Application Manger](https://images.wondershare.com/drfone/article/2017/06/14976274734570.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Enabling download manager to give permission to the Vivo Y02T device to start the download or installation process.
 
@@ -611,7 +630,6 @@ However, sometimes the five simple couldn’t work anymore. A system repair soft
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -624,9 +642,24 @@ Not being able to download or install the app is very frustrating and time-consu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-fast-track-to-time-lapse-magic-on-samsung-phones-for-2024/"><u>[Updated] Fast Track to Time-Lapse Magic on Samsung Phones for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-excellence-unleashed-the-pinnacle-fps-selections/"><u>2024 Approved Excellence Unleashed The Pinnacle FPS Selections</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/te-your-video-with-smart-end-screen-techniques-for-2024/"><u>Elevate Your Video with Smart End Screen Techniques for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-insights-on-forging-youtube-sponsorship-bonds-using-famebit-for-2024/"><u>Expert Insights on Forging YouTube Sponsorship Bonds Using FameBit for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-se-2022-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone SE (2022) when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/key-strategies-and-resources-for-successful-garden-growth-advice-curated-by-zdnet/"><u>Key Strategies and Resources for Successful Garden Growth – Advice Curated by ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-n30-se-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 SE Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-x7-ultra-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X7 Ultra Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-reno-11-pro-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo Reno 11 Pro 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnect-and-continue-your-adventure-6-reliable-fixes-for-terraria-connection-problems/"><u>Reconnect and Continue Your Adventure: 6 Reliable Fixes for Terraria Connection Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/shop-these-innovative-tech-breakthroughs-from-ces-2023-available-now-on-zdnet/"><u>Shop These Innovative Tech Breakthroughs From CES 2023 - Available Now on ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlock-the-potential-of-live-streaming-facebook-via-obs-devices/"><u>Unlock the Potential of Live Streaming Facebook via OBS Devices</u></a></li>
+</ul></div>
 

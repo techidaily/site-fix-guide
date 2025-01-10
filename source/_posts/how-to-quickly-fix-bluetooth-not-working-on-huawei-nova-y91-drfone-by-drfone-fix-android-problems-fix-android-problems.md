@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Huawei Nova Y91 | Dr.fone
-date: 2024-07-14T06:11:13.789Z
-updated: 2024-07-15T06:11:13.789Z
+date: 2025-01-06T16:25:52.696Z
+updated: 2025-01-10T16:32:04.556Z
 tags: 
   - problems
 categories:
@@ -35,8 +35,6 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Huawei Nova Y91. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -159,6 +157,10 @@ By testing out another Bluetooth device to see if it will work with your preferr
 
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 One of the common misconceptions of Bluetooth is just how far the wireless range is of the service. You need to make sure your devices are well and truly close to each other to make sure a stable connection can be formed.
 
 The further away the Huawei Nova Y91 devices are from each other, the less likely the connection will remain secure. As a rule of thumb, Bluetooth can work up to 100 meters, but to play it safe, always try and keep your devices under 50m apart.
@@ -172,8 +174,6 @@ The final consideration you’ll want to think about is that Bluetooth radio wav
 With this in mind, you’ll want to make sure you’re limiting the amount of Bluetooth activity in the area where you’re trying to use a device. While uncommon, this could be the problem.
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Huawei Nova Y91 to the Huawei Nova Y91 device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
-
-
 
 ## Play Store Not Working On Huawei Nova Y91? 8 Solutions Inside
 
@@ -193,6 +193,10 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Crashing Issues
 
 [<u>Frequent crashes</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html) undermine the stability of the Play Store. Users attempting to browse or download apps may find themselves abruptly kicked out of the application. It can disrupt your intended tasks and cause annoyance in the long run.
@@ -205,9 +209,6 @@ The dreaded "Not Responding" message can bring usability to a standstill. Users 
 
 When downloads and installations fail, you will be unable to enjoy new apps or updates. This issue can be annoying when trying to access crucial software improvements or security updates.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Authentication and Account Issues
 
 Problems with authentication and account access can lock users out of their Google accounts on the Play Store. It prevents users from purchasing or downloading apps. The issue not only hampers functionality but also raises security concerns.
@@ -221,8 +222,9 @@ Problems with authentication and account access can lock users out of their Goog
 Persistent connection and network errors impede the Play Store's ability to fetch data. It hinders users from browsing and downloading apps. The issue is frustrating in areas with unstable internet connectivity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part II. Why Does the Google Play Store Keep Stopping?
 
 If you're wondering **why does Google Play Store keeps stopping** on your phone, there can be several factors. Here are some of them below.
@@ -235,9 +237,6 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 - **Google account problems**. Authentication issues, incorrect credentials, or other problems with the linked Google account can disrupt the Play Store's functionality. This can also lead to repeated crashes.
 - **System glitches and bugs.**Inherent glitches and bugs within the Android operating system may affect the Play Store's performance. They can cause your device to stop unexpectedly.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part III.7 Quick Solutions To Resolve Play Store Not Working Issues
 
 Encountering issues with the Google Play Store can be frustrating. It disrupts your ability to download, update, or access essential apps. Here are seven quick solutions when your **Google Play Store unfortunately has stopped.**
@@ -349,11 +348,19 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Huawei Nova Y91 Camera Not Working Unexpected Error? Fix It Now
 
 For all its glory and goodness, the Android OS often has its users pulling their hair in frustration at just how buggy the OS can be at times. So, if you’re having one of those days today, we are here to help. Camera app is one of the most used apps on smartphones today. People only launch the app when they want to take a photo, for everything else there’s a dedicated photo gallery app. What happens when you launch the camera app only to realize it threw an error and you missed your photo moment? Don’t throw the phone, not yet. Let us help you out.
 
 ![camera not working error in android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I: Why Is Android Camera Not Working?
 
@@ -383,9 +390,6 @@ So, how to get the Android camera not working problem solved? There are a few wa
 
 One of the first things to do any time an app or your phone or tablet does not work like it should, restarting the Huawei Nova Y91 device refreshes everything just enough to resolve most commonly occurring issues.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
@@ -412,7 +416,15 @@ Step 2: Tap Camera.
 
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.IV: Clear The Camera App Cache
 
@@ -427,8 +439,9 @@ Step 2: Tap Clear Cache.
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### II.V: Clear The Photo Gallery App Cache
 
 The camera app is closely tied to the photo gallery app that comes baked in into Android OS. That is because photos that the camera app takes are stored in the photo gallery app. Consequently, if there were any issues in the photo gallery app, that could lead to the camera app not working on Android problem. Here’s how to clear the photo gallery app cache:
@@ -483,6 +496,10 @@ Step 2: Click System Repair module and then Android.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
 
 ![drfone system repair android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -509,10 +526,13 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -526,9 +546,21 @@ The camera app on your smartphone is one of the most important apps you use. Thi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-tiktok-to-mp4-quick-and-easy-file-download-and-conversion/"><u>[New] TikTok to MP4 Quick and Easy File Download & Conversion</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728469397017-google6/"><u>Googleドライブから失われた共有ファイルを取り戻すための6種類のテクニック</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-apple-is-confronting-internet-giants-with-a-startling-advertisement-strategy-discover-more-at-zdnet/"><u>How Apple Is Confronting Internet Giants with a Startling Advertisement Strategy - Discover More at ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ideal-video-game-setups-for-children-consoles-controllers-and-more/"><u>Ideal Video Game Setups for Children: Consoles, Controllers, and More</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-realme-narzo-60x-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Realme Narzo 60x 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-honor-magic-vs-2-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Honor Magic Vs 2 Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-gt-neo-5-se-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme GT Neo 5 SE – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-blur-faces-with-ease-10-best-free-photo-and-video-editing-apps/"><u>New In 2024, Blur Faces with Ease 10 Best Free Photo and Video Editing Apps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-ace-2-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 2 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-nubia-z50s-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nubia Z50S Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-ultra-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Ultra Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-insider-guide-to-intensified-minecraft-views/"><u>The Insider Guide to Intensified Minecraft Views</u></a></li>
+</ul></div>
 

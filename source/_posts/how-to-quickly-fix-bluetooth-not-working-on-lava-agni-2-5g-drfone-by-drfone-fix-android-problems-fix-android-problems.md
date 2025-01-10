@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Lava Agni 2 5G | Dr.fone
-date: 2024-07-14T06:11:43.710Z
-updated: 2024-07-15T06:11:43.710Z
+date: 2025-01-05T16:05:23.400Z
+updated: 2025-01-10T17:53:30.590Z
 tags: 
   - problems
 categories:
@@ -29,8 +29,9 @@ However, the problems don’t stop there. You may have problems with turning you
 Due to the complicated nature of Bluetooth technology, there could be many reasons as to why your Bluetooth feature is playing up in this way, but that doesn’t mean it can’t be fixed. For the rest of this guide, we’re going to explore the nine need-to-know ways you can fix the Bluetooth problems not working on your Lava Agni 2 5G as quickly as possible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
@@ -38,8 +39,6 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Lava Agni 2 5G. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -63,6 +62,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
 
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -81,6 +84,10 @@ When the repair process has been completed, you’ll receive the screen below, w
 
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 One of the most common solutions in technology is simply to turn it on and off again, which is the case to happen here. By restarting your device, you can clear out any problems you may be suffering from to help it get up and running again. Here’s how;
 
 1. Turn your Lava Agni 2 5G off by holding down the Power button
@@ -92,6 +99,10 @@ One of the most common solutions in technology is simply to turn it on and off a
 ### 2.3 Clear the Bluetooth cache
 
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Every service on your Lava Agni 2 5G using a feature called a cache. This is where information is stored to help the feature run properly and give you the best experience. However, over time this can get messy and can cause problems with your Bluetooth feature.
 
@@ -184,9 +195,6 @@ If you're asking **why is my Android phone in black and white**, then you're in 
 
 ![girl pointing at phone with problem](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Phone Screen in Black and White? Easy Fixes for Android Devices
 
 Discovering your Lava Agni 2 5G going monochrome can be annoying. The section below answers the question: **why did my Lava Agni 2 5G phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
@@ -220,6 +228,10 @@ System glitches or software bugs can trigger display issues. It can result in a 
 
 - **Step 2:** Update your device if there is a software update available. Ensure your device is running the latest software version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Battery Saving Modes
 
 Battery-saving modes can also alter display settings to conserve energy. It can sometimes result in a black-and-white screen. These modes limit power consumption by reducing color output. Reviewing and adjusting these settings can restore the normal color display. Follow the steps below.
@@ -247,6 +259,10 @@ Consider a reliable third-party tool if your phone persists in black and white d
 Dr.Fone is a reliable solution for addressing black-and-white display issues on Android devices. For a stress-free repair experience, follow these simple steps using Dr.Fone - System Repair (Android).
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -289,6 +305,10 @@ It's highly recommended to [back up your Android data](https://drfone.wondershar
 Beyond resolving black-and-white display problems, Dr.Fone serves as a comprehensive tool for all Android issues. The platform can enhance your device functionality.
 
 ![dr.fone main user interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -372,6 +392,10 @@ The “**Process system isn’t responding**” is a common error that occurs in
 
 ![process system isn't responding](https://images.wondershare.com/drfone/article/2017/06/14980669359224.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 However, there are several straightforward methods to resolve this issue. This article will provide a step-by-step guide on how to fix the problem and restore your device to normal functionality.
 
 Before solving any Android system issues, try this [Android backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) software to take a full backup, in case any data loss happens.
@@ -395,9 +419,6 @@ No matter what the cause is, there are plenty of ways to overcome this issue. We
 
 When this error occurs, it can disrupt the normal operation of the Lava Agni 2 5G device, causing apps to freeze or crash. Fortunately, there are several effective methods to address this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Restart your device
 
 This is one of the easiest ways to resolve the **process system not responding** error. If you are getting this error on your phone, then try to manually restart your device. The way to restart your phone might differ from one device to another. Mostly, it can be done by long-pressing the power button. This will provide different power options. Tap on the “Reboot” one to restart your phone.
@@ -422,9 +443,6 @@ In case the Android internal memory is completely filled, it will slow down the 
 
 **Step 1:** Open the Settings app on your Lava Agni 2 5G and access the “Battery and Device Care” option by scrolling down. Next, tap on the “Three Dots” from the top right corner and choose the “Storage Booster” feature.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the storage booster option](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-2.jpg)
 
 **Step 2:** Following this, you can select the data you want to remove from the internal memory. Your device will show the space it will free up for you, and you can press the “Free Up” button to free up the storage.
@@ -465,8 +483,6 @@ If all the above tricks don't get your device out of the process system not resp
 
 **Note:** _Android repair may wipe out existing Android data. [Back up your Android data](https://drfone.wondershare.com/iphone-backup-and-restore.html) before going on._
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix all Android system issues in one click
@@ -506,8 +522,6 @@ Android repair tool to fix all Android system issues in one click
 
 It is always considered the most used way to factory reset your phone in order to resolve the process system not responding error. Though, this should be your last resort, as it will wipe off your device’s data entirely. Even if you are performing a factory reset, make sure that you back up your data by using a reliable tool like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/).
 
-
-
 ### Wondershare Dr.Fone
 
 Flexibly Back up and Restore Android Data
@@ -525,9 +539,6 @@ If your phone is functioning, then you can easily factory reset it by visiting S
 
 If your device is not functioning or locked, then you can perform the factory reset operation by putting your phone into Recovery mode. Most of the time, it can be done by pressing the Power and Volume up button simultaneously for at least 10 seconds. Though, the key combinations might change from one device to another.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset phone in recovery mode](https://images.wondershare.com/drfone/article/2017/06/14980670718056.jpg)
 
 After entering the Recovery mode, go to the “wipe data/factory reset” option using the Volume up and down button. Use the Power button to make a selection. If you get an additional message, then select the “yes – delete all data” option. When it is done, you can simply reboot your device.
@@ -540,6 +551,10 @@ You can always download either SuperSU or SuperSU Pro app from its website [here
 
 ![full unroot](https://images.wondershare.com/drfone/article/2017/06/14980671048148.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This will generate a warning message regarding all the repercussions of the unrooting process. Just tap on “Continue” to initiate the process.
 
 ![continue unroot](https://images.wondershare.com/drfone/article/2017/06/14980671247132.jpg)
@@ -548,10 +563,11 @@ If you are using an older version of Android, then you might get another pop-up 
 
 ![restore stock boot image](https://images.wondershare.com/drfone/article/2017/06/14980671431228.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now that you know different ways to fix the **process system not responding** error, you can easily overcome this issue and make the most out of your device. Simply start with the easy fixes, and if they don’t work, then take extreme measures like unrooting your device or restoring it to factory setting. Also, make sure to back up your data before taking any extreme measures.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -565,9 +581,19 @@ Now that you know different ways to fix the **process system not responding** er
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-audible-brilliance-the-ultimate-mic-guide-for-2024/"><u>[New] Audible Brilliance The Ultimate Mic Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-video-quality-clash-hero-black-vs-nikkor-km-170-for-2024/"><u>[Updated] Video Quality Clash HERO Black vs Nikkor KM-170 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-affordable-online-resources-your-dream-toolkit-for-visual-filmmaking/"><u>2024 Approved Explore Top Affordable Online Resources - Your Dream Toolkit for Visual Filmmaking</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boosting-productivity-with-zoom-and-a-chromebook/"><u>Boosting Productivity with Zoom and a Chromebook</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-prime-voice-capture-apps-for-mac-users-feature-spotlight/"><u>In 2024, Prime Voice Capture Apps for Mac Users Feature Spotlight</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-gimps-capabilities-as-a-universal-image-manipulation-suite/"><u>In-Depth Look at GIMP's Capabilities as a Universal Image Manipulation Suite</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-m54-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy M54 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hid-compatible-pointing-device-drivers/"><u>Update Your HID-Compatible Pointing Device Drivers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-art-of-effective-lower-thirds-in-final-cut-pro-x-for-2024/"><u>Updated The Art of Effective Lower Thirds in Final Cut Pro X for 2024</u></a></li>
+</ul></div>
 

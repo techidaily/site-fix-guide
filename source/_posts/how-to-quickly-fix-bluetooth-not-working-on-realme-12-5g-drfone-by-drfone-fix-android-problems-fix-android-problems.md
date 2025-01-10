@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Realme 12 5G | Dr.fone
-date: 2024-07-14T06:13:14.582Z
-updated: 2024-07-15T06:13:14.582Z
+date: 2025-01-06T17:54:03.572Z
+updated: 2025-01-10T18:36:28.135Z
 tags: 
   - problems
 categories:
@@ -20,9 +20,6 @@ Fortunately, despite there being many reasons why a problem could occur to your 
 
 Let’s get straight into it!
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. About Bluetooth Not Working on Android
 
 Of course, the most common problem to occur with Bluetooth technology in your Realme 12 5G is when it doesn’t connect to the Realme 12 5G device you’re trying to link it to. This could be anything from a Bluetooth headset or headphones, to a portable speaker or even an in-car audio system.
@@ -33,13 +30,15 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
 
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Realme 12 5G. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -88,6 +87,10 @@ One of the most common solutions in technology is simply to turn it on and off a
 3. Wait for your phone to completely power up, so you’re on the Main Menu
 4. Navigate Settings > Bluetooth and then enable the setting
 5. Try to connect your Bluetooth device to what you were trying to do before
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.3 Clear the Bluetooth cache
 
@@ -224,6 +227,10 @@ Step 5: After downloading the firmware, the software will start the repair proce
 
 ![home button not working android - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.2 Force Restart your Android
 
 Whenever you encounter with Android virtual soft keys, not working problem, the first thing you should try is to force [restart your phone](https://www.wondershare.com/reset-android/restart-android-without-power-button.html). If the problem is due to a software issue, then it can be probably fixed by simply force restarting your Android.
@@ -249,6 +256,10 @@ Step 2: Next, tap on “Erase all data”>” Reset phone” to factory reset on
 Once you are done with the above steps, restart your phone and restore your data and this might be fixed the problem for you. If not, then try the next solution.
 
 ![home button not working android - factory reset](https://images.wondershare.com/drfone/article/2019/02/factory-reset-phone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.4 Update Android Firmware
 
@@ -358,8 +369,6 @@ URL: [https://play.google.com/store/apps/details?id=com.home.button.bottom](http
 
 Hopefully, the methods covered in this post helps you to fix Android home and back button not working problem for you. If it is a system issue, then the best thing you can do is to take advantage of Dr.Fone - System Repair (Android) software. It can surely help you to fix your Android system to normal within a few minutes.
 
-
-
 ## 11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme 12 5G
 
 Google Play Store is a necessary and bundled service of any Android device. This app is required to download or even run any apps. So, getting an error like Play store not working or Play Store crashing is very unfortunate and a matter of a headache. Here we tried to put the best solution to overcome this issue. Keep reading this article for all the 11 best solutions.
@@ -385,6 +394,10 @@ A most effective method to fix Google Play Store not working
 
 ![fix google play store not working using a dedicated tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Select the option "System Repair". In the new interface, click on the "Android Repair" tab.
 
 ![fix google play store not working by selecting the repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -399,18 +412,6 @@ A most effective method to fix Google Play Store not working
 
 1. After entering the Download mode, the Dr.Fone tool starts to download the correct firmware to your Android.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 1. The downloaded firmware will be loaded and flashed to your Realme 12 5G to fix the Google Play Store not working issue.
@@ -428,8 +429,9 @@ A most effective method to fix Google Play Store not working
 ## Part 2: Other 10 common methods to fix Google Play Store issues
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Fix Date and Time settings
 
 Sometimes Google creates a problem connecting with the Play Store or Play store crashing due to the wrong date and time. The first and most common thing is you have to check if the date and time are updated or not. If not, update it first by following the below step by step guide.
@@ -437,6 +439,10 @@ Sometimes Google creates a problem connecting with the Play Store or Play store 
 Step 1 – First, go to the “Settings” of your device. Find ‘Date and time’ and tap on it.
 
 ![Find ‘Date and time’](https://images.wondershare.com/drfone/article/2017/06/14985032465232.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2 – Now you can see several options. Select “Automatic date and time”. This should override the wrong date and time your device have. Else, deselect the tick beside that option and select the date and time manually.
 
@@ -459,6 +465,10 @@ Step 4 – Now, you can find a screen like below. Tap on “Clear cache” to re
 ![Tap on “Clear cache”](https://images.wondershare.com/drfone/article/2017/06/14985032967281.jpg)
 
 Now, again try to open Google Play Store and you may successfully overcome the Play Store not working issue. If not, check the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Reset Play store by Clear data
 
@@ -500,6 +510,10 @@ Step 2 – Upon clicking on this option, you can find “Android device manager�
 
 ![find “Android device manager”](https://images.wondershare.com/drfone/article/2017/06/14985034072163.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3 – Now you can be able to uninstall Google play service by going into application manager.
 
 ![uninstall Google play service](https://images.wondershare.com/drfone/article/2017/06/14985034252357.jpg)
@@ -522,6 +536,10 @@ Step 3 – Now, tap on “Clear cache”. And you are done.
 
 Now go back and try to open Google Play store again. This might solve the Google Play Store has stopped the problem by now. If not, check the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Disable the VPN
 
 The VPN is a service to get all the media outside your geographic location. This is also used to install a country-specific app in another country. But sometimes it can create a problem with Play Store crashing.  So, this is recommended to try disabling the VPN.
@@ -536,9 +554,6 @@ Step 3 – Here you can find “VPN”.  Tap on it and turn it off.
 
 Now, again go back and try to open the Google Play Store. This may solve your problem now. If not, check the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 8\. Force stop Google Play Service
 
 Google Play Store needs to be restart just like your PC. This is a really helpful and common trick to overcome the Play Store crashing issue on your Realme 12 5G. To do this, follow the below steps.
@@ -565,9 +580,6 @@ Step 2 – Now, click on ‘Reboot’ or ‘Restart’ option. Your device will 
 
 After restarting, try to open the Google Play Store again and this time you should succeed. If any case, it's not opening, try the last (but not the least) method by hard reset your Android.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### 10\. Hard reset your device
 
 If you have done with all of the above solutions and still Play Store crashing, and you are aggressive to get it, then only try this method. Using this method will delete all the data of your device. So take a backup of the whole. Follow the step by step instruction below.
@@ -584,7 +596,6 @@ This will take a while to reset your device completely. After completion, start 
 
 The above methods are the best 11 among all the solutions you can get for your Play Store not working on wifi or Play Store crashing error. Try one by one and you might get rid of this problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -597,9 +608,26 @@ The above methods are the best 11 among all the solutions you can get for your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-14-interesting-text-animation-examples-you-can-try/"><u>[New] 14 Interesting Text Animation Examples You Can Try</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-designing-the-ideal-youtube-playlist-for-you-for-2024/"><u>[New] Designing the Ideal YouTube Playlist for You for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-precision-and-persuasion-crafting-content-that-sticks-on-reddit/"><u>[Updated] In 2024, Precision and Persuasion Crafting Content That Sticks on Reddit</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-privacy-preservation-in-videos-techniques-to-hide-data-for-2024/"><u>[Updated] Privacy Preservation in Videos Techniques to Hide Data for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-the-future-with-tomtom-bandit-2023/"><u>[Updated] Unveiling the Future with TomTom Bandit 2023</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029273433-wavmp3/"><u>音声データ圧縮に最適: WAV、MP3形式向けオンラインツールのご紹介</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/an-entire-workday-with-the-apple-vision-pro-is-it-enough/"><u>An Entire Workday with the Apple Vision Pro: Is It Enough?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-a1x-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo A1x 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-m14-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy M14 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-transforming-your-story-game-with-animation-techniques-for-text/"><u>In 2024, Transforming Your Story Game with Animation Techniques for Text</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c67-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C67 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-hot-30i-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Hot 30i Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-s18-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo S18 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reimagine-your-messaging-creating-unique-whatsapp-tones-for-2024/"><u>Reimagine Your Messaging Creating Unique WhatsApp Tones for 2024</u></a></li>
+</ul></div>
 

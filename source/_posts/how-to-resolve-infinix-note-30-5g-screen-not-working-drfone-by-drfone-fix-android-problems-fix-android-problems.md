@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Note 30 5G Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:24.515Z
-updated: 2024-07-15T06:16:24.515Z
+date: 2025-01-04T18:02:51.022Z
+updated: 2025-01-10T16:46:34.729Z
 tags: 
   - problems
 categories:
@@ -39,6 +39,10 @@ The presence of corrupted system files is also a significant cause of such issue
 ### 4\. Conflicting Settings
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: The Common Solutions to Solve a Infinix Note 30 5G Screen Unresponsive
 
@@ -131,11 +135,12 @@ The first thing you can do to fix Gmail not responding issue is to clear the cac
 
     ![gmail not working android - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Now, from the apps list, search “Gmail” and tap on it.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![gmail not working android - search gmail](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-2.jpg)
 
 3. Go to “Storage” followed by “Clear Cache”.
@@ -160,12 +165,13 @@ If unfortunately the above solutions don’t work, there is a requirement to fla
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Problem 2: Gmail won’t sync between all ends
 
 The next most common problem where people get stuck with is when there Gmail won’t sync. Here are the solutions to this particular problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Make Space in the Phone
 
@@ -184,6 +190,10 @@ When still the Gmail not working issue persists and you can’t sync, make sure 
 
 ![Gmail crashing on Android - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Restart the Infinix Note 30 5G device
 
 Again, restarting can also be helpful in this situation. When you boot the Infinix Note 30 5G device again, check if your Gmail can sync or not.
@@ -191,6 +201,10 @@ Again, restarting can also be helpful in this situation. When you boot the Infin
 ## Problem 3: Gmail won’t load
 
 In case you are using the Gmail over your web browser and it has tested your patience in loading, here are the solutions that could prove to be fruitful for you. Please check these out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ensure to Use Gmail Supported Browser
 
@@ -226,9 +240,17 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 
     ![Gmail crashing on Android - open gmail](https://images.wondershare.com/drfone/article/2019/04/remove-account-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Now, tap on the account you are working with. Tap on “REMOVE ACCOUNT” thereafter. After this, you can again sign in and then check if the problem is gone or not.
 
 ![Gmail crashing on Android - remove account](https://images.wondershare.com/drfone/article/2019/04/remove-account-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Problem 5: Stuck in sending
 
@@ -251,6 +273,10 @@ Now try to send the mail and see if things are still the same or not.
 ### Check Attachments
 
 Large attachments can also be the reason for this issue. We would here like to suggest you to check the attachments you are sending. If these are not so important, you can remove them and send the mail. Or if it is not possible to send the mail without attachments, compressing the files can be a solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Problem 6: “Account not synced” issue
 
@@ -281,20 +307,18 @@ If the above method went futile, simply restart your device. Take help of the Po
 
 The last problem that you may face is the slow-going Gmail app. In simple words, you may experience that Gmail app is operating extremely slowly. To fix this, following solutions will help you.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restart the Phone
 
 It is a universal method to fix minor Android system issues. And here too, we would like you to restart your Infinix Note 30 5G in the first place when you find that Gmail is not responding due to the sluggish behavior.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear Storage of Device
 
 Usually all the apps start running slow when the Infinix Note 30 5G device is not having sufficient space. As the apps need space to function quickly and appropriately, having the Infinix Note 30 5G device on low storage can prove to be a bad luck for Gmail. So, make sure you wipe out the items you no longer needed on your device and create some room so that the Gmail responds nicely and won’t be running slow anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Update Gmail App
 
 As the last tip that will indeed help you is to update the Gmail app. Until you update the app when required, Gmail keeps stopping you from working and you will definitely get frustrated. Therefore, go to Play Store and look for the Gmail update. If it is available, welcome it with smile and bid farewell to the problem of slow running Gmail.
@@ -320,7 +344,6 @@ The growing conversation around the **missing app icons on Android** issue has c
 After all, the presence of app icons on our Android device's home screen is important for convenient access to our frequently used applications. When your Infinix Note 30 5G's icons suddenly disappear, it can leave you feeling lost about how to use and access your apps.
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your Infinix Note 30 5G.
-
 
 ## Part 1: Make Sure if the Missing App Is Installed
 
@@ -384,9 +407,6 @@ How to reset Android to factory setting:
 
 Please be mindful that performing a factory reset on Android will reset your Android completely to its initial state.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Perform a factory reset on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-4.jpg)
 
 ## Part 3: How to Fix System Error on Android Easily with Reliable Software
@@ -400,6 +420,10 @@ How to fix the Android system using Dr.Fone’s system repair tool:
 Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox section and connect your Infinix Note 30 5G. Choose System Repair and pick Android as your device type.
 
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -443,9 +467,6 @@ When the **app disappears from the home screen of your Android**, it can hinder 
 
 Whether it's due to accidental deletion or a system glitch, we have discussed various methods to recover the missing app and ensure smooth functionality in this article. In cases of system-related issues on your Infinix Note 30 5G, it's advisable to rely on trustworthy software such as Dr. Fone's system repair tool for a comprehensive resolution.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -458,9 +479,19 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-your-guide-to-flawless-solo-livestreaming-operations/"><u>[New] 2024 Approved Your Guide to Flawless, Solo Livestreaming Operations</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>[Updated] 2024 Approved Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-probing-into-hdr-effectiveness-with-luminance-writings/"><u>[Updated] Probing Into HDR Effectiveness with Luminance’ Writings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/behind-the-scenes-look-at-creating-dynamic-facebook-reels/"><u>Behind-the-Scenes Look at Creating Dynamic Facebook Reels</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/future-proof-your-timepiece-navigating-which-apple-watches-receive-watchos-11-upgrade-and-those-excluded/"><u>Future-Proof Your Timepiece: Navigating Which Apple Watches Receive WatchOS 11 Upgrade, And Those Excluded</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-hot-40-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Hot 40 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-infinix-smart-8-plus-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Infinix Smart 8 Plus Phone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y100-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y100 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y78-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y78 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-brainpower-behind-tcl-32s325-roku-led-televisions/"><u>The Ultimate Guide to the Brainpower Behind TCL 32S325 Roku LED Televisions</u></a></li>
+</ul></div>
 

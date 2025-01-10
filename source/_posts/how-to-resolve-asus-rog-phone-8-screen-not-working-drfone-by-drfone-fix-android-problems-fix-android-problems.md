@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Asus ROG Phone 8 Screen Not Working | Dr.fone
-date: 2024-07-14T06:15:40.730Z
-updated: 2024-07-15T06:15:40.730Z
+date: 2025-01-06T18:32:56.975Z
+updated: 2025-01-10T16:31:14.077Z
 tags: 
   - problems
 categories:
@@ -36,13 +36,14 @@ If your device's battery is damaged or is at the end of its lifespan, it can cau
 
 The presence of corrupted system files is also a significant cause of such issues. These corrupted files can also lead to serious performance issues on your phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Conflicting Settings
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: The Common Solutions to Solve a Asus ROG Phone 8 Screen Unresponsive
 
 Fixing the ****Asus ROG Phone 8screen not working**** is easy as long as it is not a serious hardware issue. While there are multiple ways to solve this problem, we have chosen the 6 most common and easy solutions. Listed below are the 6 common solutions to solve a Asus ROG Phone 8 screen unresponsive:
@@ -91,14 +92,15 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ****Step 1:**** Launch Settings on your Asus ROG Phone 8 device and tap “System” to select “Reset Options.”
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select reset options](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-6.jpg)
 
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 6. Replace the Old Screen with A New Screen
 
@@ -157,6 +159,10 @@ One of the first things to do any time an app or your phone or tablet does not w
 
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
 
 ### II.II: Close And Relaunch The Camera App
@@ -169,6 +175,10 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.III: Check App Permissions
 
 These days, thanks to strides in the privacy initiatives, apps need permissions before they can function the way they do. Most of the times, apps such as camera do have the necessary permissions, but sometimes it is possible that the permissions are set incorrectly. To check if the camera app has the requisite permissions, do the following:
@@ -179,9 +189,6 @@ Step 1: Go to Settings > Apps > Camera > Permissions.
 
 Step 2: Tap Camera.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
@@ -197,6 +204,10 @@ Step 1: Go to Settings > Apps > Camera and tap Storage Usage.
 Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.V: Clear The Photo Gallery App Cache
 
@@ -232,6 +243,10 @@ If this is the case, close all apps and let the phone cool down. You might even 
 
 You may want to tap your camera system (the lenses and surrounding area) gently to see if that gets the camera working. In case it did, this is indicative of a hardware issue, and you should get it checked at the service center at your earliest convenience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.IX: Fix Android Camera Not Working Issue In One Click (With Dr.Fone)
 
 Now, if the above fixes have not worked, you might want to repair your Android OS once before you make that appointment with the service centre. And, we have just the app to help you fix your camera not working on Android problem quickly.
@@ -256,11 +271,12 @@ Step 3: For now, don’t bother with the scenarios given and click Start to go t
 
 ![drfone system repair android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Your Android device will be detected by Dr.Fone. If anything seems incorrect, use the dropdown options to change it, and click Next.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android system repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 5: Your phone needs to be put into Download mode before it can be repaired. Follow the instructions shown onscreen and click Next.
@@ -285,8 +301,6 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
 
-
-
 ## Google Play Services Won't Update? 12 Fixes are Here on Asus ROG Phone 8
 
 Google Play Services is a crucial component of any Android device, responsible for supporting various Google apps and services. However, at times, users may encounter issues with updating Google Play Services, preventing them from accessing the latest features and security updates.
@@ -307,13 +321,15 @@ Before diving into the solutions, it's essential to understand the potential cau
 - **6\. Outdated version of Google Play Store:** If your device has an outdated version of the Google Play Store app, it may interfere with the update process for Google Play Services.
 - **7\. Google Play Components:** If certain components of Google Play Services are corrupted, it can contribute to update issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: One-Click Fix When Google Play Services Won't Update
 
 For those seeking a quick and effortless solution, several third-party tools offer one-click fixes for the Google Play Services update problem. These tools automate the update process, ensuring that you have the latest version of Google Play Services installed. However, it is crucial to use reputable and trusted tools to avoid potential security risks.
 
 If you cannot update Google play services by the reason of custom ROM incompatibility or Google Play component corruption, there is a serious need of repairing firmware then. And to repair Android firmware, one of the expert ways is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This professional tool vows to bring your Asus ROG Phone 8s back to normal by fixing the issues with ease. Here are the advantages of this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -340,6 +356,10 @@ Initiate the process of downloading the software on your computer. Now, click on
 Now, taking the assistance of an original USB cable, connect your Asus ROG Phone 8 to the PC. Then hit on “Start”.
 
 ![connect android to fix google play services not updating](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3: Check the Information**
 
@@ -419,6 +439,10 @@ This is how it works when Google Play Services can't be installed on your device
 - To confirm, press the “Power” button. Now, the Asus ROG Phone 8 device will begin to wipe the cache.
 - Hit reboot when asked and the Asus ROG Phone 8 device will now be rebooted finishing the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 8. Check your Android storage
 
 Generally speaking, Google Play Services can update automatically in the background. But if there is not enough storage on your Android, the automatic update may fail, so check your android space.
@@ -451,9 +475,6 @@ The steps are:
 
 To provide further clarity, here are some frequently asked questions about Google Play Services:
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. What is Google Play Services?
 
 Google Play Services is a background service on Android devices that provides essential functionality and support for various Google apps and services. It includes features like authentication, push notifications, location services, and more, enabling seamless integration and enhanced performance for Google apps.
@@ -483,7 +504,6 @@ There can be several reasons why a device is not compatible with the latest vers
 
 Encountering difficulties when updating Google Play Services can be frustrating, but with the right approach, these issues can be resolved. By understanding the causes and implementing the suggested fixes outlined in this guide, you can overcome the Google Play Services update problem. Remember to prioritize storage space, ensure a stable internet connection, and keep your apps and system components up to date. By doing so, you can enjoy the full functionality of Google Play Services and benefit from the latest features and security enhancements.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -496,9 +516,21 @@ Encountering difficulties when updating Google Play Services can be frustrating,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-windows-11-gamers-guide-to-excellent-game-capturing/"><u>[New] In 2024, Windows 11 Gamers' Guide to Excellent Game Capturing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-dailymotion-vs-youtubes-revenue-battle-analysis/"><u>[Updated] Dailymotion vs YouTubes Revenue Battle Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancements-in-ai-communication-exploring-the-improved-conversational-capabilities-of-chatgpts-gpt-4/"><u>Advancements in AI Communication: Exploring the Improved Conversational Capabilities of ChatGPT's GPT-4</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-t2-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo T2 5G</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-comprehensible-guide-to-documenting-live-sports-events/"><u>In 2024, Comprehensible Guide to Documenting Live Sports Events</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-growing-challenge-of-finding-telecommute-roles-in-todays-market-insights-from-zdnet/"><u>Navigating the Growing Challenge of Finding Telecommute Roles in Today’s Market - Insights From ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-105-classic-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia 105 Classic Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-12-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme 12 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-mastering-the-art-of-iphone-soft-reboot/"><u>Step-by-Step Tutorial: Mastering the Art of iPhone Soft Reboot</u></a></li>
+</ul></div>
 

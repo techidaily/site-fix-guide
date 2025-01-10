@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Vivo V30 | Dr.fone
-date: 2024-07-14T06:14:32.841Z
-updated: 2024-07-15T06:14:32.841Z
+date: 2025-01-06T17:30:00.758Z
+updated: 2025-01-10T18:54:04.068Z
 tags: 
   - problems
 categories:
@@ -36,7 +36,9 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -117,6 +119,10 @@ Here’s how;
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you’re having problems with your connection and paired devices, sometimes you may have conflicting software faults in your device that are causing the problems. If this is the case, you’ll need to boot your Vivo V30 in Safe Mode.
 
 This is an operating state in which your phone will run the bare minimum services it needs to perform. If your Bluetooth works in Safe Mode, you know you have an app or a service that’s causing the problem.
@@ -131,9 +137,6 @@ Here’s how to find out;
 
 ### 2.6 Turn on the discoverable feature
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - discoverable feature](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-discoverable.jpg)
 
 To ensure your Bluetooth can connect to other devices, it’s important to make sure you’re making your device discoverable to other Bluetooth devices. If it’s hidden, other devices won’t be able to find it, and sometimes it can bug and prevent connections.
@@ -158,9 +161,6 @@ By testing out another Bluetooth device to see if it will work with your preferr
 3. If the new device doesn’t connect to your Bluetooth device, you’ll know there’s a problem with your Bluetooth device, not your Vivo V30
 4. If the Vivo V30 devices connect, you’ll know there’s a problem with your Vivo V30
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.8 Place both devices within close proximity
 
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
@@ -168,6 +168,10 @@ By testing out another Bluetooth device to see if it will work with your preferr
 One of the common misconceptions of Bluetooth is just how far the wireless range is of the service. You need to make sure your devices are well and truly close to each other to make sure a stable connection can be formed.
 
 The further away the Vivo V30 devices are from each other, the less likely the connection will remain secure. As a rule of thumb, Bluetooth can work up to 100 meters, but to play it safe, always try and keep your devices under 50m apart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.9 Avoid interference of other Bluetooth sources
 
@@ -209,7 +213,9 @@ You have already understood ‘why won't your app open?’ at the start of this 
 
 Well, in such a case [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can prove to be your savior. It resolves failed Android system update issues, crashing apps, and black screen of death. It can also get an unresponsive or bricked Android device or boot loop stuck device fixed with one click.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -231,9 +237,6 @@ Why won't my app open? The quick fix is here!
 
 Step 1: Post-installation and launch of Dr.Fone on your computer, you got to press the ‘System Repair’ tab. Connect the Android device later.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix App won't open by repairing android system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Hit the ‘Android Repair’ located on the left panel followed by tapping the ‘Start’ button.
@@ -243,6 +246,10 @@ Step 2: Hit the ‘Android Repair’ located on the left panel followed by tappi
 Step 3: Feed your Vivo V30 details under the Vivo V30 device information screen. Please check the warning and press the ‘Next’ button right after that.
 
 ![select the android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Phase 2: Repairing your Vivo V30 under ‘Download’ mode**
 
@@ -298,6 +305,10 @@ Closing the App completely which won't open on your phone is a good idea. To mak
 
 ![Click on “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984184003158.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 • Select the App which won't open.
 
 • Now click on “Force Stop” as shown below.
@@ -334,9 +345,6 @@ To update your software:
 
 • From the options available on the screen, tap on “System Updates"
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on “System Updates](https://images.wondershare.com/drfone/article/2017/06/14984184697337.jpg)
 
 • In this step, if you are prompted for an update, follow the instruction given and do so.
@@ -353,6 +361,10 @@ Restarting your Vivo V30 to fix an error might sound old school but it gives goo
 
 ![click on “Restart”](https://images.wondershare.com/drfone/article/2017/06/14984184913200.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Your phone will automatically restart and once it does, you can try to launch the App. You may also restart your Vivo V30 by pressing the power button for about 15-20 seconds.
 
 3\. Reset Factory Settings
@@ -368,6 +380,10 @@ To Factory Reset your Vivo V30, carefully follow the guidelines given below:
 • Now click on “Factory Data Reset”>“Reset Device”>“Erase Everything”
 
 ![Erase Everything](https://images.wondershare.com/drfone/article/2017/06/14984185334400.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your phone will now reboot and will be required to set up from scratch.
 
@@ -456,6 +472,10 @@ Step 4 - Now you clear the task manager and try installing it once again. If the
 
 ![error code 920-install apps](https://images.wondershare.com/drfone/article/2017/06/14985022232651.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **METHOD 3: Switching off and turning the wifi (cellular data) on**
 
 This is another basic method in solving the play store error 920. This error comes in when you have given too many tasks to download.
@@ -464,9 +484,6 @@ Step 1 - To remove that load Just turn your wifi off and then turn your wifi on 
 
 Step 2 - Now after doing this go to your Play Store application and download the application that you were going to download. Now your Play Store Error 920 won’t be bothering you anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![error code 920-turn off wifi](https://images.wondershare.com/drfone/article/2017/06/14985022435219.jpg)
 
 #### **METHOD 4: Clearing the cache and data of Google Play Store**
@@ -497,12 +514,13 @@ Step 4 - Now you have successfully removed your account and after that re-add yo
 
 ![error code 920-remove account](https://images.wondershare.com/drfone/article/2017/06/14985022914137.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Again it is best if you follow the methods as illustrated above for removing error code 920 and this might have solved your problem by now. If now, you go for a complete factory reset, do it only at the extreme stage as this will delete all your personal data.
 
 Play Store error 920 is a pretty common error and its solutions are also very easy. Please do ensure that you follow each and every step in sync so that you can get the best result out of these methods and get over with the error code 920 on Google play store.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -516,9 +534,24 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-quick-steps-for-effective-double-take-filming/"><u>[New] 2024 Approved Essential Quick Steps for Effective Double Take Filming</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-ultimate-action-cams-face-off-black-and-star/"><u>[Updated] In 2024, Ultimate Action Cams Face-Off Black & Star</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterclass-in-tv-streaming-the-ultimate-guide/"><u>[Updated] Masterclass in TV Streaming The Ultimate Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-polity-playlists-the-premier-gamified-elections-for-2024/"><u>[Updated] Polity Playlists The Premier Gamified Elections for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitgrabber-mobile-app-for-downloading-tweets-videos-for-2024/"><u>[Updated] TwitGrabber Mobile App for Downloading Tweets' Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/destiny-2-voice-chat-malfunction-heres-how-you-can-fix-it/"><u>Destiny 2 Voice Chat Malfunction? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-s17e-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo S17e Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-x7b-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor X7b Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-basics-of-ussd-a-deep-dive-into-unstructured-supplementary-service-data/"><u>Navigating the Basics of USSD: A Deep Dive Into Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-narzo-60-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo 60 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-edge-40-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Edge 40 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-note-12-proplus-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi Note 12 Pro+ 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-list-of-windowsmacos-video-fixing-programs-find-the-perfect-one/"><u>Ultimate List of Windows/macOS Video Fixing Programs - Find the Perfect One</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/visual-learning-experience-quick-edit-tips-for-educators-for-2024/"><u>Visual Learning Experience Quick Edit Tips for Educators for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Vivo Y78+ Safely | Dr.fone
-date: 2024-07-14T06:10:08.290Z
-updated: 2024-07-15T06:10:08.290Z
+date: 2025-01-03T17:07:17.123Z
+updated: 2025-01-10T17:09:16.354Z
 tags: 
   - problems
 categories:
@@ -29,6 +29,10 @@ Given below are eight techniques to flash your Vivo Y78+ safely, depending upon 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Can a Dead Phone Be Flashed?
 
 Flashing a dead Android phone might be skeptical for many users who have been in such a situation. Although it is possible to flash a dead Android phone, it is essential to be aware of the reasons that lead you into such a situation. Before a remedy, diagnosing the problem is a necessity for retaining the Vivo Y78+ device.
@@ -38,8 +42,6 @@ From battery issues to physical damage to the Vivo Y78+ device, there can be man
 ## Part 2: How to flash Vivo Y78+ in one click
 
 While you are worried about how to flash Vivo Y78+ instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Vivo Y78+ logo.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -81,6 +83,10 @@ Step 1: It is essential to boot your Vivo Y78+ in Download mode before repairing
 
 ![flash android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - In the absence of a ‘Home’ button: Switch off the Android device and hold the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons for 5 to 10 seconds, then release them. Hit the ‘Volume Up’ button for entering the ‘Download’ mode.
 
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
@@ -117,6 +123,10 @@ Step 3: In this step, download the latest version of Odin on your PC and move it
 
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
 
 ![boot in download mode](https://images.wondershare.com/drfone/article/2017/07/14991897353612.jpg)
@@ -127,9 +137,6 @@ Step 5: Gently press the volume up button, and you will see the Download Mode Sc
 
 Step 6: Now, you may use a USB to connect your Vivo Y78+ to the PC. Odin will recognize your device, and in the Odin window, you will see a message saying “Added”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect android device](https://images.wondershare.com/drfone/article/2017/07/14991897792616.jpg)
 
 Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA” or “AP” on the Odin window and then click “Start”.
@@ -149,6 +156,10 @@ Step 1: To start with, download and install the MTK driver on your PC and then d
 Step 2: Once done, you should download the SP Flash tool and extract it on your PC and move on to launch the Flash\_tool.exe file to open the SP Flash tool window.
 
 ![download sp flash tool](https://images.wondershare.com/drfone/article/2017/07/14991898618783.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Now, on the SP Flash tool window, click on “Download” and select “Scatter-loading”.
 
@@ -176,16 +187,21 @@ Now, on the toolbar, click “Tools” and select “Data Package Download” fr
 
 ![data package download](https://images.wondershare.com/drfone/article/2017/07/14991899684185.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then move to download the firmware for your dead Vivo Y78+  and save it in a new Folder. Once done, go back to the Phoenix tool window and click on “File” and select “Open Product”.
 
 ![open product](https://images.wondershare.com/drfone/article/2017/07/14991899991748.jpg)
 
 Simply, feed in the details and then click “OK”.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check the details](https://images.wondershare.com/drfone/article/2017/07/14991900207363.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After this, click on “Flashing” and select “Firmware update” and then browse to select the appropriate product code and then click “OK” again.
 
@@ -206,6 +222,10 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 **Step 2:** As the Android boot menu opens on your screen, use the “Volume Down” and “Volume Up” keys to scroll up and down the menu. On accessing the “Wipe Data/Factory Reset” option, use the “Power” key to select the particular option.
 
 ![choose wipe data factory reset option](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
 
@@ -265,8 +285,6 @@ There might be much more reasons for the camera failed error, but these are the 
 
 If you are experiencing some kind of issues in your Vivo Y78+s such as Vivo Y78+ camera failed, the Vivo Y78+ device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Vivo Y78+ devices and perform a complete system repair so the Vivo Y78+ device starts working normally.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One-click solution to fix camera failed on Vivo Y78+ devices
@@ -314,9 +332,6 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear data](https://images.wondershare.com/drfone/article/2017/07/14997066321127.jpg "clear data")
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
@@ -387,9 +402,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 1\. Start by visiting “Settings” on your Vivo Y78+ device on which the camera has failed.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![phone settings](https://images.wondershare.com/drfone/article/2017/07/14997069645058.jpg "phone settings")
 
 2\. Now from the list of options before you, select “Backup and reset” and move ahead.
@@ -408,13 +420,15 @@ Note: You will have to set up your Vivo Y78+ device from scratch once it is rese
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Vivo Y78+ devices.
 
-
-
 ## Why Is My Vivo Y78+ Offline? Troubleshooting Guide
 
 Ever had your Vivo Y78+ claim it's offline, leaving you scratching your head about where it went wrong? We get it; it's confusing. That's why this article is here to untangle the mystery.
 
 In the following sections, we're diving into the **"why is My Vivo Y78+ offline"** dilemma that many Android users face. We'll break down the possible reasons behind this common issue and guide you through simple steps on how to fix it. By the end of the article, you’ll be able to get back to smooth internet surfing on your Vivo Y78+. Let’s get started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Does My Vivo Y78+ Say Offline?
 
@@ -456,18 +470,6 @@ Switching to mobile data can be a quick fix if your Wi-Fi is acting up. It ensur
 - **Step 2:** Tap the Wi-Fi icon to turn off the Wi-Fi connection.
 - **Step 3:** Tap Mobile Data to turn it on.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change connection to mobile data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-2.jpg)
 
 ### Solution 2: On and off Airplane mode
@@ -564,6 +566,10 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3,189,324** people have downloaded it
 
 - **Step 2:** Start the repair
@@ -577,6 +583,10 @@ Click Start on the new screen to kick off the repair. Since you're dealing with 
 The platform will detect your Vivo Y78+'s brand. Confirm the Name, Model, Country, and Carrier. If your device is unlocked, choose OPEN in the Carrier section. Agree to the warning, click Next, and proceed with the repair.
 
 ![Confirm your Vivo Y78+’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Download firmware.
 
@@ -596,7 +606,6 @@ Dealing with the "Phone Offline" hiccup on your Vivo Y78+ can be a real headache
 
 Remember, technology can sometimes be tricky. But with patience and the right guidance, you can overcome these challenges.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -609,9 +618,24 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-vegas-pros-latest-features-in-21/"><u>[Updated] The Ultimate Guide to Vegas Pro's Latest Features in '21</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-thermopro-tp67-thermometer-is-it-worth-the-investment/"><u>Affordable ThermoPro TP67 Thermometer - Is It Worth the Investment?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/chrome-stability-guide-for-windows-ending-the-flicker-frustration-of-2024/"><u>Chrome Stability Guide for Windows: Ending the Flicker Frustration of 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/essential-tips-for-picking-leading-free-srt-translation-tools/"><u>Essential Tips for Picking Leading Free SRT Translation Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-infinix-note-30-vip-racing-edition-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Infinix Note 30 VIP Racing Edition – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-poco-x6-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Poco X6 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-x5-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco X5 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-fe-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 FE Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-microphone-problems-expert-tips-and-easy-repair-steps/"><u>Solve iPhone Microphone Problems: Expert Tips & Easy Repair Steps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transferring-your-favorite-spotify-playlist-into-a-written-format/"><u>Transferring Your Favorite Spotify Playlist Into a Written Format</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-solution-get-your-lenovo-x1-carbon-up-to-date-with-new-drivers-for-windows-11windows-7/"><u>Ultimate Solution: Get Your Lenovo X1 Carbon Up to Date with New Drivers for Windows 11/Windows 7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-the-top-5-elite-slow-camera-systems-for-2024/"><u>Unveiling the Top 5 Elite Slow Camera Systems for 2024</u></a></li>
+</ul></div>
 

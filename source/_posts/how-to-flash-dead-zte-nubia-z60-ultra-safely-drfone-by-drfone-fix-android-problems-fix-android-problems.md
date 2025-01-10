@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead ZTE Nubia Z60 Ultra Safely | Dr.fone
-date: 2024-07-14T06:10:35.426Z
-updated: 2024-07-15T06:10:35.426Z
+date: 2025-01-06T16:20:04.112Z
+updated: 2025-01-10T17:57:46.595Z
 tags: 
   - problems
 categories:
@@ -29,17 +29,23 @@ Given below are eight techniques to flash your ZTE Nubia Z60 Ultra safely, depen
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Can a Dead Phone Be Flashed?
 
 Flashing a dead Android phone might be skeptical for many users who have been in such a situation. Although it is possible to flash a dead Android phone, it is essential to be aware of the reasons that lead you into such a situation. Before a remedy, diagnosing the problem is a necessity for retaining the ZTE Nubia Z60 Ultra device.
 
 From battery issues to physical damage to the ZTE Nubia Z60 Ultra device, there can be many reasons your ZTE Nubia Z60 Ultra died. The reasons for a dead Android phone are not restricted to these points. There can be software-related issues or firmware issues that might cause such havoc on your Android.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to flash ZTE Nubia Z60 Ultra in one click
 
 While you are worried about how to flash ZTE Nubia Z60 Ultra instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the ZTE Nubia Z60 Ultra logo.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -113,18 +119,12 @@ Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file ty
 
 Step 3: In this step, download the latest version of Odin on your PC and move it to the desktop, and then right-click on the downloaded Odin file to select “Run as Administrator”.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
 
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![boot in download mode](https://images.wondershare.com/drfone/article/2017/07/14991897353612.jpg)
 
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
@@ -193,6 +193,10 @@ Then move on to select “Dead Phone USB Flashing” from the Firmware Update Bo
 
 ![dead phone usb flashing](https://images.wondershare.com/drfone/article/2017/07/14991900551025.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lastly, just click on “Refurbish” and connect your phone to the PC using a USB cable.
 
 That was it, the flashing process may take up to a few minutes after which your dead ZTE Nubia Z60 Ultra  will restart automatically.
@@ -217,6 +221,10 @@ If the Android vibrates on restarting and the screen does not lighten up, the pr
 
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8: How to fix a dead Android phone by changing the battery
 
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your ZTE Nubia Z60 Ultra, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
@@ -235,8 +243,6 @@ It has been observed that Wondershare Dr.Fone – System Repair (Android) assist
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
 
-
-
 ## My Videos Aren't Playing on ZTE Nubia Z60 Ultra – What Can I Do?
 
 ![person holding their android with black screen](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-1.jpg)
@@ -252,6 +258,10 @@ See what you can do if **videos won’t play on your Android.**
 ## Why Are My Videos Not Playing On Android?
 
 ![person recording cityscape using their android](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Considering how most smartphone manufacturers tend to emphasize the unbelievable quality of their cameras, perfect night modes, seamless slow-motion recordings, superb resolution, and more, you’d expect all images and videos to function flawlessly on your Android. Unfortunately, that’s not always the case.
 
@@ -272,6 +282,10 @@ An array of hardware and software issues could lead to you being unable to play 
 ## What You Can Do if Your Videos Aren’t Playing On Android Phone
 
 Since there are many reasons for having problems with videos not playing on your Android, you could also try many solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. Do a Factory Reset
 
@@ -315,6 +329,10 @@ You might need a network reset if your phone can’t connect to a Wi-Fi network.
 
 ![android network reset](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5. Clear the Cache
 
 The cache stores a copy of your most commonly used data, helping decrease loading time and improve your phone’s performance. However, too much cache data can take up too much space and cause data corruption, preventing you from accessing some of your apps.
@@ -332,8 +350,9 @@ An outdated Android OS is usually the culprit behind many bugs and glitches you 
 Regularly updating your OS to its latest version is always in your best interest. It can solve the problem of your videos not playing and protect you and your sensitive data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7. Repair Your Android OS
 
 ![person holding a phone with black screen](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-8.jpg)
@@ -357,18 +376,6 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your ZTE Nubia Z60
 - **Step 5**: Fill in information about your phone’s **Brand, Name, Model, Country,** and **Carrier**.
 - **Step 6**: Agree with the warning and select **Next**.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare dr.fone device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 7**: Follow the on-screen instructions to put your device in **Download Mode**.
@@ -404,6 +411,10 @@ Cookies are usually there to improve the user experience, allowing you to load w
 
 You’ll first need to launch your mobile browser to clear cookies and browsing data. If you’re using Google Chrome, the process is simple and streamlined. Tap the three dots in the upper right corner and go to **Settings**. From there, go to **Privacy and security > Clear browsing data > Clear data**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10. Reinstall Video Apps
 
 If you still have issues with videos not playing on your ZTE Nubia Z60 Ultra, you could try deleting and reinstalling your video apps. Sometimes, simply updating the video app might still retain the glitch causing problems. However, if you delete it in its entirety and then install it again, the issue should be gone.
@@ -422,9 +433,6 @@ Like other smartphones, Android devices occasionally encounter glitches when pla
 
 Whatever the case is, don’t despair. There’s usually a solution that can fix the problem and ensure your device works as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bricked Your ZTE Nubia Z60 Ultra? Here’s A Full Solution
 
 A bricked phone is a device that won’t turn on no matter what you do and everything you try to do to fix it doesn’t work. Most people will tell you that there is really nothing you can do to fix a bricked device. But with the right information, the right buttons to push and useful additional software you can actually try to fix a bricked device.
@@ -435,7 +443,9 @@ In this article we are going to look at how you can fix your device if you are s
 
 Before we can learn how to fix a bricked device, it is important that you are able to save the data that is on the ZTE Nubia Z60 Ultra device. Having the data saved somewhere else will be the added insurance you need in case anything goes wrong during the process. There are very few software solutions in the market to help you get back data from a bricked device. One of these and the most reliable is [Wondershare Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html).
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -536,7 +546,6 @@ If you are planning on installing custom ROM you need to install Custom Recovery
 
 While installing Custom ROM can actually be a great way to customize your device, it is also the leading reason for bricked devices. Therefore ensure that you understand what you are doing when you decide to customize your device. Learn as much as you can about the process before attempting everything.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -549,9 +558,23 @@ While installing Custom ROM can actually be a great way to customize your device
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-simplified-mac-imaging-mastering-5-easy-screenshot-methods/"><u>[New] Simplified Mac Imaging Mastering 5 Easy Screenshot Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamlining-your-live-broadcast-ps4-recording-via-obs-studio-for-2024/"><u>[New] Streamlining Your Live Broadcast PS4 Recording via OBS Studio for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-examining-the-impact-of-aurora-on-home-entertainment/"><u>[Updated] In 2024, Examining the Impact of Aurora on Home Entertainment</u></a></li>
+<li><a href="https://fox-http.techidaily.com/captivating-your-curbsides-glow-inside-your-house-for-2024/"><u>Captivating Your Curbside's Glow Inside Your House for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-firewall-options-for-blocking-software-to-windows-11s-context-menu/"><u>How to Add Firewall Options for Blocking Software to Windows 11’S Context Menu</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-improvement-features-on-your-pc-with-windows-10/"><u>How to Turn Off Sound Improvement Features on Your PC with Windows 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-soundtracks-with-imovie-tools/"><u>In 2024, Perfecting Soundtracks with iMovie Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-y02t-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y02T – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-note-13-pro-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi Note 13 Pro 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y02t-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y02T Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-a18-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo A18 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-adobe-premiere-pro-cs6-mac-version-absolutely-free/"><u>Updated Get Adobe Premiere Pro CS6 Mac Version - Absolutely Free</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Galaxy S21 FE 5G (2023) ?</u></a></li>
+</ul></div>
 

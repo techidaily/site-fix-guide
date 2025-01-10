@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nokia C12 Pro Screen Not Working | Dr.fone
-date: 2024-07-14T06:17:20.649Z
-updated: 2024-07-15T06:17:20.649Z
+date: 2025-01-08T18:53:16.610Z
+updated: 2025-01-10T17:16:22.470Z
 tags: 
   - problems
 categories:
@@ -45,8 +45,9 @@ It is also possible that the conflicting settings in your device are causing thi
 Fixing the ****Nokia C12 Proscreen not working**** is easy as long as it is not a serious hardware issue. While there are multiple ways to solve this problem, we have chosen the 6 most common and easy solutions. Listed below are the 6 common solutions to solve a Nokia C12 Pro screen unresponsive:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 1. Restart the Nokia C12 Pro Phone
 
 As with any other issue or device, the first fix you should always try first is to restart your device. It is the best solution to fix the ****Nokia C12 Pro not working**** issue if temporary bugs and glitches are the reason behind it. When you restart your device, it flushes out all temporary bugs and glitches while resetting your device’s processes. Use this guide to restart your Nokia C12 Pro device:
@@ -55,9 +56,6 @@ As with any other issue or device, the first fix you should always try first is 
 
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2. Check the Charging Port and Battery
 
 The issues with the battery of your Nokia C12 Pro 5 can also lead to ****Nokia C12 Pro not working****. It can be due to your device's low or near-empty battery. While in some cases, serious issues with the battery can also be behind this problem. Similarly, the reason behind your phone's touch not working can be charging port issues.
@@ -94,14 +92,15 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ****Step 1:**** Launch Settings on your Nokia C12 Pro device and tap “System” to select “Reset Options.”
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select reset options](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-6.jpg)
 
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 6. Replace the Old Screen with A New Screen
 
@@ -144,20 +143,6 @@ Before we can see how to safely enter and exit factory mode, it is important to 
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
 
-
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Backup & Restore (Android)
 
 Flexibly Backup and Restore Android Data
@@ -183,6 +168,10 @@ Then plug in with your device to the computer. When your devic is detected, clic
 
 ![connect android phone to computer](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3. Select the file types to backup
 
 The program will display all the file types it can support to backup. Just select the ones you would like to backup and hit Backup.
@@ -193,9 +182,6 @@ The program will display all the file types it can support to backup. Just selec
 
 After choosing the file's type for backup, click "Backup" to begin backing up your device to your computer. It will take you a few minutes, depending on the storage of the data.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android factory mode](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
 Note: You can use the feature of "Restore From Backup" to restore the backup file to your device, when you have the need later.
@@ -205,8 +191,6 @@ Note: You can use the feature of "Restore From Backup" to restore the backup fil
 From the above parts, you are well aware about what is factory mode. As we discussed, this mode fixes most troubles with Android devices.
 
 But for situations when your Nokia C12 Pro gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Nokia C12 Pro logo or factory mode or blue screen of death with a single click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -247,6 +231,10 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 - On a ‘Home’ button-less device – turn off the Nokia C12 Pro device and push down the ‘Volume Down’, ‘Power’ and ‘Bixby’ buttons for about 10 seconds and un-hold. Now, hit the ‘Volume Up’ button to get into ‘Download’ mode.
 
 ![fix Android stuck in factory mode on android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - For a device with ‘Home’ button – switch it off and hold down the ‘Power’, ‘Volume Down’ and ‘Home’ buttons together for 10 seconds and release. Click the ‘Volume Up’ button for entering ‘Download’ mode.
 
@@ -310,7 +298,9 @@ You can also exit factory mode on unrooted device by going to Settings> Applicat
 
 As much as factory mode can be a useful solution to a number of problems, it can be quite annoying when it pops up unexpectedly. Now you are equipped with 2 effective solutions to help you safely exit factory mode if ever you find yourself in this situation.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7 Solutions to Fix Error Code 963 on Google Play Of Nokia C12 Pro
 
@@ -323,6 +313,10 @@ Error 963 cannot be attributed to a particular App or its update. It is a Google
 Error Code 963, just like any other Google Play Store errors, is not something difficult to deal with. It's a minor glitch which can be fixed easily. There is no need to worry or panic if you see Error 963 on Google Play Store preventing your favorite App from downloading or updating.
 
 Read on to find out more about the Google Play Error 963 and best ways to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is Error Code 963?
 
@@ -340,11 +334,13 @@ Error Code 963 is basically an outcome of data crash which mostly is seen in che
 
 All these reasons and more can handle with ease and you can continue to use Google play services smoothly. In the following segment, we will discuss various fixes to cure the problem to enable to you download, install and update Apps on your device normally.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Easiest solution to fix _Error Code 963_ on Android
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -385,11 +381,19 @@ If the Nokia C12 Pro device contains Home button:
 
 ![fix google play error 963 on android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the Nokia C12 Pro device contains no Home button:
 
 - Switch off your phone/tablet and press the ‘Volume Down’, ‘Bixby’ and ‘Power’ buttons for 10 seconds. Leave the buttons and then press the ‘Volume Up’ button for entering download mode.
 
 ![fix google play error 963 on android without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2 – Press the ‘Next’ button and then the program will commence the firmware downloading.
 
@@ -450,6 +454,10 @@ This method is strictly for certain Apps which cannot be updated because they ar
 Visit “Settings” and select “Apps”.
 
 ![select “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984137395509.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 From “All” Apps click on the App which is unable to update.
 
@@ -513,7 +521,6 @@ This remedy is as simple as it sounds and has helped many HTC users to get rid o
 
 Google Play Errors are a very common phenomenon these days, especially Error Code 963 which usually occurs in the Google Play Store when we try to download, install or update an App. There is no need to worry if you see Error Code 963 pop-up on your screen as your device and its software are not to be blamed for Error 963 to suddenly surface. It is a random error and can be fixed easily by you. You do not need any technical assistance to deal with the issue. All you need to do is follow the steps introduced in this article to use Google Play Store and its services smoothly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -526,9 +533,21 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-a-step-by-step-approach-to-youtube-gold-music-reaction-magic/"><u>[New] A Step-by-Step Approach to YouTube Gold Music Reaction Magic</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-google-meets-grid-view-functionality/"><u>[New] In 2024, Mastering Google Meet's Grid View Functionality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-samsung-ubd-k8500-2023-edition-analysis/"><u>[New] Samsung UBD-K8500 2023 Edition Analysis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-interpreting-the-significance-of-blue-emojis-on-messenger-for-2024/"><u>[Updated] Interpreting the Significance of Blue Emojis on Messenger for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beginner-friendly-linux-systems-ranked-and-analyzed-expert-insights-and-detailed-reviews-spotlight-on-zdnet/"><u>Beginner-Friendly Linux Systems Ranked & Analyzed: Expert Insights and Detailed Reviews – Spotlight on ZDNET</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-itel-p40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel P40 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011687297-complete-teardown-application-recovery-tutorial-no-more-crashes/"><u>Complete Teardown Application Recovery Tutorial – No More Crashes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/demystifying-dfu-mode-on-iphones-the-ultimate-how-to-manual/"><u>Demystifying DFU Mode on iPhones: The Ultimate How-To Manual</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-edits-with-these-top-5-tools-no-youtube-for-2024/"><u>Elevate Your Edits with These Top 5 Tools (No Youtube) for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-hd-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 HD Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-reno-11-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Reno 11 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>
 

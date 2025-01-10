@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Lava Yuva 3 | Dr.fone
-date: 2024-12-29T18:27:20.371Z
-updated: 2025-01-03T19:48:25.213Z
+date: 2025-01-07T18:02:32.982Z
+updated: 2025-01-10T16:51:33.148Z
 tags: 
   - problems
 categories:
@@ -38,6 +38,10 @@ Limited available storage on the Lava Yuva 3 device prevents the installation of
 
 Running an outdated version of the Play Store can cause compatibility issues with the newest versions of apps. You'll miss out on new features and improvements, affecting the overall user experience and the efficiency of the Play Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Google Account Authentication Problems
 
 Issues with verifying Google accounts can restrict access to the Play Store. It prevents you from downloading or updating apps. Authentication problems pose a significant barrier, impacting your ability to stay current with app versions.
@@ -55,6 +59,10 @@ Inaccurate date and time settings on the Lava Yuva 3 device can disrupt the Play
 Technical issues within the Play Store, such as bugs or glitches, can lead to failed downloads. You may encounter unexpected errors, causing uncertainty and potential distrust in the reliability of the app platform.
 
 If you encounter any of these issues, having a reliable tool to fix them is essential. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair offers a solution if you **cannot download from the Play Store**. The platform ensures you can download apps again with a high success rate in minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part II. Having a Third-Party Tool Is Essential To Safeguard Your Apps
 
@@ -127,6 +135,10 @@ A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u
 
 ![android internal storage menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update the Play Store
 
 An outdated Play Store version may lead to compatibility issues. Open the Google Play Store, go to **Settings**, and tap the **Play Store version**. If an update is available, install it to ensure compatibility with the latest apps.
@@ -145,19 +157,11 @@ Authentication issues with your Google account can prevent app downloads. Confir
 
 ![syncing google account on device](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Check Date and Time Settings
 
 Incorrect date and time settings may disrupt the authentication process. Verify that your device's date and time are set correctly. Enable automatic date and time settings to ensure accuracy.
 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Review Download Restrictions
 
@@ -185,6 +189,10 @@ However, like any other electronic device, Lava Yuva 3 phones can sometimes enco
 
 This article will discuss some valuable solutions for dealing with Lava Yuva 3 phone screen unresponsiveness. We will provide step-by-step instructions for troubleshooting and getting your phone back in working order. Whether you're a novice or an experienced user, these tips and tricks will help you navigate this problem and get back to using your phone without any issues. So, let's dive in and explore how to fix a Lava Yuva 3 phone with an unresponsive screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What causes the Lava Yuva 3 Screen unresponsive?
 
 The Lava Yuva 3 screen may become unresponsive due to various reasons. Here are some common situations and their possible causes:
@@ -200,6 +208,10 @@ Overheating, physical damage, and manufacturing defects are some common causes o
 ## The common solutions to solve a Lava Yuva 3 Screen unresponsive
 
 Here are the three most common solutions to deal with phone screens being unresponsive, regardless of the brand:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart the Lava Yuva 3 device
 
@@ -217,6 +229,10 @@ Sometimes, an unresponsive screen can be caused by a dead battery or a faulty ch
 
 **Step 2:** Try a different charger or cable to see if the issue is with the charging accessories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Contact the Pros
 
 ![realme customer service](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-3.jpg)
@@ -224,10 +240,6 @@ Sometimes, an unresponsive screen can be caused by a dead battery or a faulty ch
 If the above solutions don't work, contacting a professional is best. A trained technician can diagnose and fix the problem. Contact the phone manufacturer or an authorized repair center to get help with your phone.
 
 For different Lava Yuva 3 models, there may be additional solutions to consider:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Check the Phone's Temperature
 
@@ -243,6 +255,10 @@ Sometimes, a Lava Yuva 3 phone's screen, specifically Lava Yuva 3 8 Pro, may bec
 
 ![realme reset factory settings](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A factory reset may help fix the problem if none of the above solutions work. Note that this will erase all data and settings on the phone, so be sure to back up your data before resetting. To reset the phone:
 
 **Step 1:** Go to **Settings** \> **Additional Settings** > **Backup and Reset** > **Erase All Data**.
@@ -253,13 +269,13 @@ A factory reset may help fix the problem if none of the above solutions work. No
 
 ![realme new screen](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the phone's screen is physically damaged or cracked, it may need to be replaced. To replace the screen:
 
 - Contact a professional repair center or the manufacturer for replacement parts and installation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to avoid Lava Yuva 3 Screen being unresponsive?
 
@@ -281,10 +297,6 @@ Keep your Lava Yuva 3 device in a temperature-controlled environment. High tempe
 
 Dirt and debris on the screen can cause it to become unresponsive. Use a microfiber cloth to clean the screen regularly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Reduce the number of running apps
 
 Running too many apps at once can overload the system and cause the screen to become unresponsive. Close any apps you're not using to free up system resources.
@@ -296,10 +308,6 @@ Wondershare Dr.Fone is a helpful tool that can help manage and repair your phone
 By following these suggestions, you can help prevent screen unresponsiveness on your Lava Yuva 3 phone. Download Dr.Fone at [<u>https://drfone.wondershare.com/</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) to manage your phone's data effectively and fix any issues that may arise.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -325,13 +333,13 @@ The following are some potential reasons for an unresponsive screen on a Lava Yu
 
 A touch screen not working on Lava Yuva 3 smartphones indicates a soft brick (recoverable by firmware update), often caused by a defective or undercharged battery. System file corruption, old firmware, or failed upgrades are all possible causes. Several customers have complained that after installing a software update, their Lava Yuva 3 4 or 5 device's screen became unresponsive and remained at the boot logo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **There might be issues with the Lava Yuva 3 device itself**
 
 Screens on Lava Yuva 3 devices may become unresponsive for a variety of hardware-related reasons. A broken LCD panel, faulty touch sensor, or loosened ribbon wires are all possible causes. Every Lava Yuva 3 device, including the Note 4 and 5, is susceptible to these problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **There might be errors in the updated software**
 
@@ -347,19 +355,11 @@ Before taking the item in for repairs, see if you can figure out the problem ind
 
 ![restart your phone](https://images.wondershare.com/drfone/article/2023/03/reset-button-android-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Giving your Lava Yuva 3 a restart is one of the most common solutions if you encounter an unresponsive screen on your phone. Here’s how.
 
 **Step 1:** Press and hold the **power button** until the screen becomes black;
 
 **Step 2:** After 1 minute or so, hold the **power button** again to power on the Lava Yuva 3 device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Solution 2: Check your charging port and battery**
 
@@ -371,10 +371,6 @@ If the battery of your Lava Yuva 3 is empty, your screen is expected to be unres
 2. Leave it for about an hour.
 3. Come back to check. Turn your phone on.
 4. Test if the touchscreen is now working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Solution 3: Contact Customer Service**
 
@@ -397,6 +393,10 @@ Steps to activate full screen gestures
 **Step 3:** From here, tap the **screenshot** on the right with the toggle labeled **Full screen gestures**
 
 This may include gestures to get used to but it will also fix when your touchscreen sometimes stops responding.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Solution 5: Backup and Factory Reset is always a choice**
 
@@ -447,16 +447,20 @@ When following the directions, the user may require more research into some trou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-channel-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>[New] 2024 Approved Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-quick-guide-applying-discord-spoiler-tags-right/"><u>[New] In 2024, Quick Guide Applying Discord Spoiler Tags Right</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-premier-3ds-simulators-for-modern-pcs-for-2024/"><u>[New] Premier 3Ds Simulators for Modern PCs for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/echoes-of-entertainment-vr-cinematic-worlds/"><u>Echoes of Entertainment VR Cinematic Worlds</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-tips-for-film-saving-and-trimming-in-adobe-connect/"><u>Essential Tips for Film Saving and Trimming in Adobe Connect</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-s24-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy S24 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo A2? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-a23-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy A23 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-10t-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 10T 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-a58-4g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo A58 4G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-shorts-templates-understanding-the-fundamentals/"><u>[New] 2024 Approved YouTube Shorts Templates Understanding the Fundamentals</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-discovering-2023s-cinematic-hidden-gems-for-2024/"><u>[New] Discovering 2023'S Cinematic Hidden Gems for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-red-zones-best-unraveling-zombie-gaming-delights/"><u>[New] In 2024, The Red Zone's Best Unraveling Zombie Gaming Delights</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-innovative-approach-wearable-unlocks-your-mac-for-2024/"><u>[New] Innovative Approach Wearable Unlocks Your Mac for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-maximize-your-mobile-top-10-free-image-enhancement-tools-for-2024/"><u>[New] Maximize Your Mobile Top 10 Free Image Enhancement Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-practical-steps-for-smooth-recording-of-remote-workshops-on-windowsapple-systems/"><u>[Updated] Practical Steps for Smooth Recording of Remote Workshops on Windows/Apple Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/code-224003-cleared-videos-playable-now/"><u>Code 224003 Cleared, Videos Playable Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-tecno-spark-20-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Tecno Spark 20 Pro+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme V30 | Dr.fone
-date: 2024-12-18T17:27:42.605Z
-updated: 2024-12-24T20:37:29.504Z
+date: 2025-01-09T16:12:17.876Z
+updated: 2025-01-10T16:34:46.811Z
 tags: 
   - problems
 categories:
@@ -81,6 +81,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![completed android system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There are two ways to enter Download Mode: one for Android devices with the Home button and another for those without it.
 
 The steps for entering Download Mode on an Android phone with the Home button are as follows:
@@ -134,7 +138,7 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4. Restart Your Device
@@ -216,19 +220,11 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 ![uninstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Press **OK**.
 - **Step 5:** Then, open the PlayStore and find Spotify.
 - **Step 6:** Tap **Install**to reinstall the app again.
 
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
@@ -288,10 +284,6 @@ Whether you’re using an iPhone or an Android device, you’ll eventually encou
 
 Experiencing a **cell phone blank screen** is not exclusive to Android or iOS users. A **phone screen not turning on** happens all the time due to several factors that may or may not be out of your control. While they can be frustrating, here are some common causes you should know as to why **your phone screen went black but still works.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### A Drained Battery
 
 The first thing that comes to mind when your **phone screen suddenly goes black** is you have a drained battery. Even though this is obvious, it’s still important to mention, as this is usually what most people encounter. To fix this problem, plug your smartphone into a charger and wait for your device to turn on again. If it works, then you just prevented a rather annoying experience.
@@ -305,6 +297,10 @@ If your **phone is working, but the screen is black,** there’s also a high pro
 ### Software Issues
 
 A potential reason why **your phone screen went black but still works** could be because of your smartphone’s software. This problem suggests that your Realme V30 is crashing, potentially freezing your device if not addressed immediately. If this is the cause, then your device is likely experiencing a critical system error, and you should directly try to reboot your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Hardware Problem
 
@@ -348,6 +344,10 @@ If you own an iPhone 7, press and hold the **Side** button and **Volume Down** 
 
 In some cases, your **phone screen is black but still works** because of installing incompatible apps on your iOS/Android device. If the installed app is frequently crashing, it may be the source of a blank cell phone **screen.** Uninstall the problem app to see if the black screen disappears or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Inspect the LCD Connectors
 
 If **your phone screen goes black but still works,** you should inspect the logic board to the LCD screen to see if it has become disconnected. It is common for smartphones that often get dropped a few times. It’s best to plug the connectors back to regain your screen’s functionality.
@@ -380,6 +380,10 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Simply wait for the process to complete and wait for your Realme V30 to restart automatically.
 
 **F****or iOS Users**
@@ -390,6 +394,10 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 ![ios erase all content and settings](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Tap **Continue** and enter your iPhone passcode. A message warns you that the process will delete all media and data and reset all settings.
 
 **Step 4:** Tap **Erase iPhone** to confirm. You’ll be asked to type in your Apple ID and password if **Find My** is active. Enter your password and tap **Erase**.
@@ -399,6 +407,10 @@ The process of booting into **Recovery Mode** is not the same across all Android
 If **your phone screen went black but still works** and doing the methods above did not solve the issue, you can use Wondershare Dr.Fone for [<u>iOS</u>](https://drfone.wondershare.com/ios-system-repair.html) and [<u>Android</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) as a last resort. It’s one of the most popular smartphone repair tools today, enabling you to fix all kinds of annoying scenarios. These include black screen, boot loop, white screen of death, bricked iOS or Android device, and more.
 
 ![drfone system repair main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -411,10 +423,6 @@ Dr.Fone – System Repair can fix all kinds of issues on your Android/iOS, such 
 - **Supports up to 1000+ Android Smartphones and the latest iOS**
 
 All iOS versions, including the latest iOS 16 and iOS 16 beta, are fully supported by Dr.Fone – System Repair. The app handles all your smartphone issues without data loss to secure your info. On the other hand, if you own an Android, the app supports up to 1000+ Android smartphones, making it highly versatile for Android owners.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tech Specs
 
@@ -455,10 +463,6 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![drfone system repair for ios](https://images.wondershare.com/drfone/product-2021/system-repair/swp2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2B (For Android)**: Click **Start.** On the next window, choose the **Brand, Name, Model, Country,** and **Carrier** of your smartphone, then click **Next**.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -468,7 +472,7 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 ![drfone system repair process complete](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
@@ -476,7 +480,7 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 **4,262,204** people have downloaded it
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -549,7 +553,7 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 ![fix Wifi Authentication Error in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Allow the program to download the corresponding firmware. After that, the Android repair will start and get the Wifi Authentication Error fixed in minutes.
@@ -601,10 +605,6 @@ If the above solution won’t work, then you would be required to walk the extra
 2\. This will display a list of all the Wifi networks that are associated with your device. Just long-tap on the Wifi network that you wish to modify. It will open another pop-up window. From here, tap on the option of “Manage network settings”. Sometimes, users also get an option of “Modify network settings” here as well. Simply select it to proceed.
 
 ![Modify network settings](https://images.wondershare.com/drfone/article/2017/06/14981519057338.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. It will display basic information related to your Wifi network. Just tap on the “Show advanced options” button to access more options related to the network setting.
 
@@ -672,17 +672,21 @@ After following these quick and easy suggestions, you would be able to fix the R
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-maximize-fun-choose-from-heres-top-5-chrome-extensions-for-facebook-vids-for-2024/"><u>[New] Maximize Fun Choose From Here's Top 5 Chrome Extensions for Facebook Vids for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>2024 Approved The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
-<li><a href="https://games-able.techidaily.com/4-digital-detectives-ai-infused-puzzles/"><u>4 Digital Detectives: AI-Infused Puzzles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-windows-update-obstacle-uptime-failure-code-0x80246007/"><u>Bypassing Windows Update Obstacle: Uptime Failure, Code 0X80246007</u></a></li>
-<li><a href="https://blog-min.techidaily.com/fast-track-your-video-saving-goals-transform-and-download-from-youtube-in-mp4mp3-format/"><u>Fast Track Your Video Saving Goals: Transform & Download From YouTube in MP4/MP3 Format</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-c55-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme C55 Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-motorola-moto-g84-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Motorola Moto G84 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-quick-start-to-establishing-an-online-platform-for-tech-analysis/"><u>In 2024, Quick Start to Establishing an Online Platform for Tech Analysis</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-c65-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco C65 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nubia-red-magic-8s-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nubia Red Magic 8S Pro Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/techniques-to-prevent-dropouts-in-obs-studio-for-2024/"><u>Techniques to Prevent Dropouts in OBS Studio for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/arge-display-medium-network-selection-tips/"><u>[New] Large Display Medium Network Selection Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-your-first-youtube-journey-a-money-making-blueprint/"><u>[New] Your First Youtube Journey A Money-Making Blueprint</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-tapping-into-no-cost-melodies-for-video-projects/"><u>[Updated] In 2024, Tapping Into No-Cost Melodies for Video Projects</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-navigating-tiktok-media-on-chrome-devices-effortlessly-for-2024/"><u>[Updated] Navigating TikTok Media on Chrome Devices Effortlessly for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>2024 Approved From Vision to Visual Impact YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-itel-p55-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Itel P55 by Name | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-honor-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Honor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-new-horizons-a-comprehensive-review-of-visuals-and-features-in-x-plane-global-flight-simulator-version-11/"><u>Explore New Horizons - A Comprehensive Review of Visuals & Features in X-Plane Global Flight Simulator Version 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-v30t-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme V30T Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-tecno-camon-20-premier-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Tecno Camon 20 Premier 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-the-0x80070n570-snag-a-step-by-step-fix-manual/"><u>Overcoming the 0X80070n570 Snag - A Step-by-Step Fix Manual</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oneplus-12-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On OnePlus 12? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transcodez-facilement-un-fichier-mka-en-format-flac-gratuite-sur-internet-avec-movavi/"><u>Transcodez Facilement Un Fichier MKA en Format FLAC Gratuite Sur Internet - Avec Movavi</u></a></li>
 </ul></div>
 

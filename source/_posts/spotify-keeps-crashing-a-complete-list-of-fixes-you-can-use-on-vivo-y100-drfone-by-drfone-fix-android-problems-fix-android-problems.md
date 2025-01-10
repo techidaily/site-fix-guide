@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y100 | Dr.fone
-date: 2024-12-21T06:22:04.901Z
-updated: 2024-12-24T20:01:04.123Z
+date: 2025-01-08T16:09:09.677Z
+updated: 2025-01-10T18:28:55.853Z
 tags: 
   - problems
 categories:
@@ -47,10 +47,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![select system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Choose the **Android**
 
 ![pick android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
@@ -63,23 +59,19 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![select your android model in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 6:** Tick the **“I agree with the warning, and I am ready to proceed”**checkbox and click **Next**.
 - **Step 7:** Put your Android in **Download Mode**. You can find the steps below these instructions.
 - **Step 8:** The program will automatically download once you put the phone in Download Mode.
 
 ![downloading firmware in progress](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
 
 ![fix your android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 10:** Type “**000000**” in the dialog box and click **Confirm**.
 
@@ -106,6 +98,10 @@ The steps for entering Download Mode on an Android phone with the Home button ar
 The steps for entering Download Mode on Android devices without the Home button are as follows:
 
 ![enter download mode without the home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1:** Turn off your phone.
 - **Step 2:** Press and hold the **Volume Down**, **Bixby**, and**Power** buttons simultaneously.
@@ -261,16 +257,12 @@ When using different apps and websites, your device caches data from those sourc
 ![spotify in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-23.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 4:** Tap **Storage**or **Storage usage**.
 
 ![spotify storage usage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-24.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** Tap **Clear Cache**.
 
@@ -344,10 +336,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Turn On Safe Mode
 
 You should switch to Safe mode whenever an application or piece of software causes a problem on your device. Only the most fundamental system components are loaded and used when operating in Safe mode.
@@ -380,6 +368,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -393,7 +385,7 @@ Resetting your device to its factory settings will return it to its state when y
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
@@ -403,7 +395,7 @@ Resetting your device to its factory settings will return it to its state when y
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
@@ -434,6 +426,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4:**** Before repairing your Vivo Y100, you must boot it into ****Download**** ****mode****. To boot your Vivo Y100 or tablet into DFU mode, follow the steps below:
 
 **For a device that has a Home button:**
@@ -451,10 +447,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
 ![download mode repair android without home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Vivo Y100. And in a while, your Vivo Y100’s system issues will be resolved.
 
@@ -527,6 +519,10 @@ _“_**_All my apps disappeared from my home Android screen._** _What should I d
 
 If you've confirmed that the missing app is installed, but its icon is nowhere to be found on your home screen, don't fret—there are several solutions you can take to locate and restore the **missing app icon on Android**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Check hidden apps
 
 How could the **Android phone icon be missing**? Well, app icons can disappear from your home screen for different reasons. One of the common reasons is you might have accidentally hidden it in your phone. To find and check whether the app is hidden, the steps can be different depending on the phone model you are using.
@@ -549,6 +545,10 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 - **Step 4.** Release to drop the app icon onto the home screen.
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Re-enable disabled app
 
@@ -595,6 +595,10 @@ Click Start on the new screen to kick off the repair. Since you're dealing with 
 
 ![Select the problem and begin the repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Fill in the Vivo Y100 device Details
 
 The platform will detect your Vivo Y100's brand. Confirm the Name, Model, Country, and Carrier. If your device is unlocked, choose OPEN in the Carrier section. Agree to the warning, click Next, and proceed with the repair.
@@ -612,10 +616,6 @@ Follow the instructions to put your Vivo Y100 into Download Mode. Once you are i
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Once finished, click Done and see if your phone has returned to normal.
 
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **More Articles About Android System:**
 
@@ -645,18 +645,21 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-expert-tips-on-inserting-captions-into-youtube-videos/"><u>[New] In 2024, Expert Tips on Inserting Captions Into YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-vidvault-capture-fb-videos/"><u>[New] VidVault Capture FB Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unleash-creativity-personalizing-your-google-meet-interface/"><u>[Updated] Unleash Creativity Personalizing Your Google Meet Interface</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/adjusting-your-screen-display-via-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Adjusting Your Screen Display via Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-apple-iphone-6-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From Apple iPhone 6 Plus - 4 Easy Ways</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/1722904672732-navigating-style-vs-functionality-an-in-depth-look-at-amazfit-gts-wearable-tech/"><u>Navigating Style vs Functionality: An In-Depth Look at Amazfit GTS Wearable Tech</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-magic-vs-2-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor Magic Vs 2? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-x9a-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor X9a? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-sound-problems-during-your-powerpoint-show/"><u>Solving Sound Problems During Your PowerPoint Show</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ultimate-guide-aomei-backupper-essential-questions-answered/"><u>Ultimate Guide: AOMEI Backupper Essential Questions Answered</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-rehabilitating-faulty-obs-camera-connection/"><u>[New] 2024 Approved Rehabilitating Faulty OBS Camera Connection</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-step-up-content-creation-standard-studio-vs-beta-access/"><u>[New] In 2024, Step-Up Content Creation Standard Studio Vs. Beta Access</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-resetting-wi-fi-and-bluetooth-settings-on-apple-macos/"><u>Comprehensive Guide to Resetting Wi-Fi and Bluetooth Settings on Apple macOS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-xiaomi-14-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi 14 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-leave-a-life360-group-on-google-pixel-7a-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Google Pixel 7a Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lightning-lens-work-a-guide-to-speedy-google-collage-creation/"><u>Lightning Lens Work A Guide to Speedy Google Collage Creation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-ce-3-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord CE 3 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-zte-blade-a73-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of ZTE Blade A73 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-restoring-internet-access-to-your-microsoft-surface-computing-device/"><u>Quick Fixes: Restoring Internet Access to Your Microsoft Surface Computing Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-your-new-ipad-pro-air-and-pencil-pro-before-launch-top-deals-on-zdnet-now/"><u>Secure Your New iPad Pro, Air, and Pencil Pro Before Launch - Top Deals on ZDNET Now!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/sony-xperia-5-v-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 5 V Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-15-pro-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-guide-top-10-photography-frame-tools/"><u>Ultimate Guide Top 10 Photography Frame Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/worlds-words-seeking-the-most-elongated-term/"><u>World's Words: Seeking the Most Elongated Term</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor X9b Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:15.181Z
-updated: 2024-07-15T06:16:15.181Z
+date: 2025-01-09T17:01:24.143Z
+updated: 2025-01-10T17:05:58.328Z
 tags: 
   - problems
 categories:
@@ -111,6 +111,10 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 
 ![dr.fone phone toolbox](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To sum up this article, it can be said that issues like ****Honor X9b not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
@@ -119,9 +123,6 @@ To sum up this article, it can be said that issues like ****Honor X9b not workin
 
 Google Play Store is a necessary and bundled service of any Android device. This app is required to download or even run any apps. So, getting an error like Play store not working or Play Store crashing is very unfortunate and a matter of a headache. Here we tried to put the best solution to overcome this issue. Keep reading this article for all the 11 best solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. The recommended method to fix Google Play Store issues
 
 If you search on the internet, you may find various tricks dealing with Google Play Store not working issue. However, either to try each of them or choose several to follow would certainly cost a lot of time. What's more, we are not sure whether they will really work. Therefore, we would recommend you with a more effective and fast way, that is to use [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), a dedicated Android repair tool to fix Google Play Store, not working issues just in one click.
@@ -163,9 +164,17 @@ A most effective method to fix Google Play Store not working
 
 ![fix google play store stopping by flashing firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Wait until the Android repair process is complete. Start your Android and Google Play Store, you can then find that the Google Play Store not working issue no longer exists.
 
 ![google play store stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Video tutorial to fix Google Play Store not working
 
@@ -213,10 +222,11 @@ Step 2 – Now find “Google Play Store” and open it.
 
 Step 3 – Now, instead of tapping “Clear cache”, tap on “Clear data”. This will erase all the data and settings from the Google Play store.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on “Clear data”](https://images.wondershare.com/drfone/article/2017/06/14985033317238.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After this, open “Google Play Store” and now your problem might be solved now.
 
@@ -266,11 +276,12 @@ Step 3 – Now, tap on “Clear cache”. And you are done.
 
 ![tap on “Clear cache”](https://images.wondershare.com/drfone/article/2017/06/14985037595737.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now go back and try to open Google Play store again. This might solve the Google Play Store has stopped the problem by now. If not, check the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7\. Disable the VPN
 
 The VPN is a service to get all the media outside your geographic location. This is also used to install a country-specific app in another country. But sometimes it can create a problem with Play Store crashing.  So, this is recommended to try disabling the VPN.
@@ -327,8 +338,6 @@ This will take a while to reset your device completely. After completion, start 
 
 The above methods are the best 11 among all the solutions you can get for your Play Store not working on wifi or Play Store crashing error. Try one by one and you might get rid of this problem.
 
-
-
 ## Reliable User Guide to Fix Honor X9b Running Slow and Freezing
 
 Android smartphones have opened a lot of doors for their users. They continue to evolve year after year with the hope of giving the world a wonderful digital experience. So far, we can all agree that they’re going the extra mile and doing a really great job. Android phones today are all packed with supreme capabilities that are beneficial to everyone.
@@ -354,8 +363,9 @@ Simply put, clock speed is basically the speed at which the CPU cores can carry 
 In a simple language, Random Access Memory (RAM) temporarily stores the data from apps that are currently running. Smartphones can be more flexible with multi-tasking if their RAM has enough space. So if you’re among these users who perform multiple tasks simultaneously, you better choose a device with more RAM.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Internal Storage
 
 The mobile applications installed on your smartphones are directly related to internal storage. The apps save their data every time, so they behave strangely when the Honor X9b device runs out of storage. If you’re using heavy mobile applications, it’s best to opt for smartphones with huge internal storage.
@@ -372,9 +382,17 @@ It’s great to have an Android phone that can flawlessly multi-task. However, n
 
 Mobile apps need to save data on your phone. They perform the tasks based on the data stored on the Honor X9b device. So if your Honor X9b is slow, it’s possible that your device is already running out of storage. Each app has its own storage requirement. If your phone goes below that, the app will surely crash and not work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Animation Speed is Way Too Slow
 
 You can modify the Honor X9b device’s animation type and speed on your Honor X9b via the developer’s option. However, altering its default settings can sometimes make the Android phone run slow. If the speed is set slower, more delays are added to the animation. Hence, it takes a while for Your Honor X9b to launch an app or complete a certain process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### You’re Using an Outdated Android Version
 
@@ -383,6 +401,10 @@ If your Honor X9b is running slow and freezing, the Honor X9b device’s softwar
 ### Your Phone is Experiencing Some System Issues
 
 Operating systems and device software serve as the main component of all smartphones. Sometimes, it runs into inevitable problems caused by computer bugs and other glitches. When it happens, the Honor X9b device’s overall performance is affected. So that can be the reason why sometimes your Honor X9b is running slow and freezing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Your Internet Connection is Unstable
 
@@ -411,6 +433,10 @@ If your Honor X9b is running slow and freezing, it’s likely because you're run
 
 ![uninstall android apps](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Click **Ok** if it asks you to confirm the action.
 
 Wait until the app icon disappears from the home screen.
@@ -424,9 +450,6 @@ _Initiate the following steps first to enable the developers option on your devi
 - **Step 1:** Go to **Settings.**
 - **Step 2:** Find the **About Phone** option. Click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable developers options](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-3.JPG)
 
 - **Step 3:** Find the **Build Number.** And then click on it seven times.
@@ -530,7 +553,6 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 Android phone is capable of performing lots of stuff. It can assist you in both your personal and professional tasks. But if it’s sluggish and doesn’t execute optimally, the good things it promises all go down the drain. So if you notice that your Honor X9b is running slow and freezing, act fast to resolve the issue. [<u>Wondershare Dr.Fone</u>](https://drfone.wondershare.com/guide/android-repair.html) can be of great help in this kind of situation. It’s an all-in-one mobile solution that can assist you with system repair, phone backup, data recovery, and a lot more.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -543,9 +565,19 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-winning-with-facebook-videos-for-2024/"><u>[New] The Ultimate Guide to Winning with Facebook Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capturing-beats-studio-mac-basics/"><u>2024 Approved Capturing Beats Studio Mac Basics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-integration-in-bing-by-microsoft/"><u>AI Integration in Bing by Microsoft</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-hp-officejet-3830-drivers-available-for-windows-systems/"><u>Compatible HP OfficeJet 3830 Drivers Available for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-best-in-gaming-displays-with-alienwares-360-hz-oled-monitor-high-score-meets-low-cost/"><u>Get the Best in Gaming Displays with Alienware’s 360 Hz OLED Monitor - High Score Meets Low Cost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insights-on-codegpt-envisioning-a-world-with-ai-coders/"><u>Insights on CodeGPT: Envisioning a World with AI Coders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/live-stream-frontier-deciding-between-obs-and-twitch-space-for-2024/"><u>Live Stream Frontier Deciding Between OBS and Twitch Space for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-magic-5-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor Magic 5? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-motorola-g24-power-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola G24 Power? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c51-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C51 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-comprehensive-23-twee-tide-digest-for-2024/"><u>The Comprehensive '23 Twee-Tide Digest for 2024</u></a></li>
+</ul></div>
 

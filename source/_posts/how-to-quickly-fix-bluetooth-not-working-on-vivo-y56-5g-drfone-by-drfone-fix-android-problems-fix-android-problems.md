@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Vivo Y56 5G | Dr.fone
-date: 2024-07-14T06:14:58.962Z
-updated: 2024-07-15T06:14:58.962Z
+date: 2025-01-06T16:27:57.627Z
+updated: 2025-01-10T18:33:52.055Z
 tags: 
   - problems
 categories:
@@ -35,8 +35,6 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Vivo Y56 5G. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -72,6 +70,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Vivo Y56 5G and start using it and your Bluetooth features.
 
 ### 2.2 Restart Android and turn on Bluetooth again
@@ -87,8 +89,9 @@ One of the most common solutions in technology is simply to turn it on and off a
 5. Try to connect your Bluetooth device to what you were trying to do before
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.3 Clear the Bluetooth cache
 
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
@@ -134,9 +137,6 @@ Here’s how to find out;
 
 ### 2.6 Turn on the discoverable feature
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - discoverable feature](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-discoverable.jpg)
 
 To ensure your Bluetooth can connect to other devices, it’s important to make sure you’re making your device discoverable to other Bluetooth devices. If it’s hidden, other devices won’t be able to find it, and sometimes it can bug and prevent connections.
@@ -171,9 +171,6 @@ The further away the Vivo Y56 5G devices are from each other, the less likely th
 
 ### 2.9 Avoid interference of other Bluetooth sources
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - avoid interference](https://images.wondershare.com/drfone/article/2019/04/bluetooth-device-interference.jpg)
 
 The final consideration you’ll want to think about is that Bluetooth radio waves, or wireless waves, can interfere with each other. This means they can bounce off each other or get muddled up and make things confusing from your devices.
@@ -187,6 +184,10 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 ## Part 1: Symptoms when “Play Store Stuck on Downloading”
 
 Just as any problem gives some indication of anything wrong is going to befall. Similarly, a user does feel some unexpected turns of events resulting in **_Play Store to stick at downloading_**. If one happens to see that the progress bar has suddenly frozen to a certain scope and taking ages to march any further, it is treated as the first signs for Play store not working properly. Another, such scenario is where your apps are not able to download easily. Rather, the Play store reflects a message downloads are yet in the pending queue. If one happens to witness such problems, these can be in fact be giving you the warning signal of the Play store problem
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Causes of why “Play Store Stuck on Downloading”
 
@@ -210,8 +211,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -241,6 +240,10 @@ Over the following screen, select “Android Repair” placed at the left panel 
 
 ![play store stuck on downloading - go to android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Fill in the information**
 
 It is important to add in all the necessary information for successful execution of program. Make sure to give details of “Brand”, “Name”, “Country”, “Model” and all other fields.
@@ -260,6 +263,10 @@ Fret not, the program will automatically detect the most suitable firmware for y
 After the package downloads, program will repair all kinds of problems surfacing over your phone automatically. This way, the **_Play store stuck on downloading_** will get resolved fully.
 
 ![get to repair android to fix play store download pending](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.4 Clear data and cache of Play Store and download again
 
@@ -284,6 +291,10 @@ When was the last time you cared to update your Play store app? Generally, users
 
 ![update device to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/update-play-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.6 Try another Google account
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
@@ -291,8 +302,6 @@ If you’re unable to see a streak of hope and wondering why my **_Play Store is
 ### 3.7 Avoid downloading large apps
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
-
-
 
 ## Play Store Not Working On Vivo Y56 5G? 8 Solutions Inside
 
@@ -315,6 +324,10 @@ The inability to open the Play Store leaves you without access to new apps or up
 ### Crashing Issues
 
 [<u>Frequent crashes</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html) undermine the stability of the Play Store. Users attempting to browse or download apps may find themselves abruptly kicked out of the application. It can disrupt your intended tasks and cause annoyance in the long run.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Not Responding Errors
 
@@ -342,11 +355,19 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 
 ![man having issues on mobile phone](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Network issues.**Unstable or poor internet connections can disrupt the communication between the Vivo Y56 5G device and the Play Store. It can lead to frequent crashes.
 - **Outdated Play Store version.**Running an outdated version of the Play Store may result in compatibility issues. The lack of essential updates can cause the application to stop unexpectedly.
 - **Cache and data accumulation**. Over time, cached data and accumulated data in the Play Store can become corrupted. It can hinder the smooth operation of your phone and contribute to sudden stops.
 - **Google account problems**. Authentication issues, incorrect credentials, or other problems with the linked Google account can disrupt the Play Store's functionality. This can also lead to repeated crashes.
 - **System glitches and bugs.**Inherent glitches and bugs within the Android operating system may affect the Play Store's performance. They can cause your device to stop unexpectedly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part III.7 Quick Solutions To Resolve Play Store Not Working Issues
 
@@ -363,9 +384,6 @@ Revitalize your Google Play Store by addressing performance issues. Clearing cac
 
 ![clearing cache and date on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Update Play Store
 
 Enhance your Play Store's functionality by ensuring it's up-to-date. This method suits those who haven't updated their Google Play Store for a long time. Follow the steps below.
@@ -387,6 +405,10 @@ Restore your device's app settings to default for improved functionality. Below 
 - **Step 2:** Tap the three dots in the top-right corner and choose **Reset app preferences**.
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Re-add Google Account
 
@@ -452,9 +474,6 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 - **User-Friendly interface**. Dr.Fone is designed with simplicity in mind. It offers an easy-to-use interface that caters to both novice and experienced users.
 - **High success rate**. The software boasts a high success rate in resolving Android issues. Its effectiveness in tackling various problems has garnered trust among users. It's one of the go-to solutions for those seeking reliable and efficient system repairs.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,131,376** people have downloaded it
@@ -464,7 +483,6 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 Addressing issues when your **Google Play Store does not work** is crucial for an uninterrupted Android experience. Follow the outlined steps to regain control and enjoy a seamless app experience. Don't let frustrations linger; take immediate action for a hassle-free Google Play Store.
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -478,9 +496,18 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/broadcasting-to-the-big-screen-watching-fb-videos-on-tv/"><u>Broadcasting to the Big Screen Watching FB Videos on TV?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-value-and-reliability-a-comprehensive-revelation-of-the-procase-sleeve-for-macbook-pro-13/"><u>Discovering Value & Reliability: A Comprehensive Revelation of the ProCase Sleeve for MacBook Pro 13</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-mp4-to-m4a-conversion-discover-three-easy-techniques/"><u>Effortless MP4 to M4A Conversion: Discover Three Easy Techniques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-zte-nubia-z60-ultra-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead ZTE Nubia Z60 Ultra Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-tecno-pova-6-pro-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Pova 6 Pro 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-integrating-linktree-in-your-tiktok-bio-for-maximum-impact/"><u>In 2024, Integrating Linktree in Your TikTok Bio for Maximum Impact</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-link-lore-when-does-gear-give-way-to-grids/"><u>In 2024, Live Link Lore When Does Gear Give Way to Grids?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-release-enhanced-wonderfox-version-supports-iphone-5s-and-5c-for-seamless-video-conversion-experience/"><u>New Release! Enhanced WonderFox Version Supports iPhone 5S and 5C for Seamless Video Conversion Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-90-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor 90 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-magic-5-lite-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor Magic 5 Lite Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme Narzo N53 | Dr.fone</u></a></li>
+</ul></div>
 

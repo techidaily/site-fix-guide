@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi 12 5G | Dr.fone
-date: 2024-07-14T06:15:14.369Z
-updated: 2024-07-15T06:15:14.369Z
+date: 2025-01-03T17:13:55.202Z
+updated: 2025-01-10T16:19:35.769Z
 tags: 
   - problems
 categories:
@@ -36,8 +36,6 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Bluetooth issues in one click
@@ -60,6 +58,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
 
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -71,6 +73,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
 
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Xiaomi Redmi 12 5G and start using it and your Bluetooth features.
 
@@ -90,6 +96,10 @@ One of the most common solutions in technology is simply to turn it on and off a
 
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Every service on your Xiaomi Redmi 12 5G using a feature called a cache. This is where information is stored to help the feature run properly and give you the best experience. However, over time this can get messy and can cause problems with your Bluetooth feature.
 
 By clearing the cache, you can restart the service and hopefully clear up any issues or problems you may be experiencing.
@@ -102,9 +112,6 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 
 ### 2.4 Remove paired devices
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - remove paired devices](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-paried.jpg)
 
 Sometimes, you may have a problem with the Xiaomi Redmi 12 5G device you’re trying to connect to via Bluetooth, especially if this is a device you’ve updated. To counter and repair this, you’re going to need to remove the paired devices saved with your device and then reconnect them.
@@ -166,9 +173,6 @@ One of the common misconceptions of Bluetooth is just how far the wireless range
 
 The further away the Xiaomi Redmi 12 5G devices are from each other, the less likely the connection will remain secure. As a rule of thumb, Bluetooth can work up to 100 meters, but to play it safe, always try and keep your devices under 50m apart.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.9 Avoid interference of other Bluetooth sources
 
 ![android bluetooth problems - avoid interference](https://images.wondershare.com/drfone/article/2019/04/bluetooth-device-interference.jpg)
@@ -179,13 +183,15 @@ With this in mind, you’ll want to make sure you’re limiting the amount of Bl
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Xiaomi Redmi 12 5G to the Xiaomi Redmi 12 5G device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
 
-
-
 ## Xiaomi Redmi 12 5G Stuck on Screen – Finding Solutions For Stuck on Boot
 
 The market has embraced Xiaomi Redmi 12 5G  for being the pioneers in the industry. Although the company lacked in providing explicit smartphones, they were still able to catch up with the race. Xiaomi Redmi 12 5G C31, known to provide durability of the next level, is taking up the latest shelves of Xiaomi Redmi 12 5G smartphones. Although the company promises reliability, there are several problems involving such smartphones.
 
 One prominent solution stated by Xiaomi Redmi 12 5G users involves the screen stuck in the boot. If your ****Xiaomi Redmi 12 5G  is stuck on the "Xiaomi Redmi 12 5G" screen**** for no particular reason, you will have to read this article. As this article tackles all reasons involving the problem, it comes up with the necessary solutions. These solutions will help Xiaomi Redmi 12 5G users find solutions for their stuck screens on the boot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Causes Xiaomi Redmi 12 5G Screen Stuck on Boot?
 
@@ -281,6 +287,10 @@ If the issue of the ****Xiaomi Redmi 12 5G  stuck on the "Xiaomi Redmi 12 5G" s
 
 What if you come to know that you can avoid the Xiaomi Redmi 12 5G screen stuck-on boot problem? There are a set of tips and tricks that you can follow to explain how to prevent such an issue in the first place. Follow these tips to learn more about saving your Xiaomi Redmi 12 5G from such miserable conditions:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Protect from Malware
 
 The first thing to protect your Xiaomi Redmi 12 5G smartphone from getting stuck on the boot is to keep it safe from unauthorized and malicious data. The best thing to keep a device secure is to follow all security protocols and avoid bypassing them. If you try downloading something not authorized by the Play Store itself, for instance, an APK, it can make your device vulnerable to malware.
@@ -293,11 +303,19 @@ If you feel frustrated by issues like ****Xiaomi Redmi 12 5G being stuck on the 
 
 Changing or modifying system files can be fatal for smartphones. Thus, to keep your Xiaomi Redmi 12 5G safe, you need to keep your hands away from such important files. Modifying a single file can make your device useless or put you in situations like a Xiaomi Redmi 12 5G smartphone stuck on the boot. For that, the best tip is to keep yourself out of engagement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Use Wondershare Dr.Fone To Manage All Data With Ease
 
 As you have observed, the power of Dr.Fone can be a perfect phone manager for you at all times. While providing system repair services, it can also help you manage your device's data and other statuses. Thus, consider keeping Dr.Fone close to your device and its operations. In this way, you will be able to have complete control over all types of data present in the Xiaomi Redmi 12 5G smartphone.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,675,795** people have downloaded it
 
@@ -337,9 +355,6 @@ The Google Play Services keeps stopping error is an infamous one, and it can app
 
 Regardless of what’s causing the issue on your phone, we’ve compiled a list of ten possible solutions, and you can find those below.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solutions to Try When Google Play Services Keeps Stopping
 
 There are many solutions for the issue of Google Play Services that keeps stopping. We’ve listed the most famous and effective ones, and you’ll find them below in no particular order. Try them out and see whether they fix the issue.
@@ -357,6 +372,10 @@ A factory reset on any smartphone removes all your data on the phone’s interna
 - **Step 4**: Input your password and confirm the action.
 
 Your phone will now restart and start the reset process. Once the factory reset completes, your phone will look brand new, and you’ll need to install all your apps again. Moreover, your Google Play Services app will likely get fixed by this, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2. Update Your System
 
@@ -427,12 +446,13 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
 - **Step 6**: Enter the code and hit **Confirm**to continue the system repair process. When it’s done, click the **Done**
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![confirm android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7. Clear Cache
 
@@ -446,6 +466,10 @@ The easiest and the most obvious fix for many Android apps is clearing the app�
 - **Step 3**: Repeat the process for the **Google Play Services**
 
 If this doesn’t work, move on to another possible fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8. Check Date and Time Settings
 
@@ -472,9 +496,6 @@ Although permissions rarely change, they can cause issues if you change them acc
 
 Once inside Permission Settings, check whether the Google Play Services and Play Store apps have sufficient permission to do their jobs and whether any required permissions were recently removed. If so, grant these two apps their permissions back.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,953,228** people have downloaded it
@@ -484,7 +505,6 @@ Once inside Permission Settings, check whether the Google Play Services and Play
 Although it’s an incredibly frustrating error, the “Unfortunately, Google Play Services has stopped” message is more annoying than serious. We’ve explained why it happens, but we’ve also given you a list of solutions to fix it.
 
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -498,9 +518,26 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-youtube-success-mastering-the-art-of-shorts-thumbnails/"><u>[New] 2024 Approved Unlocking YouTube Success Mastering the Art of Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-essence-of-great-edu-videos-a-compreenasion-guide-to-youtube-excellence/"><u>[New] In 2024, The Essence of Great Edu-Videos A Compreenasion Guide to YouTube Excellence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-plunge-into-metaverse-top-8-high-tech-goggles-and-helmets/"><u>[New] Plunge Into Metaverse Top 8 High-Tech Goggles & Helmets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-streams-best-4k-video-downloaders-summarized/"><u>[New] Transform Your Streams Best 4K Video Downloaders Summarized</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-tips-for-perfect-iptv-stream-snapping/"><u>2024 Approved Tips for Perfect IPTV Stream Snapping</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-reactivating-frozen-windows-itunes-application/"><u>Essential Tips: Reactivating Frozen Windows iTunes Application</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y17s-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y17s Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-20-timeless-anime-themes-making-a-mark-on-tiktok/"><u>In 2024, 20 Timeless Anime Themes Making a Mark on TikTok</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reinstating-windows-photo-viewer-on-windows-10-a-twin-strategy/"><u>In 2024, Reinstating Windows Photo Viewer on Windows 10 A Twin Strategy</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-note-30-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-a05s-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A05s Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-showdown-how-does-apple-tv-4k-stack-up-against-roku-ultra-in-a-side-by-side-comparison/"><u>Top Showdown: How Does Apple TV 4K Stack Up Against Roku Ultra in a Side-by-Side Comparison?</u></a></li>
+</ul></div>
 

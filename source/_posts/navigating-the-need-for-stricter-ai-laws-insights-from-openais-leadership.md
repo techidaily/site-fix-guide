@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Need for Stricter AI Laws: Insights From OpenAI's Leadership"
-date: 2024-12-29T21:58:52.212Z
-updated: 2025-01-03T20:50:05.918Z
+date: 2025-01-08T18:18:33.869Z
+updated: 2025-01-10T19:04:43.110Z
 tags:
   - chatgpt
   - open-ai
@@ -17,23 +17,19 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  Trading crypto is and always has been a risky game, so it makes sense to pursue avenues that may make it a little easier. In 2023, the use of ChatGPT in crypto trading became evident, as this chatbot is a hub of information. However, there are some reasons why using ChatGPT to trade cryptocurrency may be a bad idea.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Lack of Real-Time Data
 
  The cryptocurrency market is always changing. A coin can be worth $10 on Monday and then $5 on Tuesday. Because of this, real-time data is crucial in crypto trading, be it prices, trends, or predictions. Using outdated information can result in poor investments and a loss of funds, so it's important to be on top of things.
 
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The huge success of ChatGPT, as well as the release of[similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/) , has brought the concern of hallucination into the limelight.
 
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
@@ -69,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
 
  ChatGPT doesn't use common sense when answering a question, as it isn't advanced enough to make decisions based on its own opinion. What ChatGPT can do is interpret what you're saying and provide you with an interpretable response using its training data.
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lacks Insights Into Macroeconomic Factors
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Revolutionary but Far From Perfect
@@ -116,21 +116,22 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-master-the-art-of-vlogging-with-these-top-8-cameras/"><u>[Updated] In 2024, Master the Art of Vlogging with These Top 8 Cameras</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-iphone-video-editing-for-quick-clear-trims/"><u>[Updated] Master iPhone Video Editing for Quick, Clear Trims</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/breathe-new-life-into-corrupted-images/"><u>Breathe New Life Into Corrupted Images</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-hot-30-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Hot 30 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-sound-of-funny-ringtones-recommended-websites/"><u>In 2024, Sound of Funny Ringtones' Recommended Websites</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-superior-approaches-turning-visual-content-into-music-files/"><u>In 2024, Superior Approaches Turning Visual Content Into Music Files</u></a></li>
-<li><a href="https://solve-info.techidaily.com/is-it-possible-to-run-external-antivirus-alongside-windows-defender-learn-how-on-yl-computing/"><u>Is It Possible to Run External Antivirus Alongside Windows Defender? Learn How on YL Computing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/motorola-edge-40-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nubia-z50-ultra-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Z50 Ultra Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-x100-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo X100 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-resolution-steps-handling-chatgpt-maxed-out-alerts-on-windows-systems/"><u>Quick Resolution Steps: Handling ChatGPT Maxed-Out Alerts on Windows Systems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-google-pixel-8-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Google Pixel 8 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-clearing-the-dns-resolver-cache-on-ubuntu-systems/"><u>Step-by-Step Guide: Clearing the DNS Resolver Cache on Ubuntu Systems</u></a></li>
-<li><a href="https://win-data.techidaily.com/windows-10-troubles-on-the-rise-for-microsoft-critical-time-pressure-as-2024-approaches-zdnet-report/"><u>Windows 10 Troubles on the Rise for Microsoft - Critical Time Pressure as 2024 Approaches | ZDNet Report</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-the-most-reliable-royalty-free-audio-libraries/"><u>[New] In 2024, Discover the Most Reliable Royalty-Free Audio Libraries</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unleashing-creativity-smartphone-filmmaking-and-youtube-thumbnails/"><u>[New] In 2024, Unleashing Creativity Smartphone Filmmaking & YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-guide-to-professional-gopro-video-making/"><u>[New] The Ultimate Guide to Professional GoPro Video Making</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-creating-professional-looking-videos-with-windows-8-movie-maker/"><u>[Updated] 2024 Approved Creating Professional-Looking Videos with Windows 8 Movie Maker</u></a></li>
+<li><a href="https://video-capture.techidaily.com/dvd-dvd/"><u>市販DVDをパソコンに移行する効果的な方法 - DVDデジタル化ガイド</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-asus-rog-phone-7-ultimate-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Asus ROG Phone 7 Ultimate in Minutes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-magic-6-lite-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor Magic 6 Lite Phone? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-s24-ultra-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy S24 Ultra – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-v30t-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme V30T Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-v29-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V29 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-smart-8-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Smart 8 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-chatgpt-add-ons-skip-these-to-save-time/"><u>Top 6 ChatGPT Add-Ons: Skip These to Save Time</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Sony Xperia 5 V | Dr.fone
-date: 2024-07-14T06:14:00.820Z
-updated: 2024-07-15T06:14:00.820Z
+date: 2025-01-04T17:10:04.306Z
+updated: 2025-01-10T17:16:47.796Z
 tags: 
   - problems
 categories:
@@ -28,6 +28,10 @@ However, the problems don’t stop there. You may have problems with turning you
 
 Due to the complicated nature of Bluetooth technology, there could be many reasons as to why your Bluetooth feature is playing up in this way, but that doesn’t mean it can’t be fixed. For the rest of this guide, we’re going to explore the nine need-to-know ways you can fix the Bluetooth problems not working on your Sony Xperia 5 V as quickly as possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
@@ -36,7 +40,9 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -54,9 +60,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step One** Make your way over to the Wondershare website and download the Dr.Fone - System Repair (Android) software to either your Mac or Windows computer. Install the downloaded file by following the on-screen instructions. Once installed, open the software, so you’re on the Main Menu.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - use a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step Two** Connect your Sony Xperia 5 V to your computer using the USB cable, wait a couple of seconds, and then click the System Repair option. On the Menu on the left, click Android Repair, and then press Start.
@@ -92,6 +95,10 @@ One of the most common solutions in technology is simply to turn it on and off a
 ### 2.3 Clear the Bluetooth cache
 
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Every service on your Sony Xperia 5 V using a feature called a cache. This is where information is stored to help the feature run properly and give you the best experience. However, over time this can get messy and can cause problems with your Bluetooth feature.
 
@@ -145,6 +152,10 @@ Here’s how to turn on your Bluetooth discoverable feature;
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Sony Xperia 5 V device you’re trying to connect too
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.7 Exclude Bluetooth issues of the other device
 
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
@@ -158,9 +169,6 @@ By testing out another Bluetooth device to see if it will work with your preferr
 3. If the new device doesn’t connect to your Bluetooth device, you’ll know there’s a problem with your Bluetooth device, not your Sony Xperia 5 V
 4. If the Sony Xperia 5 V devices connect, you’ll know there’s a problem with your Sony Xperia 5 V
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.8 Place both devices within close proximity
 
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
@@ -194,9 +202,6 @@ Trust me, once you face an error it’s frustrating until you find a solution to
 
 Sometimes people think that they have endangered the fate of humanity because of the error that is being displayed (Just Kidding). Don’t worry you haven’t crashed any server or did any damage to your device but you just gave your device a lot of work. Before you got this error you were downloading a lot of apps right. Well, that’s the exact reason why you came up with this error in the first place. There are various reasons behind this error code 920, however, the prominent ones are –
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![error code 920](https://images.wondershare.com/drfone/article/2017/06/14985021968933.jpg)
 
 - a. Too much load on your data connection.
@@ -204,6 +209,10 @@ Sometimes people think that they have endangered the fate of humanity because of
 - c. Network connection is not stable.
 
 There are a lot of Android users out there and the error 920 on play store doesn’t have a unique solution. You’ll have to try out a bunch of them and find out what works for your device. So one of the given four methods below is definitely going to work on your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 5 Solutions to fix error 920
 
@@ -247,6 +256,10 @@ Then connect your Sony Xperia 5 V using the official cable and select the ‘And
 
 ![fix error code 920 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dr.Fone will now download your firmware and automatically install it onto your device. Your phone will then reset, and you’ll be ready to use it without experiencing that annoying error 920 play store code!
 
 #### **METHOD 2: Re-installing the application**
@@ -262,6 +275,10 @@ Step 3 - Uninstall it or even uninstall all the update (If the error came when y
 Step 4 - Now you clear the task manager and try installing it once again. If the play store error 920 doesn’t come then you have solved the problem and now wasn’t that easy. So it’s always best to try this step before doing anything else.
 
 ![error code 920-install apps](https://images.wondershare.com/drfone/article/2017/06/14985022232651.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **METHOD 3: Switching off and turning the wifi (cellular data) on**
 
@@ -309,9 +326,6 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 
 Smartphones nowadays contribute to our daily workflow, whether you’re a student or a professional. They get more sophisticated and add new features every year, making them more attractive with each new release. However, users sometimes deal with their **screen touch not working** on Android, raising various concerns.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix unresponsive android/ios touchscreen intro](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-01.jpg)
 
 If you are facing a similar issue, this page has all the solutions to teach you **what to do if your phone screen is not working.** By exploring the different methods below, you will be able to know how to fix a frozen phone touch screen as an Android user. Read on for more information.
@@ -370,6 +384,10 @@ Here’s how to force restart your smartphone to fix your **phone screen that’
 
 ![samsung force restart](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **E****xample 2: For Sony Xperia 5 V Redmi**
 
 If your Sony Xperia 5 V Redmi **phone is stuck on loading screen** or “thinking” for a long time without responding, reboot it in just two steps.
@@ -380,6 +398,10 @@ If your Sony Xperia 5 V Redmi **phone is stuck on loading screen** or “thinki
 
 ![reboot xiaomi redmi options](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Update Your Software
 
 Your smartphone may behave erratically due to software bugs. While these are out of your control, you can quickly fix **your phone not responding to touch** by simply updating your OS to the latest version. Here’s how.
@@ -387,9 +409,6 @@ Your smartphone may behave erratically due to software bugs. While these are out
 - For iOS users, go to your iPhone **Settings**\> **General** > **Software Update** > **Download and Install**.
 - For Android owners, go to **Settings > Software Update.** Tap the **Check for software updates**to see if a new update is available.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios software update](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-07.jpg)
 
 ### 5\. Perform a Factory Reset
@@ -507,14 +526,15 @@ Wondershare Dr.Fone for iOS and Android is free to download and install. You can
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Knowing the common causes of an **unresponsive phone touchscreen** is the first step to preventing it from happening to your smartphone. While there are ways to fix it when it does happen, prevention is better than cure, as most experts say. However, if the methods outlined above don’t work, your best bet is to use a dedicated program such as Wondershare Dr.Fone for Android and iOS.
 
 Wondershare Dr.Fone works on almost all modern smartphones today and can fix a **stop-working phone screen** within less than 10 minutes. It’s beginner-friendly and doesn’t require advanced technical know-how to use right away.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -528,9 +548,21 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-leading-edge-headsets-for-drone-vr-use/"><u>2024 Approved Leading Edge Headsets for Drone VR Use</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-silent-user-interactions-on-facebook-messenger/"><u>Deciphering Silent User Interactions on Facebook Messenger</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-v30-lite-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from V30 Lite 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-poco-x5-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Poco X5 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/precise-voice-adjustments-for-pubg-success/"><u>Precise Voice Adjustments for PUBG Success</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-lenovo-thinkphone-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lenovo ThinkPhone Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-magic-5-lite-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor Magic 5 Lite to iPhone 14/15 | Dr.fone</u></a></li>
+</ul></div>
 

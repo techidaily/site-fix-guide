@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Xiaomi Redmi Note 13 5G | Dr.fone
-date: 2024-12-30T23:22:32.028Z
-updated: 2025-01-03T18:07:38.879Z
+date: 2025-01-03T18:41:17.783Z
+updated: 2025-01-10T18:16:13.356Z
 tags: 
   - problems
 categories:
@@ -25,6 +25,14 @@ The inconvenience can impact user trust and the overall perception of an app's r
 The reasons below collectively contribute to the frustration users experience when apps are **unable to download from the Play Store**:
 
 ![confused about apps not downloading](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Connectivity Issues
 
@@ -63,6 +71,10 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 ![dr.fone main window interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,307,222** people have downloaded it
 
@@ -104,6 +116,10 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![dr.fone firmware download successfully](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Initiating the system repair process will be accompanied by a progress bar visible on the screen. Upon completion, a prompt window will emerge, presenting a completion message.
 
 - If you can download apps successfully, click **Done**to close the tool.
@@ -120,10 +136,6 @@ Here are 8 other methods to troubleshoot and resolve common app downloading prob
 ### Check Internet Connection
 
 A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u> <u> an Internet signal check</u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) to ensure you are connected to a reliable Wi-Fi network or have a strong mobile data signal. If the connection is weak, consider switching to a more robust network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Free Up Storage Space
 
@@ -239,7 +251,7 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 ![Wifi Authentication Error fixing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use static IP address instead of DHCP
@@ -268,13 +280,13 @@ One of the easiest ways to fix the authentication problem of Wifi is to reset th
 
 ![Select the network](https://images.wondershare.com/drfone/article/2017/06/14981516957952.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. When you would select a network, it will provide the basic information related to it. Just tap on the “Forget” button and agree to the pop-up message. This will erase the network’s information from your device.
 
 ![tap on the “Forget”](https://images.wondershare.com/drfone/article/2017/06/14981517891308.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Afterward, turn on your Wifi again and tap to the network you wish to connect to. Simply provide the credentials and tap on the “Connect” button to reestablish the connection. This way, you can reset the network successfully.
 
@@ -303,10 +315,6 @@ If the above solution won’t work, then you would be required to walk the extra
 5\. As soon as you will change it to static, you will get different fields related to your network’s IP address, gateway, DNS, and more. Simply fill these fields and tap on the “Save” button once you are done.
 
 ![fill these fields](https://images.wondershare.com/drfone/article/2017/06/14981521159129.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now, try to connect to the Wifi hotspot again. You would be able to overcome the authentication problem of Wifi.
 
@@ -338,6 +346,10 @@ Step 2: Now, opt for the “System Update” option. If the update is available,
 
 Sometimes, the WiFi router may hang up while establishing a connection and therefore, the wifi authentication problem occurs. Try restarting your Wi-Fi router and then check if your device connects successfully. If this doesn’t work, try to [reset your Android Network Settings](https://drfone.wondershare.com/android-issue/authentication-error.html#reset).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Bonus tip: Turn Airplane mode on/off
 
 By simply turning on the Airplane mode (and later turning it off), you can easily fix the authentication problem Wifi most of the time. You can find a toggle button for Airplane mode on the notification bar of your phone. If you can’t find it there, then go to your phone’s Settings > Connection > More Networks and turn on the feature of “Airplane Mode”.
@@ -347,10 +359,6 @@ By simply turning on the Airplane mode (and later turning it off), you can easil
 Let it do for a while. Afterward, turn it off and try to connect to the Wifi network again.
 
 After following these quick and easy suggestions, you would be able to fix the Xiaomi Redmi Note 13 5G Wifi problem for sure. Even if you use any other Android device, then its authentication error can easily be resolved after these effective solutions. Go ahead and give these expert solutions a try and let us know about your experience as well. If you have any other solution to fix the authentication problem Wifi, then share it with us as well in the comments.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Methods for Xiaomi Redmi Note 13 5G Won’t Turn On
 
@@ -367,6 +375,10 @@ A **Xiaomi Redmi Note 13 5G 4 not turning on** might simply be a victim of a dra
 **Solution:** Replace the charging cable or adapter with a known working one. Try using a different USB-C cable and adapter to ensure it's not a faulty connection.
 
 ![damaged charging cable](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reason 2. Faulty Power Source
 
@@ -402,10 +414,6 @@ Sometimes, a Xiaomi Redmi Note 13 5G 3 might not turn on due to physical damage 
 
 ![google pixel hardware malfunction](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Scenario 3. Buggy Android Smartphone
 
 An Android smartphone, including the Xiaomi Redmi Note 13 5G 3 XL, can encounter situations where the OS becomes extremely buggy. It leads to various issues, such as the **Xiaomi Redmi Note 13 5G 3 XL won’t turn on** or [getting stuck in a boot loop](https://drfone.wondershare.com/android-issue/motorola-phone-stuck-on-boot.html). Software glitches, corrupted system files, or incompatible apps can contribute to such problems.
@@ -417,7 +425,7 @@ An Android smartphone, including the Xiaomi Redmi Note 13 5G 3 XL, can encounter
 ![google pixel device stuck boot loop](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reason 2. Software Glitches or System Crash
@@ -425,10 +433,6 @@ An Android smartphone, including the Xiaomi Redmi Note 13 5G 3 XL, can encounter
 **Solution:** If encountering issues with the Xiaomi Redmi Note 13 5G device not powering on because of software glitches or a system crash, try initiating Safe Mode by simultaneously pressing and holding the 'Power' button along with a Volume key. This action will cause the Power menu to be displayed. Here, tap and hold the "Power off" for a while and tap "OK" once the Safe Mode prompt appears.
 
 ![put google pixel in safe mode](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Scenario 4. System Glitches? Try Wondershare Dr.Fone as a Prioritized Solution
 
@@ -496,10 +500,6 @@ At times, an Android device, including the Xiaomi Redmi Note 13 5G 3/4, might be
 
 When an Android device experiences severe software damage, it can lead to major issues like **the Xiaomi Redmi Note 13 5G 3 won't turn on**. This can hinder the functionality of the Xiaomi Redmi Note 13 5G device. It also includes the inability to turn on or persistent system malfunctions. In such cases, performing a complete phone restore becomes a necessary solution:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Reason 1. Corrupted System Files or Firmware Issues
 
 **Solution.** In cases of severe software damage or corruption of system files, performing a settings reset becomes imperative. It is to restore the Xiaomi Redmi Note 13 5G device to its default settings and resolve underlying issues.
@@ -530,15 +530,15 @@ There are scenarios where a phone, like the Xiaomi Redmi Note 13 5G 3, hangs or 
 
 ![reboot google pixel to safe mode](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Reason 2. Problematic App
 
 **Solution:** While in Safe Mode, observe if the Xiaomi Redmi Note 13 5G device boots up properly. If it successfully boots, it suggests that a third-party application is causing the problem. To pinpoint the problematic app, uninstall recently added apps individually and restart the Xiaomi Redmi Note 13 5G device after each removal. This process helps pinpoint the problematic app causing the hang during startup.
 
 ![uninstall app in google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reason 3. Stacked Up App Cache and Data
 
@@ -576,18 +576,18 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-securing-skype-conversations-via-obs/"><u>[New] 2024 Approved Securing Skype Conversations via OBS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-elite-12-action-recording-devices-with-built-in-gps-systems-for-2024/"><u>[New] Elite 12 Action Recording Devices with Built-In GPS Systems for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-from-dim-to-dazzling-a-guide-to-selecting-top-quality-displays/"><u>[New] From Dim to Dazzling A Guide to Selecting Top-Quality Displays</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfect-harmony-in-vr-exploration/"><u>[New] Perfect Harmony in VR Exploration</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-10-best-tiktok-filters-to-make-your-videos-stand-out/"><u>[Updated] In 2024, 10 Best TikTok Filters to Make Your Videos Stand Out</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-itel-p40-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Itel P40 Safely | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-a59-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo A59 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-in-depth-list-of-best-virtual-playgrounds/"><u>In 2024, In-Depth List of Best Virtual Playgrounds</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-s18e-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo S18e – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-xcover-6-pro-tactical-edition-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy XCover 6 Pro Tactical Edition Black and White | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/safeguarding-your-online-presence-during-live-broadcasts-for-2024/"><u>Safeguarding Your Online Presence During Live Broadcasts for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/unleash-the-power-of-live-content-with-rtsp-video-extractor-masterful-media-download/"><u>Unleash the Power of Live Content with RTSP Video Extractor - Masterful Media Download</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-transform-your-screen-recording-process-using-aiseesoft-tools-for-2024/"><u>[New] Transform Your Screen Recording Process Using Aiseesoft Tools for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-building-a-channel-team-up-videography-guide/"><u>[Updated] Building a Channel Team-Up Videography Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-solve-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>2024 Approved Solve “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-and-install-vlc-media-player-easily-on-windows-cuadro-8-comprehensive-guide/"><u>Download and Install VLC Media Player Easily on Windows Cuadro 8 - Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-restoring-functionality-to-your-quick-capture-tool-with-the-windows-key-combo-on-new-versions-of-windows-os/"><u>Expert Tips: Restoring Functionality to Your Quick Capture Tool with the Windows Key Combo on New Versions of Windows OS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-asus-rog-phone-7-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Asus ROG Phone 7 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-f5-pro-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco F5 Pro 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-step-by-step-audio-augmentation-for-quality-video-files-on-quicktime/"><u>New Step-by-Step Audio Augmentation for Quality Video Files on QuickTime</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-google-pixel-fold-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Google Pixel Fold Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-eliminate-microsoft-store-error-on-win1111/"><u>Steps to Eliminate Microsoft Store Error on Win11/11</u></a></li>
 </ul></div>
 

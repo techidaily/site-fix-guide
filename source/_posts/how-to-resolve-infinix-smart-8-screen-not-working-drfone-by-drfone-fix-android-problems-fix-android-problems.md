@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Smart 8 Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:34.534Z
-updated: 2024-07-15T06:16:34.534Z
+date: 2025-01-06T18:12:05.226Z
+updated: 2025-01-10T18:54:09.402Z
 tags: 
   - problems
 categories:
@@ -32,16 +32,25 @@ Excessive smartphone use can cause the touchscreen to go out of the required set
 
 If your device's battery is damaged or is at the end of its lifespan, it can cause the touch screen not responding issues. Moreover, the low battery and issue with the charging port can also lead to this problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Corrupted System Files
 
 The presence of corrupted system files is also a significant cause of such issues. These corrupted files can also lead to serious performance issues on your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Conflicting Settings
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: The Common Solutions to Solve a Infinix Smart 8 Screen Unresponsive
 
@@ -54,6 +63,10 @@ As with any other issue or device, the first fix you should always try first is 
 ****Instruction:**** Press and hold the “Power” button for a couple of seconds until it turns off. Wait a few moments and then use the “Power” button to turn on the Infinix Smart 8 device. In some of the Infinix Smart 8 devices, you also have to use the “Volume Down” button along with the “Power” button to restart the Infinix Smart 8 device.
 
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2. Check the Charging Port and Battery
 
@@ -69,9 +82,6 @@ It is an excellent option if your Infinix Smart 8 device's touch is not working 
 
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 4. Wipe the Cache of Your Infinix Smart 8 Device
 
 A common reason for ****Infinix Smart 8 Nord being stuck on the loading screen**** is the filled cache partition. If you do not clean out the cache partition of your Infinix Smart 8 device, its performance will degrade. As a result, your device will experience issues like the touch screen not working or getting stuck at the loading screen. Here is how you can clear the cache of your Infinix Smart 8 device:
@@ -121,11 +131,13 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 
 To sum up this article, it can be said that issues like ****Infinix Smart 8 not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
 
-
-
 ## 7 Fixes for "Unfortunately, Phone Has Stopped" on Infinix Smart 8
 
 Encountering issues with the Phone app is never welcoming. Being one of the useful apps, seeing it crashing and unresponsive gives sheer despondency. If talked about the triggering points, they are numerous. But the central point is what to do when the Phone app keeps crashing. In this article, we have discussed this issue in detail. To know this and more about why the "Unfortunately, Phone has stopped" error crops up, read this article and get the problem sorted on your own.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: When can the "Unfortunately, Phone has stopped" error come?
 
@@ -138,9 +150,6 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 Open the Phone app in Safe Mode
 
 First and foremost, the thing that can let you get rid of this trouble is Safe Mode. It is a feature that will end any excessive background functioning of the Infinix Smart 8 device. For instance, your device will be able to run sans any third-party apps when in Safe mode. Since the important functions and the naïve apps will be running on the Infinix Smart 8 device, you will get to know if it’s really a software glitch or not by running the Phone app in Safe mode. And this is the first solution we would recommend you make use of when the Phone app has stopped. Here is how to enable Safe Mode.
@@ -149,6 +158,10 @@ First and foremost, the thing that can let you get rid of this trouble is Safe M
 2. Now keep pressing the "Power" button until you see the Infinix Smart 8 logo on the screen.
 3. Release the button and immediately press and hold the "Volume Down" key.
 4. Leave the key once the Infinix Smart 8 device is in Safe mode. Now, the third-party apps will be disabled and you can check if the Phone app is still not responding or everything is fine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Clear the cache of the Phone app
 
@@ -161,8 +174,9 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.3 Update Google Play services
 
 Since Android is created by Google, there must be some Google Play services that are crucial to run several system functions. And if attempting the previous methods isn’t of any use, try updating Google Play services when you find the Phone app stopped. For doing this, you need to make sure that automatic updates are turned on in Google settings. If not, enable it and get the apps including Google Play services updated for smoother functions.
@@ -195,8 +209,6 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -254,6 +266,10 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## How to Exit Android Factory Mode On Infinix Smart 8?
@@ -276,8 +292,6 @@ Before we can see how to safely enter and exit factory mode, it is important to 
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
 
-
-
 ### Dr.Fone - Backup & Restore (Android)
 
 Flexibly Backup and Restore Android Data
@@ -297,6 +311,10 @@ Run the software on your computer and you can see all features displayed in the 
 
 ![backup android before enter in recovery mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2. Plug in with your device
 
 Then plug in with your device to the computer. When your devic is detected, click on Backup.
@@ -309,9 +327,6 @@ The program will display all the file types it can support to backup. Just selec
 
 ![select the data types to backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 4. Start backing up your device to the computer
 
 After choosing the file's type for backup, click "Backup" to begin backing up your device to your computer. It will take you a few minutes, depending on the storage of the data.
@@ -325,8 +340,6 @@ Note: You can use the feature of "Restore From Backup" to restore the backup fil
 From the above parts, you are well aware about what is factory mode. As we discussed, this mode fixes most troubles with Android devices.
 
 But for situations when your Infinix Smart 8 gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Infinix Smart 8 logo or factory mode or blue screen of death with a single click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -371,6 +384,10 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 - For a device with ‘Home’ button – switch it off and hold down the ‘Power’, ‘Volume Down’ and ‘Home’ buttons together for 10 seconds and release. Click the ‘Volume Up’ button for entering ‘Download’ mode.
 
 ![fix Android stuck in factory mode on android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Press ‘Next’ for initiating firmware downloading.
 
@@ -430,7 +447,6 @@ You can also exit factory mode on unrooted device by going to Settings> Applicat
 
 As much as factory mode can be a useful solution to a number of problems, it can be quite annoying when it pops up unexpectedly. Now you are equipped with 2 effective solutions to help you safely exit factory mode if ever you find yourself in this situation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -443,9 +459,19 @@ As much as factory mode can be a useful solution to a number of problems, it can
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-exceptional-book-trailer-selections/"><u>[Updated] Exceptional Book Trailer Selections</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-saving-skies-best-price-for-data-keepers-2024/"><u>[Updated] Saving Skies Best Price for Data Keepers 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/boosting-your-blogs-revenue-using-buysellads-platform/"><u>Boosting Your Blog's Revenue Using BuySellAds Platform</u></a></li>
+<li><a href="https://win-special.techidaily.com/exploring-the-advantages-and-drawbacks-of-desktop-virtualization/"><u>Exploring the Advantages & Drawbacks of Desktop Virtualization</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-nokia-c210-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia C210 Fingerprint Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-v27-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo V27 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/moveavis-costless-web-based-audio-to-video-editor-convert-mp3s-into-avis-with-no-charge/"><u>Moveavi's Costless Web-Based Audio to Video Editor: Convert MP3s Into AVIs with No Charge!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spectacular-scrutiny-and-variant-solutions/"><u>Spectacular Scrutiny & Variant Solutions</u></a></li>
+</ul></div>
 

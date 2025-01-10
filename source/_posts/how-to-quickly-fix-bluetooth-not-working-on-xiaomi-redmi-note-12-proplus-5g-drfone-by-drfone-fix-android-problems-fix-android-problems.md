@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone
-date: 2024-07-14T06:15:27.849Z
-updated: 2024-07-15T06:15:27.849Z
+date: 2025-01-04T16:59:06.748Z
+updated: 2025-01-10T17:07:43.560Z
 tags: 
   - problems
 categories:
@@ -30,16 +30,11 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
 
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Xiaomi Redmi Note 12 Pro+ 5G. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -57,9 +52,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step One** Make your way over to the Wondershare website and download the Dr.Fone - System Repair (Android) software to either your Mac or Windows computer. Install the downloaded file by following the on-screen instructions. Once installed, open the software, so you’re on the Main Menu.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - use a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step Two** Connect your Xiaomi Redmi Note 12 Pro+ 5G to your computer using the USB cable, wait a couple of seconds, and then click the System Repair option. On the Menu on the left, click Android Repair, and then press Start.
@@ -78,6 +70,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Xiaomi Redmi Note 12 Pro+ 5G and start using it and your Bluetooth features.
 
 ### 2.2 Restart Android and turn on Bluetooth again
@@ -91,6 +87,10 @@ One of the most common solutions in technology is simply to turn it on and off a
 3. Wait for your phone to completely power up, so you’re on the Main Menu
 4. Navigate Settings > Bluetooth and then enable the setting
 5. Try to connect your Bluetooth device to what you were trying to do before
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.3 Clear the Bluetooth cache
 
@@ -119,9 +119,17 @@ Here’s how;
 3. Go through these settings and remove/delete/forget every connection on your device
 4. Now when you go to connect to a device using Bluetooth, repair the Xiaomi Redmi Note 12 Pro+ 5G device, enter the passcode, and use a fresh paired connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.5 Use Bluetooth in safe mode
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you’re having problems with your connection and paired devices, sometimes you may have conflicting software faults in your device that are causing the problems. If this is the case, you’ll need to boot your Xiaomi Redmi Note 12 Pro+ 5G in Safe Mode.
 
@@ -148,6 +156,10 @@ Here’s how to turn on your Bluetooth discoverable feature;
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Xiaomi Redmi Note 12 Pro+ 5G device you’re trying to connect too
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.7 Exclude Bluetooth issues of the other device
 
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
@@ -161,9 +173,6 @@ By testing out another Bluetooth device to see if it will work with your preferr
 3. If the new device doesn’t connect to your Bluetooth device, you’ll know there’s a problem with your Bluetooth device, not your Xiaomi Redmi Note 12 Pro+ 5G
 4. If the Xiaomi Redmi Note 12 Pro+ 5G devices connect, you’ll know there’s a problem with your Xiaomi Redmi Note 12 Pro+ 5G
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.8 Place both devices within close proximity
 
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
@@ -176,13 +185,15 @@ The further away the Xiaomi Redmi Note 12 Pro+ 5G devices are from each other, t
 
 ![android bluetooth problems - avoid interference](https://images.wondershare.com/drfone/article/2019/04/bluetooth-device-interference.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The final consideration you’ll want to think about is that Bluetooth radio waves, or wireless waves, can interfere with each other. This means they can bounce off each other or get muddled up and make things confusing from your devices.
 
 With this in mind, you’ll want to make sure you’re limiting the amount of Bluetooth activity in the area where you’re trying to use a device. While uncommon, this could be the problem.
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Xiaomi Redmi Note 12 Pro+ 5G to the Xiaomi Redmi Note 12 Pro+ 5G device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
-
-
 
 ## Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi Note 12 Pro+ 5G?
 
@@ -266,16 +277,15 @@ After this method, you can successfully get rid of the safe mode on Android. Res
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iiA3E-Oj_pk"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to put the phone in safe mode?
 
 If some apps or programs create a problem on your device, the solution is safe mode. Safe mode allows you to uninstall the app or the program out of your device safely. So, safe mode on Android is quite useful sometimes. Let’s have a look at how to turn on safe mode in Android.
 
 Before this, remember to take a backup of your Xiaomi Redmi Note 12 Pro+ 5G. We recommend you to use the Dr.Fone - Phone Backup (Android). This tool is the best in its class to provide users with a very easy-to-use user interface yet powerful solution.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Phone Backup (Android)\_
 
@@ -296,10 +306,11 @@ Step  1 – First of all, long press the power button and let the Power options
 
 Step 2 – Now, long press on the "Power off” option. This will instantly ask you if you want to reboot into safe mode. Select the option and your device will reboot in safe mode.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![‘Power off”](https://images.wondershare.com/drfone/article/2017/06/14986728022827.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you are using Android version 4.2 or earlier, turn off the Xiaomi Redmi Note 12 Pro+ 5G device and turn it on the back by tapping the power button. When the logo appears, tap and hold the volume down button. This will allow the Xiaomi Redmi Note 12 Pro+ 5G device to boot in safe mode.
 
@@ -324,6 +335,10 @@ The safe mode is a very useful program for any Android device. But it limits the
 ## 7 Fixes for "Unfortunately, Phone Has Stopped" on Xiaomi Redmi Note 12 Pro+ 5G
 
 Encountering issues with the Phone app is never welcoming. Being one of the useful apps, seeing it crashing and unresponsive gives sheer despondency. If talked about the triggering points, they are numerous. But the central point is what to do when the Phone app keeps crashing. In this article, we have discussed this issue in detail. To know this and more about why the "Unfortunately, Phone has stopped" error crops up, read this article and get the problem sorted on your own.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: When can the "Unfortunately, Phone has stopped" error come?
 
@@ -388,8 +403,6 @@ If still, the Phone app keeps stopping after trying everything, here is the most
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix "Unfortunately, Phone Has Stopped" on Xiaomi Redmi Note 12 Pro+ 5G devices.
@@ -428,6 +441,10 @@ Downloading firmware will be the next step. Prior to this, you have to go throug
 
 ![Phone app crashing - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Get the Xiaomi Redmi Note 12 Pro+ 5G device Repaired**
 
 When you see the firmware has been downloaded, the issue will begin to get resolved. Hang on and wait until you get notified for the repair of the Xiaomi Redmi Note 12 Pro+ 5G device.
@@ -448,7 +465,6 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -461,9 +477,20 @@ If none of the above methods worked for you, the last resort you are left with i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-comprehensive-tutorial-for-shifting-facial-gender-representation-online/"><u>[Updated] In 2024, Comprehensive Tutorial for Shifting Facial Gender Representation Online</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-exploring-the-power-of-intova-x/"><u>[Updated] In 2024, Exploring The Power of Intova X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-quality-discover-how-beats-latest-solo-earbuds-offer-an-alternative-to-pricey-airpods-on-a-budget/"><u>Affordable Quality: Discover How Beats' Latest Solo Earbuds Offer an Alternative to Pricey AirPods on a Budget</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-12-mini-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 12 mini in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-g54-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola G54 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oneplus-open-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of OnePlus Open? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-mechanics-behind-electric-motorcycle-operation-explained/"><u>The Mechanics Behind Electric Motorcycle Operation Explained</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-narzo-n55-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme Narzo N55 Device</u></a></li>
+</ul></div>
 

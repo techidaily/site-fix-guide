@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Infinix Hot 30 5G | Dr.fone
-date: 2024-07-14T06:11:17.389Z
-updated: 2024-07-15T06:11:17.389Z
+date: 2025-01-04T16:23:47.057Z
+updated: 2025-01-10T17:38:30.385Z
 tags: 
   - problems
 categories:
@@ -28,6 +28,10 @@ However, the problems don’t stop there. You may have problems with turning you
 
 Due to the complicated nature of Bluetooth technology, there could be many reasons as to why your Bluetooth feature is playing up in this way, but that doesn’t mean it can’t be fixed. For the rest of this guide, we’re going to explore the nine need-to-know ways you can fix the Bluetooth problems not working on your Infinix Hot 30 5G as quickly as possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
@@ -36,7 +40,9 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -64,6 +70,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
 
 ![bluetooth not working on android - download mode to fix issues](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
@@ -71,6 +81,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
 
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Infinix Hot 30 5G and start using it and your Bluetooth features.
 
@@ -112,6 +126,10 @@ Here’s how;
 2. Turn Bluetooth on, and you’ll see all the connections your Infinix Hot 30 5G is paired with
 3. Go through these settings and remove/delete/forget every connection on your device
 4. Now when you go to connect to a device using Bluetooth, repair the Infinix Hot 30 5G device, enter the passcode, and use a fresh paired connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.5 Use Bluetooth in safe mode
 
@@ -173,8 +191,6 @@ With this in mind, you’ll want to make sure you’re limiting the amount of Bl
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Infinix Hot 30 5G to the Infinix Hot 30 5G device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
 
-
-
 ## Gmail Not Working on Infinix Hot 30 5G: 7 Common Problems & Fixes
 
 Ever since Android is introduced, it has almost eliminated the need of computers to work through Gmail. Gmail carries much importance especially when you’re a working person. A lot of work is done through mails on daily basis. But maybe today is not your lucky day. Maybe Gmail is giving you a hard time today. Is it? Is your Gmail not responding or keeps stopping you from going further? Well! There is no need to be bothered anymore. We are discussing some of the general Gmail problems along with their fixes. So, if your Gmail is not working on Android, you can go through this article and find the relevant solution.
@@ -234,6 +250,10 @@ When still the Gmail not working issue persists and you can’t sync, make sure 
 
     ![Gmail crashing on Android - find settings](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Check the box next to “Sync Gmail” if it’s not checked.
 
 ![Gmail crashing on Android - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
@@ -250,16 +270,10 @@ In case you are using the Gmail over your web browser and it has tested your pat
 
 First of all, you need to make sure that the browser you are using works with Gmail or not. Gmail can smoothly perform in Google Chrome, Firefox, Safari, Internet Explorer and Microsoft Edge. However, the browsers should be updated. So, please make sure that these browsers are running on the latest versions. Moreover, in case you use Chromebook, don’t forget to update the operating system in order to let it support Gmail.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Clear Cache of web browser
 
 If you tried the above method but to no avail, try to clear the cache and cookies of the web browser. But by doing so, the browser history will be removed. As well as, the records of the websites you previously enjoyed will also be lost.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check browser extensions or add-ons
 
  If not the above one, try this tip. It encourages you to check your browser extensions. Perhaps these are interfering with the Gmail and due to this conflict, Gmail won’t load. You can either turn off these extensions and plug-ins temporarily or make use of the incognito mode of the browser where there are no such things like extensions and plug-ins.
@@ -312,9 +326,6 @@ Now try to send the mail and see if things are still the same or not.
 
 Large attachments can also be the reason for this issue. We would here like to suggest you to check the attachments you are sending. If these are not so important, you can remove them and send the mail. Or if it is not possible to send the mail without attachments, compressing the files can be a solution.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Problem 6: “Account not synced” issue
 
 Many times, the users get the error that says “Account not synced” while they try to work with Gmail. And this is the 6<sup>th</sup> problem we are introducing. The ways mentioned below will assist to get out of the trouble.
@@ -379,8 +390,9 @@ The inconvenience can impact user trust and the overall perception of an app's r
 ![downloading status on phone vector](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part I. 7 Usual Reasons Behind Apps Not Downloading in Google Play Store
 
 The reasons below collectively contribute to the frustration users experience when apps are **unable to download from the Play Store**:
@@ -423,6 +435,10 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 
 ![dr.fone main window interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,307,222** people have downloaded it
@@ -454,6 +470,10 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 - **Step 1:** Download and install Dr.Fone - System Repair on your computer. Launch the program and select **System** **Repair** from the available options.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3,143,540** people have downloaded it
 
@@ -494,9 +514,6 @@ An outdated Play Store version may lead to compatibility issues. Open the Google
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Clear Play Store Cache and Data
 
 Cached data in the Play Store can sometimes cause download problems. Head to the Infinix Hot 30 5G device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
@@ -508,6 +525,10 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the Infinix Hot 30 5G device settings, select **Accounts**, and ensure your Google account is active and synced.
 
 ![syncing google account on device](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check Date and Time Settings
 
@@ -531,7 +552,6 @@ Ensuring a smooth app download experience demands attention to various factors. 
 
 For persistent issues, consider Dr.Fone - System Repair. The app is a viable option, providing a comprehensive approach. Embracing these measures ensures you can easily fix apps that won't download from the Play Store. Having a reliable tool beside you also fosters an uninterrupted and enjoyable downloading journey from the Play Store.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -544,9 +564,21 @@ For persistent issues, consider Dr.Fone - System Repair. The app is a viable opt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-best-of-the-best-12-screen-capture-tools-no-end/"><u>[New] In 2024, Best of the Best 12 Screen Capture Tools (No End)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-recording-success-with-top-software-choices/"><u>[New] Recording Success with Top Software Choices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-captureclub-bout-for-2024/"><u>[Updated] CaptureClub Bout for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-privacy-first-reader-of-facebook-snapshots/"><u>[Updated] In 2024, Privacy-First Reader of Facebook Snapshots</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mend-facebook-story-playback-pauses/"><u>[Updated] Mend Facebook Story Playback Pauses</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-aesthetics-final-cut-pro-x-for-editing-tall-screen-content/"><u>2024 Approved Instagram Aesthetics Final Cut Pro X for Editing Tall-Screen Content</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-nokia-130-music-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nokia 130 Music Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-poco-c55-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Poco C55 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-smart-7-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 7 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-xr21-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia XR21 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-14-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi 14 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo S18e | Dr.fone
-date: 2024-12-19T18:25:19.829Z
-updated: 2024-12-25T02:07:17.488Z
+date: 2025-01-09T18:30:36.509Z
+updated: 2025-01-10T16:52:09.409Z
 tags: 
   - problems
 categories:
@@ -87,10 +87,6 @@ The steps for entering Download Mode on an Android phone with the Home button ar
 
 ![enter download mode with the home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 1:** Turn off your phone.
 - **Step 2:** Press and hold the **Volume Down**,**Home**, and **Power** buttons simultaneously.
 - **Step 3:** Press the **Volume Up**button to enter Download Mode.
@@ -98,10 +94,6 @@ The steps for entering Download Mode on an Android phone with the Home button ar
 The steps for entering Download Mode on Android devices without the Home button are as follows:
 
 ![enter download mode without the home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 1:** Turn off your phone.
 - **Step 2:** Press and hold the **Volume Down**, **Bixby**, and**Power** buttons simultaneously.
@@ -141,6 +133,14 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4. Restart Your Device
 
 Another way to stop Spotify from crashing can be restarting your Android. The steps may vary slightly depending on the Vivo S18e device, but they’re mostly the same. Follow these steps to restart your device:
@@ -165,10 +165,6 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6. Update Your System Software
 
 Your Spotify app might keep crashing because your system is outdated. Try updating it to the latest version to try and fix the crashing problem. The steps for the Android system update are as follows:
@@ -176,6 +172,10 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 - **Step 1:** Open **Settings**.
 
 ![settings on your android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Go to **System** or **About Phone**.
 
@@ -224,10 +224,6 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 ![uninstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Press **OK**.
 - **Step 5:** Then, open the PlayStore and find Spotify.
 - **Step 6:** Tap **Install**to reinstall the app again.
@@ -235,6 +231,10 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
 
 - **Step 7:** Once it installs, log in to test if it’s working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10. Check if Spotify Is Down
 
@@ -250,6 +250,10 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 11. Clear the Cache
 
@@ -298,6 +302,10 @@ The first thing that comes to mind when your **phone screen suddenly goes black*
 
 ![drained iphone battery](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### App Troubles
 
 If your **phone is working, but the screen is black,** there’s also a high probability that you are having an isolated issue with a particular application. An app could be loading something, which often happens for streaming apps such as YouTube, Netflix, Prime, and more, especially if you have slow internet connectivity.
@@ -311,6 +319,10 @@ A potential reason why **your phone screen went black but still works** could b
 If you dropped your phone, there’s a high chance the LCD connectors went loose due to the physical impact. If this happened to you, the phone might be working, but the screen is black due to the LCD cable dislodging. Another issue could be your phone got exposed to extreme temperatures. This can also cause a **black screen but your phone is still on.**
 
 ![loose samsung galaxy lcd](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Fix Black Screen on Your Phone
 
@@ -337,6 +349,10 @@ If you own the latest iPhone models, here are the method of restarting it from i
 **Step 1**: Press and immediately release **Volume Up**. Next, press and immediately release **Volume Down**.
 
 ![force restart iphone 8 to 14](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2**: Press and hold **Sleep/Wake** until you see the Apple logo.
 
@@ -412,6 +428,10 @@ Dr.Fone – System Repair can fix all kinds of issues on your Android/iOS, such 
 
 All iOS versions, including the latest iOS 16 and iOS 16 beta, are fully supported by Dr.Fone – System Repair. The app handles all your smartphone issues without data loss to secure your info. On the other hand, if you own an Android, the app supports up to 1000+ Android smartphones, making it highly versatile for Android owners.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tech Specs
 
 Dr.Fone – System Repair (Android)’s minimum system requirements for your computer are listed below.
@@ -426,10 +446,6 @@ Meanwhile, here are the system requirements for Dr.Fone – System Repair (iOS).
 | --- | --- |
 | Windows 11, 10, 8.1, 8, 7 | Supports all iOS versions, including the latest iOS 16 and iOS 16 beta |
 | macOS 12, 11, 10.15, 10.14, 10.13, 10.12, 10.11, 10.10, 10.9, 10.8 |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Pros and Cons
 
@@ -487,10 +503,6 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Inability To Open the Play Store
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
@@ -502,10 +514,6 @@ The inability to open the Play Store leaves you without access to new apps or up
 ### Not Responding Errors
 
 The dreaded "Not Responding" message can bring usability to a standstill. Users navigating the Play Store may experience delays or complete unresponsiveness. It can lead to a frustrating and unproductive experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Download and Installation Failures
 
@@ -559,6 +567,10 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
@@ -590,10 +602,6 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Perform a System Update
 
 Ensure your device's overall stability by performing a system update to ensure the stable operation of the Play Store. Follow the steps below.
@@ -604,10 +612,6 @@ Ensure your device's overall stability by performing a system update to ensure t
 ![perform system update on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-10.jpg)
 
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part IV. How To Repair Play Store Not Working With an Alternative
 
@@ -648,10 +652,6 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 
 **4,131,376** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Addressing issues when your **Google Play Store does not work** is crucial for an uninterrupted Android experience. Follow the outlined steps to regain control and enjoy a seamless app experience. Don't let frustrations linger; take immediate action for a hassle-free Google Play Store.
@@ -672,20 +672,14 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-strategic-approach-to-increase-likes-on-your-tiktok-video-content/"><u>[New] A Strategic Approach to Increase 'Likes' On Your TikTok Video Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-from-conversation-to-text-mastering-googles-document-feature/"><u>[Updated] 2024 Approved From Conversation to Text Mastering Google's Document Feature</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-dissecting-apowersofts-features-against-competitors/"><u>[Updated] In 2024, Dissecting Apowersoft's Features Against Competitors</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-snap-to-it-ios-and-android-writers-choice/"><u>[Updated] Snap to It – iOS & Android' Writers’ Choice</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-telepathy-through-tech-healthcare-reimagined/"><u>[Updated] Telepathy Through Tech Healthcare Reimagined</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-influence-of-luts-on-digital-imagery-quality/"><u>2024 Approved Exploring the Influence of LUTs on Digital Imagery Quality</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-supernatural-video-slowdown-handbook/"><u>2024 Approved Supernatural Video Slowdown Handbook</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/best-zero-cost-chromebook-recorders/"><u>Best Zero Cost Chromebook Recorders</u></a></li>
-<li><a href="https://win-popular.techidaily.com/einfach-und-sicher-erlernen-sie-die-kunst-der-spiegelbild-synchronisierung-auf-ihrem-mac-mit-aomei-backupper/"><u>Einfach Und Sicher: Erlernen Sie Die Kunst Der Spiegelbild-Synchronisierung Auf Ihrem Mac Mit AOMEI Backupper</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/motorola-moto-e13-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto E13 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oppo-reno-10-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo Reno 10 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-a15-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy A15 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-play-8t-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor Play 8T Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-can-photoshops-image-smoothing-revolutionize-editing/"><u>[Updated] In 2024, Can Photoshop’s Image Smoothing Revolutionize Editing?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-enhancing-social-media-reach-with-tweets-in-video-form-insta-style/"><u>[Updated] In 2024, Enhancing Social Media Reach with Tweets in Video Form, Insta Style</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-average-podcast-income-whats-the-payoff/"><u>2024 Approved Average Podcast Income What's the Payoff?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-razr-40-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Razr 40 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-c12-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia C12 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-tecno-spark-10-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Spark 10 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-influence-of-ai-powered-chatbots-on-modern-content-creation-techniques/"><u>Unveiling the Influence of AI-Powered Chatbots on Modern Content Creation Techniques</u></a></li>
 </ul></div>
 

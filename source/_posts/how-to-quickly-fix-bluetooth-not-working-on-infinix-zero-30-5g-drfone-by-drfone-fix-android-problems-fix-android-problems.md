@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Infinix Zero 30 5G | Dr.fone
-date: 2024-07-14T06:11:29.083Z
-updated: 2024-07-15T06:11:29.083Z
+date: 2025-01-09T18:51:55.673Z
+updated: 2025-01-10T16:14:27.468Z
 tags: 
   - problems
 categories:
@@ -35,8 +35,6 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Infinix Zero 30 5G. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -73,6 +71,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Infinix Zero 30 5G and start using it and your Bluetooth features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Restart Android and turn on Bluetooth again
 
@@ -155,17 +157,22 @@ By testing out another Bluetooth device to see if it will work with your preferr
 3. If the new device doesn’t connect to your Bluetooth device, you’ll know there’s a problem with your Bluetooth device, not your Infinix Zero 30 5G
 4. If the Infinix Zero 30 5G devices connect, you’ll know there’s a problem with your Infinix Zero 30 5G
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.8 Place both devices within close proximity
 
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One of the common misconceptions of Bluetooth is just how far the wireless range is of the service. You need to make sure your devices are well and truly close to each other to make sure a stable connection can be formed.
 
 The further away the Infinix Zero 30 5G devices are from each other, the less likely the connection will remain secure. As a rule of thumb, Bluetooth can work up to 100 meters, but to play it safe, always try and keep your devices under 50m apart.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.9 Avoid interference of other Bluetooth sources
 
 ![android bluetooth problems - avoid interference](https://images.wondershare.com/drfone/article/2019/04/bluetooth-device-interference.jpg)
@@ -200,14 +207,6 @@ The first thing you can do to fix Gmail not responding issue is to clear the cac
 
 ![gmail not working android - clear cache in storage](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-3.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restart the Infinix Zero 30 5G device
 
 Restarting the Infinix Zero 30 5G device in the first place simply resolves many problems and so in the instance when Gmail keeps stopping. Simply long press the power button of your device and restart the Infinix Zero 30 5G device. See of the problem gets vanished or not.
@@ -234,6 +233,10 @@ The next most common problem where people get stuck with is when there Gmail won
 
 When Gmail stops syncing, one of the things that can save you is clearing the storage. It is the space that maybe the culprit and therefore the syncing don’t work at all. We would like to suggest you removing the unwanted apps to clear the storage or deleting the downloaded files. You can also transfer the important files to your computer and make the space vacant.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Gmail Sync Settings
 
 When still the Gmail not working issue persists and you can’t sync, make sure to check the Gmal sync settings. For this, follow the steps below:
@@ -250,6 +253,10 @@ When still the Gmail not working issue persists and you can’t sync, make sure 
 ### Restart the Infinix Zero 30 5G device
 
 Again, restarting can also be helpful in this situation. When you boot the Infinix Zero 30 5G device again, check if your Gmail can sync or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Problem 3: Gmail won’t load
 
@@ -287,14 +294,15 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 
 1. Open your Gmail app and go to “Manage accounts on this device”.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![Gmail crashing on Android - open gmail](https://images.wondershare.com/drfone/article/2019/04/remove-account-1.jpg)
 
 2. Now, tap on the account you are working with. Tap on “REMOVE ACCOUNT” thereafter. After this, you can again sign in and then check if the problem is gone or not.
 
 ![Gmail crashing on Android - remove account](https://images.wondershare.com/drfone/article/2019/04/remove-account-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Problem 5: Stuck in sending
 
@@ -335,6 +343,10 @@ As another solution, check Gmail sync settings to get the issue fixed.
 
     ![Gmail not responding - go to settings](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. See the tiny box beside “Sync Gmail” and check it if it is not.
 
 ![Gmail not responding - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
@@ -373,8 +385,6 @@ Fix all Gmail issues caused by Android system:
 - Gmail app crashing or stopping
 - Gmail app not responding
 
-
-
 ## Quick Fixes for Why Is My Infinix Zero 30 5G Black and White
 
 **Why is My Infinix Zero 30 5G in black and white?** This sudden shift in display colors can be perplexing and impact user experience. This issue affects various devices, including Infinix Zero 30 5G and other Android models. The abrupt shift to monochrome can impact your daily use. It can make apps and content appear dull.
@@ -383,11 +393,19 @@ If you're asking **why is my Android phone in black and white**, then you're in 
 
 ![girl pointing at phone with problem](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Phone Screen in Black and White? Easy Fixes for Android Devices
 
 Discovering your Infinix Zero 30 5G going monochrome can be annoying. The section below answers the question: **why did my Infinix Zero 30 5G phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
 
 ![phone display in black and white](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Accessibility Settings
 
@@ -395,9 +413,6 @@ Accidental activation of accessibility settings may turn your display monochroma
 
 - **Step 1:** Open your phone's settings. Navigate to the **Accessibility** or **Vision** section.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![color inversion option turned on](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-03.jpg)
 
 - **Step 2:** Disable the **Grayscale** or **Color** **Inversion** option.
@@ -445,9 +460,6 @@ Consider a reliable third-party tool if your phone persists in black and white d
 
 Dr.Fone is a reliable solution for addressing black-and-white display issues on Android devices. For a stress-free repair experience, follow these simple steps using Dr.Fone - System Repair (Android).
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - System Repair (Android)
@@ -481,6 +493,10 @@ Repair Android System Errors without Any Trouble.
 - **Step 4:** After a while, your Infinix Zero 30 5G will have all system issues fixed. Click **Done** to complete the process or choose **Try** **again** if the problem persists, allowing you to repeat the steps.
 
 ![dr.fone done repairing window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note**
 
@@ -568,7 +584,6 @@ The guide highlights the "**Why is My Infinix Zero 30 5G black and white**" quer
 
 The guide provided solutions for display issues and showcased the versatility of Dr.Fone System Repair Android. It's a holistic solution for users seeking a seamless and reliable Android experience, addressing diverse concerns with precision and efficiency.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -581,9 +596,26 @@ The guide provided solutions for display issues and showcased the versatility of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-top-5-mac-software-for-mkv-files-for-2024/"><u>[New] Top 5 Mac Software for MKV Files for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-dive-into-social-media-streams-watching-facebook-live-on-roku/"><u>[Updated] 2024 Approved Dive Into Social Media Streams Watching Facebook Live on Roku</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-inside-tips-for-maximizing-your-creator-studio-potential/"><u>[Updated] Inside Tips for Maximizing Your Creator Studio Potential</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-inflatable-lounge-products-for-a-summer-splash-a-zdnet-guide/"><u>Best Inflatable Lounge Products for a Summer Splash : A ZDNet Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-note-30-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Note 30 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-v27-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo V27 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-uncover-the-hidden-spots-of-installing-pc-apps/"><u>How to Uncover the Hidden Spots of Installing PC Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers/"><u>In 2024, Beyond Imagination The Best Sci-Fi Metaverse Films for Adventurers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-insiders-pathway-to-effective-auditory-notes/"><u>In 2024, The Insider’s Pathway to Effective Auditory Notes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssional-insights-expert-level-youtube-video-tweaks-for-2024/"><u>Professional Insights Expert-Level Youtube Video Tweaks for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-s18-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo S18 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-spark-10c-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Spark 10C Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/showcasing-brilliance-iconic-anime-intros-for-2024/"><u>Showcasing Brilliance Iconic Anime Intros for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamlined-guide-to-fixing-persistent-freezing-problems-with-chrome-on-windows-10-systems/"><u>Streamlined Guide to Fixing Persistent Freezing Problems with Chrome on Windows 10 Systems</u></a></li>
+</ul></div>
 

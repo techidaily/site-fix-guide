@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Hot 30 5G Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:22.126Z
-updated: 2024-07-15T06:16:22.126Z
+date: 2025-01-04T16:09:48.558Z
+updated: 2025-01-10T17:58:34.168Z
 tags: 
   - problems
 categories:
@@ -40,12 +40,13 @@ The presence of corrupted system files is also a significant cause of such issue
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: The Common Solutions to Solve a Infinix Hot 30 5G Screen Unresponsive
 
 Fixing the ****Infinix Hot 30 5Gscreen not working**** is easy as long as it is not a serious hardware issue. While there are multiple ways to solve this problem, we have chosen the 6 most common and easy solutions. Listed below are the 6 common solutions to solve a Infinix Hot 30 5G screen unresponsive:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1. Restart the Infinix Hot 30 5G Phone
 
@@ -85,6 +86,10 @@ A common reason for ****Infinix Hot 30 5G Nord being stuck on the loading screen
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5. Reset to Factory Settings
 
 Sometimes, clearing the cache partition doesn't help resolve the touchscreen issue. In that case, You have to factory reset your Infinix Hot 30 5G device. It is the best and last solution if other fixes haven't worked and you can't pinpoint the reason. Factory resetting your Infinix Hot 30 5G will delete all phone data. Thus, you should create a proper backup before trying this fix. Follow these steps to factory reset your Infinix Hot 30 5G in no time:
@@ -114,11 +119,13 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 
 ![dr.fone phone toolbox](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To sum up this article, it can be said that issues like ****Infinix Hot 30 5G not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
-
-
 
 ## Infinix Hot 30 5G Camera Not Working Unexpected Error? Fix It Now
 
@@ -166,11 +173,12 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 
 ![closing apps in app switcher](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.III: Check App Permissions
 
 These days, thanks to strides in the privacy initiatives, apps need permissions before they can function the way they do. Most of the times, apps such as camera do have the necessary permissions, but sometimes it is possible that the permissions are set incorrectly. To check if the camera app has the requisite permissions, do the following:
@@ -197,6 +205,10 @@ Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.V: Clear The Photo Gallery App Cache
 
 The camera app is closely tied to the photo gallery app that comes baked in into Android OS. That is because photos that the camera app takes are stored in the photo gallery app. Consequently, if there were any issues in the photo gallery app, that could lead to the camera app not working on Android problem. Here’s how to clear the photo gallery app cache:
@@ -218,6 +230,10 @@ Step 1: Go to Play Store and tap your profile picture on the right.
 Step 2: Tap Manage Apps and Device.
 
 ![check for app updates play store](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: If there are updates available, Tap Update All to update all apps.
 
@@ -249,9 +265,6 @@ Step 1: Launch Dr.Fone app on your PC or Mac.
 
 Step 2: Click System Repair module and then Android.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
@@ -264,9 +277,6 @@ Step 4: Your Android device will be detected by Dr.Fone. If anything seems incor
 
 Step 5: Your phone needs to be put into Download mode before it can be repaired. Follow the instructions shown onscreen and click Next.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set phone in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 6: Dr.Fone automatically downloads the most recent firmware for your device and when it is ready, waits for your input. Click Fix Now to start the repair process.
@@ -313,8 +323,6 @@ From battery issues to physical damage to the Infinix Hot 30 5G device, there ca
 ## Part 2: How to flash Infinix Hot 30 5G in one click
 
 While you are worried about how to flash Infinix Hot 30 5G instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Infinix Hot 30 5G logo.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -370,6 +378,10 @@ Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to flash Infinix Hot 30 5G dead phone with Odin?
 
 In this segment, we will learn how to fix the dead Android phone, i.e., Infinix Hot 30 5G phones using Odin software. Odin is software used internally by Infinix Hot 30 5G to generally unblock devices and perform a more utility-based job, namely, flashing new firmware in place of the old one. There are different variants available, so choose the one which is supported by your Galaxy phone. Here is a step-by-step explanation of how to flash dead Android phone (Infinix Hot 30 5G) using Odin software.
@@ -383,6 +395,10 @@ Step 2: Now download suitable firmware for your device in the form of a zip fold
 Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file types recognized by Odin.
 
 ![firmware zip file](https://images.wondershare.com/drfone/article/2017/07/14991896515887.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![firmware md5 file](https://images.wondershare.com/drfone/article/2017/07/14991896708947.jpg)
 
@@ -399,6 +415,10 @@ Step 4: Now, boot your dead device to Download Mode by pressing the power, volum
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
 
 ![android download mode](https://images.wondershare.com/drfone/article/2017/07/14991897566586.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6: Now, you may use a USB to connect your Infinix Hot 30 5G to the PC. Odin will recognize your device, and in the Odin window, you will see a message saying “Added”.
 
@@ -450,9 +470,6 @@ Now, on the toolbar, click “Tools” and select “Data Package Download” fr
 
 Then move to download the firmware for your dead Infinix Hot 30 5G  and save it in a new Folder. Once done, go back to the Phoenix tool window and click on “File” and select “Open Product”.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![open product](https://images.wondershare.com/drfone/article/2017/07/14991899991748.jpg)
 
 Simply, feed in the details and then click “OK”.
@@ -468,6 +485,10 @@ Then move on to select “Dead Phone USB Flashing” from the Firmware Update Bo
 Lastly, just click on “Refurbish” and connect your phone to the PC using a USB cable.
 
 That was it, the flashing process may take up to a few minutes after which your dead Infinix Hot 30 5G  will restart automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: How to flash a dead phone that won’t turn on via factory reset?
 
@@ -507,7 +528,6 @@ It has been observed that Wondershare Dr.Fone – System Repair (Android) assist
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -520,9 +540,22 @@ Carefully follow the instructions given, and you will be able to reboot your dea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/astering-self-portraits-top-techniques-for-youtube-presentations-for-2024/"><u>[New] Mastering Self-Portraits Top Techniques for YouTube Presentations for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-horizontal-vs-vertical-best-for-fb-videos-for-2024/"><u>[Updated] Horizontal Vs. Vertical Best for FB Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-aural-elegance-selecting-high-quality-ringtones-online/"><u>2024 Approved Aural Elegance Selecting High-Quality Ringtones Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discover-6-common-factors-that-slow-down-iphones-and-tips-to-speed-them-up/"><u>Discover 6 Common Factors That Slow Down iPhones and Tips to Speed Them Up</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-11-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme 11 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-s23-fe-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy S23 FE Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y77t-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y77t in Minutes | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-xiaomi-civi-3-disney-100th-anniversary-edition-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi Civi 3 Disney 100th Anniversary Edition Black and White | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-post-windows-10-upgrade-audio-issues-quick-fixes/"><u>Resolved: Post-Windows 10 Upgrade Audio Issues – Quick Fixes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-removing-digital-restrictions-from-your-azw3-kindle-ebooks-2024-updates-included/"><u>Step-by-Step Guide: Removing Digital Restrictions From Your AZW3 Kindle Ebooks - 2024 Updates Included</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tomtom-bandit-camera-series-revolution-of-2023/"><u>TomTom Bandit Camera Series - Revolution of 2023</u></a></li>
+</ul></div>
 

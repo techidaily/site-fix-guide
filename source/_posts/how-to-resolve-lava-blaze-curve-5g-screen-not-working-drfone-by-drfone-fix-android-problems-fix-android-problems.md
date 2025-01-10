@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Lava Blaze Curve 5G Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:53.136Z
-updated: 2024-07-15T06:16:53.136Z
+date: 2025-01-03T17:48:25.375Z
+updated: 2025-01-10T16:38:22.200Z
 tags: 
   - problems
 categories:
@@ -52,15 +52,16 @@ As with any other issue or device, the first fix you should always try first is 
 
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2. Check the Charging Port and Battery
 
 The issues with the battery of your Lava Blaze Curve 5G 5 can also lead to ****Lava Blaze Curve 5G not working****. It can be due to your device's low or near-empty battery. While in some cases, serious issues with the battery can also be behind this problem. Similarly, the reason behind your phone's touch not working can be charging port issues.
 
 Thus, you should check and clean your device's charging port and see if it resolves the problem. Moreover, turn off your device, charge it, and then restart it to check if the touch screen not working issue is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3. Contact the Lava Blaze Curve 5G Customer Support
 
 Contacting Lava Blaze Curve 5G customer support can also help resolve the ****Lava Blaze Curve 5G screen not working**** problem. It is especially helpful if you are unable to find the cause and want to seek an expert opinion. The Lava Blaze Curve 5G customer support will help you find the issue and recommend a solution.
@@ -68,6 +69,10 @@ Contacting Lava Blaze Curve 5G customer support can also help resolve the ****La
 It is an excellent option if your Lava Blaze Curve 5G device's touch is not working due to hardware issues. They can help guide you to a suitable service center to fix your phone and resolve this issue.
 
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4. Wipe the Cache of Your Lava Blaze Curve 5G Device
 
@@ -84,6 +89,10 @@ A common reason for ****Lava Blaze Curve 5G Nord being stuck on the loading scre
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 5. Reset to Factory Settings
 
@@ -170,8 +179,6 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Lava Blaze Curve 5G, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Lava Blaze Curve 5G devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix "Unfortunately, Settings Has Stopped"
@@ -190,9 +197,6 @@ Step 1: Download Tool
 
 Visit the official website of Dr.Fone and download the toolbox from there. Go for the installation process and wait until the installation gets over. Launch it now and choose the “System Repair” tab from the main window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding- download tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Get the Phone Connected
@@ -200,6 +204,10 @@ Step 2: Get the Phone Connected
 With the help of a USB cable, plug your Lava Blaze Curve 5G into the PC. Upon proper connection, hit on the “Android Repair” option from the left panel.
 
 ![Android settings not responding - connect android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Feed Correct Information
 
@@ -212,6 +220,10 @@ Step 4: Enter Download Mode
 Now, you need to take your device into Download mode. For this, you need to follow the onscreen instruction according to your device. Click “Next” and you will notice the firmware downloading progress on your screen.
 
 ![Android settings not responding - download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Repair the Issue
 
@@ -233,6 +245,10 @@ Like RAM, wiping cache is also vital so as to make the Lava Blaze Curve 5G devic
 
 ![Android settings not responding - cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: Factory reset your Android
 
 You can also opt for Factory resetting your device to fix the issue of Settings keeps stopping. By removing everything from the Lava Blaze Curve 5G device, it will make your device run properly. If you have important data on your device, please make sure to [create a backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before taking action if you don’t want to lose it. The steps are as follows.
@@ -252,6 +268,10 @@ A lot of times minor issues crop up due to the operating systems that get outdat
 3. If there is any, go along with the prompts to install it and make your phone even smarter.
 
 ![Android settings not responding - update android firmware](https://images.wondershare.com/drfone/article/2019/04/update-samsung.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -289,16 +309,10 @@ In a simple language, Random Access Memory (RAM) temporarily stores the data fro
 
 The mobile applications installed on your smartphones are directly related to internal storage. The apps save their data every time, so they behave strangely when the Lava Blaze Curve 5G device runs out of storage. If you’re using heavy mobile applications, it’s best to opt for smartphones with huge internal storage.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Reasons Why My Lava Blaze Curve 5G is Running Slow
 
 It’s not really hard to tell why your Lava Blaze Curve 5G is slow because it’s apparently a common issue among users. But don’t worry. Most of the time, the problem is not a major concern. Here are some scenarios that may slow down your Lava Blaze Curve 5Gs.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Overloading Background Processes
 
 It’s great to have an Android phone that can flawlessly multi-task. However, not all units can handle that well. As mentioned earlier, it depends on the CPU core count and the core’s clock speed. If your Lava Blaze Curve 5G is running slow and freezing, many processes may be happening at the same time. Your device’s cores and clock speed are potentially incapable of executing such demands.
@@ -306,6 +320,10 @@ It’s great to have an Android phone that can flawlessly multi-task. However, n
 ### Your Phone is Running Out of Storage
 
 Mobile apps need to save data on your phone. They perform the tasks based on the data stored on the Lava Blaze Curve 5G device. So if your Lava Blaze Curve 5G is slow, it’s possible that your device is already running out of storage. Each app has its own storage requirement. If your phone goes below that, the app will surely crash and not work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Animation Speed is Way Too Slow
 
@@ -336,6 +354,10 @@ Sometimes, minor bugs can give your device a hard time. It can be the reason why
 ![android phone restarts](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-1.JPG)
 
 - **Step 2:** Several options will manifest on the screen. From there, click **Restart.** Wait until your device completely shuts off and restarts again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Uninstall the Unused Apps to Free Up Some Storage
 
@@ -371,9 +393,6 @@ _Follow these steps to adjust the animation speed:_
 - **Step 3:** Click **Developers options.**
 - **Step 4:** Under the **Drawing** section, you’ll find the following animation scale settings: **Window Animation Scale, Transition Animation Scale,** and **Animator Duration Scale.** Adjust the speed of these three options to **0.5x.**
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![faster animation speed](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-4.JPG)
 
 ### Solution 4: Update Your Phone to the Latest Android Version
@@ -447,6 +466,10 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![new firmware is ready](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 9:**  Before initiating the installation process, Wondershare Dr.Fone will ask you to review and confirm the firmware details. It will also let you know that this procedure will erase the phone’s data. If you agree to the terms, enter **000000** into the input box and click **Confirm.**
 
 ![confirm firmware details](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -465,9 +488,6 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 Android phone is capable of performing lots of stuff. It can assist you in both your personal and professional tasks. But if it’s sluggish and doesn’t execute optimally, the good things it promises all go down the drain. So if you notice that your Lava Blaze Curve 5G is running slow and freezing, act fast to resolve the issue. [<u>Wondershare Dr.Fone</u>](https://drfone.wondershare.com/guide/android-repair.html) can be of great help in this kind of situation. It’s an all-in-one mobile solution that can assist you with system repair, phone backup, data recovery, and a lot more.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -480,9 +500,26 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-streamline-your-digital-library-using-funimate/"><u>[New] In 2024, Streamline Your Digital Library Using Funimate</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-advanced-tips-excelling-at-slide-show-recordings-for-2024/"><u>[Updated] Advanced Tips Excelling at Slide Show Recordings for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028828347-8/"><u>鑑賞のために！今月の一流、中国映像作品専用フリーウェブサイトベスト8選</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-t2-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo T2 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-magic-6-lite-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor Magic 6 Lite Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-s23plus-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy S23+ Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-zte-blade-a73-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked ZTE Blade A73 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-sony-xperia-10-v-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Sony Xperia 10 V in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-stand-out-your-top-10-guide-to-youtubes-best-music-videos/"><u>How to Stand Out Your Top 10 Guide to YouTube's Best Music Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-discover-the-art-of-following-facebook-live-events/"><u>In 2024, Discover the Art of Following Facebook Live Events</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-foundation-defining-electronic-storytelling/"><u>In 2024, The Foundation Defining Electronic Storytelling</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-realme-gt-neo-5-se-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Realme GT Neo 5 SE Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-fcp-voice-over-guide-quick-start-tips/"><u>New 2024 Approved The Ultimate FCP Voice Over Guide Quick Start Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oppo-reno-10-pro-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo Reno 10 Pro 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pro-streamers-choice-the-top-5-gaming-webcams-to-own/"><u>Pro Streamer's Choice The Top 5 Gaming Webcams to Own</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme 12 5G | Dr.fone</u></a></li>
+</ul></div>
 

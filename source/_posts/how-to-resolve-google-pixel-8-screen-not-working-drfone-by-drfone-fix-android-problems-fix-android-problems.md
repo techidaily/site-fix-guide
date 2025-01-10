@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Google Pixel 8 Screen Not Working | Dr.fone
-date: 2024-07-14T06:15:45.532Z
-updated: 2024-07-15T06:15:45.532Z
+date: 2025-01-06T17:57:07.069Z
+updated: 2025-01-10T17:11:11.799Z
 tags: 
   - problems
 categories:
@@ -72,19 +72,15 @@ A common reason for ****Google Pixel 8 Nord being stuck on the loading screen***
 
 ****Step 1:**** Turn off your device by pressing and holding the “Power” button. Once it is turned off, press and hold the “Power” and “Volume Down” buttons until you see the Google Pixel 8 logo.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wait for oneplus logo](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-3.jpg)
 
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
@@ -101,6 +97,10 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 6. Replace the Old Screen with A New Screen
 
@@ -119,11 +119,13 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 
 ![dr.fone phone toolbox](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To sum up this article, it can be said that issues like ****Google Pixel 8 not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
-
-
 
 ## How To Deal With the Google Pixel 8 Screen Black But Still Works?
 
@@ -144,8 +146,9 @@ The first thing that comes to mind when your **phone screen suddenly goes black*
 ![drained iphone battery](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### App Troubles
 
 If your **phone is working, but the screen is black,** there’s also a high probability that you are having an isolated issue with a particular application. An app could be loading something, which often happens for streaming apps such as YouTube, Netflix, Prime, and more, especially if you have slow internet connectivity.
@@ -333,9 +336,6 @@ If you are an Android phone user and face a problem while trying to open an App 
 
 It is appropriate to tag our generation as smartphone addicts because we use smartphones for anything and everything. All our important information, such as photos, videos, audio files, documents, notes, calendars, emails, etc, are stored on our phones. This causes a major storage/space problem in our phones and **a shortage of storage space** is one of the main reasons why an App won’t open or why all Apps won't open on your Google Pixel 8. To see how much of your storage space is occupied by Apps, go to “Settings” and select “Application Manager”.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984182929893.jpg)
 
 ![Settings](https://images.wondershare.com/drfone/article/2017/06/14984583143306.jpg)
@@ -350,7 +350,9 @@ You have already understood ‘why won't your app open?’ at the start of this 
 
 Well, in such a case [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can prove to be your savior. It resolves failed Android system update issues, crashing apps, and black screen of death. It can also get an unresponsive or bricked Android device or boot loop stuck device fixed with one click.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -390,6 +392,10 @@ Step 1: You got to boot the Android device under Download mode, as it’s import
 
 ![boot android in download mode with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - When there is no ‘Home’ button – Turn off the Google Pixel 8 device and then for 5 to 10 seconds, keep the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons pressed. Tap the ‘Volume Up’ button after releasing all the buttons to enter the ‘Download’ mode.
 
 ![boot android in download mode without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
@@ -400,10 +406,11 @@ Step 2: Hitting the ‘Next’ button starts downloading the Android firmware.
 
 Step 3: Once Dr.Fone - System Repair (Android) verifies the downloaded firmware, it begins fixing the app won't open the issue asap.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixing App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: 3 Common fixes if a particular App won’t open
 
@@ -439,11 +446,19 @@ Closing the App completely which won't open on your phone is a good idea. To mak
 
 ![Click on “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984184003158.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 • Select the App which won't open.
 
 • Now click on “Force Stop” as shown below.
 
 ![click on “Force Stop”](https://images.wondershare.com/drfone/article/2017/06/14984184186018.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Clear App Cache and Data
 
@@ -489,9 +504,6 @@ Restarting your Google Pixel 8 to fix an error might sound old school but it giv
 
 • Now click on “Restart”.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on “Restart”](https://images.wondershare.com/drfone/article/2017/06/14984184913200.jpg)
 
 Your phone will automatically restart and once it does, you can try to launch the App. You may also restart your Google Pixel 8 by pressing the power button for about 15-20 seconds.
@@ -510,12 +522,15 @@ To Factory Reset your Google Pixel 8, carefully follow the guidelines given belo
 
 ![Erase Everything](https://images.wondershare.com/drfone/article/2017/06/14984185334400.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Your phone will now reboot and will be required to set up from scratch.
 
 “Why Won’t my App open” is a question asked by many Android phone users who fear that the problem occurs due to a virus attack or a system failure. However, this is not the case. The reason for the error to the surface is quite minor and can be fixed by you, sitting at home, without resorting to any kind of technical or external assistance. The solutions listed above are easy to understand and not very time-consuming.
 
 So go ahead and try them out now!
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -529,9 +544,26 @@ So go ahead and try them out now!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-visionary-viewers-verdict-your-channel-vs-contenders-content/"><u>[New] The Visionary Viewers' Verdict Your Channel Vs. Contenders’ Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-uncovering-whatsapp-written-off-tricks-and-tips/"><u>[Updated] 2024 Approved Uncovering WhatsApp' Written Off Tricks and Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-achieving-broadcast-excellence-from-recordings-to-livestreams-on-obs/"><u>[Updated] In 2024, Achieving Broadcast Excellence From Recordings to Livestreams on OBS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-tips-for-effective-mov-file-saving-on-windows-11/"><u>[Updated] In 2024, Tips for Effective MOV File Saving on Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/captivating-classroom-experience-in-latin/"><u>Captivating Classroom Experience in Latin</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1728508850381-hdd/"><u>HDDの完全データコピーに最適なパーティションサイズ調整手順</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-y56-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo Y56 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oneplus-ace-2v-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead OnePlus Ace 2V Safely | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-first-flight-experience-the-best-beginner-drones/"><u>In 2024, First Flight Experience The Best Beginner Drones</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-note-30-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Note 30 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-zte-blade-a73-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On ZTE Blade A73 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-x7b-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor X7b Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-your-memories-premium-ios-data-restoration-software-available-today/"><u>Secure Your Memories: Premium iOS Data Restoration Software Available Today</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/setting-up-a-seamless-cryptocurrency-portfolio-monitoring-system-with-yl-computings-solutions/"><u>Setting Up a Seamless Cryptocurrency Portfolio Monitoring System with YL Computing's Solutions</u></a></li>
+</ul></div>
 

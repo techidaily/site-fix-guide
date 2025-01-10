@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nokia C12 Screen Not Working | Dr.fone
-date: 2024-07-14T06:17:21.846Z
-updated: 2024-07-15T06:17:21.846Z
+date: 2025-01-04T17:58:42.744Z
+updated: 2025-01-10T17:41:35.478Z
 tags: 
   - problems
 categories:
@@ -50,10 +50,11 @@ As with any other issue or device, the first fix you should always try first is 
 
 ****Instruction:**** Press and hold the “Power” button for a couple of seconds until it turns off. Wait a few moments and then use the “Power” button to turn on the Nokia C12 device. In some of the Nokia C12 devices, you also have to use the “Volume Down” button along with the “Power” button to restart the Nokia C12 device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2. Check the Charging Port and Battery
 
@@ -77,6 +78,10 @@ A common reason for ****Nokia C12 Nord being stuck on the loading screen**** is
 
 ![wait for oneplus logo](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
@@ -86,8 +91,9 @@ A common reason for ****Nokia C12 Nord being stuck on the loading screen**** is
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 5. Reset to Factory Settings
 
 Sometimes, clearing the cache partition doesn't help resolve the touchscreen issue. In that case, You have to factory reset your Nokia C12 device. It is the best and last solution if other fixes haven't worked and you can't pinpoint the reason. Factory resetting your Nokia C12 will delete all phone data. Thus, you should create a proper backup before trying this fix. Follow these steps to factory reset your Nokia C12 in no time:
@@ -127,6 +133,10 @@ In this article, you will learn the pros and cons of uninstalling Google Play se
 
 Acts as a one-stop destination to download various kinds of apps from the Play Store. The Play service also provides a way to manage these apps without much hassle. From uninstalling to updating an app, all of this can be done with Google Play service. Nevertheless, there are times when users wish to uninstall Google Play services. To start with, it takes a lot of storage and makes it pretty tough for users to manage their devices. To help you, we will let you know how to uninstall Google Play Store in this informative post.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Reason you might want to get rid of Google Play Service
 
 Before we proceed and discuss different ways on how to update Play Store after uninstalling updates, it is important to cover the basics. We have heard plenty of users who wish to uninstall Google Play services, but are not sure of the repercussions. One of the main reasons is that it consumes a lot of space on phone’s storage. Not just that, it only consumes plenty of battery as well.
@@ -147,9 +157,11 @@ To disable the Google Play Services, just go to your phone’s Settings > Applic
 
 ![uninstall google play services-open Google Play Services](https://images.wondershare.com/drfone/article/2017/06/14981537155144.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
-
-
 
 ## Google Play Services Won't Update? 12 Fixes are Here on Nokia C12
 
@@ -158,6 +170,10 @@ Google Play Services is a crucial component of any Android device, responsible f
 It’s pretty much annoying when you try to launch Google Play Services but it isn’t able to operate correctly. You get some of the notifications like Google Play Services won't run unless you update Google Play Services. On the other hand, when you start to update Google Play Services, you stuck again with the error pop-ups, and **Google Play Services won’t update**. This can create a lot of chaos in one’s life. So, what action should one need to take in such a situation? Well! You needn’t rankle more as we will explore some of the causes and tips to fix the issue. Keep reading!
 
 ![fix google play services wont update](https://images.wondershare.com/drfone/article/2022/11/google-play-services-wont-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Causes for Google Play Services Won’t Update Issue
 
@@ -171,13 +187,15 @@ Before diving into the solutions, it's essential to understand the potential cau
 - **6\. Outdated version of Google Play Store:** If your device has an outdated version of the Google Play Store app, it may interfere with the update process for Google Play Services.
 - **7\. Google Play Components:** If certain components of Google Play Services are corrupted, it can contribute to update issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: One-Click Fix When Google Play Services Won't Update
 
 For those seeking a quick and effortless solution, several third-party tools offer one-click fixes for the Google Play Services update problem. These tools automate the update process, ensuring that you have the latest version of Google Play Services installed. However, it is crucial to use reputable and trusted tools to avoid potential security risks.
 
 If you cannot update Google play services by the reason of custom ROM incompatibility or Google Play component corruption, there is a serious need of repairing firmware then. And to repair Android firmware, one of the expert ways is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This professional tool vows to bring your Nokia C12s back to normal by fixing the issues with ease. Here are the advantages of this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -197,9 +215,6 @@ Android repair tool to fix Google Play Services not updating
 
 Initiate the process of downloading the software on your computer. Now, click on “Install” button and go along with the installation procedure. Click on “System Repair” option from the Toolbox window.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix google play services not updating with Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 2: Device Connection**
@@ -219,6 +234,10 @@ You will notice the next screen which asks for some information. Please ensure t
 You will now see some instructions on your PC screen. Just follow those according to your device. And then your device will boot in Download mode. Once done, hit on “Next”. The program will now download the firmware.
 
 ![enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5: Repair the Problem**
 
@@ -249,13 +268,14 @@ Uninstalling previous Google Play Services updates resolves conflicts and errors
 9. If an update is available, you'll see the option to "Update." Tap on it to start the update process.
 10. After the update is complete, restart your device to ensure the changes take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3. Update Google Play Store
 
 Ensure that you have the latest version of the Google Play Store app installed on your device. Open the Play Store, go to Settings, and check for updates. Updating the Play Store can often resolve compatibility issues with Google Play Services updates.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4. Google account and re-add it
 
 Go to your device's Settings, select Accounts or Users, and remove your Google account. Restart your device and add the account again. This process can refresh the connection and resolve update issues.
@@ -306,6 +326,10 @@ Sometimes, incorrect date and time settings on your device can cause conflicts w
 - Open "Settings" and go to "General Management".
 - Click "Date & time" and then enable "Automatic date & time". Or you can disable and re-enable it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 11. Factory Reset your Android
 
 As a final measure, if everything went in vain, you can perform a factory reset on your device. This method will wipe away all your data while performing and make the Nokia C12 device go to factory state. Please ensure to keep backing up your important data if you are going to take the help of this method.
@@ -329,9 +353,6 @@ Google Play Services is a background service on Android devices that provides es
 
 Keeping Google Play Services updated is crucial for several reasons. It ensures compatibility with the latest versions of Google apps, improves app performance, and enhances security. Updates often introduce new features, bug fixes, and optimizations, providing a better user experience and access to the latest advancements offered by Google.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Can I uninstall Google Play Services?
 
 No, Google Play Services cannot be uninstalled as it is a core system component required for the proper functioning of Google apps and services. Removing or disabling it can lead to malfunctions and render many Google apps non-functional. However, you can disable specific permissions or clear its cache and data if troubleshooting issues related to Google Play Services.
@@ -353,7 +374,6 @@ There can be several reasons why a device is not compatible with the latest vers
 
 Encountering difficulties when updating Google Play Services can be frustrating, but with the right approach, these issues can be resolved. By understanding the causes and implementing the suggested fixes outlined in this guide, you can overcome the Google Play Services update problem. Remember to prioritize storage space, ensure a stable internet connection, and keep your apps and system components up to date. By doing so, you can enjoy the full functionality of Google Play Services and benefit from the latest features and security enhancements.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -366,9 +386,19 @@ Encountering difficulties when updating Google Play Services can be frustrating,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-branding-mastery-securing-a-loyal-youtube-subscriber-base/"><u>[New] 2024 Approved Channel Branding Mastery Securing a Loyal YouTube Subscriber Base</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-the-art-of-focused-cinematography-on-kinemaster-for-2024/"><u>[New] Mastering the Art of Focused Cinematography on Kinemaster for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-pinterest-pin-square-advice/"><u>[New] Pinterest Pin Square Advice</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-maximizing-creativity-on-tiktok-essential-elements-overview/"><u>2024 Approved Maximizing Creativity on TikTok Essential Elements Overview</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlock-social-media-secrets-with-instagram-insights/"><u>2024 Approved Unlock Social Media Secrets with Instagram Insights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/driving-audience-growth-with-smart-fb-video-tactics-for-2024/"><u>Driving Audience Growth with Smart FB Video Tactics for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nokia-c32-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nokia C32 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-g310-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia G310 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-video-capturing-with-the-top-3-smartphone-titans-for-2024/"><u>Master Video Capturing with the Top 3 Smartphone Titans for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oneplus-open-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On OnePlus Open? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a14-4g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A14 4G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>
 

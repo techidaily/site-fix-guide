@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Motorola G54 5G Screen Not Working | Dr.fone
-date: 2024-07-14T06:17:07.767Z
-updated: 2024-07-15T06:17:07.767Z
+date: 2025-01-08T17:30:47.551Z
+updated: 2025-01-10T16:38:41.333Z
 tags: 
   - problems
 categories:
@@ -52,9 +52,6 @@ As with any other issue or device, the first fix you should always try first is 
 
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2. Check the Charging Port and Battery
 
 The issues with the battery of your Motorola G54 5G 5 can also lead to ****Motorola G54 5G not working****. It can be due to your device's low or near-empty battery. While in some cases, serious issues with the battery can also be behind this problem. Similarly, the reason behind your phone's touch not working can be charging port issues.
@@ -85,6 +82,10 @@ A common reason for ****Motorola G54 5G Nord being stuck on the loading screen**
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5. Reset to Factory Settings
 
 Sometimes, clearing the cache partition doesn't help resolve the touchscreen issue. In that case, You have to factory reset your Motorola G54 5G device. It is the best and last solution if other fixes haven't worked and you can't pinpoint the reason. Factory resetting your Motorola G54 5G will delete all phone data. Thus, you should create a proper backup before trying this fix. Follow these steps to factory reset your Motorola G54 5G in no time:
@@ -96,6 +97,10 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 6. Replace the Old Screen with A New Screen
 
@@ -128,9 +133,6 @@ We understand the inconvenience caused, therefore, here are ways to tell you how
 
 However, before moving on, let us learn a little about the causes for the Android boot loop error.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What might cause the bootloop issue on Android?
 
 Android boot loop error might seem weird and unexplainable but it occurs because of some specific reasons.
@@ -154,8 +156,6 @@ Read on to know more about how to fix the bootloop error without any data loss w
 If you are trying to figure out how to fix boot loop, the first option you have is the one-click fix to Android Bootloop which involves using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) software.
 
 This is designed to repair any data corruption on your device and restores your firmware to its usual working condition.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -194,6 +194,10 @@ For this, you can simply follow the onscreen instructions for both phones with a
 
 ![fix android boot loop in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click "Next", and the software will begin downloading the firmware repair files.
 
 ![firmware downloading to android](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -207,6 +211,10 @@ Make sure your computer stays connected to the internet, and your device stays c
 You’ll be notified when the process is done and when you can remove your device and start using free from the boot loop Android error!
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Soft reset to fix Android bootloop issue
 
@@ -227,6 +235,10 @@ In case the Motorola G54 5G device does not turn on normally and is still stuck 
 ## Part 4: Boot into Safe Mode to fix Android boot loop
 
 ![boot into safe mode](https://images.wondershare.com/drfone/article/2023/08/boot-loop-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Booting your Motorola G54 5G into Safe Mode is a useful troubleshooting step to fix boot loop issues caused by third-party apps. When in Safe Mode, the Motorola G54 5G device will start up with only essential system apps, and any downloaded apps that might be causing conflicts won't run. Here's how you can boot your Motorola G54 5G into Safe Mode to address the boot loop problem:
 
@@ -281,6 +293,10 @@ Reboot the phone in Recovery Mode by selecting the first option.
 
 This solution is known to fix the boot loop error 9 out of 10 times, but if you still can't start your Motorola G54 5G normally, consider using a CWM Recovery to resolve the Android boot loop issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Use CWM Recovery to fix bootloop on rooted Android
 
 CWM stands for ClockworkMod and it is a very popular custom recovery system. To use this system to solve the boot loop Android error, your Motorola G54 5G must be rooted with CWM Recovery System which basically means CWM must be downloaded and installed on your device.
@@ -313,7 +329,9 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola G54 5G
 
@@ -332,8 +350,6 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -355,19 +371,17 @@ The one-click repairing process begins with downloading Dr.Fone from its officia
 
 After you open the software, hit on the “System Repair” button from the main interface. With the help of a genuine USB cable, get your Motorola G54 5G phone and connect it with the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 3: Choose the Tab**
 
 Now, from the next screen, you are supposed to choose “Android Repair” tab. It is given on the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![repair android to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Enter Right Information**
 
@@ -388,8 +402,9 @@ You will get some instructions on your screen to keep your device in Download mo
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 **Step 7: Repair Device**
@@ -397,6 +412,10 @@ You will get some instructions on your screen to keep your device in Download mo
 Now, when the firmware is downloaded, the program will itself begin to repair your device. Wait and keep the Motorola G54 5G device connected until you get the notification for process completion.
 
 ![get android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear the cache data the TouchWiz
 
@@ -476,7 +495,6 @@ Along with this, we would also suggest you go take backup of your data so that y
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -489,9 +507,26 @@ We believe that you will find the above methods helpful. However, if still in ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-navigate-to-fun-with-tiktok-download-and-setup-for-macbook/"><u>[New] In 2024, Navigate to Fun with TikTok Download & Setup for MacBook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-spots-for-virtual-reality-experiences-for-2024/"><u>[New] Top Spots for Virtual Reality Experiences for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-enhancing-user-experience-recovering-lost-youtubefb-videos/"><u>[Updated] 2024 Approved Enhancing User Experience Recovering Lost YouTube/FB Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-picks-for-instant-recorder-performance/"><u>2024 Approved Top Picks for Instant Recorder Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-pro-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://win-web.techidaily.com/discover-essential-operations-leveraging-windows-registry-with-yl-software-solutions/"><u>Discover Essential Operations: Leveraging Windows Registry with YL Software Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-huawei-nova-y71-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Huawei Nova Y71 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-reno-11-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo Reno 11 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-free-green-screen-apps-that-will-take-your-videos-to-the-next-level-for-2024/"><u>New Free Green Screen Apps That Will Take Your Videos to the Next Level for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-g310-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia G310 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/personalizing-your-windows-10-start-menu-a-step-by-step-guide/"><u>Personalizing Your Windows 10 Start Menu: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-narzo-n53-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo N53 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-narzo-n53-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo N53 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a15-4g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A15 4G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-twitter-conversation-utilities-a-guide-to-monitoring-hashtag-trends/"><u>The Best TwitteR Conversation Utilities: A Guide to Monitoring Hashtag Trends</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-purpose-of-pagefilesys-and-should-it-be-deleted/"><u>What Is the Purpose of Pagefile.sys and Should It Be Deleted?</u></a></li>
+</ul></div>
 

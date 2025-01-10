@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor X9a Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:14.080Z
-updated: 2024-07-15T06:16:14.080Z
+date: 2025-01-07T17:34:01.971Z
+updated: 2025-01-10T18:26:42.576Z
 tags: 
   - problems
 categories:
@@ -32,9 +32,6 @@ Excessive smartphone use can cause the touchscreen to go out of the required set
 
 If your device's battery is damaged or is at the end of its lifespan, it can cause the touch screen not responding issues. Moreover, the low battery and issue with the charging port can also lead to this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Corrupted System Files
 
 The presence of corrupted system files is also a significant cause of such issues. These corrupted files can also lead to serious performance issues on your phone.
@@ -69,6 +66,10 @@ It is an excellent option if your Honor X9a device's touch is not working due to
 
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 4. Wipe the Cache of Your Honor X9a Device
 
 A common reason for ****Honor X9a Nord being stuck on the loading screen**** is the filled cache partition. If you do not clean out the cache partition of your Honor X9a device, its performance will degrade. As a result, your device will experience issues like the touch screen not working or getting stuck at the loading screen. Here is how you can clear the cache of your Honor X9a device:
@@ -80,6 +81,10 @@ A common reason for ****Honor X9a Nord being stuck on the loading screen**** is
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
@@ -154,6 +159,10 @@ It’s not really hard to tell why your Honor X9a is slow because it’s apparen
 
 It’s great to have an Android phone that can flawlessly multi-task. However, not all units can handle that well. As mentioned earlier, it depends on the CPU core count and the core’s clock speed. If your Honor X9a is running slow and freezing, many processes may be happening at the same time. Your device’s cores and clock speed are potentially incapable of executing such demands.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Your Phone is Running Out of Storage
 
 Mobile apps need to save data on your phone. They perform the tasks based on the data stored on the Honor X9a device. So if your Honor X9a is slow, it’s possible that your device is already running out of storage. Each app has its own storage requirement. If your phone goes below that, the app will surely crash and not work.
@@ -165,6 +174,10 @@ You can modify the Honor X9a device’s animation type and speed on your Honor X
 ### You’re Using an Outdated Android Version
 
 If your Honor X9a is running slow and freezing, the Honor X9a device’s software is probably outdated. The mobile apps installed on your device are lagging or crashing because they’re no longer compatible with the OS. It happens most of the time. Hence, always watch out for OS updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Your Phone is Experiencing Some System Issues
 
@@ -185,6 +198,10 @@ Sometimes, minor bugs can give your device a hard time. It can be the reason why
 - **Step 1:** For seven seconds or more, hold the **Power** and the **Volume Down** button together.
 
 ![android phone restarts](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Several options will manifest on the screen. From there, click **Restart.** Wait until your device completely shuts off and restarts again.
 
@@ -236,9 +253,6 @@ It’s always recommended to update your phone to the latest Android version. As
 
 ![update android version](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-5.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Reset Your Honor X9a to Factory Settings
 
 One way to restore the original performance of your Honor X9a is to revert it back to factory settings. It deletes all the phone’s data and adjusts the settings to default. Most of the time, this procedure works magic. It fixes numerous issues, including the Android phone that’s slow and constantly freezing. But ensure your phone has already been backed up before commencing this step. You may use [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to help you back up and secure your files.
@@ -278,6 +292,10 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![android system repair](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Wondershare Dr.Fone will give you a list of the Android problems that this procedure will fix. From there, click **Start.**
 
 ![android system repair starts](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -300,10 +318,11 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 - **Step 9:**  Before initiating the installation process, Wondershare Dr.Fone will ask you to review and confirm the firmware details. It will also let you know that this procedure will erase the phone’s data. If you agree to the terms, enter **000000** into the input box and click **Confirm.**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm firmware details](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 10:** Wait while Wondershare Dr.Fone installs the new firmware to your device.
 
@@ -311,18 +330,17 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 - **Step 11:** A notification will immediately appear after installing the new firmware. Click **Done** if your phone starts normally. Otherwise, click **Try Again** to repeat the process.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3,660,347** people have downloaded it
 
 ## Conclusion
 
 Android phone is capable of performing lots of stuff. It can assist you in both your personal and professional tasks. But if it’s sluggish and doesn’t execute optimally, the good things it promises all go down the drain. So if you notice that your Honor X9a is running slow and freezing, act fast to resolve the issue. [<u>Wondershare Dr.Fone</u>](https://drfone.wondershare.com/guide/android-repair.html) can be of great help in this kind of situation. It’s an all-in-one mobile solution that can assist you with system repair, phone backup, data recovery, and a lot more.
-
-
 
 ## How to Exit Android Factory Mode On Honor X9a?
 
@@ -343,8 +361,6 @@ It is however important to note that a factory reset or factory mode does often 
 Before we can see how to safely enter and exit factory mode, it is important to have a full backup of your device. We mentioned that a factory mode will likely erase all the data on your device. A backup will ensure that you can get your phone back to its original state before the factory mode.
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
-
-
 
 ### Dr.Fone - Backup & Restore (Android)
 
@@ -377,6 +393,10 @@ The program will display all the file types it can support to backup. Just selec
 
 ![select the data types to backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 4. Start backing up your device to the computer
 
 After choosing the file's type for backup, click "Backup" to begin backing up your device to your computer. It will take you a few minutes, depending on the storage of the data.
@@ -390,8 +410,6 @@ Note: You can use the feature of "Restore From Backup" to restore the backup fil
 From the above parts, you are well aware about what is factory mode. As we discussed, this mode fixes most troubles with Android devices.
 
 But for situations when your Honor X9a gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Honor X9a logo or factory mode or blue screen of death with a single click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -441,13 +459,14 @@ Step 2: Press ‘Next’ for initiating firmware downloading.
 
 ![firmware download to fix](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Dr.Fone –Repair (Android) starts Android repair as soon as download and verification of firmware is done. All Android issues along with Android stuck in factory mode will be fixed now.
 
 ![fixed Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Common Solutions to Exit Factory Mode on Android
 
 Having a backup of all your data will eliminate the risk of losing any of your data. You can now safely exit factory mode using one of the 2 methods below. These two methods will work on a rooted device.
@@ -498,7 +517,6 @@ You can also exit factory mode on unrooted device by going to Settings> Applicat
 
 As much as factory mode can be a useful solution to a number of problems, it can be quite annoying when it pops up unexpectedly. Now you are equipped with 2 effective solutions to help you safely exit factory mode if ever you find yourself in this situation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -511,9 +529,19 @@ As much as factory mode can be a useful solution to a number of problems, it can
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-exploring-virtual-realities-shortcomings/"><u>[Updated] In 2024, Exploring Virtual Realities' Shortcomings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-maximizing-revenue-crafting-engaging-fb-animation-ads/"><u>[Updated] In 2024, Maximizing Revenue Crafting Engaging FB Animation Ads</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/a-beginners-guide-to-use-lunapic-photo-editor/"><u>A Beginner's Guide to Use Lunapic Photo Editor</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-x-fold-2-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo X Fold 2? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/problematische-desktop-anwendungsverschwinden-in-windows-abgeschlossen-hier-sind-9-effektive-methoden-zum-beheben/"><u>Problematische Desktop-Anwendungsverschwinden in Windows Abgeschlossen? Hier Sind 9 Effektive Methoden Zum Beheben!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-10-4g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 10 4G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-12-pro-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme 12 Pro 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/wie-geht-die-datenmigration-vom-samsung-9t-evo-auf-neues-laufwerk-und-was-solltet-ihr-beachten/"><u>Wie Geht Die Datenmigration Vom Samsung 9T EVO Auf Neues Laufwerk Und Was Solltet Ihr Beachten?</u></a></li>
+</ul></div>
 

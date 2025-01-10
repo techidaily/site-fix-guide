@@ -1,7 +1,7 @@
 ---
 title: What the Elite Circle of 10 Global Tech Minds Have to Say About AI
-date: 2024-12-31T23:09:12.629Z
-updated: 2025-01-03T23:41:51.396Z
+date: 2025-01-05T17:49:35.956Z
+updated: 2025-01-10T17:57:34.790Z
 tags:
   - chatgpt
   - open-ai
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
 
  However, another promise of ChatGPT Plus was priority access to new features, and OpenAI delivered on it. With the introduction of features like Advanced Data Analytics, Browse with Bing, and DALL·E 3, ChatGPT Plus is currently one of the most useful subscriptions you could get for yourself and your business, AI or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. GPT-4 Access
 
 ![GPT-4 chatbot interface ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/gpt-4-chatbot-interface-chatgpt-plus.jpg)
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
  The most obvious benefit of upgrading to the Plus version is access to GPT-4\. As the successor to GPT-3.5,[there are major differences between the two](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) . GPT-4 improves natural language processing, understanding of context, and problem-solving. It is also trained on a larger data set, which means it's better at recognizing complex patterns.
 
  In reality, the differences can be a bit subtle as they're not immediately noticeable. However, the more you use it, the sooner you realize that GPT-4 has a better chance of providing the correct response on its first attempt. It's also more accurate and doesn't fall victim to AI hallucinations as often.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Image Input
 
@@ -52,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
  You can also use this picture to understand handwritten documents you've scanned or have a picture of. You can even insert a picture of a spreadsheet and ask ChatGPT to make calculations based on the data it has acquired or suggest improvements to the spreadsheet's layout.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Internet Access
@@ -62,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
  The standard, free version of ChatGPT has a knowledge cutoff from September 2021\. That means it does not have access to any information on events that occurred after that date. However, you can overcome this limitation using the new**Browse with Bing** mode with the GPT-4 model. This means you can access the internet within ChatGPT.
 
  Internet access lets you summarize articles, conduct up-to-date market research, and find recent news stories and papers. ChatGPT can also access a wider dataset and deliver more accurate responses. So, with the $20/month subscription, the knowledge cutoff is no longer a problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. DALL·E 3 Art Creation
 
@@ -79,10 +67,14 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
 
 ![​​​​​​​DALL·E 3 book illustrations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-book-illustrations.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is how easy it has become to write a story and have beautiful illustrations! Again, if something makes the $20/month ChatGPT Plus subscription seem cheap and extremely valuable, it's definitely the combo of DALL·E 3 and GPT-4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Plugin Access
@@ -90,12 +82,16 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
 ![chatgpt plugins option selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-plugins-option-selection.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Plugin access gives ChatGPT Plus a level of customization that you won't find with its competitors. These plugins serve as third-party software components that integrate with ChatGPT. While the feature is currently in beta, you can[install plugins from the plugin store](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) and pick from over 100 different options.
 
  Each plugin serves a different purpose. For example, you can use the Kayak plugin to book a trip abroad, the Instacart plugin to plan meals and buy ingredients, or interact with apps like Google Sheets and Gmail using Zapier. Some plugins can be buggy or slow, but it'll be interesting to see how useful they are once the kinks are ironed out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Advanced Data Analytics
 
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
  To enable this feature, click the**Account Settings** button in the bottom-left corner of the screen. Then, go to**Settings & Beta > Beta Features** and toggle the**Advanced data analysis** option. Once the feature is toggled, you can upload the spreadsheet using the**plus sign** button in the left corner of the ChatGPT text field.
 
 ![Advanced data analysis ChatGPT prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-data-analysis-chatgpt-prompt-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After it's uploaded, you can ask ChatGPT what you'd like it to do with the data, and it will oblige. I uploaded a random CSV and asked it to create visuals.
 
@@ -136,7 +136,7 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
  You also get access to multiple plugins that can help with your language-learning journey. The new Speak plugin is an excellent example of this. It helps you pronounce certain phrases, gives you alternate ways to express the same sentiment, and shows you examples that replicate real-life conversations in any language.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Plus Is Worth the Upgrade
@@ -160,21 +160,22 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-ig-upgrade-starts-here-top-tools-for-follower-growth/"><u>[New] 2024 Approved IG Upgrade Starts Here Top Tools for Follower Growth</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-charting-a-course-to-your-personalized-tiktok-marker/"><u>[Updated] 2024 Approved Charting a Course to Your Personalized TikTok Marker</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-expert-tips-on-documenting-lol-tournaments/"><u>2024 Approved Expert Tips on Documenting LOL Tournaments</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/a-step-by-step-tutorial-for-recording-youtube-live-across-devices/"><u>A Step-by-Step Tutorial for Recording YouTube Live Across Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oppo-f23-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Oppo F23 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-new-magicard-rio-pro-driver-compatible-with-windows-10817/"><u>Download the New Magicard Rio Pro Driver - Compatible with Windows 10/8.1/7</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-tecno-spark-20c-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Spark 20C Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-6-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 6 After Forgetting the Passcode?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-a18-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A18 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-gt-neo-5-se-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT Neo 5 SE Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a14-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A14 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f34-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F34 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/secure-your-iphone-now-discover-the-best-6-antivirus-solutions-available-today/"><u>Secure Your iPhone Now! Discover the Best 6 Antivirus Solutions Available Today</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-tutorial-for-cloning-your-disk-onto-different-hddssd-using-windows-systems/"><u>Step-by-Step Tutorial for Cloning Your Disk Onto Different HDD/SSD Using Windows Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-cost-effective-recording-devices-the-ultimate-list-for-2024/"><u>[Updated] Cost-Effective Recording Devices The Ultimate List for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-analyzing-best-days-for-highest-audience-retention/"><u>[Updated] In 2024, Analyzing Best Days for Highest Audience Retention</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-podcast-submission-googles-steps/"><u>[Updated] In 2024, Mastering Podcast Submission Google's Steps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-iphone-screen-sharing-made-simple/"><u>2024 Approved IPhone Screen Sharing Made Simple</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-fixes-to-get-minecraft-running-smoothly-on-your-win11-system/"><u>Comprehensive Fixes to Get Minecraft Running Smoothly on Your Win11 System</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/einfache-und-automatische-sicherung-veranderter-dateien-jeden-tag-tipps-and-tricks-zum-optimalen-datenschutz/"><u>Einfache Und Automatische Sicherung Veränderter Dateien Jeden Tag: Tipps & Tricks Zum Optimalen Datenschutz</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-80-pro-straight-screen-edition-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor 80 Pro Straight Screen Edition Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-spark-20-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Spark 20 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-x50-gt-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor X50 GT Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-xiaomi-redmi-note-12-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi Redmi Note 12 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-a25-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy A25 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-a-user-friendly-guide-to-efficiently-use-ez-grabber/"><u>In 2024, A User-Friendly Guide to Efficiently Use EZ Grabber</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c22-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C22 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-lava-blaze-2-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-repair-for-microsoft-edges-msedgeexe-application-faults/"><u>Step-by-Step Repair for Microsoft Edge's msedge.exe Application Faults</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Lava Agni 2 5G | Dr.fone
-date: 2025-01-01T21:42:36.464Z
-updated: 2025-01-03T22:53:53.486Z
+date: 2025-01-09T16:56:14.037Z
+updated: 2025-01-10T18:15:57.415Z
 tags: 
   - problems
 categories:
@@ -43,7 +43,7 @@ Running an outdated version of the Play Store can cause compatibility issues wit
 Issues with verifying Google accounts can restrict access to the Play Store. It prevents you from downloading or updating apps. Authentication problems pose a significant barrier, impacting your ability to stay current with app versions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### App Download Restrictions
@@ -87,6 +87,10 @@ The tool is designed to [<u>address a wide array of Android problems</u>](https:
 One of the standout features of Dr.Fone - System Repair is its high success rate in problem resolution without causing data loss. You can have confidence that your apps and important data remain intact throughout the repair process. It ensures a smooth solution and maintains the integrity of the user's device and data.
 
 When grappling with persistent issues hindering app downloads on the Google Play Store, having a reliable third-party tool becomes essential to safeguard your apps and ensure a seamless user experience. The next section will show you how to use the platform to fix the **apps not downloading in the Google Play Store** problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part III. First Choice: Use Dr.Fone - System Repair for App Downloading Issues
 
@@ -143,21 +147,25 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Verify Google Account
 
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the Lava Agni 2 5G device settings, select **Accounts**, and ensure your Google account is active and synced.
 
 ![syncing google account on device](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Check Date and Time Settings
 
 Incorrect date and time settings may disrupt the authentication process. Verify that your device's date and time are set correctly. Enable automatic date and time settings to ensure accuracy.
 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Review Download Restrictions
 
@@ -231,6 +239,10 @@ Once the software downloads, the program will automatically repair any issues ir
 
 ## Part 2: 9 Common ways to fix “Unfortunately, Contacts Has Stopped”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 Restart Android system
 
 Our response to any minuscule issue is straightaway restarting phone. This helps in clearing out any problem that might have disrupt the functioning of phone. So, to fix the problem of “Contacts app won’t open”, you too can try out your hand in this method.
@@ -241,6 +253,10 @@ Our response to any minuscule issue is straightaway restarting phone. This helps
 ![contacts app stopping - retart android](https://images.wondershare.com/drfone/article/2019/04/restart-reboot-android-phone.jpg)
 
 Now, your device will quickly reboot the Lava Agni 2 5G device. Once, the Lava Agni 2 5G device regains its normal state, check whether the issue is coming again or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Clear cache and data of Contacts app
 
@@ -282,10 +298,6 @@ There will be a prompt stating that the application may misbehave. However, you 
 
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.5 Update your device software
 
 Many a times, we skip updating our device software thinking it is of less importance. In fact, one must not miss out the updates that occurs in phone. As, without the updates, the scope of some applications are affected to some extent. For its better functioning and avoiding issues like “contacts keep stopping”, here is how you should update device software.
@@ -296,10 +308,6 @@ Many a times, we skip updating our device software thinking it is of less import
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.6 Reset App Preferences
 
@@ -319,6 +327,10 @@ Do you happen to exchange voicemails quite often? It can trigger to be the reaso
 2. From there, duly opt for “Voicemail”.
 3. Just click on the press menu option and at last select “Delete” option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.8 Uninstall the downloaded apps
 
 Some applications contain some unwanted advertisements and some elements of malware. This can be enough for disrupting the functionality of the built-in contact app won’t open. It is crucial for your phone to be detoxed from such elements. You need to manually scrap off such applications. Do, ensure to download the application from the genuine source for future use.
@@ -331,10 +343,6 @@ Some applications contain some unwanted advertisements and some elements of malw
 Now, check whether you’ve fought the battle with the problem or not.
 
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.9 Reset to Factory Settings
 
@@ -355,10 +363,6 @@ Cell phones have become a part of a person’s daily life. It offers convenience
 In this article, you’ll explore practical methods on **h ow to take a virus off your phone**. From simple preventive measures to specific solutions, this guide aims to equip you with practical strategies, ensuring a safer and smoother mobile experience by safeguarding your phone against the perils of viruses.
 
 ![phone with virus logo](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Why You Get Mobile Viruses in the First Place
 
@@ -393,6 +397,10 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3,391,426** people have downloaded it
 
 - **Step 2:** Choose either **Android** or **iPhone**. In this example, iPhone shall be selected. For Android devices, simply follow and mirror the prompts that will follow.
@@ -403,17 +411,9 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![dr.fone ios system repair options](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Choose either **Standard Mode** or **Standard Repair**. Standard Repair will not remove data from your device. However, for a sure fix, choose Standard Mode.
 
 ![dr.fone standard/advanced repair page](https://images.wondershare.com/drfone/guide/ios-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** Put your device to [Recovery Mode](https://drfone.wondershare.com/recovery-mode/iphone-stuck-in-recovery-mode.html). Dr. Fone will provide on-screen instructions.
 
@@ -426,6 +426,10 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 - **Step 7:** After the firmware is downloaded, click **Repair Now**.
 
 ![firmware download complete](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** Once the process is completed, choose **Done.** Your phone should be virus-free by now.
 
@@ -453,7 +457,7 @@ For iPhones, here’s how you can do it:
 ![ios safe mode](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Downloading Anti-Virus Software
@@ -477,10 +481,6 @@ IOS devices should be under **Settings > General > Transfer or Reset iPhone**.
 ![ios transfer or reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-14.jpg)
 
 Remember, each method has its strengths and weaknesses. Dr.Fone is quick and effective, Safe Mode is limited but useful, anti-virus apps can protect, and a Factory Reset gives a clean slate. Try these methods to zap those viruses away!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Handy Prevention Tips To Avoid Future Infections
 
@@ -513,15 +513,17 @@ And, if you’re thinking, “**How do I get a virus off My Lava Agni 2 5G?**”
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-photo-mastery-top-8-web-based-creation-suite/"><u>[New] Photo Mastery Top 8 Web-Based Creation Suite</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-crafting-content-for-staff-recognition-on-vimeo/"><u>[Updated] In 2024, Crafting Content for Staff Recognition on Vimeo</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-plug-free-pleasure-the-ultimate-guide-to-exquisite-offline-ios-gaming/"><u>[Updated] In 2024, Plug-Free Pleasure The Ultimate Guide to Exquisite Offline iOS Gaming</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-lava-blaze-2-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Lava Blaze 2 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-effortless-video-integration-into-instagram-feed/"><u>In 2024, Effortless Video Integration Into Instagram Feed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/intova-x-reviewed-cutting-edge-action-capture/"><u>Intova X Reviewed Cutting-Edge Action Capture</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/m1-revolution-unveiling-apples-2020-macbook-pro-13-inch-transformation/"><u>M1 Revolution: Unveiling Apple's 2020 MacBook Pro 13-Inch Transformation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-lava-yuva-3-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Lava Yuva 3 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-navigate-through-the-best-of-iphones-virtual-reality-games/"><u>[New] 2024 Approved Navigate Through The Best of iPhone's Virtual Reality Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-frequency-logging-computer-sounds-and-dialogue/"><u>[New] Frequency Logging Computer Sounds & Dialogue</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-exploring-youtube-channels-for-easier-access-to-fb-videos-on-apple-tv-for-2024/"><u>[Updated] Exploring YouTube Channels for Easier Access to FB Videos on Apple TV for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/customizing-your-start-menu-on-windows-10-a-step-by-step-guide-tips-from-yl-computing/"><u>Customizing Your Start Menu on Windows 10: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-official-samsung-m220-drivers-now/"><u>Download the Official Samsung M2#20-Drivers Now!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-zte-axon-40-lite-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It ZTE Axon 40 Lite Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-v30-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo V30 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-itel-p55-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Itel P55 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lenovos-new-laptop-a-game-changer-with-top-performance-and-durability-ideal-for-serious-gamers-and-professionals-insights/"><u>Lenovo's New Laptop: A Game-Changer with Top Performance and Durability Ideal for Serious Gamers & Professionals - Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/mobile-revolution-facebook-launches-portable-portal/"><u>Mobile Revolution: Facebook Launches Portable Portal</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-k11-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo K11 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-x5-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X5 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
 

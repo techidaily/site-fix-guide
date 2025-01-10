@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Realme V30 | Dr.fone
-date: 2024-07-14T06:13:32.645Z
-updated: 2024-07-15T06:13:32.645Z
+date: 2025-01-05T18:23:24.352Z
+updated: 2025-01-10T18:00:33.592Z
 tags: 
   - problems
 categories:
@@ -36,7 +36,9 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -64,15 +66,16 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
 
 ![bluetooth not working on android - download mode to fix issues](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Realme V30 and start using it and your Bluetooth features.
@@ -80,6 +83,10 @@ When the repair process has been completed, you’ll receive the screen below, w
 ### 2.2 Restart Android and turn on Bluetooth again
 
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One of the most common solutions in technology is simply to turn it on and off again, which is the case to happen here. By restarting your device, you can clear out any problems you may be suffering from to help it get up and running again. Here’s how;
 
@@ -115,6 +122,10 @@ Here’s how;
 2. Turn Bluetooth on, and you’ll see all the connections your Realme V30 is paired with
 3. Go through these settings and remove/delete/forget every connection on your device
 4. Now when you go to connect to a device using Bluetooth, repair the Realme V30 device, enter the passcode, and use a fresh paired connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.5 Use Bluetooth in safe mode
 
@@ -191,6 +202,10 @@ With technology, uncertainties are bound to happen. It becomes quite tricky to a
 3. **Get rid of Cache:** Extras of cache can pose to be problematic in the working of applications. Users must timely clean their devices so as to brush away any kind of cache memory.
 4. **Outdated version of Play store app:** Users generally do not feel the urge for updating the play store app. It is important to use only the updated version so as the functioning of Google Play app is not affected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: 7 fixes for Play Store stuck on downloading
 
 ### 3.1 Check SD card and phone storage space
@@ -205,11 +220,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Play Store stuck on downloading
@@ -258,9 +268,6 @@ After the package downloads, program will repair all kinds of problems surfacing
 
 ![get to repair android to fix play store download pending](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.4 Clear data and cache of Play Store and download again
 
 Did you know the piling up of cache memory can certainly pull off a great deal for Play Store getting stuck? Cache data may generally stash the data so that you can access it even in future course. But, this do east up a good chunk of space and result in the misbehavior of **_Play Store app_**. You can opt to brush away **_Play store stuck on downloading_** by using the following steps.
@@ -310,8 +317,6 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click tool to fix "Unfortunately TouchWiz has stopped"
@@ -360,11 +365,19 @@ You will get some instructions on your screen to keep your device in Download mo
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7: Repair Device**
 
 Now, when the firmware is downloaded, the program will itself begin to repair your device. Wait and keep the Realme V30 device connected until you get the notification for process completion.
 
 ![get android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear the cache data the TouchWiz
 
@@ -403,9 +416,6 @@ In case the above steps didn’t figure out the problem, here is the next tip. T
 
 Check now if the error is eliminated. If unfortunately not, please try the following solution.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Enable the easy mode
 
 For some users, enabling Easy Mode has been of great assistance. This feature aims to make the user experience more efficient by simply eliminating complex features. The Easy Mode removes those features that confuse the users by messing up the screen. Hence, we suggest you to switch to this mode in order to remove “**_TouchWiz not working_**” problem. The steps are:
@@ -414,6 +424,10 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 - Hit on “Easy Mode” now.
 
 ![easy mode to fix TouchWiz stopping](https://images.wondershare.com/drfone/article/2019/02/easy-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
 
@@ -427,10 +441,11 @@ Here is the next solution to be followed when TouchWiz keeps stopping. As we alr
 - Keep holding until rebooting finishes.
 - You will now witness “Safe mode” on the bottom screen. You can now release the button.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe mode](https://images.wondershare.com/drfone/article/2019/02/enable-safe-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset Factory settings
 
@@ -444,14 +459,15 @@ Along with this, we would also suggest you go take backup of your data so that y
 
 ![reset factory settings](https://images.wondershare.com/drfone/article/2019/02/reset-factory-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Wait a few minutes and your device will reboot.
 
 ### Install a new launcher to replace TouchWiz
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -465,9 +481,19 @@ We believe that you will find the above methods helpful. However, if still in ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-broadcast-software-beyond-standard-obs-for-2024/"><u>[New] Broadcast Software Beyond Standard OBS for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pro-hunters-choice-best-camcorders-unveiled/"><u>[New] Pro Hunters Choice Best Camcorders Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-professional-minecraft-videography-methods/"><u>[New] Professional Minecraft Videography Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-use-youtube-enhancements/"><u>[Updated] How to Use YouTube Enhancements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-clone-at-no-charge-set-it-up-locally-on-a-windows-machine-using-gpt-4-all-technology/"><u>ChatGPT Clone at No Charge: Set It Up Locally on a Windows Machine Using GPT-4 All Technology.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-note-30-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-precision-listening-top-audio-customization-techniques/"><u>New In 2024, Precision Listening Top Audio Customization Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-s18-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo S18 Pro Android SIM Unlock APK</u></a></li>
+</ul></div>
 

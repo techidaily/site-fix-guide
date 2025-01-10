@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y78 5G | Dr.fone
-date: 2024-12-20T20:02:19.004Z
-updated: 2024-12-25T09:45:09.680Z
+date: 2025-01-04T18:19:54.012Z
+updated: 2025-01-10T17:36:14.407Z
 tags: 
   - problems
 categories:
@@ -30,6 +30,10 @@ Another reason the Spotify app keeps crashing could be an antivirus or a VPN blo
 
 Several other reasons for this problem include network issues, a weak Wi-Fi signal, or the battery saving mode. Furthermore, your apps and files might be corrupted, or an app on your phone might block Spotify from working correctly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Spotify Keeps Crashing: Best Fixes
 
 As you can see, there are numerous reasons for your Spotify crashing. Fortunately, all of them are easy fixes, and there’s no need to worry. We’ve prepared a list of 11 ways to fix your Spotify. With these fixes and detailed instructions, you’ll be able to eliminate your Spotify problem with ease.
@@ -54,10 +58,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 4:** See which Android errors Wondershare Dr.Fone can fix and click **Start**.
 
 ![start system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** Select the **Brand,****Name, Model, Country,** and **Carrier** In the **Carrier** section, choose **OPEN** if your device is unlocked.
 
@@ -103,6 +103,10 @@ The steps for entering Download Mode on Android devices without the Home button 
 - **Step 2:** Press and hold the **Volume Down**, **Bixby**, and**Power** buttons simultaneously.
 - **Step 3:** Press the **Volume Up**button to enter Download Mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Force-Close the App
 
 You can force-close Spotify and open it again to make it work properly. That is an easy fix if your Spotify has developed a bug. If that is the case, follow the next steps:
@@ -124,13 +128,13 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![settings in spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Scroll to the bottom of the settings and tap **Log Out**.
 
 ![log out of spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** Tap **Log In**.
 
@@ -140,10 +144,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 - **Step 6:** Tap **Login**again, and you’re in.
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4. Restart Your Device
 
@@ -181,6 +181,10 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 
 ![about phone to find system update](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **System Update**.
 - **Step 4:** If there’s an available update, tap
 
@@ -209,7 +213,7 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 ![storage in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3:** Here, you can see how much of your storage space is available and what’s taking up the most space.
@@ -228,6 +232,10 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 ![uninstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Press **OK**.
 - **Step 5:** Then, open the PlayStore and find Spotify.
 - **Step 6:** Tap **Install**to reinstall the app again.
@@ -235,6 +243,10 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
 
 - **Step 7:** Once it installs, log in to test if it’s working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10. Check if Spotify Is Down
 
@@ -259,10 +271,6 @@ When using different apps and websites, your device caches data from those sourc
 
 ![settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-22.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** Go to **Apps**.
 - **Step 3:** Find **Spotify** and tap it.
 
@@ -275,10 +283,6 @@ When using different apps and websites, your device caches data from those sourc
 - **Step 5:** Tap **Clear Cache**.
 
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -372,10 +376,6 @@ Step 2: After that, click “Check for updates” and if updates are available, 
 
 ![home button not working android - update android](https://images.wondershare.com/drfone/article/2019/02/update-firmware.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: What if the Home Button fails due to hardware reasons?
 
 When your Android home and back button not working because of hardware reasons, you can’t get the problem resolved by simply rebooting your device. In such cases, you have to use alternative apps to replace the home button.
@@ -402,6 +402,10 @@ URL: [https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en\
 Button Savior app is one of the ultimate apps that can help you to fix the Android home button not working problem with ease. For this app, root and no root versions are available on the Google Play store. To fix the Home button not working issue, no root version is the right one. But, if you want to fix the Back button or other buttons, then you need to go for the root version.
 
 ![button savior](https://images.wondershare.com/drfone/article/2019/02/button-savior-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Pros:
 
@@ -440,10 +444,6 @@ Home button app is another remarkable solution to replace broken and failed home
 
 ![home button app](https://images.wondershare.com/drfone/article/2019/02/home-button-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Pros:
 
 - You can change the button of color using the app.
@@ -456,6 +456,10 @@ Cons:
 - Sometimes, it shuts down automatically.
 
 URL: [https://play.google.com/store/apps/details?id=nu.home.button](https://play.google.com/store/apps/details?id=nu.home.button)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.5 Multi-action Home Button app
 
@@ -478,10 +482,6 @@ URL: [https://play.google.com/store/apps/details?id=com.home.button.bottom](http
 
 Hopefully, the methods covered in this post helps you to fix Android home and back button not working problem for you. If it is a system issue, then the best thing you can do is to take advantage of Dr.Fone - System Repair (Android) software. It can surely help you to fix your Android system to normal within a few minutes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Android Safe Mode - How to Turn off Safe Mode on Vivo Y78 5G?
 
 Safe mode on Android is very useful to get rid of dangerous apps and malware. This allows the user to perform a uninstall of the crashed or malicious apps by putting safe mode on Android. Now the question is how to remove safe mode? In this article, we have discussed in detail how to get out of safe mode and also discussed some frequently asked questions. Keep reading this article.
@@ -501,6 +501,10 @@ Step 2 – You could find the option “Restart”. Tap on it. (If you have only
 Step 3 – Now, your phone will boot up in some time and you can see the Vivo Y78 5G device is no more on safe mode.
 
 ![the Vivo Y78 5G device](https://images.wondershare.com/drfone/article/2017/06/14986725432763.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This method, if goes well, will turn off safe mode in Android from your device. IF not, move to the next method instead.
 
@@ -537,10 +541,6 @@ The cache of the Vivo Y78 5G device sometimes creates an obstacle in overcoming 
 Step 1 – Turn on your device in safe mode. It can generally be done by tapping the home, power, and volume up button on Android device. If this combination is not working for you, search the internet with your device model number.
 
 ![tap home, power and volume up](https://images.wondershare.com/drfone/article/2017/06/14986725776650.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2 – Now you can find the recovery mode screen. Navigate to the “Wipe cache” option with the volume up and down button and select the option by tapping the power button.
 
@@ -629,16 +629,20 @@ The safe mode is a very useful program for any Android device. But it limits the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-drone-racing-things-you-need-to-know-and-top-5-best-fpv-racing-drones/"><u>[New] In 2024, Drone Racing Things You Need to Know and Top 5 Best FPV Racing Drones</u></a></li>
-<li><a href="https://fox-info.techidaily.com/breakthrough-techniques-for-quick-srt-to-text-file-alteration/"><u>Breakthrough Techniques for Quick SRT to Text File Alteration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/compact-powerhouse-is-the-new-mac-mini-with-m4-chip-comparable-to-an-apple-tv-in-size-and-performance/"><u>Compact Powerhouse: Is the New Mac Mini with M4 Chip Comparable to an Apple TV in Size and Performance?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/emeditor-text-editor-features-macro-recording-using-prompt-based-templates/"><u>EmEditor Text Editor Features Macro Recording Using Prompt-Based Templates</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-narzo-60-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme Narzo 60 Pro 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-c51-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme C51 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-play-40c-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor Play 40C? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-x8b-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor X8b? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/premium-karaoke-experience-dive-into-a-world-of-classic-and-contemporary-country-hits-with-this-weeks-karaoke-cloud-pro-selection/"><u>Premium Karaoke Experience: Dive Into a World of Classic & Contemporary Country Hits with This Week's Karaoke Cloud Pro Selection!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-for-correcting-error-0x800705b4-in-windows-10s-installation-and-update-process/"><u>Step-by-Step Resolution for Correcting Error 0X800705b4 in Windows 10'S Installation and Update Process</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-stepwise-journey-to-excellence-in-voice-memos/"><u>[New] 2024 Approved Stepwise Journey to Excellence in Voice Memos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/et-rid-of-youtube-shorts-a-comprehensible-guide/"><u>[New] Get Rid of YouTube Shorts A Comprehensible Guide</u></a></li>
+<li><a href="https://discover-great.techidaily.com/winx-mac-dvd-macos/"><u>【公式版】WinX Mac DVDリッパー - macOS用完全オールインワンソフトウェア</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-comprehensive-guide-to-photo-to-video-conversion-via-pixiz/"><u>2024 Approved Comprehensive Guide to Photo-to-Video Conversion via Pixiz</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-nikon-d500-reviewed-a-4k-photo-enthusiasts-dream/"><u>2024 Approved Nikon D500 Reviewed A 4K Photo Enthusiast's Dream</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-wacom-graphics-tablet-drivers-swiftly-and-securely/"><u>Download Wacom Graphics Tablet Drivers Swiftly and Securely</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guida-veloce-ed-efficiente-per-trasformare-mkv-in-mp4-con-risoluzione-ottimale/"><u>Guida Veloce Ed Efficiente per Trasformare MKV in MP4 Con Risoluzione Ottimale</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-s17-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo S17 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-xperia-5-v-by-fonelab-android-recover-music/"><u>How to restore wiped music on Xperia 5 V</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-y36i-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo Y36i by Name | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-does-xiaomi-civi-3-disney-100th-anniversary-edition-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Civi 3 Disney 100th Anniversary Edition Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-moto-g73-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Moto G73 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Vivo Y78t | Dr.fone
-date: 2024-07-14T06:15:03.657Z
-updated: 2024-07-15T06:15:03.657Z
+date: 2025-01-04T16:48:52.044Z
+updated: 2025-01-10T17:54:27.838Z
 tags: 
   - problems
 categories:
@@ -30,13 +30,15 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
 
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Vivo Y78t. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -77,6 +79,10 @@ When the repair process has been completed, you’ll receive the screen below, w
 ### 2.2 Restart Android and turn on Bluetooth again
 
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One of the most common solutions in technology is simply to turn it on and off again, which is the case to happen here. By restarting your device, you can clear out any problems you may be suffering from to help it get up and running again. Here’s how;
 
@@ -144,9 +150,6 @@ Here’s how to turn on your Bluetooth discoverable feature;
 
 ### 2.7 Exclude Bluetooth issues of the other device
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
 
 Sometimes, you might not even have a problem with your Vivo Y78t, but rather the Bluetooth device you’re trying to connect to, whether that’s a Bluetooth speaker, an in-car entertainment system, or any other kind of Bluetooth device.
@@ -166,6 +169,10 @@ One of the common misconceptions of Bluetooth is just how far the wireless range
 
 The further away the Vivo Y78t devices are from each other, the less likely the connection will remain secure. As a rule of thumb, Bluetooth can work up to 100 meters, but to play it safe, always try and keep your devices under 50m apart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.9 Avoid interference of other Bluetooth sources
 
 ![android bluetooth problems - avoid interference](https://images.wondershare.com/drfone/article/2019/04/bluetooth-device-interference.jpg)
@@ -183,6 +190,10 @@ With the advance of technology over the years, many of us rely on smartphones to
 ![phone screen is black but still works intro](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-01.jpg)
 
 Whether you’re using an iPhone or an Android device, you’ll eventually encounter a problematic symptom like this. Therefore, this article will explore **what to do when your phone screen goes black**. After exploring below, you’ll learn the common causes of why your **phone screen went black** and how to fix it. Read on below to learn more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Did My Vivo Y78t Screen Go Black but Still Works? Common Causes
 
@@ -272,9 +283,17 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 ![android recovery mode 01](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: Use the **Volume** buttons to navigate the choices and select **Wipe data/factory reset** and confirm your choice with the **Power** button.
 
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: Simply wait for the process to complete and wait for your Vivo Y78t to restart automatically.
 
@@ -290,9 +309,6 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 **Step 4:** Tap **Erase iPhone** to confirm. You’ll be asked to type in your Apple ID and password if **Find My** is active. Enter your password and tap **Erase**.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How To Fix Black Screen Phone With an Alternative
 
 If **your phone screen went black but still works** and doing the methods above did not solve the issue, you can use Wondershare Dr.Fone for [<u>iOS</u>](https://drfone.wondershare.com/ios-system-repair.html) and [<u>Android</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) as a last resort. It’s one of the most popular smartphone repair tools today, enabling you to fix all kinds of annoying scenarios. These include black screen, boot loop, white screen of death, bricked iOS or Android device, and more.
@@ -356,9 +372,6 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 **Step 3**: Follow the on-screen instructions provided on the main program window and wait for the repair process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone system repair process complete](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
@@ -376,8 +389,9 @@ Doing all the recommended methods above usually solves the case. If the differen
 “Unfortunately TouchWiz home has stopped” is the talk of the town due to annoying TouchWiz UI, a front-end user interface developed by Vivo Y78t. Not to mention, the Vivo Y78t has borne a whole lot of heat from its agitated users over the years and the reason is pretty much obvious due to the pre-installed bloatware apps and the theme launch “TouchWiz home”. That not just brutally annoys users and eats up a heck of internal storage space but lags up too often due to low speed and stability. As a result users end up with “Unfortunately TouchWiz home has stopped” and “Unfortunately, TouchWiz has stopped”. Apparently, there are several flaws in the design and functioning of this launcher and hence, Touchwiz keeps stopping or becomes unresponsive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Common scenarios when TouchWiz keeps stopping
 
 Here in this section, we will introduce some scenarios that can be blamed for why **_TouchWiz is not working_**. Check out the following points:
@@ -391,8 +405,6 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -428,6 +440,10 @@ Please keep your mobile details handy as you will need them in the next window. 
 
 ![enter device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Confirm Actions**
 
 This process may result in removing your data hence we strongly recommend you to keep a backup of your data.
@@ -462,6 +478,10 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 
 ![clear cache to fix touchwiz home stopping](https://images.wondershare.com/drfone/article/2019/02/clear-cache-touchwiz.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Please note that this will delete all your Home screens post this method.
 
 ### Disable Motion & gesture settings
@@ -472,9 +492,6 @@ The functions regarding Motions and Gestures can be responsible for why **_Touch
 
 When you use TouchWiz, it may consume higher memory usage for high amount of graphic maintenance. As a result, the “**_unfortunately TouchWiz home has stopped_**” error might crop up. Taking this into consideration, you should try reconfiguring the animation scale and get rid of the error. Here’s how:
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Clear Cache Partition
 
 In case the above steps didn’t figure out the problem, here is the next tip. This method can be counted as one of the most effective one. Because it is able to fix minor issues in Android devices, we recommend you for “**_TouchWiz home has stopped_**” issue too. Let us know how you can do it:
@@ -496,6 +513,10 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 - Hit on “Easy Mode” now.
 
 ![easy mode to fix TouchWiz stopping](https://images.wondershare.com/drfone/article/2019/02/easy-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
 
@@ -529,9 +550,6 @@ Along with this, we would also suggest you go take backup of your data so that y
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -544,9 +562,24 @@ We believe that you will find the above methods helpful. However, if still in ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-streamline-your-seo-strategy-with-the-leading-7-online-youtube-tags-tools/"><u>[New] 2024 Approved Streamline Your SEO Strategy with the Leading 7 Online Youtube Tags Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-digital-dynamo-women-the-fastest-growing-female-channel-owners/"><u>[Updated] Digital Dynamo Women The Fastest-Growing Female Channel Owners</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-13-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 13? How to Fix it?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/bandicam-revisited-a-deep-dive-into-screen-recording-for-2024/"><u>Bandicam Revisited A Deep Dive Into Screen Recording for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/gopro-hero7-black-a-game-changer-for-adventurers/"><u>GoPro HERO7 Black - A Game-Changer for Adventurers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-itel-a60-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Itel A60 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world/"><u>In 2024, Top 10 Sci-Fi Metaverse Movies Take You to a Brand New World</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-razr-40-ultra-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Razr 40 Ultra Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-xcover-6-pro-tactical-edition-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy XCover 6 Pro Tactical Edition Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-gt-neo-5-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme GT Neo 5 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-tips-for-shooting-high-quality-youtube-videos/"><u>Top Tips for Shooting High-Quality YouTube Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-past-of-iphone-operating-systems-from-ios-version-10-to-180/"><u>Unveiling the Past of iPhone Operating Systems - From iOS Version 1.0 to 18.0</u></a></li>
+</ul></div>
 

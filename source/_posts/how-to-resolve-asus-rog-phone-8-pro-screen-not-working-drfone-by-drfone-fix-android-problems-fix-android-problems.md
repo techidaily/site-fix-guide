@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Asus ROG Phone 8 Pro Screen Not Working | Dr.fone
-date: 2024-07-14T06:15:39.559Z
-updated: 2024-07-15T06:15:39.559Z
+date: 2025-01-06T16:06:04.546Z
+updated: 2025-01-10T17:14:44.041Z
 tags: 
   - problems
 categories:
@@ -20,9 +20,6 @@ Nothing is more frustrating than your phone's touch screen becoming unresponsive
 
 Luckily for your, multiple ways are available to resolve this issue. This article will list six fixes for resolving the ****Asus ROG Phone 8 Pro not working**** issue. It will also discuss the reasons behind this issue in detail and provide a list of tips to avoid it in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What Causes Asus ROG Phone 8 Pro Screen Unresponsive?
 
 Answering what causes Asus ROG Phone 8 Pro screen unresponsiveness is difficult. Many reasons, ranging from minor bugs to serious hardware issues, can cause it. To find out the exact or near exact reason, you will have to review your device's activity before this issue occurs. You can use the following common reasons behind the ****Asus ROG Phone 8 Pro 6T touch screen not working**** as the basis of your investigation:
@@ -85,9 +82,6 @@ A common reason for ****Asus ROG Phone 8 Pro Nord being stuck on the loading scr
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5. Reset to Factory Settings
 
 Sometimes, clearing the cache partition doesn't help resolve the touchscreen issue. In that case, You have to factory reset your Asus ROG Phone 8 Pro device. It is the best and last solution if other fixes haven't worked and you can't pinpoint the reason. Factory resetting your Asus ROG Phone 8 Pro will delete all phone data. Thus, you should create a proper backup before trying this fix. Follow these steps to factory reset your Asus ROG Phone 8 Pro in no time:
@@ -153,8 +147,6 @@ So Android repair requires programming knowledge to do it?
 
 No! With Dr.Fone - System Repair (Android), you can do Android repair in just a few steps and get all issues like Wifi Authentication error fixed easily.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 An easy-to-operate tool to fix Android system issues like a Wifi authentication error
@@ -173,6 +165,10 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 1. After the Dr.Fone tool is downloaded, install, and launch it. You can see the following screen.
 
 ![fix Wifi Authentication Error by android repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Connect your Asus ROG Phone 8 Pro to the computer, and select "Android Repair" in the middle.
 
@@ -220,9 +216,17 @@ One of the easiest ways to fix the authentication problem of Wifi is to reset th
 
 ![tap on the “Forget”](https://images.wondershare.com/drfone/article/2017/06/14981517891308.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Afterward, turn on your Wifi again and tap to the network you wish to connect to. Simply provide the credentials and tap on the “Connect” button to reestablish the connection. This way, you can reset the network successfully.
 
 ![tap on the Connect button](https://images.wondershare.com/drfone/article/2017/06/14981518275903.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Modify network connection
 
@@ -246,9 +250,6 @@ If the above solution won’t work, then you would be required to walk the extra
 
 5\. As soon as you will change it to static, you will get different fields related to your network’s IP address, gateway, DNS, and more. Simply fill these fields and tap on the “Save” button once you are done.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fill these fields](https://images.wondershare.com/drfone/article/2017/06/14981521159129.jpg)
 
 Now, try to connect to the Wifi hotspot again. You would be able to overcome the authentication problem of Wifi.
@@ -301,6 +302,10 @@ You're not alone if you're an Android user who encounters app crashes. This arti
 
 There are many reasons for ****the app crashing**** on Android devices. These reasons range from insufficient storage space to bugs and glitches in the apps. Finding out the root cause of an app crashing is important so that you can find the appropriate solution. Discussed below are some of the reasons why your Android apps keep crashing:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Insufficient Memory
 
 When a device is low on memory, it may struggle to run multiple apps simultaneously. Each app requires memory to store its data and execute its processes. If the available memory is limited, it can cause apps to crash. That happens because they don't have enough resources to operate properly.
@@ -312,6 +317,10 @@ Android devices come in various models and run different operating system versio
 ### Outdated Apps
 
 Apps are regularly updated to introduce new features, fix bugs, and enhance performance. Using an outdated version of an app may cause instability or compatibility problems. Since the app is not optimized for the current version of Android, it can keep crashing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Network Problems
 
@@ -337,10 +346,11 @@ If your ****apps keep crashing****, you should try force-closing the targeted ap
 
 - ****Step 1:**** On your Asus ROG Phone 8 Pro, move the app icon and press it to select “App Info.” On the App Info screen, tap the “Force Stop” button to force close the app. The button can be either on the down left or down right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on force stop](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - ****Step 2:**** After force closing the app, relaunch it and see if the app crashing issue is resolved.
 
@@ -352,6 +362,10 @@ In case restarting the app hasn’t worked, you should try restarting your Asus 
 
 ![proceed with the restart option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Update the Android OS
 
 Not updating your Android OS for a long while can cause many performance issues in your device. One of these issues is the incompatibility with the latest apps. That's why make sure that your Asus ROG Phone 8 Pro is running the latest available version of the operating system. You can check and update the Android OS of your device using these steps:
@@ -359,6 +373,10 @@ Not updating your Android OS for a long while can cause many performance issues 
 - ****Step 1:**** Launch the Settings app on your Asus ROG Phone 8 Pro and scroll down to select “Software Update.” On the next screen, tap “Download and Install” to look for new updates.
 
 ![tap on download and install](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - ****Step 2:**** During the update process, ensure you have a stable internet connection. Moreover, your device should be fully charged to avoid any complications.
 
@@ -374,9 +392,6 @@ Have you tried clearing the cache of the app that keeps crashing? The app cache 
 
 ![tap on clear cache button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall the Buggy App
 
 Bugs in the app can prove a nightmare and hard to remove from the app. If your ****apps keep crashing**** due to bugs, it is best to uninstall and then reinstall the app. It will help you eliminate any corrupted files or settings that might be causing the crashes. Given below are the steps needed to uninstall and reinstall the apps on Android device:
@@ -401,6 +416,10 @@ Sometimes, app crashes can occur due to improper or conflicting permissions. Whe
 
 ![access the app permissions](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8: Check and Clear the Phone Storage
 
 Insufficient storage space on your device can also lead to app crashes. Check the available storage space on your Asus ROG Phone 8 Pro and ensure it has enough free space. If the storage is full, consider deleting unnecessary files or apps to create more space. Explained below is the process to check and free up storage on Android devices:
@@ -424,6 +443,10 @@ It can be hard to find the ****app crashing**** root cause if it happens due to
 - ****Step 2:**** Press the “Power Off” button until “Restart in Safe Mode” appears on the screen. Now reboot the Asus ROG Phone 8 Pro device into Safe Mode. To exit Safe Mode, you will need to restart the phone.
 
 ![enable the safe mode](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 10: 100% Working Solution to Fix the Android Apps Keep Crashing – Wondershare Dr.Fone
 
@@ -467,9 +490,6 @@ To sum up, if your ****apps keep crashing on Android****, you can resolve it in 
 
 With its clean interface and powerful features, Wondershare Dr.Fone stands out as the best choice to fix app crashes. It provides a comprehensive toolkit to diagnose and resolve various software issues.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -482,9 +502,18 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-interpreting-distinctions-360-content-and-virtual-reality-for-2024/"><u>[New] Interpreting Distinctions 360° Content & Virtual Reality for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-know-how-for-video-filter-integration-on-digital-platforms-for-2024/"><u>[Updated] Essential Know-How for Video Filter Integration on Digital Platforms for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-a-powerful-content-strategy-uncover-the-best-5-youtube-marketing-tactics-for-2024/"><u>Crafting a Powerful Content Strategy Uncover the Best 5 YouTube Marketing Tactics for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/data-restoration-techniques-how-to-retrieve-information-from-erased-or-reformatted-drives/"><u>Data Restoration Techniques: How to Retrieve Information From Erased or Reformatted Drives</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-premium-pcmac-screen-capture-application/"><u>In 2024, Premium PC/Mac Screen Capture Application</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-note-30-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-itel-p40plus-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Itel P40+ Black and White | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-microsoft-store-crash-error-0x800704cf/"><u>Tackling Microsoft Store Crash: Error 0X800704CF</u></a></li>
+</ul></div>
 

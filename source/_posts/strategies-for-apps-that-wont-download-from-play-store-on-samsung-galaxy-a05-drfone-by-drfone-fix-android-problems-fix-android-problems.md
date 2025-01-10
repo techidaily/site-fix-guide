@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Samsung Galaxy A05 | Dr.fone
-date: 2025-01-02T22:12:27.605Z
-updated: 2025-01-03T21:36:00.824Z
+date: 2025-01-03T18:05:02.291Z
+updated: 2025-01-10T19:05:32.166Z
 tags: 
   - problems
 categories:
@@ -20,15 +20,15 @@ The inconvenience can impact user trust and the overall perception of an app's r
 
 ![downloading status on phone vector](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I. 7 Usual Reasons Behind Apps Not Downloading in Google Play Store
 
 The reasons below collectively contribute to the frustration users experience when apps are **unable to download from the Play Store**:
 
 ![confused about apps not downloading](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Connectivity Issues
 
@@ -37,10 +37,6 @@ Slow or unstable internet connections can interfere with the download process. I
 ### Insufficient Storage
 
 Limited available storage on the Samsung Galaxy A05 device prevents the installation of new apps. Users may find it challenging to manage their storage effectively. It can hinder the expansion of your app library and impact the overall device functionality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Outdated Play Store Version
 
@@ -54,10 +50,6 @@ Issues with verifying Google accounts can restrict access to the Play Store. It 
 
 Device settings or parental controls may impose restrictions on certain app downloads. You may encounter limitations in accessing specific apps. It can affect the Samsung Galaxy A05 device's versatility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Incorrect Date and Time Settings
 
 Inaccurate date and time settings on the Samsung Galaxy A05 device can disrupt the Play Store's functionality. You'll face obstacles in downloading apps due to authentication errors or syncing issues. It can have a negative impact on the overall user experience.
@@ -69,7 +61,7 @@ Technical issues within the Play Store, such as bugs or glitches, can lead to fa
 If you encounter any of these issues, having a reliable tool to fix them is essential. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair offers a solution if you **cannot download from the Play Store**. The platform ensures you can download apps again with a high success rate in minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part II. Having a Third-Party Tool Is Essential To Safeguard Your Apps
@@ -77,6 +69,10 @@ If you encounter any of these issues, having a reliable tool to fix them is esse
 Dr.Fone - System Repair is a dependable alternative offering a comprehensive solution to various Android-related problems. Its key features set it apart, making it an essential asset for users facing app download challenges.
 
 ![dr.fone main window interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -115,6 +111,10 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 - **Step 2:** Connect your Samsung Galaxy A05 to the computer using a USB cable. Dr.Fone will detect your device, and you'll be prompted to choose your device's type. Select **Android** **Repair**.
 
 ![dr.fone choosing a device type](https://images.wondershare.com/drfone/guide/system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Follow the on-screen instructions until the app downloads the correct firmware for your device. As it downloads, Dr.Fone will verify it and put your device details on display. You can [<u>install the firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) on your Samsung Galaxy A05 by choosing **Fix Now**.
 
@@ -168,11 +168,7 @@ Incorrect date and time settings may disrupt the authentication process. Verify 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Review Download Restrictions
@@ -204,14 +200,6 @@ If you're asking **why is my Android phone in black and white**, then you're in 
 Discovering your Samsung Galaxy A05 going monochrome can be annoying. The section below answers the question: **why did my Samsung Galaxy A05 phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
 
 ![phone display in black and white](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Accessibility Settings
 
@@ -250,10 +238,6 @@ Battery-saving modes can also alter display settings to conserve energy. It can 
 
 - **Step 2:** Check and adjust battery-saving settings, including toggling power-saving modes on or off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Hardware Issues
 
 In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html) may cause a black-and-white display. Physical damage, loose connectors, or problems with the display hardware can impact color reproduction. Identifying and addressing these hardware issues may be crucial for resolving the problem. Here's what you should do.
@@ -262,9 +246,17 @@ In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnosti
 
 ![broken android screen](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Seek professional assistance or contact the Samsung Galaxy A05 device manufacturer if hardware problems are suspected.
 
 Consider a reliable third-party tool if your phone persists in black and white despite troubleshooting attempts. Tools such as [Dr.Fone System Repair Android](https://drfone.wondershare.net/android-repair.html) offer advanced solutions for complex system issues. They ensure your phone regains its vibrant display without a hitch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Using a Dedicated Tool: Dr.Fone for Fixing Black and White Display Problems
 
@@ -308,6 +300,10 @@ Repair Android System Errors without Any Trouble.
 
 It's highly recommended to [back up your Android data](https://drfone.wondershare.com/backup/android-backup-software.html) before using Dr.Fone for repair.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How Dr.Fone Can Help You Beyond Display Issues
 
 Beyond resolving black-and-white display problems, Dr.Fone serves as a comprehensive tool for all Android issues. The platform can enhance your device functionality.
@@ -339,7 +335,7 @@ Below are additional functionalities of Dr.Fone that support your device to keep
 - **Screen Unlock Without Losing Data.**Fone offers a secure way to unlock the screen of Android devices without losing data. You can regain access to your devices without compromising valuable data, whether due to forgotten passwords, pattern locks, or PINs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. Tips for Maintaining Your Phone Display Brilliance
@@ -406,6 +402,10 @@ Before we proceed and discuss different ways on how to update Play Store after u
 
 If your device is giving the insufficient storage warning, then you need to start by clearing your phone’s data. It is observed that the Google Play Service accumulates most of the data in a device. This leads to users looking for different ways to how to uninstall Google Play Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: What will it affect to uninstall Google Play Service?
 
 If you think that Google Play Service only provides a platform to download new apps, then you are wrong. It provides several other functions that might alter the way you use your smartphone. It is linked with other essential Google services as well, like Google Maps, Gmail, Google Music, etc. After uninstalling the Google Play Service, you might face trouble using various essential apps.
@@ -436,22 +436,18 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/he-top-8-choices-mirrorless-cameras-for-excellent-vlogs/"><u>[New] The Top 8 Choices Mirrorless Cameras for Excellent Vlogs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-from-xml-to-srt-a-step-by-step-solution-approach/"><u>[Updated] 2024 Approved From XML to SRT A Step-by-Step Solution Approach</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-channel-your-earnings-effective-youtube-money-methods-for-2024/"><u>[Updated] Channel Your Earnings Effective YouTube Money Methods for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-hp-laptop-tutorial-easy-webcam-video-recording-steps/"><u>[Updated] In 2024, HP Laptop Tutorial Easy Webcam Video Recording Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evaluating-risks-the-7-challenges-of-integrating-generative-ai-into-instant-messages/"><u>Evaluating Risks: The 7 Challenges of Integrating Generative AI Into Instant Messages</u></a></li>
-<li><a href="https://extra-information.techidaily.com/fundamentals-of-e-narrative-creation/"><u>Fundamentals of E-Narrative Creation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-realme-c53-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme C53 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-essential-free-layering-and-editing-apps-mobile-edition-top-10/"><u>In 2024, Essential Free Layering & Editing Apps - Mobile Edition (Top 10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-gskills-new-high-speed-ddr5-6400-32gb-ram-optimized-compatibility-with-intel-and-amd-processors-for-enhanced-performance/"><u>Introducing G.SKILL's New High-Speed DDR5-6400 32GB RAM: Optimized Compatibility with Intel and AMD Processors for Enhanced Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722877244465-making-an-informed-choice-the-5-most-important-factors-when-selecting-a-smartwatch/"><u>Making an Informed Choice: The 5 Most Important Factors When Selecting a Smartwatch</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-spark-10-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Spark 10 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-narzo-60x-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme Narzo 60x 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-insider-wisdom-how-to-effortlessly-upload-photosvideos-in-win11/"><u>[New] Insider Wisdom How to Effortlessly Upload Photos/Videos in Win11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-bridging-the-gap-between-social-platform-and-streaming-devices-for-2024/"><u>[Updated] Bridging the Gap Between Social Platform and Streaming Devices for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-tech-savvy-mastering-mac-video-capture-skills-for-2024/"><u>[Updated] Tech Savvy Mastering MAC Video Capture Skills for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-bios-and-firmware-for-gigabytes-z370p-msi-atx-motherboard-now/"><u>Get the Newest BIOS & Firmware for Gigabyte's Z370P MSI ATX Motherboard Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y17s-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y17s in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-13c-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi 13C Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-slow-downs-effective-solutions-for-a-smoother-rainbow-six-siege-experience/"><u>Overcoming Slow-Downs: Effective Solutions for a Smoother Rainbow Six Siege Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-gionee-f3-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Gionee F3 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-70-lite-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor 70 Lite 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-tecno-pova-6-pro-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Tecno Pova 6 Pro 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

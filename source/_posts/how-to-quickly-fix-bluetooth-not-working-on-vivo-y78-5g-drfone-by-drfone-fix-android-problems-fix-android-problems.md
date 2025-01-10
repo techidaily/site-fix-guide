@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Vivo Y78 5G | Dr.fone
-date: 2024-07-14T06:15:01.367Z
-updated: 2024-07-15T06:15:01.367Z
+date: 2025-01-05T17:59:25.156Z
+updated: 2025-01-10T17:37:05.798Z
 tags: 
   - problems
 categories:
@@ -35,8 +35,6 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Vivo Y78 5G. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -117,6 +115,10 @@ Here’s how;
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you’re having problems with your connection and paired devices, sometimes you may have conflicting software faults in your device that are causing the problems. If this is the case, you’ll need to boot your Vivo Y78 5G in Safe Mode.
 
 This is an operating state in which your phone will run the bare minimum services it needs to perform. If your Bluetooth works in Safe Mode, you know you have an app or a service that’s causing the problem.
@@ -129,9 +131,6 @@ Here’s how to find out;
 4. Wait a minute on the Main Menu
 5. Now turn on your Bluetooth and connect it to your preferred device
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.6 Turn on the discoverable feature
 
 ![android bluetooth problems - discoverable feature](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-discoverable.jpg)
@@ -250,6 +249,10 @@ Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.V: Clear The Photo Gallery App Cache
 
 The camera app is closely tied to the photo gallery app that comes baked in into Android OS. That is because photos that the camera app takes are stored in the photo gallery app. Consequently, if there were any issues in the photo gallery app, that could lead to the camera app not working on Android problem. Here’s how to clear the photo gallery app cache:
@@ -268,6 +271,10 @@ Step 1: Go to Play Store and tap your profile picture on the right.
 
 ![google play store app updates](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Tap Manage Apps and Device.
 
 ![check for app updates play store](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-10.jpg)
@@ -280,9 +287,6 @@ We do not realize the immense power that is packed into the thin smartphone form
 
 If this is the case, close all apps and let the phone cool down. You might even want to shut the phone off to help cool it faster.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.VIII: Nudge The Camera System
 
 You may want to tap your camera system (the lenses and surrounding area) gently to see if that gets the camera working. In case it did, this is indicative of a hardware issue, and you should get it checked at the service center at your earliest convenience.
@@ -306,6 +310,10 @@ Step 1: Launch Dr.Fone app on your PC or Mac.
 Step 2: Click System Repair module and then Android.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
 
@@ -333,6 +341,10 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
@@ -357,6 +369,10 @@ Unlike before, Android phones today are equipped with several cores. Each of the
 
 Simply put, clock speed is basically the speed at which the CPU cores can carry out a cycle in a second. A faster clock speed definitely translates into the Vivo Y78 5G device’s higher performance. For instance, an octa-core Android phone with a one GHz per second clock speed is a decent device. But it’s less powerful than a device with the same number of cores but runs at two GHz per second.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Random Access Memory
 
 In a simple language, Random Access Memory (RAM) temporarily stores the data from apps that are currently running. Smartphones can be more flexible with multi-tasking if their RAM has enough space. So if you’re among these users who perform multiple tasks simultaneously, you better choose a device with more RAM.
@@ -377,12 +393,13 @@ It’s great to have an Android phone that can flawlessly multi-task. However, n
 
 Mobile apps need to save data on your phone. They perform the tasks based on the data stored on the Vivo Y78 5G device. So if your Vivo Y78 5G is slow, it’s possible that your device is already running out of storage. Each app has its own storage requirement. If your phone goes below that, the app will surely crash and not work.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Animation Speed is Way Too Slow
 
 You can modify the Vivo Y78 5G device’s animation type and speed on your Vivo Y78 5G via the developer’s option. However, altering its default settings can sometimes make the Android phone run slow. If the speed is set slower, more delays are added to the animation. Hence, it takes a while for Your Vivo Y78 5G to launch an app or complete a certain process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### You’re Using an Outdated Android Version
 
@@ -410,6 +427,10 @@ Sometimes, minor bugs can give your device a hard time. It can be the reason why
 
 - **Step 2:** Several options will manifest on the screen. From there, click **Restart.** Wait until your device completely shuts off and restarts again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2: Uninstall the Unused Apps to Free Up Some Storage
 
 If your Vivo Y78 5G is running slow and freezing, it’s likely because you're running out of internal storage. You may uninstall the apps you rarely use to free up some space. Here’s how to do it.
@@ -418,6 +439,10 @@ If your Vivo Y78 5G is running slow and freezing, it’s likely because you're r
 - **Step 2:** Click **Uninstall.**
 
 ![uninstall android apps](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Click **Ok** if it asks you to confirm the action.
 
@@ -432,9 +457,6 @@ _Initiate the following steps first to enable the developers option on your devi
 - **Step 1:** Go to **Settings.**
 - **Step 2:** Find the **About Phone** option. Click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable developers options](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-3.JPG)
 
 - **Step 3:** Find the **Build Number.** And then click on it seven times.
@@ -516,6 +538,10 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** Thereafter, the details about the newly downloaded firmware package will be displayed on the screen. From there, click **Fix Now.**
 
 ![new firmware is ready](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
@@ -526,18 +552,6 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 - **Step 10:** Wait while Wondershare Dr.Fone installs the new firmware to your device.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install new firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 - **Step 11:** A notification will immediately appear after installing the new firmware. Click **Done** if your phone starts normally. Otherwise, click **Try Again** to repeat the process.
@@ -549,9 +563,6 @@ The device’s operating system may sometimes run into unexpected problems. That
 ## Conclusion
 
 Android phone is capable of performing lots of stuff. It can assist you in both your personal and professional tasks. But if it’s sluggish and doesn’t execute optimally, the good things it promises all go down the drain. So if you notice that your Vivo Y78 5G is running slow and freezing, act fast to resolve the issue. [<u>Wondershare Dr.Fone</u>](https://drfone.wondershare.com/guide/android-repair.html) can be of great help in this kind of situation. It’s an all-in-one mobile solution that can assist you with system repair, phone backup, data recovery, and a lot more.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -565,9 +576,16 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-k11x-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo K11x Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-guide-to-using-googles-battery-nest-doorbells/"><u>A Comprehensive Guide to Using Google’s Battery Nest Doorbells</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bios-explained-why-you-should-use-revo-uninstaller-for-optimal-performance/"><u>BIOS Explained: Why You Should Use Revo Uninstaller for Optimal Performance</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-huawei-p60-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Huawei P60 Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-iphones-role-in-creating-immersive-vr-content/"><u>In 2024, IPhone's Role in Creating Immersive VR Content</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-g84-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G84 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oneplus-ace-2-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix OnePlus Ace 2 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/wheres-the-windows-display-brightness-tool/"><u>Where's the Windows Display Brightness Tool?</u></a></li>
+</ul></div>
 

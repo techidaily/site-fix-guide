@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Motorola Edge 40 Screen Not Working | Dr.fone
-date: 2024-07-14T06:17:03.763Z
-updated: 2024-07-15T06:17:03.763Z
+date: 2025-01-04T18:20:18.781Z
+updated: 2025-01-10T17:57:16.733Z
 tags: 
   - problems
 categories:
@@ -27,6 +27,10 @@ Answering what causes Motorola Edge 40 screen unresponsiveness is difficult. Man
 ### 1\. Touchscreen Calibration
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Battery Issue
 
@@ -82,6 +86,14 @@ A common reason for ****Motorola Edge 40 Nord being stuck on the loading screen*
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5. Reset to Factory Settings
 
 Sometimes, clearing the cache partition doesn't help resolve the touchscreen issue. In that case, You have to factory reset your Motorola Edge 40 device. It is the best and last solution if other fixes haven't worked and you can't pinpoint the reason. Factory resetting your Motorola Edge 40 will delete all phone data. Thus, you should create a proper backup before trying this fix. Follow these steps to factory reset your Motorola Edge 40 in no time:
@@ -92,9 +104,6 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
 
 ### Solution 6. Replace the Old Screen with A New Screen
@@ -144,9 +153,6 @@ OS bugs and general glitches within the OS and the camera app can cause camera n
 
 In the rarest cases, there might have developed an actual hardware issue with the camera system on your Motorola Edge 40. The likely culprit is misuse and abuse, such as a dropped phone or maybe the phone was too hot for extended periods of time, causing hardware issues.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part II: How To Fix Android Camera Not Working Issue?
 
 So, how to get the Android camera not working problem solved? There are a few ways you can try fixing the camera not working issue on your Motorola Edge 40 right where you are, without needing to take the Motorola Edge 40 device to the manufacturer’s service center.
@@ -181,7 +187,15 @@ Step 2: Tap Camera.
 
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.IV: Clear The Camera App Cache
 
@@ -201,9 +215,6 @@ The camera app is closely tied to the photo gallery app that comes baked in into
 
 Step 1: Go to Settings > Apps > Photos > Storage Usage.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear photo gallery app cache](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-8.jpg)
 
 Step 2: Tap Clear Cache.
@@ -218,18 +229,6 @@ Step 1: Go to Play Store and tap your profile picture on the right.
 
 Step 2: Tap Manage Apps and Device.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check for app updates play store](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-10.jpg)
 
 Step 3: If there are updates available, Tap Update All to update all apps.
@@ -255,6 +254,10 @@ Today, we will use Dr.Fone’s System Repair (Android) module to fix Android cam
 Download Dr.Fone here.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
 
@@ -284,6 +287,10 @@ Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000)
 
 ![confirm android firmware repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -293,8 +300,6 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
-
-
 
 ## 7 Solutions to Fix Chrome Crashes or Won’t Open on Motorola Edge 40
 
@@ -306,9 +311,6 @@ Being one of the widely used browsers, Chrome is always our rescue whenever vita
 
 One of the main reasons why Chrome keeps crashing could be the multiple opened tabs. If you keep open the tabs, it may slow down the performance of Chrome and the app will use RAM. As a result, it will obviously get stopped midway. Therefore, we suggest you to close the tabs which are opened. And once you do that, exit the app and then launch it again.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Too much memory used
 
 When Chrome or any other app keeps running on the background, issues like “Unfortunately Chrome has stopped” are likely to occur. Moreover, the opened apps will eat the memory of your device. Hence, as the next solution, it is suggested that the Chrome should be closed by force quitting and then you need to try to launch it again to work. See if it works or still Chrome is not responding.
@@ -340,8 +342,6 @@ Most probably Chrome is not able to support the website you are trying to access
 ## Part 5: Android firmware corruption
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -385,6 +385,14 @@ Once the firmware is downloaded, you will notice that the repairing process will
 
 ![Chrome crashing fixed on Android](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: File Downloading issue from Chrome
 
 While you were trying to download from internet, the file didn’t download properly or it might get stuck and eventually crashing Chrome occurs. In such instances, many times, uninstalling and installing helps. Therefore, follow the steps below to uninstall and install Chrome and fix Chrome keeps stopping
@@ -393,6 +401,10 @@ While you were trying to download from internet, the file didn’t download prop
 - Select “Chrome” and tap on “Uninstall Updates”.
 
 ![fix Chrome crashing on Android by uninstalling updates](https://images.wondershare.com/drfone/article/2019/05/uninstall-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Now, you need to re-install it from Play Store. From the “My Apps” section, tap on Chrome and update it.
 
@@ -404,7 +416,6 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 - Now, choose “Software Update”/”System Update” and your device will detect if there is any update present on your device. Proceed accordingly.
 
 ![fix Chrome crashing by updating android](https://images.wondershare.com/drfone/article/2019/05/update-android.jpg)
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -418,9 +429,26 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-comprehensive-list-8-top-android-mp3-downloads-for-2024/"><u>[New] Comprehensive List 8 Top Android MP3 Downloads for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-insiders-tips-where-to-buy-a-profitable-youtubes/"><u>[New] The Insider's Tips Where to Buy a Profitable Youtubes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-best-4k-monitors-color-grading/"><u>5 Best 4K Monitors Color Grading</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-must-know-tips-for-choosing-the-right-used-ipad-model/"><u>5 Must-Know Tips for Choosing the Right Used iPad Model</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/comprehensive-analysis-free2x-cam-recording-apps/"><u>Comprehensive Analysis Free2X Cam Recording Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-ways-to-decrease-ai-hallucinatory-errors-top-six-methods/"><u>Effective Ways to Decrease AI Hallucinatory Errors: Top Six Methods</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-y17s-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Y17s Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-oppo-a79-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Oppo A79 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-sony-xperia-5-v-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Sony Xperia 5 V in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-xiaomi-redmi-note-13-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi Redmi Note 13 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-a2plus-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi A2+ Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-essential-walkthrough-for-performing-a-full-reset-on-apple-mobile-devices/"><u>The Essential Walkthrough for Performing a Full Reset on Apple Mobile Devices</u></a></li>
+</ul></div>
 

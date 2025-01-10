@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Lava Storm 5G ? Fix It Easily | Dr.fone
-date: 2024-12-28T18:52:41.667Z
-updated: 2025-01-03T23:17:04.524Z
+date: 2025-01-03T17:09:26.237Z
+updated: 2025-01-10T17:23:29.953Z
 tags: 
   - problems
 categories:
@@ -32,12 +32,16 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
@@ -47,10 +51,6 @@ Step 3: Press the Volume up and Volume down keys and use the Power key to select
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
@@ -125,6 +125,10 @@ Step 5: Next, you need to press the Volume down button to highlight "Delete All 
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. Backup and Restore Android System
 
 Losing data on your Lava Storm 5G is a common occurrence, and since Android devices don't really have an automatic full backup solution, it is important to know how to backup and restore your device system. Here's how to easily do that.
@@ -171,10 +175,6 @@ Simply put, clock speed is basically the speed at which the CPU cores can carry 
 
 In a simple language, Random Access Memory (RAM) temporarily stores the data from apps that are currently running. Smartphones can be more flexible with multi-tasking if their RAM has enough space. So if you’re among these users who perform multiple tasks simultaneously, you better choose a device with more RAM.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Internal Storage
 
 The mobile applications installed on your smartphones are directly related to internal storage. The apps save their data every time, so they behave strangely when the Lava Storm 5G device runs out of storage. If you’re using heavy mobile applications, it’s best to opt for smartphones with huge internal storage.
@@ -207,13 +207,13 @@ Operating systems and device software serve as the main component of all smartph
 
 Of course, a slow internet connection can make the Android phone runs slow too. Most apps today rely heavily on the internet to execute some tasks like communicating and streaming. So don’t panic when your Lava Storm 5G is running slow and freezing. It’s possible that your internet connection is messing up with you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do When My Lava Storm 5G Lags?
 
 It’s not as bad as the black screen of death when the Android phone runs slow. However, it can still cause some delays and inconvenience for users. So it’s really important to take action when you notice some anomalies with its speed and performance. Below are some remedies that can help you get rid of this issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 1: Reboot Your Phone
 
@@ -223,7 +223,15 @@ Sometimes, minor bugs can give your device a hard time. It can be the reason why
 
 ![android phone restarts](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Several options will manifest on the screen. From there, click **Restart.** Wait until your device completely shuts off and restarts again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Uninstall the Unused Apps to Free Up Some Storage
 
@@ -272,10 +280,6 @@ It’s always recommended to update your phone to the latest Android version. As
 - **Step 5:** Click **Install Now.** Depending on your device, it will restart itself after the installation process.
 
 ![update android version](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-5.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 5: Reset Your Lava Storm 5G to Factory Settings
 
@@ -354,10 +358,6 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 Android phone is capable of performing lots of stuff. It can assist you in both your personal and professional tasks. But if it’s sluggish and doesn’t execute optimally, the good things it promises all go down the drain. So if you notice that your Lava Storm 5G is running slow and freezing, act fast to resolve the issue. [<u>Wondershare Dr.Fone</u>](https://drfone.wondershare.com/guide/android-repair.html) can be of great help in this kind of situation. It’s an all-in-one mobile solution that can assist you with system repair, phone backup, data recovery, and a lot more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lava Storm 5G Camera Not Working Unexpected Error? Fix It Now
 
 For all its glory and goodness, the Android OS often has its users pulling their hair in frustration at just how buggy the OS can be at times. So, if you’re having one of those days today, we are here to help. Camera app is one of the most used apps on smartphones today. People only launch the app when they want to take a photo, for everything else there’s a dedicated photo gallery app. What happens when you launch the camera app only to realize it threw an error and you missed your photo moment? Don’t throw the phone, not yet. Let us help you out.
@@ -404,10 +404,6 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 
 ![closing apps in app switcher](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
 
 ### II.III: Check App Permissions
@@ -422,6 +418,10 @@ Step 2: Tap Camera.
 
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
 
 ### II.IV: Clear The Camera App Cache
@@ -435,6 +435,10 @@ Step 1: Go to Settings > Apps > Camera and tap Storage Usage.
 Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.V: Clear The Photo Gallery App Cache
 
@@ -490,21 +494,17 @@ Step 2: Click System Repair module and then Android.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: For now, don’t bother with the scenarios given and click Start to go to the next screen.
 
 ![drfone system repair android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Your Android device will be detected by Dr.Fone. If anything seems incorrect, use the dropdown options to change it, and click Next.
 
 ![android system repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: Your phone needs to be put into Download mode before it can be repaired. Follow the instructions shown onscreen and click Next.
 
@@ -518,15 +518,15 @@ Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000)
 
 ![confirm android firmware repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -546,17 +546,22 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-unleash-youtube-potential-with-smart-tags-and-titles/"><u>[New] Unleash YouTube Potential with Smart Tags and Titles</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-hit-the-airwaves-with-instagram-lives-for-2024/"><u>[Updated] How to Hit the Airwaves with Instagram Lives for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-optimizing-facebook-search-efficiency-101/"><u>[Updated] Optimizing Facebook Search Efficiency 101</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/become-a-snapchat-pro-securing-and-sharing-screen-videos/"><u>Become a Snapchat Pro Securing & Sharing Screen Videos</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y36i-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y36i?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-insert-audio-files-into-powerpoint-sequences/"><u>In 2024, Insert Audio Files Into PowerPoint Sequences</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/is-there-a-greater-chance-for-cpu-breakdowns-when-overclocked-exploring-the-facts-with-yl-software/"><u>Is There a Greater Chance for CPU Breakdowns When Overclocked? Exploring the Facts with YL Software</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-immaculatecapture-the-best-w10-recorder/"><u>[New] 2024 Approved ImmaculateCapture The Best W10 Recorder</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-leading-resource-hubs-for-youtube-intro-files/"><u>[Updated] In 2024, Leading Resource Hubs for YouTube Intro Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-quick-start-guide-to-editing-with-snapseed/"><u>[Updated] In 2024, Quick Start Guide to Editing with Snapseed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-superior-animation-suites-top-3d-modelers/"><u>2024 Approved Superior Animation Suites Top 3D Modelers</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/comparing-vmware-vcenter-and-vsphere-features-licensing-options-and-pricing/"><u>Comparing VMware vCenter & vSphere: Features, Licensing Options, and Pricing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-flv-files-to-m4v-for-free-with-movavis-easy-online-tool/"><u>Convert FLV Files to M4V for Free with Movavi's Easy Online Tool!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723000680886-expert-tips-on-overcoming-black-screen-problems-now-solved/"><u>Expert Tips on Overcoming Black Screen Problems, Now Solved</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-s18-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo S18 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-zelfsbeheersing-van-artificiele-intelligentiebestanddelen-met-gratis-diensten-movavi/"><u>Online Zelfsbeheersing Van Artificiële Intelligentiebestanddelen Met Gratis Diensten - Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-x6-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X6 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/overcoming-the-sea-of-thieves-crash-problem-effortlessly/"><u>Overcoming the Sea of Thieves Crash Problem Effortlessly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-13c-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi 13C 5G Running Slow and Freezing | Dr.fone</u></a></li>
 </ul></div>
 

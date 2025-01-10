@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Samsung Galaxy M54 5G | Dr.fone
-date: 2024-07-14T06:13:51.383Z
-updated: 2024-07-15T06:13:51.383Z
+date: 2025-01-06T18:06:59.480Z
+updated: 2025-01-10T18:48:24.398Z
 tags: 
   - problems
 categories:
@@ -36,8 +36,6 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Bluetooth issues in one click
@@ -56,6 +54,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - use a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Two** Connect your Samsung Galaxy M54 5G to your computer using the USB cable, wait a couple of seconds, and then click the System Repair option. On the Menu on the left, click Android Repair, and then press Start.
 
 ![bluetooth not working on android - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -73,6 +75,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Samsung Galaxy M54 5G and start using it and your Bluetooth features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Restart Android and turn on Bluetooth again
 
@@ -117,6 +123,10 @@ Here’s how;
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you’re having problems with your connection and paired devices, sometimes you may have conflicting software faults in your device that are causing the problems. If this is the case, you’ll need to boot your Samsung Galaxy M54 5G in Safe Mode.
 
 This is an operating state in which your phone will run the bare minimum services it needs to perform. If your Bluetooth works in Safe Mode, you know you have an app or a service that’s causing the problem.
@@ -155,11 +165,12 @@ By testing out another Bluetooth device to see if it will work with your preferr
 3. If the new device doesn’t connect to your Bluetooth device, you’ll know there’s a problem with your Bluetooth device, not your Samsung Galaxy M54 5G
 4. If the Samsung Galaxy M54 5G devices connect, you’ll know there’s a problem with your Samsung Galaxy M54 5G
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.8 Place both devices within close proximity
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - close proximity](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
 
 One of the common misconceptions of Bluetooth is just how far the wireless range is of the service. You need to make sure your devices are well and truly close to each other to make sure a stable connection can be formed.
@@ -180,6 +191,10 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 
 “Unfortunately TouchWiz home has stopped” is the talk of the town due to annoying TouchWiz UI, a front-end user interface developed by Samsung Galaxy M54 5G. Not to mention, the Samsung Galaxy M54 5G has borne a whole lot of heat from its agitated users over the years and the reason is pretty much obvious due to the pre-installed bloatware apps and the theme launch “TouchWiz home”. That not just brutally annoys users and eats up a heck of internal storage space but lags up too often due to low speed and stability. As a result users end up with “Unfortunately TouchWiz home has stopped” and “Unfortunately, TouchWiz has stopped”. Apparently, there are several flaws in the design and functioning of this launcher and hence, Touchwiz keeps stopping or becomes unresponsive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Common scenarios when TouchWiz keeps stopping
 
 Here in this section, we will introduce some scenarios that can be blamed for why **_TouchWiz is not working_**. Check out the following points:
@@ -190,14 +205,9 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -220,6 +230,10 @@ The one-click repairing process begins with downloading Dr.Fone from its officia
 After you open the software, hit on the “System Repair” button from the main interface. With the help of a genuine USB cable, get your Samsung Galaxy M54 5G phone and connect it with the computer.
 
 ![fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Choose the Tab**
 
@@ -247,6 +261,10 @@ You will get some instructions on your screen to keep your device in Download mo
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7: Repair Device**
 
 Now, when the firmware is downloaded, the program will itself begin to repair your device. Wait and keep the Samsung Galaxy M54 5G device connected until you get the notification for process completion.
@@ -268,6 +286,10 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 ![clear cache to fix touchwiz home stopping](https://images.wondershare.com/drfone/article/2019/02/clear-cache-touchwiz.jpg)
 
 Please note that this will delete all your Home screens post this method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Disable Motion & gesture settings
 
@@ -301,9 +323,6 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Boot your phone to safe mode
 
 Here is the next solution to be followed when TouchWiz keeps stopping. As we already said, third-party apps can cause this issue, booting your device in the Safe mode will disable those apps temporarily. Hence you need to boot your Samsung Galaxy M54 5G device to Safe mode and check if the reason is any third-party app.
@@ -334,13 +353,15 @@ Along with this, we would also suggest you go take backup of your data so that y
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
 
-
-
 ## Stuck at Android System Recovery Of Samsung Galaxy M54 5G ? Fix It Easily
 
 In this article, you will learn what is Android system recovery, and how to fix Android stuck at system recovery step by step. To get out of Android system recovery more easily, you need this Android repair tool.
 
 You know your Samsung Galaxy M54 5G is stuck in recovery mode when you cannot turn on the Samsung Galaxy M54 5G device. If you try to turn it on, it shows a message that says, "Android System Recover." This situation can be quite debilitating for most Android users. Most of the time, you don't know whether you have lost all of your important Android data. It is even more worrying because of the fact that you cannot turn on your device at all, especially when you don't know how to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. What is Android System Recovery?
 
@@ -358,9 +379,6 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
 
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
@@ -375,14 +393,9 @@ Step 5: Finally, press and hold both the Power and the Volume up Key for around 
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -418,6 +431,10 @@ Insert your device information, including the brand, carrier details, model and 
 Your device should already be in this mode but follow the instructions to make sure. There are methods available for devices, both with and without home buttons.
 
 ![fix Android stuck at System recovery in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #4** The firmware will now start downloading. You'll be able to track this process in the window.
 
@@ -471,7 +488,6 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -484,9 +500,23 @@ Android system recovery mode can be quite useful, especially when your system is
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-eradicating-grayscale-issues-with-youtube-video/"><u>[New] In 2024, Eradicating Grayscale Issues with YouTube Video</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/martphone-simplicity-meets-online-impact-making-videos-easy-for-2024/"><u>[New] Smartphone Simplicity Meets Online Impact Making Videos Easy for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-streaming-and-screenshotting-like-a-pro-essential-mac-techniques/"><u>[Updated] 2024 Approved Streaming and Screenshotting Like a Pro Essential Mac Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-top-youtube-trends-a-curated-selection/"><u>[Updated] 2024 Approved Top YouTube Trends A Curated Selection</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-universal-approach-to-smartphone-mac-and-pc-video-filming-for-2024/"><u>[Updated] Universal Approach to Smartphone, Mac, and PC Video Filming for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-video-make-for-facebook-how-to-make-facebook-video/"><u>[Updated] Video Make for Facebook How to Make Facebook Video</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-big-mouse-pads-for-comfortable-computing-ranked/"><u>Best Big Mouse Pads for Comfortable Computing, Ranked</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-6-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 6 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a1x-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A1x 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-magic-5-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor Magic 5 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-t2-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo T2 Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-role-of-storytelling-in-enhancing-user-engagement-on-fb/"><u>The Role of Storytelling in Enhancing User Engagement on FB</u></a></li>
+</ul></div>
 

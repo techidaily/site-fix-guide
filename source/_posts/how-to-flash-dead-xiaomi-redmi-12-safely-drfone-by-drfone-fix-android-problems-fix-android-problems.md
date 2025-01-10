@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Xiaomi Redmi 12 Safely | Dr.fone
-date: 2024-07-14T06:10:17.421Z
-updated: 2024-07-15T06:10:17.421Z
+date: 2025-01-09T16:33:11.230Z
+updated: 2025-01-10T17:42:25.856Z
 tags: 
   - problems
 categories:
@@ -38,8 +38,6 @@ From battery issues to physical damage to the Xiaomi Redmi 12 device, there can 
 ## Part 2: How to flash Xiaomi Redmi 12 in one click
 
 While you are worried about how to flash Xiaomi Redmi 12 instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Xiaomi Redmi 12 logo.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -85,16 +83,21 @@ Step 1: It is essential to boot your Xiaomi Redmi 12 in Download mode before rep
 
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Press the ‘Next’ button for initiating firmware download.
 
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -118,6 +121,10 @@ Step 3: In this step, download the latest version of Odin on your PC and move it
 
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
@@ -135,6 +142,10 @@ Step 6: Now, you may use a USB to connect your Xiaomi Redmi 12 to the PC. Odin w
 Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA” or “AP” on the Odin window and then click “Start”.
 
 ![open md5 file](https://images.wondershare.com/drfone/article/2017/07/14991898009725.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Finally, once the flashing process is complete, your Xiaomi Redmi 12 phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
 
@@ -162,9 +173,6 @@ After completing the above steps, connect your dead device to the PC with a USB 
 
 That's it! Now simply disconnect your phone and wait for it to reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to flash Xiaomi Redmi 12 dead phone with the Phoenix tool?
 
 Phoenix tool, better known as PhoenixSuit, is a tool similar to the SP False tool and Odin. It works very well with Xiaomi Redmi 12  and is the best answer to “How to fix dead Android phone?”, “How to flash dead Android phone using PC?”, etc.
@@ -182,6 +190,10 @@ Now, on the toolbar, click “Tools” and select “Data Package Download” fr
 Then move to download the firmware for your dead Xiaomi Redmi 12  and save it in a new Folder. Once done, go back to the Phoenix tool window and click on “File” and select “Open Product”.
 
 ![open product](https://images.wondershare.com/drfone/article/2017/07/14991899991748.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Simply, feed in the details and then click “OK”.
 
@@ -217,6 +229,10 @@ If the Android vibrates on restarting and the screen does not lighten up, the pr
 
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8: How to fix a dead Android phone by changing the battery
 
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your Xiaomi Redmi 12, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
@@ -241,9 +257,6 @@ Pandora, an app bringing music to our fingertips, is a beloved platform for stre
 
 In this article, you’ll explore practical solutions to the problem of “**why does Pandora keep stopping**.” Following the steps and tips, you can regain smooth and uninterrupted access to your favorite tunes. Have a hassle-free and enjoyable music streaming experience with Pandora on your Xiaomi Redmi 12.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dead android with pandora logo](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-01.jpg)
 
 ## Part 1: Basic Troubleshooting and Fixes
@@ -295,9 +308,6 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 4:** Check if the Xiaomi Redmi 12 device details presented onscreen are correct. You may edit them accordingly for any mistakes.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone device details confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 5:** Follow the onscreen instructions to place your phone into Download mode. Then, Dr.Fone will download the firmware.
@@ -343,8 +353,6 @@ When persistent issues arise, especially if other apps are affected similarly, W
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,362,023** people have downloaded it
-
-
 
 ## How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi 12
 
@@ -406,6 +414,10 @@ When your touch screen stops working, the first thing you should do is restart y
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn On Safe Mode
 
 You should switch to Safe mode whenever an application or piece of software causes a problem on your device. Only the most fundamental system components are loaded and used when operating in Safe mode.
@@ -419,6 +431,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 ****Step 3:**** When you let go of the “Power” button, press and hold the “Volume Down” button. After that, a “Safe Mode” label will appear in your screen’s lower-left corner.
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn Off Developer Options
 
@@ -472,9 +488,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 2:**** Connect your Xiaomi Redmi 12 or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
@@ -509,6 +522,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -517,6 +534,10 @@ Check Dr.Fone’s supported operating systems below before using the application
 | --- | --- |
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -550,7 +571,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Xiaomi Redmi 12 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -563,9 +583,22 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects/"><u>[New] Earning Strategies for Successful Youtube Shorts Must-Haves, Earnings Prospects</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premier-visual-experience-top-10-screen-selections-for-mac/"><u>[New] Premier Visual Experience Top 10 Screen Selections for Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-cultivating-a-thriving-business-model-with-snapchat-insights/"><u>[Updated] Cultivating a Thriving Business Model with Snapchat Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-note-50-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme Note 50 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-s23-ultra-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy S23 Ultra Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-note-12r-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi Note 12R Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-gt-10-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix GT 10 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-apps-for-editing-dji-drone-film-content-for-2024/"><u>Leading Apps for Editing DJi Drone Film Content for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-huawei-nova-y91-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Huawei Nova Y91 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-nokia-c22-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Nokia C22? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/real-time-tv-broadcast-preservation-the-easy-guide/"><u>Real-Time TV Broadcast Preservation - The Easy Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-x9b-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor X9b Location | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-5-strategies-for-organizing-your-amazon-kindle-libraries/"><u>Top 5 Strategies for Organizing Your Amazon Kindle Libraries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webinar-insights-mastering-the-art-of-customer-delight-through-effective-business-processes/"><u>Webinar Insights: Mastering the Art of Customer Delight Through Effective Business Processes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on OnePlus 12 | Dr.fone
-date: 2024-07-14T06:12:28.824Z
-updated: 2024-07-15T06:12:28.824Z
+date: 2025-01-09T17:51:06.297Z
+updated: 2025-01-10T17:20:32.739Z
 tags: 
   - problems
 categories:
@@ -30,16 +30,11 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
 
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your OnePlus 12. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -63,6 +58,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
 
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -79,9 +78,6 @@ When the repair process has been completed, you’ll receive the screen below, w
 
 ### 2.2 Restart Android and turn on Bluetooth again
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
 
 One of the most common solutions in technology is simply to turn it on and off again, which is the case to happen here. By restarting your device, you can clear out any problems you may be suffering from to help it get up and running again. Here’s how;
@@ -106,12 +102,13 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 4. Go back of the Menu and restart your phone
 5. Now turn your Bluetooth feature on and turn connecting it to your preferred device
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.4 Remove paired devices
 
 ![android bluetooth problems - remove paired devices](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-paried.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sometimes, you may have a problem with the OnePlus 12 device you’re trying to connect to via Bluetooth, especially if this is a device you’ve updated. To counter and repair this, you’re going to need to remove the paired devices saved with your device and then reconnect them.
 
@@ -182,6 +179,10 @@ With this in mind, you’ll want to make sure you’re limiting the amount of Bl
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your OnePlus 12 to the OnePlus 12 device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Full Solutions to Fix Error Code 920 In Google Play on OnePlus 12
 
 If you are using an Android device, you might have encountered the error code 920 in Google Play Store. This error usually occurs when you are trying to download or update an app from the Google Play Store. The error code 920 can be quite frustrating, as it prevents you from downloading or updating your favorite apps. However, there are several ways to fix this error and get your apps back up and running. In this article, we will show you some of the best solutions to fix error code 920 in Google Play Store on OnePlus 12.
@@ -194,8 +195,9 @@ Trust me, once you face an error it’s frustrating until you find a solution to
 - (iv) Removing and adding back your Google account
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: What is Error Code 920?
 
 Sometimes people think that they have endangered the fate of humanity because of the error that is being displayed (Just Kidding). Don’t worry you haven’t crashed any server or did any damage to your device but you just gave your device a lot of work. Before you got this error you were downloading a lot of apps right. Well, that’s the exact reason why you came up with this error in the first place. There are various reasons behind this error code 920, however, the prominent ones are –
@@ -215,6 +217,10 @@ There are a lot of Android users out there and the error 920 on play store doesn
 If you’re writing a lot of data to your device in one go, this can sometimes overload your phone which can cause data corruption. This could have happened if you try the method above and then still encounter the play store error 920.
 
 If this is the case, there’s a solution known as [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) that can help. This is an industry-leading package that has everything you need to get your device running as it should be.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -240,10 +246,11 @@ Easiest Fix to Error Code 920
 
 Then connect your OnePlus 12 using the official cable and select the ‘Android Repair’ option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #3** On the next screen, insert your device information to ensure you’re downloading the correct firmware.
 
@@ -311,7 +318,9 @@ Again it is best if you follow the methods as illustrated above for removing err
 
 Play Store error 920 is a pretty common error and its solutions are also very easy. Please do ensure that you follow each and every step in sync so that you can get the best result out of these methods and get over with the error code 920 on Google play store.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quick Fixes for Why Is My OnePlus 12 Black and White
 
@@ -364,6 +373,10 @@ Battery-saving modes can also alter display settings to conserve energy. It can 
 
 - **Step 2:** Check and adjust battery-saving settings, including toggling power-saving modes on or off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Hardware Issues
 
 In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html) may cause a black-and-white display. Physical damage, loose connectors, or problems with the display hardware can impact color reproduction. Identifying and addressing these hardware issues may be crucial for resolving the problem. Here's what you should do.
@@ -375,6 +388,10 @@ In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnosti
 - **Step 2:** Seek professional assistance or contact the OnePlus 12 device manufacturer if hardware problems are suspected.
 
 Consider a reliable third-party tool if your phone persists in black and white despite troubleshooting attempts. Tools such as [Dr.Fone System Repair Android](https://drfone.wondershare.net/android-repair.html) offer advanced solutions for complex system issues. They ensure your phone regains its vibrant display without a hitch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Using a Dedicated Tool: Dr.Fone for Fixing Black and White Display Problems
 
@@ -454,6 +471,10 @@ Maintaining a vibrant phone display enhances user experience and ensures optimal
 
 ![maintaining your device health vector](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Adjust Brightness Mindfully**
 
 Optimize brightness settings based on ambient lighting. Avoid excessively high brightness levels, which can strain your eyes and impact battery life.
@@ -500,7 +521,6 @@ The guide highlights the "**Why is My OnePlus 12 black and white**" query. It of
 
 The guide provided solutions for display issues and showcased the versatility of Dr.Fone System Repair Android. It's a holistic solution for users seeking a seamless and reliable Android experience, addressing diverse concerns with precision and efficiency.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -513,9 +533,23 @@ The guide provided solutions for display issues and showcased the versatility of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-samsungs-virtual-world-enhanced-by-compatible-smartphones-2023-guide/"><u>[New] Samsung's Virtual World Enhanced by Compatible Smartphones - 2023 Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-to-embrace-or-not-the-itop-screen-recorder-dilemran/"><u>[Updated] 2024 Approved To Embrace or Not The ITop Screen Recorder Dilemran</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-weaving-yt-music-threads-through-video-tapestry-for-2024/"><u>[Updated] Weaving YT Music Threads Through Video Tapestry for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 6 to Android | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-nokia-g310-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Nokia G310? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-a23-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy A23 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-smart-8-plus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Smart 8 Plus Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fixes-to-address-dota-2s-valve-anti-cheat-error-of-2022/"><u>The Ultimate Fixes to Address Dota 2'S Valve Anti-Cheat Error of 2022</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-htcs-approach-to-the-metaverse-without-spending-a-penny-zdnet/"><u>Unveiling HTC's Approach to the Metaverse Without Spending a Penny | ZDNet</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/1725284366918-winxdvd-dvd/"><u>WinXDVD直銷官網站| DVD解鎖、影片修改器、智能手機傳送功能</u></a></li>
+</ul></div>
 

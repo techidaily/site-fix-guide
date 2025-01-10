@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Google Pixel 8 | Dr.fone
-date: 2024-07-14T06:10:41.395Z
-updated: 2024-07-15T06:10:41.395Z
+date: 2025-01-07T18:54:25.262Z
+updated: 2025-01-10T17:33:14.665Z
 tags: 
   - problems
 categories:
@@ -20,9 +20,6 @@ Fortunately, despite there being many reasons why a problem could occur to your 
 
 Let’s get straight into it!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. About Bluetooth Not Working on Android
 
 Of course, the most common problem to occur with Bluetooth technology in your Google Pixel 8 is when it doesn’t connect to the Google Pixel 8 device you’re trying to link it to. This could be anything from a Bluetooth headset or headphones, to a portable speaker or even an in-car audio system.
@@ -39,7 +36,9 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -57,9 +56,6 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 **Step One** Make your way over to the Wondershare website and download the Dr.Fone - System Repair (Android) software to either your Mac or Windows computer. Install the downloaded file by following the on-screen instructions. Once installed, open the software, so you’re on the Main Menu.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - use a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step Two** Connect your Google Pixel 8 to your computer using the USB cable, wait a couple of seconds, and then click the System Repair option. On the Menu on the left, click Android Repair, and then press Start.
@@ -80,14 +76,8 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your Google Pixel 8 and start using it and your Bluetooth features.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.2 Restart Android and turn on Bluetooth again
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - restart android](https://images.wondershare.com/drfone/article/2019/04/restart-Bluetooth-Android.jpg)
 
 One of the most common solutions in technology is simply to turn it on and off again, which is the case to happen here. By restarting your device, you can clear out any problems you may be suffering from to help it get up and running again. Here’s how;
@@ -129,6 +119,10 @@ Here’s how;
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you’re having problems with your connection and paired devices, sometimes you may have conflicting software faults in your device that are causing the problems. If this is the case, you’ll need to boot your Google Pixel 8 in Safe Mode.
 
 This is an operating state in which your phone will run the bare minimum services it needs to perform. If your Bluetooth works in Safe Mode, you know you have an app or a service that’s causing the problem.
@@ -158,6 +152,10 @@ Here’s how to turn on your Bluetooth discoverable feature;
 
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sometimes, you might not even have a problem with your Google Pixel 8, but rather the Bluetooth device you’re trying to connect to, whether that’s a Bluetooth speaker, an in-car entertainment system, or any other kind of Bluetooth device.
 
 By testing out another Bluetooth device to see if it will work with your preferred device, you can rule this out from being the issue.
@@ -178,6 +176,10 @@ The further away the Google Pixel 8 devices are from each other, the less likely
 ### 2.9 Avoid interference of other Bluetooth sources
 
 ![android bluetooth problems - avoid interference](https://images.wondershare.com/drfone/article/2019/04/bluetooth-device-interference.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The final consideration you’ll want to think about is that Bluetooth radio waves, or wireless waves, can interfere with each other. This means they can bounce off each other or get muddled up and make things confusing from your devices.
 
@@ -240,6 +242,10 @@ This issue, however, may be resolved by wiping the data and cache partitions in 
 
 - **Step 3:** Finally, on your smartphone, choose the Reboot system immediately.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3. Perform a Factory Reset
 
 A factory reset can undo the alterations made to your device that resulted in the brick phone, but you will lose everything you have downloaded and installed in the process. Here's how to restore a bricked Android phone to factory settings:
@@ -248,9 +254,6 @@ A factory reset can undo the alterations made to your device that resulted in th
 - **Step 2:** Select “**Wipe Data/“Factory Reset”** then confirm the action. When the process is done, you'll be returned to the recovery mode menu.
 - **Step 3:** Select **“Reboot System Now”** to restart your device.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![reboot system now](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-3.jpg)
 
 ### Method 4. Flash a Custom ROM
@@ -304,6 +307,10 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Android.Process.Media Has Stopped on Google Pixel 8
 
 Like any other technological system, Android is not without its fair share of problems. One of the most common issues that Android users face is the android.process.media error. If you have encountered this problem lately, you don’t need to worry, this article will clearly explain what exactly causes this error and how to fix it safely.
@@ -323,8 +330,6 @@ There are several reasons why this error can occur repeatedly and it is worth no
 ## Part 2. Back up your Android Data First
 
 It is always a good idea to back up your data especially before embarking on any attempt to fix any problem with your device. This way you will always have your data with you just in case something goes wrong and you lose all your data. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) will help you easily back up your Google Pixel 8. The application will allow you to back up your device with a few clicks and you can restore what you want from your backup .
-
-
 
 ### Wondershare Dr.Fone
 
@@ -350,6 +355,10 @@ Step 2. Connect your device
 Then connect your Google Pixel 8 to the computer and make sure that it can be recognized by your computer. Then click on "My Backup" on Dr.Fone.
 
 ![Android. Process. Media - recognize phone](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3. Begin to backup
 
@@ -415,8 +424,6 @@ This Should clear the error message for good.
 
 ### Method 6: Fix the error by using a dedicated repair tool
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Fix Android process media has stopped issue in one click
@@ -442,9 +449,17 @@ In the Google Pixel 8 device information interface, remember to select the corre
 
 ![select device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To confirm the Android repair may erase all data on your device, you need to type in "000000" to proceed.
 
 ![fix android.process.media stopping by entering code](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2. Repair your Google Pixel 8 in Download mode.**
 
@@ -462,6 +477,10 @@ It may take a while, so you could have a cup of coffee to wait for the repair pr
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 7: Factory Reset your device
 
 If the above steps fail, you might need to perform a factory reset. A factory reset restores the Google Pixel 8 device to its initial state, which can eliminate many problems, but it will also erase all data. Ensure you back up your important data before proceeding.
@@ -473,9 +492,6 @@ If the problem persists after trying the above steps, it could be related to spe
 It is our hope that when faced with this fairly common error, you will not panic. This is a fairly mild issue that can easily be fixed as we have seen above.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -489,9 +505,16 @@ It is our hope that when faced with this fairly common error, you will not panic
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-workout-routine-with-8-ai-chatbot-extensions/"><u>Enhancing Your Workout Routine with 8 AI Chatbot Extensions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-sony-xperia-5-v-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Sony Xperia 5 V Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-video-production-with-captivate/"><u>Navigating Video Production with Captivate</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f54-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F54 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-imac-with-apple-silicon-an-in-depth-look-at-the-revolutionary-m1-processor/"><u>Unveiling the iMac with Apple Silicon: An In-Depth Look at the Revolutionary M1 Processor</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrade-your-smartphone-game-with-apples-latest-a-comprehensive-comparison-of-iphone-16-vs-iphone-15-features-zdnet-expert-review/"><u>Upgrade Your Smartphone Game with Apple's Latest - A Comprehensive Comparison of iPhone 16 Vs. IPhone 15 Features | ZDNet Expert Review</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Smart 8 Pro Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:33.289Z
-updated: 2024-07-15T06:16:33.289Z
+date: 2025-01-05T18:27:23.943Z
+updated: 2025-01-10T18:10:32.259Z
 tags: 
   - problems
 categories:
@@ -88,9 +88,6 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ****Step 1:**** Launch Settings on your Infinix Smart 8 Pro device and tap “System” to select “Reset Options.”
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![select reset options](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-6.jpg)
 
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
@@ -113,6 +110,10 @@ Protecting your Infinix Smart 8 Pro device against system issues like touch not 
 A new version of Dr.Fone is expected to release in the latter half of this month. The new version will include many improvements, advanced features, and increased device support. Furthermore, it will also have a better and more user-friendly interface.
 
 ![dr.fone phone toolbox](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -142,6 +143,10 @@ First and foremost, the thing that can let you get rid of this trouble is Safe M
 3. Release the button and immediately press and hold the "Volume Down" key.
 4. Leave the key once the Infinix Smart 8 Pro device is in Safe mode. Now, the third-party apps will be disabled and you can check if the Phone app is still not responding or everything is fine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2 Clear the cache of the Phone app
 
 The cache should be cleaned timely if you want any app to work properly. Due to the constant usage, the temporary files get collected and may corrupt if not cleared. Hence, the next solution you should try when the Phone app keeps stopping is to clear the cache. Here are the steps to be performed.
@@ -165,7 +170,15 @@ When the firmware is not updated, it may conflict with some apps and maybe that�
 
 ![Phone app crashing - update firmware](https://images.wondershare.com/drfone/article/2023/05/samsung-android-update-shot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Download and install it and then try to use the Phone app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.5 Clear partition cache
 
@@ -183,12 +196,7 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -264,7 +272,9 @@ While you are upset over ‘why My Infinix Smart 8 Pro won't charge?’, would y
 
 Well, we have got [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) at your fingertips to get rid of this annoying phone won't charge issues (caused by system corruption). Whether the Infinix Smart 8 Pro device froze or became unresponsive, bricked, or got stuck on the Infinix Smart 8 Pro logo/blue screen of death or apps started crashing. It can fix every Android system problem.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -300,10 +310,11 @@ Step 1: It’s essential that you put the Android device under ‘Download’ mo
 
 - With a ‘Home’ button device, switch off it before holding down the set of keys, including ‘Power’, ‘Volume Down’, and ‘Home’ key for 5-10 seconds. Let them go and hit the ‘Volume Up’ key for entering the ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Android phone won’t charge for a phone with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - If the ‘Home’ button is not there, you got to turn down the Infinix Smart 8 Pro device and altogether hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ keys between 5-10 seconds. Soon after you release the keys, tap the ‘Volume Up’ button for entering the ‘Download’ mode.
 
@@ -311,9 +322,6 @@ Step 1: It’s essential that you put the Android device under ‘Download’ mo
 
 Step 2: Click ‘Next’ to start downloading the Android firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download android firmware to fix](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Now, Dr.Fone - System Repair (Android) would verify the firmware and then start repairing the Android system on its own. It will ultimately fix your ‘why won't My Infinix Smart 8 Pro charge’ trouble.
@@ -334,9 +342,6 @@ It is also very commonly observed that the charging end of the cable which gets 
 
 The charging port in your device is a small opening where the charging end of the cabbie is inserted for the current to flow to the phone/tablet. Very often, we notice that the charging port gets blocked with tiny particles of dirt. The charging port might also get clogged if dirt and dust get accumulated in it, preventing the sensors from receiving and forwarding the current to the Infinix Smart 8 Pro device.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check charging port](https://images.wondershare.com/drfone/article/2017/06/14985459938188.jpg)
 
 The best way to take this problem is to clean the port with a blunt pin or a soft bristle unused toothbrush. Make sure you clean the port gently and do not damage it or its sensors.
@@ -393,6 +398,10 @@ If the App gives information in green color, it means all is wetland your device
 
 ![charging status](https://images.wondershare.com/drfone/article/2017/06/14985011165678.jpg) ![full charged](https://images.wondershare.com/drfone/article/2017/06/14985011377424.jpg) ![discharging](https://images.wondershare.com/drfone/article/2017/06/14985011663339.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Install software updates
 
 Installing your Android version updates is a good idea as the software is the interface that receives charge from the charging port sensors and gives a command for the phone/tablet to charge. People often continue to use older OS versions, which cause trouble and prevent the Infinix Smart 8 Pro device from charging.
@@ -400,6 +409,10 @@ Installing your Android version updates is a good idea as the software is the in
 To check for and install updates on your device, you must be connected to WiFi or a cellular network. Next, visit “Settings” and select “About device”. Now click on “Software Update”.
 
 ![android software update](https://images.wondershare.com/drfone/article/2017/06/14985460584295.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If there is an update available, you will be prompted to download it. Just follow the instructions given before you install a brand new Android OS version on your device.
 
@@ -412,6 +425,10 @@ Follow the steps given below to factory reset your device:
 • Visit “Settings” by clicking the settings icon as shown below.
 
 ![phone settings](https://images.wondershare.com/drfone/article/2017/06/14985012104018.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 • Now select “Backup and Reset” and move on.
 
@@ -431,10 +448,11 @@ This should be your last resort to fix My Infinix Smart 8 Pro won't charge probl
 
 ![replace phone battery](https://images.wondershare.com/drfone/article/2017/06/14985013005679.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, fixing the phone won't charge the problem is simple, and therefore there is no need for you to worry as you are not the only one experiencing such an issue. Other Android users have tried, tested, and recommended the methods given above to solve why won't My Infinix Smart 8 Pro charge or Infinix Smart 8 Pro tablet won't charge error. So go ahead and try them out now.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -448,9 +466,21 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-decoding-subtitles-from-srt-to-xml-ssa-and-more-for-2024/"><u>[New] Decoding Subtitles From SRT to XML, SSA & More for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-halo-infinite-not-launching-due-to-directx12-error/"><u>[SOLVED] Halo Infinite Not Launching Due to DirectX12 Error</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-blueprint-composing-a-hit-mukbang-video/"><u>[Updated] 2024 Approved The Blueprint Composing a Hit Mukbang Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-the-best-free-youtube-video-editor-apps-for-android/"><u>[Updated] Explore the Best Free YouTube Video Editor Apps for Android</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oneplus-nord-n30-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked OnePlus Nord N30 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-camon-20-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Tecno Camon 20 Pro 5G?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-12-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi 12 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/tackling-live-broadcasts-the-intersection-of-obs-and-zoom-for-2024/"><u>Tackling Live Broadcasts The Intersection of OBS and Zoom for 2024</u></a></li>
+</ul></div>
 

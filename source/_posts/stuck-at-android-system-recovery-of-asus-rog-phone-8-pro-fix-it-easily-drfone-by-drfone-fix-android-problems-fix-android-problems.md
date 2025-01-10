@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Asus ROG Phone 8 Pro ? Fix It Easily | Dr.fone
-date: 2024-12-29T18:08:30.813Z
-updated: 2025-01-03T23:28:35.917Z
+date: 2025-01-06T17:28:55.391Z
+updated: 2025-01-10T17:02:50.790Z
 tags: 
   - problems
 categories:
@@ -41,7 +41,7 @@ Step 3: Press the Volume up and Volume down keys and use the Power key to select
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
@@ -76,10 +76,6 @@ One-stop solution to fix Android stuck at System recovery
 Once installed on your computer, open onto the main menu and connect your Asus ROG Phone 8 Pro using the official USB cable. Select the System Repair option.
 
 ![fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step #2** Select the 'Android Repair' option from the next screen.
 
@@ -125,6 +121,10 @@ Step 5: Next, you need to press the Volume down button to highlight "Delete All 
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. Backup and Restore Android System
 
 Losing data on your Asus ROG Phone 8 Pro is a common occurrence, and since Android devices don't really have an automatic full backup solution, it is important to know how to backup and restore your device system. Here's how to easily do that.
@@ -166,10 +166,6 @@ Soft brick is like a temporary setback for your device. To see if your **Asus RO
 - It happens when the software encounters issues, but the hardware is usually fine.
 - Your device might not start properly, [<u>freeze</u>](https://drfone.wondershare.com/iphone-problems/fix-iphone-freezing-after-updating-to-ios-17.html), or [<u>get stuck on the logo screen</u>](https://drfone.wondershare.com/iphone-recovery/iphone-stuck-at-the-apple-logo.html).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Hard Brick
 
 Now, this is a more severe situation. In this case, your **bricked Asus ROG Phone 8 Pro** might fall under the following conditions:
@@ -206,6 +202,10 @@ Now that you've grasped the concept, let's dive into how to **unbrick a Asus ROG
 Dr.Fone - System Repair (Android) is like a magic wand for your Asus ROG Phone 8 Pro device. It's designed to rescue your device from troubles and make it run smoothly again. Dr.Fone - System Repair (Android) is built to  fix various issues, including a bricked device. It can resolve problems like [<u>black screens</u>](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html), frozen devices, boot loops, and even devices stuck in recovery mode.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -265,15 +265,15 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Asus ROG P
 
 ![drfone android device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Put your Asus ROG Phone 8 Pro into **Download Mode** when prompted.
 
 - If your phone has a home button, follow the on-screen prompts to power it down. Keep pressing and holding the Volume Down, Home, and Power Then, press the Volume Upbutton to activate the **Download Mode**.
 
 ![drfone phone with home button android](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - If your Android doesn't have a Home button, you may still use it byturning it off and pressing the Volume Down, Bixby, and Power buttons simultaneously. Repeatedly pressing the Volume Up button will activate Download Mode.
 
@@ -282,10 +282,6 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Asus ROG P
 - **Step 5:** The firmware download starts on the platform immediately after the Asus ROG Phone 8 Pro device enters **Download Mode**. You can click **Stop** to abort it at any stage during the process. The platform then verifies and presents the information as it downloads. By selecting **Fix Now**, you can install the firmware.
 
 ![drfone fix now android](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 6:** The Android repair procedure may delete all of your data. To proceed, please type "000000" in the box provided. The system repair process will begin, and its status can be viewed in the next screen's progress bar.
 
@@ -331,7 +327,7 @@ True to its name, System Repair for Android is designed to repair and rejuvenate
 ![google play system repair for android app](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Key Features
@@ -353,6 +349,10 @@ As for its advantages, see the list below:
 Check below to learn about this app's drawback:
 
 - Advanced issues might require professional intervention.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### <u>Phone Doctor Plus</u>
 
@@ -385,10 +385,6 @@ Check out this app's disadvantages below:
 Now that you know how to fix a **bricked Asus ROG Phone 8 Pro** smartphone, let's focus on preventing it in the first place. Here are some simple steps you can take to keep your Asus ROG Phone 8 Pro device safe and sound:
 
 ![tips on preventing future bricking incidents](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Regularly Check for Updates**
 
@@ -426,10 +422,6 @@ By following these easy tips, you can keep your Asus ROG Phone 8 Pro device runn
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Encountering a **bricked Asus ROG Phone 8 Pro** device can be a frustrating roadblock. However, there's a silver lining – the power of an Android system repair software like Dr.Fone – System Repair (Android). This user-friendly tool acts as your device's superhero, rescuing it from the clutches of bricking incidents.
@@ -447,10 +439,6 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 - More often than not, the **_TouchWiz keeps stopping_** **<u>after an Android update. </u>** When we update our Asus ROG Phone 8 Pro device, the old data and cache usually conflicts with TouchWIz thereby cropping up this mess.
 - When you **<u>disable some built-in apps</u>**, you might get in trouble with TouchWiz. Doing this sometimes can hamper the TouchWiz operation and raise the “**_unfortunately TouchWiz home has stopped_**” error message.
 - Many times **<u>installing some third-party apps and widgets</u>** can cause this problem. The apps like launchers can be conflicting with TouchWiz home launcher and therefore cease it to work. Also, a glitched widget is responsible for the same i.e. forces stop the TouchWiz.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
 
@@ -486,6 +474,10 @@ Now, from the next screen, you are supposed to choose “Android Repair” tab. 
 
 ![repair android to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Enter Right Information**
 
 Please keep your mobile details handy as you will need them in the next window. You will need to enter the correct brand, model, and country name etc. for better detection of your device.
@@ -503,6 +495,10 @@ Tip: You can use [Dr.Fone – Phone Backup (Android)](https://tools.techidaily.c
 You will get some instructions on your screen to keep your device in Download mode. Follow them according to the Asus ROG Phone 8 Pro device you own and hit “Next”. When you do this, the program will detect your device and let you download the latest firmware.
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
@@ -549,6 +545,10 @@ In case the above steps didn’t figure out the problem, here is the next tip. T
 
 Check now if the error is eliminated. If unfortunately not, please try the following solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Enable the easy mode
 
 For some users, enabling Easy Mode has been of great assistance. This feature aims to make the user experience more efficient by simply eliminating complex features. The Easy Mode removes those features that confuse the users by messing up the screen. Hence, we suggest you to switch to this mode in order to remove “**_TouchWiz not working_**” problem. The steps are:
@@ -558,11 +558,11 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 
 ![easy mode to fix TouchWiz stopping](https://images.wondershare.com/drfone/article/2019/02/easy-mode.jpg)
 
-Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
 
 ### Boot your phone to safe mode
 
@@ -608,16 +608,18 @@ We believe that you will find the above methods helpful. However, if still in ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-algorithm-advantage-tips-for-achieving-instagram-video-fame/"><u>[New] 2024 Approved The Algorithm Advantage Tips for Achieving Instagram Video Fame</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-winning-insta-followers-with-irresistible-unboxing-clips/"><u>[New] In 2024, Winning Insta Followers with Irresistible Unboxing Clips</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-quick-beats-lasting-impact-navigating-the-world-of-short-music/"><u>[Updated] 2024 Approved Quick Beats, Lasting Impact Navigating the World of Short Music</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-smart-7-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Smart 7 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/essential-tips-for-efficiently-finding-variance-with-excel-spreadsheets/"><u>Essential Tips for Efficiently Finding Variance with Excel Spreadsheets</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-your-gadget-compatibility-with-this-incredible-8-port-usb-hub-thats-smaller-than-you-think/"><u>Maximize Your Gadget Compatibility with This Incredible 8-Port USB Hub That's Smaller Than You Think!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-11-proplus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 Pro+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-s23-fe-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy S23 FE Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/google8/"><u>「簡単に復元! Googleドライブから消えたファイルを取り戻す8つの方法」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-premier-music-video-experience-6-picks/"><u>2024 Approved Android's Premier Music Video Experience 6 Picks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-seamlessly-preserve-your-ppt-video-recording-tips/"><u>2024 Approved Seamlessly Preserve Your PPT Video Recording Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-sony-xperia-5-v-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Sony Xperia 5 V Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-gt-10-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix GT 10 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-xiaomi-redmi-note-12t-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi Redmi Note 12T Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-11-pro-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 11 Pro 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-metas-artificial-intelligence-an-in-depth-overview/"><u>Understanding Meta's Artificial Intelligence: An In-Depth Overview</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/vn-video-editor-for-mac-a-comprehensive-guide-and-alternative-options-for-2024/"><u>VN Video Editor for Mac A Comprehensive Guide and Alternative Options for 2024</u></a></li>
 </ul></div>
 

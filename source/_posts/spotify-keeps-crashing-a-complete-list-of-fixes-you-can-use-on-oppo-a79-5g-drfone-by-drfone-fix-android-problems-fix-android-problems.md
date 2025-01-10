@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo A79 5G | Dr.fone
-date: 2024-12-18T15:21:32.967Z
-updated: 2024-12-24T21:48:28.514Z
+date: 2025-01-07T19:03:15.295Z
+updated: 2025-01-10T16:22:46.263Z
 tags: 
   - problems
 categories:
@@ -34,10 +34,6 @@ Several other reasons for this problem include network issues, a weak Wi-Fi sign
 
 As you can see, there are numerous reasons for your Spotify crashing. Fortunately, all of them are easy fixes, and there’s no need to worry. We’ve prepared a list of 11 ways to fix your Spotify. With these fixes and detailed instructions, you’ll be able to eliminate your Spotify problem with ease.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1. Fix the Spotify Closing Issue by Repairing Your System
 
 The reason for your Spotify crashing may be more significant than just a bug. Your device system might be behind it. If that’s the case, you might need to repair your system before trying to fix Spotify.
@@ -59,9 +55,17 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![start system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Select the **Brand,****Name, Model, Country,** and **Carrier** In the **Carrier** section, choose **OPEN** if your device is unlocked.
 
 ![select your android model in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Tick the **“I agree with the warning, and I am ready to proceed”**checkbox and click **Next**.
 - **Step 7:** Put your Android in **Download Mode**. You can find the steps below these instructions.
@@ -76,6 +80,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 10:** Type “**000000**” in the dialog box and click **Confirm**.
 
 ![confirm system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
@@ -115,6 +123,10 @@ You can force-close Spotify and open it again to make it work properly. That is 
 - **Step 3:** Find Spotify in **Recent Apps**and click **X** or swipe up over it to force-close it.
 - **Step 4:** Try opening Spotify again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3. Re-Login to Your Spotify
 
 The Spotify app may be working fine. Maybe you’re having problems with your Spotify account. If so, you can try logging out and logging in again to see if that works. That isn’t a big problem; sometimes Spotify accounts start bugging. You can re-login to your Spotify account by following these steps:
@@ -124,10 +136,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![settings in spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Scroll to the bottom of the settings and tap **Log Out**.
 
 ![log out of spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-5.jpg)
@@ -135,6 +143,10 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 - **Step 4:** Tap **Log In**.
 
 ![log into spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Enter your login credentials.
 - **Step 6:** Tap **Login**again, and you’re in.
@@ -149,6 +161,10 @@ Another way to stop Spotify from crashing can be restarting your Android. The st
 - **Step 2:** Tap **Restart**. That will restart your Android, and you can try opening Spotify again.
 
 ![restart android to fix spotify crashing](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5. Set Up Your Time and Date
 
@@ -165,10 +181,6 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6. Update Your System Software
 
 Your Spotify app might keep crashing because your system is outdated. Try updating it to the latest version to try and fix the crashing problem. The steps for the Android system update are as follows:
@@ -180,10 +192,6 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 - **Step 2:** Go to **System** or **About Phone**.
 
 ![about phone to find system update](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3:** Select **System Update**.
 - **Step 4:** If there’s an available update, tap
@@ -212,10 +220,6 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 
 ![storage in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Here, you can see how much of your storage space is available and what’s taking up the most space.
 
 ![available storage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-17.jpg)
@@ -231,10 +235,6 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 - **Step 3:** Then, press **Uninstall**.
 
 ![uninstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-18.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4:** Press **OK**.
 - **Step 5:** Then, open the PlayStore and find Spotify.
@@ -258,10 +258,6 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 ![spotify server up or down](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-21.jpg)
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 11. Clear the Cache
 
@@ -304,6 +300,10 @@ Despite all the worry that surrounds an unwanted Android system recovery screen,
 
 For these reasons, it is actually a good thing, although when it does happen unexpectedly, you may want to know how to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How to get to Android System recovery
 
 Now that you know how useful the Android System can be, you may want to know how to utilize this feature to get out of some of the problems we mentioned above. Here's how you can safely get to the Android recovery system on your Oppo A79 5G.
@@ -319,10 +319,6 @@ Step 2: Next, you need to hold down the Power and the Volume Key. You should abl
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
 
@@ -427,6 +423,10 @@ Android system recovery mode can be quite useful, especially when your system is
 
 Encountering issues with the Phone app is never welcoming. Being one of the useful apps, seeing it crashing and unresponsive gives sheer despondency. If talked about the triggering points, they are numerous. But the central point is what to do when the Phone app keeps crashing. In this article, we have discussed this issue in detail. To know this and more about why the "Unfortunately, Phone has stopped" error crops up, read this article and get the problem sorted on your own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: When can the "Unfortunately, Phone has stopped" error come?
 
 First things first! You need to stay updated on why the Phone app keeps stopping or crashing before jumping to any solution. Following are the points when this error comes up to annoy you.
@@ -470,11 +470,11 @@ When the firmware is not updated, it may conflict with some apps and maybe that�
 
 ![Phone app crashing - update firmware](https://images.wondershare.com/drfone/article/2023/05/samsung-android-update-shot.jpg)
 
-1. Download and install it and then try to use the Phone app.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+1. Download and install it and then try to use the Phone app.
 
 ### 2.5 Clear partition cache
 
@@ -526,15 +526,15 @@ As the next step, enter some important details on the next screen. Be sure to en
 
 ![Phone app crashing - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Downloading Firmware**
 
 Downloading firmware will be the next step. Prior to this, you have to go through the instructions given onscreen to enter the DFU mode. Please click on "Next" and the program will bring the suitable firmware version and start downloading it.
 
 ![Phone app crashing - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5: Get the Oppo A79 5G device Repaired**
 
@@ -570,19 +570,15 @@ If none of the above methods worked for you, the last resort you are left with i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-androids-premier-3d-visualization-app/"><u>[New] In 2024, Android's Premier 3D Visualization App</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effortless-way-to-personalize-your-youtube-channel-url/"><u>[New] In 2024, Effortless Way to Personalize Your YouTube Channel Url</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-transform-your-snapchat-soundtrack-easy-changes-in-just-two-steps-for-2024/"><u>[New] Transform Your Snapchat Soundtrack Easy Changes in Just Two Steps for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-instagrams-hidden-filter-tools/"><u>[Updated] 2024 Approved Unlocking Instagram's Hidden Filter Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/audiovisual-harmony-adding-sounds-to-instagram-clips-for-2024/"><u>Audiovisual Harmony Adding Sounds to Instagram Clips for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-s18-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo S18 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo Find X7? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-hot-40-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Hot 40 Fingerprint Lock</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-metaphysical-realms-of-the-metaverse-quotations-style/"><u>In 2024, Metaphysical Realms of the Metaverse, Quotations Style</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-redmi-note-12-4g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi Redmi Note 12 4G Phone Now with These Tips</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-13c-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi 13C 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/unlock-the-power-of-animation-converting-videos-into-cartoons-for-2024/"><u>Unlock the Power of Animation Converting Videos Into Cartoons for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-fix-method-without-active-nvidia-screen/"><u>Direct Fix Method: Without Active NVIDIA Screen</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-crafting-cool-youtube-previews-in-imovie-easily/"><u>In 2024, Crafting Cool YouTube Previews in iMovie Easily</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-sources-for-stunning-sky-hd-imagery-online/"><u>In 2024, Leading Sources for Stunning Sky HD Imagery Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-prime-guidelines-youtube-respect-and-usage/"><u>In 2024, Prime Guidelines YouTube Respect & Usage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-ziskat-levne-kupony-podminkami-co-dekujete-za-sledujicimi-stejnym-prekladum/"><u>Movavi: Získat Levné Kupony Podmínkami - Co Děkujete Za Sledujícími Stejným Překladům</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-asus-rog-phone-7-ultimate-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Asus ROG Phone 7 Ultimate? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a18-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A18 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-nokia-c02-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nokia C02 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-power-of-first-impressions-crafting-impactful-youtube-images-for-2024/"><u>The Power of First Impressions Crafting Impactful YouTube Images for 2024</u></a></li>
 </ul></div>
 

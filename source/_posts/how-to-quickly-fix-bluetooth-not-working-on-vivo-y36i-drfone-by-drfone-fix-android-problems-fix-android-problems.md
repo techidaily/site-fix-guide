@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Vivo Y36i | Dr.fone
-date: 2024-07-14T06:14:56.561Z
-updated: 2024-07-15T06:14:56.561Z
+date: 2025-01-04T16:56:01.910Z
+updated: 2025-01-10T18:23:31.246Z
 tags: 
   - problems
 categories:
@@ -30,13 +30,19 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
 
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Vivo Y36i. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -88,9 +94,6 @@ One of the most common solutions in technology is simply to turn it on and off a
 
 ### 2.3 Clear the Bluetooth cache
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
 
 Every service on your Vivo Y36i using a feature called a cache. This is where information is stored to help the feature run properly and give you the best experience. However, over time this can get messy and can cause problems with your Bluetooth feature.
@@ -145,6 +148,10 @@ Here’s how to turn on your Bluetooth discoverable feature;
 3. Under the available settings, tick the box that allows your Bluetooth device to be discoverable
 4. Turn your Bluetooth feature on and connect to the Vivo Y36i device you’re trying to connect too
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.7 Exclude Bluetooth issues of the other device
 
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
@@ -157,6 +164,10 @@ By testing out another Bluetooth device to see if it will work with your preferr
 2. Now take another Bluetooth device and connect this to the Vivo Y36i device you’re trying to connect too. This could be another Android device, or even a computer or iOS device
 3. If the new device doesn’t connect to your Bluetooth device, you’ll know there’s a problem with your Bluetooth device, not your Vivo Y36i
 4. If the Vivo Y36i devices connect, you’ll know there’s a problem with your Vivo Y36i
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.8 Place both devices within close proximity
 
@@ -181,6 +192,10 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
 You probably touch the screen of your phone hundreds of times per day. It’s no surprise that smartphone touchscreens are one of the most common components to fail, given their delicate glass construction. However, a ****part of the touch screen not working**** on your Vivo Y36i does not necessarily mean it is a hardware issue. There could be other reasons why your Android’s touch screen stopped responding.
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Is Part of My Screen Not Working
 
@@ -219,6 +234,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Vivo Y36i device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Vivo Y36i’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart Your Device
 
@@ -302,14 +321,15 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 2:**** Connect your Vivo Y36i or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
@@ -338,6 +358,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Vivo Y36i. And in a while, your Vivo Y36i’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported OS
 
@@ -372,9 +396,6 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 - Depending on the toolkit required, the program can be costly.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
@@ -404,8 +425,6 @@ If you cannot find any reason why your Vivo Y36i will not switch on, here are so
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -438,6 +457,10 @@ Opt for "Touch screen not responsive or cannot access the phone" or "Black/broke
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Look up for your device – pick the Vivo Y36i device Name and Device Model. Advance by clicking on the Next button.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
@@ -452,18 +475,12 @@ The data recovery tool will guide you on how you can go into your Vivo Y36i’s 
 
 Using the provided USB cable, attach your Vivo Y36i to your computer – the data recovery tool should be able to discover your device automatically and scan it for recoverable data.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
 
 Wait for the program to finish scanning the phone – once completed, you will be able to get a list of recoverable files. You can have a preview of the file by highlighting them. Tick the box next to the file name and click on Recover to start retrieving the files and save them in the destination of your choosing.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ShpCFggyBvs"></iframe>
@@ -473,8 +490,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -503,6 +518,10 @@ Step 2: You will find a range of options, tap on the ‘Android Repair’ one. H
 Step 3: Now, over the Vivo Y36i device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
 ![go to SMS to export text messages](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Phase 2: Enter ‘Download’ mode for fixing your Vivo Y36i**
 
@@ -554,9 +573,6 @@ There are several reasons as to why your Vivo Y36i won’t turn on. The problem 
 
 It is important to note that your phone contains some important data. Therefore, when your Vivo Y36i won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -569,9 +585,23 @@ It is important to note that your phone contains some important data. Therefore,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-top-9-secure-virtual-meeting-solutions-for-startups-for-2024/"><u>[New] Top 9 Secure Virtual Meeting Solutions for Startups for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-epic-soundscape-trending-audio-for-cutting-edge-youtube-short-videos/"><u>[Updated] 2024 Approved Epic Soundscape Trending Audio for Cutting-Edge YouTube Short Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-gourmet-guides-leading-food-vloggers-online/"><u>[Updated] Gourmet Guides Leading Food Vloggers Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-essential-android-ad-blocking-the-top-7-app-list/"><u>[Updated] In 2024, Essential Android Ad Blocking The Top 7 App List</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-legitimacy-in-the-limelight-copyright-verification-before-upload/"><u>In 2024, Legitimacy in the Limelight Copyright Verification Before Upload</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-cold-war-error-fixing-freezing-issues-on-pc-and-consoles/"><u>Overcoming the 'Cold War' Error: Fixing Freezing Issues on PC and Consoles</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-lava-blaze-2-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Blaze 2 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-hisense-televisions-reviewed-by-professionals-insights-from-zdnet/"><u>Top-Rated Hisense Televisions Reviewed by Professionals - Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-launch-failures-in-mass-effect-legendary-edition-expert-advice/"><u>Understanding Launch Failures in Mass Effect Legendary Edition – Expert Advice</u></a></li>
+</ul></div>
 

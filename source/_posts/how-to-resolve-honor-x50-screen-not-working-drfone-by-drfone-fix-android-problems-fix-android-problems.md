@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor X50 Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:09.361Z
-updated: 2024-07-15T06:16:09.361Z
+date: 2025-01-08T17:16:59.834Z
+updated: 2025-01-10T18:31:15.593Z
 tags: 
   - problems
 categories:
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ## How to Resolve Honor X50 Screen Not Working
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 Nothing is more frustrating than your phone's touch screen becoming unresponsive. Given the importance of smartphones in daily work, a phone with a touch screen not working can badly affect your routine. It is an issue found in most smartphone brands, even among Honor X50 phones, known for their efficient performance. If your ****Honor X50 screen is not working****, it can be an exhausting experience.
@@ -34,6 +31,10 @@ Excessive smartphone use can cause the touchscreen to go out of the required set
 ### 2\. Battery Issue
 
 If your device's battery is damaged or is at the end of its lifespan, it can cause the touch screen not responding issues. Moreover, the low battery and issue with the charging port can also lead to this problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Corrupted System Files
 
@@ -81,6 +82,10 @@ A common reason for ****Honor X50 Nord being stuck on the loading screen**** is
 
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
@@ -118,7 +123,9 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 
 To sum up this article, it can be said that issues like ****Honor X50 not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [8 Quick Fixes] Unfortunately, Snapchat has Stopped on Honor X50
 
@@ -131,6 +138,10 @@ Fortunately, there are plenty of solutions out there to help you out and get the
 ## Part 1. Install Snapchat again from Google Play Store
 
 ![snapchat not responding - reinstall snapchat](https://images.wondershare.com/drfone/article/2019/04/install-snapchat-googleplay.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One of the best ways to resolve the Snapchat crashing problem or [Snap Map not working issue](https://drfone.wondershare.com/snapchat/snap-map-not-working.html) is to delete the app and reinstall it again. When you’re using your phone, there is data continually flowing around and data being sent here, there, and everywhere.
 
@@ -166,9 +177,6 @@ Here’s how to fix it.
 
 2. Tap the Settings gear icon on the top right
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![wipe cahce of snapchat crashing - step 2](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-two.png)
 
 3. Scroll down the Settings menu and tap the Clear Cache option
@@ -177,22 +185,21 @@ Here’s how to fix it.
 
 4. Here, you can choose to Clear All, but you can select individual areas if you prefer
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![wipe cahce of snapchat crashing - step 4](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-four.png)
 
 5. Tap the Confirm option to clear your cache preference completely
 
     ![wipe cahce of snapchat crashing - step 5](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-five.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Fix the system issues that caused Snapchat stopping
 
 If you’re experiencing the Snapchat crashing on Android often, or you’re experiencing similar errors with other apps, this can be an indication that there’s something wrong with your Android operating system.
 
 The best way to fix this is to repair your device using the software known as Dr.Fone - System Repair (Android). This is a powerful repair system that can completely recover your device from any errors, including the Snapchat keeps crashing error.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -288,9 +295,6 @@ However, this reflashing process is simple thanks to the Dr.Fone - System Repair
 6. Put your device into Download Mode by following the onscreen instructions
 7. Allow the software to repair your Honor X50 automatically
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 8. Reset the factory settings of your Android
 
 ![snapchat stopping - factory resetting](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
@@ -314,7 +318,6 @@ It is very common that the Android messaging app is not working on many devices 
 You might find lots of people online stating I can't receive text messages on Android. And usually, people don’t find a legit solution for this issue. If you are also experiencing this sort of issue on your Honor X50s, then don’t panic. We have a series of methods that can supposedly fix the problem. But at first, we will learn what the main reasons this problem arises are and how do you know that it is consistent not some random error.
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
-
 
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
@@ -344,8 +347,6 @@ If you are not willing to waste your precious time fixing the message problem, t
 
 You surely need to try the software as it can perform the following tasks:
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Android Not Receiving Texts
@@ -374,6 +375,10 @@ Step 3: Agree with the conditions and hit the Next button. The software will dow
 
 It won’t take long, and your Honor X50 will be repaired. Now you will be able to receive and send text messages without any hassle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Remove and Insert the SIM
 
 The easiest thing that you can try if your Honor X50 is not receiving any text messages is because the SIM is not inserted right. If your SIM card is inserted wrong, then it is obvious you can't receive text messages on Android. Simply take out the SIM card, see how it must be inserted, and do it correctly. Once the SIM is inserted in the right way, you will receive the pending text messages immediately unless there is another issue preventing it.
@@ -384,6 +389,14 @@ Another simple method that you can try if you are not receiving text messages on
 
 ![android not receiving texts - check connection](https://images.wondershare.com/drfone/article/2019/02/no-internet-connection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Consult your Carrier about the Data Plan
 
 Maybe you are unable to get messages on your Honor X50s because your existing data plan has expired. You can directly contact your Carrier about the issues where your Honor X50 is not receiving texts. If your plan has expired, then you might have to renew it immediately. If not, then try out other fixes to resolve this issue.
@@ -393,6 +406,10 @@ Maybe you are unable to get messages on your Honor X50s because your existing da
 Sometimes, people complain that Honor X50 is not receiving texts from iPhone, and it might be because of the SIM card issue. So, the best thing you can try is to remove the SIM from your current phone and insert it into another phone.
 
 When you are offline the message is saved on the server and just about when you get online, the text messages are delivered. If it is the SIM issue, then you will not get the message unless you contact your network operator.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: Clear the Cache of Messaging App
 
@@ -414,6 +431,10 @@ Step 1: Open the messages app and open settings. Look for an option that says �
 
 ![android not receiving texts - free up space](https://images.wondershare.com/drfone/article/2019/02/manage-SIM-card-messages.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: There, you will see the existing messages on the SIM. You can either delete all the messages or perform a selective deletion to free up space.
 
 ## Part 8: Try a Third-party Messaging App
@@ -422,9 +443,6 @@ If you can’t receive messages on your default app, then you can try installing
 
 _Further Reading: [15 Best Free Chat Apps in 2022. Chat Now!](https://drfone.wondershare.com/topsoftware/best-free-chat-apps.html) _
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 9: Ensure your Phone is Fully Charged
 
 Another possible fix to this problem might be your phone’s battery percentage. Sometimes, when the Android is in power saving mode, it disables the default apps too. As a result, you can't even receive text messages on Android. So, when you plug in the charger, the power saving mode will be disabled, and you will get your text messages.
@@ -447,7 +465,6 @@ Updating the operating system to the latest Android version can fix some system 
 
 Now you know several methods that can work if the Android messaging app is not working.  If you experience this kind of issue with your Honor X50, then you are most likely to resolve them with these fixes. If none of the solutions seem to fix the issue, then you can take the help of Dr. Fone - System Repair (Android) feature. With this tool, you can resolve all kinds of working issues on your device.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -460,9 +477,26 @@ Now you know several methods that can work if the Android messaging app is not w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-are-high-end-tvs-with-aurora-hdr-worth-it-analyzed-for-2024/"><u>[New] Are High-End TVs with Aurora HDR Worth It? Analyzed for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-explore-twitter-videos-in-high-fidelity-format-for-2024/"><u>[Updated] Explore Twitter Videos in High Fidelity Format for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-video-sharing-techniques-from-youtube-to-insta/"><u>[Updated] Video Sharing Techniques From YouTube to Insta</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-from-raw-files-to-artwork-beginners-guide-to-lunapic/"><u>2024 Approved From Raw Files to Artwork Beginner’s Guide to LunaPic</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/achat-dune-sauvegarde-reliable-grace-a-aomei-backupper-guide-pratique/"><u>Achat D'une Sauvegarde Reliable Grâce À AOMEI Backupper : Guide Pratique</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/emerging-threat-in-ipv6-exposes-new-security-risk-to-desktop-systems/"><u>Emerging Threat in IPv6 Exposes New Security Risk to Desktop Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-spark-10-4g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Spark 10 4G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-transform-your-life-top-10-premium-yoga-streams-unleashed/"><u>In 2024, Transform Your Life Top 10 Premium Yoga Streams Unleashed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-note-30i-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30i Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-flip-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Flip Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-itel-s23plus-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Itel S23+? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/principles-of-paradoxical-intervention/"><u>Principles of Paradoxical Intervention</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-zte-nubia-flip-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My ZTE Nubia Flip 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-note-50-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme Note 50 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-v27-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V27 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-a14-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy A14 4G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguard-your-data-from-counterfeit-chatbots/"><u>Safeguard Your Data From Counterfeit ChatBots</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-xcover-7-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy XCover 7 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Note 30 5G | Dr.fone</u></a></li>
+</ul></div>
 

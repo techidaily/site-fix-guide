@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Smart 8 Plus Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:32.150Z
-updated: 2024-07-15T06:16:32.150Z
+date: 2025-01-07T17:22:21.771Z
+updated: 2025-01-10T16:35:43.334Z
 tags: 
   - problems
 categories:
@@ -92,9 +92,6 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
 
 ### Solution 6. Replace the Old Screen with A New Screen
@@ -136,9 +133,6 @@ When a device is low on memory, it may struggle to run multiple apps simultaneou
 
 Android devices come in various models and run different operating system versions. That's why it is essential to use apps compatible with your device. Since there are a lot of Android variants, it is hard to optimize apps for all devices. An app not optimized for an Android version or device leads to crashes or malfunctions.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Outdated Apps
 
 Apps are regularly updated to introduce new features, fix bugs, and enhance performance. Using an outdated version of an app may cause instability or compatibility problems. Since the app is not optimized for the current version of Android, it can keep crashing.
@@ -187,6 +181,10 @@ Not updating your Android OS for a long while can cause many performance issues 
 
 ![tap on download and install](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 2:**** During the update process, ensure you have a stable internet connection. Moreover, your device should be fully charged to avoid any complications.
 
 ### Fix 5: Clear the App Cache
@@ -199,9 +197,6 @@ Have you tried clearing the cache of the app that keeps crashing? The app cache 
 
 - ****Step 2:**** Following this, press "Storage," and on the following screen, hit “Clear Cache.” It will clean the cache for the targeted app.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on clear cache button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-6.jpg)
 
 ### Fix 6: Reinstall the Buggy App
@@ -215,6 +210,10 @@ Bugs in the app can prove a nightmare and hard to remove from the app. If your *
 - ****Step 2:**** After removing the app, go to Google Play Store and find the targeted app. Here, tap “Install” to reinstall the app on your device.
 
 ![press the install button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Check the App Permissions
 
@@ -234,9 +233,6 @@ Insufficient storage space on your device can also lead to app crashes. Check th
 
 - ****Step 1:**** Open Settings on your Infinix Smart 8 Plus and scroll down to find and select “Battery and Device Care.” Here, tap “Storage” to view the Infinix Smart 8 Plus device storage.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the storage option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-11.jpg)
 
 - ****Step 2:**** Here, you will see detailed information about everything stored on your device. If the storage space is full, remove the unnecessary data.
@@ -254,6 +250,10 @@ It can be hard to find the ****app crashing**** root cause if it happens due to
 - ****Step 2:**** Press the “Power Off” button until “Restart in Safe Mode” appears on the screen. Now reboot the Infinix Smart 8 Plus device into Safe Mode. To exit Safe Mode, you will need to restart the phone.
 
 ![enable the safe mode](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 10: 100% Working Solution to Fix the Android Apps Keep Crashing – Wondershare Dr.Fone
 
@@ -290,6 +290,14 @@ Follow the on-screen instruction to activate Download Mode on your device. Wonde
 ![tap on the fix now button](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -333,7 +341,15 @@ One of the first things to do any time an app or your phone or tablet does not w
 
 ![restarting android handset](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the power button on your smartphone to restart your Android handset and see if this resolves the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.II: Close And Relaunch The Camera App
 
@@ -355,9 +371,6 @@ Step 1: Go to Settings > Apps > Camera > Permissions.
 
 Step 2: Tap Camera.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
@@ -404,6 +417,10 @@ We do not realize the immense power that is packed into the thin smartphone form
 
 If this is the case, close all apps and let the phone cool down. You might even want to shut the phone off to help cool it faster.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.VIII: Nudge The Camera System
 
 You may want to tap your camera system (the lenses and surrounding area) gently to see if that gets the camera working. In case it did, this is indicative of a hardware issue, and you should get it checked at the service center at your earliest convenience.
@@ -448,18 +465,23 @@ Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000)
 
 ![confirm android firmware repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -473,9 +495,26 @@ The camera app on your smartphone is one of the most important apps you use. Thi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-visionary-vittles-steps-to-craft-food-films/"><u>[Updated] 2024 Approved Visionary Vittles Steps to Craft Food Films</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-depth-examination-hero4-black-innovation-for-2024/"><u>[Updated] In-Depth Examination Hero4 Black Innovation for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unearthing-your-favorites-facebook-watch-list-access-for-2024/"><u>[Updated] Unearthing Your Favorites Facebook Watch List Access for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-innovative-techniques-for-next-level-lut-creation/"><u>2024 Approved Innovative Techniques for Next-Level LUT Creation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-connect-disney-plus-to-chromecast/"><u>How to Connect Disney Plus to Chromecast</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-note-12-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi Note 12 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-x-fold-2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo X Fold 2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-note-13-proplus-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi Note 13 Pro+ 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-infinix-zero-30-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Infinix Zero 30 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-harmonizing-time-and-tone-the-guide-to-changing-audio-tempo-and-octave-in-adobe-rush/"><u>New 2024 Approved Harmonizing Time and Tone The Guide to Changing Audio Tempo and Octave in Adobe Rush</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-gionee-f3-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Gionee F3 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oneplus-ace-2v-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on OnePlus Ace 2V Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/revolutionnez-votre-ordinateur-dell-5-strategies-essentielles-pour-une-mise-a-jour-reussie-vers-windows-1187/"><u>Révolutionnez Votre Ordinateur Dell : 5 Stratégies Essentielles Pour Une Mise À Jour Réussie Vers Windows 11/8/7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a24-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A24 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/top-free-disk-imaging-tools-a-comprehensive-guide-for-windows-11-users/"><u>Top Free Disk Imaging Tools: A Comprehensive Guide for Windows 11 Users</u></a></li>
+</ul></div>
 

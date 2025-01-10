@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Realme Narzo 60 5G | Dr.fone
-date: 2024-07-14T06:13:26.386Z
-updated: 2024-07-15T06:13:26.386Z
+date: 2025-01-09T16:48:43.645Z
+updated: 2025-01-10T17:33:00.620Z
 tags: 
   - problems
 categories:
@@ -36,20 +36,6 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Bluetooth issues in one click
@@ -129,6 +115,10 @@ Here’s how;
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you’re having problems with your connection and paired devices, sometimes you may have conflicting software faults in your device that are causing the problems. If this is the case, you’ll need to boot your Realme Narzo 60 5G in Safe Mode.
 
 This is an operating state in which your phone will run the bare minimum services it needs to perform. If your Bluetooth works in Safe Mode, you know you have an app or a service that’s causing the problem.
@@ -158,6 +148,10 @@ Here’s how to turn on your Bluetooth discoverable feature;
 
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sometimes, you might not even have a problem with your Realme Narzo 60 5G, but rather the Bluetooth device you’re trying to connect to, whether that’s a Bluetooth speaker, an in-car entertainment system, or any other kind of Bluetooth device.
 
 By testing out another Bluetooth device to see if it will work with your preferred device, you can rule this out from being the issue.
@@ -185,6 +179,10 @@ With this in mind, you’ll want to make sure you’re limiting the amount of Bl
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Realme Narzo 60 5G to the Realme Narzo 60 5G device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Ways to Fix Android Blue Screen of Death On Realme Narzo 60 5G
 
 Android is undoubtedly amongst the best smartphone platforms but comes with its own share of glitches. The Android screen of death is observed by many users all over the world who complain of their device screen turning blue rendering their phone/tablet unresponsive. This is called the Android blue screen of death and it usually occurs when you turn on your device by pressing the Power On button but your device does not boot up normally and remains stuck at a plain blue screen without any error message.
@@ -196,8 +194,6 @@ Read on to learn more about the Android screen of death and ways to combat it.
 ## Part 1: How to rescue data on Realme Narzo 60 5G with blue screen of death?
 
 The Android blue screen of death issue is not a difficult problem to deal with and can be fixed by you by following the easy steps given in this article. We suggest that all readers rescue the data stored on their Android devices to prevent data loss and keep it stored in your PC from where it can be accessed and recovered by you anytime, anywhere. This task might sound tedious, but, we have for you [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html), a software specially designed to retrieve data from broken and damaged Realme Narzo 60 5G phones and tabs, especially Realme Narzo 60 5G devices, and keep it safe in your PC without tampering with it or altering its format. It efficiently extracts data from broken or unresponsive Realme Narzo 60 5G devices, phones/tabs stuck at black/blue screen, or whose system crashed due to a virus attack.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -220,9 +216,6 @@ Follow the steps given below to extract data when you experience an Android scre
 
 3\. And then choose "Recover from Broken Phone" from the program's screen.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android blue screen of death-select file types](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-3.png "select file types")
 
 4\. In this step, choose from the two options before you the true nature of your device as shown in the screenshot below.
@@ -241,6 +234,10 @@ Follow the steps given below to extract data when you experience an Android scre
 
 ![android blue screen of death-download recovery package](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-06.jpg "download recovery package")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8\. Once it does, you will be able to preview all the files on the screen in front of you before you hit “Recover to Computer”.
 
 ![android blue screen of death-extract files](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg "extract files")
@@ -254,8 +251,6 @@ The process may take up to a few minutes and once it's done all your files will 
 We understand how annoying it is to see the Android blue screen of death and fail to access your device data. But, with [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), your troubles would burst away.
 
 This software effectively fixes Android screen of death issue along with app crashing, bricked or unresponsive device, stuck on Realme Narzo 60 5G logo, etc. All Android issues are well taken care of by Dr.Fone - System Repair (Android) with one click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -299,9 +294,6 @@ Step 1: Get the Realme Narzo 60 5G device in ‘Download’ mode to fix the **An
 
 Step 2: Tap the ‘Next’ button to download firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download firmware to fix android without home key](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Dr.Fone - System Repair (Android) would verify the firmware post-download. It will start repairing the Android system automatically.
@@ -317,6 +309,10 @@ A force restart is a basic step that can clear minor software glitches. It has t
 **Step:** On your Realme Narzo 60 5G, press and hold the "Power" and "Volume Down" keys for around 10 seconds. Release the keys when your device reboots and wait for it to complete rebooting.
 
 ![force restart android phone](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Remove phone battery to fix blue screen of death
 
@@ -338,9 +334,6 @@ Note: Not all Android devices allow you to remove their battery. If you own such
 
 In some cases, issues related to the Android blue screen of death can be caused by problems with the SIM card or SD card. Removing and reinserting these cards can help resolve potential conflicts or glitches. Remember that this method can help resolve issues related to SIM card or SD card conflicts. However, it may not address more complex software or hardware problems causing the blue screen issue.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: Clean or change the LCD connector
 
 If you're facing the Android blue screen of death issue, the issue might be related to a hardware problem. The problem can be a loose or damaged LCD connector. In this scenario, you can try cleaning or changing the connector. This method is more advanced and involves disassembling your device. That's why you need to proceed with caution and only if you're comfortable with hardware tasks.
@@ -368,6 +361,10 @@ Once you are on the Recovery Screen, you will see a list of options before you, 
 Use the Volume Down button to scroll downwards and reach the "Wipe data/Factory reset" option.
 
 ![android blue screen of death-wipe data factory reset](https://images.wondershare.com/drfone/article/2017/07/14997040167334.jpg "wipe data factory reset")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now use the power button to select it and wait for the Realme Narzo 60 5G device to reboot automatically.
 
@@ -459,6 +456,10 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
@@ -509,6 +510,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,207,329** people have downloaded it
 
 - **Step 2:** Launch the program and connect your Realme Narzo 60 5G to the computer using a USB cable. Choose the Realme Narzo 60 5G device type and click **Start** to initiate the repair process.
@@ -517,14 +522,19 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone device information window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 4:** Simply click **Done** on the prompt window displaying a confirmation message to exit the tool if your Realme Narzo 60 5G starts successfully. In the event that the Realme Narzo 60 5G device fails to start, select **Try Again** to initiate the process once more.
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
 
@@ -549,9 +559,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -564,9 +571,20 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-cutting-edge-encoders-for-live-media/"><u>[New] Expertise in Cutting-Edge Encoders for Live Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-industry-standards-selecting-prime-gear-for-ultimate-4k-results/"><u>[New] Industry Standards Selecting Prime Gear for Ultimate 4K Results</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-what-makes-virtual-reality-headsets-unique/"><u>[Updated] What Makes Virtual Reality Headsets Unique?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-edge-off-windows-11-shapes/"><u>How to Edge Off: Windows 11 Shapes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-note-13-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Redmi Note 13 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oneplus-nord-n30-se-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of OnePlus Nord N30 SE? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-12-proplus-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 Pro+ 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-12-proplus-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme 12 Pro+ 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/testing-out-the-apple-vision-pro-during-a-full-workday-insights-and-limitations-revealed/"><u>Testing Out the Apple Vision Pro During a Full Workday – Insights & Limitations Revealed</u></a></li>
+</ul></div>
 

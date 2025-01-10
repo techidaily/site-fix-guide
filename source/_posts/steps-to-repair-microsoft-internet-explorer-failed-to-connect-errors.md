@@ -1,7 +1,7 @@
 ---
 title: Steps to Repair 'Microsoft Internet Explorer Failed to Connect' Errors
-date: 2024-12-28T19:25:24.387Z
-updated: 2025-01-03T16:44:13.452Z
+date: 2025-01-03T17:14:08.240Z
+updated: 2025-01-10T16:28:52.169Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Outdated device drivers
 * Software confliction
 * etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
@@ -64,7 +68,7 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
@@ -98,11 +102,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -115,12 +115,12 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
@@ -129,7 +129,11 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 6. Click **OK** to apply.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
@@ -148,17 +152,13 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -199,18 +199,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/approved-direct-youtube-tunes-to-mp3s-online-and-offline-options/"><u>2024 Approved Direct YouTube Tunes to MP3s Online & Offline Options</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210164741-9781645841838-abscission/"><u>Abscission | Free Book</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rting-youtube-journeys-into-animated-expressions-a-comprehensive-guide-for-mobiledesktop-users-for-2024/"><u>Converting YouTube Journeys Into Animated Expressions A Comprehensive Guide for Mobile/Desktop Users for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/download-imgburn-free-edition-how-to-create-iso-files-from-cddvd-including-copy-protected-discs/"><u>Download ImgBurn Free Edition: How To Create ISO Files From CD/DVD, Including Copy-Protected Discs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-itel-a60s-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Itel A60s Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-deleted-files-before-commit-in-git/"><u>How to Restore Deleted Files Before Commit in Git</u></a></li>
-<li><a href="https://win-data.techidaily.com/mengenali-alat-simplen-untuk-menyeleksi-projek-basis-dalam-eclipse-ide/"><u>Mengenali Alat Simplen Untuk Menyeleksi Projek Basis Dalam Eclipse IDE</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nokia-xr21-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia XR21 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://discover-data.techidaily.com/rapid-resolutions-overcoming-the-challenge-of-google-drive-not-syncing-with-your-mac/"><u>Rapid Resolutions - Overcoming the Challenge of Google Drive Not Syncing with Your Mac</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-note-50-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Note 50 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-a60s-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel A60s Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-gadgets-toms-hardware-deep-dives/"><u>Unveiling Gadgets: Tom's Hardware Deep-Dives</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/visual-impact-the-ultimate-photo-grid-list/"><u>Visual Impact The Ultimate Photo Grid List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-samurai-spirit-explored-in-top-10-gaming-worlds/"><u>[New] In 2024, Samurai Spirit, Explored in Top 10 Gaming Worlds</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-tips-for-fixing-stalled-video-posts-on-the-social-media-platform-iosandroid/"><u>[Updated] 2024 Approved Tips for Fixing Stalled Video Posts on the Social Media Platform iOS/Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-optimal-assistance-premier-tone-designers-for-iphones-for-2024/"><u>[Updated] Optimal Assistance Premier Tone Designers for iPhones for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-image-edges-with-circular-smear-technique-ps/"><u>Enhance Image Edges with Circular Smear Technique PS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-12-proplus-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme 12 Pro+ 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/multitasking-media-mastery-proficient-use-of-netflixs-pip-functionality-for-2024/"><u>Multitasking Media Mastery Proficient Use of Netflix’s PIP Functionality for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-k11x-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo K11x Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-phantom-v-flip-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Phantom V Flip? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-12-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-v30t-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme V30T Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-guide-enabling-mp4-support-in-windows-media-player/"><u>Troubleshooting Guide: Enabling MP4 Support in Windows Media Player</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-a-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated 2024 Approved A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor X50i Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:10.552Z
-updated: 2024-07-15T06:16:10.552Z
+date: 2025-01-05T16:54:23.313Z
+updated: 2025-01-10T17:47:26.681Z
 tags: 
   - problems
 categories:
@@ -58,9 +58,6 @@ The issues with the battery of your Honor X50i 5 can also lead to ****Honor X50i
 
 Thus, you should check and clean your device's charging port and see if it resolves the problem. Moreover, turn off your device, charge it, and then restart it to check if the touch screen not working issue is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3. Contact the Honor X50i Customer Support
 
 Contacting Honor X50i customer support can also help resolve the ****Honor X50i screen not working**** problem. It is especially helpful if you are unable to find the cause and want to seek an expert opinion. The Honor X50i customer support will help you find the issue and recommend a solution.
@@ -68,6 +65,10 @@ Contacting Honor X50i customer support can also help resolve the ****Honor X50i 
 It is an excellent option if your Honor X50i device's touch is not working due to hardware issues. They can help guide you to a suitable service center to fix your phone and resolve this issue.
 
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4. Wipe the Cache of Your Honor X50i Device
 
@@ -85,6 +86,10 @@ A common reason for ****Honor X50i Nord being stuck on the loading screen**** i
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5. Reset to Factory Settings
 
 Sometimes, clearing the cache partition doesn't help resolve the touchscreen issue. In that case, You have to factory reset your Honor X50i device. It is the best and last solution if other fixes haven't worked and you can't pinpoint the reason. Factory resetting your Honor X50i will delete all phone data. Thus, you should create a proper backup before trying this fix. Follow these steps to factory reset your Honor X50i in no time:
@@ -96,6 +101,10 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 6. Replace the Old Screen with A New Screen
 
@@ -139,6 +148,10 @@ Android devices come in various models and run different operating system versio
 ### Outdated Apps
 
 Apps are regularly updated to introduce new features, fix bugs, and enhance performance. Using an outdated version of an app may cause instability or compatibility problems. Since the app is not optimized for the current version of Android, it can keep crashing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Network Problems
 
@@ -198,6 +211,10 @@ Have you tried clearing the cache of the app that keeps crashing? The app cache 
 
 ![tap on clear cache button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall the Buggy App
 
 Bugs in the app can prove a nightmare and hard to remove from the app. If your ****apps keep crashing**** due to bugs, it is best to uninstall and then reinstall the app. It will help you eliminate any corrupted files or settings that might be causing the crashes. Given below are the steps needed to uninstall and reinstall the apps on Android device:
@@ -208,9 +225,6 @@ Bugs in the app can prove a nightmare and hard to remove from the app. If your *
 
 - ****Step 2:**** After removing the app, go to Google Play Store and find the targeted app. Here, tap “Install” to reinstall the app on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the install button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-8.jpg)
 
 ### Fix 7: Check the App Permissions
@@ -284,8 +298,9 @@ Follow the on-screen instruction to activate Download Mode on your device. Wonde
 ![tap on the fix now button](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
@@ -324,9 +339,6 @@ A software update on your Honor X50i smartphone might be causing issues with the
 
 Do you seek to resolve the problem of the ****Honor X50i  Plus stuck on the Android One screen?**** There are specific techniques that can be tried as a remedy. These solutions are tried and recommended by experts. Go through the details provided below to solve the issues with your stuck Honor X50i screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 1: Force Restart Honor X50i
 
 The first and most proclaimed technique to refresh Honor X50i devices under such a problem is to force restart them. If the Honor X50i device is stuck, you will have to perform this process by pressing the "Power" and "Volume Up" keys for 15 seconds. Continue holding the buttons until the Honor X50i device vibrates or restarts by showing the screen again.
@@ -347,6 +359,10 @@ Another quick remedy to try on your Honor X50i smartphones involves updating the
 
 ![choose the system option](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** As you lead to the advanced options, look for “System update” in the provided options. Look for the “Check for update” button. This will check if your Honor X50i needs any software updates or not.
 
 ![tap on check for update](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-4.jpg)
@@ -361,18 +377,6 @@ If your ****Honor X50i  Plus is stuck on the Android One screen,**** this platfo
 
 As you launch Dr.Fone after downloading it on your computer, continue to the "System Repair" option. You will have to start by connecting the Android device to the computer through a USB cable. Select "Android Repair" from the options available and continue to the following options.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the system repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 2: Define Device Information and Confirm****
@@ -380,6 +384,10 @@ As you launch Dr.Fone after downloading it on your computer, continue to the "Sy
 You will be directed to the Honor X50i device information screen, where you must define the identification parameters of the Honor X50i device. Select the brand, name, model, country, and carrier details for proper system recovery. On clicking "Next," you will receive a warning where you will have to type the number "000000" to proceed with the method.
 
 ![add the nokia phone details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3: Put Your Honor X50i in Download Mode****
 
@@ -401,6 +409,10 @@ To proceed, tap the "Next" button to download the firmware. As you verify the fi
 
 ![repairing the nokia phone](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5: Contact the Customer Service Center of Honor X50i
 
 If the issue of the ****Honor X50i  stuck on the "Honor X50i" screen**** continues, you will have to contact the Honor X50i device's customer support. With no proper method left for the Honor X50i device, the only effective technique is to visit the authorized store for Honor X50i smartphones and claim the issue with the Honor X50i device. In this way, you might receive or get a fully repaired device with no additional charges if the Honor X50i smartphone is under warranty.
@@ -408,6 +420,10 @@ If the issue of the ****Honor X50i  stuck on the "Honor X50i" screen**** contin
 ## Part 3: How to Avoid Honor X50i Screen Stuck on Boot?
 
 What if you come to know that you can avoid the Honor X50i screen stuck-on boot problem? There are a set of tips and tricks that you can follow to explain how to prevent such an issue in the first place. Follow these tips to learn more about saving your Honor X50i from such miserable conditions:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Protect from Malware
 
@@ -435,9 +451,6 @@ With that, this brings the article on Honor X50i smartphones to a conclusion. If
 
 With all the provided methods, we do hope that you will be able to restore the status of your Honor X50i smartphone and make it functional. For the finest results, you have also discovered Dr.Fone – System Repair (Android) as the best solution for repairing such devices.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -450,9 +463,26 @@ With all the provided methods, we do hope that you will be able to restore the s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamline-control-switch-pro-in-steam-play-for-2024/"><u>[New] Streamline Control Switch Pro in Steam Play for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-iphone-ringtone-updates/"><u>2024 Approved Mastering iPhone Ringtone Updates</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-screen-asymmetry-on-win11-release/"><u>Addressing Screen Asymmetry on Win11 Release</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-level-of-privacy-threats-from-ai-like-chatgpt/"><u>Assessing the Level of Privacy Threats From AI Like ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-4-explored-the-pinnacle-of-social-verification/"><u>ChatGPT-4 Explored: The Pinnacle of Social Verification</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-get-your-laptops-sound-working-again-with-simple-fixes/"><u>Diagnose & Repair: Get Your Laptop's Sound Working Again with Simple Fixes</u></a></li>
+<li><a href="https://win-best.techidaily.com/diagnosing-pc-sluggishness-professional-tips-and-solutions-by-yl-software-experts/"><u>Diagnosing PC Sluggishness: Professional Tips & Solutions by YL Software Experts</u></a></li>
+<li><a href="https://win-net.techidaily.com/free-conversion-of-heic-images-to-jpeg-on-windows-11-using-fonetool-a-comprehensive-guide/"><u>FREE Conversion of HEIC Images to JPEG on Windows 11 Using FoneTool: A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-camon-20-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Camon 20 Pro 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-y36i-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y36i Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-g54-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola G54 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inshot-editing-mastery-in-video-transitions-for-2024/"><u>Inshot Editing Mastery in Video Transitions for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-hub-comprehensive-gadget-reviews-and-benchmarks/"><u>Inside Tom’s Electronics Hub: Comprehensive Gadget Reviews & Benchmarks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-g04-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G04 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nubia-red-magic-9-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nubia Red Magic 9 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola Moto G23 | Dr.fone</u></a></li>
+</ul></div>
 

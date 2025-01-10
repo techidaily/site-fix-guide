@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Lava Yuva 2 Pro Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:55.573Z
-updated: 2024-07-15T06:16:55.573Z
+date: 2025-01-04T17:44:27.281Z
+updated: 2025-01-10T16:48:22.418Z
 tags: 
   - problems
 categories:
@@ -24,9 +24,6 @@ Luckily for your, multiple ways are available to resolve this issue. This articl
 
 Answering what causes Lava Yuva 2 Pro screen unresponsiveness is difficult. Many reasons, ranging from minor bugs to serious hardware issues, can cause it. To find out the exact or near exact reason, you will have to review your device's activity before this issue occurs. You can use the following common reasons behind the ****Lava Yuva 2 Pro 6T touch screen not working**** as the basis of your investigation:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Touchscreen Calibration
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
@@ -42,6 +39,10 @@ The presence of corrupted system files is also a significant cause of such issue
 ### 4\. Conflicting Settings
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: The Common Solutions to Solve a Lava Yuva 2 Pro Screen Unresponsive
 
@@ -112,16 +113,11 @@ Protecting your Lava Yuva 2 Pro device against system issues like touch not work
 
 A new version of Dr.Fone is expected to release in the latter half of this month. The new version will include many improvements, advanced features, and increased device support. Furthermore, it will also have a better and more user-friendly interface.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone phone toolbox](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-8.jpg)
 
 ## Conclusion
 
 To sum up this article, it can be said that issues like ****Lava Yuva 2 Pro not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
-
-
 
 ## Effective Methods on How To Take Viruses Off Your Phone
 
@@ -170,6 +166,10 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![system repair os options](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **iOS Repair** to proceed.
 
 ![dr.fone ios system repair options](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
@@ -193,6 +193,10 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 - **Step 8:** Once the process is completed, choose **Done.** Your phone should be virus-free by now.
 
 ![repair complete](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Using Safe Mode
 
@@ -230,6 +234,10 @@ A [Factory Reset](https://drfone.wondershare.com/factory-reset-protection/bypass
 Generally, the Factory Reset option should be in **Settings > General & Backup and reset** or under **Settings > About phone** for Android devices.
 
 ![miui factory reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 IOS devices should be under **Settings > General > Transfer or Reset iPhone**.
 
@@ -283,6 +291,10 @@ A most effective method to fix Google Play Store not working
 
 ![fix google play store not working by selecting the repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Start fixing Google Play Store not working by clicking "Start". Select and confirm the correct model details as instructed.
 
 ![fix google play store not working in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -308,6 +320,10 @@ A most effective method to fix Google Play Store not working
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## Part 2: Other 10 common methods to fix Google Play Store issues
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Fix Date and Time settings
 
@@ -339,6 +355,10 @@ Step 4 – Now, you can find a screen like below. Tap on “Clear cache” to re
 
 Now, again try to open Google Play Store and you may successfully overcome the Play Store not working issue. If not, check the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Reset Play store by Clear data
 
 If the above solution is not working for you, you might try this option instead. This step will erase all the app data, settings, etc so that it can be set up a fresh one. This will also fix the Google Play store not working issue. For this solution, use the following method step by step.
@@ -349,9 +369,6 @@ Step 2 – Now find “Google Play Store” and open it.
 
 Step 3 – Now, instead of tapping “Clear cache”, tap on “Clear data”. This will erase all the data and settings from the Google Play store.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on “Clear data”](https://images.wondershare.com/drfone/article/2017/06/14985033317238.jpg)
 
 After this, open “Google Play Store” and now your problem might be solved now.
@@ -384,14 +401,15 @@ Step 2 – Upon clicking on this option, you can find “Android device manager�
 
 Step 3 – Now you can be able to uninstall Google play service by going into application manager.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall Google play service](https://images.wondershare.com/drfone/article/2017/06/14985034252357.jpg)
 
 Step 4 – After that, try to open any app that requires Google Play store to open, and that will automatically guide you to install the Google Play service. Now install the updated version of the Google Play service.
 
 After installing, your problem might be solved by now. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Clear Google Service Framework Cache
 
@@ -404,6 +422,10 @@ Step 2 – Here you can find “Google Service Framework”. Open it.
 Step 3 – Now, tap on “Clear cache”. And you are done.
 
 ![tap on “Clear cache”](https://images.wondershare.com/drfone/article/2017/06/14985037595737.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now go back and try to open Google Play store again. This might solve the Google Play Store has stopped the problem by now. If not, check the next solution.
 
@@ -448,8 +470,9 @@ Step 2 – Now, click on ‘Reboot’ or ‘Restart’ option. Your device will 
 After restarting, try to open the Google Play Store again and this time you should succeed. If any case, it's not opening, try the last (but not the least) method by hard reset your Android.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 10\. Hard reset your device
 
 If you have done with all of the above solutions and still Play Store crashing, and you are aggressive to get it, then only try this method. Using this method will delete all the data of your device. So take a backup of the whole. Follow the step by step instruction below.
@@ -466,7 +489,6 @@ This will take a while to reset your device completely. After completion, start 
 
 The above methods are the best 11 among all the solutions you can get for your Play Store not working on wifi or Play Store crashing error. Try one by one and you might get rid of this problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -479,9 +501,20 @@ The above methods are the best 11 among all the solutions you can get for your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-from-average-to-spectacular-mastering-dynamic-range-portraits/"><u>[Updated] From Average to Spectacular Mastering Dynamic Range Portraits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-achieving-financial-gains-via-snapchat/"><u>2024 Approved Achieving Financial Gains via Snapchat</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-70-lite-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor 70 Lite 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-essential-win11-pro-tips-and-hacks/"><u>In 2024, Essential Win11 Pro Tips & Hacks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lenovo-thinkphone-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lenovo ThinkPhone Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-sounds-of-stealth-with-these-tips-for-black-ops-cold-war-on-pc-solved/"><u>Master the Sounds of Stealth with These Tips for Black Ops: Cold War on PC [SOLVED]</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-v27-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo V27 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-nokia-105-classic-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Nokia 105 Classic? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-reno-10-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo Reno 10 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/syncing-sonata-to-still-images-in-the-cyberrealm-for-2024/"><u>Syncing Sonata to Still Images in the Cyberrealm for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-of-assassins-creed-valhalla-immersing-in-a-grand-saga-of-vikings-during-medieval-times/"><u>The Ultimate Review of Assassin's Creed: Valhalla – Immersing in a Grand Saga of Vikings During Medieval Times</u></a></li>
+</ul></div>
 

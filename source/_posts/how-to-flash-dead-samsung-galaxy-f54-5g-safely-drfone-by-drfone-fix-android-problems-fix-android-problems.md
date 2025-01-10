@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Samsung Galaxy F54 5G Safely | Dr.fone
-date: 2024-07-14T06:08:58.022Z
-updated: 2024-07-15T06:08:58.022Z
+date: 2025-01-04T16:24:57.344Z
+updated: 2025-01-10T17:04:24.750Z
 tags: 
   - problems
 categories:
@@ -39,8 +39,6 @@ From battery issues to physical damage to the Samsung Galaxy F54 5G device, ther
 
 While you are worried about how to flash Samsung Galaxy F54 5G instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Samsung Galaxy F54 5G logo.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One-click solution to flash Samsung Galaxy F54 5G
@@ -69,6 +67,10 @@ Step 2: Click ‘Android Repair’ from the available options, and then press th
 
 ![android repair to flash dead phone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: On the Samsung Galaxy F54 5G device information screen, pick the appropriate device brand, name, model, and other details followed by tapping the ‘Next’ button.
 
 ![choose brand info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -88,6 +90,10 @@ Step 1: It is essential to boot your Samsung Galaxy F54 5G in Download mode befo
 Step 2: Press the ‘Next’ button for initiating firmware download.
 
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
@@ -135,9 +141,6 @@ Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA
 
 Finally, once the flashing process is complete, your Samsung Galaxy F54 5G phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to flash MTK Android dead phone with SP Flash tool?
 
 SP Flash tool, also known as SmartPhone Flash tool is a popular freeware tool used to flash custom ROM or firmware in MTK Android phones. It is a very successful tool and is extremely easy to use.
@@ -157,6 +160,10 @@ Step 3: Now, on the SP Flash tool window, click on “Download” and select “
 Step 4: The last step would be to locate the file downloaded by you and click “Open” and then finally, select “Download” on the SP Flash tool window.
 
 ![load the downloaded file](https://images.wondershare.com/drfone/article/2017/07/14991899108318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After completing the above steps, connect your dead device to the PC with a USB cable and wait for it to get recognized. The flashing process will take a few minutes to finish and then you will see a green circle indicating “OK Download”.
 
@@ -202,9 +209,6 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 
 **Step 2:** As the Android boot menu opens on your screen, use the “Volume Down” and “Volume Up” keys to scroll up and down the menu. On accessing the “Wipe Data/Factory Reset” option, use the “Power” key to select the particular option.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose wipe data factory reset option](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-1.jpg)
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
@@ -224,8 +228,9 @@ Another solution that can help you fix the dead Android phone is changing its ba
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 9: How to repair dead Android phone by contacting official support
 
 If you are unable to discover any proper solution for **how to flash dead Android phones,** you might have to consult the respective customer support of the Android phone manufacturers. Consult customer support to discover why the phone is dead and how it can be flashed. The respective personnel will assist you in resolving the issue, which might require monetary input from your side.
@@ -259,8 +264,6 @@ If you cannot find any reason why your Samsung Galaxy F54 5G will not switch on,
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -315,6 +318,10 @@ Wait for the program to finish scanning the phone – once completed, you will b
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ShpCFggyBvs"></iframe>
 
 ## Part 3: Android Phone Won't Turn On: **One Click Fix**
@@ -322,8 +329,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -413,7 +418,6 @@ You might find lots of people online stating I can't receive text messages on An
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
 
-
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
 The most common symptoms that would clarify that your Android messaging service is not working right are given below:
@@ -434,6 +438,10 @@ The reasons why your Android is not receiving texts are given below:
 
 Apart from all these reasons, some additional causes are also there that can lead to this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: One-click to Fix Android not Receiving Texts by Android System Repair
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/06HDyPDOBqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
@@ -441,8 +449,6 @@ Apart from all these reasons, some additional causes are also there that can lea
 If you are not willing to waste your precious time fixing the message problem, then you can switch to the top-rated Android repair tool, i.e., [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). With this software, you can easily fix issues like the black screen of death, crashing apps, can't receive text messages on Android, or failed download. If you have no idea what is causing the message app problem, you can simply think of repairing the whole Android system.
 
 You surely need to try the software as it can perform the following tasks:
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -464,9 +470,6 @@ Step 1: Launch the application and choose the System Repair option from the main
 
 Step 2: You will have to provide information about your device, including the brand, name, model, country, and carrier. In between, you will be notified that your device repair might erase the existing data of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android not receiving texts - provide info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 3: Agree with the conditions and hit the Next button. The software will download the firmware package automatically. It might take a while to finish the download, and when it is finished, the repair process will be initiated automatically.
@@ -475,12 +478,13 @@ Step 3: Agree with the conditions and hit the Next button. The software will dow
 
 It won’t take long, and your Samsung Galaxy F54 5G will be repaired. Now you will be able to receive and send text messages without any hassle.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Remove and Insert the SIM
 
 The easiest thing that you can try if your Samsung Galaxy F54 5G is not receiving any text messages is because the SIM is not inserted right. If your SIM card is inserted wrong, then it is obvious you can't receive text messages on Android. Simply take out the SIM card, see how it must be inserted, and do it correctly. Once the SIM is inserted in the right way, you will receive the pending text messages immediately unless there is another issue preventing it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Check Network Connection
 
@@ -505,6 +509,10 @@ In smartphones, the memory space often gets filled up with cache. And not everyo
 Step 1: Open the Settings and go to Apps. Find the Messages app from the list and tap to open it. There you will see the storage occupied by the app along with the cache.
 
 ![android not receiving texts clear cache](https://images.wondershare.com/drfone/article/2019/02/clear-message-cache.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Click on the Clear Cache button and wait as the Samsung Galaxy F54 5G device free up the memory of your device.
 
@@ -538,7 +546,15 @@ Taking the iPhone in hand makes sure that you are connected to a network. Open s
 
 ![android not receiving texts - check iphone message](https://images.wondershare.com/drfone/article/2019/02/deactivate-imessages.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the FaceTime option is also on, you might have to deactivate that too to send messages and calls as regular ones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 11: Update Your Android
 
@@ -547,9 +563,6 @@ Updating the operating system to the latest Android version can fix some system 
 ### Conclusion
 
 Now you know several methods that can work if the Android messaging app is not working.  If you experience this kind of issue with your Samsung Galaxy F54 5G, then you are most likely to resolve them with these fixes. If none of the solutions seem to fix the issue, then you can take the help of Dr. Fone - System Repair (Android) feature. With this tool, you can resolve all kinds of working issues on your device.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -563,9 +576,21 @@ Now you know several methods that can work if the Android messaging app is not w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nhancing-youtube-presence-with-strategic-banners-for-2024/"><u>[New] Enhancing YouTube Presence with Strategic Banners for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-best-4k-hdtv-monitors-for-gameplay-excellence/"><u>[Updated] In 2024, Best 4K HDTV Monitors for Gameplay Excellence</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-zero-dollars-free-techniques-for-desktop-snaps-for-2024/"><u>[Updated] Zero Dollars Free Techniques for Desktop Snaps for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-run-windows-11-on-an-old-pc-with-windows-to-go-and-rufus/"><u>How to Run Windows 11 on an Old PC With Windows To Go and Rufus</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-2-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze 2 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-taskbar-date-and-clock-adjustments/"><u>Master Taskbar Date & Clock Adjustments</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-realme-c51-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Realme C51 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-s17-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo S17 Black and White | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/recovering-lost-files-from-erased-drives-a-guide-to-restoring-data-after-partition-deletion/"><u>Recovering Lost Files From Erased Drives: A Guide to Restoring Data After Partition Deletion</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-rankings-expert-review-of-2024s-most-efficient-mesh-network-devices/"><u>The Ultimate Rankings: Expert Review of 2024'S Most Efficient Mesh Network Devices</u></a></li>
+</ul></div>
 

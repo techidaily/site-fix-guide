@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Google Pixel 8 Pro Screen Not Working | Dr.fone
-date: 2024-07-14T06:15:44.276Z
-updated: 2024-07-15T06:15:44.276Z
+date: 2025-01-05T17:49:25.958Z
+updated: 2025-01-10T18:46:24.722Z
 tags: 
   - problems
 categories:
@@ -24,9 +24,17 @@ Luckily for your, multiple ways are available to resolve this issue. This articl
 
 Answering what causes Google Pixel 8 Pro screen unresponsiveness is difficult. Many reasons, ranging from minor bugs to serious hardware issues, can cause it. To find out the exact or near exact reason, you will have to review your device's activity before this issue occurs. You can use the following common reasons behind the ****Google Pixel 8 Pro 6T touch screen not working**** as the basis of your investigation:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Touchscreen Calibration
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Battery Issue
 
@@ -40,12 +48,13 @@ The presence of corrupted system files is also a significant cause of such issue
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: The Common Solutions to Solve a Google Pixel 8 Pro Screen Unresponsive
 
 Fixing the ****Google Pixel 8 Proscreen not working**** is easy as long as it is not a serious hardware issue. While there are multiple ways to solve this problem, we have chosen the 6 most common and easy solutions. Listed below are the 6 common solutions to solve a Google Pixel 8 Pro screen unresponsive:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1. Restart the Google Pixel 8 Pro Phone
 
@@ -53,9 +62,6 @@ As with any other issue or device, the first fix you should always try first is 
 
 ****Instruction:**** Press and hold the “Power” button for a couple of seconds until it turns off. Wait a few moments and then use the “Power” button to turn on the Google Pixel 8 Pro device. In some of the Google Pixel 8 Pro devices, you also have to use the “Volume Down” button along with the “Power” button to restart the Google Pixel 8 Pro device.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
 
 ### Solution 2. Check the Charging Port and Battery
@@ -84,6 +90,10 @@ A common reason for ****Google Pixel 8 Pro Nord being stuck on the loading scree
 
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
@@ -98,9 +108,6 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
 
 ### Solution 6. Replace the Old Screen with A New Screen
@@ -125,8 +132,9 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 To sum up this article, it can be said that issues like ****Google Pixel 8 Pro not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is My Google Pixel 8 Pro Offline? Troubleshooting Guide
 
 Ever had your Google Pixel 8 Pro claim it's offline, leaving you scratching your head about where it went wrong? We get it; it's confusing. That's why this article is here to untangle the mystery.
@@ -213,6 +221,10 @@ How to restart your Wi-Fi router:
 
 These solutions should cover the most common connectivity issues. If the problem persists, we'll explore further steps in the following sections.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How To Fix “Phone Offline” Despite Having an Internet Connection
 
 Ever found it odd to receive the frustrating offline error message when you're sure your internet connection is up and running? If you've double-checked your internet connection and your phone still says it's offline, the issue may lie within your browser, apps, or device settings.
@@ -246,6 +258,14 @@ How to re-install Google Chrome:
 - **Step 4:** Once the installation is complete, open Google Chrome and check if the offline error persists while browsing.
 
 ![Re-install Google Chrome on Google Play Store](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Repair the system to fix the phone showing offline
 
@@ -289,6 +309,10 @@ Follow the instructions to put your Google Pixel 8 Pro into Download Mode. Once 
 
 ![Activate Download mode to download the firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Confirm Installation
 
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Click Done once it is completed and see if your Android is back online.
@@ -310,8 +334,6 @@ It can occur while you launch the app or while you’re in the app already findi
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -395,9 +417,6 @@ As we know the cache memories are the temporary files build by the firmware. The
 
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the Google Pixel 8 Pro device.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.4 Disable Google+ app
 
 The root cause for detecting any problem is not very easy. You never know the overloading of Google + application might have directly impacted contacts app crashes. To resolve it, disabling it may prove to be a helpful solution. Here is the quick reference for disabling Google+ application.
@@ -423,6 +442,10 @@ Many a times, we skip updating our device software thinking it is of less import
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.6 Reset App Preferences
 
@@ -467,9 +490,6 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -482,9 +502,24 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-captivatescreen-scrutiny-platform-for-2024/"><u>[New] CaptivateScreen Scrutiny Platform for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-interactive-subscription-buttons-filmoras-guide-to-animated-sign-up-bars/"><u>[New] In 2024, Interactive Subscription Buttons - Filmora's Guide to Animated Sign-Up Bars</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-flamboyant-snaps-techniques-for-lasting-snapstreaks-for-2024/"><u>[Updated] Flamboyant Snaps Techniques for Lasting Snapstreaks for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-twitter-archives-for-analysis/"><u>[Updated] Mastering Twitter Archives for Analysis</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/download-pro-bono-photo-restoration-app-revive-damaged-images-at-no-cost/"><u>Download Pro-Bono Photo Restoration App: Revive Damaged Images at No Cost</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-spark-20c-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Spark 20C Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-gt-10-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix GT 10 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-gt-5-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme GT 5 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-adding-pizzazz-to-your-footage-with-moving-text/"><u>In 2024, Adding Pizzazz to Your Footage with Moving Text</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-magic-6-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor Magic 6 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-edge-40-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Edge 40 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-find-x6-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Find X6 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-spark-10-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Spark 10 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-g24-power-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola G24 Power Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamline-access-6-leading-free-and-on-demand-youtube-short-downloader-tools/"><u>Streamline Access 6 Leading Free & On-Demand YouTube Short Downloader Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-wealth-route-in-periscope-streaming-for-2024/"><u>Unveiling the Wealth Route in Periscope Streaming for 2024</u></a></li>
+</ul></div>
 

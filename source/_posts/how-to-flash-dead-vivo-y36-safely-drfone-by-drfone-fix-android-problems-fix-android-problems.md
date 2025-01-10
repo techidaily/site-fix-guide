@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead Vivo Y36 Safely | Dr.fone
-date: 2024-07-14T06:10:02.486Z
-updated: 2024-07-15T06:10:02.486Z
+date: 2025-01-09T18:53:27.976Z
+updated: 2025-01-10T18:01:18.145Z
 tags: 
   - problems
 categories:
@@ -27,14 +27,8 @@ Given below are eight techniques to flash your Vivo Y36 safely, depending upon w
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ZqS8c3T65WI"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Can a Dead Phone Be Flashed?
 
 Flashing a dead Android phone might be skeptical for many users who have been in such a situation. Although it is possible to flash a dead Android phone, it is essential to be aware of the reasons that lead you into such a situation. Before a remedy, diagnosing the problem is a necessity for retaining the Vivo Y36 device.
@@ -44,8 +38,6 @@ From battery issues to physical damage to the Vivo Y36 device, there can be many
 ## Part 2: How to flash Vivo Y36 in one click
 
 While you are worried about how to flash Vivo Y36 instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Vivo Y36 logo.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -161,6 +153,10 @@ Step 4: The last step would be to locate the file downloaded by you and click �
 
 ![load the downloaded file](https://images.wondershare.com/drfone/article/2017/07/14991899108318.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After completing the above steps, connect your dead device to the PC with a USB cable and wait for it to get recognized. The flashing process will take a few minutes to finish and then you will see a green circle indicating “OK Download”.
 
 That's it! Now simply disconnect your phone and wait for it to reboot.
@@ -209,6 +205,10 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: How to flash a dead Android phone by checking screen faulty
 
 The screen of your Vivo Y36 may be faulty, due to which it is not launching. While seeking the right way of **how to fix a dead Android phone,** you can force restart your phone using the Volume buttons according to your device model.
@@ -217,11 +217,19 @@ If the Android vibrates on restarting and the screen does not lighten up, the pr
 
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8: How to fix a dead Android phone by changing the battery
 
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your Vivo Y36, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
 
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 9: How to repair dead Android phone by contacting official support
 
@@ -234,8 +242,6 @@ A dead Android phone might be the cause of worry, but the techniques given above
 It has been observed that Wondershare Dr.Fone – System Repair (Android) assists in the best way. Resolve all your concerns involving your dead Android phone and flash it to make it operable again.
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
-
-
 
 ## Quick Fixes for Why Is My Vivo Y36 Black and White
 
@@ -320,9 +326,6 @@ Repair Android System Errors without Any Trouble.
 
 - **Step 1:** Download and install Dr.Fone. Launch the program and click on **System** **Repair** on the main window. Connect your Vivo Y36 to the computer using the correct cable. Choose **Android** among the options.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![dr.fone android repair window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
@@ -340,6 +343,10 @@ Repair Android System Errors without Any Trouble.
 - **Step 4:** After a while, your Vivo Y36 will have all system issues fixed. Click **Done** to complete the process or choose **Try** **again** if the problem persists, allowing you to repeat the steps.
 
 ![dr.fone done repairing window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note**
 
@@ -475,6 +482,10 @@ Step 1: Launch the app switcher on your specific Android device the way your dev
 
 Step 2: Next, you can choose to close just the camera app or, better yet, close all apps by tapping the Close All button. Flicking any app upwards (quick upward swipe) is how you close an app. If there is no Close All button anywhere, repeat the gesture for all open apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.III: Check App Permissions
 
 These days, thanks to strides in the privacy initiatives, apps need permissions before they can function the way they do. Most of the times, apps such as camera do have the necessary permissions, but sometimes it is possible that the permissions are set incorrectly. To check if the camera app has the requisite permissions, do the following:
@@ -490,8 +501,9 @@ Step 2: Tap Camera.
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### II.IV: Clear The Camera App Cache
 
 Clearing the camera app cache is sometimes helpful. To do that:
@@ -520,9 +532,6 @@ This does not happen always, but sometimes, with known bugs and issues, there ma
 
 Step 1: Go to Play Store and tap your profile picture on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google play store app updates](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-9.jpg)
 
 Step 2: Tap Manage Apps and Device.
@@ -565,6 +574,10 @@ Step 3: For now, don’t bother with the scenarios given and click Start to go t
 
 ![drfone system repair android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Your Android device will be detected by Dr.Fone. If anything seems incorrect, use the dropdown options to change it, and click Next.
 
 ![android system repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -577,6 +590,10 @@ Step 6: Dr.Fone automatically downloads the most recent firmware for your device
 
 ![fix android camera not working](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000) to confirm and begin the repair process.
 
 ![confirm android firmware repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -587,10 +604,13 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -604,9 +624,23 @@ The camera app on your smartphone is one of the most important apps you use. Thi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/igital-broadcasting-battle-comparing-facebook-live-youtube-live-and-twitter-spaces/"><u>[New] Digital Broadcasting Battle Comparing Facebook LIVE, YouTube Live, & Twitter Spaces</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-master-the-art-of-subtitling-a-brief-blueprint-for-your-fb-video-uploads/"><u>[New] Master the Art of Subtitling A Brief Blueprint for Your FB Video Uploads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-highlighted-20-anime-melodies-at-start/"><u>[Updated] Highlighted 20 Anime Melodies at Start</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-seamless-skype-call-recordings-a-cross-platform-approach/"><u>2024 Approved Seamless Skype Call Recordings A Cross-Platform Approach</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-ultimate-selection-of-high-performance-gaming-mousepads/"><u>2024'S Ultimate Selection of High-Performance Gaming Mousepads</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/2024youtube-7/"><u>2024年度最高のYouTubeダウンローダー: 強力な7つの無料配信ソフト推奨！</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/download-gratuiti-protetta-immagini-window-11-sicurezza-e-privacy-dei-tuoi-dati/"><u>Download Gratuiti Protetta Immagini Window 11 - Sicurezza E Privacy Dei Tuoi Dati</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-reno-10-pro-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo Reno 10 Pro 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-a05s-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel A05s Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a78-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A78 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-f34-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy F34 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-youtube-sound-issues-in-windows-10-a-step-by-step-guide/"><u>Resolving YouTube Sound Issues in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-defy-2-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Defy 2 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 

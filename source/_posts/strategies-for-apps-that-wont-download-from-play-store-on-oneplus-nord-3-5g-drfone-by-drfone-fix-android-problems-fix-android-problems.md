@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On OnePlus Nord 3 5G | Dr.fone
-date: 2024-12-30T17:52:42.307Z
-updated: 2025-01-03T18:32:10.726Z
+date: 2025-01-09T17:49:14.783Z
+updated: 2025-01-10T18:35:38.375Z
 tags: 
   - problems
 categories:
@@ -25,6 +25,10 @@ The inconvenience can impact user trust and the overall perception of an app's r
 The reasons below collectively contribute to the frustration users experience when apps are **unable to download from the Play Store**:
 
 ![confused about apps not downloading](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Connectivity Issues
 
@@ -100,10 +104,6 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![dr.fone choosing a device type](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Follow the on-screen instructions until the app downloads the correct firmware for your device. As it downloads, Dr.Fone will verify it and put your device details on display. You can [<u>install the firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) on your OnePlus Nord 3 5G by choosing **Fix Now**.
 
 ![dr.fone firmware download successfully](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
@@ -116,10 +116,6 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 ![dr.fone completion message window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part IV. 8 Other Methods of Resolving Common App Downloading Issues
 
@@ -148,7 +144,7 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Verify Google Account
@@ -163,6 +159,10 @@ Incorrect date and time settings may disrupt the authentication process. Verify 
 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Review Download Restrictions
 
 Device settings or parental controls might impose restrictions on certain app downloads. Examine the download restrictions in the OnePlus Nord 3 5G device settings and adjust them accordingly to allow for the installation of desired apps.
@@ -172,10 +172,6 @@ Device settings or parental controls might impose restrictions on certain app do
 ### Restart the OnePlus Nord 3 5G device
 
 Sometimes, a simple restart can resolve various issues. Power off your device, wait a few seconds and then power it back on. This can help refresh system processes and eliminate temporary glitches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -191,9 +187,17 @@ Moreover, this article will introduce you to the world of **OnePlus Nord 3 5G un
 
 ![samsung bricked](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Understanding Bricked OnePlus Nord 3 5G
 
 Have you ever heard the term "bricked" concerning your OnePlus Nord 3 5G device? This section explains it to you in simple terms. Imagine your device becoming like a brick, unresponsive and seemingly lifeless. That's what happens when a **OnePlus Nord 3 5G gets bricked**. There are two main types of brick: soft brick and hard brick.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soft Brick
 
@@ -201,6 +205,10 @@ Soft brick is like a temporary setback for your device. To see if your **OnePlus
 
 - It happens when the software encounters issues, but the hardware is usually fine.
 - Your device might not start properly, [<u>freeze</u>](https://drfone.wondershare.com/iphone-problems/fix-iphone-freezing-after-updating-to-ios-17.html), or [<u>get stuck on the logo screen</u>](https://drfone.wondershare.com/iphone-recovery/iphone-stuck-at-the-apple-logo.html).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Hard Brick
 
@@ -238,6 +246,10 @@ Now that you've grasped the concept, let's dive into how to **unbrick a OnePlus 
 Dr.Fone - System Repair (Android) is like a magic wand for your OnePlus Nord 3 5G device. It's designed to rescue your device from troubles and make it run smoothly again. Dr.Fone - System Repair (Android) is built to  fix various issues, including a bricked device. It can resolve problems like [<u>black screens</u>](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html), frozen devices, boot loops, and even devices stuck in recovery mode.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -285,10 +297,6 @@ This tutorial will show you how Dr.Fone can remove the **brick from a OnePlus No
 
 ![wondershare drfone android system repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,001,177** people have downloaded it
@@ -297,23 +305,19 @@ This tutorial will show you how Dr.Fone can remove the **brick from a OnePlus No
 
 ![start drfone start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** When you click through to the next window, the service will automatically recognize the manufacturer of the Android device. Choose the appropriate **Brand**, **Name**, **Model**, **Country**, and **Carrier** from the drop-down menus. Select **OPEN** in the **Carrier** area if the phone is unlocked. The next step is to tick the box labeled **I accept the risk and am ready to continue**. Click **Next** to proceed with the rest of the OnePlus Nord 3 5G device repair.
 
 ![drfone android device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Put your OnePlus Nord 3 5G into **Download Mode** when prompted.
 
 - If your phone has a home button, follow the on-screen prompts to power it down. Keep pressing and holding the Volume Down, Home, and Power Then, press the Volume Upbutton to activate the **Download Mode**.
 
 ![drfone phone with home button android](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - If your Android doesn't have a Home button, you may still use it byturning it off and pressing the Volume Down, Bixby, and Power buttons simultaneously. Repeatedly pressing the Volume Up button will activate Download Mode.
 
@@ -322,10 +326,6 @@ This tutorial will show you how Dr.Fone can remove the **brick from a OnePlus No
 - **Step 5:** The firmware download starts on the platform immediately after the OnePlus Nord 3 5G device enters **Download Mode**. You can click **Stop** to abort it at any stage during the process. The platform then verifies and presents the information as it downloads. By selecting **Fix Now**, you can install the firmware.
 
 ![drfone fix now android](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 6:** The Android repair procedure may delete all of your data. To proceed, please type "000000" in the box provided. The system repair process will begin, and its status can be viewed in the next screen's progress bar.
 
@@ -389,6 +389,10 @@ As for its advantages, see the list below:
 Check below to learn about this app's drawback:
 
 - Advanced issues might require professional intervention.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### <u>Phone Doctor Plus</u>
 
@@ -520,6 +524,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 - **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
 
 ![fix your android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 10:** Type “**000000**” in the dialog box and click **Confirm**.
 
@@ -654,10 +662,6 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 9. Reinstall Spotify
 
 There’s another solution if the Spotify app keeps crashing. You can try uninstalling and reinstalling it again on your Android. That will reset the app and might solve your problem. Follow the next steps to reinstall Spotify:
@@ -714,10 +718,6 @@ When using different apps and websites, your device caches data from those sourc
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If your Spotify app keeps crashing, several reasons might be behind it. For instance, your storage space might be at capacity, your system might need an update, your phone might have a software bug, or the Spotify server might be down.
@@ -738,17 +738,18 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-virtual-room-recordings-desktop-and-mobile-tips/"><u>[Updated] 2024 Approved Virtual Room Recordings Desktop & Mobile Tips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-expert-tips-for-crafting-viral-twitter-campaigns/"><u>[Updated] Expert Tips for Crafting Viral Twitter Campaigns</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-captivating-hdr-portraits-for-the-art-enthusiast/"><u>2024 Approved Captivating HDR Portraits for the Art Enthusiast</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-key-to-dynamic-dandd-storytelling/"><u>ChatGPT, the Key to Dynamic D&D Storytelling</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-premium-7-video-gear-ideas-for-captivating-vloggers/"><u>In 2024, Premium 7 Video Gear Ideas for Captivating Vloggers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-infinix-note-30-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Note 30 Pro Black and White | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/techniques-to-amplify-engagement-on-instagram-content-for-2024/"><u>Techniques to Amplify Engagement on Instagram Content for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-12-unique-presents-perfect-for-any-hackers-sweet-tooth-recommendations-from-zdnet/"><u>Top 12 Unique Presents Perfect for Any Hacker's Sweet Tooth: Recommendations From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-unexplained-failures-in-vision-pro-services-a-guide-on-how-to-respond-when-things-go-awry/"><u>Understanding Unexplained Failures in Vision Pro Services: A Guide on How To Respond When Things Go Awry</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-guidelines-to-broaden-youtube-content-area-for-2024/"><u>[New] Guidelines to Broaden YouTube Content Area for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-illustrator-guide-to-dynamic-text-art/"><u>[New] The Illustrator Guide to Dynamic Text Art</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-scripted-to-spontaneous-elevating-reactions-for-youtube-success-3-steps/"><u>[Updated] In 2024, From Scripted to Spontaneous Elevating Reactions for YouTube Success (3 Steps)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-transitioning-video-content-into-stills-with-windows-11-for-2024/"><u>[Updated] Transitioning Video Content Into Stills with Windows 11 for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-15-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 15 Pro Max to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-3-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord 3 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-the-top-5-avchd-video-editing-software-for-2024/"><u>New Unleash Your Creativity The Top 5 AVCHD Video Editing Software for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-12-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 12 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-lava-yuva-3-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Lava Yuva 3? 7 Ways to Resolve | Dr.fone</u></a></li>
 </ul></div>
 

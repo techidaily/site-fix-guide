@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Honor Magic 5 Screen Not Working | Dr.fone
-date: 2024-07-14T06:15:57.538Z
-updated: 2024-07-15T06:15:57.538Z
+date: 2025-01-09T16:59:42.743Z
+updated: 2025-01-10T18:06:52.352Z
 tags: 
   - problems
 categories:
@@ -72,9 +72,6 @@ A common reason for ****Honor Magic 5 Nord being stuck on the loading screen****
 
 ****Step 1:**** Turn off your device by pressing and holding the “Power” button. Once it is turned off, press and hold the “Power” and “Volume Down” buttons until you see the Honor Magic 5 logo.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wait for oneplus logo](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-3.jpg)
 
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
@@ -113,6 +110,10 @@ Protecting your Honor Magic 5 device against system issues like touch not workin
 A new version of Dr.Fone is expected to release in the latter half of this month. The new version will include many improvements, advanced features, and increased device support. Furthermore, it will also have a better and more user-friendly interface.
 
 ![dr.fone phone toolbox](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -154,9 +155,6 @@ It’s not really hard to tell why your Honor Magic 5 is slow because it’s app
 
 It’s great to have an Android phone that can flawlessly multi-task. However, not all units can handle that well. As mentioned earlier, it depends on the CPU core count and the core’s clock speed. If your Honor Magic 5 is running slow and freezing, many processes may be happening at the same time. Your device’s cores and clock speed are potentially incapable of executing such demands.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Your Phone is Running Out of Storage
 
 Mobile apps need to save data on your phone. They perform the tasks based on the data stored on the Honor Magic 5 device. So if your Honor Magic 5 is slow, it’s possible that your device is already running out of storage. Each app has its own storage requirement. If your phone goes below that, the app will surely crash and not work.
@@ -168,6 +166,10 @@ You can modify the Honor Magic 5 device’s animation type and speed on your Hon
 ### You’re Using an Outdated Android Version
 
 If your Honor Magic 5 is running slow and freezing, the Honor Magic 5 device’s software is probably outdated. The mobile apps installed on your device are lagging or crashing because they’re no longer compatible with the OS. It happens most of the time. Hence, always watch out for OS updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Your Phone is Experiencing Some System Issues
 
@@ -263,9 +265,6 @@ _Here’s how to reset your Honor Magic 5 to factory settings:_
 - **Step 5:** Your Android phone will inform you about the data that will be deleted from this procedure. From there, click **Reset Phone.**
 - **Step 6:** Your Android device will ask you to confirm the procedure. From there, click **Erase Everything.**
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset to factory settings](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-6.JPG)
 
 ### Solution 6: Fix the System Issue Using Wondershare Dr.Fone
@@ -297,6 +296,10 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** Thereafter, the details about the newly downloaded firmware package will be displayed on the screen. From there, click **Fix Now.**
 
 ![new firmware is ready](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
@@ -313,6 +316,10 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3,660,347** people have downloaded it
 
 ## Conclusion
@@ -328,6 +335,10 @@ Phones shutting off problem not only disrupts your work but also tests your pati
 We often hear Android users ask for solutions for this problem at different forums. If you are one of them and clueless about why My Honor Magic 5 keeps shutting off, here are ways that can help you.
 
 So the next time you ask, “Why does My Honor Magic 5 keep shutting off?”, refer to this article and follow the techniques given hereunder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Possible reasons for phone turning off by itself
 
@@ -368,6 +379,14 @@ Apart from tackling the Android phone keeps turning off the issue, it can also r
 Your trouble with ‘why does My Honor Magic 5 keep shutting off?’ can be resolved easily using Dr.Fone - System Repair (Android). But, before that, you need to ensure that [the Android device has been backed up properly](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to eliminate the risk of data erasing.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -427,9 +446,6 @@ To update the software on your Honor Magic 5, follow these steps:
 
 Go to "Settings" on your Honor Magic 5 and navigate to the "System" or "Software Update" section (the exact wording may vary depending on your device model and Android version). Look for the option to "Check for updates" to see if any new software updates are available.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update software](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off.jpg)
 
 ## Part 5: Cool down your phone to avoid your phone keeps turning off
@@ -440,6 +456,10 @@ To prevent the phone from turning off due to overheating, you can take various m
 
 ![cool down the phone](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: Narrow down the randomly turning off issue in Safe Mode
 
 Starting your phone in Safe Mode is a good way to narrow down whether or not the problem is occurring because of some heavy and incompatible Apps as Safe Mode allows only built-in Apps to function. If you can use your phone in Safe Mode, consider deleting the unnecessary Apps which may be burdening the phone’s processor.
@@ -448,9 +468,6 @@ To boot into Safe Mode:
 
 Long press the power button to see the following options on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![device options](https://images.wondershare.com/drfone/article/2017/07/14994529157169.jpeg)
 
 Now tap on “Power Off” for about 10 seconds and click “OK” on the message that pops-up as shown below.
@@ -469,7 +486,9 @@ That's all. Well, booting to Safe Mode is easy and it also helps you to identify
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a great way to back up all your data to prevent it from getting lost after resetting the phone. It works brilliantly as it backs up all data and allows users to retrieve it fully or selectively. You can backup all files from your Android to PC in just a click and restore them later. Try this software for free before purchasing it to understand it's working better. It does not tamper with your data and only requires you to follow the simple steps given below to backup your Android data:
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Wondershare Dr.Fone
 
@@ -495,6 +514,10 @@ Now connect the Android phone to the PC and make sure that USB debugging is turn
 You will see the file types that will be backed up. Wait for the backup process to complete.
 
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There you go, you have successfully backed up data.
 
@@ -526,9 +549,6 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -541,9 +561,20 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unveiling-the-premium-our-rankings-for-best-gopro-casings/"><u>[New] 2024 Approved Unveiling the Premium Our Rankings for Best GoPro Casings</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-comprehensive-examination-of-srts-key-features-for-2024/"><u>[New] Comprehensive Examination of SRT's Key Features for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-essential-tweets-de-following-aids-the-ultimate-list/"><u>[New] In 2024, Essential Tweets De-Following Aids The Ultimate List</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-pushing-boundaries-with-photomosaic-artistry/"><u>[New] In 2024, Pushing Boundaries with PhotoMosaic Artistry</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-kazam-screen-recorder-features-guide-review/"><u>[Updated] In 2024, Kazam Screen Recorder Features| Guide| Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-streamlining-your-subtitle-workflow-with-leading-online-tools/"><u>[Updated] Streamlining Your Subtitle Workflow with Leading Online Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-9-listing-best-virtual-microphones-recorders-2023-for-2024/"><u>[Updated] Ultimate 9 Listing Best Virtual Microphones Recorders 2023 for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-13t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi 13T Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-creating-backward-videos-using-snapchats-features/"><u>Step-by-Step Tutorial: Creating Backward Videos Using Snapchat's Features</u></a></li>
+</ul></div>
 

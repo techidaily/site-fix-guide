@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on Nubia Red Magic 8S Pro | Dr.fone
-date: 2024-07-14T06:12:23.129Z
-updated: 2024-07-15T06:12:23.129Z
+date: 2025-01-05T17:32:36.388Z
+updated: 2025-01-10T16:34:53.981Z
 tags: 
   - problems
 categories:
@@ -30,13 +30,15 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 
 ## Part 2. 9 fixes for Bluetooth not working on Android
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 One click to fix Android Bluetooth issues due to Android system
 
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your Nubia Red Magic 8S Pro. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -104,6 +106,10 @@ By clearing the cache, you can restart the service and hopefully clear up any is
 
 ![android bluetooth problems - remove paired devices](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-paried.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sometimes, you may have a problem with the Nubia Red Magic 8S Pro device you’re trying to connect to via Bluetooth, especially if this is a device you’ve updated. To counter and repair this, you’re going to need to remove the paired devices saved with your device and then reconnect them.
 
 Here’s how;
@@ -117,6 +123,10 @@ Here’s how;
 
 ![android bluetooth problems - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-safemode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you’re having problems with your connection and paired devices, sometimes you may have conflicting software faults in your device that are causing the problems. If this is the case, you’ll need to boot your Nubia Red Magic 8S Pro in Safe Mode.
 
 This is an operating state in which your phone will run the bare minimum services it needs to perform. If your Bluetooth works in Safe Mode, you know you have an app or a service that’s causing the problem.
@@ -128,6 +138,10 @@ Here’s how to find out;
 3. The phone will automatically boot into Safe Mode
 4. Wait a minute on the Main Menu
 5. Now turn on your Bluetooth and connect it to your preferred device
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.6 Turn on the discoverable feature
 
@@ -163,11 +177,12 @@ One of the common misconceptions of Bluetooth is just how far the wireless range
 
 The further away the Nubia Red Magic 8S Pro devices are from each other, the less likely the connection will remain secure. As a rule of thumb, Bluetooth can work up to 100 meters, but to play it safe, always try and keep your devices under 50m apart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.9 Avoid interference of other Bluetooth sources
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - avoid interference](https://images.wondershare.com/drfone/article/2019/04/bluetooth-device-interference.jpg)
 
 The final consideration you’ll want to think about is that Bluetooth radio waves, or wireless waves, can interfere with each other. This means they can bounce off each other or get muddled up and make things confusing from your devices.
@@ -175,8 +190,6 @@ The final consideration you’ll want to think about is that Bluetooth radio wav
 With this in mind, you’ll want to make sure you’re limiting the amount of Bluetooth activity in the area where you’re trying to use a device. While uncommon, this could be the problem.
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your Nubia Red Magic 8S Pro to the Nubia Red Magic 8S Pro device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
-
-
 
 ## 11 Ways to Fix it When My Nubia Red Magic 8S Pro Won't Charge
 
@@ -193,8 +206,6 @@ So if you're still thinking about why won't My Nubia Red Magic 8S Pro charge, re
 While you are upset over ‘why My Nubia Red Magic 8S Pro won't charge?’, would you mind us helping you around?
 
 Well, we have got [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) at your fingertips to get rid of this annoying phone won't charge issues (caused by system corruption). Whether the Nubia Red Magic 8S Pro device froze or became unresponsive, bricked, or got stuck on the Nubia Red Magic 8S Pro logo/blue screen of death or apps started crashing. It can fix every Android system problem.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -224,6 +235,10 @@ Step 3: Mention the detailed information about your Nubia Red Magic 8S Pro under
 
 ![enter android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Phase 2: Get to ‘Download’ mode for repairing the Nubia Red Magic 8S Pro device**
 
 Step 1: It’s essential that you put the Android device under ‘Download’ mode to resolve the phone won't charge the issue. Here comes how to do –
@@ -242,9 +257,6 @@ Step 2: Click ‘Next’ to start downloading the Android firmware.
 
 Step 3: Now, Dr.Fone - System Repair (Android) would verify the firmware and then start repairing the Android system on its own. It will ultimately fix your ‘why won't My Nubia Red Magic 8S Pro charge’ trouble.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android phone won’t charge issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 2. 10 common ways to fix Android won't charge
@@ -257,6 +269,10 @@ It is also very commonly observed that the charging end of the cable which gets 
 
 ![charging cable](https://images.wondershare.com/drfone/article/2017/06/14985459762305.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Check/clean charging port
 
 The charging port in your device is a small opening where the charging end of the cabbie is inserted for the current to flow to the phone/tablet. Very often, we notice that the charging port gets blocked with tiny particles of dirt. The charging port might also get clogged if dirt and dust get accumulated in it, preventing the sensors from receiving and forwarding the current to the Nubia Red Magic 8S Pro device.
@@ -267,9 +283,6 @@ The best way to take this problem is to clean the port with a blunt pin or a sof
 
 ![clean charging port](https://images.wondershare.com/drfone/article/2017/06/14985460097930.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Check/replace charging adapter
 
 This method is fairly simple, and all you need to do is check whether or not the charging adapter is working properly as sometimes, the adapter itself is to be blamed for the charge. To make sure that you are not using a defective adapter, connect your charging cable/USB to another adapter. If your device charges normally, it means there is a problem is with your adapter, and you must replace it at the earliest to solve My Nubia Red Magic 8S Pro won't charge the issue.
@@ -327,6 +340,10 @@ Installing your Android version updates is a good idea as the software is the in
 To check for and install updates on your device, you must be connected to WiFi or a cellular network. Next, visit “Settings” and select “About device”. Now click on “Software Update”.
 
 ![android software update](https://images.wondershare.com/drfone/article/2017/06/14985460584295.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If there is an update available, you will be prompted to download it. Just follow the instructions given before you install a brand new Android OS version on your device.
 
@@ -388,14 +405,9 @@ Error Code 963 is basically an outcome of data crash which mostly is seen in che
 
 All these reasons and more can handle with ease and you can continue to use Google play services smoothly. In the following segment, we will discuss various fixes to cure the problem to enable to you download, install and update Apps on your device normally.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Easiest solution to fix _Error Code 963_ on Android
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -422,6 +434,10 @@ Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ a
 
 ![select the android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3 – On the following screen, you need to choose the appropriate details for your device like the name, brand, model, country/region etc. Later, go for warning confirmation and hit ‘Next’.
 
 ![device references selected](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -445,6 +461,10 @@ If the Nubia Red Magic 8S Pro device contains no Home button:
 Step 2 – Press the ‘Next’ button and then the program will commence the firmware downloading.
 
 ![firmware downloaded](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3 – Upon successful downloading and verification of the firmware, the process of Android device repairing will begin automatically.
 
@@ -500,9 +520,6 @@ This method is strictly for certain Apps which cannot be updated because they ar
 
 Visit “Settings” and select “Apps”.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984137395509.jpg)
 
 From “All” Apps click on the App which is unable to update.
@@ -567,7 +584,6 @@ This remedy is as simple as it sounds and has helped many HTC users to get rid o
 
 Google Play Errors are a very common phenomenon these days, especially Error Code 963 which usually occurs in the Google Play Store when we try to download, install or update an App. There is no need to worry if you see Error Code 963 pop-up on your screen as your device and its software are not to be blamed for Error 963 to suddenly surface. It is a random error and can be fixed easily by you. You do not need any technical assistance to deal with the issue. All you need to do is follow the steps introduced in this article to use Google Play Store and its services smoothly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -580,9 +596,26 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/avigate-to-noteworthy-youtube-commentaries-for-2024/"><u>[New] Navigate to Noteworthy YouTube Commentaries for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-digital-media-screening-an-insightful-critique/"><u>2024 Approved Digital Media Screening - An Insightful Critique</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-htc-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For HTC</u></a></li>
+<li><a href="https://win-info.techidaily.com/discover-key-security-enhancements-of-windows-11-insights-from-yl-computing/"><u>Discover Key Security Enhancements of Windows 11 - Insights From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-rise-of-electric-vehicles-in-transportation/"><u>Exploring the Rise of Electric Vehicles in Transportation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-mix-fold-3-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Mix Fold 3 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-v30-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo V30 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing/"><u>Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-itel-p55plus-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Itel P55+ Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-note-50-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme Note 50 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f04-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F04 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-downloading-content-from-tiktok/"><u>Step-by-Step Guide: Downloading Content From TikTok</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Lenovo ThinkPhone Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:59.053Z
-updated: 2024-07-15T06:16:59.053Z
+date: 2025-01-08T17:26:10.914Z
+updated: 2025-01-10T17:11:21.854Z
 tags: 
   - problems
 categories:
@@ -52,6 +52,10 @@ As with any other issue or device, the first fix you should always try first is 
 
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2. Check the Charging Port and Battery
 
 The issues with the battery of your Lenovo ThinkPhone 5 can also lead to ****Lenovo ThinkPhone not working****. It can be due to your device's low or near-empty battery. While in some cases, serious issues with the battery can also be behind this problem. Similarly, the reason behind your phone's touch not working can be charging port issues.
@@ -65,6 +69,10 @@ Contacting Lenovo ThinkPhone customer support can also help resolve the ****Leno
 It is an excellent option if your Lenovo ThinkPhone device's touch is not working due to hardware issues. They can help guide you to a suitable service center to fix your phone and resolve this issue.
 
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4. Wipe the Cache of Your Lenovo ThinkPhone Device
 
@@ -115,9 +123,6 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 
 To sum up this article, it can be said that issues like ****Lenovo ThinkPhone not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Restore a Bricked Lenovo ThinkPhone Back to Operation
 
 In moments of lag or freezing on your Android, you might **brick Your Lenovo ThinkPhone,** which can be unsettling. This is more than just the loss of a device. A **bricked cell phone** also involves potential data erasure. Yet, it's crucial to understand the true implications of a **bricked phone**. This page tackles how to address the issue of a bricked Android phone.
@@ -125,7 +130,6 @@ In moments of lag or freezing on your Android, you might **brick Your Lenovo Thi
 This comprehensive guide aims to the reasons behind Android phones becoming bricked. By reading below, you'll learn effective methods to **unbrick a mobile phone** without the risk of data loss.
 
 ![man holding a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-01.jpg)
-
 
 ## Part 1. What are Brick Phones: At a Glance
 
@@ -163,6 +167,10 @@ Several less common factors can also contribute to bricking. Overclocking, attem
 Below are solutions that you can employ to fix various brick phone scenarios.
 
 ![rebooting a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reverting Android Device to Factory Defaults (Soft Brick)
 
@@ -206,6 +214,10 @@ This software is designed to fix glitches including most modern Android devices.
 
 Dr.Fone - System Repair (Android) offers free access for you to test the initial steps and verify device compatibility. This cost-effective feature ensures value for money every step of the way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Main Advantages of Using Dr.Fone – System Repair (Android)
 
 Dr. Fone – System Repair (Android) is a great solution with numerous tools to help you manage your Lenovo ThinkPhone in various ways. Here are some of the advantages of using the app for fixing **bricked phones.**
@@ -213,6 +225,10 @@ Dr. Fone – System Repair (Android) is a great solution with numerous tools to 
 - Fone – System Repair (Android) comes with a clean UI making navigation and usage easy. The user-friendly design offers a seamless experience for beginners and professionals alike.
 - Utilizing the app for system repair is an effortless and speedy process. It doesn't take up much time to revive your **bricked phone**so you can use it right away.
 - The System Repair toolkit only needs you to click on a few buttons. Combined with its clean UI and speedy process, using the app is a breeze.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. How To Revive a Bricked Phone Using Dr.Fone – System Repair (Android)
 
@@ -226,6 +242,10 @@ Below are the steps to recover data on a bricked mobile phone.
 
 ![dr.fone choose device type](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Click on the **Phone with Home button** or **Phone without Home button** depending on your device. Follow the on-screen instructions and click **Next** to proceed with reviving your brick phone.
 
 ![dr.fone following on-screen instructions](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
@@ -238,16 +258,11 @@ Below are the steps to recover data on a bricked mobile phone.
 
 **4,311,328** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Fixing a **bricked phone** may seem daunting, but solutions are within reach. This page explained the distinctions between soft and hard brick scenarios. It also identified common causes and revealed effective methods for unbricking.
 
 Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. The tool offers a comprehensive toolkit for recovery and data rescue. The power to reclaim lost data lies in your hands. Act, follow the methods outlined, and recover your brick phone.
-
-
 
 ## Reasons for Lenovo ThinkPhone Stuck on Boot Screen and Ways To Fix Them
 
@@ -266,6 +281,10 @@ Android is a flexible operating system. It allows users to customize it in any w
 Fortunately, this is not a complicated fix. Android accepts different fixes and allows the system to return to how it once was. Even with software issues, the system does not get completely inoperable. The best way to fix changes to the software is to start from the beginning of the process. This might offer the best chance for you to restore your phone to normal.
 
 Although it is fun to customize and change the software, following trusted sources ensures you do not damage your phone. Having an ****Android phone stuck on the logo**** page is one of the many examples of the problems that might happen if changes to the software go out of hand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2. Android Software Updates
 
@@ -306,17 +325,15 @@ If it works, then the problem is solved. However, some Android devices come with
 ![removing battery on android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3. Charge Your Device
 
 If your ****Android phone is stuck on the logo**** page and not getting past it, no matter how many times you have tried, it may be due to a low battery! As simple as it sounds, plug your device into a power outlet and try restarting your phone. You might be surprised that this simple fix is all it takes to solve your Android problem.
 
 ![charging android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4. Wipe Cache Data
 
 Cache refers to a software or hardware component of an Android device that stores your program and data for reference. This data might result from the daily usage of your device or duplicate data from a different source on the Lenovo ThinkPhone device. Similar to a computer, if the cache occupies too much space on your device, it might cause your Lenovo ThinkPhone to become slower and eventually get stuck at the ****Android boot screen****.
@@ -335,13 +352,14 @@ Follow the steps below to perform a factory rest on your Lenovo ThinkPhone:
 
 ![factory reset of android phones](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Bonus Tip: Best App To Solve Android Phone Stuck On Boot Screen
 
 If all the solutions above do not work and you do not want to perform a factory reset on your phone, one option is to use an app called Dr.Fone. It is one of the most effective phone recovery solutions and can help to bring your Lenovo ThinkPhone back to a state like it was brand new. Being stuck on the ****Android boot screen**** will be a problem of the past.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![interface of dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Refer to the tutorial below to solve your ****Android phone is stuck on the logo**** page issue.
@@ -351,6 +369,10 @@ Refer to the tutorial below to solve your ****Android phone is stuck on the logo
 **Step 2**: Select the issue you face on the next page. If you use a Lenovo ThinkPhone phone, select ****Stuck at Lenovo ThinkPhone Logo****. Alternatively, you can click on ****Black Screen**** or ****Stuck in Boot Loop****.
 
 ![selecting issue from dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: Input the ****Brand****, ****Name****, ****Model****, ****Country,**** and ****Carrier**** of your phone and click on ****Next****.
 
@@ -366,7 +388,6 @@ This article summarizes some possible reasons your ****Android phone is stuck on
 
 Dr.Fone-System Repair repairs the operating system issues and fixes the problem with your Lenovo ThinkPhone. Once you power on your Lenovo ThinkPhone again, you can rest assured that it will be like new.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -379,9 +400,24 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-harnessing-gopros-power-for-compelling-time-lapse-clips/"><u>[New] In 2024, Harnessing GoPro's Power for Compelling Time-Lapse Clips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-snap-youtube-to-mp4-now-facebook-too/"><u>[New] Snap YouTube to MP4, Now Facebook Too</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-content-creators-den/"><u>[Updated] 2024 Approved Content Creator's Den</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-kid-proof-camcorders-the-top-11-beginner-friendly-choices-for-2024/"><u>[Updated] Kid-Proof Camcorders The Top 11 Beginner-Friendly Choices for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-upcoming-apple-watch-ultra-2-latest-leaks-and-estimates/"><u>All You Need to Know About the Upcoming Apple Watch Ultra 2 - Latest Leaks & Estimates</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-windows-blue-screen-code-0x0000003b-breakdown-and-fixes/"><u>Deciphering Windows Blue Screen: Code 0X0000003B Breakdown & Fixes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-phantom-v-flip-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Phantom V Flip Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-sony-xperia-1-v-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Sony Xperia 1 V Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-knowledge-on-electronics-features-by-toms-experts/"><u>Inside Knowledge on Electronics - Features by Tom's Experts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p40-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P40 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-simple-free-canon-printer-software-windows/"><u>Quick & Simple: Free Canon Printer Software (Windows)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-c50-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco C50 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-t2-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo T2 Pro 5G? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

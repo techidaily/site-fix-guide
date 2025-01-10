@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Fix Bluetooth Not Working on OnePlus 12R | Dr.fone
-date: 2024-07-14T06:12:29.977Z
-updated: 2024-07-15T06:12:29.977Z
+date: 2025-01-09T16:15:20.131Z
+updated: 2025-01-10T18:58:42.111Z
 tags: 
   - problems
 categories:
@@ -36,8 +36,6 @@ Since Bluetooth is an internal technology, this indicates there’s a problem wi
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Bluetooth issues in one click
@@ -64,11 +62,12 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - download mode to fix issues](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step Five** The software will now begin the repair process. This will happen automatically, and all you’ll need to do is make sure your device doesn’t disconnect during this process, and your computer doesn’t turn off.
@@ -76,6 +75,10 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 ![bluetooth not working on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 When the repair process has been completed, you’ll receive the screen below, which means you can try again if the process didn’t work, or you can disconnect your OnePlus 12R and start using it and your Bluetooth features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Restart Android and turn on Bluetooth again
 
@@ -170,17 +173,16 @@ The further away the OnePlus 12R devices are from each other, the less likely th
 
 ![android bluetooth problems - avoid interference](https://images.wondershare.com/drfone/article/2019/04/bluetooth-device-interference.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The final consideration you’ll want to think about is that Bluetooth radio waves, or wireless waves, can interfere with each other. This means they can bounce off each other or get muddled up and make things confusing from your devices.
 
 With this in mind, you’ll want to make sure you’re limiting the amount of Bluetooth activity in the area where you’re trying to use a device. While uncommon, this could be the problem.
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your OnePlus 12R to the OnePlus 12R device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reasons for OnePlus 12R Stuck on Startup Screen and Ways To Fix Them
 
 There are many reasons why ****phones get stuck on the boot screen****. It could be something as simple as physical damage or more complicated related to software problems. Having your ****phone stuck on the logo**** screen, or boot screen is annoying, and it is no surprise that people will find ways to fix this issue when encountered.
@@ -239,6 +241,10 @@ Here is a step-by-step process for putting your OnePlus 12R or Redmi smartphone 
 
 ****Step 3****: You can use the volumes buttons to navigate up and down and press the Power key to confirm the selection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Factory Reset
 
 If you do not want to attempt recovery mode, you can try resolving the issue of your **phone being stuck on the startup screen** through Factory Reset. Factory Reset, also called Hard Reset, erases all information and data on your device. As a result, it will return to the settings and recover the data it used to have when leaving the factory.
@@ -249,11 +255,19 @@ Here is an example of putting your Samsang smartphone into the Factory Reset DFU
 
 ![general management on samsung](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2****: Go to **Reset** > **Factory data reset.**
 
 ****Step 3****: Swipe to and tap **Reset**.
 
 ![OnePlus 12R reset button](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** Before carrying out a factory reset, you need to input the password of your OnePlus 12R Account.
 
@@ -406,9 +420,6 @@ Step 2 – Now find “Google Play Store” and open it.
 
 Step 3 – Now, instead of tapping “Clear cache”, tap on “Clear data”. This will erase all the data and settings from the Google Play store.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![tap on “Clear data”](https://images.wondershare.com/drfone/article/2017/06/14985033317238.jpg)
 
 After this, open “Google Play Store” and now your problem might be solved now.
@@ -473,11 +484,16 @@ Step 3 – Here you can find “VPN”.  Tap on it and turn it off.
 
 ![find “VPN”](https://images.wondershare.com/drfone/article/2017/06/14985037252898.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, again go back and try to open the Google Play Store. This may solve your problem now. If not, check the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 8\. Force stop Google Play Service
 
 Google Play Store needs to be restart just like your PC. This is a really helpful and common trick to overcome the Play Store crashing issue on your OnePlus 12R. To do this, follow the below steps.
@@ -488,12 +504,13 @@ Step 2 – Now find “Google Play Store” and click on it.
 
 Step 3 – Here click on “Force Stop”. This allows the Google Play Store to stop.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on “Force Stop”](https://images.wondershare.com/drfone/article/2017/06/14985037034838.jpg)
 
 Now, try to open Google Play store again and this time the service is being restarted and might work properly. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 9\. Try a Soft Reset of your device
 
@@ -504,6 +521,10 @@ Step 1 – Long press the “Power” button on your device.
 Step 2 – Now, click on ‘Reboot’ or ‘Restart’ option. Your device will restart in some time.
 
 ![click on ‘Reboot’](https://images.wondershare.com/drfone/article/2017/06/14985035964108.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After restarting, try to open the Google Play Store again and this time you should succeed. If any case, it's not opening, try the last (but not the least) method by hard reset your Android.
 
@@ -523,7 +544,6 @@ This will take a while to reset your device completely. After completion, start 
 
 The above methods are the best 11 among all the solutions you can get for your Play Store not working on wifi or Play Store crashing error. Try one by one and you might get rid of this problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -536,9 +556,21 @@ The above methods are the best 11 among all the solutions you can get for your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagrams-edge-transforming-your-videography-with-precision-cropping/"><u>[Updated] 2024 Approved Instagram's Edge Transforming Your Videography with Precision Cropping</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-list-of-free-user-friendly-editing-apps/"><u>2024 Approved The Ultimate List of Free, User-Friendly Editing Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-analysis-of-the-lenovo-thinkpad-x13s-exploring-its-high-end-arm-architecture-cutting-edge-5g-connectivity-and-exceptional-endurance-capabiliti68/"><u>Comprehensive Analysis of the Lenovo ThinkPad X13s: Exploring Its High-End ARM Architecture, Cutting-Edge 5G Connectivity & Exceptional Endurance Capabilities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conquering-challenges-in-single-source-online-streaming/"><u>Conquering Challenges in Single-Source Online Streaming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/discovering-new-dimensions-a-guide-to-iphone-xs-advanced-cameras/"><u>Discovering New Dimensions A Guide to iPhone X's Advanced Cameras</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-nvidia-quadro-rtx-8000-drivers-compatible-with-windows-11-8-and-7/"><u>Download the Latest Nvidia Quadro RTX 8000 Drivers: Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/how-does-vegaspros-2019-version-improve-gaming/"><u>How Does VegasPro's 2019 Version Improve Gaming</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/render-photos-add-inward-radiant-spread-in-photoshop/"><u>Render Photos Add Inward Radiant Spread in Photoshop</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-m34-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy M34 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/voter-registration-difficulty-registering-to-vote-might-lower-turnout-rates-since-only-registered-individuals-are-counted-in-these-statistics/"><u>Voter Registration: Difficulty Registering to Vote Might Lower Turnout Rates Since only Registered Individuals Are Counted in These Statistics.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Huawei P60 Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:19.838Z
-updated: 2024-07-15T06:16:19.838Z
+date: 2025-01-07T17:11:35.964Z
+updated: 2025-01-10T17:58:56.262Z
 tags: 
   - problems
 categories:
@@ -74,9 +74,17 @@ A common reason for ****Huawei P60 Nord being stuck on the loading screen**** i
 
 ![wait for oneplus logo](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
@@ -145,8 +153,6 @@ There might be much more reasons for the camera failed error, but these are the 
 
 If you are experiencing some kind of issues in your Huawei P60s such as Huawei P60 camera failed, the Huawei P60 device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Huawei P60 devices and perform a complete system repair so the Huawei P60 device starts working normally.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One-click solution to fix camera failed on Huawei P60 devices
@@ -176,9 +182,6 @@ One-click solution to fix camera failed on Huawei P60 devices
 
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 When the software is done repairing the system, you will be notified. Thus, the Camera failed Huawei P60 error in your phone will be fixed.
@@ -235,6 +238,10 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
@@ -255,9 +262,6 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 3\. Now look for “Reset Settings” options and click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset settings](https://images.wondershare.com/drfone/article/2017/07/14997069347307.jpg "reset settings")
 
 Once done, go back to the Home Screen and start the camera App again to use it.
@@ -280,6 +284,10 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Finally, you have to click on “Erase Everything” and wait for the Huawei P60 device to reboot itself.
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/07/14997070554687.jpg "erase everything")
@@ -300,9 +308,6 @@ Moreover, this article will introduce you to the world of **Huawei P60 unbrick t
 
 Have you ever heard the term "bricked" concerning your Huawei P60 device? This section explains it to you in simple terms. Imagine your device becoming like a brick, unresponsive and seemingly lifeless. That's what happens when a **Huawei P60 gets bricked**. There are two main types of brick: soft brick and hard brick.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Soft Brick
 
 Soft brick is like a temporary setback for your device. To see if your **Huawei P60 is soft - bricked**, check out the details below:
@@ -317,10 +322,15 @@ Now, this is a more severe situation. In this case, your **bricked Huawei P60** 
 - Thesoftware and hardware have significant problems, making the Huawei P60 device unresponsive.
 - Your device won't turn on and might not show any signs of life.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bricked Huawei P60](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Common Causes of a Brick Huawei P60
 
@@ -340,9 +350,6 @@ If you're trying to tweak your device's software without proper knowledge, you m
 
 So, why is it important to know all this? Well, a bricked device isn't just frustrating; it can disrupt your daily life. You won't be able to use your device, access your apps, or even make calls. That's why unbricking is crucial.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Top Android System Repair Software
 
 Now that you've grasped the concept, let's dive into how to **unbrick a Huawei P60**. That's where Android system repair software comes in. These clever programs are like doctors for your device's software. They diagnose and fix issues to keep your appliance running smoothly. Let's explore the cream of the crop when it comes to these software solutions:
@@ -352,6 +359,10 @@ Now that you've grasped the concept, let's dive into how to **unbrick a Huawei P
 Dr.Fone - System Repair (Android) is like a magic wand for your Huawei P60 device. It's designed to rescue your device from troubles and make it run smoothly again. Dr.Fone - System Repair (Android) is built to  fix various issues, including a bricked device. It can resolve problems like [<u>black screens</u>](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html), frozen devices, boot loops, and even devices stuck in recovery mode.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -417,6 +428,10 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Huawei P60
 
 ![drfone phone with home button android](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - If your Android doesn't have a Home button, you may still use it byturning it off and pressing the Volume Down, Bixby, and Power buttons simultaneously. Repeatedly pressing the Volume Up button will activate Download Mode.
 
 ![drfone phone without home button android](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
@@ -462,11 +477,19 @@ Below is the disadvantage of this software:
 
 - Repair capabilities might be limited for complex issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### <u>System Repair for Android</u>
 
 True to its name, System Repair for Android is designed to repair and rejuvenate your device's Android system. It's a reliable tool to tackle various software issues, including bricked devices.
 
 ![google play system repair for android app](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -562,9 +585,6 @@ Encountering a **bricked Huawei P60** device can be a frustrating roadblock. How
 
 So, whether your device is experiencing a soft brick or a hard brick, you now have the best tools and knowledge to overcome it. Dive into the Android system repair software world, explore your options, and bid farewell to brick. Welcome a revived, functioning Huawei P60 device into your daily life.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -577,9 +597,19 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-optimizing-call-recording-on-facetime-platforms/"><u>[Updated] 2024 Approved Optimizing Call Recording on FaceTime Platforms</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-investment-tips-from-youtube-experts/"><u>[Updated] 2024 Approved Top Investment Tips From YouTube Experts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/improve-spanish-connect-socially-via-vr-platforms/"><u>Improve Spanish, Connect Socially via VR Platforms</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-11-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 11 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-error-message-fixing-your-geforce-experience-issues/"><u>Solving the 'Error' Message - Fixing Your GeForce Experience Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-game-changing-million-token-context-of-gemini-15/"><u>The Game-Changing Million Token Context of Gemini 1.5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-lunapic-enhancement-playbook-for-2024/"><u>The Ultimate LunaPic Enhancement Playbook for 2024</u></a></li>
+</ul></div>
 

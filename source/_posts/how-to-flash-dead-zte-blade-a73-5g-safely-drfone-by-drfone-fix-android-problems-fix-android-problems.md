@@ -1,7 +1,7 @@
 ---
 title: How to Flash Dead ZTE Blade A73 5G Safely | Dr.fone
-date: 2024-07-14T06:10:33.098Z
-updated: 2024-07-15T06:10:33.098Z
+date: 2025-01-09T16:03:49.668Z
+updated: 2025-01-10T16:19:42.459Z
 tags: 
   - problems
 categories:
@@ -38,8 +38,6 @@ From battery issues to physical damage to the ZTE Blade A73 5G device, there can
 ## Part 2: How to flash ZTE Blade A73 5G in one click
 
 While you are worried about how to flash ZTE Blade A73 5G instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the ZTE Blade A73 5G logo.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -93,11 +91,12 @@ Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (
 
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to flash ZTE Blade A73 5G dead phone with Odin?
 
 In this segment, we will learn how to fix the dead Android phone, i.e., ZTE Blade A73 5G phones using Odin software. Odin is software used internally by ZTE Blade A73 5G to generally unblock devices and perform a more utility-based job, namely, flashing new firmware in place of the old one. There are different variants available, so choose the one which is supported by your Galaxy phone. Here is a step-by-step explanation of how to flash dead Android phone (ZTE Blade A73 5G) using Odin software.
@@ -112,11 +111,19 @@ Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file ty
 
 ![firmware zip file](https://images.wondershare.com/drfone/article/2017/07/14991896515887.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![firmware md5 file](https://images.wondershare.com/drfone/article/2017/07/14991896708947.jpg)
 
 Step 3: In this step, download the latest version of Odin on your PC and move it to the desktop, and then right-click on the downloaded Odin file to select “Run as Administrator”.
 
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
 
@@ -137,6 +144,10 @@ Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA
 ![open md5 file](https://images.wondershare.com/drfone/article/2017/07/14991898009725.jpg)
 
 Finally, once the flashing process is complete, your ZTE Blade A73 5G phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to flash MTK Android dead phone with SP Flash tool?
 
@@ -204,7 +215,15 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 
 ![choose wipe data factory reset option](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7: How to flash a dead Android phone by checking screen faulty
 
@@ -232,8 +251,6 @@ It has been observed that Wondershare Dr.Fone – System Repair (Android) assist
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
 
-
-
 ## How to Exit Android Factory Mode On ZTE Blade A73 5G?
 
 You’ve often heard that recovery mode will solve just about any problem your ZTE Blade A73 5G is experiencing. This is mostly true and one of the components of Android’s recovery mode, factory mode or [factory reset](https://drfone.wondershare.com/reset-android/wipe-data-factory-reset.html) is one of the most efficient ways to solve various problems on your device. While factory mode is often a good thing, there are times when your device can enter factory mode on its own. Other times, you can safely enter factory mode but not know how to get out.
@@ -253,8 +270,6 @@ It is however important to note that a factory reset or factory mode does often 
 Before we can see how to safely enter and exit factory mode, it is important to have a full backup of your device. We mentioned that a factory mode will likely erase all the data on your device. A backup will ensure that you can get your phone back to its original state before the factory mode.
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
-
-
 
 ### Dr.Fone - Backup & Restore (Android)
 
@@ -279,9 +294,6 @@ Run the software on your computer and you can see all features displayed in the 
 
 Then plug in with your device to the computer. When your devic is detected, click on Backup.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect android phone to computer](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 ### Step 3. Select the file types to backup
@@ -303,8 +315,6 @@ Note: You can use the feature of "Restore From Backup" to restore the backup fil
 From the above parts, you are well aware about what is factory mode. As we discussed, this mode fixes most troubles with Android devices.
 
 But for situations when your ZTE Blade A73 5G gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on ZTE Blade A73 5G logo or factory mode or blue screen of death with a single click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -357,6 +367,10 @@ Step 2: Press ‘Next’ for initiating firmware downloading.
 Step 3: Dr.Fone –Repair (Android) starts Android repair as soon as download and verification of firmware is done. All Android issues along with Android stuck in factory mode will be fixed now.
 
 ![fixed Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Common Solutions to Exit Factory Mode on Android
 
@@ -418,9 +432,6 @@ There are plenty of problems you could experience, whether it’s the [Wi-Fi net
 
 Luckily, despite there being so many problems out there, there are also many solutions. Today, we’re going to share with you the complete definitive guide to help you get your ZTE Blade A73 5G connected and free from problems and issues.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Restart your ZTE Blade A73 5G
 
 Begin by powering off your ZTE Blade A73 5G and unplugging your router. Wait for about a minute before plugging in the router and turning on your device. This simple reset can often restore stable connections and fix Android wifi not working.
@@ -447,9 +458,6 @@ However, if you’ve got a problem with Wi-Fi not working on your Android and ot
 
 ## Part 4. Boot your Android in safe mode
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-safe-mode.jpg)
 
 If you’re unable to connect to the internet, but other devices have no issues, you may find the issues is coming from within your ZTE Blade A73 5G itself. Fortunately, there are ways you can see whether this is the problem.
@@ -488,13 +496,15 @@ Every wireless device will have its own codes and making sure they’re matched 
 
 When these numbers are matching, if your Android is still not connecting to wifi, you’ll know this wasn’t the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7. Fix Android system issues in one click
 
 If none of the solutions above are working, this could indicate a real problem with the firmware and operating system of your ZTE Blade A73 5G. Fortunately, a fast solution to get everything working again is to completely repair the software of your phone.
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -516,6 +526,10 @@ Once installed, connect your ZTE Blade A73 5G to your computer using a USB cable
 
 ![wifi slow on android - get a tool to fix](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Two** Click the "Android" option in the menu and then click "Start" to begin the Repair process.
 
 ![fix wifi slow on android by repairing android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -527,6 +541,10 @@ Once installed, connect your ZTE Blade A73 5G to your computer using a USB cable
 **Step Four** Confirm you want the software to carry out the repair process by typing the ‘000000’ code into the pop-up box and pressing Confirm. Make sure you read everything displayed in this box beforehand to know what’s happening.
 
 ![wifi not working on android - confirm the repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step Five** Now put your phone into Download Mode by following the on-screen instructions, so your device is ready for the repair process. The method for getting your phone into Download Mode will vary depending on your device, so make sure you’re following the right instructions.
 
@@ -559,18 +577,6 @@ Of course, if you’re already using another phone on your Wi-Fi network, you kn
 
 ## Part 9. Change the password of the Wi-Fi
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone not connecting to wifi - password settings](https://images.wondershare.com/drfone/article/2019/04/android-wifi-password.jpg)
 
 Each Wi-Fi network router will give the opportunity to choose and change the password you have to let devices connect to your network. It’s important you try changing this because you never know if someone else has accessed your network and could be blocking your device. Here’s how it works;
@@ -626,7 +632,6 @@ However, by factory resetting your device, you can start again from the factory 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -639,9 +644,18 @@ However, by factory resetting your device, you can start again from the factory 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-best-6-android-video-capture-apps-for-screen-recording/"><u>[Updated] Best 6 Android Video Capture Apps for Screen Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-exitingmycam-entry-to-exceptionalcameras/"><u>[Updated] In 2024, ExitingMyCam Entry to ExceptionalCameras</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-pathway-autoplay-youtube-videos-within-fb-networks/"><u>[Updated] The Ultimate Pathway Autoplay YouTube Videos Within FB Networks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-expert-editions-selecting-high-quality-blu-ray-players-freepaid/"><u>In 2024, Expert Editions Selecting High-Quality Blu-Ray Players (Free/Paid)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y02t-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y02T Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-a38-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo A38? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-apple-iphone-15-plus-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-moto-g23-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Moto G23 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m34-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M34 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-asgardian-crusade-final-quest/"><u>The Asgardian Crusade Final Quest</u></a></li>
+</ul></div>
 

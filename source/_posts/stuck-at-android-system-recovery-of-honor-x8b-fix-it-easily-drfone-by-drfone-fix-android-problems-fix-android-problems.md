@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor X8b ? Fix It Easily | Dr.fone
-date: 2025-01-01T23:03:52.843Z
-updated: 2025-01-03T21:01:06.479Z
+date: 2025-01-03T16:38:42.905Z
+updated: 2025-01-10T18:04:48.460Z
 tags: 
   - problems
 categories:
@@ -24,10 +24,6 @@ Despite all the worry that surrounds an unwanted Android system recovery screen,
 
 For these reasons, it is actually a good thing, although when it does happen unexpectedly, you may want to know how to fix it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2. How to get to Android System recovery
 
 Now that you know how useful the Android System can be, you may want to know how to utilize this feature to get out of some of the problems we mentioned above. Here's how you can safely get to the Android recovery system on your Honor X8b.
@@ -44,6 +40,10 @@ Step 3: Press the Volume up and Volume down keys and use the Power key to select
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
@@ -51,6 +51,10 @@ Step 4: The white Google logo will appear immediately followed by the Android lo
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
@@ -106,7 +110,7 @@ You'll be notified when the operation is complete and when you're able to discon
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
@@ -169,10 +173,6 @@ Below are some possible causes of Honor X8b screen unresponsiveness, along with 
 
 In the previous section, we identified the possible causes of Honor X8b screen unresponsiveness, including soft-bricked software, hardware problems, and touchscreen issues. While the underlying reasons for screen unresponsiveness can be varied and complex, some common solutions can help resolve the issue. Here are three of the most common solutions to address tablet screen unresponsiveness, no matter the Honor X8b model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1. Restart The Device
 
 ![mui restart button](https://images.wondershare.com/drfone/article/2023/03/reset-button-android-1.jpg)
@@ -182,16 +182,12 @@ Restarting the phone is typically the initial solution that comes to mind when w
 It is the most commonly used method to fix Honor X8b's touch screen and power button issues, such as unresponsiveness. By restarting the Honor X8b device, background processes are disabled, and memory is freed up, allowing programs to run smoothly and potentially resolve the problem. To restart a Honor X8b device, press the Power and Volume Up buttons simultaneously, and release the Power button once the Honor X8blogo appears.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2. Leave The Phone And Let The Battery Drain Completely
 
 ![low battery](https://images.wondershare.com/drfone/article/2023/03/drain-your-phone-battery.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sometimes, the tablet screen may become unresponsive due to a software issue preventing the Honor X8b device from functioning correctly. Leaving the Honor X8b device unused and draining the battery helps resolve these issues. After fully discharging the battery, the Honor X8b device can be recharged and turned back on, potentially resolving the issue.
 
@@ -228,10 +224,6 @@ In the following steps, we will show you how to format the Honor X8b Redmi 5A to
 
 ![factory reset on xiaomi 5a](https://images.wondershare.com/drfone/article/2023/03/factory-reset-on-xiaomi5a-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6. Using Dr. Fone Repair
 
 If none of the above solutions worked, you can try using Dr. Fone Repair. This software is designed to fix various software issues on Android phones, including Honor X8b devices. It can fix issues such as screen stuck on boot, black screen, and other software-related problems. Dr. Fone Repair is easy to use and can protect your data and files on your phone.
@@ -247,6 +239,14 @@ Here's how to fix repair screen unresponsiveness or any software-related issues 
 - **Follow** the on-screen instructions carefully to repair your Honor X8b.
 
 ![dr fone repair on xiaomi devices](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Avoid A Honor X8b Screen Unresponsive?
 
@@ -265,6 +265,10 @@ By using reliable software, like Dr.Fone Repair, you can ensure that your Honor 
 All of you, sooner or later, must have found the “Unfortunately Settings has stopped” error on your Honor X8b. The problem can occur if the Settings keeps stopping or crashing. Many times, you may try to open the Settings but it doesn’t even open. Or possibly, it may freeze after getting opened thereby hampering the Honor X8b device's performance.
 
 ![unfortunately settings has stopped](https://images.wondershare.com/drfone/article/2022/04/fix-unfortunately-settings-has-stopped.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Well! There can be a number of reasons why this thing happens. For instance, custom ROM installations, not enough space in the Honor X8b device or perhaps an outdated version of Android. If you are struggling with the same issue and want to know what to do when Android Settings is not responding, this post will help you. We have explained everything in detail along with the solutions. So, scroll down and get things sorted.
 
@@ -298,6 +302,10 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
 
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Uninstall the Google update
 
 Uninstalling Google Play Store updates has also responded well to many users. It has worked in the case of the “Unfortunately Settings has stopped” error. So, we would also like to suggest you use this tip if the others don’t work. Here are the steps to be followed for this.
@@ -307,10 +315,6 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 3. Tap on “Uninstall Updates” and restart your device to check if the crashing Settings issue has been resolved.
 
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
@@ -335,10 +339,6 @@ Step 1: Download Tool
 Visit the official website of Dr.Fone and download the toolbox from there. Go for the installation process and wait until the installation gets over. Launch it now and choose the “System Repair” tab from the main window.
 
 ![Android settings not responding- download tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2: Get the Phone Connected
 
@@ -378,10 +378,6 @@ Like RAM, wiping cache is also vital so as to make the Honor X8b device’s oper
 
 ![Android settings not responding - cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: Factory reset your Android
 
 You can also opt for Factory resetting your device to fix the issue of Settings keeps stopping. By removing everything from the Honor X8b device, it will make your device run properly. If you have important data on your device, please make sure to [create a backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before taking action if you don’t want to lose it. The steps are as follows.
@@ -393,7 +389,11 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 7: Check and update Android OS
@@ -428,22 +428,19 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-optimal-accessories-for-your-high-quality-gopro/"><u>[New] In 2024, Optimal Accessories for Your High-Quality GoPro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-excellent-pc-screen-grabbers-the-most-useful-1-5/"><u>[Updated] In 2024, Excellent PC Screen Grabbers The Most Useful #1-#5</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-music-integration-into-vimeo-videos-for-2024/"><u>[Updated] Mastering Music Integration Into Vimeo Videos for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-premium-15-high-resolution-camcorders-reviewed/"><u>[Updated] Premium 15 High-Resolution Camcorders Reviewed</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/elite-home-and-office-desk-setups-for-2024/"><u>Elite Home & Office Desk Setups for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-motorola-moto-g13-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Moto G13 Safely | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-get-started-with-hyper-v-virtualization-technology-on-your-windows-10-system/"><u>How to Get Started with Hyper-V Virtualization Technology on Your Windows 10 System</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-f54-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy F54 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-persistent-ghostrunner-malfunction-when-playing-on-windows-10/"><u>Overcoming the Persistent Ghostrunner Malfunction When Playing on Windows 10</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oneplus-ace-3-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of OnePlus Ace 3? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-a78-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo A78 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/ringtone-overhaul-transforming-your-phones-sound-identity/"><u>Ringtone Overhaul Transforming Your Phone's Sound Identity</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-xiaomi-redmi-note-12-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Xiaomi Redmi Note 12 4G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-magic-5-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor Magic 5 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-step-by-step-guide-screen-casts-on-discord/"><u>[New] In 2024, Step-by-Step Guide Screen Casts on Discord</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-streamlined-playback-import-tunes-into-inshot/"><u>[Updated] In 2024, Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-g2-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cam-titans-collide-sj6-and-yi-4k-showdown-for-2024/"><u>Cam Titans Collide SJ6 and Yi 4K Showdown for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-a05-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy A05 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-microphones-for-enhanced-4k-video-clarity-and-sound/"><u>In 2024, Leading Microphones for Enhanced 4K Video Clarity and Sound</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-x-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone X Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-13t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi 13T Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138623763-9781250214522-the-emotion-code/"><u>The Emotion Code | Free Book</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-enhanced-lg-bp550-review-2023-update-for-2024/"><u>The Enhanced LG BP550 Review - 2023 Update for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210325355-9781982188610-the-secret-to-love-health-and-money/"><u>The Secret to Love, Health, and Money | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Motorola Edge+ (2023) Screen Not Working | Dr.fone
-date: 2024-07-14T06:17:04.965Z
-updated: 2024-07-15T06:17:04.965Z
+date: 2025-01-05T17:19:49.858Z
+updated: 2025-01-10T18:42:20.681Z
 tags: 
   - problems
 categories:
@@ -36,12 +36,13 @@ If your device's battery is damaged or is at the end of its lifespan, it can cau
 
 The presence of corrupted system files is also a significant cause of such issues. These corrupted files can also lead to serious performance issues on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Conflicting Settings
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: The Common Solutions to Solve a Motorola Edge+ (2023) Screen Unresponsive
 
@@ -77,9 +78,17 @@ A common reason for ****Motorola Edge+ (2023) Nord being stuck on the loading sc
 
 ![wait for oneplus logo](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
@@ -92,6 +101,10 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 ****Step 1:**** Launch Settings on your Motorola Edge+ (2023) device and tap “System” to select “Reset Options.”
 
 ![select reset options](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
@@ -126,7 +139,6 @@ After all, the presence of app icons on our Android device's home screen is impo
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your Motorola Edge+ (2023).
 
-
 ## Part 1: Make Sure if the Missing App Is Installed
 
 Before proceeding with troubleshooting the **missing app icon on your Android** device, it's essential to confirm whether the app is still installed or if it has been accidentally deleted. To do it, you can have a quick check on Google Play:
@@ -138,6 +150,10 @@ Before proceeding with troubleshooting the **missing app icon on your Android** 
 ![Check if the missing app is installed](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-1.jpg)
 
 Now, see whether you can find the **app icon that disappeared on your Android.** If you can’t find it, it means the app has been accidentally deleted, and you can install it back on your device. However, if it’s confirmed to be installed on your Android but remains missing from your home screen, you can continue the following practice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Find the Missing App Icon on Android
 
@@ -166,18 +182,6 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 - **Step 3.** Long-press the Icon of the missing app and move it to the desired location on your home screen. You can drag it to an empty space or a specific folder.
 - **Step 4.** Release to drop the app icon onto the home screen.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
 
 ### 3\. Re-enable disabled app
@@ -231,6 +235,10 @@ The platform will detect your Motorola Edge+ (2023)'s brand. Confirm the Name, M
 
 ![Confirm your Motorola Edge+ (2023)’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Activate Download de
 
 Follow the instructions to put your Motorola Edge+ (2023) into Download Mode. Once you are in Download Mode, the firmware will be downloaded automatically.
@@ -257,11 +265,6 @@ When the **app disappears from the home screen of your Android**, it can hinder 
 
 Whether it's due to accidental deletion or a system glitch, we have discussed various methods to recover the missing app and ensure smooth functionality in this article. In cases of system-related issues on your Motorola Edge+ (2023), it's advisable to rely on trustworthy software such as Dr. Fone's system repair tool for a comprehensive resolution.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What To Do if Your Motorola Edge+ (2023) Auto Does Not Work
 
 Embracing the convenience of Android Auto enhances your driving experience. It seamlessly connects your smartphone with your vehicle. However, in the realm of technology, glitches and malfunctions are commonplace. Android Auto, too, may [<u>encounter software or hardware issues</u>](https://drfone.wondershare.com/device-diagnostics/how-to-run-a-hardware-test-on-xiaomi.html) that disrupt its functionality.
@@ -275,8 +278,9 @@ In this guide, you’ll delve into the common problems users face when **Android
 Android Auto is a revolutionary application designed to enhance the in-car experience by seamlessly connecting Android smartphones to compatible vehicles. It serves as a co-pilot, offering hands-free navigation, communication, and entertainment options, minimizing distractions while driving.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How Android Auto Works
 
 Understanding the mechanics of this technology is essential for effective **Android Auto troubleshooting**. It mirrors your Android smartphone’s interface onto your car’s infotainment system. It provides a simplified and optimized version of your device’s features on the road.
@@ -285,9 +289,6 @@ Android Auto connects your smartphone to your car’s infotainment system via US
 
 By integrating familiar smartphone functionalities into your car, Android Auto aims to provide a safer and more enjoyable driving experience, reducing the need for manual phone interactions while on the road. Understanding this foundation will empower you to effectively troubleshoot when issues arise.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android auto and apple carplay](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-02.jpg)
 
 ## Part 2. Common Issues Android Auto Faces + Troubleshooting/Repair
@@ -313,6 +314,10 @@ If specific apps refuse to cooperate, a quick remedy is to restart the head unit
 Issues with the screen or display on your car’s head unit can be disconcerting. To troubleshoot, commence with a simple restart of the head unit.
 
 If the problem lingers, escalate the solution by restarting the entire car. Should these steps prove ineffective, seeking professional assistance at a maintenance center is advisable. This ensures a thorough examination and potential resolution of [<u>hardware-related problems</u>](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html), providing a comprehensive fix for persistent screen and display issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Voice Commands Not Working
 
@@ -364,11 +369,19 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 
 ![wondershare dr.fone initiate system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Upon completion of the process, your phone should now be restored. Click **Done** to conclude.
 
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,276,578** people have downloaded it
 
@@ -377,7 +390,6 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 In wrapping up this guide, you’ve explored common reasons **Android Auto does not work**. You’ve also been provided practical solutions to keep your driving experience seamless. Remember, regular maintenance of your car’s head unit and periodic checks on your Motorola Edge+ (2023) can preemptively address potential issues.
 
 By staying proactive, you ensure a consistently smooth ride with Android Auto. For comprehensive system repair and addressing broader Android-related needs, consider trying out Dr.Fone. It’s a versatile tool that can enhance your Android experience and keep your digital journey hassle-free. Take control of your drive and explore the full potential of your Motorola Edge+ (2023)s with Dr.Fone today.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -391,9 +403,18 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-chromes-full-screen-trick-effortlessly-run-videos-and-apps-side-by-side/"><u>[New] 2024 Approved Chrome's Full-Screen Trick Effortlessly Run Videos and Apps Side by Side</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers/"><u>[New] In 2024, Beyond Imagination The Best Sci-Fi Metaverse Films for Adventurers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-ultimate-graphics-gear-for-4k-media-for-2024/"><u>[New] Ultimate Graphics Gear for 4K Media for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-leading-voice-modifying-apps-magical-calls-and-more/"><u>[Updated] In 2024, Leading Voice-Modifying Apps Magical Calls & More</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-knowledge-currents-best-yt-for-academic-growth/"><u>2024 Approved Knowledge Currents Best YT for Academic Growth</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/extract-and-save-fb-videos-the-cutting-edge-of-top-5-for-2024/"><u>Extract and Save FB Videos The Cutting Edge of Top 5 for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-itel-p55-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Itel P55 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-connectivity-problems-with-your-corsair-void-microphone-in-no-time/"><u>Resolving Connectivity Problems with Your Corsair Void Microphone in No Time</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-infinix-zero-30-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Infinix Zero 30 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y27-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y27 4G Step-by-Step Solutions | Dr.fone</u></a></li>
+</ul></div>
 

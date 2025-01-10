@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor 90 Lite ? Fix It Easily | Dr.fone
-date: 2024-12-27T19:18:13.176Z
-updated: 2025-01-03T23:48:50.829Z
+date: 2025-01-03T18:38:53.404Z
+updated: 2025-01-10T17:14:02.861Z
 tags: 
   - problems
 categories:
@@ -32,10 +32,6 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
@@ -48,10 +44,6 @@ Step 4: The white Google logo will appear immediately followed by the Android lo
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-05.jpg)
@@ -61,7 +53,7 @@ Step 5: Finally, press and hold both the Power and the Volume up Key for around 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
@@ -93,10 +85,6 @@ Insert your device information, including the brand, carrier details, model and 
 
 ![select items to correctly fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step #3** Follow the onscreen instructions on how to put your device in Download Mode.
 
 Your device should already be in this mode but follow the instructions to make sure. There are methods available for devices, both with and without home buttons.
@@ -116,6 +104,10 @@ After downloading, the software will automatically start to repair your device b
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
@@ -176,10 +168,6 @@ Android Auto connects your smartphone to your car’s infotainment system via US
 By integrating familiar smartphone functionalities into your car, Android Auto aims to provide a safer and more enjoyable driving experience, reducing the need for manual phone interactions while on the road. Understanding this foundation will empower you to effectively troubleshoot when issues arise.
 
 ![android auto and apple carplay](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. Common Issues Android Auto Faces + Troubleshooting/Repair
 
@@ -259,12 +247,16 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,276,578** people have downloaded it
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -304,7 +296,7 @@ The Google Play Services keeps stopping error is an infamous one, and it can app
 Regardless of what’s causing the issue on your phone, we’ve compiled a list of ten possible solutions, and you can find those below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solutions to Try When Google Play Services Keeps Stopping
@@ -334,6 +326,10 @@ As keeping your phone’s system and apps updated to the latest possible version
 - **Step 3**: If there’s an update available, click it and go through the process of updating your phone’s system.
 
 Restarting your phone after an update, even if it doesn’t restart itself, is highly advisable, ensuring that the new updates apply without issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. Revert to the Previous Version
 
@@ -376,6 +372,10 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
     ![start the wondershare dr.fone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Select the type of issue you want to fix > **Start**.
 
     ![start the android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -383,10 +383,6 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 - **Step 3**: Select the make and model of your phone so that Dr.Fone can find the appropriate Android software.
 
     ![choose the phone model](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4**: Connect the phone to the PC via a USB cable and follow the on-screen instructions to put the phone into **Download Mode**. The instructions are available for both phones with and without the home button.
 
@@ -401,7 +397,7 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
     ![confirm android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
@@ -418,6 +414,10 @@ The easiest and the most obvious fix for many Android apps is clearing the app�
 - **Step 3**: Repeat the process for the **Google Play Services**
 
 If this doesn’t work, move on to another possible fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8. Check Date and Time Settings
 
@@ -438,10 +438,6 @@ Another regularly overlooked troublemaker is a poor internet connection. That’
 
 To test the internet connection on your Honor 90 Lite, you should open a browser and head to a random internet page to see if it’s opening and whether there are any delays. If it’s working fine, your internet connection isn’t the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 10. Adjust Google Play Services Permissions
 
 Although permissions rarely change, they can cause issues if you change them accidentally. These settings can be found in the same place where you would uninstall updates or clear the app’s cache, so you can use some of the steps mentioned above to check them.
@@ -451,6 +447,10 @@ Once inside Permission Settings, check whether the Google Play Services and Play
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,953,228** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -472,19 +472,20 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-snap-complete-web-panel/"><u>[New] Snap Complete Web Panel</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-hd-capture-software-for-windows-and-macos-for-2024/"><u>[Updated] Ultimate HD Capture Software for Windows & macOS for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/44cm6kqk44gj44gm44or44o844og44kj44k344on44oz44ks5ymk6zmk44gx44gm44gx44gplus44ge44gplus44gx44gf44cc44gp44gu44ki44gg44gr5zue5b6p44gn44gn44kl44gu44gn44gx44kh44265/"><u>「誤ってパーティションを削除してしまいました。どのように回復できるのでしょう？」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-techniques-to-transform-webm-videos-into-wmv-file-type-without-internet-access/"><u>Effective Techniques to Transform WebM Videos Into WMV File Type without Internet Access</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-t2-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y100t-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y100t Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c300-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C300 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://win-info.techidaily.com/network-connectivity-issues-effective-solutions-and-troubleshooting-tips-yl-computing/"><u>Network Connectivity Issues: Effective Solutions and Troubleshooting Tips - YL Computing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-google-pixel-8-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Google Pixel 8 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-unwanted-superhero-characters-appearing-on-your-game-screen/"><u>Resolving Unwanted Superhero Characters Appearing on Your Game Screen</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m14-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M14 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-xcover-7-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy XCover 7 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-epitome-of-gaming-power-razers-low-latency-v3-pro/"><u>The Epitome of Gaming Power: Razer's Low Latency V3 Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-are-instagrams-video-selfies-truly-genuine/"><u>[Updated] 2024 Approved Are Instagram's Video Selfies Truly Genuine?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-flutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes/"><u>[Updated] Flutter Freedom for Videos The Best Tools to Flv-to-YouTubes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-swipe-right-on-creativity-youtubes-top-techniques-for-greenscreens/"><u>[Updated] In 2024, Swipe Right on Creativity YouTube’s Top Techniques for Greenscreens</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-zoom-video-hurdles-the-5-best-techniques-to-get-your-meeting-up-and-running-again/"><u>Bypass Zoom Video Hurdles: The 5 Best Techniques to Get Your Meeting Up and Running Again</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-tecno-spark-20-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Tecno Spark 20 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-breakthrough-strategies-for-youtube-short-problem-solving/"><u>In 2024, Breakthrough Strategies for YouTube Short Problem-Solving</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-m14-4g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy M14 4G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-v30-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme V30 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-key-to-unlocking-the-best-video-production-talents/"><u>The Key to Unlocking the Best Video Production Talents</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-no-1-top-12-tycoon-games-a-gamers-quest-to-conquer-commerce-for-2024/"><u>The No. 1 Top 12 Tycoon Games - A Gamer's Quest to Conquer Commerce for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-mac-video-frames-catalog-max-156-chars/"><u>Ultimate Mac Video Frames Catalog (Max 156 Chars)</u></a></li>
 </ul></div>
 

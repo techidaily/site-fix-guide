@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Huawei Nova Y91 Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:18.706Z
-updated: 2024-07-15T06:16:18.706Z
+date: 2025-01-07T17:01:40.714Z
+updated: 2025-01-10T17:13:03.324Z
 tags: 
   - problems
 categories:
@@ -32,13 +32,18 @@ Excessive smartphone use can cause the touchscreen to go out of the required set
 
 If your device's battery is damaged or is at the end of its lifespan, it can cause the touch screen not responding issues. Moreover, the low battery and issue with the charging port can also lead to this problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Corrupted System Files
 
 The presence of corrupted system files is also a significant cause of such issues. These corrupted files can also lead to serious performance issues on your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Conflicting Settings
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
@@ -67,9 +72,6 @@ Contacting Huawei Nova Y91 customer support can also help resolve the ****Huawei
 
 It is an excellent option if your Huawei Nova Y91 device's touch is not working due to hardware issues. They can help guide you to a suitable service center to fix your phone and resolve this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
 
 ### Solution 4. Wipe the Cache of Your Huawei Nova Y91 Device
@@ -83,6 +85,10 @@ A common reason for ****Huawei Nova Y91 Nord being stuck on the loading screen**
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
@@ -101,8 +107,9 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 6. Replace the Old Screen with A New Screen
 
 If none of the above-mentioned fixes have worked so far, you should replace the touch screen. Replacing the touch screen is recommended in case of hardware and severe software issues. However, it can be quite an expensive fix as new touch screens aren't cheap. The prices for new touchscreens differ depending on the model. These prices start from $20 and go up to hundreds of dollars.
@@ -120,14 +127,9 @@ A new version of Dr.Fone is expected to release in the latter half of this month
 
 ![dr.fone phone toolbox](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 To sum up this article, it can be said that issues like ****Huawei Nova Y91 not working**** are part of life. These issues can occur anytime and are hard to completely protect against. Thus, having a problem solver like Wondershare Dr.Fone is the best choice. It will not only help you safeguard against system issues but also resolve them if they occur.
-
-
 
 ## Play Store Stuck on Downloading Of Huawei Nova Y91? 7 Ways to Resolve
 
@@ -158,8 +160,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Play Store stuck on downloading
@@ -188,6 +188,10 @@ Over the following screen, select “Android Repair” placed at the left panel 
 
 ![play store stuck on downloading - go to android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Fill in the information**
 
 It is important to add in all the necessary information for successful execution of program. Make sure to give details of “Brand”, “Name”, “Country”, “Model” and all other fields.
@@ -207,6 +211,10 @@ Fret not, the program will automatically detect the most suitable firmware for y
 After the package downloads, program will repair all kinds of problems surfacing over your phone automatically. This way, the **_Play store stuck on downloading_** will get resolved fully.
 
 ![get to repair android to fix play store download pending](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.4 Clear data and cache of Play Store and download again
 
@@ -239,9 +247,6 @@ If you’re unable to see a streak of hope and wondering why my **_Play Store is
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Persistent Pandora Crashes on Huawei Nova Y91
 
 Pandora, an app bringing music to our fingertips, is a beloved platform for streaming tunes on Android devices. Despite its popularity, users might encounter occasional hurdles with the app, such as unexpected hanging, lagging, or even crashing. These interruptions can disrupt our musical journey.
@@ -266,6 +271,10 @@ If these basic fixes fail to address the continuous crashing of the Pandora app,
 ## Part 2: Causes Behind Constant Pandora App Crashes and Solutions
 
 Several underlying factors might be at play when persistent crashes plague your Pandora app. This section explores these.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Poor Internet Connection
 
@@ -297,6 +306,10 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 ![dr.fone system repair start screen](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Check if the Huawei Nova Y91 device details presented onscreen are correct. You may edit them accordingly for any mistakes.
 
 ![dr.fone device details confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -318,6 +331,10 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 Accumulated cache data can hamper app performance, leading to frequent crashes. [Clear the cache](https://drfone.wondershare.com/erase-iphone/clear-iphone-cache.html) of the Pandora app. Usually, you can see this option under **Settings > Apps** > **Clear Data.** Additionally, you can optimize your device’s RAM and storage space by deleting unnecessary files or closing unused apps.
 
 ![clear data page](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Device Compatibility Issues
 
@@ -343,8 +360,11 @@ When persistent issues arise, especially if other apps are affected similarly, W
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-**3,362,023** people have downloaded it
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+**3,362,023** people have downloaded it
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -358,9 +378,22 @@ When persistent issues arise, especially if other apps are affected similarly, W
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-algorithm-behind-youtubes-post-upload-logic-for-2024/"><u>[Updated] The Algorithm Behind YouTube's Post-Upload Logic for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-5-exceptional-4k-gaming-screens/"><u>2024 Approved 5 Exceptional 4K Gaming Screens</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-fingers-to-enhance-virtual-adventures/"><u>2024 Approved Elite Fingers to Enhance Virtual Adventures</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-se-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone SE Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comment-puis-je-activer-mon-fonctionnalite-lenovo-onekey-recovery-f11-qui-ne-repond-plus/"><u>Comment Puis-Je Activer Mon Fonctionnalité Lenovo OneKey Recovery (F11) Qui Ne Répond Plus ?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y78-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y78 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-v27-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V27 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-digital-layer-combinations-at-home-for-2024/"><u>Mastering Digital Layer Combinations at Home for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edge-40-neo-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Neo Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-play-7t-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor Play 7T – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-xiaomi-14-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi 14? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c32-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C32 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-c51-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme C51 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-hey-siri-functionality-problems-for-a-seamless-voice-assistant-experience/"><u>Resolving Hey Siri Functionality Problems for a Seamless Voice Assistant Experience</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-transferring-your-google-pixel-3a-data-to-a-windows-or-mac-computer/"><u>Step-by-Step Guide: Transferring Your Google Pixel 3a Data to a Windows or Mac Computer</u></a></li>
+</ul></div>
 

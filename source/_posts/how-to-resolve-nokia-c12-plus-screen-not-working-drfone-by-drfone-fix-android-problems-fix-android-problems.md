@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Nokia C12 Plus Screen Not Working | Dr.fone
-date: 2024-07-14T06:17:19.448Z
-updated: 2024-07-15T06:17:19.448Z
+date: 2025-01-07T17:13:23.921Z
+updated: 2025-01-10T16:27:35.767Z
 tags: 
   - problems
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 Nothing is more frustrating than your phone's touch screen becoming unresponsive. Given the importance of smartphones in daily work, a phone with a touch screen not working can badly affect your routine. It is an issue found in most smartphone brands, even among Nokia C12 Plus phones, known for their efficient performance. If your ****Nokia C12 Plus screen is not working****, it can be an exhausting experience.
 
 Luckily for your, multiple ways are available to resolve this issue. This article will list six fixes for resolving the ****Nokia C12 Plus not working**** issue. It will also discuss the reasons behind this issue in detail and provide a list of tips to avoid it in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Causes Nokia C12 Plus Screen Unresponsive?
 
@@ -44,9 +48,6 @@ It is also possible that the conflicting settings in your device are causing thi
 
 Fixing the ****Nokia C12 Plusscreen not working**** is easy as long as it is not a serious hardware issue. While there are multiple ways to solve this problem, we have chosen the 6 most common and easy solutions. Listed below are the 6 common solutions to solve a Nokia C12 Plus screen unresponsive:
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Solution 1. Restart the Nokia C12 Plus Phone
 
 As with any other issue or device, the first fix you should always try first is to restart your device. It is the best solution to fix the ****Nokia C12 Plus not working**** issue if temporary bugs and glitches are the reason behind it. When you restart your device, it flushes out all temporary bugs and glitches while resetting your device’s processes. Use this guide to restart your Nokia C12 Plus device:
@@ -60,6 +61,10 @@ As with any other issue or device, the first fix you should always try first is 
 The issues with the battery of your Nokia C12 Plus 5 can also lead to ****Nokia C12 Plus not working****. It can be due to your device's low or near-empty battery. While in some cases, serious issues with the battery can also be behind this problem. Similarly, the reason behind your phone's touch not working can be charging port issues.
 
 Thus, you should check and clean your device's charging port and see if it resolves the problem. Moreover, turn off your device, charge it, and then restart it to check if the touch screen not working issue is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3. Contact the Nokia C12 Plus Customer Support
 
@@ -170,8 +175,6 @@ They are easy, user-friendly, and do not take much of your time. So don not wast
 
 If you’re still encountering the Parsing error, there may be a problem with the Nokia C12 Plus device data on your device, which means you’ll need to repair it. Luckily, there’s a simple, one-click solution you can follow called [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/).
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix all android system issues in one click
@@ -196,6 +199,10 @@ Input your device and firmware information to confirm you’re installing the ri
 
 ![select device model info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #2** Follow the onscreen instructions on how to get into Download Mode to start the Repair process.
 
 ![fix problem parsing the package in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
@@ -204,11 +211,19 @@ Once complete, the firmware will start downloading.
 
 ![download the firmware to fix problem parsing the package](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #3** Once the firmware has downloaded, it will automatically install it to your device.
 
 When this is completed, you’ll be free to disconnect your Nokia C12 Plus and use it how you please without the ‘there is a problem with the parsing package’ error.
 
 ![repairing android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **2.2 Allow installation from unknown sources**
 
@@ -219,6 +234,10 @@ When we install Apps from other sources and not Google Play Store, there might b
 • Now tick mark on the option saying allow App installation from unknown sources.
 
 ![allow App installation](https://images.wondershare.com/drfone/article/2017/06/14985473958735.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **2.3 Enable USB debugging**
 
@@ -262,6 +281,10 @@ We do not suggest that you delete the Antivirus App permanently. Temporary unins
 
 ![click on “Uninstall”](https://images.wondershare.com/drfone/article/2017/06/14985109617315.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now download and install the desired App again. Once this is done, do not forget to install the Antivirus App again.
 
 #### **2.7 Clear Cache cookies of Play Store**
@@ -277,6 +300,10 @@ Clearing Play Store Cache cleans the Android Market platform by deleting all clo
 • Select “General Settings” to “Clear local search history”.
 
 ![“Clear local search history”](https://images.wondershare.com/drfone/article/2017/06/14985110201340.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **2.8 Factory Reset Android**
 
@@ -296,15 +323,10 @@ The whole process of factory resetting your Nokia C12 Plus might sound tedious, 
 
 Parse Error: There was a problem parsing the package is an error message that has troubled many Android users. The good part is that the above-stated fixes not only solve the problem but also prevent it from occurring in the future. So, keep them in mind the next time you or anyone you know faces such an issue.
 
-
-
 ## Fix Unfortunately Settings Has Stopped on Nokia C12 Plus Quickly
 
 All of you, sooner or later, must have found the “Unfortunately Settings has stopped” error on your Nokia C12 Plus. The problem can occur if the Settings keeps stopping or crashing. Many times, you may try to open the Settings but it doesn’t even open. Or possibly, it may freeze after getting opened thereby hampering the Nokia C12 Plus device's performance.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unfortunately settings has stopped](https://images.wondershare.com/drfone/article/2022/04/fix-unfortunately-settings-has-stopped.jpg)
 
 Well! There can be a number of reasons why this thing happens. For instance, custom ROM installations, not enough space in the Nokia C12 Plus device or perhaps an outdated version of Android. If you are struggling with the same issue and want to know what to do when Android Settings is not responding, this post will help you. We have explained everything in detail along with the solutions. So, scroll down and get things sorted.
@@ -339,6 +361,10 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
 
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Uninstall the Google update
 
 Uninstalling Google Play Store updates has also responded well to many users. It has worked in the case of the “Unfortunately Settings has stopped” error. So, we would also like to suggest you use this tip if the others don’t work. Here are the steps to be followed for this.
@@ -349,11 +375,13 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Nokia C12 Plus, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Nokia C12 Plus devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -385,9 +413,6 @@ Step 3: Feed Correct Information
 
 In the next window, you need to fill in some necessary information like the name and model of the mobile device. Enter details like country and career. Check once and hit on “Next”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 4: Enter Download Mode
@@ -434,9 +459,6 @@ A lot of times minor issues crop up due to the operating systems that get outdat
 2. Now, hit on “System Update” and the Nokia C12 Plus device will look for any available update.
 3. If there is any, go along with the prompts to install it and make your phone even smarter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - update android firmware](https://images.wondershare.com/drfone/article/2019/04/update-samsung.jpg)
 
 ## Conclusion
@@ -445,11 +467,7 @@ If your Nokia C12 Plus shows the "Unfortunately Settings has stopped" error, don
 
 For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html). It's known for fixing many iOS problems without losing any data. Remember, a well-working device is just a few steps away!
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -463,9 +481,22 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-facebook-video-freeze-up-solutions-for-secure-browser-users/"><u>[New] Facebook Video Freeze-Up Solutions for Secure Browser Users</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-balancing-acts-in-youtube-music-mixes/"><u>2024 Approved Balancing Acts in YouTube Music Mixes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/alternate-avenues-a-compilation-of-non-gta-games/"><u>Alternate Avenues A Compilation of Non-GTA Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/brighten-iphones-night-scenes-using-simple-tricks/"><u>Brighten iPhone's Night Scenes Using Simple Tricks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-magic-v2-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Magic V2 with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a23-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A23 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-13-mini-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 13 mini Safe and Legal</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-nokia-c110-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia C110 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-gionee-f3-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Gionee F3 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-your-game-streaming-sound-issues-ultimate-guide-to-repairing-obs-mic-malfunctions/"><u>Solving Your Game Streaming Sound Issues: Ultimate Guide to Repairing OBS Mic Malfunctions</u></a></li>
+</ul></div>
 

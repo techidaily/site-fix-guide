@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Infinix Smart 8 HD Screen Not Working | Dr.fone
-date: 2024-07-14T06:16:30.489Z
-updated: 2024-07-15T06:16:30.489Z
+date: 2025-01-06T18:28:59.461Z
+updated: 2025-01-10T17:05:26.597Z
 tags: 
   - problems
 categories:
@@ -36,9 +36,6 @@ If your device's battery is damaged or is at the end of its lifespan, it can cau
 
 The presence of corrupted system files is also a significant cause of such issues. These corrupted files can also lead to serious performance issues on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Conflicting Settings
 
 It is also possible that the conflicting settings in your device are causing this issue. These settings can range from touch sensitivity to screen refresh rate. Unless these conflicts are removed, the touchscreen performance will continue to degrade.
@@ -60,6 +57,10 @@ As with any other issue or device, the first fix you should always try first is 
 The issues with the battery of your Infinix Smart 8 HD 5 can also lead to ****Infinix Smart 8 HD not working****. It can be due to your device's low or near-empty battery. While in some cases, serious issues with the battery can also be behind this problem. Similarly, the reason behind your phone's touch not working can be charging port issues.
 
 Thus, you should check and clean your device's charging port and see if it resolves the problem. Moreover, turn off your device, charge it, and then restart it to check if the touch screen not working issue is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3. Contact the Infinix Smart 8 HD Customer Support
 
@@ -84,6 +85,10 @@ A common reason for ****Infinix Smart 8 HD Nord being stuck on the loading scree
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 5. Reset to Factory Settings
 
@@ -136,7 +141,9 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -170,9 +177,6 @@ Now, from the next screen, you are supposed to choose “Android Repair” tab. 
 
 Please keep your mobile details handy as you will need them in the next window. You will need to enter the correct brand, model, and country name etc. for better detection of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step 5: Confirm Actions**
@@ -215,9 +219,6 @@ Please note that this will delete all your Home screens post this method.
 
 The functions regarding Motions and Gestures can be responsible for why **_TouchWiz home has stopped_** in your device. Usually the Infinix Smart 8 HD devices running on Android version less than Marshmallow are prone to encountering this issue. Or the Infinix Smart 8 HD devices having modest specs often fall prey to the issue. When you disable these settings, you might get out of the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Change the Animation Scale
 
 When you use TouchWiz, it may consume higher memory usage for high amount of graphic maintenance. As a result, the “**_unfortunately TouchWiz home has stopped_**” error might crop up. Taking this into consideration, you should try reconfiguring the animation scale and get rid of the error. Here’s how:
@@ -244,6 +245,10 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 
 ![easy mode to fix TouchWiz stopping](https://images.wondershare.com/drfone/article/2019/02/easy-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
 
 ### Boot your phone to safe mode
@@ -258,9 +263,6 @@ Here is the next solution to be followed when TouchWiz keeps stopping. As we alr
 
 ![safe mode](https://images.wondershare.com/drfone/article/2019/02/enable-safe-mode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Reset Factory settings
 
 If the above method went futile and you’re still at the same place, then factory reset is the next logical step to be taken. We suggest this method because it will take your device to its factory state. As a result, TouchWiz will probably get normal and work perfectly.
@@ -279,7 +281,9 @@ Along with this, we would also suggest you go take backup of your data so that y
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Does My Infinix Smart 8 HD Keep Turning Off By Itself? 6 Fixes Are Here
 
@@ -319,6 +323,10 @@ Note: Sometimes, the above-mentioned code may not work. In such cases, try diali
 
 ![Battery Info](https://images.wondershare.com/drfone/article/2017/07/14994528935445.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the battery looks good as you can see in the screenshot above and everything else seems normal, it means that your battery is healthy and need not be replaced. You may now move on to the next step to cure your device.
 
 ## Part 3: One-click to fix Android phone keeps turning off
@@ -330,6 +338,10 @@ Apart from tackling the Android phone keeps turning off the issue, it can also r
 Your trouble with ‘why does My Infinix Smart 8 HD keep shutting off?’ can be resolved easily using Dr.Fone - System Repair (Android). But, before that, you need to ensure that [the Android device has been backed up properly](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to eliminate the risk of data erasing.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -379,9 +391,6 @@ Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once dow
 
 ![fixed phone keeps turning off with the repair program](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 4: Update software to the latest version to fix Android phone keeps turning off
@@ -393,6 +402,10 @@ To update the software on your Infinix Smart 8 HD, follow these steps:
 Go to "Settings" on your Infinix Smart 8 HD and navigate to the "System" or "Software Update" section (the exact wording may vary depending on your device model and Android version). Look for the option to "Check for updates" to see if any new software updates are available.
 
 ![update software](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Cool down your phone to avoid your phone keeps turning off
 
@@ -428,7 +441,9 @@ That's all. Well, booting to Safe Mode is easy and it also helps you to identify
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a great way to back up all your data to prevent it from getting lost after resetting the phone. It works brilliantly as it backs up all data and allows users to retrieve it fully or selectively. You can backup all files from your Android to PC in just a click and restore them later. Try this software for free before purchasing it to understand it's working better. It does not tamper with your data and only requires you to follow the simple steps given below to backup your Android data:
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Wondershare Dr.Fone
 
@@ -454,6 +469,10 @@ Now connect the Android phone to the PC and make sure that USB debugging is turn
 You will see the file types that will be backed up. Wait for the backup process to complete.
 
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There you go, you have successfully backed up data.
 
@@ -485,7 +504,6 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -498,9 +516,26 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-four-essential-tips-for-downloading-youtubes-srt/"><u>[New] 2024 Approved Four Essential Tips for Downloading YouTube's SRT</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-demystifying-video-seo-on-youtube-as-a-novice/"><u>[New] In 2024, Demystifying Video SEO on YouTube as a Novice</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-upgrading-your-playlists-for-seamless-integration-from-spotify-to-youtube-music/"><u>[New] In 2024, Upgrading Your Playlists for Seamless Integration From Spotify to YouTube Music</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-exclusive-game-recordings-tools/"><u>[Updated] 2024 Approved Exclusive Game Recordings Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-light-and-shadow-in-hdr-portraiture/"><u>[Updated] Mastering Light and Shadow in HDR Portraiture</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-frequency-fluctuations-for-game-mastery/"><u>2024 Approved Frequency Fluctuations for Game Mastery</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-litescreen-recorder-review-and-alternatives/"><u>2024 Approved LiteScreen Recorder Review and Alternatives</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-iphoneipad-screen-time-password-without-resetting-a-comprehensive-guide/"><u>Bypass iPhone/iPad Screen Time Password without Resetting - A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-motorola-g54-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola G54 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/precision-techniques-to-record-your-facetime-chats/"><u>Precision Techniques to Record Your FaceTime Chats</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-gt-neo-5-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme GT Neo 5 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a34-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A34 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-selection-expert-picks-for-the-most-exceptional-55-tvs-of-this-year/"><u>The Ultimate Selection: Expert Picks for the Most Exceptional 55 TVs of This Year</u></a></li>
+</ul></div>
 

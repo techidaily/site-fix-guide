@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Google Pixel N6: Capturing Quality or Clickbait?"
-date: 2025-01-02T16:06:09.223Z
-updated: 2025-01-03T23:36:27.943Z
+date: 2025-01-06T17:29:54.331Z
+updated: 2025-01-10T17:08:39.605Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling Google Pixel N6: Capturing Quality or Clickbait?"
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/2cdcba4b1f7015b8a27449250ed093dcedd443fa9
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Star Wars: Squadrons
@@ -47,6 +47,10 @@ Lifewire / Andy Zahn
 
 ![Star Wars: Squadron](https://www.lifewire.com/thmb/ymdujoeG8lwdw1L7OD6l0EFi1ug=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Star-Wars-Squadrons-1-daa1e236365f4a4a8831cce59004223a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Andy Zahn
 
 [View On Amazon](https://www.amazon.com/Star-Wars-Squadrons-Online-Game/dp/B08B8BZFCC/?tag=lifewire-onsite-prod-20&ascsubtag=5086656%7Cn7a4d5af5c6f040bfb3038a22bcfdeda919%7CB08B8BZFCC) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fstar-wars-squadrons-windows-digital%2F6415793.p%3FskuId%3D6415793)
@@ -78,6 +82,10 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Story: Passable, but skip the exposition dumps**
 
  The game picks up after the destruction of Alderaan in A New Hope. You get to play both sides of the conflict in alternating story missions as both an Imperial pilot and a Rebel pilot. Both characters are customizable with a range of preset options. I always appreciate it when a game gives me the option to create my own character.
@@ -97,10 +105,6 @@ Star Wars: Squadrons is drop-dead gorgeous.
  Lifewire / Andy Zahn
 
  In between story missions you are fixed in place in different rooms, where you click on different characters to talk to them. I found these sequences to be very linear and I found that they tended to drag on. I’d certainly have preferred to be able to walk around rather than teleport between locations on the ship. This is probably due to this game being intended to be played in VR where the fixed positioning makes more sense due to the limitations of VR, but the game would've been well served by separate control schemes. This is a minor gripe; if desired you can just skip through these sequences pretty quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Gameplay: Refined and surprisingly deep**
 
@@ -129,7 +133,7 @@ Star Wars: Squadrons is drop-dead gorgeous.
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/a-_aXPmbq5vlMG21Sutf0cIe4BI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-7-dc3679df974e4da793c52f2fb2831eac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
@@ -140,10 +144,6 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
  With the vast majority of video games, your experience is almost as dependent on what you hear as what you see. In this regard, Squadrons is a masterpiece. This game perfectly replicates the epic feel of classic Star Wars space combat from the laser fire, to the roar of your engines, to the exhilarating whoosh of grazing an asteroid. There’s also the unforgettable John Williams soundtrack, which is fully present here and is just as vital to the experience of the game as it is to the films.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Performance: Solid on moderately powerful PCs**
 
  I was able to get consistently high frame rates during gameplay with my custom gaming PC running 32 GB of DDR4 RAM, an AMD Ryzen 7 2700X processor, and an Nvidia RTX 2070 GPU. However, I experienced some odd stuttering in the hanger between missions, which seemed more of a graphical bug than an issue with the power of my PC. I also played Squadrons on a laptop with a less powerful processor, 16GB of RAM, and a Nvidia RTX 2060 Max-Q. The game performed well and provided a smooth gameplay experience at maximum graphical settings.
@@ -151,7 +151,7 @@ Star Wars: Squadrons is drop-dead gorgeous.
  Dogfights are fast, brutal, and thanks to a wide variation in map design, each match feels remarkably fresh and non-repetitive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Controls: Wide support for different inputs**
@@ -165,7 +165,7 @@ Star Wars: Squadrons is drop-dead gorgeous.
 ![Star Wars: Squadrons](https://www.lifewire.com/thmb/oKG6kRHcFEOz3O6bwL5_SyeUiEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Star-Wars-Squadrons-4-78947bfe57874d45ae8f401482c3ddf6-379a507c078e44d6898e28d20f53aac9.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andy Zahn
@@ -176,10 +176,6 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
  With an MSRP of just $40 Star Wars: Squadrons is a surprisingly reasonably priced game that bucks the trend of modern AAA games uniformly releasing for $60 regardless of what content they are able to offer. It’s not the longest game, and there is a limit to end-game multiplayer content, so $40 is pretty much the exact right price for Squadrons. It’s refreshing to see a distinct lack of any extra monetization in the game, with no annoying microtransactions or loot boxes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Star Wars: Squadrons vs. Elite Dangerous**
 
  If you’re looking for a deeper, more daunting, complex space sim, Elite Dangerous is the next step. Squadrons is far more exciting, being laser-focused on intense aerial combat. Elite Dangerous is a more methodical game, with a focus on exploration and trading, though there’s also exciting combat there if you want it.
@@ -189,6 +185,10 @@ Star Wars: Squadrons is drop-dead gorgeous.
  An exhilarating space combat experience that is particularly well suited to VR.
 
  Star Wars: Squadrons is a fine successor to classic space combat games, and is an undeniably exciting and realistic experience. It’s best if played with a VR headset, but is worth your time and money on a traditional screen as well. The memory of my first flight at the helm of a TIE Fighter in this game has stuck with me with surprising clarity in a way that few moments in video games do, and it’s something you really have to experience for yourself to understand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -213,24 +213,18 @@ Star Wars: Squadrons is drop-dead gorgeous.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-become-a-skilled-concealer-of-in-game-voices-compre-points-on-altering-sounds-in-free-fire-for-2024/"><u>[New] Become a Skilled Concealer of In-Game Voices Compre Points on Altering Sounds in Free Fire for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-image-purification-avoiding-obscuring-elements/"><u>[Updated] Navigating Image Purification Avoiding Obscuring Elements</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-premiere-list-of-ios-ps2-emulation-tools-for-2024/"><u>[Updated] Premiere List of iOS PS2 Emulation Tools for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211420177-9781763601116-from-pain-to-possibility/"><u>From Pain To Possibility | Free Book</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-poco-c51-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-a14-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy A14 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-11-proplus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme 11 Pro+ in Minutes | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-note-30-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/metaverse-memetic-marvels-from-copycat-cartoons-to-originalist-oddities-for-2024/"><u>Metaverse Memetic Marvels - From Copycat Cartoons to Originalist Oddities for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-infinix-hot-30-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Infinix Hot 30 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/rt-of-self-recording-improving-your-youtube-presence-for-2024/"><u>The Art of Self-Recording Improving Your YouTube Presence for 2024</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/troubleshoot-and-repair-dvd-ripping-failures-with-makemkv-disc-opening-problems-solved/"><u>Troubleshoot and Repair DVD Ripping Failures with MakeMKV – Disc-Opening Problems Solved!</u></a></li>
-<li><a href="https://facebook.techidaily.com/uniting-voices-mentioning-full-group-in-social-media/"><u>Uniting Voices: Mentioning Full Group in Social Media</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-tecno-spark-10-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Tecno Spark 10 Pro Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-funimate-on-your-phone-unzipping-the-apk-guide/"><u>[Updated] 2024 Approved Funimate on Your Phone Unzipping the APK Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-regrets-post-sendoff-mastering-the-art-of-email-recall-in-outlook/"><u>Avoiding Regrets Post-Sendoff: Mastering the Art of Email Recall in Outlook</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-mix-fold-3-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Mix Fold 3 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-impressive-hdr-portraits/"><u>In 2024, Unlocking the Secrets of Impressive HDR Portraits</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-2-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze 2 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/leveraging-social-influence-a-guide-to-biz-success-on-snap-for-2024/"><u>Leveraging Social Influence A Guide to Biz Success on Snap for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/most-effective-methods-for-converting-aac-files-into-high-quality-flac-audio/"><u>Most Effective Methods for Converting AAC Files Into High-Quality FLAC Audio</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oneplus-12r-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on OnePlus 12R – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-v27-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo V27? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/sparking-social-media-stories-facebook-fame-techniques-for-2024/"><u>Sparking Social Media Stories Facebook Fame Techniques for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-7-benefits-ai-driven-health-consults/"><u>Unveiling 7 Benefits: AI-Driven Health Consults</u></a></li>
 </ul></div>
 

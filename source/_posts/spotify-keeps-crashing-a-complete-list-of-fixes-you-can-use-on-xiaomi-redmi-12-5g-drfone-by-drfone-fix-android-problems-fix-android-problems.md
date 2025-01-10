@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi 12 5G | Dr.fone
-date: 2024-12-20T10:55:07.446Z
-updated: 2024-12-25T13:28:27.486Z
+date: 2025-01-04T18:52:36.431Z
+updated: 2025-01-10T16:15:50.353Z
 tags: 
   - problems
 categories:
@@ -69,10 +69,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![fix your android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 10:** Type “**000000**” in the dialog box and click **Confirm**.
 
 ![confirm system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -137,6 +133,10 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4. Restart Your Device
 
 Another way to stop Spotify from crashing can be restarting your Android. The steps may vary slightly depending on the Xiaomi Redmi 12 5G device, but they’re mostly the same. Follow these steps to restart your device:
@@ -145,10 +145,6 @@ Another way to stop Spotify from crashing can be restarting your Android. The st
 - **Step 2:** Tap **Restart**. That will restart your Android, and you can try opening Spotify again.
 
 ![restart android to fix spotify crashing](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5. Set Up Your Time and Date
 
@@ -160,6 +156,10 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 - **Step 4:** Tap **Set Date**and set the correct date.
 
 ![set date on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Go to **Set Time**and set the right time.
 
@@ -251,18 +251,22 @@ When using different apps and websites, your device caches data from those sourc
 
 ![settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-22.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Go to **Apps**.
 - **Step 3:** Find **Spotify** and tap it.
 
 ![spotify in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-23.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Tap **Storage**or **Storage usage**.
 
 ![spotify storage usage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-24.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Tap **Clear Cache**.
 
@@ -286,25 +290,21 @@ There are plenty of problems you could experience, whether it’s the [Wi-Fi net
 
 Luckily, despite there being so many problems out there, there are also many solutions. Today, we’re going to share with you the complete definitive guide to help you get your Xiaomi Redmi 12 5G connected and free from problems and issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Restart your Xiaomi Redmi 12 5G
 
 Begin by powering off your Xiaomi Redmi 12 5G and unplugging your router. Wait for about a minute before plugging in the router and turning on your device. This simple reset can often restore stable connections and fix Android wifi not working.
 
 ![restart android](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Turn on Airplane mode and turn off
 
 Turn on Airplane Mode for a few seconds, then turn it off. This maneuver refreshes your device's network connections and might rectify the Android not connecting to wifi issue.
 
 ![turn on airplane mode](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Check Wi-Fi Router settings
 
@@ -358,15 +358,15 @@ Every wireless device will have its own codes and making sure they’re matched 
 
 When these numbers are matching, if your Android is still not connecting to wifi, you’ll know this wasn’t the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 7. Fix Android system issues in one click
 
 If none of the solutions above are working, this could indicate a real problem with the firmware and operating system of your Xiaomi Redmi 12 5G. Fortunately, a fast solution to get everything working again is to completely repair the software of your phone.
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -414,13 +414,13 @@ The whole process is automatic, so you won’t need to do anything until it’s 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8. Check the Wi-Fi connectivity on another phone
 
 ![android phone not connecting to wifi - connectivity on another phone](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When experiencing problems with your Wi-Fi network, it’s worth noting the problem might not be with your phone, but rather the Wi-Fi network itself. This is why it’s important to make sure you check the connection on another device.
 
@@ -444,10 +444,6 @@ Each Wi-Fi network router will give the opportunity to choose and change the pas
 3. Change the password to something complicated using all available digits and characters
 4. Save the password and restart the router to disconnect all devices
 5. Now connect your Xiaomi Redmi 12 5G to the router using the new password
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 10. Reset network settings on Android
 
@@ -480,6 +476,10 @@ As you continue to use your Xiaomi Redmi 12 5G, the partition cache will fill up
 ## Part 12. Reset factory settings
 
 ![wifi not working on android - factory settings](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If worse comes to worst, another option you have is to factory reset your Xiaomi Redmi 12 5G. As we’ve spoken about above, while using your phone from the day you started using it, your device will fill up with files and data which can become messy and causes bugs.
 
@@ -517,7 +517,7 @@ By integrating familiar smartphone functionalities into your car, Android Auto a
 ![android auto and apple carplay](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. Common Issues Android Auto Faces + Troubleshooting/Repair
@@ -543,10 +543,6 @@ If specific apps refuse to cooperate, a quick remedy is to restart the head unit
 Issues with the screen or display on your car’s head unit can be disconcerting. To troubleshoot, commence with a simple restart of the head unit.
 
 If the problem lingers, escalate the solution by restarting the entire car. Should these steps prove ineffective, seeking professional assistance at a maintenance center is advisable. This ensures a thorough examination and potential resolution of [<u>hardware-related problems</u>](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html), providing a comprehensive fix for persistent screen and display issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Voice Commands Not Working
 
@@ -581,6 +577,10 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 - **Step 2:** On the subsequent screen, select **Android** as your device.
 
 ![wondershare dr.fone phone os chooser](https://images.wondershare.com/drfone/guide/system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Initiate the Android System Repair by clicking **Start**.
 
@@ -626,17 +626,20 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-aspect-ratios-on-fb-videos/"><u>[New] In 2024, The Ultimate Guide to Aspect Ratios on FB Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-influence-essential-marketing-expressions-explained/"><u>[Updated] The Art of Influence Essential Marketing Expressions Explained</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-command-line-and-gui-mastering-windowsmacos-srt-file-handling/"><u>2024 Approved Command Line & GUI Mastering Windows/MacOS SRT File Handling</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-microsoft-store-error-code-0x80073cf3-in-windows-11/"><u>How to Rectify Microsoft Store Error Code 0X80073CF3 in Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-tecno-spark-20-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Tecno Spark 20 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y78-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y78 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oneplus-nord-3-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My OnePlus Nord 3 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-htc-u23-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix HTC U23 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-poco-x5-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Poco X5 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essence-of-personalization-through-ai-at-ms-store/"><u>The Essence of Personalization Through AI at MS Store</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/athway-to-popular-youtube-thumbnails-mac-edition/"><u>The Pathway to Popular Youtube Thumbnails Mac Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rafting-a-cash-flow-career-with-content-creation-like-ajey-nagar/"><u>[New] Crafting a Cash-Flow Career with Content Creation Like Ajey Nagar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-not-picking-up-sound-heres-how-to-restore-clear-voice-communication/"><u>Discord Not Picking Up Sound? Here's How to Restore Clear Voice Communication</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-infinix-note-30i-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Note 30i Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-download-realtek-audio-interface-drivers-for-windows-10-systems/"><u>Effortless Download: RealTek Audio Interface Drivers for Windows 10 Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-lava-yuva-3-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Yuva 3 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211203718-9791028528652-lamour-une-aventure-spirituelle/"><u>L'Amour, une aventure spirituelle | Free Book</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-a54-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy A54 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-narzo-60-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme Narzo 60 Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/tips-for-disconnecting-unfollowing-on-instagram/"><u>Tips for Disconnecting Unfollowing on Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-hp-display-drivers-in-windows-11-8-and-7-a-step-by-step-guide/"><u>Troubleshooting HP Display Drivers in Windows 11, 8 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-most-shared-stock-photos-and-backstories-for-2024/"><u>Unveiling the Most Shared Stock Photos & Backstories for 2024</u></a></li>
 </ul></div>
 
