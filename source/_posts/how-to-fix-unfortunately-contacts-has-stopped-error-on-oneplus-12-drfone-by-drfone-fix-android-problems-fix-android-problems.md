@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus 12 | Dr.fone
-date: 2024-07-14T05:53:07.533Z
-updated: 2024-07-15T05:53:07.533Z
+date: 2025-01-16T16:04:44.953Z
+updated: 2025-01-22T16:00:54.630Z
 tags: 
   - problems
 categories:
@@ -22,8 +22,6 @@ It can occur while you launch the app or while you’re in the app already findi
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Fix Contacts app crashing on Android in one click
@@ -42,9 +40,6 @@ Step 1: Load program and draw connection of device
 
 Download Dr.Fone - System Repair (Android) on PC. While program installs, use USB cable to connect device with system. From interface, tap on “System Repair” main window.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts stopping on samsung - download the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Opt for Android Repair option
@@ -53,11 +48,19 @@ You’ll be directed to the “System Repair” screen where you have to opt for
 
 ![contacts stopping on samsung - android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Key in device information
 
 From following screen, fill the fields of “Brand”, “Name”, “Model”, “Country” and several other parameters. Then, tap on “Next” option to proceed further.
 
 ![contacts stopping on samsung - enter info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Download Firmware package
 
@@ -95,9 +98,6 @@ The cache memory basically stashes the copies of the concerned application. It i
 
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Wipe cache partition
 
 As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the OnePlus 12 device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
@@ -136,11 +136,12 @@ Many a times, we skip updating our device software thinking it is of less import
 
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.6 Reset App Preferences
 
 As stated, the malfunctioning of contacts can be due to be any unexpected reason. Hence, users can opt for resetting app preferences. This may prove to be helpful in brushing away the issue of “Contacts app won’t open”.
@@ -230,6 +231,10 @@ One of the most direct ways to address this issue is by manually adjusting your 
 
 ![update residence country](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Use a Reliable VPN
 
 Confronting the message "**This app is not accessible in your country" on the Play Store**? Employing a Virtual Private Network (VPN) can be an effective strategy. It allows you to virtually transcend geographical restrictions. A VPN masks your actual location by routing your internet connection through servers in different regions.
@@ -314,18 +319,6 @@ At first, you will have to run Wondershare Dr.Fone - System Repair (Android) on 
 
 On the next window, you need to enter the OnePlus 12 device details, including the "Name, Model, Country, and Carrier," and hit the "Next" button. Then, proceed to put your OnePlus 12 on the "Download Mode" by following the on-screen instructions.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fill phone details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - Step 3: Confirm the Installation and Conclude the Process
@@ -366,6 +359,10 @@ Moreover, this article will introduce you to the world of **OnePlus 12 unbrick t
 
 ![samsung bricked](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Understanding Bricked OnePlus 12
 
 Have you ever heard the term "bricked" concerning your OnePlus 12 device? This section explains it to you in simple terms. Imagine your device becoming like a brick, unresponsive and seemingly lifeless. That's what happens when a **OnePlus 12 gets bricked**. There are two main types of brick: soft brick and hard brick.
@@ -377,6 +374,10 @@ Soft brick is like a temporary setback for your device. To see if your **OnePlus
 - It happens when the software encounters issues, but the hardware is usually fine.
 - Your device might not start properly, [<u>freeze</u>](https://drfone.wondershare.com/iphone-problems/fix-iphone-freezing-after-updating-to-ios-17.html), or [<u>get stuck on the logo screen</u>](https://drfone.wondershare.com/iphone-recovery/iphone-stuck-at-the-apple-logo.html).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Hard Brick
 
 Now, this is a more severe situation. In this case, your **bricked OnePlus 12** might fall under the following conditions:
@@ -384,10 +385,11 @@ Now, this is a more severe situation. In this case, your **bricked OnePlus 12** 
 - Thesoftware and hardware have significant problems, making the OnePlus 12 device unresponsive.
 - Your device won't turn on and might not show any signs of life.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bricked OnePlus 12](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Common Causes of a Brick OnePlus 12
 
@@ -416,6 +418,10 @@ Now that you've grasped the concept, let's dive into how to **unbrick a OnePlus 
 Dr.Fone - System Repair (Android) is like a magic wand for your OnePlus 12 device. It's designed to rescue your device from troubles and make it run smoothly again. Dr.Fone - System Repair (Android) is built to  fix various issues, including a bricked device. It can resolve problems like [<u>black screens</u>](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html), frozen devices, boot loops, and even devices stuck in recovery mode.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -480,6 +486,10 @@ This tutorial will show you how Dr.Fone can remove the **brick from a OnePlus 12
 - If your phone has a home button, follow the on-screen prompts to power it down. Keep pressing and holding the Volume Down, Home, and Power Then, press the Volume Upbutton to activate the **Download Mode**.
 
 ![drfone phone with home button android](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - If your Android doesn't have a Home button, you may still use it byturning it off and pressing the Volume Down, Bixby, and Power buttons simultaneously. Repeatedly pressing the Volume Up button will activate Download Mode.
 
@@ -584,6 +594,10 @@ Now that you know how to fix a **bricked OnePlus 12** smartphone, let's focus on
 
 ![tips on preventing future bricking incidents](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Regularly Check for Updates**
 
 Always keep your device's software up to date. Updates often contain bug fixes and improvements that can prevent software-related issues.
@@ -626,9 +640,6 @@ Encountering a **bricked OnePlus 12** device can be a frustrating roadblock. How
 
 So, whether your device is experiencing a soft brick or a hard brick, you now have the best tools and knowledge to overcome it. Dive into the Android system repair software world, explore your options, and bid farewell to brick. Welcome a revived, functioning OnePlus 12 device into your daily life.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -641,9 +652,20 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/erfecting-your-presence-mastery-of-title-and-tag-use-on-youtube-for-2024/"><u>[New] Perfecting Your Presence Mastery of Title and Tag Use on YouTube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-photographers-guide-top-editing-and-writing-apps-for-2024/"><u>[New] Photographer's Guide Top Editing & Writing Apps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-safely-extract-youtube-audio-a-study-of-3-techniques/"><u>[Updated] In 2024, How to Safely Extract YouTube Audio A Study of 3 Techniques</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/1-acquerir-le-logiciel-de-rip-video-ultime-winx-dvd-ripper-platine-avec-licence-totale-et-mise-a-jour-gratuite/"><u>1. Acquérir Le Logiciel De Rip Vidéo Ultime : WinX DVD Ripper Platine Avec Licence Totale Et Mise À Jour Gratuite</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-techniques-for-vimeo-video-insertion-into-corporate-presentations/"><u>2024 Approved Techniques for Vimeo Video Insertion Into Corporate Presentations</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/change-location-on-yik-yak-for-your-vivo-y100t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y100t to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-picks-for-ultimate-portable-battery-boosters-of-2024-full-analysis-cnet/"><u>Experts' Picks for Ultimate Portable Battery Boosters of 2024 - Full Analysis | CNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-find-x7-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Find X7 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nubia-red-magic-8s-proplus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nubia Red Magic 8S Pro+ in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-5-best-finger-tech-for-virtual-reality-mastery/"><u>In 2024, 5 Best Finger Tech for Virtual Reality Mastery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-budding-filmmakers-companion-understanding-display-quality-101/"><u>In 2024, The Budding Filmmaker’s Companion Understanding Display Quality 101</u></a></li>
+<li><a href="https://facebook.techidaily.com/limit-sponsored-content-tailoring-on-networking-sites/"><u>Limit Sponsored Content Tailoring on Networking Sites</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor X50i+ | Dr.fone</u></a></li>
+</ul></div>
 

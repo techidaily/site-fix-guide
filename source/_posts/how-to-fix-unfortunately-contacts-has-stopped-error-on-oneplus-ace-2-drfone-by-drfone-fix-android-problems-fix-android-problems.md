@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus Ace 2 | Dr.fone
-date: 2024-07-14T05:53:09.788Z
-updated: 2024-07-15T05:53:09.788Z
+date: 2025-01-20T16:07:27.808Z
+updated: 2025-01-22T16:10:32.434Z
 tags: 
   - problems
 categories:
@@ -21,8 +21,6 @@ It can occur while you launch the app or while you’re in the app already findi
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -56,6 +54,10 @@ From following screen, fill the fields of “Brand”, “Name”, “Model”, 
 
 ![contacts stopping on samsung - enter info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Download Firmware package
 
 Just follow the on-screen steps for booting your OnePlus Ace 2 into download mode. Then, hit the “Next” button to proceed with downloading the most suitable firmware package for your OnePlus Ace 2.
@@ -67,6 +69,10 @@ Step 5: Repair Android phone
 Once the software downloads, the program will automatically repair any issues irking over your phone. Now, your phone is all free from contacts error.
 
 ![contacts stopping on samsung - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 9 Common ways to fix “Unfortunately, Contacts Has Stopped”
 
@@ -92,6 +98,10 @@ The cache memory basically stashes the copies of the concerned application. It i
 
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.3 Wipe cache partition
 
 As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the OnePlus Ace 2 device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
@@ -104,7 +114,15 @@ As we know the cache memories are the temporary files build by the firmware. The
 
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the OnePlus Ace 2 device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.4 Disable Google+ app
 
@@ -141,6 +159,10 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 - At last, just select “Reset default apps”.
 
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.7 Delete voicemail
 
@@ -179,10 +201,6 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 SIM cards are small chips that act as a connecting medium between your cell phone and your carrier. It is programmed to help your carrier identify your cell phone account with certain information. And eventually, you are enabled to make calls and to make use of mobile internet. Now, if your device is showing “SIM not provisioned” on Android then it signifies that the connection to carrier network cannot be established or perhaps, your carrier isn’t able to identify your cell phone account.
 
-
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why does the error “SIM not provisioned MM#2” pop up?
 
 There can be numerous reasons behind the pop up that reads “SIM not provisioned” on Android. But basically, it most probably affects the users who have registered a new SIM card. If you get to experience this issue in other situations or if the SIM is not working in Android, then the problem is with the SIM card and needs to be replaced. Anyways, here is a list of situations when the “SIM not provisioned” error may bother you.
@@ -204,8 +222,6 @@ A yet another reason could be that your SIM card got deactivated by your carrier
 
 Without talking any further, let’s straightly get to the first and the easiest way to repair SIM not provisioned issue on Android. For this purpose, we’re glad to introduce [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), one of its kind of tool that is capable of repairing almost all sort of Android OS issues in just a matter of few clicks. Whether it is SIM not provisioned on Android or SIM not working in Android or your device stuck in a boot loop or black/white screen of death. The most probable reason for these errors is Android OS corruption. And with Dr.Fone – Repair (Android) you can efficiently and effectively repair your Android OS in a hassle freeway.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix "SIM not provisioned MM#2" error
@@ -226,6 +242,10 @@ Download and launch the Dr.Fone toolkit on your computer and then opt for the "S
 
 ![fix sim not provisioned on android - install the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2. Opt for Android Repair and key in important information
 
 Now, hit on the "Android Repair" from the 3 options on the left, followed by hitting the "Start" button. From the upcoming screen, you’ll be asked to key in important device-related information, like brand, model, country, and carrier details. Hit "Next" afterward.
@@ -236,9 +256,6 @@ Step 3. Boot your device in Download mode
 
 You must put your device in Download mode for better repairing of your Android OS. Simply follow the onscreen guide to boot your Android in DFU mode and hit "Next" thereafter. Once done, the software will automatically start downloading the most compatible and recent firmware for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix sim not provisioned on android - boot in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 4. Initiate Repairing
@@ -246,6 +263,10 @@ Step 4. Initiate Repairing
 As soon as the download completes, the software verifies the firmware and automatically initiates repairing your OnePlus Ace 2. Within a short period, you’ll notice that your OnePlus Ace 2 has been successfully repaired.
 
 ![fix sim not provisioned on android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
@@ -255,9 +276,6 @@ As soon as the download completes, the software verifies the firmware and automa
 
 At times, the issue can be as simple as cleaning your SIM card and SIM slot properly. Ensuring that SIM is not wet either and then putting it back into its place. If this works, then the SIM not working in Android was due to the dirt or moisture that was preventing proper contact between SIM card pins and smartphone circuit.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Insert the SIM card correctly
 
 If your SIM card was working properly until yet, there is a good possibility that the SIM card may have moved a bit from its actual location. Eventually, there is poor contact between the SIM card pins and the circuit. Try inserting your SIM card properly with the following steps.
@@ -302,8 +320,6 @@ Still, wondering how to fix SIM not provisioned? Perhaps, nothing worked for you
 In wrapping up, SIM not provisioned errors on Android can be troubling, but they're certainly fixable. There are several methods, from a simple device restart to reaching out to your network provider. But if these don't work, we suggest trying [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool is known for its ability to handle an array of Android issues and could be just what your device needs. Navigate your tech challenges with ease using Dr.Fone.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-
 
 ## Fix Can't Take Screenshot Due to Security Policy on OnePlus Ace 2
 
@@ -358,8 +374,9 @@ You Are Using a Secure Folder
 Companies design secure folders to protect your most sensitive data from unauthorized access, so screenshots are not allowed within them.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2. 8 Ways To Take Screenshots When You Can’t Due to Security Policy
 
 If you’re trying to take a screenshot of an app or website with a security policy in place, there’s usually no way to circumvent it. However, there are a few things you can do to take pictures of these apps and website content.
@@ -480,11 +497,12 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 ![select correct device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Follow the in-app instructions to put your OnePlus Ace 2 on Download mode, then click **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![put android on download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - **Step 6:** Wait while the firmware automatically downloads.
@@ -515,7 +533,6 @@ Although there are ways to bypass the “**Can’t take screenshot due to securi
 
 If you think the issue is with your Android system, or your device becomes bricked after trying other methods, experiencing app crashes, or otherwise malfunctioning, try using the Dr.Fone System Repair tool. It is worth trying and can fix most Android system issues in a few minutes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -528,9 +545,26 @@ If you think the issue is with your Android system, or your device becomes brick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digital-divas-top-ten-gamers-on-youtube/"><u>[Updated] In 2024, Digital Divas Top Ten Gamers on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-leading-edge-imaging-the-most-excellent-4k-cams-for-2024/"><u>[Updated] Leading Edge Imaging The Most Excellent 4K Cams for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/10-websites-for-premium-quality-vector-stock-images-for-2024/"><u>10 Websites for Premium-Quality Vector Stock Images for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2023s-best-free-dvd-players-for-windowsmac-pcs/"><u>2023'S Best Free DVD Players for Windows/Mac PCs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-find-my-friends-work-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-poco-f5-pro-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Poco F5 Pro 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-poco-x5-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Poco X5 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-vivo-v29-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo V29 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-hd-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 HD Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-t2-pro-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo T2 Pro 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-verdict-on-the-groundbreaking-lenovo-thinkpad-x1-fold-remarkable-yet-imperfect-laptop-innovation/"><u>The Verdict on the Groundbreaking Lenovo ThinkPad X1 Fold: Remarkable Yet Imperfect Laptop Innovation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-8-undead-adventures-ultimate-zombie-game-guide/"><u>Top 8 Undead Adventures Ultimate Zombie Game Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-childrens-tablets-endorsed-by-parents-discover-the-ideal-picks-on-zdnet/"><u>Top-Rated Children's Tablets Endorsed by Parents – Discover the Ideal Picks on ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphones-auto-brightness-feature-a-list-of-key-points/"><u>Understanding iPhone's Auto Brightness Feature: A List of Key Points</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-best-online-video-editors-compatible-with-chromebook-for-2024/"><u>Updated The Best Online Video Editors Compatible with Chromebook for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wi-fi-progression-demystified-unveiling-the-secrets-of-80211bgn-a-ac-be-and-ax-specifications/"><u>Wi-Fi Progression Demystified: Unveiling the Secrets of 802.11B/G/N, A, Ac, Be & Ax Specifications</u></a></li>
+</ul></div>
 

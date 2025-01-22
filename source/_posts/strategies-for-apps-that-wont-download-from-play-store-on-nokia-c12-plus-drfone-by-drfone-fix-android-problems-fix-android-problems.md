@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Nokia C12 Plus | Dr.fone
-date: 2025-01-09T09:14:51.380Z
-updated: 2025-01-16T10:26:16.715Z
+date: 2025-01-18T16:06:34.972Z
+updated: 2025-01-22T16:05:54.878Z
 tags: 
   - problems
 categories:
@@ -26,6 +26,10 @@ The reasons below collectively contribute to the frustration users experience wh
 
 ![confused about apps not downloading](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Connectivity Issues
 
 Slow or unstable internet connections can interfere with the download process. It often leads to failed or delayed app installations. You will experience frustration when faced with connectivity issues, impacting your ability to access desired apps.
@@ -45,6 +49,10 @@ Issues with verifying Google accounts can restrict access to the Play Store. It 
 ### App Download Restrictions
 
 Device settings or parental controls may impose restrictions on certain app downloads. You may encounter limitations in accessing specific apps. It can affect the Nokia C12 Plus device's versatility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Incorrect Date and Time Settings
 
@@ -111,15 +119,7 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![dr.fone completion message window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part IV. 8 Other Methods of Resolving Common App Downloading Issues
 
@@ -135,21 +135,25 @@ A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u
 
 ![android internal storage menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update the Play Store
 
 An outdated Play Store version may lead to compatibility issues. Open the Google Play Store, go to **Settings**, and tap the **Play Store version**. If an update is available, install it to ensure compatibility with the latest apps.
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Clear Play Store Cache and Data
 
 Cached data in the Play Store can sometimes cause download problems. Head to the Nokia C12 Plus device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Verify Google Account
 
@@ -168,6 +172,10 @@ Incorrect date and time settings may disrupt the authentication process. Verify 
 Device settings or parental controls might impose restrictions on certain app downloads. Examine the download restrictions in the Nokia C12 Plus device settings and adjust them accordingly to allow for the installation of desired apps.
 
 ![download restrictions on android](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart the Nokia C12 Plus device
 
@@ -201,10 +209,6 @@ A **Nokia C12 Plus 4 not turning on** might simply be a victim of a drained batt
 
 ![power source issues](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Reason 3. Charging Port Issues
 
 **Solution:** Check the charging port thoroughly to identify any dirt, debris, or signs of damage. Gently clean the port using compressed air or a small brush. If there's visible damage, consider professional repair services.
@@ -232,6 +236,10 @@ Sometimes, a Nokia C12 Plus 3 might not turn on due to physical damage incurred 
 **Solution:** [Check for any hardware malfunction symptoms](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html) such as [overheating](https://drfone.wondershare.com/iphone-problems/iphone-overheating-after-updating-to-ios-17.html), unusual sounds, or a burnt smell. If any such signs are evident, refrain from attempting to turn on the Nokia C12 Plus device. You should seek professional assistance from authorized service centers.
 
 ![google pixel hardware malfunction](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Scenario 3. Buggy Android Smartphone
 
@@ -293,6 +301,10 @@ Lastly, the repair process will get started and can be viewed in a progress bar.
 
 ![repair android device successfully](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scenario 5. Need for a Power Cycle
 
 At times, an Android device, including the Nokia C12 Plus 3/4, might benefit from a power cycle procedure. This process involves completely refreshing the Nokia C12 Plus device's system. It potentially **my Nokia C12 Plus 3 won’t turn on** issues, temporary bugs, or system hang-ups. These issues prevent the Nokia C12 Plus device from turning on or functioning properly.
@@ -322,7 +334,7 @@ When an Android device experiences severe software damage, it can lead to major 
 ![reset settings google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reason 2. Factory Reset as a Solution
@@ -409,10 +421,6 @@ Step 1: To begin with the process, launch the software on your computer and sele
 
 ![fix home button not working android](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Thereafter, connect your Nokia C12 Plus to the computer using a USB cable and select the “Android Repair” tab from the left menu.
 
 ![home button not working android - connect device](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -428,6 +436,10 @@ Step 4: After that, the software will download the appropriate firmware to repai
 Step 5: After downloading the firmware, the software will start the repair process. Wait for a few seconds, the problem should get fixed and your phone will get back to its normal state.
 
 ![home button not working android - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.2 Force Restart your Android
 
@@ -455,10 +467,6 @@ Once you are done with the above steps, restart your phone and restore your data
 
 ![home button not working android - factory reset](https://images.wondershare.com/drfone/article/2019/02/factory-reset-phone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1.4 Update Android Firmware
 
 It might be the case that your Android firmware is not updated and that’s why you are experiencing the home button not working Android problem. Sometimes, not updating your Android firmware can cause various issues and problems while using your device. So, you should update it, and here are steps on how to do it:
@@ -468,10 +476,6 @@ Step 1: Open the Settings and then, go to “About device”. Next, click “Sys
 Step 2: After that, click “Check for updates” and if updates are available, then download and install it to update your Android version.
 
 ![home button not working android - update android](https://images.wondershare.com/drfone/article/2019/02/update-firmware.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: What if the Home Button fails due to hardware reasons?
 
@@ -501,7 +505,7 @@ Button Savior app is one of the ultimate apps that can help you to fix the Andro
 ![button savior](https://images.wondershare.com/drfone/article/2019/02/button-savior-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pros:
@@ -515,10 +519,6 @@ Cons:
 - The root version of the app can cause data loss.
 
 URL: [https://play.google.com/store/apps/details?id=com.smart.swkey" target="\_blank" rel="nofollow](https://play.google.com/store/apps/details?id=com.smart.swkey)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.3 Navigation Bar (Back, Home, Recent Button) app
 
@@ -593,21 +593,19 @@ Hopefully, the methods covered in this post helps you to fix Android home and ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-savory-sensations-top-youtube-food-influencers-for-2024/"><u>[Updated] Savory Sensations Top YouTube Food Influencers for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-step-by-step-navigation-in-telegram-web-app-for-2024/"><u>[Updated] Step-by-Step Navigation in Telegram Web App for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-soften-image-periphery-with-circular-light-blend-photoshop/"><u>2024 Approved Soften Image Periphery with Circular Light Blend Photoshop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/auto-gpt-vs-gpt-4-does-it-still-shine-on-its-own/"><u>Auto-GPT Vs. GPT-4: Does It Still Shine on Its Own?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-tecno-camon-30-pro-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Camon 30 Pro 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-note-12t-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi Note 12T Pro Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-pova-5-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Pova 5 Pro in Minutes | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nokia-c02-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nokia C02? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/jujutsu-kaisen-making-waves-tiktok-edition-for-2024/"><u>Jujutsu Kaisen Making Waves TikTok Edition for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-v-purse-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor V Purse Black and White | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sonic-storytelling-instagrams-musical-tale-unfolding/"><u>Sonic Storytelling Instagram's Musical Tale Unfolding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trust-but-verify-why-not-let-ai-handle-your-document-summaries/"><u>Trust, but Verify: Why Not Let AI Handle Your Document Summaries?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-insiders-10-list-top-terraria-upgrades/"><u>[New] 2024 Approved Insider's 10 List Top Terraria Upgrades</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-drive-more-watch-time-not-churn-discover-the-top-6-techniques-on-youtube/"><u>[New] In 2024, Drive More Watch Time, Not Churn Discover the Top 6 Techniques on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-exclusive-crafting-uniqueness-with-120plus-original-story-titles-on-snapchat/"><u>2024 Approved Exclusive Crafting Uniqueness with 120+ Original Story Titles on Snapchat</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-on-redmi-a2plus-convert-mts-for-redmi-a2plus-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Redmi A2+-convert MTS for Redmi A2+</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/effortless-windows-file-server-snapshots-a-step-by-step-tutorial-for-all-system-types/"><u>Effortless Windows File Server Snapshots - A Step-By-Step Tutorial for All System Types</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mp4-file-editor-for-windows-8-quick-and-easy-video-editing/"><u>MP4 File Editor for Windows 8 Quick and Easy Video Editing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a18-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A18 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/professional-text-editing-software-emeditor-pro-version-900-beta-update/"><u>Professional Text Editing Software - EmEditor Pro Version 9.00 Beta Update</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-itel-a60s-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Itel A60s Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-13c-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi 13C Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/revive-your-aging-pc-with-these-5-cost-free-tricks-for-windows-11-users-insights-from-zdnet/"><u>Revive Your Aging PC with These 5 Cost-Free Tricks for Windows 11 Users - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ited-visual-potential-free-themes-for-channels/"><u>Unlimited Visual Potential – Free Themes for Channels</u></a></li>
 </ul></div>
 

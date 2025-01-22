@@ -1,7 +1,7 @@
 ---
 title: How To Fix Unresponsive Phone Touchscreen Of Nokia C12 | Dr.fone
-date: 2024-07-14T05:57:38.246Z
-updated: 2024-07-15T05:57:38.246Z
+date: 2025-01-19T16:01:43.255Z
+updated: 2025-01-22T16:03:28.788Z
 tags: 
   - problems
 categories:
@@ -30,9 +30,6 @@ Here are some of the top causes why your **phone screen stopped working,** main
 
 If your Android **phone is not responding to touch,** it can be due to a cracked LCD causing temperature variants or magnetic fields to malfunction on your Nokia C12.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cracked screen iphone](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-02.jpg)
 
 For iOS users, your iPhone will temporarily stop working if it detects extreme temperatures such as a too-hot or too-cold reading. You should turn off your iPhone and let it cool down or warm to a normal temperature.
@@ -51,6 +48,10 @@ It may not respond properly when an Android device is dirty due to water, sweat,
 
 ![dirty samsung screen](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: What To Do When Your Smartphone Is Not Responding to Touch
 
 Here is a list of things you should do **how to fix a frozen phone touch screen,** whether you’re using an iPhone or an Android smartphone.
@@ -65,6 +66,10 @@ Your **screen touch not working** can sometimes get fixed by simply cleaning the
 
 Unplug any external device connected to your iPhone’s Lightning port or USB-C if your **phone screen stops working**. For Android users, meanwhile, disconnect any accessories like chargers or wireless headphones. After that, try using the touchscreen. If it works, the outcome proves that the fault appeared due to the external device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Force Restart Your Device
 
 If your **phone screen is still unresponsive**,maybe it **is o**verloaded. You should force restart your Nokia C12. It doesn’t delete any data. Here’s how.
@@ -76,6 +81,10 @@ Here’s how to force restart your smartphone to fix your **phone screen that’
 - Press and hold the **Power**and **Volume Down** buttons simultaneously for more than 7 seconds to force a reboot.
 
 ![samsung force restart](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **E****xample 2: For Nokia C12 Redmi**
 
@@ -158,6 +167,10 @@ Here are the pros and cons of using Wondershare Dr.Fone (Android)
 
 - The iOS and Android versions of Wondershare Dr.Fone are sold separately. You’ll have to get each version of the program if you own a smartphone for both iOS and Android.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pricing
 
 The iOS and Android versions of Wondershare Dr.Fone has different price plans. See them below.
@@ -217,9 +230,6 @@ Knowing the common causes of an **unresponsive phone touchscreen** is the first
 
 Wondershare Dr.Fone works on almost all modern smartphones today and can fix a **stop-working phone screen** within less than 10 minutes. It’s beginner-friendly and doesn’t require advanced technical know-how to use right away.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Top 4 Android System Repair Software for Nokia C12 Bricked Devices
 
 Is your Nokia C12 device showing signs of being "bricked" or "soft-bricked"? When a **Nokia C12 is bricked**, it becomes unresponsive and unusable. But fear not, as this article will guide you through reviving your device's functionality. It will delve into the significance of unbricking and how it restores usability.
@@ -231,6 +241,10 @@ Moreover, this article will introduce you to the world of **Nokia C12 unbrick to
 ## Part 1: Understanding Bricked Nokia C12
 
 Have you ever heard the term "bricked" concerning your Nokia C12 device? This section explains it to you in simple terms. Imagine your device becoming like a brick, unresponsive and seemingly lifeless. That's what happens when a **Nokia C12 gets bricked**. There are two main types of brick: soft brick and hard brick.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soft Brick
 
@@ -276,6 +290,10 @@ Dr.Fone - System Repair (Android) is like a magic wand for your Nokia C12 device
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
@@ -288,9 +306,6 @@ Repair Android System Errors without Any Trouble.
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android system repair](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 #### Key Features
@@ -335,9 +350,6 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Nokia C12*
 
 - **Step 3:** When you click through to the next window, the service will automatically recognize the manufacturer of the Android device. Choose the appropriate **Brand**, **Name**, **Model**, **Country**, and **Carrier** from the drop-down menus. Select **OPEN** in the **Carrier** area if the phone is unlocked. The next step is to tick the box labeled **I accept the risk and am ready to continue**. Click **Next** to proceed with the rest of the Nokia C12 device repair.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 4:** Put your Nokia C12 into **Download Mode** when prompted.
@@ -358,10 +370,11 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Nokia C12*
 
 **Take Note:** Backing up your Android is necessary before doing any Android repair.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone firmware ready android](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** The prompt window will show the completion message. If the Android device boots normally, you can close the tool by clicking the **Done** button. Press the **Try Again** button to try powering on the Nokia C12 device again if it does not turn on automatically.
 
@@ -393,6 +406,10 @@ Repair System & Phone Master's advantages include the following:
 Below is the disadvantage of this software:
 
 - Repair capabilities might be limited for complex issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### <u>System Repair for Android</u>
 
@@ -488,6 +505,10 @@ By following these easy tips, you can keep your Nokia C12 device running smoothl
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Encountering a **bricked Nokia C12** device can be a frustrating roadblock. However, there's a silver lining – the power of an Android system repair software like Dr.Fone – System Repair (Android). This user-friendly tool acts as your device's superhero, rescuing it from the clutches of bricking incidents.
@@ -501,7 +522,6 @@ The evolution of smartphones signifies the development of mobile communication t
 Nokia C12 smartphones are gaining popularity owing to their low costs, high quality, and innovative features. High-resolution cameras, extensive battery life, and lightning-fast processing are just a few of the advantages of these mobile devices. Nevertheless, customers may sometimes need help with issues, such as a non-functioning Nokia C12 touchscreen, which may be challenging.
 
 Some common issues might arise for Nokia C12 phone users. The Redmi note 4 touch not working is a serious problem. It can only go up to the initialization screen. In this guide, you'll find the information you need to troubleshoot and fix the most common problems reported by Motorola customers.
-
 
 ## **What causes a Nokia C12 Screen to be unresponsive?**
 
@@ -589,6 +609,10 @@ Doing a factory reset may be your last remaining choice if the preceding solutio
 
 If you want to fix issues like this, most simply, Dr. Fone offers that. It is made to provide you with a complete mobile solution. You may have your phone fixed without losing any information. Dr. Fone's many handy tools will quickly get your phone back in working order.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **How to avoid a Nokia C12 screen unresponsive?**
 
 Users may take several precautions to avoid the Nokia C12 screen unresponsive problem. Stop using any app stores or other unofficial app providers. There is a risk that doing so may damage your device or introduce viruses that will force your phone to restart. There's also a risk of losing important information like photos and files.
@@ -605,9 +629,6 @@ Sometimes, Nokia C12 smartphones may experience problems with their screen. This
 
 When following the directions, the user may require more research into some troubleshooting techniques. If this is the case, Dr.Fone Repair is usually the solution. The fact that Dr. Fone can continually tweak his system of unresponsive screens is wonderful news. This helpful tool can fix both black screens and endless starting cycles. That's why it's an integral part of every modern computer.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -620,9 +641,21 @@ When following the directions, the user may require more research into some trou
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-engaging-your-audience-ranked-top-20-tiktok-caption-techniques/"><u>[New] Engaging Your Audience Ranked Top 20 TikTok Caption Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-mobile-thumbnail-creation-for-compelling-youtube-content/"><u>[New] Step by Step Mobile Thumbnail Creation for Compelling YouTube Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-become-a-pro-editor-in-seconds-canvas-essential-secrets/"><u>[Updated] Become a Pro Editor in Seconds Canva's Essential Secrets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/url/"><u>「無料で挿入可能な動画をダウンロード: URL回収ガイドとダウンロード不可時の工夫」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-online-queries-discover-why-perplexer-is-the-top-choice-for-ai-enhanced-google-searching/"><u>Elevate Your Online Queries: Discover Why Perplexer Is the Top Choice for AI-Enhanced Google Searching</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guide-pratique-pour-arreter-la-synchronisation-icloud-sur-votre-mac-strategies-et-exemples-de-scenarios-reels/"><u>Guide Pratique Pour Arrêter La Synchronisation iCloud Sur Votre Mac - Stratégies Et Exemples De Scénarios Réels</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-vs-yi-who-will-lead-the-high-quality-action-race/"><u>In 2024, GoPro Vs. YI Who Will Lead the High-Quality Action Race?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y27s-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y27s Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-podcasters-guide-to-seamless-streaming-setup-for-2024/"><u>The Podcaster’s Guide to Seamless Streaming Setup for 2024</u></a></li>
+</ul></div>
 

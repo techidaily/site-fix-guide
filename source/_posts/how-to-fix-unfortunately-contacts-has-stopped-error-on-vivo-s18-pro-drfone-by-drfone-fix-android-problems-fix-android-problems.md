@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on Vivo S18 Pro | Dr.fone
-date: 2024-07-14T05:55:08.209Z
-updated: 2024-07-15T05:55:08.209Z
+date: 2025-01-20T16:00:50.141Z
+updated: 2025-01-22T16:03:26.988Z
 tags: 
   - problems
 categories:
@@ -21,8 +21,6 @@ It can occur while you launch the app or while you’re in the app already findi
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -202,6 +200,10 @@ Similar to the "[Blue Screen of Death](https://drfone.wondershare.com/android-is
 
 If you face the situations mentioned above, this is clearly a case of the Android screen black. But don't worry about that. You can follow the article below to get rid of this situation on your own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to rescue data when Android gets black screen of death?
 
 This annoying Android black screen of death is making it impossible to access your internal data. So, the possibility is that you might lose all the data. We have a solution for all of your data recovery problems from a damaged Android device.
@@ -211,8 +213,6 @@ The solution for recovery data is the [Dr.Fone - Data Recovery (Android)](https:
 ![Dr.Fone - Data Recovery (Android)](https://images.wondershare.com/drfone/guide/recover-data-from-android-device-3.png)
 
 Use this revolutionary toolkit to get the data back from the black tablet screen of death. Connect the Vivo S18 Pro device with the PC after installing this tool and follow the on-screen instruction, and all of your data will be transferred to your PC. Unfortunately, the tool is supported on selected Vivo S18 Pro Android devices as of now.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -224,6 +224,10 @@ A Dedicated Tool to Retrieve Data from [Broken Android Devices](https://www.wond
 - Compatible with most Vivo S18 Pro devices.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: 9 Solutions to fix the black screen of death of Android
 
@@ -242,8 +246,6 @@ A Dedicated Tool to Retrieve Data from [Broken Android Devices](https://www.wond
 Facing an Android device with a black screen of death, I believe, is one of the gloomiest moments of one's life, especially for those who know little about the technical part of Android. But here is the truth we have to admit: most cases of the black screen of death arise due to system glitches in Android.
 
 What to do? Shall we find someone who is tech-savvy to seek help? Come on, this is the 21st century, and there are always one-click solutions to deal with technical issues for laymen like you and me.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -276,14 +278,15 @@ Fix Black Screen of Death for Android In One Click
 
 5. Then the tool will download the Android firmware and flash the new firmware to your Vivo S18 Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![fixing android black screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 6. A moment later, your Vivo S18 Pro will be repaired completely, and the black screen of death will be fixed.
 
     ![android brought out of black screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Video guide: How to fix the Android black screen of death step by step**
 
@@ -318,8 +321,9 @@ Step 4: After you’re done with the cleaning, it’s best to charge the phone f
 ![wa stickers](https://images.wondershare.com/drfone/article/2023/08/android-black-screen-of-death-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3.4 Remove the battery
 
 If your phone’s battery is removable, you can try taking it out and trying again if restarting and cleaning it doesn’t fix the problem.
@@ -337,6 +341,10 @@ This easy and straightforward method should help you fix your Android screen bla
 ### 3.5 Recharge the Vivo S18 Pro device
 
 If your Vivo S18 Pro screen suddenly goes black, let the battery die completely. Then once the battery is completely dead, you should plug it in to charge and turn it on by pressing the Power button. Try to check if you still encounter the issue after doing so.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.6 Wipe cache partition to fix black screen of death
 
@@ -400,6 +408,10 @@ Step 3: Activate Safe mode by clicking the “Safe Mode” icon.
 
 Step 4: To return to Normal mode, turn off your device and then turn it back on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.9 Factory reset to fix Android black screen of death
 
 The factory reset is the option that enables the factory state of your device by erasing all data, settings, bugs, and apps. Your device will be fresh like factory condition after this reset. Worth mentioning here, you’ll lose all the internal data and installed apps after this reset. So, to overcome the Android tablet black screen of death, you must perform this action as the last option. Follow the below steps carefully.
@@ -438,8 +450,6 @@ But among the methods discussed above, Dr.Fone – System Repair just stood out 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
 ## Vivo S18 Pro Stuck on Screen – Finding Solutions For Stuck on Boot
 
 The market has embraced Vivo S18 Pro  for being the pioneers in the industry. Although the company lacked in providing explicit smartphones, they were still able to catch up with the race. Vivo S18 Pro C31, known to provide durability of the next level, is taking up the latest shelves of Vivo S18 Pro smartphones. Although the company promises reliability, there are several problems involving such smartphones.
@@ -470,6 +480,10 @@ A software update on your Vivo S18 Pro smartphone might be causing issues with t
 
 Do you seek to resolve the problem of the ****Vivo S18 Pro  Plus stuck on the Android One screen?**** There are specific techniques that can be tried as a remedy. These solutions are tried and recommended by experts. Go through the details provided below to solve the issues with your stuck Vivo S18 Pro screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Force Restart Vivo S18 Pro
 
 The first and most proclaimed technique to refresh Vivo S18 Pro devices under such a problem is to force restart them. If the Vivo S18 Pro device is stuck, you will have to perform this process by pressing the "Power" and "Volume Up" keys for 15 seconds. Continue holding the buttons until the Vivo S18 Pro device vibrates or restarts by showing the screen again.
@@ -488,9 +502,6 @@ Another quick remedy to try on your Vivo S18 Pro smartphones involves updating t
 
 ****Step 1:**** Open the “Settings” of your Vivo S18 Pro smartphone and continue to the “System” section in the list of options. You will have to access the “Advanced” options in the “System” menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose the system option](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-3.jpg)
 
 ****Step 2:**** As you lead to the advanced options, look for “System update” in the provided options. Look for the “Check for update” button. This will check if your Vivo S18 Pro needs any software updates or not.
@@ -514,6 +525,10 @@ As you launch Dr.Fone after downloading it on your computer, continue to the "Sy
 You will be directed to the Vivo S18 Pro device information screen, where you must define the identification parameters of the Vivo S18 Pro device. Select the brand, name, model, country, and carrier details for proper system recovery. On clicking "Next," you will receive a warning where you will have to type the number "000000" to proceed with the method.
 
 ![add the nokia phone details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3: Put Your Vivo S18 Pro in Download Mode****
 
@@ -551,12 +566,13 @@ The first thing to protect your Vivo S18 Pro smartphone from getting stuck on th
 
 If you feel frustrated by issues like ****Vivo S18 Pro being stuck on the Android One screen,**** the best thing to avoid such a problem is to keep your device updated at all costs. Whenever there is an update on your Vivo S18 Pro smartphone, make sure to install it on time and properly. Do not leave updates uninstalled for no reason, as they can hinder the Vivo S18 Pro device’s speed and performance.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Do Not Fool Around with System Files
 
 Changing or modifying system files can be fatal for smartphones. Thus, to keep your Vivo S18 Pro safe, you need to keep your hands away from such important files. Modifying a single file can make your device useless or put you in situations like a Vivo S18 Pro smartphone stuck on the boot. For that, the best tip is to keep yourself out of engagement.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Use Wondershare Dr.Fone To Manage All Data With Ease
 
@@ -564,17 +580,17 @@ As you have observed, the power of Dr.Fone can be a perfect phone manager for yo
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,675,795** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 With that, this brings the article on Vivo S18 Pro smartphones to a conclusion. If you are still facing issues with your ****Vivo S18 Pro  stuck on the "Vivo S18 Pro" screen,**** this article is the perfect solution for your problem.
 
 With all the provided methods, we do hope that you will be able to restore the status of your Vivo S18 Pro smartphone and make it functional. For the finest results, you have also discovered Dr.Fone – System Repair (Android) as the best solution for repairing such devices.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -588,9 +604,26 @@ With all the provided methods, we do hope that you will be able to restore the s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2023-in-review-social-medias-viral-videos-on-twitter/"><u>[New] 2023 in Review Social Media's Viral Videos on Twitter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enlightenment-in-education-top-10-history-youtube-channels/"><u>[New] In 2024, Enlightenment in Education Top 10 History YouTube Channels</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-motorola-edge-40-neo-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Motorola Edge 40 Neo PC | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-closer-look-at-luminance-and-its-hdr-achievements-for-2024/"><u>A Closer Look at Luminance and Its HDR Achievements for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/automatisierte-veranderung-wie-traditionelle-unternehmen-in-digitale-strukturen-ubergehen/"><u>Automatisierte Veränderung: Wie Traditionelle Unternehmen in Digitale Strukturen Übergehen</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 11 Pro?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-find-x7-ultra-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Find X7 Ultra in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-tecno-spark-20-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Tecno Spark 20 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-11-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 11 Pro Max without Password?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c12-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C12 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-open-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Open Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-12plus-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme 12+ 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-lava-blaze-2-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Blaze 2 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/rewinding-the-record-of-a-twitch-broadcast-top-ten-strategies/"><u>Rewinding the Record of a Twitch Broadcast Top Ten Strategies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f54-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F54 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-strategies-for-identifying-and-eradicating-smartphone-spyware-cybersecurity-hub/"><u>Step-by-Step Strategies for Identifying & Eradicating Smartphone Spyware | CyberSecurity Hub</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/troubleshooting-pc-issues-fixing-ghostwire-tokyo-continuous-crashes/"><u>Troubleshooting PC Issues - Fixing 'Ghostwire: Tokyo' Continuous Crashes</u></a></li>
+</ul></div>
 

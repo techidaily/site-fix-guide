@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Assessment: How Does Google's Pixel Navigate Photography Challenges?"
-date: 2025-01-13T06:02:47.133Z
-updated: 2025-01-15T23:02:23.378Z
+date: 2025-01-18T16:06:57.912Z
+updated: 2025-01-22T16:01:47.125Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Assessment: How Does Google's Pixel Navigate Photography Challenges?"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 ## Navigating Style vs Functionality: An In-Depth Look at Amazfit GTS Wearable Tech
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazfit GTS Smartwatch
 
@@ -37,13 +41,13 @@ Lifewire / Yoona Wagener
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazfit GTS Smartwatch
 
 ![Amazfit GTS](https://www.lifewire.com/thmb/A_Lpmewuqg5_v_xhsfuydQ5zl6E=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_HeroSquare-067af9089d9c4269979450e8963726c9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -69,6 +73,10 @@ _We purchased the Amazfit GTS_   _so our reviewer could put it to the test. Keep
 
  I used this device for a little over a week while sleeping, hiking, and running to see how this stylish tracker delivered. Though tracking data was never an issue, the software and companion app fell short of delivering a truly intuitive, user-friendly experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design: Lightweight and a little too familiar
 
  The Amazfit GTS is a super-light device at approximately 24.8 grams but isn’t flimsy. The body is made with aircraft-grade aluminum alloy, and the Corning 3 Gorilla glass covering the display is conveniently smudge-resistant. The back of the display is decidedly more plastic-looking, though the plate is covered in a matte finish with a pleasantly sturdy feel. The square watch face is slightly longer than it is wide, akin to the[Apple Watch](https://www.lifewire.com/apple-watch-se-review-5088223) . In fact, if you don’t look too closely, this device is almost an exact copy of this outsize name in the wearable game.
@@ -85,10 +93,6 @@ Lifewire / Yoona Wagener
 
  I was unable to test this device’s 50-meter water resistance for swimming or other aquatic workouts, but I did wear it in the shower without experiencing any issue. The manufacturer does note, however, that this wearable isn’t safe for hot showers or other water sports such as scuba diving, diving, and high-speed water sports, generally.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comfort: Easy to wear but not as user-friendly
 
  While the Amazfit GTS is stylish enough to wear all day and easily coordinate with your wardrobe and comfortable to sleep with, confusing interface issues impaired overall ease of use. Along with the modular watch faces, there are screens for nearly every data point measured, accessible by swiping up from the bottom of the device.
@@ -103,9 +107,17 @@ Lifewire / Yoona Wagener
 
 ![Amazfit GTS](https://www.lifewire.com/thmb/BCJ0gqS-gzR_dq3WSGazLqPMNCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_05-9f844a14ab734d9291e338b6fa2519da.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
  While the display looks great and is responsive, the lack of clarity about certain menu options, both the meaning and how to activate them, and the lack of control over data widget order, takes a few points away from the overall stylish look.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Performance: Solid GPS and decent activity tracking
 
@@ -119,13 +131,13 @@ Lifewire / Yoona Wagener
 
 ![Amazfit GTS](https://www.lifewire.com/thmb/lrymbZEsmkXZy1YnjpGE5QutCbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_04-109baf1e43444eff9789d9c02e2b2e77.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Yoona Wagener
 
  While sleep data is elaborate, it’s presented in a way that requires a lot of scrolling or tapping back and forth across screens. For that reason, I never felt like I received a concise tip for bettering or understanding my sleep habits, which made the data feel a little too overwhelming and repetitive to make it approachable. This is an issue I had with referring to the app for any supplementary information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Software: More style than substance
 
@@ -143,10 +155,6 @@ Lifewire / Yoona Wagener
 
 ![Amazfit GTS](https://www.lifewire.com/thmb/hqD81eq-Q8n6BPE_n48M4SpkIRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazfit_GTS_Product_03-97749edaabac498bb95b0f8a9f569f0a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
 
  Certain data points such as PAI, like other areas of the Zepp app, are backed by scientific citations and explanations of importance, but there’s just too much text to make any of it digestible or glanceable.
@@ -159,19 +167,11 @@ Lifewire / Yoona Wagener
 
  That’s pretty much the way I used this device, though with maybe an extra workout or two and with the display in always-on mode, and the battery drained by day seven. On the bright side, it recharged quickly in less than the manufacturer’s 2-hour estimate. Amazfit also claims that the battery can last up to 46 days in basic mode without Bluetooth or heart-rate monitoring turned on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Price: Slightly pricey for what it is
 
  The Amazfit GTS retails for about $120, though it’s possible to purchase it closer to $100\. While it’s more on the budget-friendly end of the spectrum, its Apple Watch-adjacent design doesn’t extend to the benefit of the first-rate fitness technology you’ll find in its alter ego.
 
  Spending between $100 to $130 for a style-conscious, band-style fitness tracker from heavy hitters such as[Fitbit](https://www.lifewire.com/what-is-fitbit-4176010) and Garmin could increase the tracking benefits considerably with extras like VO2 Max and SPO2 monitoring. For a little more (or less), gaining a user-friendly layout and companion app could be worth losing the Apple Watch aesthetic this device works hard to mirror.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Amazfit GTS vs. Garmin vivosmart 4
 
@@ -222,20 +222,16 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exploring-profit-sharing-in-youtube-short-creation/"><u>[New] In 2024, Exploring Profit Sharing in YouTube Short Creation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-static-to-sprightly-bouncing-text-animations/"><u>[New] In 2024, From Static to Sprightly Bouncing Text Animations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-art-of-photo-to-video-with-accompaniment-sounds/"><u>[Updated] The Art of Photo-to-Video with Accompaniment Sounds</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-seamless-techniques-for-documenting-digital-conferences-on-os-xpc/"><u>2024 Approved Seamless Techniques for Documenting Digital Conferences on OS X/PC</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/adjusting-your-screen-preferences-a-step-by-step-guide-through-the-windows-control-panel/"><u>Adjusting Your Screen Preferences: A Step-by-Step Guide Through the Windows Control Panel</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/earning-a-living-with-social-media-snaps/"><u>Earning a Living with Social Media Snaps</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-x8b-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor X8b Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-nokia-c300-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-visual-storytelling-crafting-impressive-imovie-video-intros/"><u>In 2024, Visual Storytelling Crafting Impressive iMovie Video Intros</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-note-30-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-a-guide-to-using-obs-studio-to-stream-to-facebook-for-2024/"><u>New A Guide to Using OBS Studio To Stream to Facebook for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-magic-6-lite-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Magic 6 Lite Black and White | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-voice-communication-in-modern-warfare-online-play/"><u>Solved! How to Restore Voice Communication in Modern Warfare Online Play</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-crossfade-audio-with-audacity-for-2024/"><u>[New] How to Crossfade Audio with Audacity for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-live-action-9-the-ultimate-guide/"><u>[New] Live Action, #9 The Ultimate Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-great-screen-capture-debate-obs-studio-versus-fraps-for-2024/"><u>[New] The Great Screen Capture Debate OBS Studio Versus Fraps for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-tecno-camon-20-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Tecno Camon 20 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-canon-mx340-printer-drivers-on-windows-10-8-or-windows-7-systems/"><u>How to Update Your Canon MX340 Printer Drivers on Windows 10, 8 or Windows 7 Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus Without Passcode?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/sony-xperia-10-v-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 10 V Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/wie-sie-ihre-windows-1011-installation-problemlos-auf-eine-andere-festplatte-verschieben-konnen-ssdhdd/"><u>Wie Sie Ihre Windows 10/11-Installation Problemlos Auf Eine Andere Festplatte Verschieben Können (SSD/HDD)</u></a></li>
 </ul></div>
 

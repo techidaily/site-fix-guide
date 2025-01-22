@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus 11R | Dr.fone
-date: 2024-07-14T05:53:06.411Z
-updated: 2024-07-15T05:53:06.411Z
+date: 2025-01-21T16:02:59.192Z
+updated: 2025-01-22T16:09:48.364Z
 tags: 
   - problems
 categories:
@@ -21,8 +21,6 @@ It can occur while you launch the app or while you’re in the app already findi
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -56,6 +54,10 @@ From following screen, fill the fields of “Brand”, “Name”, “Model”, 
 
 ![contacts stopping on samsung - enter info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Download Firmware package
 
 Just follow the on-screen steps for booting your OnePlus 11R into download mode. Then, hit the “Next” button to proceed with downloading the most suitable firmware package for your OnePlus 11R.
@@ -80,6 +82,10 @@ Our response to any minuscule issue is straightaway restarting phone. This helps
 ![contacts app stopping - retart android](https://images.wondershare.com/drfone/article/2019/04/restart-reboot-android-phone.jpg)
 
 Now, your device will quickly reboot the OnePlus 11R device. Once, the OnePlus 11R device regains its normal state, check whether the issue is coming again or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Clear cache and data of Contacts app
 
@@ -130,6 +136,10 @@ Many a times, we skip updating our device software thinking it is of less import
 
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
 ### 2.6 Reset App Preferences
@@ -141,6 +151,10 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 - At last, just select “Reset default apps”.
 
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.7 Delete voicemail
 
@@ -197,7 +211,9 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -254,13 +270,15 @@ Wait for the program to finish scanning the phone – once completed, you will b
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ShpCFggyBvs"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Android Phone Won't Turn On: **One Click Fix**
 
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -280,19 +298,11 @@ Prior to fixing the Android phone will not switch and getting things back in act
 
 Step 1: Run Dr.Fone on your computer once the installation is complete and tap the ‘Repair’ option form the interface. Now, connect your Android mobile with the computer.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Android Phone not turn on by repairing system](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
@@ -352,17 +362,12 @@ There are several reasons as to why your OnePlus 11R won’t turn on. The proble
 
 It is important to note that your phone contains some important data. Therefore, when your OnePlus 11R won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
 
-
-
 ## Cellular Network Not Available for Voice Calls On OnePlus 11R
 
 The "**Cellular Network Not Available for Voice Calls**" error is a common experience for many Android users. In our contemporary world, communication stands as the fundamental pillar of our existence. Yet, the malfunctioning of our devices hinders this connectivity. It often gives rise to numerous complications. Fortunately, your concerns are now a thing of the past.
 
 This article serves as your guide for troubleshooting and overcoming this frustrating dilemma. It has compiled expert perspectives, valuable tips, and detailed, systematic solutions. The article will go through the underlying causes behind this issue and explore potential fixes. By the conclusion of this article, you'll be armed with the necessary knowledge to tackle this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cellular network not available calls error](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-1.jpg)
 
 ## Part 1. Preliminary Reasons For Cellular Network Not Available For Voice Calls
@@ -421,6 +426,10 @@ Another crucial step in resolving this error involves ensuring that the Airplane
 
 ![toggle airplane mode](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 3. Selecting the Network Operator of the OnePlus 11R device
 
 In certain instances, manually selecting your network operator can help. It effectively resolves the "**Cellular Network Not Available for Voice Calls Android**" error on your OnePlus 11R. By choosing the network operator manually, you ensure a deliberate connection to a specific carrier. This potentially bypasses issues related to automatic network selection. Follow these steps to select your network operator manually:
@@ -449,13 +458,14 @@ There are situations where you're in an area with weak or no coverage from your 
 
 ![open mobile network connections](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Presently, you will encounter the "Data Roaming" option. Toggle this option on to enable data roaming on your device and resolve the issue.
 
 ![turn on data roaming](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 6. Update Android Smartphone
 
 Updating your OnePlus 11R's OS to the latest version can often resolve performance issues. It can also fix network connectivity issues, including the "Cellular Network Not Available" error. Manufacturers regularly release system updates containing bug fixes and security patches. It also includes enhancements that can address underlying software-related problems. Follow these steps to update your Android smartphone:
@@ -478,9 +488,6 @@ Performing a factory reset is a drastic but effective measure. It can resolve pe
 
 - **Step 2.** You will need to tap "Reset" to confirm your choice. Then, follow the on-screen guidelines carefully to complete the reset process.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![perform factory reset](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-12.jpg)
 
 ### Solution 8. Contact Carrier Provider
@@ -502,6 +509,10 @@ If you've exhausted all options and the issue persists, reaching out to your car
 Despite all your attempts, the **cellular network not available for voice calls** remains unresolved. It might state a more complex software-related issue or glitch within the OnePlus 11R device. However, there's a solution designed explicitly for addressing such complex issues. That software is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/), a comprehensive toolkit for Android devices. It stands out as the world's first one-click Android repair tool.
 
 Dr.Fone specializes in resolving a wide array of Android system issues, including the notorious [<u>black screen of death</u>](https://drfone.wondershare.com/samsung/fix-samsung-black-screen-after-dropping.html). With this tool, users can effortlessly restore their Android system to normal functionality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -545,9 +556,6 @@ Follow the guidance displayed on your device's screen to access Download Mode. O
 
 ![perform android repair successfully](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,336,459** people have downloaded it
@@ -564,7 +572,6 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
 
 ![drfone](https://images.wondershare.com/drfone/activity/icon-que.svg) What might be causing my SIM card to not display a network?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -577,9 +584,22 @@ Among the various methods discussed, Dr.Fone stands out as a top choice. Its tho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-minimca-homes-the-ultimate-guide-for-entry-level-builders/"><u>[New] 2024 Approved MiniMCA Homes The Ultimate Guide for Entry-Level Builders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/onvenient-viewing-setting-up-youtube-on-large-tv-panels-for-2024/"><u>[New] Convenient Viewing Setting Up YouTube on Large TV Panels for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-uncomplicated-podcast-live-master-the-art-of-livestreaming/"><u>[New] In 2024, Uncomplicated Podcast Live Master the Art of Livestreaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premium-capture-suite-chromebook-focus-for-2024/"><u>[New] Premium Capture Suite Chromebook Focus for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streaming-with-flair-xbox-one-edition-for-2024/"><u>[Updated] Streaming with Flair Xbox One Edition for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/identity-elite-vs-the-titans-of-twitter-blue-and-meta-gold/"><u>Identity Elite: Vs. The Titans of Twitter Blue & Meta Gold</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-itel-p40plus-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Itel P40+ Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-tecno-spark-go-2023-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Tecno Spark Go (2023) Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-the-art-of-nighttime-nirvana-with-advanced-sleep-innovations/"><u>Mastering the Art of Nighttime Nirvana with Advanced Sleep Innovations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sennheiser-headset-woes-heres-how-you-can-fix-your-game-one-mic-issues-easily/"><u>Sennheiser Headset Woes? Here's How You Can Fix Your Game One Mic Issues Easily</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-sony-xperia-5-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Sony Xperia 5 V Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 
