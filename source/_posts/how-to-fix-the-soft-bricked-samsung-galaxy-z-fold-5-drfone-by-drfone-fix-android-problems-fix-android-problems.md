@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy Z Fold 5? | Dr.fone
-date: 2024-07-14T05:49:55.790Z
-updated: 2024-07-15T05:49:55.790Z
+date: 2025-01-23T16:39:14.974Z
+updated: 2025-01-29T20:19:01.854Z
 tags: 
   - problems
 categories:
@@ -66,9 +66,6 @@ Firstly, you must root your phone and unlock the Bootloader. Every phone’s mec
 
 Once the Bootloader is unlocked, take a backup of all your data by selecting “Backup” or “Android” back in recovery mode. The process should not take long and all you need to do is tap “OK” to config backup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
@@ -114,6 +111,10 @@ Say you’re trying to take a screenshot on your Samsung Galaxy Z Fold 5 device,
 Some apps and websites, such as banking apps, store private data like financial and credit card details. Blocking capturing screenshots is a way to prevent unauthorized access to confidential information.
 
 ![cryptocurrency app screenshot error](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Follow Regulations
 
@@ -219,6 +220,10 @@ Smart View allows you to display your Samsung Galaxy Z Fold 5 device’s screen 
 
 ![cast samsung phone using smart view](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Alternatively, if you don’t have a smart TV, you can still mirror your phone screen display to your desktop or tablet using the Samsung Galaxy Z Fold 5 Flow app and take a screenshot of your phone’s screen instead.
 
 Use Disable Flag Secure Magisk Module
@@ -277,20 +282,29 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 ![firmware downloaded interface](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** Read the dialogue box note, enter the code in the input box, and click **Confirm**.
 
 ![enter code in the dialogue box](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 9:** Keep your smartphone connected and avoid using it while Dr.Fone is repairing it.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![repairing android device in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 - **Step 10:** If your device has started properly, click **Done** to close this app. Otherwise, click **Try again**.
 
 ![android system issue repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -312,13 +326,15 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 - When you **<u>disable some built-in apps</u>**, you might get in trouble with TouchWiz. Doing this sometimes can hamper the TouchWiz operation and raise the “**_unfortunately TouchWiz home has stopped_**” error message.
 - Many times **<u>installing some third-party apps and widgets</u>** can cause this problem. The apps like launchers can be conflicting with TouchWiz home launcher and therefore cease it to work. Also, a glitched widget is responsible for the same i.e. forces stop the TouchWiz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
 
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -364,10 +380,11 @@ Tip: You can use [Dr.Fone – Phone Backup (Android)](https://tools.techidaily.c
 
 You will get some instructions on your screen to keep your device in Download mode. Follow them according to the Samsung Galaxy Z Fold 5 device you own and hit “Next”. When you do this, the program will detect your device and let you download the latest firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
@@ -376,6 +393,10 @@ You will get some instructions on your screen to keep your device in Download mo
 Now, when the firmware is downloaded, the program will itself begin to repair your device. Wait and keep the Samsung Galaxy Z Fold 5 device connected until you get the notification for process completion.
 
 ![get android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear the cache data the TouchWiz
 
@@ -393,6 +414,10 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 
 Please note that this will delete all your Home screens post this method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disable Motion & gesture settings
 
 The functions regarding Motions and Gestures can be responsible for why **_TouchWiz home has stopped_** in your device. Usually the Samsung Galaxy Z Fold 5 devices running on Android version less than Marshmallow are prone to encountering this issue. Or the Samsung Galaxy Z Fold 5 devices having modest specs often fall prey to the issue. When you disable these settings, you might get out of the problem.
@@ -400,6 +425,10 @@ The functions regarding Motions and Gestures can be responsible for why **_Touch
 ### Change the Animation Scale
 
 When you use TouchWiz, it may consume higher memory usage for high amount of graphic maintenance. As a result, the “**_unfortunately TouchWiz home has stopped_**” error might crop up. Taking this into consideration, you should try reconfiguring the animation scale and get rid of the error. Here’s how:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear Cache Partition
 
@@ -425,9 +454,6 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Boot your phone to safe mode
 
 Here is the next solution to be followed when TouchWiz keeps stopping. As we already said, third-party apps can cause this issue, booting your device in the Safe mode will disable those apps temporarily. Hence you need to boot your Samsung Galaxy Z Fold 5 device to Safe mode and check if the reason is any third-party app.
@@ -450,9 +476,6 @@ Along with this, we would also suggest you go take backup of your data so that y
 - Notice if “Back up my data” is enabled or not. If not, turn it on and create backup.
 - Now, scroll for “Factory Data reset” option and confirm it by clicking “Reset Phone”.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![reset factory settings](https://images.wondershare.com/drfone/article/2019/02/reset-factory-settings.jpg)
 
 - Wait a few minutes and your device will reboot.
@@ -460,9 +483,6 @@ Along with this, we would also suggest you go take backup of your data so that y
 ### Install a new launcher to replace TouchWiz
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -476,9 +496,24 @@ We believe that you will find the above methods helpful. However, if still in ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-streamline-online-interactions-the-simple-science-of-clear-backgrounds-in-google-meet/"><u>[New] 2024 Approved Streamline Online Interactions The Simple Science of Clear Backgrounds in Google Meet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-streamers-to-millionaires-the-monetization-blueprint/"><u>[Updated] From Streamers to Millionaires The Monetization Blueprint</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-listenguide-review-for-2024/"><u>[Updated] ListenGuide Review for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/5-critical-questions-to-ask-before-investing-in-new-stereo-speakers/"><u>5 Critical Questions to Ask Before Investing in New Stereo Speakers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/complete-tutorial-on-configuring-custom-features-in-kodi-via-addons-repos-and-builds-using-filelinked/"><u>Complete Tutorial on Configuring Custom Features in Kodi via Addons, Repos and Builds Using FileLinked</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-s18-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo S18 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-xiaomi-redmi-12-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi Redmi 12 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-mini-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 mini Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-gamers-ultimate-guide-to-9-streams/"><u>In 2024, Gamer's Ultimate Guide to #9 Streams</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55t-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55T Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-c02-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia C02 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-flip-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Flip Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-y02t-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y02T Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tune-tracker-audio-for-visual-creations-for-2024/"><u>Tune Tracker Audio for Visual Creations for 2024</u></a></li>
+</ul></div>
 

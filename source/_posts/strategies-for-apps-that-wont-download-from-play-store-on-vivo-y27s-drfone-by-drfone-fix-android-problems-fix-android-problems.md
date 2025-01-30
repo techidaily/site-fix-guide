@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Vivo Y27s | Dr.fone
-date: 2025-01-16T16:10:00.298Z
-updated: 2025-01-22T16:09:39.472Z
+date: 2025-01-25T18:10:43.390Z
+updated: 2025-01-29T22:13:34.548Z
 tags: 
   - problems
 categories:
@@ -26,6 +26,10 @@ The reasons below collectively contribute to the frustration users experience wh
 
 ![confused about apps not downloading](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Connectivity Issues
 
 Slow or unstable internet connections can interfere with the download process. It often leads to failed or delayed app installations. You will experience frustration when faced with connectivity issues, impacting your ability to access desired apps.
@@ -45,6 +49,10 @@ Issues with verifying Google accounts can restrict access to the Play Store. It 
 ### App Download Restrictions
 
 Device settings or parental controls may impose restrictions on certain app downloads. You may encounter limitations in accessing specific apps. It can affect the Vivo Y27s device's versatility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Incorrect Date and Time Settings
 
@@ -83,10 +91,6 @@ The tool is designed to [<u>address a wide array of Android problems</u>](https:
 One of the standout features of Dr.Fone - System Repair is its high success rate in problem resolution without causing data loss. You can have confidence that your apps and important data remain intact throughout the repair process. It ensures a smooth solution and maintains the integrity of the user's device and data.
 
 When grappling with persistent issues hindering app downloads on the Google Play Store, having a reliable third-party tool becomes essential to safeguard your apps and ensure a seamless user experience. The next section will show you how to use the platform to fix the **apps not downloading in the Google Play Store** problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part III. First Choice: Use Dr.Fone - System Repair for App Downloading Issues
 
@@ -131,15 +135,15 @@ A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u
 
 ![android internal storage menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update the Play Store
 
 An outdated Play Store version may lead to compatibility issues. Open the Google Play Store, go to **Settings**, and tap the **Play Store version**. If an update is available, install it to ensure compatibility with the latest apps.
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clear Play Store Cache and Data
 
@@ -174,10 +178,6 @@ Sometimes, a simple restart can resolve various issues. Power off your device, w
 Ensuring a smooth app download experience demands attention to various factors. From connectivity to storage management, each step contributes to resolving download challenges. The careful review of date/time settings and download restrictions further enhances the process when you **cannot download from the Play Store**.
 
 For persistent issues, consider Dr.Fone - System Repair. The app is a viable option, providing a comprehensive approach. Embracing these measures ensures you can easily fix apps that won't download from the Play Store. Having a reliable tool beside you also fosters an uninterrupted and enjoyable downloading journey from the Play Store.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Full Guide: How To Fix Connection Is Not Private on Vivo Y27s
 
@@ -242,7 +242,7 @@ Encountering the **"your connection is not private" error on Android** can be a 
 In this section, we will explore some effective solutions to help you regain a secure and private connection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Clear your cache
@@ -273,10 +273,6 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4,322,863** people have downloaded it
 
 - **Step 2.** Begin Repair
@@ -297,6 +293,10 @@ Follow the instructions to put your Vivo Y27s into Download Mode. Once in Downlo
 
 ![Activate Download mode to download the firmware.](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5.** Confirm Installation
 
 Remember, the repair may erase data. It's advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar.
@@ -304,6 +304,10 @@ Remember, the repair may erase data. It's advisable to back up your data first b
 ![Confirm the repair process.](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 When done, click Done if your Android starts properly. If not, click Try Again to repeat the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Check and fix the date and time on your Android
 
@@ -330,7 +334,7 @@ However, keep in mind that this process can result in data loss, so it's essenti
 Most of the time, you won't need to go to the extreme of a factory reset. The simpler solutions mentioned earlier should take care of the Security Certificate Error on your Android.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -349,19 +353,23 @@ Vivo Y27s smartphones are gaining popularity owing to their low costs, high qual
 
 Some common issues might arise for Vivo Y27s phone users. The Redmi note 4 touch not working is a serious problem. It can only go up to the initialization screen. In this guide, you'll find the information you need to troubleshoot and fix the most common problems reported by Motorola customers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **What causes a Vivo Y27s Screen to be unresponsive?**
 
 The screen on your Vivo Y27s phone could stop responding for several reasons. The touchscreen, the system software, or the hardware itself might all be at fault. To effectively address an issue, it is crucial to locate its origins.
 
 The following are some potential reasons for an unresponsive screen on a Vivo Y27s device, along with descriptions of each.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **There are signs of soft bricking**
 
 A touch screen not working on Vivo Y27s smartphones indicates a soft brick (recoverable by firmware update), often caused by a defective or undercharged battery. System file corruption, old firmware, or failed upgrades are all possible causes. Several customers have complained that after installing a software update, their Vivo Y27s 4 or 5 device's screen became unresponsive and remained at the boot logo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **There might be issues with the Vivo Y27s device itself**
 
@@ -420,10 +428,6 @@ Steps to activate full screen gestures
 
 This may include gestures to get used to but it will also fix when your touchscreen sometimes stops responding.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Solution 5: Backup and Factory Reset is always a choice**
 
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/03/android-factory-reset-fix.jpg)
@@ -441,10 +445,6 @@ Doing a factory reset may be your last remaining choice if the preceding solutio
 
 ![dr fone system repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you want to fix issues like this, most simply, Dr. Fone offers that. It is made to provide you with a complete mobile solution. You may have your phone fixed without losing any information. Dr. Fone's many handy tools will quickly get your phone back in working order.
 
 ### **How to avoid a Vivo Y27s screen unresponsive?**
@@ -458,7 +458,7 @@ Avoiding severe temperatures and humidity may protect the Vivo Y27s device's int
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -481,20 +481,22 @@ When following the directions, the user may require more research into some trou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-proven-ways-to-enhance-your-fb-presence-and-boost-engagement/"><u>[New] 2024 Approved Proven Ways to Enhance Your FB Presence and Boost Engagement</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-finest-selection-of-5-sd-cards-for-hero-gopros/"><u>[New] The Finest Selection of 5 SD Cards for Hero GoPros</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-complete-guide-about-video-resolution-for-beginners/"><u>A Complete Guide About Video Resolution for Beginners</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/android/"><u>Android携帯機器におけるビデオ再生失敗時の復旧方法</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-7-plus-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 7 Plus</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-z-flip-5-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy Z Flip 5 Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-motorola-g24-power-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Motorola G24 Power Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-13-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 13 in the Best Ways</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-hot-30i-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Hot 30i? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-lava-storm-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lava Storm 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-lags-ultimate-guide-to-unfreeze-your-borderlands-3-game/"><u>Resolving Lags: Ultimate Guide to Unfreeze Your Borderlands 3 Game</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-wellness-apples-latest-announcement-of-four-groundbreaking-health-features-revealed-and-analyzed/"><u>Revolutionizing Wellness: Apple's Latest Announcement of Four Groundbreaking Health Features Revealed and Analyzed</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204959242-windows-11-missing-bluetooth-problem-easy-steps-to-get-it-working-again/"><u>Windows 11 Missing Bluetooth Problem? Easy Steps to Get It Working Again</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aximizing-views-diy-strategies-for-youtube-success-for-2024/"><u>[New] Maximizing Views DIY Strategies for YouTube Success for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elite-selection-of-nintendo-switch-fighting-games-max-156/"><u>[Updated] In 2024, Elite Selection of Nintendo Switch Fighting Games (Max 156)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-newcomers-roadmap-thriving-on-youtube-and-your-wallet-for-2024/"><u>[Updated] The Newcomer's Roadmap Thriving on YouTube and Your Wallet for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-your-ultimate-cheat-sheet-for-nba-livestreams-top-15-tips/"><u>2024 Approved Your Ultimate Cheat Sheet for NBA Livestreams (Top 15 Tips)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-12plus-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme 12+ 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-tecno-spark-10-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Spark 10 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/"><u>I Used ChatGPT to Script a Podcast: Here's What Happened</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-honor-magic-5-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Honor Magic 5 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-motorola-moto-e13-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola Moto E13? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/playback-of-srt-audio-files-in-computers-windowsmacos-for-2024/"><u>Playback of SRT Audio Files in Computers (Windows/macOS) for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-11-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oneplus-ace-2-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix OnePlus Ace 2 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-intel-graphics-drivers-compatibility-problems-on-windows-pcs/"><u>Resolving Intel Graphics Drivers Compatibility Problems on Windows PCs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-v30-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo V30 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/teaching-with-technology-incorporating-youtube-into-lessons/"><u>Teaching with Technology Incorporating YouTube Into Lessons</u></a></li>
 </ul></div>
 

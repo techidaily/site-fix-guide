@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo S17e | Dr.fone
-date: 2024-07-14T05:45:46.447Z
-updated: 2024-07-15T05:45:46.447Z
+date: 2025-01-29T03:45:56.767Z
+updated: 2025-01-29T18:56:53.894Z
 tags: 
   - problems
 categories:
@@ -86,9 +86,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -107,6 +104,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -124,6 +125,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
@@ -163,6 +168,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For a device that lacks a Home button:**
 
 1. Turn off the Vivo S17e device.
@@ -192,6 +201,10 @@ Dr.Fone – System Repair is a data management and recovery tool that contains s
 - Troubleshoots and repairs a wide range of Android system problems, including black screen of death, Play Store not working, apps crashing, phone stuck in a boot loop, and bricked Android issues
 - A high success rate for fixing Android system issues
 - Fixes Android system back to normal
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pros
 
@@ -238,8 +251,6 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
-
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
@@ -259,6 +270,10 @@ On your desktop computer or laptop, open Wondershare Dr.Fone. Click on Data Reco
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-device-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Decide which file types to recover**
 
 On the next window, you will need to check the boxes corresponding to the type of files you can recover from a list. You can get back Contacts, Messages, Call History, WhatsApp messages & attachments, Photos, Audio and more.
@@ -273,9 +288,6 @@ Opt for "Touch screen not responsive or cannot access the phone" or "Black/broke
 
 Look up for your device – pick the Vivo S17e device Name and Device Model. Advance by clicking on the Next button.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
 
 **Step 4: Go into your Vivo S17e’s Download Mode.**
@@ -304,8 +316,6 @@ After repeated attempts, when your Android mobile/tablet stops buzzing, what opt
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 The real fix to issues like "Android phone will not switch on"
@@ -330,6 +340,10 @@ Step 2: You will find a range of options, tap on the ‘Android Repair’ one. H
 
 ![star to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Now, over the Vivo S17e device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
 ![go to SMS to export text messages](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -353,6 +367,10 @@ Step 2: Hitting the ‘Next’ key will allow you to download firmware and proce
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Android Phone Won't Turn On: **Common Fix**
 
@@ -384,8 +402,6 @@ There are several reasons as to why your Vivo S17e won’t turn on. The problem 
 
 It is important to note that your phone contains some important data. Therefore, when your Vivo S17e won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
 
-
-
 ## Ways to Unbrick Your Android Device: Various Ways for Recovery
 
 When your Vivo S17e becomes unresponsive or frozen after mistakenly flashing a ROM or rooting, you are informed that the phone has been bricked. The most terrifying aspect will not just be gadget loss, but also data erasure. However, what exactly is a bricked phone, and, more importantly, how do you fix a bricked Android phone?
@@ -403,9 +419,6 @@ Here are some common reasons why your Vivo S17e is bricked:
 - **Android firmware is being updated:**If the phone is interrupted when updating the Android firmware, it will be bricked.
 - **Installing harmful applications:**You installed harmful programs on your Vivo S17e, or the phone was infected with a virus.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to Fix a Bricked Phone
 
 The first step is to establish how badly your device is bricked. In most cases, you will be working with soft bricks that are pretty simple to repair. If your phone is stuck in a boot loop or enters recovery mode every time you turn it on, you may have a soft brick.
@@ -461,9 +474,6 @@ If you boot your phone directly into recovery mode, there's a problem with the R
 - **Step 1:** Save the required ROM (in ZIP format) to an SD card. The SD card should then be inserted into your Vivo S17e.
 - **Step 2:** Click the **“Install zip from sdcard”** button. Then, select the ZIP file that contains the ROM. Finally, click the **"reboot system now"** button.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-4.jpg)
 
 ### Method 5. Using <u>Wondershare Dr.Fone</u>
@@ -480,6 +490,10 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 
 ![select symptom of your phone](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Use the recovery wizard to enter your Android smartphone into Download Mode. Connect your Android handset to the computer after following the instructions to begin automatically analyzing your device.
 
 ![follow instructions](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
@@ -489,6 +503,10 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 ![recover files](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to Prevent Bricking Your Phone
 
@@ -502,15 +520,15 @@ Here are some things to remember to prevent your device from bricking:
 - **Backup your phone data regularly:** Backing up your phone safeguards your data in the event that you lose it, it is stolen, or it no longer works. When it comes time to replace your phone, having a backup makes it simple to restore your data to the new device. Furthermore, backing up your phone allows you to organize your data so that it is easier to access.
 - **Avoid installing apps from untrusted sources:** Apps installed from unauthorized sources make your device and personal data more exposed to dangers such as Ransomware. So you should be wary of where you download applications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 It is certainly upsetting when your gadget bricks, but you may attempt the solutions listed above to resolve the issue. Meanwhile, if you want to solve the problem quickly and easily, you can try Wondershare Dr.Fone. It can not only help you repair your Android smartphone, but it can also help you extract data from a bricked device, recover data, and many more Android device solutions!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -524,9 +542,20 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-breeze-through-your-latest-fb-watches-2023-edition/"><u>[New] Breeze Through Your Latest FB Watches 2023 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-exclusive-performers-webcasts/"><u>[New] In 2024, Exclusive Performers' Webcasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010331772-banishing-the-blues-in-sea-of-thieves-no-more-crashes/"><u>Banishing the Blues in Sea of Thieves: No More Crashes!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-honor-80-pro-straight-screen-edition-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor 80 Pro Straight Screen Edition Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macosimovie-mp4-dvdmacx/"><u>MacOS向けiMovie MP4に簡単変換: プロテクト付きDVD無料解除MacXコンバータ</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-the-art-of-sandisk-ssd-driver-downloads-a-comprehensive-tutorial/"><u>Mastering the Art of Sandisk SSD Driver Downloads: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-viewer-discussions-on-youtube/"><u>Mastering Viewer Discussions on YouTube</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c210-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C210 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Sony Xperia 1 V | Dr.fone</u></a></li>
+</ul></div>
 

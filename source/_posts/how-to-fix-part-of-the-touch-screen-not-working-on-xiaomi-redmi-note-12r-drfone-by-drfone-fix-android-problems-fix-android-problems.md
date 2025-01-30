@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 12R | Dr.fone
-date: 2024-07-14T05:46:35.563Z
-updated: 2024-07-15T05:46:35.563Z
+date: 2025-01-25T03:32:48.624Z
+updated: 2025-01-29T21:15:25.566Z
 tags: 
   - problems
 categories:
@@ -72,9 +72,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn On Safe Mode
 
 You should switch to Safe mode whenever an application or piece of software causes a problem on your device. Only the most fundamental system components are loaded and used when operating in Safe mode.
@@ -107,6 +104,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -117,9 +118,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
@@ -283,15 +281,20 @@ Another crucial step in resolving this error involves ensuring that the Airplane
 
 ![toggle airplane mode](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 3. Selecting the Network Operator of the Xiaomi Redmi Note 12R device
 
 In certain instances, manually selecting your network operator can help. It effectively resolves the "**Cellular Network Not Available for Voice Calls Android**" error on your Xiaomi Redmi Note 12R. By choosing the network operator manually, you ensure a deliberate connection to a specific carrier. This potentially bypasses issues related to automatic network selection. Follow these steps to select your network operator manually:
 
 - **Step 1.** Access "Settings" on your Xiaomi Redmi Note 12R, then tap on "Connections." From there, navigate to "Mobile Networks" and proceed by selecting "Network Operators."
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open mobile network carriers](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-4.jpg)
 
 - **Step 2.** Look for the "Automatically Select" toggle, which will be turned on. Toggle it off to see available networks and choose the one best suited to your device.
@@ -330,6 +333,10 @@ Updating your Xiaomi Redmi Note 12R's OS to the latest version can often resolve
 
 ![install updates on android](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 7. Performing Factory Reset
 
 Performing a factory reset is a drastic but effective measure. It can resolve persistent software-related issues, including the "Cellular Network Not Available" error. Be aware that initiating a factory reset results in the deletion of all data and settings stored on your device. Hence, it is crucial to back up any vital information before proceeding with this action. Here is how to fix the **Verizon cellular network not available for voice calls**:
@@ -341,6 +348,10 @@ Performing a factory reset is a drastic but effective measure. It can resolve pe
 - **Step 2.** You will need to tap "Reset" to confirm your choice. Then, follow the on-screen guidelines carefully to complete the reset process.
 
 ![perform factory reset](https://images.wondershare.com/drfone/article/2023/11/cellular-network-not-available-for-voice-calls-android-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 8. Contact Carrier Provider
 
@@ -408,6 +419,10 @@ Follow the guidance displayed on your device's screen to access Download Mode. O
 
 **3,336,459** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, facing the "**Cellular Network Not Available for Voice Calls**" problem on your Xiaomi Redmi Note 12R can be frustrating. This article has explored many ways to fix this issue. These include simple checks like turning off Airplane Mode to solutions like contacting your carrier. However, when facing persistent network problems, a tool like Wondershare Dr.Fone becomes the only hope.
@@ -432,8 +447,6 @@ When you encounter an Android system crash, before looking for solutions to fix 
 
 [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html) is currently one of the most popular tools to retrieve data from not only broken or damaged, locked devices, and unresponsive devices but also from devices that face an Android system crash. You may try the software for free for scanning the data to understand its work. Dr.Fone’s Data Extraction tool not only retrieves and back-up contacts and messages but also your photos, videos, audio files, WhatsApp, docs, call logs, and other file folders. It is also equipped to retrieve data from the Xiaomi Redmi Note 12R device’s internal memory as well as Google drive.
 
-
-
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
@@ -450,6 +463,10 @@ You may follow the steps given below to rescue your data from crashed Android de
 1\. Download and install the software on your PC. Run the software and then select the **Data Recovery** feature. Using a USB, connect your Xiaomi Redmi Note 12R to the PC.
 
 ![Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. Select "Android" > "Recover from Broken Phone" in the lower right corner.
 
@@ -541,13 +558,18 @@ If you are constantly facing issues of your Xiaomi Redmi Note 12R crashing, ther
 
 ![access the installed apps info](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Go through the list of applications and select any app you want to remove. As you navigate next, select "Uninstall" to lead to removing the app from the Android device.
 
 ![press the uninstall option](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 7: Clear cache partition to fix Android crash issue
 
 Clearing cache is a good idea because it cleans your device and reduces the burden on the Android software and gives it enough space to function normally and carry out its operations.
@@ -571,6 +593,10 @@ However, if the Android crash problem is such that your phone has frozen, become
 2\. Once you are on the Recovery Mode screen, use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14988992704405.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
@@ -608,9 +634,6 @@ It features a great system providing a one-click Android repair option for fixin
 
 ### Key Features of Wondershare Dr.Fone – System Repair (Android)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - System Repair (Android)
@@ -697,9 +720,6 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -712,9 +732,18 @@ Bottomline, the tips given above have helped many to solve the Android system cr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-hasten-recovering-deleted-snaps/"><u>[New] In 2024, Hasten Recovering Deleted Snaps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nleash-creative-filmmaking-youtube-guides-and-extras/"><u>[New] Unleash Creative Filmmaking YouTube Guides & Extras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-7-essential-gif-creation-techniques/"><u>2024 Approved 7 Essential GIF Creation Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-gadgets-to-reduce-camera-jiggle-effects/"><u>2024 Approved Best Gadgets to Reduce Camera Jiggle Effects</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-navigating-the-complexities-of-online-video-rights/"><u>In 2024, Navigating the Complexities of Online Video Rights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-components-of-podcast-scripting-guide-plus-free-examples-for-2024/"><u>The Essential Components of Podcast Scripting (Guide + Free Examples) for 2024</u></a></li>
+</ul></div>
 

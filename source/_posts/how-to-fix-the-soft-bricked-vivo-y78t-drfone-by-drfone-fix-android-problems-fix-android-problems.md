@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y78t? | Dr.fone
-date: 2024-07-14T05:50:47.437Z
-updated: 2024-07-15T05:50:47.437Z
+date: 2025-01-28T22:31:51.319Z
+updated: 2025-01-29T18:32:52.714Z
 tags: 
   - problems
 categories:
@@ -28,10 +28,11 @@ To begin with, let us understand the basic difference between a soft brick and h
 
 A soft-brick problem is caused merely by a software error/crash and makes your device switch on automatically every time you manually turn it off. This phenomenon is referred to as Boot Loop. Soft bricked Android phones are not as difficult to fix as the hard bricked Android phones. It is convenient to say that a soft bricked phone only boots up half-way and not fully, whereas a hard bricked device does not switch on at all. A hard brick error is thus caused when the kernel, which is nothing but an interface for the software to communicate with the hardware, is tampered with. A hard bricked phone is not recognized by your PC when plugged in and is a serious problem. It requires troubleshooting techniques and cannot be easily fixed as the soft brick problem.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
@@ -77,9 +78,17 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
@@ -92,8 +101,6 @@ Hopefully, your bricked phone will not boot normally and work smoothly.
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
-
 
 ## How To Unbrick a Dead Vivo Y78t
 
@@ -111,6 +118,10 @@ When a phone "bricks," the Vivo Y78t device becomes completely unusable and non-
 - **Inability to Enter Fastboot Mode.**If you find it increasingly challenging to access the fastboot mode, it could signify impending trouble.
 - **Consistent Black Screens.**Experiencing recurring black screens could indicate problems within the operating system. In the long run, this might escalate to bricking.
 - **Unexpected Reboots and Crashes.**Frequent and unprovoked reboots, app crashes, and system instability might point toward software inconsistencies. Similar to consistent black screens, this could eventually lead to bricking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Common Reasons for Your Vivo Y78t Phone To Be Bricked
 
@@ -180,9 +191,6 @@ Maintaining the longevity of your Vivo Y78t device requires adopting proactive h
 - **Avoid Overloading the Vivo Y78t device.**Limit multitasking and avoid running too many apps simultaneously. This minimizes strain on the Vivo Y78t device's RAM and processor, ensuring smoother performance.
 - **Privacy and Security.**Implement robust, unique passwords and enable biometric authentication methods. Regularly review app permissions to enhance data privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![taking care of your oneplus](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-oneplus-device-10.jpg)
 
 ## Tips: Unlock Your One Plus 6, 8T, or 10 Pro With Dr.Fone - Screen Unlock (Android)
@@ -210,10 +218,11 @@ Below is a guide on unbricking the Vivo Y78t models using Dr.Fone - Screen Unloc
 
 Navigate to the **Screen Unlock** section and select **Android**. Proceed by clicking on the **Unlock Android Screen** option.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access remove screen lock function](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Choose Your Device Brand and Initiate Data Wipe**
 
@@ -226,6 +235,10 @@ Identify your device brand for unlocking the screen. After selecting your device
 Allow the unlock process to run its course. If unsuccessful, click 'Try Again' for a second attempt. Upon successful screen unlock, click 'Done'.
 
 ![android screen unlocked](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
@@ -249,6 +262,14 @@ For those who find themselves locked out of their Vivo Y78t devices, there's a r
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Restore Missing App Icon on Vivo Y78t: Step-by-Step Solutions
 
 The growing conversation around the **missing app icons on Android** issue has caught our attention. While it seems confusing, it's a problem that some Android users have encountered.
@@ -257,10 +278,6 @@ After all, the presence of app icons on our Android device's home screen is impo
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your Vivo Y78t.
 
-
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Make Sure if the Missing App Is Installed
 
 Before proceeding with troubleshooting the **missing app icon on your Android** device, it's essential to confirm whether the app is still installed or if it has been accidentally deleted. To do it, you can have a quick check on Google Play:
@@ -302,6 +319,10 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Re-enable disabled app
 
 **App icons can also disappear on the Android** home screen if you unintentionally or intentionally disable them. Certain phone models even offer a functionality known as 'Freezer,' allowing users to temporarily halt the apps. While in a frozen state, the app remains inactive and doesn't appear on the home screen until you unfrozen it.
@@ -323,9 +344,6 @@ How to reset Android to factory setting:
 
 Please be mindful that performing a factory reset on Android will reset your Android completely to its initial state.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Perform a factory reset on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-4.jpg)
 
 ## Part 3: How to Fix System Error on Android Easily with Reliable Software
@@ -376,12 +394,15 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 
 [<u>Authentication Error Occurred? Here Are 10 Proven Fixes</u>](https://drfone.wondershare.com/android-issue/authentication-error.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 When the **app disappears from the home screen of your Android**, it can hinder your ability to access and use the app efficiently. There are several reasons why an app might disappear from your Android home screen, and addressing the issue depends on the specific circumstances.
 
 Whether it's due to accidental deletion or a system glitch, we have discussed various methods to recover the missing app and ensure smooth functionality in this article. In cases of system-related issues on your Vivo Y78t, it's advisable to rely on trustworthy software such as Dr. Fone's system repair tool for a comprehensive resolution.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -395,9 +416,20 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ehind-the-scenes-what-does-an-unlisted-video-mean-in-2024/"><u>[New] Behind the Scenes What Does an 'Unlisted' Video Mean, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-definitive-top-5-superlight-cinematography-devices-for-2024/"><u>[New] Definitive Top 5 Superlight Cinematography Devices for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-avi-playback-software-for-pcmobile-users/"><u>[New] Optimal AVI Playback Software for PC/Mobile Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-hero-session-vs-cube-a-face-off-in-video-editors/"><u>[Updated] 2024 Approved Hero Session Vs. Cube A Face-Off in Video Editors</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-huawei-nova-y71-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Huawei Nova Y71 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y78plus-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y78+ Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-zero-5g-2023-turbo-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Zero 5G 2023 Turbo Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/isowindows-10/"><u>ISOファイルを動かす：Windows 10で完全ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jailbreaking-vs-standard-use-chatgpt-exploration/"><u>Jailbreaking Vs. Standard Use: ChatGPT Exploration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-audio-records-with-our-step-by-step-guide-for-2024/"><u>Perfecting Audio Records with Our Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-razr-40-ultra-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Razr 40 Ultra Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-free-camera-editing-apps-of-2024-discover-the-best-like-movavi/"><u>Top Free Camera Editing Apps of 2024: Discover the Best Like Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-rules-against-unauthorized-controller-use-a-look-at-the-fallout/"><u>Xbox's Rules Against Unauthorized Controller Use – A Look at the Fallout</u></a></li>
+</ul></div>
 

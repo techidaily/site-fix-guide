@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Itel P40? | Dr.fone
-date: 2024-07-14T05:47:32.614Z
-updated: 2024-07-15T05:47:32.614Z
+date: 2025-01-25T01:18:30.153Z
+updated: 2025-01-29T17:22:37.381Z
 tags: 
   - problems
 categories:
@@ -68,11 +68,19 @@ Once the Bootloader is unlocked, take a backup of all your data by selecting “
 
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
 
 Once at the recovery mode, select “Install Zip from SD Card” from the options.
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
@@ -91,8 +99,9 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Full Solutions to Fix Error Code 920 In Google Play on Itel P40
 
 If you are using an Android device, you might have encountered the error code 920 in Google Play Store. This error usually occurs when you are trying to download or update an app from the Google Play Store. The error code 920 can be quite frustrating, as it prevents you from downloading or updating your favorite apps. However, there are several ways to fix this error and get your apps back up and running. In this article, we will show you some of the best solutions to fix error code 920 in Google Play Store on Itel P40.
@@ -103,6 +112,10 @@ Trust me, once you face an error it’s frustrating until you find a solution to
 - (ii) Switching off and turning the wifi (cellular data) on
 - (iii) Clearing the cache and data of Google Play Store
 - (iv) Removing and adding back your Google account
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is Error Code 920?
 
@@ -153,6 +166,10 @@ Then connect your Itel P40 using the official cable and select the ‘Android Re
 **Step #3** On the next screen, insert your device information to ensure you’re downloading the correct firmware.
 
 ![device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #4** Put your phone into Download mode by following the onscreen instructions.
 
@@ -216,17 +233,17 @@ Again it is best if you follow the methods as illustrated above for removing err
 
 Play Store error 920 is a pretty common error and its solutions are also very easy. Please do ensure that you follow each and every step in sync so that you can get the best result out of these methods and get over with the error code 920 on Google play store.
 
-
-
 ## 6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Itel P40
 
 Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog of our lives. Be it in the professional era or personal (gossips, oomph) stuffs, it is a crucial engaging kind of application. WhatsApp is the slow poison yet a useful tool used worldwide after call logs or messages. Imagining a day without is enough to put someone off. And if one has recently faced a problem in WhatsApp crashing or not opening, then it is enough to give a heart break. It can be due to Cache memory piled up, storage running out of space, WhatsApp components getting corrupted. In such a case, resolving the problem by using an effective solution is very important! Don’t worry and wander as we will provide impeccable range of fixes to bid bye to WhatsApp stopping problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause 1: WhatsApp-related Firmware Components went wrong
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -264,14 +281,19 @@ Subsequently, you need to go along with the onscreen instructions. This will boo
 
 ![whatsapp stopping - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Repair Android**
 
 Now, you just have to sit back and relax. The program will begin to repair your device. Wait until you get the notification for completion.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cause 2: Cache conflict
 
@@ -281,10 +303,11 @@ The purpose of Cache in a device is to keep the track of frequently used data an
 - Now, from the list of all applications, choose “WhatsApp”.
 - Click on “Storage” and tap “Clear Data”.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - fix cache conflict](https://images.wondershare.com/drfone/article/2019/06/clear-whatsapp-data.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cause 3: WhatsApp components corruption
 
@@ -294,10 +317,11 @@ A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp
 - Go to “Play Store” and search “WhatsApp” on the search bar.
 - Tap on it and start downloading followed by installing it.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - fix component corruption](https://images.wondershare.com/drfone/article/2019/06/install-whatsapp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cause 4: Not Enough Storage on your Phone
 
@@ -306,9 +330,6 @@ Insufficient storage could be the other reason why for your WhatsApp has stopped
 - Firstly, go to Settings and check the storage. Make sure it is enough i.e. at least 100 to 200MB.
 - Secondly, start eliminating the apps that are no longer needed. This will indeed create more space in your device and will let your WhatsApp wok properly.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Cause 5: Gmail Account no longer valid or hacked
 
 It is a well-known fact that Android device and Gmail account go hand in hand. To run the Itel P40 device smoothly, it is always asked to enter your Gmail address for further configurations. And when WhatsApp stops on your device, the reason might be your Gmail account. Most probably it is not valid now or maybe hacked. If this is the case, we suggest you to log out and log in with some another Gmail account.
@@ -353,7 +374,6 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -366,9 +386,26 @@ Now that you have decided where to download the apk file, these are the followin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/onquering-competition-crafting-standout-youtube-advertising-banners-for-2024/"><u>[New] Conquering Competition Crafting Standout YouTube Advertising Banners for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-recording-device-feedback-guide/"><u>[New] In 2024, Recording Device Feedback Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-video-camera-compendium-year-for-2024/"><u>[Updated] The Ultimate Video Camera Compendium Year for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-netgear-c3700-a-hybrid-modemrouter/"><u>Comprehensive Evaluation of Netgear C3700: A Hybrid Modem/Router</u></a></li>
+<li><a href="https://fox-that.techidaily.com/deciphering-imessage-silence-are-you-on-the-no-text-list/"><u>Deciphering iMessage Silence: Are You on the No-Text List?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-itel-s23plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Itel S23+ Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-zte-nubia-z60-ultra-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked ZTE Nubia Z60 Ultra Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-google-pixel-8-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Google Pixel 8 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-f25-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo F25 Pro 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-f04-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy F04 Phone Network-Ready</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-xiaomi-redmi-note-13-proplus-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi Redmi Note 13 Pro+ 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-try-before-you-buy-90-day-final-cut-pro-free-trial-offer/"><u>Updated 2024 Approved Try Before You Buy 90-Day Final Cut Pro Free Trial Offer</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728509931336-windows-107/"><u>Windows 10と7における移動中のデータフォルダ同期方法</u></a></li>
+</ul></div>
 

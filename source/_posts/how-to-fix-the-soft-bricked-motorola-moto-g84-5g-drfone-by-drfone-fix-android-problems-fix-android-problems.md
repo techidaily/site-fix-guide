@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Motorola Moto G84 5G? | Dr.fone
-date: 2024-07-14T05:48:02.394Z
-updated: 2024-07-15T05:48:02.394Z
+date: 2025-01-22T22:03:40.361Z
+updated: 2025-01-29T19:22:07.836Z
 tags: 
   - problems
 categories:
@@ -76,9 +76,6 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
@@ -116,11 +113,13 @@ Flashing a dead Android phone might be skeptical for many users who have been in
 
 From battery issues to physical damage to the Motorola Moto G84 5G device, there can be many reasons your Motorola Moto G84 5G died. The reasons for a dead Android phone are not restricted to these points. There can be software-related issues or firmware issues that might cause such havoc on your Android.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to flash Motorola Moto G84 5G in one click
 
 While you are worried about how to flash Motorola Moto G84 5G instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Motorola Moto G84 5G logo.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -154,6 +153,10 @@ Step 3: On the Motorola Moto G84 5G device information screen, pick the appropri
 
 ![choose brand info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Phase 2: Put the Android device in Download mode to start repair.**
 
 Step 1: It is essential to boot your Motorola Moto G84 5G in Download mode before repairing.
@@ -176,6 +179,10 @@ Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to flash Motorola Moto G84 5G dead phone with Odin?
 
 In this segment, we will learn how to fix the dead Android phone, i.e., Motorola Moto G84 5G phones using Odin software. Odin is software used internally by Motorola Moto G84 5G to generally unblock devices and perform a more utility-based job, namely, flashing new firmware in place of the old one. There are different variants available, so choose the one which is supported by your Galaxy phone. Here is a step-by-step explanation of how to flash dead Android phone (Motorola Moto G84 5G) using Odin software.
@@ -196,23 +203,15 @@ Step 3: In this step, download the latest version of Odin on your PC and move it
 
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
 
 ![boot in download mode](https://images.wondershare.com/drfone/article/2017/07/14991897353612.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
 
@@ -244,6 +243,10 @@ Step 3: Now, on the SP Flash tool window, click on “Download” and select “
 
 ![scatter loading](https://images.wondershare.com/drfone/article/2017/07/14991898892877.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: The last step would be to locate the file downloaded by you and click “Open” and then finally, select “Download” on the SP Flash tool window.
 
 ![load the downloaded file](https://images.wondershare.com/drfone/article/2017/07/14991899108318.jpg)
@@ -274,6 +277,10 @@ Simply, feed in the details and then click “OK”.
 
 ![check the details](https://images.wondershare.com/drfone/article/2017/07/14991900207363.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After this, click on “Flashing” and select “Firmware update” and then browse to select the appropriate product code and then click “OK” again.
 
 Then move on to select “Dead Phone USB Flashing” from the Firmware Update Box.
@@ -292,9 +299,6 @@ Using tools for flashing Android devices can be a solution; however, it is heavi
 
 **Step 2:** As the Android boot menu opens on your screen, use the “Volume Down” and “Volume Up” keys to scroll up and down the menu. On accessing the “Wipe Data/Factory Reset” option, use the “Power” key to select the particular option.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose wipe data factory reset option](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-1.jpg)
 
 **Step 3:** Continue to select the “Yes” option for confirming the factory reset of the Android device. The phone will automatically reboot after successfully factory resetting.
@@ -312,6 +316,10 @@ If the Android vibrates on restarting and the screen does not lighten up, the pr
 Another solution that can help you fix the dead Android phone is changing its battery. The battery of an Android device can last up to 3 years. When its capacity drops to a bare minimum, it is best to change the battery of your Android. Upon trying to restart your Motorola Moto G84 5G, if it does not, you might need to replace your battery. All Android phone batteries are removable, which should be regulated with proper supervision.
 
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 9: How to repair dead Android phone by contacting official support
 
@@ -346,6 +354,10 @@ Begin by powering off your Motorola Moto G84 5G and unplugging your router. Wait
 Turn on Airplane Mode for a few seconds, then turn it off. This maneuver refreshes your device's network connections and might rectify the Android not connecting to wifi issue.
 
 ![turn on airplane mode](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Check Wi-Fi Router settings
 
@@ -405,8 +417,6 @@ If none of the solutions above are working, this could indicate a real problem w
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 A one-click tool to fix Wi-Fi not working on Android
@@ -431,6 +441,10 @@ Once installed, connect your Motorola Moto G84 5G to your computer using a USB c
 
 ![fix wifi slow on android by repairing android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Three** On the next screen, go through the options and use the drop-down menus to make sure the information is correct for your individual device. Accept the terms and conditions of the software, and then click the "Next" button.
 
 ![wifi slow on android - select info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -441,10 +455,11 @@ Once installed, connect your Motorola Moto G84 5G to your computer using a USB c
 
 **Step Five** Now put your phone into Download Mode by following the on-screen instructions, so your device is ready for the repair process. The method for getting your phone into Download Mode will vary depending on your device, so make sure you’re following the right instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - boot in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step Six** Once the software has detected your device in Download Mode, it will automatically begin the repair process. You need to make sure your device stays connected throughout this time, and your computer stays on.
 
@@ -452,9 +467,6 @@ Once installed, connect your Motorola Moto G84 5G to your computer using a USB c
 
 The whole process is automatic, so you won’t need to do anything until it’s finished. Once completed, you can disconnect your phone and start connecting it to the internet as normal!
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - wifi issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
@@ -531,9 +543,6 @@ However, by factory resetting your device, you can start again from the factory 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -546,9 +555,21 @@ However, by factory resetting your device, you can start again from the factory 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-combat-common-youtube-short-obstacles-for-2024/"><u>[New] Combat Common YouTube Short Obstacles for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-tech-tools-for-distance-podcasting/"><u>[New] In 2024, Tech Tools for Distance Podcasting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-deep-dive-into-top-10-streaming-platforms-compared/"><u>[Updated] A Deep Dive Into Top 10 Streaming Platforms Compared</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-streamline-your-media-experience-with-pip-in-safari/"><u>[Updated] Streamline Your Media Experience with PIP in Safari</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-step-by-step-guide-adding-subtitles-to-your-mp4-files/"><u>1. Step-by-Step Guide: Adding Subtitles to Your MP4 Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-power-of-words-in-transforming-realities-to-documentaries/"><u>2024 Approved The Power of Words in Transforming Realities to Documentaries</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-s18-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo S18 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-in-computing-unveiling-high-tech-secrets-with-toms-hardware-insights/"><u>Precision in Computing: Unveiling High-Tech Secrets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-the-workplace-an-in-depth-enterprise-guide-to-xr-digital-twins-and-3d-interfaces-for-user-experience-optimization-expert-tips-from-zdnet/"><u>Revolutionizing the Workplace: An In-Depth Enterprise Guide to XR, Digital Twins, and 3D Interfaces for User Experience Optimization | Expert Tips From ZDNET</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-best-programs-for-restoring-corrupted-images/"><u>Ultimate Guide: Best Programs for Restoring Corrupted Images</u></a></li>
+</ul></div>
 

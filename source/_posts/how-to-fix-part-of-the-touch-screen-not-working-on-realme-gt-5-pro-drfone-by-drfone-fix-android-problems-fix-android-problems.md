@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme GT 5 Pro | Dr.fone
-date: 2024-07-14T05:44:48.701Z
-updated: 2024-07-15T05:44:48.701Z
+date: 2025-01-26T22:11:59.313Z
+updated: 2025-01-29T17:30:19.052Z
 tags: 
   - problems
 categories:
@@ -52,6 +52,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - If there is a sticker on the Realme GT 5 Pro device screen, you must remove it.
 - Before continuing, make sure your screen is spotless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Realme GT 5 Pro device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Realme GT 5 Pro’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
@@ -100,9 +104,6 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 4:**** You will then find the switch to turn it on or off. Disable itby toggling the button off.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
@@ -123,10 +124,11 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
@@ -144,10 +146,11 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 2:**** Connect your Realme GT 5 Pro or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
@@ -208,6 +211,10 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -215,6 +222,10 @@ Check below to know Dr.Fone – System Repair’s limitations:
 - Depending on the toolkit required, the program can be costly.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -283,8 +294,6 @@ The apps that run on the internet might start crashing due to connectivity issue
 
 There are times when a corrupted system gives you such errors. And therefore, you should try re-flashing the stock ROM on your Realme GT 5 Pro. Before you wonder how we would like to introduce a highly recommended tool for this. It is Dr.Fone - System Repair (Android). It holds the proficiency to flash the stock ROM in just a click. So, when your YouTube is not responding due to a corrupted system, make use of this tool to get it solved. The benefits associated with this tool are as follows.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to flash the stock ROM of Android
@@ -327,6 +336,14 @@ Lastly, when the firmware is downloaded, the system will start getting repaired 
 
 ![Youtube crashing on Android - start repairing](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reset Factory Settings of this Device
 
 When nothing works, the last resort you can go with is resetting the Realme GT 5 Pro device to factory state. Doing this will remove any sort of conflicting bugs and other stuff. However, this will remove the data from your device. So make sure to backup everything before going with this method. The steps are:
@@ -335,8 +352,6 @@ When nothing works, the last resort you can go with is resetting the Realme GT 5
 - Go to “Factory data reset” and tap “Reset phone”
 
 ![Youtube crashing on Android - factory reset android](https://images.wondershare.com/drfone/article/2019/06/factory-reset.jpg)
-
-
 
 ## Fix App Not Available in Your Country Play Store Problem on Realme GT 5 Pro
 
@@ -360,9 +375,6 @@ Licensing agreements and legal constraints play an important role when it comes 
 
 Apps are often designed with specific markets in mind. These incorporate language, cultural, and regulatory considerations to enhance user experience. The absence of proper localization can render an app incompatible with specific regions. It includes factors such as adapting the app for different languages, currencies, and cultural nuances. This can result in the app being excluded from the **Play Store app not available in your country.**
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Device and OS Compatibility
 
 The compatibility between the app, the user's device, and its OS is another factor that contributes to this issue. Developers might restrict their app availability to certain devices or OS versions. It can restrict access for users whose devices or OS do not meet the app's requirements. This technical limitation adds another layer to the complexity of app availability.
@@ -375,6 +387,10 @@ In some instances, political tensions or economic considerations can also be a f
 
 The right app can make a major difference in work efficiency or personal enjoyment. That's why facing the "**Play Store app not available in your country**" issue can be frustrating. The positive aspect is that many solutions exist for addressing this issue. Presented below are the top 4 approaches to resolving this matter:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Change Your Google Play Store Country
 
 One of the most direct ways to address this issue is by manually adjusting your Google Play Store country settings. Google allows users to change their country or region. Remember that you can only do it once a year. To utilize this approach, it's essential to reside in the specified country. The other option is to provide a payment method originating from that particular region. Below is a detailed walkthrough for this procedure:
@@ -385,9 +401,6 @@ One of the most direct ways to address this issue is by manually adjusting your 
 
 - **Step 2.** Within the "General" tab, move towards "Account and device preferences" and tap it. There, select "Country and profiles" and tap the country to change it. Now, follow the on-screen prompts to complete the procedure.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update residence country](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-2.jpg)
 
 ### Method 2: Use a Reliable VPN
@@ -407,6 +420,10 @@ You can utilize a reliable VPN to access the Play Store as though you were in a 
 - **Step 3:** Go back to the “App info” screen and press "Force Stop" to force close the app. Afterward, relaunch the Play Store and access your targeted apps.
 
 ![try force stopping app](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Download an APK File
 
@@ -484,6 +501,10 @@ Once the phone has been put in the Download Mode, the firmware will download aut
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3,289,252** people have downloaded it
 
 ## Frequently Asked Questions
@@ -506,7 +527,6 @@ To summarize, the pursuit of the perfect app sometimes encounters hurdles. One f
 
 As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful tool designed to tackle Play Store malfunctions head-on. With support for even Android 13, this software offers a complete solution for Android. Its comprehensive approach and easy-to-use interface make it a valuable addition to your toolkit.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -519,9 +539,20 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-top-editors-for-action-cam-footage/"><u>[New] Top Editors for Action Cam Footage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-expert-advice-tailoring-ppt-presentations-on-google-meet-for-2024/"><u>[Updated] Expert Advice Tailoring PPT Presentations on Google Meet for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-m1-pro-vs-m1-max-identifying-core-differences/"><u>2024 Approved M1 Pro Vs. M1 Max Identifying Core Differences</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/cost-efficient-4k-camera-options-(1k-for-2024/"><u>Cost-Efficient 4K Camera Options <$1K for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-poco-x5-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Poco X5 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/inside-the-toolbox-exploring-10-common-strategies-of-online-thieves-and-hackers/"><u>Inside the Toolbox: Exploring 10 Common Strategies of Online Thieves and Hackers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-video-making-on-mac-top-tools-and-tips/"><u>New The Ultimate Guide to Video Making on Mac Top Tools and Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-11f-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 11F 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-edgeplus-2023-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Edge+ (2023) Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-20c-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 20C Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-mix-fold-3-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-avs-video-editor-review-for-2024/"><u>Updated The Ultimate AVS Video Editor Review for 2024</u></a></li>
+</ul></div>
 

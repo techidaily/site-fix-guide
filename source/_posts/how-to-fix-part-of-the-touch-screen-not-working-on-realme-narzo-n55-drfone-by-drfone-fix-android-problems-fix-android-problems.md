@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme Narzo N55 | Dr.fone
-date: 2024-07-14T05:44:52.174Z
-updated: 2024-07-15T05:44:52.174Z
+date: 2025-01-28T19:36:47.763Z
+updated: 2025-01-29T17:16:46.494Z
 tags: 
   - problems
 categories:
@@ -32,6 +32,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - Realme Narzo N55 ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
 You may experience a variety of touch screens not working on Android issues:
@@ -64,9 +68,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
 ****Step 2:**** When the Realme Narzo N55 device turns off, wait a few seconds.
@@ -106,6 +107,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset Device to Factory Settings
 
@@ -193,9 +198,6 @@ Dr.Fone – System Repair is a data management and recovery tool that contains s
 - A high success rate for fixing Android system issues
 - Fixes Android system back to normal
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pros
 
 Here are the advantages of using Dr.Fone – System Repair:
@@ -351,11 +353,19 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Before repairing your Realme Narzo N55, you must boot it into ****Download**** ****mode****. To boot your Realme Narzo N55 or tablet into DFU mode, follow the steps below:
 
@@ -365,9 +375,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 2. Hold the Volume Down, Home, and Power buttons for 5 to 10 seconds.
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **For a device that lacks a Home button:**
@@ -390,6 +397,10 @@ Check Dr.Fone’s supported operating systems below before using the application
 | --- | --- |
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -423,8 +434,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Realme Narzo N55 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## Why Does My Realme Narzo N55 Keep Turning Off By Itself? 6 Fixes Are Here
 
 Android users are usually very happy with their smartphones; however, sometimes they do complain about their phones switching off abruptly. This is a weird situation to be in because one moment you are using your phone, and the next moment it suddenly turns itself off, and when you happen to turn it back on, it functions smoothly, but only for a while.
@@ -434,6 +443,10 @@ Phones shutting off problem not only disrupts your work but also tests your pati
 We often hear Android users ask for solutions for this problem at different forums. If you are one of them and clueless about why My Realme Narzo N55 keeps shutting off, here are ways that can help you.
 
 So the next time you ask, “Why does My Realme Narzo N55 keep shutting off?”, refer to this article and follow the techniques given hereunder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Possible reasons for phone turning off by itself
 
@@ -499,6 +512,10 @@ Step 2: Here, you need to press the ‘Start’ button right after hitting the �
 
 ![choose repair to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Pick your Realme Narzo N55 details over the Realme Narzo N55 device information interface. Click the ‘Next’ button afterward.
 
 ![start to fix phone keeps turning off](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -524,6 +541,10 @@ Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once dow
 ![fixed phone keeps turning off with the repair program](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Update software to the latest version to fix Android phone keeps turning off
 
@@ -559,9 +580,6 @@ Now tap on “Power Off” for about 10 seconds and click “OK” on the messag
 
 Once done, the phone will reboot and you will see “Safe Mode” on the main screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe mode](https://images.wondershare.com/drfone/article/2017/07/14994529591962.jpg)
 
 That's all. Well, booting to Safe Mode is easy and it also helps you to identify the real problem.
@@ -572,7 +590,9 @@ That's all. Well, booting to Safe Mode is easy and it also helps you to identify
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a great way to back up all your data to prevent it from getting lost after resetting the phone. It works brilliantly as it backs up all data and allows users to retrieve it fully or selectively. You can backup all files from your Android to PC in just a click and restore them later. Try this software for free before purchasing it to understand it's working better. It does not tamper with your data and only requires you to follow the simple steps given below to backup your Android data:
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Wondershare Dr.Fone
 
@@ -599,6 +619,10 @@ You will see the file types that will be backed up. Wait for the backup process 
 
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There you go, you have successfully backed up data.
 
 ![select the files](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
@@ -613,9 +637,6 @@ Simply visit “Settings” on your Realme Narzo N55 by clicking the settings ic
 
 And then select the “Backup and Reset” option.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/07/14994531829910.jpg)
 
 Once selected, tap on "Factory data reset" and then "reset device" as shown in the picture below.
@@ -632,7 +653,6 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -645,9 +665,22 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unveiling-the-magic-behind-film-plots/"><u>[Updated] In 2024, Unveiling the Magic Behind Film Plots</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-snapchats-star-highlight-utilization-guide/"><u>[Updated] Snapchat's Star Highlight Utilization Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-ffmpegs-capabilities-for-unaltered-audio-extraction/"><u>2024 Approved FFmpeg's Capabilities for Unaltered Audio Extraction</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-instantly-display-pics-on-platforms-with-this-guide/"><u>2024 Approved Instantly Display Pics on Platforms with This Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-songs-and-snaps-online/"><u>2024 Approved Integrating Songs and Snaps Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/achieving-accuracy-together-the-role-of-180-meteorologists-in-providing-reliable-weather-predictions/"><u>Achieving Accuracy Together: The Role of 180 Meteorologists in Providing Reliable Weather Predictions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nokia-xr21-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nokia XR21 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 13</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-2-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-red-magic-8s-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Red Magic 8S Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-motorola-razr-40-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola Razr 40? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-realme-v30t-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Realme V30T Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y78plus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y78+ Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-smart-8-plus-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Smart 8 Plus Running Slow and Freezing | Dr.fone</u></a></li>
+</ul></div>
 

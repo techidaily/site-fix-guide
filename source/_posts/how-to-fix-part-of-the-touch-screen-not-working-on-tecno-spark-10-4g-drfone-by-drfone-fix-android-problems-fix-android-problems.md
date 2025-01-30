@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Spark 10 4G | Dr.fone
-date: 2024-07-14T05:45:39.567Z
-updated: 2024-07-15T05:45:39.567Z
+date: 2025-01-26T00:08:29.695Z
+updated: 2025-01-29T23:44:42.495Z
 tags: 
   - problems
 categories:
@@ -52,9 +52,17 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - If there is a sticker on the Tecno Spark 10 4G device screen, you must remove it.
 - Before continuing, make sure your screen is spotless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Tecno Spark 10 4G device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Tecno Spark 10 4G’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart Your Device
 
@@ -71,6 +79,10 @@ When your touch screen stops working, the first thing you should do is restart y
 ****Step 3:**** Press and hold the “Power” button to restart the Tecno Spark 10 4G device.
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn On Safe Mode
 
@@ -150,6 +162,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4:**** Before repairing your Tecno Spark 10 4G, you must boot it into ****Download**** ****mode****. To boot your Tecno Spark 10 4G or tablet into DFU mode, follow the steps below:
 
 **For a device that has a Home button:**
@@ -170,9 +186,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Tecno Spark 10 4G. And in a while, your Tecno Spark 10 4G’s system issues will be resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ### Supported OS
@@ -216,8 +229,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Tecno Spark 10 4G 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## Fix Unfortunately Settings Has Stopped on Tecno Spark 10 4G Quickly
 
 All of you, sooner or later, must have found the “Unfortunately Settings has stopped” error on your Tecno Spark 10 4G. The problem can occur if the Settings keeps stopping or crashing. Many times, you may try to open the Settings but it doesn’t even open. Or possibly, it may freeze after getting opened thereby hampering the Tecno Spark 10 4G device's performance.
@@ -254,10 +265,11 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
     Note: Please note that different devices have different ways to go to the Recent apps screen. Do it according to the Tecno Spark 10 4G device you own.
 2. Now, swipe the apps and tap on the clear option. You will be able to notice the amount of RAM cleared
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Uninstall the Google update
 
@@ -267,16 +279,19 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 2. Now, head to all the apps and select “Google Play Store” from there.
 3. Tap on “Uninstall Updates” and restart your device to check if the crashing Settings issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Tecno Spark 10 4G, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Tecno Spark 10 4G devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -297,6 +312,10 @@ Step 1: Download Tool
 Visit the official website of Dr.Fone and download the toolbox from there. Go for the installation process and wait until the installation gets over. Launch it now and choose the “System Repair” tab from the main window.
 
 ![Android settings not responding- download tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Get the Phone Connected
 
@@ -370,13 +389,14 @@ Google Chrome is one of the most popular web browsers in the world. It is fast, 
 
 Being one of the widely used browsers, Chrome is always our rescue whenever vital information is our need. Imagine, you launched Chrome for some urgent work and all of a sudden, got “Unfortunately Chrome has stopped” error. You re-opened it thinking about proper functioning of it now but to no avail. Does this situation sound familiar? Are you in a same problem as well? Fret not! We will discuss in this article why your Chrome is crashing on Android and the potential solutions to do away with the problem. Please read the article attentively and know what helps you best.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Too many tabs opened
 
 One of the main reasons why Chrome keeps crashing could be the multiple opened tabs. If you keep open the tabs, it may slow down the performance of Chrome and the app will use RAM. As a result, it will obviously get stopped midway. Therefore, we suggest you to close the tabs which are opened. And once you do that, exit the app and then launch it again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Too much memory used
 
 When Chrome or any other app keeps running on the background, issues like “Unfortunately Chrome has stopped” are likely to occur. Moreover, the opened apps will eat the memory of your device. Hence, as the next solution, it is suggested that the Chrome should be closed by force quitting and then you need to try to launch it again to work. See if it works or still Chrome is not responding.
@@ -409,7 +429,9 @@ Most probably Chrome is not able to support the website you are trying to access
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -445,9 +467,6 @@ Step 4: Download Firmware
 
 Now, follow the steps displaying on the screen to enter the DFU mode. When you do this, click on “Next” and the program will download the firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download firmware and fix Chrome crashing on Android](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 5: Repair the Issue
@@ -476,7 +495,6 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 
 ![fix Chrome crashing by updating android](https://images.wondershare.com/drfone/article/2019/05/update-android.jpg)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -489,9 +507,26 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-10-best-text-plugins-for-ae-users/"><u>[New] In 2024, Top 10 Best Text Plugins for AE Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-2023-video-strategy-emphasizing-conciseness-and-engagement/"><u>[Updated] Facebook's 2023 Video Strategy Emphasizing Conciseness and Engagement</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-curbing-common-mishaps-youtube-short-edition/"><u>[Updated] In 2024, Curbing Common Mishaps YouTube Short Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-exclusive-discounts-on-economical-gopro-cameras/"><u>2024 Approved Exclusive Discounts on Economical GoPro Cameras</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728482855660-aomei-backupper/"><u>完美進行AOMEI Backupper遞增/差異式備份的詳盡指南: 全面保護您的重要檔案</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-magic-6-lite-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor Magic 6 Lite Phones? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-6s-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 6s Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-m54-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy M54 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 14 Plus</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-play-8t-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Play 8T Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-innovations-that-make-av1-superior-to-vp9/"><u>The Innovations That Make AV1 Superior to VP9</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-honor-90-gt-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Honor 90 GT without Them Knowing | Dr.fone</u></a></li>
+</ul></div>
 

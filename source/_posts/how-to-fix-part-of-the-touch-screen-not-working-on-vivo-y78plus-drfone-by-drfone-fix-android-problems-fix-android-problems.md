@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y78+ | Dr.fone
-date: 2024-07-14T05:46:14.013Z
-updated: 2024-07-15T05:46:14.013Z
+date: 2025-01-28T18:24:02.283Z
+updated: 2025-01-29T20:09:00.160Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ You probably touch the screen of your phone hundreds of times per day. It’s no
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Is Part of My Screen Not Working
 
 There are two possible causes as to why your phone’s touch screen is not working. One is the touch screen may have been damaged, and the other is the Vivo Y78+ device may be experiencing technical difficulties.
@@ -103,9 +100,6 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 4:**** You will then find the switch to turn it on or off. Disable itby toggling the button off.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
@@ -166,6 +160,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For a device that lacks a Home button:**
 
 1. Turn off the Vivo Y78+ device.
@@ -177,6 +175,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Vivo Y78+. And in a while, your Vivo Y78+’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported OS
 
@@ -213,6 +215,10 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
@@ -230,6 +236,10 @@ In this guide, you’ll delve into the common problems users face when **Android
 ## Part 1. A Briefer on Android Auto
 
 Android Auto is a revolutionary application designed to enhance the in-car experience by seamlessly connecting Android smartphones to compatible vehicles. It serves as a co-pilot, offering hands-free navigation, communication, and entertainment options, minimizing distractions while driving.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Android Auto Works
 
@@ -251,9 +261,6 @@ Even if it is such a great technology, sometimes **Android Auto won’t connect.
 
 The solution here is straightforward – invest in a high-quality USB cable. This ensures a stable link between your smartphone and the car’s infotainment system. Meanwhile, Bluetooth pairing problems may require a bit of digital maneuvering. Try restarting your phone, rebooting the car’s infotainment system, or resetting Bluetooth settings to establish a smooth connection.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### App-Specific Problems (Certain Apps Not Working)
 
 Android Auto relies heavily on various navigation, communication, and entertainment applications.
@@ -310,9 +317,17 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 
 ![wondershare dr.fone device details confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Place your phone into Download mode following the guidelines tailored for phones with or without home buttons. Your phone will commence downloading the dedicated firmware.
 
 ![wondershare dr.fone download mode tutorial](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Once the firmware is downloaded, verify and proceed with the installation by clicking **Fix Now**. Confirm the firmware installation by inputting “000000” into the text box in the appearing window. Click **Confirm** afterward.
 
@@ -321,6 +336,10 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 - **Step 7:** Upon completion of the process, your phone should now be restored. Click **Done** to conclude.
 
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -340,7 +359,6 @@ After all, the presence of app icons on our Android device's home screen is impo
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your Vivo Y78+.
 
-
 ## Part 1: Make Sure if the Missing App Is Installed
 
 Before proceeding with troubleshooting the **missing app icon on your Android** device, it's essential to confirm whether the app is still installed or if it has been accidentally deleted. To do it, you can have a quick check on Google Play:
@@ -349,9 +367,6 @@ Before proceeding with troubleshooting the **missing app icon on your Android** 
 - **Step 2:** Tap your Google profile at the top right and find Manage apps and devices.
 - **Step 3:** Open Manage and select the “Installed” tab.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check if the missing app is installed](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-1.jpg)
 
 Now, see whether you can find the **app icon that disappeared on your Android.** If you can’t find it, it means the app has been accidentally deleted, and you can install it back on your device. However, if it’s confirmed to be installed on your Android but remains missing from your home screen, you can continue the following practice.
@@ -361,6 +376,10 @@ Now, see whether you can find the **app icon that disappeared on your Android.**
 _“_**_All my apps disappeared from my home Android screen._** _What should I do?”_
 
 If you've confirmed that the missing app is installed, but its icon is nowhere to be found on your home screen, don't fret—there are several solutions you can take to locate and restore the **missing app icon on Android**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Check hidden apps
 
@@ -409,8 +428,9 @@ Please be mindful that performing a factory reset on Android will reset your And
 ![Perform a factory reset on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to Fix System Error on Android Easily with Reliable Software
 
 **Missing app icons on Android** can sometimes be a result of errors in your Android system launcher, causing inconvenience and potential disruptions to your device's operation. To address this issue effectively, you can turn to Dr.Fone's advanced system repair tool. This tool is designed to handle various system issues, providing an easy and reliable solution.
@@ -432,6 +452,10 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 Click Start on the new screen to kick off the repair. Since you're dealing with the Android system, select System Damage.
 
 ![Select the problem and begin the repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** Fill in the Vivo Y78+ device Details
 
@@ -465,9 +489,6 @@ When the **app disappears from the home screen of your Android**, it can hinder 
 
 Whether it's due to accidental deletion or a system glitch, we have discussed various methods to recover the missing app and ensure smooth functionality in this article. In cases of system-related issues on your Vivo Y78+, it's advisable to rely on trustworthy software such as Dr. Fone's system repair tool for a comprehensive resolution.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -480,9 +501,21 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-simplifying-onestream-techniques-for-effective-streaming/"><u>[New] 2024 Approved Simplifying OneStream Techniques for Effective Streaming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-outro-crafting-for-beginners-top-6-free-resources/"><u>[Updated] 2024 Approved Outro Crafting for Beginners Top 6 Free Resources</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-harmonize-visuals-and-melodies-in-facebook-media-posts/"><u>[Updated] Harmonize Visuals & Melodies in Facebook Media Posts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-how-to-capture-motion-blur-photos-with-iphone/"><u>[Updated] In 2024, How to Capture Motion Blur Photos with iPhone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixes-and-solutions-how-to-restore-synaptic-touchpad-functionality-in-windows-10/"><u>Fixes & Solutions: How to Restore Synaptic Touchpad Functionality in Windows 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-s17-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo S17 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-ce-3-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord CE 3 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-itel-p55-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Itel P55 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-note-13-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi Note 13 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/system-shutdown-syndrome-games-cause-crashes/"><u>System Shutdown Syndrome: Games Cause Crashes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-tier-screen-capture-tools-for-windows-and-macos-for-2024/"><u>Top-Tier Screen Capture Tools for Windows & macOS for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y28 5G? | Dr.fone
-date: 2024-07-14T05:50:39.353Z
-updated: 2024-07-15T05:50:39.353Z
+date: 2025-01-23T17:09:10.325Z
+updated: 2025-01-30T02:24:18.733Z
 tags: 
   - problems
 categories:
@@ -56,9 +56,6 @@ This method will help you erase all the clogged up and unwanted files. You may l
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -77,13 +74,14 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
@@ -96,13 +94,15 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## Fix Unfortunately Settings Has Stopped on Vivo Y28 5G Quickly
 
 All of you, sooner or later, must have found the “Unfortunately Settings has stopped” error on your Vivo Y28 5G. The problem can occur if the Settings keeps stopping or crashing. Many times, you may try to open the Settings but it doesn’t even open. Or possibly, it may freeze after getting opened thereby hampering the Vivo Y28 5G device's performance.
 
 ![unfortunately settings has stopped](https://images.wondershare.com/drfone/article/2022/04/fix-unfortunately-settings-has-stopped.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Well! There can be a number of reasons why this thing happens. For instance, custom ROM installations, not enough space in the Vivo Y28 5G device or perhaps an outdated version of Android. If you are struggling with the same issue and want to know what to do when Android Settings is not responding, this post will help you. We have explained everything in detail along with the solutions. So, scroll down and get things sorted.
 
@@ -122,9 +122,6 @@ It is possible that the corrupted cache files are responsible for this error. He
 2. In the list of applications, look for “Settings” and open it.
 3. Now, select “Storage” followed by “Clear Cache”.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![settings crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-settings.jpg)
 
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
@@ -149,11 +146,17 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Vivo Y28 5G, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Vivo Y28 5G devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -173,9 +176,6 @@ Step 1: Download Tool
 
 Visit the official website of Dr.Fone and download the toolbox from there. Go for the installation process and wait until the installation gets over. Launch it now and choose the “System Repair” tab from the main window.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding- download tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Get the Phone Connected
@@ -189,6 +189,10 @@ Step 3: Feed Correct Information
 In the next window, you need to fill in some necessary information like the name and model of the mobile device. Enter details like country and career. Check once and hit on “Next”.
 
 ![Android settings not responding - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Enter Download Mode
 
@@ -226,6 +230,10 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: Check and update Android OS
 
 A lot of times minor issues crop up due to the operating systems that get outdated. It is because the Vivo Y28 5G device needs to get updated from time-to-time for proper functioning otherwise it will not be able to match up with the fading technologies thereby coming up with issues like “Unfortunately Settings has stopped”. We recommend here you check for the available update and update your device. For this follow the guide below.
@@ -262,6 +270,10 @@ Looking for suitable solutions to fix Android SystemUI has stopped error? Then r
 
 ![android system ui-SystemUI Has stopped](https://images.wondershare.com/drfone/article/2017/06/14985097157775.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Android device owners would agree that OS updates are very helpful as they fix the bug problem and improve the overall working of your device. However, sometimes these updates may be infected due to which they do not download and install properly. A corrupted OS update may cause Android; unfortunately, the process com.android.systemui has stopped error. All Android updates are directly designed around the Google App, and thus, the problem will persist until the Google App is also updated. Sometimes, even the Google App update may cause such a glitch if it is not successfully downloaded and installed.
 
 Another reason for the Android SystemUI isn't responding error to occur, maybe because of flashing a new ROM or due to improper firmware update installation. Even when you restore the backed up data from cloud or your Google Account, such Android, unfortunately, the process com.android.systemui has stopped error may show up.
@@ -286,14 +298,15 @@ Step 1 – Download the Dr.Fone toolkit over your PC. Install it and launch it o
 
 Step 2 – You need to select “Android Repair” from the left panel and then hit the ‘Start’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![option to fix Android system UI not responding](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3 – Next, you need to select the correct information about your device (i.e., brand, name, model, country/region, and carrier details). Check the warning down below and hit “Next”.
 
 ![select android model info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Phase 2: Boot Android in ‘Download’ mode to perform the repair.**
 
@@ -340,6 +353,10 @@ Note: To prevent the Android SystemUI isn't responding error to occur in the fut
 
 ![android system ui-“Do Not Auto-Update Apps”](https://images.wondershare.com/drfone/article/2017/06/14985097858029.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Wipe Cache partition to fix Android SystemUI error
 
 Android, unfortunately, the process com.android.systemui has stopped error can also be fixed by clearing your cache partitions. These partitions are nothing but storage locations for your modem, kernels, system files, drivers, and built-in Apps data.
@@ -353,6 +370,10 @@ Different Android devices have different ways to put it in recovery mode. Refer 
 - Once you are the recovery mode screen, you will see several options as shown in the screenshot.
 
 ![android system ui-wipe data reset](https://images.wondershare.com/drfone/article/2017/06/14985470953716.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
@@ -391,7 +412,6 @@ The whole process of factory resetting your Vivo Y28 5G might sound tedious, ris
 
 Android SystemUI isn't responding or Android, unfortunately, the process com.android.systemui has stopped error is commonly seen by users on their devices. It is not a random error and is linked to either the software, Google App, cache partition, or data stored in the Vivo Y28 5G device. It is fairly simple to deal with this issue as all you need to do is install or roll back your Android OS update, uninstall Google App updates, clear cache partition, or factory reset your device to clear all data, files, and settings stored in it. The methods listed and explained above are the best ways to fight the problem and to prevent it from troubling you in the future. These methods have been adopted by affected users all over the world who recommend them because they are safe and involve minimum risks as compared to other tools to solve the Android SystemUI has stopped error. So go ahead and try them now!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -404,9 +424,26 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-infusing-your-reels-with-soundscape-elements/"><u>[New] In 2024, Infusing Your Reels with Soundscape Elements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-ways-generative-ai-will-change-the-job-market/"><u>7 Ways Generative AI Will Change the Job Market</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-6-value-proposition-affordable-4k-projectors-for-2024/"><u>Best 6 Value Proposition Affordable 4K Projectors for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guilty-gear-strive-troubleshooting-tips-for-keeping-the-fight-going-without-system-crashes/"><u>Guilty Gear Strive Troubleshooting: Tips for Keeping the Fight Going Without System Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-copy-and-paste-in-application-guard-for-edge-in-windows-11/"><u>How to Enable Copy and Paste in Application Guard for Edge in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oneplus-nord-n30-se-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from OnePlus Nord N30 SE to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/leading-edge-computers-for-your-office-for-2024/"><u>Leading-Edge Computers for Your Office for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-x50-gt-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor X50 GT? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-lava-agni-2-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lava Agni 2 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/seamless-movie-marathons-youtubes-top-free-content-guide/"><u>Seamless Movie Marathons YouTube’s Top Free Content Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/textual-amplification-for-igtv-broadcasts-for-2024/"><u>Textual Amplification for IGTV Broadcasts for 2024</u></a></li>
+</ul></div>
 

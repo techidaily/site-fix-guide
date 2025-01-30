@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked OnePlus 12? | Dr.fone
-date: 2024-07-14T05:48:21.284Z
-updated: 2024-07-15T05:48:21.284Z
+date: 2025-01-24T01:01:38.330Z
+updated: 2025-01-30T00:13:01.911Z
 tags: 
   - problems
 categories:
@@ -46,6 +46,10 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
@@ -80,6 +84,10 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
@@ -89,8 +97,6 @@ Hopefully, your bricked phone will not boot normally and work smoothly.
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
-
 
 ## How To Unbrick a Dead OnePlus 12
 
@@ -139,9 +145,6 @@ The presence of malicious software can cause significant disruptions to the OneP
 
 The solutions below to unbrick your Oneplus are helpful methods to revive your device. Here's an overview of these methods.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1. Restore With Recovery Mode
 
 Restoring using Recovery Mode can solve most problems that cannot be solved with a normal phone restart. Here's how.
@@ -167,9 +170,6 @@ Certified repair shops have the expertise to diagnose and address bricking issue
 
 Leveraging specialized software tools like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair (Android) simplifies the process, even for non-technical users.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Part 3. Healthy Habits To Consider To Prolong Your One Plus
 
 Maintaining the longevity of your OnePlus 12 device requires adopting proactive habits. Here are vital tips to consider.
@@ -202,6 +202,10 @@ Unlock OnePlus 12 Without Password
 
 **3,016,652** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Unlock Your One Plus With Dr.Fone - Screen Unlock (Android)
 
 Below is a guide on unbricking the OnePlus 12 models using Dr.Fone - Screen Unlock (Android).
@@ -210,9 +214,6 @@ Below is a guide on unbricking the OnePlus 12 models using Dr.Fone - Screen Unlo
 
 Navigate to the **Screen Unlock** section and select **Android**. Proceed by clicking on the **Unlock Android Screen** option.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access remove screen lock function](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 2: Choose Your Device Brand and Initiate Data Wipe**
@@ -253,6 +254,10 @@ For those who find themselves locked out of their OnePlus 12 devices, there's a 
 
 Encountering issues with the Phone app is never welcoming. Being one of the useful apps, seeing it crashing and unresponsive gives sheer despondency. If talked about the triggering points, they are numerous. But the central point is what to do when the Phone app keeps crashing. In this article, we have discussed this issue in detail. To know this and more about why the "Unfortunately, Phone has stopped" error crops up, read this article and get the problem sorted on your own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: When can the "Unfortunately, Phone has stopped" error come?
 
 First things first! You need to stay updated on why the Phone app keeps stopping or crashing before jumping to any solution. Following are the points when this error comes up to annoy you.
@@ -264,6 +269,10 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 Open the Phone app in Safe Mode
 
 First and foremost, the thing that can let you get rid of this trouble is Safe Mode. It is a feature that will end any excessive background functioning of the OnePlus 12 device. For instance, your device will be able to run sans any third-party apps when in Safe mode. Since the important functions and the naïve apps will be running on the OnePlus 12 device, you will get to know if it’s really a software glitch or not by running the Phone app in Safe mode. And this is the first solution we would recommend you make use of when the Phone app has stopped. Here is how to enable Safe Mode.
@@ -272,6 +281,10 @@ First and foremost, the thing that can let you get rid of this trouble is Safe M
 2. Now keep pressing the "Power" button until you see the OnePlus 12 logo on the screen.
 3. Release the button and immediately press and hold the "Volume Down" key.
 4. Leave the key once the OnePlus 12 device is in Safe mode. Now, the third-party apps will be disabled and you can check if the Phone app is still not responding or everything is fine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Clear the cache of the Phone app
 
@@ -299,8 +312,9 @@ When the firmware is not updated, it may conflict with some apps and maybe that�
 1. Download and install it and then try to use the Phone app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.5 Clear partition cache
 
 Here is another resolution for the "Unfortunately Phone has stopped" error. Clearing the partition cache will remove the whole cache of the OnePlus 12 device and make it work like before.
@@ -313,13 +327,15 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 
 ![Phone app crashing - cache partition clearance](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.6 Get the OnePlus 12 system repaired in one click
 
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -353,6 +369,10 @@ As the next step, enter some important details on the next screen. Be sure to en
 
 ![Phone app crashing - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Downloading Firmware**
 
 Downloading firmware will be the next step. Prior to this, you have to go through the instructions given onscreen to enter the DFU mode. Please click on "Next" and the program will bring the suitable firmware version and start downloading it.
@@ -365,9 +385,6 @@ When you see the firmware has been downloaded, the issue will begin to get resol
 
 ![Phone app crashing - device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ### 2.7 Factory reset
@@ -380,8 +397,11 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -395,9 +415,21 @@ If none of the above methods worked for you, the last resort you are left with i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-innovative-artists-guide-to-best-free-3d-psds/"><u>[Updated] In 2024, Innovative Artists' Guide to Best Free 3D PSDs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-making-the-most-of-your-ppt-on-google-meet-devices-included/"><u>[Updated] Making the Most of Your PPT on Google Meet Devices Included</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-photo-slider-tools-for-2ebr-2024-compare-win-mac-and-online-platforms/"><u>Best Photo Slider Tools for 2Ebr 2024 - Compare Win, Mac and Online Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-rvs-on-the-market-exclusive-look-at-top-rated-motorhomes-and-camper-units-zdnet-gearguide/"><u>Best RVs on the Market : Exclusive Look at Top-Rated Motorhomes and Camper Units | ZDNET GearGuide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/boosting-video-quality-hd-streaming-across-facebook/"><u>Boosting Video Quality HD Streaming Across Facebook</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x6-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Poco X6 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-screenflow-a-guide-to-enhanced-creativity-on-macos/"><u>In 2024, Mastering ScreenFlow A Guide to Enhanced Creativity on macOS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-note-30-vip-racing-edition-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Note 30 VIP Racing Edition Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-m6-pro-4g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco M6 Pro 4G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+</ul></div>
 

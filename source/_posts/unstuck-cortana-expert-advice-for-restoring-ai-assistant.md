@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Cortana: Expert Advice for Restoring AI Assistant"
-date: 2025-01-20T16:10:59.162Z
-updated: 2025-01-22T16:14:10.650Z
+date: 2025-01-22T17:11:27.064Z
+updated: 2025-01-29T17:58:06.026Z
 tags:
   - win11
   - win10
@@ -43,15 +43,11 @@ There are two ways you can update the graphics driver:
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -68,11 +64,15 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click**Jurassic World Evolution** from the game list and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2-1.jpg)
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files.jpg)
@@ -91,11 +91,19 @@ There are two ways you can update the graphics driver:
 
 Do the crashes disappear now? If not, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Remove conflicting applications
 
  According to other players, some audio applications like**Nahimic Sonic Studio** or**Sonic Radar** will interfere with Jurassic World Evolution and result in the crashing problem. If you have also installed these two programs on your computer, try uninstalling them and see if that helps.
 
  If you’re still unable to play the game, continue to the next fix then.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable overlays
 
@@ -110,27 +118,19 @@ Do the crashes disappear now? If not, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Disable Discord overlay
 
 1. Open Discord and click the**cogwheel icon** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1.jpg)
 2. Select**Overlay** and**toggle off Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check whether Jurassic World Evolution stops crashing or not. If this method doesn’t give any luck, proceed to the last one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the graphics settings
 
@@ -140,13 +140,13 @@ Do the crashes disappear now? If not, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-0.jpg)
 2. Go to the**Display** section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Change the Screen Mode to**Windowed** and make sure to**turn off VSync** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-2.jpg)
 4. Go Back to the Settings Menu and navigate to the**Graphics** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-1.jpg)
 5. **Turn down the options** one by one.  
@@ -176,19 +176,16 @@ Do the crashes disappear now? If not, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-complete-circular-imaging-and-its-distinct-characteristics/"><u>[Updated] In 2024, Complete Circular Imaging and Its Distinct Characteristics</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-emancipate-your-engagement-facebook-restored/"><u>2024 Approved Emancipate Your Engagement Facebook Restored</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-90-lite-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor 90 Lite Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-does-find-my-friends-work-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-every-degree-top-9-techniques-for-vr-filmmaking/"><u>In 2024, Explore Every Degree Top 9 Techniques for VR Filmmaking</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-youtube-video-magic-advanced-editing-with-premiere-pro/"><u>In 2024, YouTube Video Magic Advanced Editing with Premiere Pro</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-yuva-2-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-audio-extraction-guide-for-updated-mkv-files-mkv-2023-edition-for-2024/"><u>New Audio Extraction Guide for Updated MKV Files (MKV-2023 Edition) for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/or-an-independent-creation/"><u>Or an Independent Creation?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-poco-c51-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Poco C51 Black and White | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-key-to-cinematic-excellence-mastering-the-art-of-shooting-stunning-slow-motion-media-on-instagram/"><u>The Key to Cinematic Excellence Mastering the Art of Shooting Stunning Slow-Motion Media on Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-mute-reactivate-slack-alerts-in-win-11/"><u>Troubleshoot Mute: Reactivate Slack Alerts in Win 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-resolve-dnssddll-is-absent-windows-error-effectively/"><u>Troubleshooting: Resolve 'DNSSD.DLL Is Absent' Windows Error Effectively</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-leap-from-youtube-to-dailymotion-with-ease/"><u>[New] In 2024, Leap From YouTube to Dailymotion with Ease</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-monitoring-lost-instagram-connections/"><u>[New] Monitoring Lost Instagram Connections</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unified-iptv-streaming-framework-for-2024/"><u>[Updated] Unified IPTV Streaming Framework for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725288365599-dvd/"><u>DVDファブリケーションガイド：手軽にデジタル化して保存する方法</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-a-disconnected-printer-on-windows-systems/"><u>Fixing a Disconnected Printer on Windows Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-s23-ultra-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy S23 Ultra Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-x5-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco X5 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tailored-trends-the-pathway-to-a-specialized-youtube-niche/"><u>Tailored Trends The Pathway to a Specialized Youtube Niche</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210920330-9780719826870-the-hedge-witchs-way/"><u>The Hedge Witch's Way | Free Book</u></a></li>
 </ul></div>
 

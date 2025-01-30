@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme Narzo 60x 5G | Dr.fone
-date: 2024-07-14T05:44:49.824Z
-updated: 2024-07-15T05:44:49.824Z
+date: 2025-01-23T20:08:21.974Z
+updated: 2025-01-29T17:36:26.550Z
 tags: 
   - problems
 categories:
@@ -53,8 +53,9 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - Before continuing, make sure your screen is spotless.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Realme Narzo 60x 5G device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Realme Narzo 60x 5G’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
@@ -175,6 +176,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -268,7 +273,9 @@ They are easy, user-friendly, and do not take much of your time. So don not wast
 
 If you’re still encountering the Parsing error, there may be a problem with the Realme Narzo 60x 5G device data on your device, which means you’ll need to repair it. Luckily, there’s a simple, one-click solution you can follow called [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/).
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -292,9 +299,6 @@ Android repair tool to fix all android system issues in one click
 
 Input your device and firmware information to confirm you’re installing the right version of the operating system.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select device model info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step #2** Follow the onscreen instructions on how to get into Download Mode to start the Repair process.
@@ -304,6 +308,10 @@ Input your device and firmware information to confirm you’re installing the ri
 Once complete, the firmware will start downloading.
 
 ![download the firmware to fix problem parsing the package](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #3** Once the firmware has downloaded, it will automatically install it to your device.
 
@@ -361,9 +369,6 @@ We do not suggest that you delete the Antivirus App permanently. Temporary unins
 
 • Select the antivirus App to click on “Uninstall” and then tap “OK”.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on “Uninstall”](https://images.wondershare.com/drfone/article/2017/06/14985109617315.jpg)
 
 Now download and install the desired App again. Once this is done, do not forget to install the Antivirus App again.
@@ -392,9 +397,6 @@ Follow the steps given below to factory reset your device:
 
 • Now select “Backup and Reset”.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/06/14985110589339.jpg)
 
 • In this step, select “Factory data reset” and then “Reset Device” to confirm Factory Reset.
@@ -402,8 +404,6 @@ Follow the steps given below to factory reset your device:
 The whole process of factory resetting your Realme Narzo 60x 5G might sound tedious, risky, and cumbersome but it helps to fix the Android SystemUI has stopped error 9 out of 10 times. So, think carefully before using this remedy.
 
 Parse Error: There was a problem parsing the package is an error message that has troubled many Android users. The good part is that the above-stated fixes not only solve the problem but also prevent it from occurring in the future. So, keep them in mind the next time you or anyone you know faces such an issue.
-
-
 
 ## Effective Methods on How To Take Viruses Off Your Phone
 
@@ -452,6 +452,10 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![system repair os options](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **iOS Repair** to proceed.
 
 ![dr.fone ios system repair options](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
@@ -474,9 +478,6 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 - **Step 8:** Once the process is completed, choose **Done.** Your phone should be virus-free by now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![repair complete](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
 
 ### Method 2: Using Safe Mode
@@ -500,6 +501,14 @@ For iPhones, here’s how you can do it:
 
 ![ios safe mode](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Downloading Anti-Virus Software
 
 Anti-virus software works like a shield, protecting your phone from sneaky viruses and malware. Here are three recommended anti-virus apps that you should try out. They’re available on both the Google Play Store and App Store. So, regardless of what device you’re using, you’re sure to be safe with these:
@@ -516,11 +525,19 @@ Generally, the Factory Reset option should be in **Settings > General & Backup a
 
 ![miui factory reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 IOS devices should be under **Settings > General > Transfer or Reset iPhone**.
 
 ![ios transfer or reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-14.jpg)
 
 Remember, each method has its strengths and weaknesses. Dr.Fone is quick and effective, Safe Mode is limited but useful, anti-virus apps can protect, and a Factory Reset gives a clean slate. Try these methods to zap those viruses away!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Handy Prevention Tips To Avoid Future Infections
 
@@ -533,12 +550,15 @@ To keep your phone safe from viruses, follow these easy tips that act as a shiel
 
 These simple yet crucial tips will fortify your phone’s defenses, reducing the likelihood of virus infections and ensuring a safer digital experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Viruses can make your phones act weird, but you have the tools to fight back. Keep your phone healthy by updating software, being cautious with downloads and links, using secure networks, and having an anti-virus app.
 
 And, if you’re thinking, “**How do I get a virus off My Realme Narzo 60x 5G?**” then Wondershare Dr.Fone is a reliable hero. It’s quick and effective in clearing out those bugs. By staying aware and taking preventive steps, you can keep your phone safe and ensure a trouble-free experience. And if viruses strike, Dr. Fone’s got your back for an instant fix!
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -552,9 +572,23 @@ And, if you’re thinking, “**How do I get a virus off My Realme Narzo 60x 5G?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-choosing-the-right-fps-30-or-60-which-is-better/"><u>[New] In 2024, Choosing the Right FPS 30 or 60, Which Is Better?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-snap-and-save-life-on-mi-11-with-unmatched-screen-quality/"><u>[New] Snap and Save Life on Mi 11 with Unmatched Screen Quality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-best-iphone-and-android-photo-and-video-capture-applications-reviewed/"><u>[Updated] In 2024, Best iPhone & Android Photo & Video Capture Applications Reviewed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-sound-top-10-microphones/"><u>[Updated] Mastering Sound Top 10 Microphones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-youtube-alternative-free-conversion-of-fb-videos-to-mp4-format-hd-quality/"><u>[Updated] YouTube Alternative Free Conversion of FB Videos to MP4 Format (HD Quality)</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-nokia-c12-plus-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Nokia C12 Plus by Name | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/panoramic-power-play-gear-vs-lgcam-showdown-for-2024/"><u>Panoramic Power Play Gear vs LGCam Showdown for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-xiaomi-redmi-note-13-proplus-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Redmi Note 13 Pro+ 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-x50-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor X50 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-narzo-60-pro-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme Narzo 60 Pro 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-zte-blade-a73-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for ZTE Blade A73 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-asus-rog-phone-7-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Asus ROG Phone 7 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-screen-brightness-the-top-10-causes-of-automatic-dimming/"><u>Understanding iPhone Screen Brightness: The Top 10 Causes of Automatic Dimming</u></a></li>
+</ul></div>
 

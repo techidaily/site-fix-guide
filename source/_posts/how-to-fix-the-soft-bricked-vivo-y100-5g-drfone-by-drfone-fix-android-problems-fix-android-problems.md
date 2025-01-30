@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y100 5G? | Dr.fone
-date: 2024-07-14T05:50:28.581Z
-updated: 2024-07-15T05:50:28.581Z
+date: 2025-01-26T03:15:48.271Z
+updated: 2025-01-30T00:34:22.264Z
 tags: 
   - problems
 categories:
@@ -21,6 +21,10 @@ A bricked phone, hard brick or soft brick, is a smartphone which refuses to star
 If you are confused about the soft brick and hard brick problems and looking for solutions to fix your priced phone, then here is all you need to know.
 
 Read on to find out more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the difference between soft brick and hard brick?
 
@@ -46,6 +50,10 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
@@ -66,10 +74,11 @@ Firstly, you must root your phone and unlock the Bootloader. Every phone’s mec
 
 Once the Bootloader is unlocked, take a backup of all your data by selecting “Backup” or “Android” back in recovery mode. The process should not take long and all you need to do is tap “OK” to config backup.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
 
@@ -80,6 +89,10 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
@@ -93,21 +106,18 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## 6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo Y100 5G
 
 Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog of our lives. Be it in the professional era or personal (gossips, oomph) stuffs, it is a crucial engaging kind of application. WhatsApp is the slow poison yet a useful tool used worldwide after call logs or messages. Imagining a day without is enough to put someone off. And if one has recently faced a problem in WhatsApp crashing or not opening, then it is enough to give a heart break. It can be due to Cache memory piled up, storage running out of space, WhatsApp components getting corrupted. In such a case, resolving the problem by using an effective solution is very important! Don’t worry and wander as we will provide impeccable range of fixes to bid bye to WhatsApp stopping problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cause 1: WhatsApp-related Firmware Components went wrong
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix firmware component issues
@@ -131,6 +141,10 @@ To start repairing, go to the official website of Dr.Fone - System Repair (Andro
 As the next step, you need to take the help of USB cable and then plug your device to the computer. Once connected appropriately, make sure to click on the “Android Repair” tab from the left panel.
 
 ![whatsapp not opening - choose repair tab](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Enter Details**
 
@@ -170,6 +184,10 @@ A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp
 
 ![whatsapp stopping - fix component corruption](https://images.wondershare.com/drfone/article/2019/06/install-whatsapp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause 4: Not Enough Storage on your Phone
 
 Insufficient storage could be the other reason why for your WhatsApp has stopped. When your device starts running out of space, some apps may not be able to operate properly for their functions take up space in the Vivo Y100 5G device. And probably WhatsApp is one of them. If the space is the case with you, we suggest you the following two things to go with.
@@ -184,9 +202,6 @@ It is a well-known fact that Android device and Gmail account go hand in hand. T
 - Log out by opening “Settings” and tap on “Accounts”.
 - Choose your Google account and tap on “REMOVE ACCOUNT”.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - fix gmail account](https://images.wondershare.com/drfone/article/2019/06/log-out-gmail.jpg)
 
 Now, you can login again and check if WhatsApp works or not.
@@ -213,9 +228,6 @@ Now that you have decided where to download the apk file, these are the followin
 
 - Firstly, open “Settings” on your device and go to “Security”. Turn the “Unknown Sources” option. Doing this will let you install the apps from other locations than Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - fix by installing gbwhatsapp](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-1.jpg)
 
 - Using the browser on your phone, download the app from any of the aforementioned website.
@@ -230,6 +242,10 @@ Now that you have decided where to download the apk file, these are the followin
 ## How To Unbrick a Dead Vivo Y100 5G
 
 [![](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Discovering your phone died, especially among Vivo Y100 5G models, can be disheartening. Looking online for ways to **unbrick your Oneplus 8T** can take up so much of your time. The unavailability of your device can disrupt your routine and connectivity. However, unbricking is the crucial solution to regain the functionality of your Vivo Y100 5G device.
 
@@ -270,9 +286,6 @@ The presence of malicious software can cause significant disruptions to the Vivo
 
 ![oneplus 8t out the box](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-oneplus-device-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How To Unbrick One Plus Device Using Various Methods
 
 The solutions below to unbrick your Oneplus are helpful methods to revive your device. Here's an overview of these methods.
@@ -293,6 +306,10 @@ Restoring using Recovery Mode can solve most problems that cannot be solved with
 ### Method 2. Contact the Manufacturer
 
 Engaging Vivo Y100 5G's official support can provide insights and potential solutions. This is advantageous if your device is under warranty.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3. Professional Repair Shops
 
@@ -370,6 +387,10 @@ Allow the unlock process to run its course. If unsuccessful, click 'Try Again' f
 
 [How to Fix the Soft Bricked Android Phone?](https://drfone.wondershare.com/iphone-problems/iphone-bricked-after-update.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 For Vivo Y100 5G owners, your device's revival rests in your hands. By embracing the abovementioned methods, you can reclaim your device from its bricked state. Act decisively to unbrick your Vivo Y100 5G device and relish its seamless performance again.
@@ -377,7 +398,6 @@ For Vivo Y100 5G owners, your device's revival rests in your hands. By embracing
 For those who find themselves locked out of their Vivo Y100 5G devices, there's a reliable solution at your fingertips. Try [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to regain access to your device swiftly and securely.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -391,9 +411,20 @@ For those who find themselves locked out of their Vivo Y100 5G devices, there's 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-resolved-windows-no-amd-driver-found/"><u>[CORRECTED] Resolved Windows: No AMD Driver Found</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-next-gen-title-genius-for-online-content-creators/"><u>[New] In 2024, Next-Gen Title Genius for Online Content Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-frequent-monetization-is-it-real-on-youtube/"><u>[Updated] Frequent Monetization Is It Real on YouTube?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-prescription-for-peacefulness/"><u>ChatGPT’s Prescription for Peacefulness</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-itel-a05s-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Itel A05s Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-find-x6-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Find X6 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-v29-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo V29 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y36i-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y36i Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-note-12-pro-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi Note 12 Pro 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722123995741-top-4-must-try-ai-powered-story-creation-tools-unleash-your-imagination/"><u>Top 4 Must-Try AI-Powered Story Creation Tools - Unleash Your Imagination</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-gaomon-pd1560-graphic-pad-a-top-notch-pen-display-reviewed/"><u>Unveiling the Gaomon PD1560 Graphic Pad - A Top-Notch Pen Display Reviewed</u></a></li>
+</ul></div>
 

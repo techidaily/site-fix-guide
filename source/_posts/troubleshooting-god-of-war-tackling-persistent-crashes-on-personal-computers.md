@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting God of War: Tackling Persistent Crashes on Personal Computers"
-date: 2025-01-21T16:13:22.661Z
-updated: 2025-01-22T16:04:11.507Z
+date: 2025-01-28T17:01:24.493Z
+updated: 2025-01-30T01:02:09.989Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 
  But don’t worry If you happen to be on the same boat. This may not be so hard to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that works for you.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 7. [**Lower in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 8. [**Run Genshin Impact on another GPU**](https://tools.techidaily.com/drivereasy/download/)
 9. **[Check for corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meets the requirements
 
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 
  If Genshin Impact crashes on your high-end gaming PC, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Genshin Impact as administrator
 
  Genshin Impact crashing to desktop may indicate a permission issue.**Running Genshin Impact as an administrator** is a possible solution to the crash.
@@ -63,6 +67,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-admin-1.jpg)
 2. Right-click**GenshinImpact.exe** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-admin-02.jpg)
 3. Navigate to the**Compatibility** tab. Under the**Settings** section, check the boxes next to**Disable fullscreen optimizations** (if you’re on Windows 10) and**Run this program as an administrator** . Click**OK** to save the changes.  
 
@@ -70,10 +78,6 @@ Here’s how:
 4. Run Genshin Impact and see if the crash has gone.
 
  If this fix failed to solve the crash, simply**undo these changes** and move on to the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -88,10 +92,6 @@ Here’s how:
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -135,11 +135,11 @@ Here’s how you can install system updates on Windows 10 or 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It might take up to an hour for Windows to download and install available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click**Check for updates** again.
 
@@ -157,12 +157,16 @@ Here’s how you can install system updates on Windows 10 or 7:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After installing all the system updates, restart your PC and test the gameplay with Genshin Impact.
 
  If this method doesn’t solve your case, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Change in-game resolution
@@ -178,14 +182,10 @@ And here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute-2.jpg)
 3. Continue your game and see if it stops crashing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this method doesn’t do the trick for you, simply try the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
@@ -197,7 +197,7 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-my-settings-1200x648.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
@@ -221,15 +221,15 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click**Browse** to specify the file location of the Genshin Impact launcher.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-3.jpg)
 4. Click**Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. Select**Power saving** and click**Save** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-5.jpg)
 
@@ -247,7 +247,7 @@ Now you can launch Genshin Impact and see if it stops crashing.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -273,21 +273,24 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-future-fables-top-30-quotes-on-tomorrows-realities/"><u>[Updated] Future Fables Top 30 Quotes on Tomorrow's Realities</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-flavorful-filmmaking-top-7-strategies-for-culinary-videos/"><u>2024 Approved Flavorful Filmmaking Top 7 Strategies for Culinary Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-my-productivity-skyrocketed-zdnet/"><u>A Week with an Ergonomic Split Keyboard: How My Productivity Skyrocketed - ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-non-running-diagnostic-services/"><u>Effective Solutions for Non-Running Diagnostic Services</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-google-pixel-7a-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Google Pixel 7a Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-precision-speed-control-for-elite-pc-users/"><u>In 2024, Precision Speed Control for Elite PC Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-sony-xperia-5-v-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Sony Xperia 5 V Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unleash-your-pcs-hidden-treasures-with-new-windows-10-games/"><u>In 2024, Unleash Your PC’s Hidden Treasures with New Windows 10 Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-for-mac-pro-comprehensive-film-format-transformation-software/"><u>Movavi for Mac Pro: Comprehensive Film Format Transformation Software</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-f15-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy F15 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-zte-nubia-z60-ultra-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix ZTE Nubia Z60 Ultra Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-moto-g73-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Moto G73 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-32-best-free-backup-software-options-meticulously-rated-and-examined-for-you/"><u>The 32 Best Free Backup Software Options, Meticulously Rated and Examined for You</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-effortlessly-increase-youtube-video-dimensions/"><u>[New] 2024 Approved Effortlessly Increase YouTube Video Dimensions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-vhs-classic-check-goofy-and-his-gangs-joke-time/"><u>[New] VHS Classic Check Goofy and His Gang's Joke Time</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-compact-video-summary-key-insights-unveiled-for-2024/"><u>[Updated] Compact Video Summary Key Insights Unveiled for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-essential-twitter-archive-user-manual/"><u>2024 Approved The Essential Twitter Archive User Manual</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oneplus-open-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked OnePlus Open in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-channel-boosting-strategies-effortless-sponsorship-securing-tips/"><u>In 2024, Channel Boosting Strategies Effortless Sponsorship Securing Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-market-presence-with-best-biz-centric-networks/"><u>Maximizing Market Presence with Best Biz-Centric Networks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y100t-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y100t? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-12-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi 12 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/prime-sixteen-camera-arrays-for-professionals-for-2024/"><u>Prime Sixteen Camera Arrays for Professionals for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-g42-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia G42 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nokia-xr21-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nokia XR21 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y100a-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y100A Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/solucion-de-error-0x80070015-como-resolver-el-problema-del-dispositivo-no-listo-en-bitlocker/"><u>Solución De Error 0X80070015: Cómo Resolver El Problema Del Dispositivo No Listo en BitLocker</u></a></li>
+<li><a href="https://win11.techidaily.com/through-the-looking-glass-reevaluating-rights-with-edges-restrictions/"><u>Through the Looking Glass: Reevaluating Rights with Edge's Restrictions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-truth-beyond-surface-level-of-apples-latest-approach-to-game-emulators/"><u>Unveiling the Truth: Beyond Surface Level of Apple's Latest Approach to Game Emulators</u></a></li>
 </ul></div>
 

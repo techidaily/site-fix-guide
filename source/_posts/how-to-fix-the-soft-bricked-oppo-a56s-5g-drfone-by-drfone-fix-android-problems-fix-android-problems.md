@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Oppo A56s 5G? | Dr.fone
-date: 2024-07-14T05:48:37.699Z
-updated: 2024-07-15T05:48:37.699Z
+date: 2025-01-26T18:21:14.899Z
+updated: 2025-01-29T20:38:16.221Z
 tags: 
   - problems
 categories:
@@ -66,9 +66,6 @@ Firstly, you must root your phone and unlock the Bootloader. Every phone’s mec
 
 Once the Bootloader is unlocked, take a backup of all your data by selecting “Backup” or “Android” back in recovery mode. The process should not take long and all you need to do is tap “OK” to config backup.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
@@ -76,6 +73,10 @@ In this step, download a ROM of your choice and store it in your SD Card. Insert
 Once at the recovery mode, select “Install Zip from SD Card” from the options.
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
@@ -93,20 +94,10 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8 Solutions to Solve YouTube App Crashing on Oppo A56s 5G
 
 YouTube can be considered among the apps that are widely used by users. And seeing “Unfortunately YouTube has stopped” error on the Android display screen is a thing that you can’t stand. The reasons can be multiple for why YouTube is not working or it keeps crashing. For instance, an outdated app, not updated OS, low storage, or corrupted cache. No matter what has triggered the problem on your device, we have solutions for it. Please read and follow this article to get the problem sorted.
@@ -168,8 +159,6 @@ The apps that run on the internet might start crashing due to connectivity issue
 
 There are times when a corrupted system gives you such errors. And therefore, you should try re-flashing the stock ROM on your Oppo A56s 5G. Before you wonder how we would like to introduce a highly recommended tool for this. It is Dr.Fone - System Repair (Android). It holds the proficiency to flash the stock ROM in just a click. So, when your YouTube is not responding due to a corrupted system, make use of this tool to get it solved. The benefits associated with this tool are as follows.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to flash the stock ROM of Android
@@ -187,6 +176,10 @@ Android repair tool to flash the stock ROM of Android
 Start with visiting the website on your PC and downloading the Dr.Fone toolkit. Install and open the tool. Now, from the main screen, choose “System Repair”.
 
 ![Youtube not responding - fix with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Connect Device**
 
@@ -206,6 +199,10 @@ Now, follow the instructions given on the screen according to your device. Click
 
 ![Youtube crashing on Android - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Repair the Issue**
 
 Lastly, when the firmware is downloaded, the system will start getting repaired on its own. You need to wait until you are informed about the completion of the process.
@@ -221,6 +218,10 @@ When nothing works, the last resort you can go with is resetting the Oppo A56s 5
 
 ![Youtube crashing on Android - factory reset android](https://images.wondershare.com/drfone/article/2019/06/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo A56s 5G
 
 The revolutionized world is about the internet, online life, and social media. You can get all the information you need from the internet. You are a click away from booking tickets, buying groceries, calling your loved ones, or even you can handle office meetings with the internet.
@@ -228,6 +229,10 @@ The revolutionized world is about the internet, online life, and social media. Y
 ![fix wifi keep disconnecting android](https://images.wondershare.com/drfone/article/2023/08/why-does-my-phone-keep-disconnecting-from-wifi.jpg)
 
 Since everything revolves around the internet, it's annoying if your WI-FI disconnects. You might question yourself **why does my Wi-Fi keep disconnecting from the phone**? To know the answer, read the article below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Does Your Phone Keep Disconnecting from WiFi?
 
@@ -271,6 +276,10 @@ If the Wi-Fi keeps disconnecting from your Oppo A56s 5G, but the internet is sta
 
 ![select reboot option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check Router Settings
 
 If your Android keeps disconnecting from Wi-Fi, you can also fix the problem by checking the router settings. This is because your phone might be blocked from connecting to the network, and if this is the scenario, your phone will never maintain the connection. You should check the Router’s admin panel or app to remove your phone from the blocklist.
@@ -285,6 +294,10 @@ To fix the annoying problem that your Wi-Fi keeps disconnecting, you should try 
 
 ![tap on your wifi option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: A list of all the Wi-Fi networks will appear on the screen. Select the network that is causing trouble from that list and hit the 'Forget Network' option.
 
 ![click on forgot network](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-4.jpg)
@@ -293,9 +306,6 @@ To fix the annoying problem that your Wi-Fi keeps disconnecting, you should try 
 
 ![enter wifi password](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Restart Your Router
 
 As we discussed, to restart your phone, you can also restart the router to get rid of the problem. For this, hit the restart button on the router to get a fresh start. If the Oppo A56s 5G device has no button, disconnect the power supply and plug it back in to connect again. Most internet issues are resolved by restarting the router.
@@ -308,9 +318,6 @@ The problem that your Wi-Fi keeps disconnecting can also occur because of the li
 
 **Step 1**: You should start by pressing and holding the Wi-Fi option from the drop-down menu on your phone until the Wi-Fi settings screen appears.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open wifi settings](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-7.jpg)
 
 **Step 2**: You will see a list of all the Wi-Fi networks you have connected to previously. One by one, select each network and hit the 'Forget Network' button to remove it.
@@ -324,6 +331,10 @@ Sometimes, different installed applications can also cause trouble. If your Wi-F
 **Step 1**: For uninstalling the problematic application, you have to select it and hold it. You will see a pop-up menu of multiple options; choose the option of ‘Uninstall' to remove the app from the phone.
 
 ![tap on uninstall button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reset Network Settings on your Phone
 
@@ -353,6 +364,10 @@ Although the 5GHz frequency band is recognized for providing better network spee
 
 ![change routers range](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9: Stay Connected while Asleep
 
 Most Android phones have a battery-saving feature. This feature disables the network connections to save the battery of the phone. If this is why the Wi-Fi keeps disconnecting, follow the steps shared below to fix it:
@@ -363,9 +378,6 @@ Most Android phones have a battery-saving feature. This feature disables the net
 
 **Step 2**: Then, from the battery screen, hit the 'More Battery Settings' options. Then, you will see the 'Stay Connected while Asleep' option; turn it on.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable connected while asleep](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-16.jpg)
 
 ### Fix 10: Upgrade Router Firmware
@@ -375,7 +387,6 @@ If none of the above-shared fixes work, the last fix to resolve the problem is u
 ## Wi-Fi Stay Connected
 
 The article above has discussed 10 solutions that offer a comprehensive toolkit to tackle the persistent issue of Wi-Fi keeps turning off Android. By toggling Airplane Mode, restarting your device, adjusting settings, and updating firmware, among other steps, you can effectively address and resolve this connectivity problem. With these solutions at your disposal, you can regain a stable and uninterrupted Wi-Fi experience on your Oppo A56s 5G.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -389,9 +400,24 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-echoharvest-app-reviews-step-by-step-guide/"><u>[Updated] EchoHarvest App Reviews Step-by-Step Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-who-leads-in-video-content-delivery-twitch-vs-youtube/"><u>2024 Approved Who Leads in Video Content Delivery? Twitch vs YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-instructions-to-enhance-performance-by-updating-ati-drivers-in-windows/"><u>Complete Instructions to Enhance Performance by Updating ATI Drivers in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-artificial-intelligence-in-android-technology/"><u>Demystifying Artificial Intelligence in Android Technology</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-mlb-the-show-19-beautiful-graphics-and-unanticipated-role-playing-adventures-reviewed/"><u>Exploring MLB The Show 19: Beautiful Graphics and Unanticipated Role-Playing Adventures Reviewed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-realme-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Realme using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-curve-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze Curve 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/lostdata-finder-androids-savior/"><u>LostData Finder: Android's Savior</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-voice-commands-a-guide-to-enable-siris-text-to-speech-on-iphone-and-mac/"><u>Mastering Voice Commands: A Guide to Enable Siri's Text-to-Speech on iPhone & Mac</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-razr-40-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Razr 40 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-a78-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo A78 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Hot 40 | Dr.fone</u></a></li>
+</ul></div>
 

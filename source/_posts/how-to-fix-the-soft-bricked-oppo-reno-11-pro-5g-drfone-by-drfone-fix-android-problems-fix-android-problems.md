@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Oppo Reno 11 Pro 5G? | Dr.fone
-date: 2024-07-14T05:48:53.447Z
-updated: 2024-07-15T05:48:53.447Z
+date: 2025-01-29T01:20:48.525Z
+updated: 2025-01-30T04:01:36.851Z
 tags: 
   - problems
 categories:
@@ -28,9 +28,6 @@ To begin with, let us understand the basic difference between a soft brick and h
 
 A soft-brick problem is caused merely by a software error/crash and makes your device switch on automatically every time you manually turn it off. This phenomenon is referred to as Boot Loop. Soft bricked Android phones are not as difficult to fix as the hard bricked Android phones. It is convenient to say that a soft bricked phone only boots up half-way and not fully, whereas a hard bricked device does not switch on at all. A hard brick error is thus caused when the kernel, which is nothing but an interface for the software to communicate with the hardware, is tampered with. A hard bricked phone is not recognized by your PC when plugged in and is a serious problem. It requires troubleshooting techniques and cannot be easily fixed as the soft brick problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
@@ -75,19 +72,17 @@ In this step, download a ROM of your choice and store it in your SD Card. Insert
 
 Once at the recovery mode, select “Install Zip from SD Card” from the options.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
@@ -98,8 +93,6 @@ Hopefully, your bricked phone will not boot normally and work smoothly.
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
-
 
 ## [Solved] Warning: Camera Failed on Oppo Reno 11 Pro 5G
 
@@ -131,8 +124,6 @@ There might be much more reasons for the camera failed error, but these are the 
 
 If you are experiencing some kind of issues in your Oppo Reno 11 Pro 5Gs such as Oppo Reno 11 Pro 5G camera failed, the Oppo Reno 11 Pro 5G device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Oppo Reno 11 Pro 5G devices and perform a complete system repair so the Oppo Reno 11 Pro 5G device starts working normally.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One-click solution to fix camera failed on Oppo Reno 11 Pro 5G devices
@@ -156,9 +147,17 @@ One-click solution to fix camera failed on Oppo Reno 11 Pro 5G devices
 
 ![select the details of samsung device](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**. Now put your device in the download mode. The software will provide you with a guide to put the phone in download mode to begin the downloading process.
 
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
 
@@ -184,6 +183,10 @@ Tap on “Camera” to open the “Camera Info” screen and once you are there,
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to fix Camera Failed error by removing third-party Apps?
 
 Another tip to fix Oppo Reno 11 Pro 5G camera failed error is by deleting a few unwanted third-party Apps (recently installed) to free some space in the Oppo Reno 11 Pro 5G device’s internal storage. It is essential to create and keep storage space for the camera App to function smoothly and allow it to store its data as well. Also, if this issue only happens recently, it might be some newly installed Apps causing some glitches with the camera.
@@ -196,14 +199,19 @@ Simply, follow the instructions given below to remove Apps from Oppo Reno 11 Pro
 
 ![installed apps](https://images.wondershare.com/drfone/article/2017/07/14997066916915.jpg "installed apps")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Now, once you select the App you want to uninstall, the App Info screen will appear. Tap on “Uninstall” option and then tap on “Uninstall” again on the pop-up message.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14997067161727.jpg "uninstall app")
 
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How to fix Camera Failed error by wiping Cache Partition?
 
@@ -221,6 +229,10 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
@@ -234,6 +246,10 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 1\. To reset, first, launch the Camera App by tapping on its icon.
 
 ![tap on camera](https://images.wondershare.com/drfone/article/2017/07/14997068859206.jpg "tap on camera")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. Then go to Camera “Settings” by tapping on the circular gear like icon.
 
@@ -254,6 +270,10 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 1\. Start by visiting “Settings” on your Oppo Reno 11 Pro 5G device on which the camera has failed.
 
 ![phone settings](https://images.wondershare.com/drfone/article/2017/07/14997069645058.jpg "phone settings")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. Now from the list of options before you, select “Backup and reset” and move ahead.
 
@@ -283,9 +303,6 @@ Before we proceed and discuss different ways on how to update Play Store after u
 
 If your device is giving the insufficient storage warning, then you need to start by clearing your phone’s data. It is observed that the Google Play Service accumulates most of the data in a device. This leads to users looking for different ways to how to uninstall Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: What will it affect to uninstall Google Play Service?
 
 If you think that Google Play Service only provides a platform to download new apps, then you are wrong. It provides several other functions that might alter the way you use your smartphone. It is linked with other essential Google services as well, like Google Maps, Gmail, Google Music, etc. After uninstalling the Google Play Service, you might face trouble using various essential apps.
@@ -300,8 +317,11 @@ To disable the Google Play Services, just go to your phone’s Settings > Applic
 
 ![uninstall google play services-open Google Play Services](https://images.wondershare.com/drfone/article/2017/06/14981537155144.jpg)
 
-Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -315,9 +335,19 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-reducing-excessive-encoding-obs/"><u>2024 Approved Reducing Excessive Encoding (OBS)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/conquer-kinemaster-efficient-use-plus-top-online-gaming-platforms-reviewed-for-2024/"><u>Conquer KineMaster Efficient Use + Top Online Gaming Platforms Reviewed for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-controlling-windows-11-wins-alerts/"><u>Guide to Controlling Windows 11 Wins Alerts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-8-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 8? Complete Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maplestory-stability-solutions-for-windows-11-users-expert-fixes-and-tips-for-the-year-2023/"><u>MapleStory Stability Solutions for Windows 11 Users: Expert Fixes and Tips for the Year 2023</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-elegant-mosaic-imagery-fusions/"><u>Mastering Elegant Mosaic Imagery Fusions</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-zero-error-guidance-to-resolve-windows-11-store-glitches/"><u>Mastery over Zero-Error: Guidance to Resolve Windows 11 Store Glitches</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-5-methods-for-boosting-image-clarity/"><u>Top 5 Methods for Boosting Image Clarity</u></a></li>
+</ul></div>
 

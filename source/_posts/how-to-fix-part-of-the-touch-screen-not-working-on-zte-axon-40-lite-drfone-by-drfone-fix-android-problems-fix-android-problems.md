@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on ZTE Axon 40 Lite | Dr.fone
-date: 2024-07-14T05:46:37.981Z
-updated: 2024-07-15T05:46:37.981Z
+date: 2025-01-24T19:51:21.161Z
+updated: 2025-01-29T17:09:46.541Z
 tags: 
   - problems
 categories:
@@ -65,6 +65,10 @@ When your touch screen stops working, the first thing you should do is restart y
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** When the ZTE Axon 40 Lite device turns off, wait a few seconds.
 
@@ -140,9 +144,17 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
@@ -172,9 +184,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -210,16 +219,15 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your ZTE Axon 40 Lite 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7 Fixes for "Unfortunately, Phone Has Stopped" on ZTE Axon 40 Lite
 
@@ -245,9 +253,6 @@ First and foremost, the thing that can let you get rid of this trouble is Safe M
 3. Release the button and immediately press and hold the "Volume Down" key.
 4. Leave the key once the ZTE Axon 40 Lite device is in Safe mode. Now, the third-party apps will be disabled and you can check if the Phone app is still not responding or everything is fine.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.2 Clear the cache of the Phone app
 
 The cache should be cleaned timely if you want any app to work properly. Due to the constant usage, the temporary files get collected and may corrupt if not cleared. Hence, the next solution you should try when the Phone app keeps stopping is to clear the cache. Here are the steps to be performed.
@@ -291,7 +296,9 @@ If still, the Phone app keeps stopping after trying everything, here is the most
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -313,6 +320,10 @@ Click the "Start Download" button to download the tool on your computer, and the
 
 ![Phone app crashing - fix using a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Plug the Phone with PC**
 
 Take your original USB cord and then connect your ZTE Axon 40 Lite to the computer. When the ZTE Axon 40 Lite device is connected, click on "Android" from the two tabs > click "Start"
@@ -329,9 +340,6 @@ As the next step, enter some important details on the next screen. Be sure to en
 
 Downloading firmware will be the next step. Prior to this, you have to go through the instructions given onscreen to enter the DFU mode. Please click on "Next" and the program will bring the suitable firmware version and start downloading it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone app crashing - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 **Step 5: Get the ZTE Axon 40 Lite device Repaired**
@@ -370,6 +378,10 @@ Well! There can be a number of reasons why this thing happens. For instance, cus
 - [Part 6: Factory reset your Android](https://drfone.wondershare.com/android-stopped/unfortunately-settings-has-stopped.html#Part6)
 - [Part 7: Check and update Android OS](https://drfone.wondershare.com/android-stopped/unfortunately-settings-has-stopped.html#Part7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Clear the cache of Settings and Google Play Service
 
 It is possible that the corrupted cache files are responsible for this error. Hence, as the first tip, we would like you to clear the Settings cache if that is what triggers the “Unfortunately Settings has stopped” issue. Clearing it would definitely make Settings run appropriately. And The steps to clear the cache of the Google Play Services app are similar. Here is how to clear the cache of Settings:
@@ -406,8 +418,6 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your ZTE Axon 40 Lite, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all ZTE Axon 40 Lite devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix "Unfortunately, Settings Has Stopped"
@@ -440,6 +450,10 @@ In the next window, you need to fill in some necessary information like the name
 
 ![Android settings not responding - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Enter Download Mode
 
 Now, you need to take your device into Download mode. For this, you need to follow the onscreen instruction according to your device. Click “Next” and you will notice the firmware downloading progress on your screen.
@@ -466,6 +480,10 @@ Like RAM, wiping cache is also vital so as to make the ZTE Axon 40 Lite device�
 
 ![Android settings not responding - cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: Factory reset your Android
 
 You can also opt for Factory resetting your device to fix the issue of Settings keeps stopping. By removing everything from the ZTE Axon 40 Lite device, it will make your device run properly. If you have important data on your device, please make sure to [create a backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before taking action if you don’t want to lose it. The steps are as follows.
@@ -475,6 +493,10 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 3. Wait for the completion of the process and check if Settings is stopping or not after it gets rebooted.
 
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7: Check and update Android OS
 
@@ -486,9 +508,6 @@ A lot of times minor issues crop up due to the operating systems that get outdat
 
 ![Android settings not responding - update android firmware](https://images.wondershare.com/drfone/article/2019/04/update-samsung.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If your ZTE Axon 40 Lite shows the "Unfortunately Settings has stopped" error, don't worry. This problem can come from many things like old software or cache issues. You can try easy fixes like clearing cache or updating your system. Sometimes, removing custom ROMs might be needed.
@@ -496,7 +515,6 @@ If your ZTE Axon 40 Lite shows the "Unfortunately Settings has stopped" error, d
 For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html). It's known for fixing many iOS problems without losing any data. Remember, a well-working device is just a few steps away!
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -510,9 +528,23 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-building-dynamic-youtube-music-chains/"><u>[Updated] 2024 Approved Building Dynamic YouTube Music Chains</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-take-screenshots-on-a-chromebook-for-2024/"><u>[Updated] How to Take Screenshots on A Chromebook for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1byone-digital-amplified-indoor-hd-tv-antenna-review/"><u>1Byone Digital Amplified Indoor HD TV Antenna Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopros-top-tier-face-off-hero5-b-and-sessions/"><u>2024 Approved GoPro's Top Tier Face-Off Hero5 B & Sessions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-apple-iphone-xs-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Methods to Turn off Life 360 On Apple iPhone XS without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cinematic-wisdom-bank/"><u>In 2024, Cinematic Wisdom Bank</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-infinix-smart-8-hd-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Infinix Smart 8 HD – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-reno-9a-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo Reno 9A Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-legacy-unfolded-how-the-construction-of-the-three-gorges-dam-shaped-modern-history-an-analysis-by-yl-software/"><u>The Legacy Unfolded: How the Construction of the Three Gorges Dam Shaped Modern History – An Analysis by YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+</ul></div>
 

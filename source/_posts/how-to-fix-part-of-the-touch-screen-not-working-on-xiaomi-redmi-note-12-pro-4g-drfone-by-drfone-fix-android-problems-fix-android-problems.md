@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 12 Pro 4G | Dr.fone
-date: 2024-07-14T05:46:34.416Z
-updated: 2024-07-15T05:46:34.416Z
+date: 2025-01-22T19:30:21.227Z
+updated: 2025-01-29T16:50:14.209Z
 tags: 
   - problems
 categories:
@@ -55,6 +55,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Xiaomi Redmi Note 12 Pro 4G device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Xiaomi Redmi Note 12 Pro 4G’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart Your Device
 
@@ -114,9 +118,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
@@ -151,9 +152,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 ****Step 4:**** Before repairing your Xiaomi Redmi Note 12 Pro 4G, you must boot it into ****Download**** ****mode****. To boot your Xiaomi Redmi Note 12 Pro 4G or tablet into DFU mode, follow the steps below:
@@ -173,6 +171,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
 ![download mode repair android without home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Xiaomi Redmi Note 12 Pro 4G. And in a while, your Xiaomi Redmi Note 12 Pro 4G’s system issues will be resolved.
 
@@ -213,6 +215,10 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
@@ -245,6 +251,10 @@ It is possible that the corrupted cache files are responsible for this error. He
 
 ![settings crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
 
 ## Part 2: Clear the Android phone’s RAM and retry
@@ -256,6 +266,10 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
 2. Now, swipe the apps and tap on the clear option. You will be able to notice the amount of RAM cleared
 
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Uninstall the Google update
 
@@ -270,8 +284,6 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Xiaomi Redmi Note 12 Pro 4G, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Xiaomi Redmi Note 12 Pro 4G devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -339,9 +351,6 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 2. Tap on “Factory data reset” followed by “Reset device”.
 3. Wait for the completion of the process and check if Settings is stopping or not after it gets rebooted.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
 ## Part 7: Check and update Android OS
@@ -374,9 +383,6 @@ In this guide, discover reliable solutions when your **Google Play Store is not 
 
 The Google Play Store serves as the epicenter for Android users. It facilitates seamless access to a vast array of apps. However, encountering issues with the platform can impact the functionality of your device. Below are 7 common issues on why your **Google Play Store is not responding**.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
 
 ### Inability To Open the Play Store
@@ -390,6 +396,10 @@ The inability to open the Play Store leaves you without access to new apps or up
 ### Not Responding Errors
 
 The dreaded "Not Responding" message can bring usability to a standstill. Users navigating the Play Store may experience delays or complete unresponsiveness. It can lead to a frustrating and unproductive experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Download and Installation Failures
 
@@ -425,9 +435,6 @@ Encountering issues with the Google Play Store can be frustrating. It disrupts y
 
 ![fixing mobile phone issues vector image](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Clear Cache and Data
 
 Revitalize your Google Play Store by addressing performance issues. Clearing cache and data can be a crucial step when troubleshooting malfunctions or glitches in the app. Here's how.
@@ -446,6 +453,14 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
@@ -458,6 +473,10 @@ Restore your device's app settings to default for improved functionality. Below 
 - **Step 2:** Tap the three dots in the top-right corner and choose **Reset app preferences**.
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Re-add Google Account
 
@@ -516,6 +535,10 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Key Features**
 
 - **Fixes diverse Android issues**. Dr.Fone - System Repair excels in resolving a multitude of Android problems. This includes a black screen, [<u>a boot loop</u>](https://drfone.wondershare.com/iphone-problems/iphone-boot-loop.html), and [<u>bricked Android devices</u>](https://drfone.wondershare.com/android-issue/fix-soft-bricked-android.html). Its comprehensive approach ensures you can rely on a single tool to tackle a wide range of system-related issues.
@@ -533,9 +556,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -548,9 +568,26 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-vero-authors-spotlight-at-snapchat/"><u>[New] 2024 Approved Vero Authors Spotlight at Snapchat</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-a-step-by-step-guide-to-perfect-voice-recording/"><u>[New] A Step-by-Step Guide to Perfect Voice Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-process-for-efficient-use-of-macs-preview-app/"><u>[New] Step-by-Step Process for Efficient Use of Mac's Preview App</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-secrets-to-successfully-obtain-windows-movie-maker-6-for-2024/"><u>[Updated] Secrets to Successfully Obtain Windows Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/can-(securityfacebookmailcom)-be-trusted-for-fb-safety/"><u>Can <Security@facebookmail.com> Be Trusted for FB Safety?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-ai-projects-struggle-with-agile-methodology-insights-from-recent-research-techwire/"><u>How AI Projects Struggle with Agile Methodology – Insights From Recent Research | TechWire</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-accessing-the-apex-high-definition-media-from-facebooks-realm/"><u>In 2024, Accessing the Apex High-Definition Media From Facebook's Realm</u></a></li>
+<li><a href="https://fox-http.techidaily.com/journey-to-social-media-supremacy-top-9-secrets-to-becoming-an-instagram-star/"><u>Journey to Social Media Supremacy Top 9 Secrets to Becoming an Instagram Star</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-steam-deck-storage-switcheroo/"><u>Mastering the Art of Steam Deck Storage Switcheroo</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-nokia-g310-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Nokia G310? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-a23-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy A23 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-smart-8-plus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Smart 8 Plus Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-m34-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy M34 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleashing-household-connectivity-with-the-tri-band-netgear-nighthawk-x6-ac3200-a-gamers-and-familys-dream/"><u>Unleashing Household Connectivity with the Tri-Band Netgear Nighthawk X6 AC3200 - A Gamer's and Family's Dream</u></a></li>
+</ul></div>
 

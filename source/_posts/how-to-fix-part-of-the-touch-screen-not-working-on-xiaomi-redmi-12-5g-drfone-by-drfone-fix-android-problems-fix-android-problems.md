@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi 12 5G | Dr.fone
-date: 2024-07-14T05:46:23.973Z
-updated: 2024-07-15T05:46:23.973Z
+date: 2025-01-25T01:27:15.318Z
+updated: 2025-01-29T22:58:47.937Z
 tags: 
   - problems
 categories:
@@ -53,11 +53,16 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - Before continuing, make sure your screen is spotless.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Xiaomi Redmi 12 5G device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Xiaomi Redmi 12 5G’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart Your Device
 
@@ -107,6 +112,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -142,6 +151,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 2:**** Connect your Xiaomi Redmi 12 5G or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
@@ -288,19 +301,8 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ****Step 3:**** When you let go of the “Power” button, press and hold the “Volume Down” button. After that, a “Safe Mode” label will appear in your screen’s lower-left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -365,6 +367,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4:**** Before repairing your Xiaomi Redmi 12 5G, you must boot it into ****Download**** ****mode****. To boot your Xiaomi Redmi 12 5G or tablet into DFU mode, follow the steps below:
 
 **For a device that has a Home button:**
@@ -374,6 +380,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For a device that lacks a Home button:**
 
@@ -422,16 +432,11 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Xiaomi Redmi 12 5G 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
-
-
 
 ## Effective Methods on How To Take Viruses Off Your Phone
 
@@ -440,6 +445,10 @@ Cell phones have become a part of a person’s daily life. It offers convenience
 In this article, you’ll explore practical methods on **h ow to take a virus off your phone**. From simple preventive measures to specific solutions, this guide aims to equip you with practical strategies, ensuring a safer and smoother mobile experience by safeguarding your phone against the perils of viruses.
 
 ![phone with virus logo](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why You Get Mobile Viruses in the First Place
 
@@ -525,6 +534,10 @@ For iPhones, here’s how you can do it:
 
 ![ios safe mode](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Downloading Anti-Virus Software
 
 Anti-virus software works like a shield, protecting your phone from sneaky viruses and malware. Here are three recommended anti-virus apps that you should try out. They’re available on both the Google Play Store and App Store. So, regardless of what device you’re using, you’re sure to be safe with these:
@@ -545,7 +558,15 @@ IOS devices should be under **Settings > General > Transfer or Reset iPhone**.
 
 ![ios transfer or reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Remember, each method has its strengths and weaknesses. Dr.Fone is quick and effective, Safe Mode is limited but useful, anti-virus apps can protect, and a Factory Reset gives a clean slate. Try these methods to zap those viruses away!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Handy Prevention Tips To Avoid Future Infections
 
@@ -558,15 +579,11 @@ To keep your phone safe from viruses, follow these easy tips that act as a shiel
 
 These simple yet crucial tips will fortify your phone’s defenses, reducing the likelihood of virus infections and ensuring a safer digital experience.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Viruses can make your phones act weird, but you have the tools to fight back. Keep your phone healthy by updating software, being cautious with downloads and links, using secure networks, and having an anti-virus app.
 
 And, if you’re thinking, “**How do I get a virus off My Xiaomi Redmi 12 5G?**” then Wondershare Dr.Fone is a reliable hero. It’s quick and effective in clearing out those bugs. By staying aware and taking preventive steps, you can keep your phone safe and ensure a trouble-free experience. And if viruses strike, Dr. Fone’s got your back for an instant fix!
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -580,9 +597,20 @@ And, if you’re thinking, “**How do I get a virus off My Xiaomi Redmi 12 5G?*
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-next-era-visionaries-explore-10-sci-fi-movies-metaverse-realms/"><u>[New] 2024 Approved Next Era Visionaries Explore 10 Sci-Fi Movies' Metaverse Realms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-your-personalized-list-of-top-non-networked-android-game-apps/"><u>[New] 2024 Approved Your Personalized List of Top Non-Networked Android Game Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-the-blues-effective-strategies-to-resolve-windows-update-error-configuration/"><u>Beating the Blues: Effective Strategies to Resolve Windows Update Error Configuration</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/changing-tides-in-smart-casting-how-chromecast-with-google-tv-stacks-up-against-competitors/"><u>Changing Tides in Smart Casting: How Chromecast with Google TV Stacks Up Against Competitors</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-12-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi 12 for Parents | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-g22-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia G22 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-g22-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia G22 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ps3-playback-a-comprehensible-methodology-for-2024/"><u>PS3 Playback A Comprehensible Methodology for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m34-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M34 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/k-physical-and-spiritual-potential-the-best-yoga-vlogs-out-there-for-2024/"><u>Unlock Physical & Spiritual Potential The Best Yoga Vlogs Out There for 2024</u></a></li>
+</ul></div>
 

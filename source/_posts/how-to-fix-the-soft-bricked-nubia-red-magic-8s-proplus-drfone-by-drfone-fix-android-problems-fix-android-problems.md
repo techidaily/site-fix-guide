@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Nubia Red Magic 8S Pro+? | Dr.fone
-date: 2024-07-14T05:48:17.800Z
-updated: 2024-07-15T05:48:17.800Z
+date: 2025-01-23T04:07:37.619Z
+updated: 2025-01-29T18:48:10.472Z
 tags: 
   - problems
 categories:
@@ -57,8 +57,9 @@ This method will help you erase all the clogged up and unwanted files. You may l
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -93,8 +94,6 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## 9 Quick Fixes to Unfortunately TouchWiz has stopped Of Nubia Red Magic 8S Pro+
 
 “Unfortunately TouchWiz home has stopped” is the talk of the town due to annoying TouchWiz UI, a front-end user interface developed by Nubia Red Magic 8S Pro+. Not to mention, the Nubia Red Magic 8S Pro+ has borne a whole lot of heat from its agitated users over the years and the reason is pretty much obvious due to the pre-installed bloatware apps and the theme launch “TouchWiz home”. That not just brutally annoys users and eats up a heck of internal storage space but lags up too often due to low speed and stability. As a result users end up with “Unfortunately TouchWiz home has stopped” and “Unfortunately, TouchWiz has stopped”. Apparently, there are several flaws in the design and functioning of this launcher and hence, Touchwiz keeps stopping or becomes unresponsive.
@@ -109,14 +108,9 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -151,6 +145,10 @@ Now, from the next screen, you are supposed to choose “Android Repair” tab. 
 Please keep your mobile details handy as you will need them in the next window. You will need to enter the correct brand, model, and country name etc. for better detection of your device.
 
 ![enter device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Confirm Actions**
 
@@ -209,6 +207,10 @@ In case the above steps didn’t figure out the problem, here is the next tip. T
 
 Check now if the error is eliminated. If unfortunately not, please try the following solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Enable the easy mode
 
 For some users, enabling Easy Mode has been of great assistance. This feature aims to make the user experience more efficient by simply eliminating complex features. The Easy Mode removes those features that confuse the users by messing up the screen. Hence, we suggest you to switch to this mode in order to remove “**_TouchWiz not working_**” problem. The steps are:
@@ -217,6 +219,10 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 - Hit on “Easy Mode” now.
 
 ![easy mode to fix TouchWiz stopping](https://images.wondershare.com/drfone/article/2019/02/easy-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
 
@@ -231,6 +237,10 @@ Here is the next solution to be followed when TouchWiz keeps stopping. As we alr
 - You will now witness “Safe mode” on the bottom screen. You can now release the button.
 
 ![safe mode](https://images.wondershare.com/drfone/article/2019/02/enable-safe-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset Factory settings
 
@@ -278,9 +288,6 @@ In a simple language, Random Access Memory (RAM) temporarily stores the data fro
 
 The mobile applications installed on your smartphones are directly related to internal storage. The apps save their data every time, so they behave strangely when the Nubia Red Magic 8S Pro+ device runs out of storage. If you’re using heavy mobile applications, it’s best to opt for smartphones with huge internal storage.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reasons Why My Nubia Red Magic 8S Pro+ is Running Slow
 
 It’s not really hard to tell why your Nubia Red Magic 8S Pro+ is slow because it’s apparently a common issue among users. But don’t worry. Most of the time, the problem is not a major concern. Here are some scenarios that may slow down your Nubia Red Magic 8S Pro+s.
@@ -288,6 +295,10 @@ It’s not really hard to tell why your Nubia Red Magic 8S Pro+ is slow because 
 ### Overloading Background Processes
 
 It’s great to have an Android phone that can flawlessly multi-task. However, not all units can handle that well. As mentioned earlier, it depends on the CPU core count and the core’s clock speed. If your Nubia Red Magic 8S Pro+ is running slow and freezing, many processes may be happening at the same time. Your device’s cores and clock speed are potentially incapable of executing such demands.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Your Phone is Running Out of Storage
 
@@ -323,6 +334,10 @@ Sometimes, minor bugs can give your device a hard time. It can be the reason why
 
 - **Step 2:** Several options will manifest on the screen. From there, click **Restart.** Wait until your device completely shuts off and restarts again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2: Uninstall the Unused Apps to Free Up Some Storage
 
 If your Nubia Red Magic 8S Pro+ is running slow and freezing, it’s likely because you're running out of internal storage. You may uninstall the apps you rarely use to free up some space. Here’s how to do it.
@@ -335,6 +350,10 @@ If your Nubia Red Magic 8S Pro+ is running slow and freezing, it’s likely beca
 - **Step 3:** Click **Ok** if it asks you to confirm the action.
 
 Wait until the app icon disappears from the home screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Set the Animation Speed a Little Faster
 
@@ -420,9 +439,6 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 - **Step 6:** At this point, you need to put your device into **Download Mode. Power off** your device. And then hold these three buttons altogether: **Volume Down, Home** (or **Bixby** if you’re using a newer model)**,** and **Power** buttons. Finally, press the **Volume Up** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![put device into download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - **Step 7:** Wondershare Dr.Fone will automatically download the firmware that matches your device’s specifications. Wait until the process has been completed.
@@ -431,10 +447,11 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 - **Step 8:** Thereafter, the details about the newly downloaded firmware package will be displayed on the screen. From there, click **Fix Now.**
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![new firmware is ready](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 9:**  Before initiating the installation process, Wondershare Dr.Fone will ask you to review and confirm the firmware details. It will also let you know that this procedure will erase the phone’s data. If you agree to the terms, enter **000000** into the input box and click **Confirm.**
 
@@ -443,6 +460,10 @@ The device’s operating system may sometimes run into unexpected problems. That
 - **Step 10:** Wait while Wondershare Dr.Fone installs the new firmware to your device.
 
 ![install new firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 11:** A notification will immediately appear after installing the new firmware. Click **Done** if your phone starts normally. Otherwise, click **Try Again** to repeat the process.
 
@@ -453,7 +474,6 @@ The device’s operating system may sometimes run into unexpected problems. That
 ## Conclusion
 
 Android phone is capable of performing lots of stuff. It can assist you in both your personal and professional tasks. But if it’s sluggish and doesn’t execute optimally, the good things it promises all go down the drain. So if you notice that your Nubia Red Magic 8S Pro+ is running slow and freezing, act fast to resolve the issue. [<u>Wondershare Dr.Fone</u>](https://drfone.wondershare.com/guide/android-repair.html) can be of great help in this kind of situation. It’s an all-in-one mobile solution that can assist you with system repair, phone backup, data recovery, and a lot more.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -467,9 +487,26 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-decreasing-decibits-gradually-for-calm-soundscapes-in-lumafusion-for-2024/"><u>[New] Decreasing Decibits Gradually for Calm Soundscapes in Lumafusion for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-reviewing-sj7s-4k-action-cam-capturing-life-to-perfection/"><u>[New] Reviewing SJ7’s 4K Action Cam - Capturing Life to Perfection</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-simplycapture-windows-screens-in-minutes-for-2024/"><u>[New] SimplyCapture - Windows Screens in Minutes for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-bring-life-to-photos-using-snapchats-fun-cartoon-lenses/"><u>[Updated] In 2024, Bring Life to Photos Using Snapchat's Fun Cartoon Lenses</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-exploring-interconnected-digital-universes-meta-and-omni/"><u>[Updated] In 2024, Exploring Interconnected Digital Universes Meta & Omni</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-trim-the-hours-off-custom-youtube-shorts-image-creation/"><u>[Updated] In 2024, Trim The Hours Off Custom YouTube Shorts Image Creation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-sunset-symphony-cinematic-darkening-in-pro/"><u>2024 Approved Sunset Symphony Cinematic Darkening in Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-watch-x-discover-expected-retail-price-release-moment-comprehensive-tech-details-and-buzzing-rumors/"><u>Apple Watch X - Discover Expected Retail Price, Release Moment, Comprehensive Tech Details & Buzzing Rumors!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nubia-red-magic-8s-proplus-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nubia Red Magic 8S Pro+ Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c12-plus-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C12 Plus Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-index-affordable-flexible-image-sources/"><u>Premier Index Affordable, Flexible Image Sources</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-windows-11s-soon-to-expire-licensing-message/"><u>Remedying Windows 11'S 'Soon-to-Expire' Licensing Message</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme 11 Pro | Dr.fone</u></a></li>
+</ul></div>
 

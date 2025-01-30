@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Oppo Reno 8T 5G? | Dr.fone
-date: 2024-07-14T05:48:55.770Z
-updated: 2024-07-15T05:48:55.770Z
+date: 2025-01-29T01:27:11.362Z
+updated: 2025-01-29T18:22:52.709Z
 tags: 
   - problems
 categories:
@@ -50,6 +50,10 @@ Use the volume down key to scroll down and select ”Wipe cache partition” as 
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
 This method will help you erase all the clogged up and unwanted files. You may loose some App related data, but that is a small price to pay to fix your bricked phone.
@@ -90,13 +94,15 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## How To Fix Part of the Touch Screen Not Working on Oppo Reno 8T 5G
 
 You probably touch the screen of your phone hundreds of times per day. It’s no surprise that smartphone touchscreens are one of the most common components to fail, given their delicate glass construction. However, a ****part of the touch screen not working**** on your Oppo Reno 8T 5G does not necessarily mean it is a hardware issue. There could be other reasons why your Android’s touch screen stopped responding.
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Is Part of My Screen Not Working
 
@@ -166,6 +172,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -194,10 +204,11 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -225,16 +236,21 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Before repairing your Oppo Reno 8T 5G, you must boot it into ****Download**** ****mode****. To boot your Oppo Reno 8T 5G or tablet into DFU mode, follow the steps below:
 
@@ -276,9 +292,6 @@ Dr.Fone – System Repair is a data management and recovery tool that contains s
 - A high success rate for fixing Android system issues
 - Fixes Android system back to normal
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Pros
 
 Here are the advantages of using Dr.Fone – System Repair:
@@ -302,9 +315,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Oppo Reno 8T 5G 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restore Missing App Icon on Oppo Reno 8T 5G: Step-by-Step Solutions
 
 The growing conversation around the **missing app icons on Android** issue has caught our attention. While it seems confusing, it's a problem that some Android users have encountered.
@@ -312,7 +322,6 @@ The growing conversation around the **missing app icons on Android** issue has c
 After all, the presence of app icons on our Android device's home screen is important for convenient access to our frequently used applications. When your Oppo Reno 8T 5G's icons suddenly disappear, it can leave you feeling lost about how to use and access your apps.
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your Oppo Reno 8T 5G.
-
 
 ## Part 1: Make Sure if the Missing App Is Installed
 
@@ -324,7 +333,15 @@ Before proceeding with troubleshooting the **missing app icon on your Android** 
 
 ![Check if the missing app is installed](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, see whether you can find the **app icon that disappeared on your Android.** If you can’t find it, it means the app has been accidentally deleted, and you can install it back on your device. However, if it’s confirmed to be installed on your Android but remains missing from your home screen, you can continue the following practice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Find the Missing App Icon on Android
 
@@ -365,6 +382,10 @@ To re-enable the disabled app, you can follow the steps here:
 - **Step 2.** Select the app which icon is missing on your home screen. For example, tap the phone app if the **phone icon disappears on your Android.**
 - **Step 3:** In the App Info, tap Enable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Reset Android to factory settings
 
 If the previous methods don't work, you might need to do a [<u>factory reset on your Oppo Reno 8T 5G</u>](https://drfone.wondershare.com/factory-reset-protection/bypass-factory-reset-on-android.html). But before doing that, it's important to back up your data first because a factory reset will clear all your data and cache when you press the reset button.
@@ -392,6 +413,10 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,136,839** people have downloaded it
 
 - **Step 2.** Begin Repair
@@ -416,9 +441,6 @@ Follow the instructions to put your Oppo Reno 8T 5G into Download Mode. Once you
 
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Once finished, click Done and see if your phone has returned to normal.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **More Articles About Android System:**
@@ -435,7 +457,6 @@ When the **app disappears from the home screen of your Android**, it can hinder 
 
 Whether it's due to accidental deletion or a system glitch, we have discussed various methods to recover the missing app and ensure smooth functionality in this article. In cases of system-related issues on your Oppo Reno 8T 5G, it's advisable to rely on trustworthy software such as Dr. Fone's system repair tool for a comprehensive resolution.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -448,9 +469,20 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-break-the-ice-how-to-make-a-hit-youtube-reaction-in-just-15-minutes-or-less/"><u>[New] In 2024, Break the Ice - How to Make a Hit YouTube Reaction in Just 15 Minutes or Less</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-vitas-video-editor-full-review-2024/"><u>[Updated] Ultimate Guide to Vita's Video Editor - Full Review 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-f34-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy F34 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Note 30 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/htc-u23-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>HTC U23 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-red-magic-9-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Red Magic 9 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcome-the-perpetual-launch-screen-in-madden-nfl-22/"><u>Resolved: Overcome the Perpetual Launch Screen in Madden NFL 22</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-file-creation-from-batch-to-exe-on-pc/"><u>Streamlining File Creation From Batch to EXE on PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-enhancing-your-gaming-plot-with-chatgpts-ai-power/"><u>The Ultimate Guide to Enhancing Your Gaming Plot with ChatGPT’s AI Power</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-stutter-and-lag-issues-in-the-world-of-avatar-pandora-edition/"><u>Troubleshooting Stutter and Lag Issues in the World of Avatar: Pandora Edition</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915423487-understanding-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Social Networking: Facebook, Twitter, Instagram and Youtube</u></a></li>
+</ul></div>
 

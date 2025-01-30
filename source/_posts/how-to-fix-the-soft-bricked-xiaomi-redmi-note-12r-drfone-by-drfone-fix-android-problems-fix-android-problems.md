@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Xiaomi Redmi Note 12R? | Dr.fone
-date: 2024-07-14T05:51:08.391Z
-updated: 2024-07-15T05:51:08.391Z
+date: 2025-01-22T18:22:20.852Z
+updated: 2025-01-29T20:25:10.464Z
 tags: 
   - problems
 categories:
@@ -21,6 +21,10 @@ A bricked phone, hard brick or soft brick, is a smartphone which refuses to star
 If you are confused about the soft brick and hard brick problems and looking for solutions to fix your priced phone, then here is all you need to know.
 
 Read on to find out more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the difference between soft brick and hard brick?
 
@@ -68,6 +72,10 @@ Once the Bootloader is unlocked, take a backup of all your data by selecting “
 
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
 
 Once at the recovery mode, select “Install Zip from SD Card” from the options.
@@ -95,6 +103,10 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 App not installed on Android is no more an unknown Error Code during Application installation as many people experience it on a day-to-day basis. An "Application not installed" error message usually pops up when you are trying to download and install an App with a .apk file extension from somewhere other than the Google Play Store. The error is very confusing at first but makes sense when you realize that this unknown Error Code during Application installation is neither a software issue nor a hardware problem. It is a direct outcome of what you do with your device. Yes, you heard that right. Your faulty actions can cause Android App not installed error.
 
 ![app not install on android](https://images.wondershare.com/drfone/article/2023/05/app-not-installed-error-in-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 What to do when trying to install the Android APK it says "app not installed"? It is terrible that you can't install App on your device. But in this article, you will know more about the causes behind this error and the best ways to fix it, read on, here is all you need to know.
 
@@ -134,13 +146,19 @@ The Unknown Error Code during Application installation can occur due to any one 
 
 ![application not installed](https://images.wondershare.com/drfone/article/2017/07/14994439892909.jpg "application not installed")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: One-click to fix App not installed on Android error
 
 So App not installed on your Xiaomi Redmi Note 12R or tablet? The most horrible part is that this issue may come out of the corruption in the system files. In this situation, Android apps won't be installed no matter what measures you take. Android system repair is the only effective solution to deal with this issue.
 
 Android system repair used to require high technical skills. But most of the users know little about technical things. Well, worry not ![Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) allows you to repair Android easily, that is, complete the fix with just one click.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -193,9 +211,6 @@ Visiting “Settings” on your device. Then select "Manage apps", "Application 
 
 Now select the App you wish to uninstall and wait for the App Info screen to open, then click on “Uninstall” as shown in the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14994441067237.jpg "uninstall app")
 
 You can also uninstall the unnecessary application on the home screen, just long-press the app you want to uninstall until you see the "uninstall" icon. Click "Uninstall", then, you need to click "OK" to confirm the uninstall process.
@@ -207,6 +222,10 @@ You can also uninstall the unnecessary application on the home screen, just long
 As you are all aware, the Play Store is specially designed for Android software and contains only trusted and safe Apps. It is often known as the “Android Market” because it is loaded with different types of Apps to stiffly all your needs so that you don't have to rely on other third-party sources to purchase/install Apps.
 
 ![play store](https://images.wondershare.com/drfone/article/2017/07/14994442154924.jpg "play store")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### #3. Mount your SD Card
 
@@ -224,6 +243,10 @@ You can now restart your device and try to install the app now, it should work!
 
 It is advisable to not tamper with the App’s location and let the software decide where it needs to be placed. As far as possible, let the Apps be in your device’s internal memory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### #5. Format SD Card
 
 The chances of your SD Card being corrupted are very high. You can format it either while it is in your device or externally.
@@ -240,9 +263,6 @@ You can reset App permissions to combat the Android App not installed error by V
 
 Make sure to always download an App file only from a trusted and safe source to avoid any errors during installation.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### #8. Reboot your device
 
 Finally, if nothing else works, restart your device to end all operations which could be causing the said error. To reboot, just press the power button till you see a pop-up. Select “Restart” and wait for your device to reboot.
@@ -255,20 +275,19 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 
 ![safe Download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi Note 12R
 
 Have you recently noticed a message stating “Contacts has stopped”? This is enough to take away all your peace. As, our native contacts app stashes all our useful contacts which are time and again needed by a user. It’s malfunctioning is enough to give us chills. But, why the Xiaomi Redmi Note 12R or any other Android device incurs such problems?
 
 It can occur while you launch the app or while you’re in the app already finding the required contact or when any other application is trying to gain access to it. So, to rage a battle with this issue, you need to seek help of some powerful methods in killing down the issue of contacts app crashes. And, the best part is that you’ve secured yourself by reaching the right place. We will be taking an in-depth discussion on several methods that may prove to be helpful. Let’s read them up here now.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -327,6 +346,10 @@ Our response to any minuscule issue is straightaway restarting phone. This helps
 
 Now, your device will quickly reboot the Xiaomi Redmi Note 12R device. Once, the Xiaomi Redmi Note 12R device regains its normal state, check whether the issue is coming again or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2 Clear cache and data of Contacts app
 
 The cache memory basically stashes the copies of the concerned application. It is indeed a streak of copies of the desired app storing information and incurring additional space on the storage. This might be the reason why the contact app crashes rapidly on your Xiaomi Redmi Note 12R. Hence, it can prove to be a good remedy for this problem. Just follow down the steps mentioned below-
@@ -367,6 +390,10 @@ There will be a prompt stating that the application may misbehave. However, you 
 
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.5 Update your device software
 
 Many a times, we skip updating our device software thinking it is of less importance. In fact, one must not miss out the updates that occurs in phone. As, without the updates, the scope of some applications are affected to some extent. For its better functioning and avoiding issues like “contacts keep stopping”, here is how you should update device software.
@@ -388,9 +415,6 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.7 Delete voicemail
 
 Do you happen to exchange voicemails quite often? It can trigger to be the reason for contact app crashes. If your device happens to have a bulk of voicemails, you must get rid of them sooner or later. As, these might standout to be the prime reason for contacts stopping on Xiaomi Redmi Note 12R. If you’re unaware about the procedure of removing all kinds of voicemails, you can proceed to make use of the following steps.
@@ -410,9 +434,6 @@ Some applications contain some unwanted advertisements and some elements of malw
 
 Now, check whether you’ve fought the battle with the problem or not.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
 
 ### 2.9 Reset to Factory Settings
@@ -427,9 +448,6 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -442,9 +460,20 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-guide-shifting-your-profile-picture-on-global-platforms/"><u>[New] The Ultimate Guide Shifting Your Profile Picture on Global Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-guide-to-your-first-adobe-presenter-video/"><u>[Updated] 2024 Approved The Ultimate Guide to Your First Adobe Presenter Video</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-go-professional-stay-budgeted-top-4-tutorials-on-creating-green-screen-magic-for-cost-free-learning/"><u>[Updated] Go Professional, Stay Budgeted Top 4 Tutorials on Creating Green Screen Magic for Cost-Free Learning</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-meme-makers-guide-for-iphones-for-2024/"><u>[Updated] Meme Makers' Guide (For iPhones) for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/10-best-alternatives-to-vimeo-cameo-video-editor-for-2024/"><u>10 Best Alternatives to Vimeo Cameo Video Editor for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a23-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A23 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-whatsapps-voice-exchange/"><u>In 2024, Navigating WhatsApp's Voice Exchange</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-exploring-ai-face-generators/"><u>New In 2024, Exploring AI Face Generators</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-gionee-f3-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Gionee F3 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210469047-9780998987095-the-spiritual-design/"><u>The Spiritual Design | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-apple-watch-solutions-when-it-wont-detect-activity/"><u>Troubleshooting Apple Watch: Solutions When It Won't Detect Activity</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked OnePlus 12R? | Dr.fone
-date: 2024-07-14T05:48:22.482Z
-updated: 2024-07-15T05:48:22.482Z
+date: 2025-01-24T20:21:06.779Z
+updated: 2025-01-30T01:33:07.990Z
 tags: 
   - problems
 categories:
@@ -28,9 +28,6 @@ To begin with, let us understand the basic difference between a soft brick and h
 
 A soft-brick problem is caused merely by a software error/crash and makes your device switch on automatically every time you manually turn it off. This phenomenon is referred to as Boot Loop. Soft bricked Android phones are not as difficult to fix as the hard bricked Android phones. It is convenient to say that a soft bricked phone only boots up half-way and not fully, whereas a hard bricked device does not switch on at all. A hard brick error is thus caused when the kernel, which is nothing but an interface for the software to communicate with the hardware, is tampered with. A hard bricked phone is not recognized by your PC when plugged in and is a serious problem. It requires troubleshooting techniques and cannot be easily fixed as the soft brick problem.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
@@ -49,6 +46,10 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
@@ -58,6 +59,10 @@ After the process is completed, select “Reboot System” which is the first op
 This method will help you erase all the clogged up and unwanted files. You may loose some App related data, but that is a small price to pay to fix your bricked phone.
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Booting straight into recovery mode
 
@@ -77,6 +82,10 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
@@ -87,18 +96,12 @@ This might take a few minutes of your time, but once the process is complete, re
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restore Missing App Icon on OnePlus 12R: Step-by-Step Solutions
 
 The growing conversation around the **missing app icons on Android** issue has caught our attention. While it seems confusing, it's a problem that some Android users have encountered.
@@ -107,6 +110,9 @@ After all, the presence of app icons on our Android device's home screen is impo
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your OnePlus 12R.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Make Sure if the Missing App Is Installed
 
@@ -136,10 +142,11 @@ However, as a general guide, you can follow these steps:
 - **Step 2.** Use the search bar to look for "Hidden app."
 - **Step 3.** Once you find the "Hidden app" settings, watch the list to see if the missing app is there. If it is, you can toggle off the switch to unhide it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Move the app to the home screen from the App Drawer
 
@@ -161,6 +168,10 @@ To re-enable the disabled app, you can follow the steps here:
 - **Step 1**. Open the Apps & Notifications on the Settings.
 - **Step 2.** Select the app which icon is missing on your home screen. For example, tap the phone app if the **phone icon disappears on your Android.**
 - **Step 3:** In the App Info, tap Enable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Reset Android to factory settings
 
@@ -197,6 +208,10 @@ Click Start on the new screen to kick off the repair. Since you're dealing with 
 
 ![Select the problem and begin the repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Fill in the OnePlus 12R device Details
 
 The platform will detect your OnePlus 12R's brand. Confirm the Name, Model, Country, and Carrier. If your device is unlocked, choose OPEN in the Carrier section. Agree to the warning, click Next, and proceed with the repair.
@@ -213,9 +228,6 @@ Follow the instructions to put your OnePlus 12R into Download Mode. Once you are
 
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Once finished, click Done and see if your phone has returned to normal.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **More Articles About Android System:**
@@ -225,6 +237,10 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 [<u>How to Fix Android App Not Installed Error Quickly?</u>](https://drfone.wondershare.com/android-issue/android-app-not-installed.html)
 
 [<u>Authentication Error Occurred? Here Are 10 Proven Fixes</u>](https://drfone.wondershare.com/android-issue/authentication-error.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -239,6 +255,10 @@ In case you are receiving the error code 505 while downloading an application fr
 Such an error is a kind of permission error. That is, in case you have two similar kinds of applications such as banking apps and both looking for similar kind of permission, causes conflict error named as error 505.
 
 The occurrence chance is more in the old operating systems, 4 KitKat, Android version 4. Let us then proceed to know more about this error 505.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Reasons for Google Play error 505
 
@@ -264,8 +284,6 @@ Any error that occurs during downloading or installation process not only hinder
 #### **Solution 1: One click to make error code 505 disappear**
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -321,6 +339,10 @@ At the top, an option will appear
 \>Then Select Enable
 
 ![Application Manger](https://images.wondershare.com/drfone/article/2017/06/14976274734570.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Enabling download manager to give permission to the OnePlus 12R device to start the download or installation process.
 
@@ -428,9 +450,6 @@ However, sometimes the five simple couldn’t work anymore. A system repair soft
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -443,9 +462,21 @@ Not being able to download or install the app is very frustrating and time-consu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-best-10-video-editing-apps-to-edit-and-make-instagram-reels/"><u>[New] 2024 Approved Best 10 Video Editing Apps to Edit and Make Instagram Reels</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-cultivating-an-audience-naturally-youtubes-way/"><u>[New] Cultivating an Audience Naturally - YouTube's Way</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-step-by-step-perfecting-iphones-audio-captures/"><u>[Updated] 2024 Approved Step-by-Step Perfecting iPhone's Audio Captures</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-livestreaming-hacks-every-broadcaster-should-know/"><u>[Updated] Livestreaming Hacks Every Broadcaster Should Know</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-10-best-web-based-tools-for-clearing-up-fuzzy-images/"><u>2024 Approved 10 Best Web-Based Tools for Clearing Up Fuzzy Images</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/can-i-use-specific-graphics-cards-with-my-current-windows-setup-expert-advice-by-yl-computing/"><u>Can I Use Specific Graphics Cards With My Current Windows Setup? - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-realme-c67-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme C67 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-motorola-moto-g04-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Moto G04 Safely | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-initial-trial-ideal-accessories-to-boost-your-gopro-footage/"><u>In 2024, Initial Trial Ideal Accessories to Boost Your GoPro Footage</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-reno-9a-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Reno 9A Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nokia-c12-plus-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nokia C12 Plus Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-7-superiority-of-intels-core-i7-14700k-over-ultra-7-with-265kf-unveiled-in-latest-single-core-tests/"><u>The 7% Superiority of Intel's Core I7-14700K Over Ultra 7 with 265KF Unveiled in Latest Single-Core Tests</u></a></li>
+</ul></div>
 

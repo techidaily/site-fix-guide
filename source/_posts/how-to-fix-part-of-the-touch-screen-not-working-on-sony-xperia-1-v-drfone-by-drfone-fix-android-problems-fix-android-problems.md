@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Sony Xperia 1 V | Dr.fone
-date: 2024-07-14T05:45:25.109Z
-updated: 2024-07-15T05:45:25.109Z
+date: 2025-01-24T17:56:42.838Z
+updated: 2025-01-29T23:22:24.130Z
 tags: 
   - problems
 categories:
@@ -32,9 +32,6 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - Sony Xperia 1 V ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
 You may experience a variety of touch screens not working on Android issues:
@@ -58,6 +55,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Sony Xperia 1 V device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Sony Xperia 1 V’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart Your Device
 
@@ -89,18 +90,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -130,6 +119,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -205,6 +198,10 @@ Dr.Fone – System Repair is a data management and recovery tool that contains s
 - A high success rate for fixing Android system issues
 - Fixes Android system back to normal
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros
 
 Here are the advantages of using Dr.Fone – System Repair:
@@ -227,8 +224,6 @@ Check below to know Dr.Fone – System Repair’s limitations:
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Sony Xperia 1 V 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
-
-
 
 ## Reasons for Sony Xperia 1 V Stuck on Boot Screen and Ways To Fix Them
 
@@ -286,6 +281,10 @@ If it works, then the problem is solved. However, some Android devices come with
 
 ![removing battery on android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3. Charge Your Device
 
 If your ****Android phone is stuck on the logo**** page and not getting past it, no matter how many times you have tried, it may be due to a low battery! As simple as it sounds, plug your device into a power outlet and try restarting your phone. You might be surprised that this simple fix is all it takes to solve your Android problem.
@@ -310,6 +309,10 @@ Follow the steps below to perform a factory rest on your Sony Xperia 1 V:
 
 ![factory reset of android phones](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Bonus Tip: Best App To Solve Android Phone Stuck On Boot Screen
 
 If all the solutions above do not work and you do not want to perform a factory reset on your phone, one option is to use an app called Dr.Fone. It is one of the most effective phone recovery solutions and can help to bring your Sony Xperia 1 V back to a state like it was brand new. Being stuck on the ****Android boot screen**** will be a problem of the past.
@@ -326,9 +329,6 @@ Refer to the tutorial below to solve your ****Android phone is stuck on the logo
 
 **Step 3**: Input the ****Brand****, ****Name****, ****Model****, ****Country,**** and ****Carrier**** of your phone and click on ****Next****.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filling in data for phone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step 4**: Follow the instructions provided on the page and wait for the system repair to finish. After which, click on ****Done**** to complete the process.
@@ -365,6 +365,10 @@ Below are some of the most common reasons you’re experiencing touch problems o
 
 If any of the outlined reasons above are the cause of your **touch screen malfunctioning,** here are some solutions to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Remove the Screen Protector and Phone Case
 
 Some phone cases and screen protectors cause **touch problems** on your Android screen. This issue is prevalent if you recently changed your phone case or screen protector. It may be due to incompatibility, but you should remove them to see if your phone starts responding again.
@@ -376,6 +380,10 @@ Some phone cases and screen protectors cause **touch problems** on your Android 
 A **touchscreen malfunctioning** can also be a sign of a dirty display. Since the screen relies on contact between your fingers and the touchpad to perform actions, this also applies to foreign particles such as dirt, debris, smudges, oil, and more. Clean your touchscreen with wipes or a soft cloth by gently wiping over the screen.
 
 ![android dirty screen](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Stop Using Your Android Device for a While
 
@@ -413,6 +421,10 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 
 ![android recovery mode 01](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: Use the **Volume** buttons to navigate the choices, select Wipe data/factory reset, and confirm your choice with the **Power** button.
 
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-07.jpg)
@@ -423,10 +435,11 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 
 If doing all the earlier workarounds and fixes couldn’t resolve the **touchscreen problem,** it could be the screen itself. While replacing the touchscreen yourself is possible if you have the technical know-how, it’s still best to bring it to a professional to prevent further damage. You should have your Sony Xperia 1 V checked by a technician if the screen is getting weak, has water damage, or has failing screen components.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![图像](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-08.jpg)"
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 8: Bring it to an Authorized Service Center
 
@@ -437,6 +450,10 @@ Your **phone touch problem** might not be caused by the screen, even when you ha
 If all the general **phone touch problems** on your Sony Xperia 1 V persist, you should strongly consider [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) to do the job. The program can fix all Android system issues without any required skills. Problems caused by the operating system or software, such as the black screen of death, boot loop, ghost touch, and more, are done within less than 10 minutes with the program.
 
 ![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -492,9 +509,6 @@ If you continue using a smartphone with a cracked screen, there are several impl
 
 If you can’t take your cracked screen to a repair shop, apply a small amount of vegetable oil or petroleum jelly to the screen. Doing this will not fix the issue but will make the cracks less noticeable. On the other hand, you can also apply a screen protector to safeguard your phone against further damage. The screen protector slows down or prevents the cracks from getting worse.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Can I Use Dr.Fone for Free?
 
 You can download and install Dr.Fone – System Repair (iOS) or (Android) for free to evaluate the program’s offerings. You can do the first few steps to see if the app supports your device. However, you need to get the full version and enter a valid license code to repair your smartphone.
@@ -509,7 +523,6 @@ If the **touchscreen is malfunctioning** on your smartphone, one of the fixes a
 
 However, if your screen is broken or cracked, going to an authorized service center is still your best bet, especially when your screen urgently needs a replacement. Delaying it further may hurt your wallet in the long run, so it’s best to fix it as soon as possible.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -522,9 +535,17 @@ However, if your screen is broken or cracked, going to an authorized service cen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-navigating-common-youtube-short-hurdles/"><u>[Updated] In 2024, Navigating Common YouTube Short Hurdles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-optimize-your-facebook-streaming-experience-with-these-methods/"><u>2024 Approved Optimize Your Facebook Streaming Experience with These Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-s21-fe-5g-2023-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy S21 FE 5G (2023) to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-v29-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo V29 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13, Apples New iPhone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-s17-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo S17 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-livres-reproduz-de-dvd-mais-populares-para-pc-e-mac/"><u>Top 10 Livres Reproduz De DVD Mais Populares Para PC E Mac</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/1720600674231-windows/"><u>ステラのデータ回復ソフト: Windows機に最適、無料で失われた情報を見つけ出せる方法</u></a></li>
+</ul></div>
 

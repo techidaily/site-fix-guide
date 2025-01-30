@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Infinix Note 30? | Dr.fone
-date: 2024-07-14T05:47:16.839Z
-updated: 2024-07-15T05:47:16.839Z
+date: 2025-01-29T03:43:43.229Z
+updated: 2025-01-29T23:47:29.601Z
 tags: 
   - problems
 categories:
@@ -57,8 +57,9 @@ This method will help you erase all the clogged up and unwanted files. You may l
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -77,18 +78,23 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Booting straight into Bootloader
 
@@ -112,6 +118,10 @@ Begin by powering off your Infinix Note 30 and unplugging your router. Wait for 
 
 ![restart android](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Turn on Airplane mode and turn off
 
 Turn on Airplane Mode for a few seconds, then turn it off. This maneuver refreshes your device's network connections and might rectify the Android not connecting to wifi issue.
@@ -133,6 +143,10 @@ However, if you’ve got a problem with Wi-Fi not working on your Android and ot
 ## Part 4. Boot your Android in safe mode
 
 ![wifi not working on android - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-safe-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you’re unable to connect to the internet, but other devices have no issues, you may find the issues is coming from within your Infinix Note 30 itself. Fortunately, there are ways you can see whether this is the problem.
 
@@ -175,8 +189,6 @@ When these numbers are matching, if your Android is still not connecting to wifi
 If none of the solutions above are working, this could indicate a real problem with the firmware and operating system of your Infinix Note 30. Fortunately, a fast solution to get everything working again is to completely repair the software of your phone.
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -224,6 +236,10 @@ The whole process is automatic, so you won’t need to do anything until it’s 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8. Check the Wi-Fi connectivity on another phone
 
 ![android phone not connecting to wifi - connectivity on another phone](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
@@ -250,6 +266,10 @@ Each Wi-Fi network router will give the opportunity to choose and change the pas
 3. Change the password to something complicated using all available digits and characters
 4. Save the password and restart the router to disconnect all devices
 5. Now connect your Infinix Note 30 to the router using the new password
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 10. Reset network settings on Android
 
@@ -296,8 +316,6 @@ However, by factory resetting your device, you can start again from the factory 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
 ## 4 Ways to Fix Android Blue Screen of Death On Infinix Note 30
 
 Android is undoubtedly amongst the best smartphone platforms but comes with its own share of glitches. The Android screen of death is observed by many users all over the world who complain of their device screen turning blue rendering their phone/tablet unresponsive. This is called the Android blue screen of death and it usually occurs when you turn on your device by pressing the Power On button but your device does not boot up normally and remains stuck at a plain blue screen without any error message.
@@ -309,8 +327,6 @@ Read on to learn more about the Android screen of death and ways to combat it.
 ## Part 1: How to rescue data on Infinix Note 30 with blue screen of death?
 
 The Android blue screen of death issue is not a difficult problem to deal with and can be fixed by you by following the easy steps given in this article. We suggest that all readers rescue the data stored on their Android devices to prevent data loss and keep it stored in your PC from where it can be accessed and recovered by you anytime, anywhere. This task might sound tedious, but, we have for you [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html), a software specially designed to retrieve data from broken and damaged Infinix Note 30 phones and tabs, especially Infinix Note 30 devices, and keep it safe in your PC without tampering with it or altering its format. It efficiently extracts data from broken or unresponsive Infinix Note 30 devices, phones/tabs stuck at black/blue screen, or whose system crashed due to a virus attack.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -345,9 +361,6 @@ Follow the steps given below to extract data when you experience an Android scre
 
 6\. In this step, refer to the instructions in your device manual to enter into Download Mode on your Infinix Note 30 and hit “Next”. An example of what to do to reach Download Mode is shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android blue screen of death-boot in download mode](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png "boot in download mode")
 
 7\. Finally, let the software recognize your Infinix Note 30, and start to download the recovery package for your device.
@@ -358,6 +371,10 @@ Follow the steps given below to extract data when you experience an Android scre
 
 ![android blue screen of death-extract files](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg "extract files")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The process may take up to a few minutes and once it's done all your files will be extracted and stored on your PC. You can now move on to troubleshooting the problem without the fear of losing all your important data.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
@@ -367,8 +384,6 @@ The process may take up to a few minutes and once it's done all your files will 
 We understand how annoying it is to see the Android blue screen of death and fail to access your device data. But, with [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), your troubles would burst away.
 
 This software effectively fixes Android screen of death issue along with app crashing, bricked or unresponsive device, stuck on Infinix Note 30 logo, etc. All Android issues are well taken care of by Dr.Fone - System Repair (Android) with one click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -390,6 +405,10 @@ Step 1: Installation and running Dr.Fone - System Repair (Android) on your syste
 
 ![fix Android blue screen of death by android repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Press the ‘Android Repair’ option before tapping the ‘Start’ button.
 
 ![start to fix Android blue screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -408,9 +427,6 @@ Step 1: Get the Infinix Note 30 device in ‘Download’ mode to fix the **Andro
 
 - On a ‘Home’ button device – shut down the Android phone/tablet, and then push the ‘Power’, ‘Volume Down’, and ‘Home’ keys for 10 seconds. Let go of the keys and press the ‘Volume Up’ key to enter ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Step 2: Tap the ‘Next’ button to download firmware.
@@ -458,8 +474,9 @@ If you're facing the Android blue screen of death issue, the issue might be rela
 ![clean or change the lcd connector](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 7: Update to the latest Android version
 
 Software problems can manifest the Android equivalent of a blue screen of death. It is usually triggered by errors or anomalies within the operating system. To address these concerns, upgrading to the most recent version of the Android OS proves effective. However, updating your device's software could introduce fresh glitches or compatibility conflicts. These steps outline the process of updating your device to the latest OS:
@@ -494,7 +511,6 @@ The Android screen of death, especially the **Android blue screen of death**, is
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -507,9 +523,26 @@ The Android screen of death, especially the **Android blue screen of death**, is
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-conquering-low-end-webcams-for-stellar-video-quality/"><u>[New] In 2024, Conquering Low-End WebCams for Stellar Video Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-script-to-screen-methods-of-inserting-dialogue-into-online-videos-for-2024/"><u>[Updated] From Script to Screen Methods of Inserting Dialogue Into Online Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-premier-11-sound-capture-gadgets/"><u>[Updated] Premier 11 Sound Capture Gadgets</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-infinix-hot-30-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Infinix Hot 30 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-every-angle-top-360-streaming-devices-reviewed/"><u>Capture Every Angle Top 360° Streaming Devices Reviewed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-y200e-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo Y200e 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-6-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 6 Plus Space | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-border-techniques-for-enhanced-instagram-pictures/"><u>In 2024, Border Techniques for Enhanced Instagram Pictures</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-step-by-step-guide-to-editing-and-optimizing-instagram-footage/"><u>In 2024, Step-by-Step Guide to Editing and Optimizing Instagram Footage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-photography-wonders-capturing-surface-mirrors-for-2024/"><u>IPhone Photography Wonders Capturing Surface Mirrors for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-g73-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G73 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-edge-40-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Edge 40 Pro – What Can I Do? | Dr.fone</u></a></li>
+</ul></div>
 

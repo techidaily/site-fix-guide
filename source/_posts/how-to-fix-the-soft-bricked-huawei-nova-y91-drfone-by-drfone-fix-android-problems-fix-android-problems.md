@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Huawei Nova Y91? | Dr.fone
-date: 2024-07-14T05:47:09.391Z
-updated: 2024-07-15T05:47:09.391Z
+date: 2025-01-25T01:10:20.633Z
+updated: 2025-01-29T23:08:57.767Z
 tags: 
   - problems
 categories:
@@ -30,6 +30,10 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
 ## Part 2: Stuck at the Boot Loop
@@ -45,6 +49,10 @@ Since the phone refuses to boot, Cache can be cleared from entering into the Rec
 Once you are the recovery mode screen, you will see a number of options as shown in the screenshot.
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
@@ -80,6 +88,10 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
@@ -89,8 +101,6 @@ Hopefully, your bricked phone will not boot normally and work smoothly.
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
-
 
 ## Huawei Nova Y91 Bootloop Problem, How to Fix it Without Data Loss
 
@@ -102,9 +112,6 @@ We understand the inconvenience caused, therefore, here are ways to tell you how
 
 However, before moving on, let us learn a little about the causes for the Android boot loop error.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What might cause the bootloop issue on Android?
 
 Android boot loop error might seem weird and unexplainable but it occurs because of some specific reasons.
@@ -128,8 +135,6 @@ Read on to know more about how to fix the bootloop error without any data loss w
 If you are trying to figure out how to fix boot loop, the first option you have is the one-click fix to Android Bootloop which involves using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) software.
 
 This is designed to repair any data corruption on your device and restores your firmware to its usual working condition.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -162,13 +167,14 @@ You’ll then need to input the Huawei Nova Y91 device information, such as your
 
 ![select info to fix android boot loop](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #3** Now you’ll need to put your phone into Download Mode to remove the Android bootloop.
 
 For this, you can simply follow the onscreen instructions for both phones with and without home buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android boot loop in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Click "Next", and the software will begin downloading the firmware repair files.
@@ -203,10 +209,11 @@ In case the Huawei Nova Y91 device does not turn on normally and is still stuck 
 
 ## Part 4: Boot into Safe Mode to fix Android boot loop
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![boot into safe mode](https://images.wondershare.com/drfone/article/2023/08/boot-loop-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Booting your Huawei Nova Y91 into Safe Mode is a useful troubleshooting step to fix boot loop issues caused by third-party apps. When in Safe Mode, the Huawei Nova Y91 device will start up with only essential system apps, and any downloaded apps that might be causing conflicts won't run. Here's how you can boot your Huawei Nova Y91 into Safe Mode to address the boot loop problem:
 
@@ -249,6 +256,10 @@ Press the volume down button and power button together until you see a screen wi
 
 ![a screen with multiple options](https://images.wondershare.com/drfone/article/2017/07/14994538648917.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When you are at the Recovery Mode screen, scroll down using the volume down key, and from the options given, select “Factory Reset” using the power key.
 
 ![Factory Reset](https://images.wondershare.com/drfone/article/2017/07/14994538843981.jpg)
@@ -262,17 +273,9 @@ Reboot the phone in Recovery Mode by selecting the first option.
 This solution is known to fix the boot loop error 9 out of 10 times, but if you still can't start your Huawei Nova Y91 normally, consider using a CWM Recovery to resolve the Android boot loop issue.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 5: Use CWM Recovery to fix bootloop on rooted Android
 
 CWM stands for ClockworkMod and it is a very popular custom recovery system. To use this system to solve the boot loop Android error, your Huawei Nova Y91 must be rooted with CWM Recovery System which basically means CWM must be downloaded and installed on your device.
@@ -352,6 +355,10 @@ Switching to mobile data can be a quick fix if your Wi-Fi is acting up. It ensur
 - **Step 3:** Tap Mobile Data to turn it on.
 
 ![Change connection to mobile data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: On and off Airplane mode
 
@@ -445,9 +452,6 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,189,324** people have downloaded it
@@ -457,6 +461,10 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 Click Start on the new screen to kick off the repair. Since you're dealing with an offline connection issue on Android, select System Damage.
 
 ![Select the problem and begin the repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Confirm your device details
 
@@ -476,12 +484,15 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Dealing with the "Phone Offline" hiccup on your Huawei Nova Y91 can be a real headache. But fear not – we've covered a range of solutions to get you back online smoothly. From troubleshooting internet connection problems to addressing browser and app-related glitches, the solutions provided in this guide are designed to cater to a variety of scenarios. If you find it troublesome to try solutions one by one, then we recommend using Dr.Fone directly which is a full toolkit for your phone and can help resolve most device glitches one-off.
 
 Remember, technology can sometimes be tricky. But with patience and the right guidance, you can overcome these challenges.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -495,9 +506,24 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/chieve-striking-visuals-your-guide-to-uploading-at-correct-dimensions/"><u>[New] Achieve Striking Visuals Your Guide to Uploading at Correct Dimensions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-windows-11-premium-video-grabber-selections-for-2024/"><u>[New] Windows 11 Premium Video Grabber Selections for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swift-solutions-for-iphone-photography-misfocus/"><u>[Updated] Swift Solutions for iPhone Photography Misfocus</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-x8b-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor X8b Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-honor-magic5-ultimate-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor Magic5 Ultimate in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-nokia-c300-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-best-practices-for-configuring-and-measuring-fb-instream-ads/"><u>In 2024, Best Practices for Configuring and Measuring FB Instream Ads</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-g24-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G24 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/prime-photo-editing-screens-the-best-of-2024-unveiled/"><u>Prime Photo Editing Screens - The Best of 2024 Unveiled</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-magic-6-lite-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Magic 6 Lite Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-xiaomi-redmi-12-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi Redmi 12 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/step-by-step-for-turning-insta-videos-into-mp3s-for-2024/"><u>Step-by-Step for Turning Insta Videos Into MP3s for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/understanding-scan-errors-unveiling-common-reasons-behind-scanner-failures-expertise-by-yl-computing/"><u>Understanding Scan Errors: Unveiling Common Reasons Behind Scanner Failures - Expertise by YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-success-the-ultimate-guide-to-fixing-overwatch-2s-start-up-troubles/"><u>Unlocking Success: The Ultimate Guide to Fixing Overwatch 2'S Start-Up Troubles</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/widecam-genius-prototype-f100-test-results-analyzing-pixelation-and-audio-issues/"><u>WideCam Genius Prototype F100 Test Results: Analyzing Pixelation & Audio Issues</u></a></li>
+</ul></div>
 

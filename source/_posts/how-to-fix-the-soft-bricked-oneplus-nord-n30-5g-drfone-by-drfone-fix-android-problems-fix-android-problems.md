@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked OnePlus Nord N30 5G? | Dr.fone
-date: 2024-07-14T05:48:29.481Z
-updated: 2024-07-15T05:48:29.481Z
+date: 2025-01-24T20:48:48.156Z
+updated: 2025-01-29T21:58:00.311Z
 tags: 
   - problems
 categories:
@@ -76,9 +76,6 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
@@ -93,8 +90,6 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## How to Quickly Fix Bluetooth Not Working on OnePlus Nord N30 5G
 
 One of the key features of an Android device these days is the Bluetooth technology. This is such an important part of the phone that many of us take for granted, but as soon as the feature stops working, it can cause all kinds of problems.
@@ -103,9 +98,6 @@ Fortunately, despite there being many reasons why a problem could occur to your 
 
 Let’s get straight into it!
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. About Bluetooth Not Working on Android
 
 Of course, the most common problem to occur with Bluetooth technology in your OnePlus Nord N30 5G is when it doesn’t connect to the OnePlus Nord N30 5G device you’re trying to link it to. This could be anything from a Bluetooth headset or headphones, to a portable speaker or even an in-car audio system.
@@ -121,8 +113,6 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your OnePlus Nord N30 5G. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -146,11 +136,12 @@ To ensure you have the best experience while using the Dr.Fone - System Repair (
 
 ![bluetooth not working on android - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Three** Next, use the drop-down menus to make sure all the information about your specific device is correct, including your device, operating system number, and carrier information. Click Next to confirm your selections.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluetooth not working on android - confirm info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step Four** When prompted, put your phone into Download Mode needed for repairs. You can do this by following the on-screen instructions which will depend on which device you have and the available buttons.
@@ -178,6 +169,10 @@ One of the most common solutions in technology is simply to turn it on and off a
 ### 2.3 Clear the Bluetooth cache
 
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Every service on your OnePlus Nord N30 5G using a feature called a cache. This is where information is stored to help the feature run properly and give you the best experience. However, over time this can get messy and can cause problems with your Bluetooth feature.
 
@@ -222,6 +217,10 @@ Here’s how to find out;
 
 ![android bluetooth problems - discoverable feature](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-discoverable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To ensure your Bluetooth can connect to other devices, it’s important to make sure you’re making your device discoverable to other Bluetooth devices. If it’s hidden, other devices won’t be able to find it, and sometimes it can bug and prevent connections.
 
 Here’s how to turn on your Bluetooth discoverable feature;
@@ -233,9 +232,6 @@ Here’s how to turn on your Bluetooth discoverable feature;
 
 ### 2.7 Exclude Bluetooth issues of the other device
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android bluetooth problems - exclude Bluetooth issues of others](https://images.wondershare.com/drfone/article/2019/04/android-bluetooth-newphone.jpeg)
 
 Sometimes, you might not even have a problem with your OnePlus Nord N30 5G, but rather the Bluetooth device you’re trying to connect to, whether that’s a Bluetooth speaker, an in-car entertainment system, or any other kind of Bluetooth device.
@@ -277,14 +273,19 @@ Whether you’re using an iPhone or an Android device, you’ll eventually encou
 
 Experiencing a **cell phone blank screen** is not exclusive to Android or iOS users. A **phone screen not turning on** happens all the time due to several factors that may or may not be out of your control. While they can be frustrating, here are some common causes you should know as to why **your phone screen went black but still works.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A Drained Battery
 
 The first thing that comes to mind when your **phone screen suddenly goes black** is you have a drained battery. Even though this is obvious, it’s still important to mention, as this is usually what most people encounter. To fix this problem, plug your smartphone into a charger and wait for your device to turn on again. If it works, then you just prevented a rather annoying experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drained iphone battery](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### App Troubles
 
@@ -299,6 +300,10 @@ A potential reason why **your phone screen went black but still works** could b
 If you dropped your phone, there’s a high chance the LCD connectors went loose due to the physical impact. If this happened to you, the phone might be working, but the screen is black due to the LCD cable dislodging. Another issue could be your phone got exposed to extreme temperatures. This can also cause a **black screen but your phone is still on.**
 
 ![loose samsung galaxy lcd](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Fix Black Screen on Your Phone
 
@@ -335,6 +340,10 @@ If you own an iPhone 7, press and hold the **Side** button and **Volume Down** 
 ### Method 2: Uninstall or Update Outdated Applications
 
 In some cases, your **phone screen is black but still works** because of installing incompatible apps on your iOS/Android device. If the installed app is frequently crashing, it may be the source of a blank cell phone **screen.** Uninstall the problem app to see if the black screen disappears or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Inspect the LCD Connectors
 
@@ -415,6 +424,10 @@ Meanwhile, here are the system requirements for Dr.Fone – System Repair (iOS).
 | Windows 11, 10, 8.1, 8, 7 | Supports all iOS versions, including the latest iOS 16 and iOS 16 beta |
 | macOS 12, 11, 10.15, 10.14, 10.13, 10.12, 10.11, 10.10, 10.9, 10.8 |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros and Cons
 
 If you’re still undecided about Dr.Fone – System Repair, here are its pros and cons.
@@ -443,9 +456,17 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Follow the on-screen instructions provided on the main program window and wait for the repair process to complete.
 
 ![drfone system repair process complete](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -456,7 +477,6 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 Our increasing reliance on smartphones has led to amazing advancements in new technologies. However, lingering issues such as your **phone screen not turning on** or your **phone screen being black but still working** are ongoing problems to many. That’s why learning how to prevent these events is essential to take care of your smartphone.
 
 Doing all the recommended methods above usually solves the case. If the different fixes don’t work for you, Dr.Fone – System Repair for iOS and Android can help resolve all your problems within less than 10 minutes. You can download it for free on Windows and Mac to test it yourself.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -470,9 +490,26 @@ Doing all the recommended methods above usually solves the case. If the differen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-clear-sound-recording-without-mic-techniques/"><u>[New] 2024 Approved Mastering Clear Sound Recording Without Mic Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-bring-it-all-together-elevate-your-fb-video-experience/"><u>[New] Bring It All Together Elevate Your FB Video Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-10-essential-stages-for-proficient-smm-expertise/"><u>[New] Navigating 10 Essential Stages for Proficient SMM Expertise</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-exclusive-selection-best-10-cameras-for-win-11-recording-for-2024/"><u>[Updated] Exclusive Selection Best 10 Cameras for Win 11 Recording for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-tackling-social-media-platforms-an-in-depth-look-at-igtv-and-youtube/"><u>[Updated] In 2024, Tackling Social Media Platforms An In-Depth Look at IGTV and YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-the-gaps-in-todays-vr-narratives/"><u>2024 Approved Examining the Gaps in Today's VR Narratives</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-14-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi 14 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-a15-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy A15 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-yuva-3-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Yuva 3 to PC? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-lava-yuva-3-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Lava Yuva 3 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-3-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord 3 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nubia-red-magic-9-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nubia Red Magic 9 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-moto-g13-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Moto G13 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stable-iphone-cinematography-three-tactics-inside/"><u>Stable iPhone Cinematography Three Tactics Inside</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-motorola-moto-g04-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Moto G04 ? Fix It Easily | Dr.fone</u></a></li>
+</ul></div>
 

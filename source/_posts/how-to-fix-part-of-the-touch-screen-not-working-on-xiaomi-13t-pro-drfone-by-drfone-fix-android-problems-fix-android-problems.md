@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi 13T Pro | Dr.fone
-date: 2024-07-14T05:46:18.875Z
-updated: 2024-07-15T05:46:18.875Z
+date: 2025-01-23T17:32:08.687Z
+updated: 2025-01-29T17:02:47.727Z
 tags: 
   - problems
 categories:
@@ -72,6 +72,10 @@ When your touch screen stops working, the first thing you should do is restart y
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn On Safe Mode
 
 You should switch to Safe mode whenever an application or piece of software causes a problem on your device. Only the most fundamental system components are loaded and used when operating in Safe mode.
@@ -85,6 +89,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 ****Step 3:**** When you let go of the “Power” button, press and hold the “Volume Down” button. After that, a “Safe Mode” label will appear in your screen’s lower-left corner.
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn Off Developer Options
 
@@ -172,6 +180,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -225,8 +237,6 @@ When you encounter an Android system crash, before looking for solutions to fix 
 
 [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html) is currently one of the most popular tools to retrieve data from not only broken or damaged, locked devices, and unresponsive devices but also from devices that face an Android system crash. You may try the software for free for scanning the data to understand its work. Dr.Fone’s Data Extraction tool not only retrieves and back-up contacts and messages but also your photos, videos, audio files, WhatsApp, docs, call logs, and other file folders. It is also equipped to retrieve data from the Xiaomi 13T Pro device’s internal memory as well as Google drive.
 
-
-
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
@@ -242,9 +252,6 @@ You may follow the steps given below to rescue your data from crashed Android de
 
 1\. Download and install the software on your PC. Run the software and then select the **Data Recovery** feature. Using a USB, connect your Xiaomi 13T Pro to the PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 2\. Select "Android" > "Recover from Broken Phone" in the lower right corner.
@@ -297,6 +304,10 @@ Once you have successfully retrieved your data, consider solving the Android cra
 
 ![restart the android device](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Shut down unnecessary running apps
 
 Another quick solution to avoid Android devices crashing is to shut down unnecessary apps running in the Xiaomi 13T Pro device's background. To cater to that, you need to try out the following steps as a remedy to shutting down unwanted applications:
@@ -325,9 +336,6 @@ Select the App you wish to uninstall. From the options that appear before you, c
 
 You may also uninstall an App directly from the Home Screen (only possible in certain devices) or from the Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: Check Android storage and free up space
 
 If you are constantly facing issues of your Xiaomi 13T Pro crashing, there is a possibility that your device's storage is full. The need to free up space arouses the need to know about the potential steps for checking storage and cleaning up space, which is discussed as follows:
@@ -342,10 +350,11 @@ If you are constantly facing issues of your Xiaomi 13T Pro crashing, there is a 
 
 **Step 3:** Go through the list of applications and select any app you want to remove. As you navigate next, select "Uninstall" to lead to removing the app from the Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the uninstall option](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7: Clear cache partition to fix Android crash issue
 
@@ -399,9 +408,6 @@ Updating the Android device will cast out all glitches that prevent it from oper
 
 ![choose download and install option](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Part 10: Use Wondershare Dr.Fone – System Repair To Fix Android System Crash
 
 If you are not getting any specific solution to the problem, you can try fixing the Android system crash problems using specific tools. These third-party tools can be an excellent option for resolving system errors in Android devices. [Wondershare Dr.Fone – System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) is a great tool designed to resolve all system issues in Xiaomi 13T Pro] and other smartphones.
@@ -411,6 +417,10 @@ It features a great system providing a one-click Android repair option for fixin
 ### Key Features of Wondershare Dr.Fone – System Repair (Android)
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -464,6 +474,10 @@ Once it downloads and is verified, click the "Fix Now" button to repair the Andr
 
 ![android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 11: Factory reset the Xiaomi 13T Pro device to fix the Android crash issue
@@ -476,10 +490,11 @@ Follow the steps given below to factory reset your device while it is switched o
 
 Now select “Backup and Reset”.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup reset](https://images.wondershare.com/drfone/article/2017/07/14988993192107.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this step, select “Factory data reset” and then “Reset Device” to confirm Factory Reset.
 
@@ -531,8 +546,6 @@ Any error that occurs during downloading or installation process not only hinder
 #### **Solution 1: One click to make error code 505 disappear**
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -588,6 +601,10 @@ At the top, an option will appear
 \>Then Select Enable
 
 ![Application Manger](https://images.wondershare.com/drfone/article/2017/06/14976274734570.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Enabling download manager to give permission to the Xiaomi 13T Pro device to start the download or installation process.
 
@@ -651,6 +668,10 @@ Due to continuous updation of new apps and services Google Play store used to be
 
 ![Click on Uninstalling Updates](https://images.wondershare.com/drfone/article/2017/06/14976277917398.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Solution 6: Third party App**
 
 In the case, error 505 occur due to the installation of two or more apps with duplicate permission of data, as many times we use to install two similar kind of app that creates the situation where both seeking out for somewhat similar permissions for the installation. The manual finding is a long and tiring process. Then you can take the assistance of ‘Lucky Patcher App’ to find out which app is creating the conflict. This app will assist you in finding out the duplicity if any and then modifying it. Through this app, once you will find out which particular app is causing the conflict, then you can delete that conflicting app from your phone so that problem of error code 505 gets sort out.
@@ -695,9 +716,6 @@ However, sometimes the five simple couldn’t work anymore. A system repair soft
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -710,9 +728,23 @@ Not being able to download or install the app is very frustrating and time-consu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-streamlining-tv-downloads-a-step-by-step-recording-approach-for-2024/"><u>[New] Streamlining TV Downloads A Step-by-Step Recording Approach for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-how-to-convert-youtube-to-mp4-safely/"><u>[Updated] 2024 Approved How to Convert YouTube to MP4 Safely?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-capturecare-essential-guide-to-ig-photo-and-video-resize/"><u>[Updated] In 2024, CaptureCare Essential Guide to IG Photo & Video Resize</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-streamers-checklist-secure-video-ad-revenue-for-2024/"><u>[Updated] Streamer's Checklist Secure Video Ad Revenue for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-driver-update-compatible-hp-deskjet-ink-advantage-2652-software-for-windows-11-10-8-and-7-pcs/"><u>Essential Driver Update: Compatible HP Deskjet Ink Advantage 2652 Software for Windows 11, 10, 8 & 7 PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oneplus-11r-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My OnePlus 11R Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-note-30-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix Note 30 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-itel-s23-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Itel S23 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-k11x-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo K11x Black and White | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-gta-5-stability-issues-and-how-to-fix-game-crashes/"><u>Resolved: GTA 5 Stability Issues and How to Fix Game Crashes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/secure-your-passwords-with-dashlane-pro-exclusive-3-month-free-offer-available-here-via-zdnet/"><u>Secure Your Passwords with Dashlane Pro: Exclusive 3-Month Free Offer Available Here via ZDNET</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-no-fuss-aukey-usb-30-hub-explored-in-depth-review-for-tech-enthusiasts/"><u>The No-Fuss Aukey USB 3.0 HUB Explored – In-Depth Review for Tech Enthusiasts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy A54 5G? | Dr.fone
-date: 2024-07-14T05:49:37.455Z
-updated: 2024-07-15T05:49:37.455Z
+date: 2025-01-27T23:33:11.292Z
+updated: 2025-01-30T01:01:26.006Z
 tags: 
   - problems
 categories:
@@ -21,6 +21,10 @@ A bricked phone, hard brick or soft brick, is a smartphone which refuses to star
 If you are confused about the soft brick and hard brick problems and looking for solutions to fix your priced phone, then here is all you need to know.
 
 Read on to find out more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the difference between soft brick and hard brick?
 
@@ -56,6 +60,10 @@ This method will help you erase all the clogged up and unwanted files. You may l
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -90,13 +98,15 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## How to Fix It: Samsung Galaxy A54 5G Won't Turn On
 
 Did your Samsung Galaxy A54 5G decide to go on vacation and refuses to turn on? If your Samsung Galaxy A54 5G won’t turn on for no apparent reason, finding why it failed to power on and the solution for it is not a fun process.
 
 Here, we hope we are able to give you a checklist of reasons behind this issue and the possible steps you can take to rectify it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Common Reasons That Your Samsung Galaxy A54 5G Won't Turn On
 
@@ -113,8 +123,6 @@ If you cannot find any reason why your Samsung Galaxy A54 5G will not switch on,
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -149,9 +157,6 @@ Opt for "Touch screen not responsive or cannot access the phone" or "Black/broke
 
 Look up for your device – pick the Samsung Galaxy A54 5G device Name and Device Model. Advance by clicking on the Next button.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
 
 **Step 4: Go into your Samsung Galaxy A54 5G’s Download Mode.**
@@ -159,6 +164,10 @@ Look up for your device – pick the Samsung Galaxy A54 5G device Name and Devic
 The data recovery tool will guide you on how you can go into your Samsung Galaxy A54 5G’s Download Mode. You should be getting a step-by-step guide on your computer.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Scan the Android Phone.**
 
@@ -180,8 +189,6 @@ After repeated attempts, when your Android mobile/tablet stops buzzing, what opt
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 The real fix to issues like "Android phone will not switch on"
@@ -200,14 +207,15 @@ Prior to fixing the Android phone will not switch and getting things back in act
 
 Step 1: Run Dr.Fone on your computer once the installation is complete and tap the ‘Repair’ option form the interface. Now, connect your Android mobile with the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Android Phone not turn on by repairing system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
 ![star to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Now, over the Samsung Galaxy A54 5G device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
@@ -219,9 +227,6 @@ Step 1: You need to put your Samsung Galaxy A54 5G in Download mode for resolvin
 
 - For the Samsung Galaxy A54 5G device having ‘Home’ button, you got to switch it off and press ‘Volume Down’, ‘Home’, and ‘Power’ keys for 5-10 seconds at once. Let them go and click on the ‘Volume Up’ button to put your phone in ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Android Phone not turn on with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - For ‘Home’ button-less device, turn the phone/tablet down first. For 5 – 10 seconds, hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons. Tap on the ‘Volume Up’ button to get into the ‘Download’ mode, after releasing the 3 buttons.
@@ -298,8 +303,6 @@ So Android repair requires programming knowledge to do it?
 
 No! With Dr.Fone - System Repair (Android), you can do Android repair in just a few steps and get all issues like Wifi Authentication error fixed easily.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 An easy-to-operate tool to fix Android system issues like a Wifi authentication error
@@ -319,6 +322,10 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 
 ![fix Wifi Authentication Error by android repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Connect your Samsung Galaxy A54 5G to the computer, and select "Android Repair" in the middle.
 
 ![fix Wifi Authentication Error by selecting option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -333,10 +340,11 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 
 1. Allow the program to download the corresponding firmware. After that, the Android repair will start and get the Wifi Authentication Error fixed in minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wifi Authentication Error fixing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Use static IP address instead of DHCP
 
@@ -384,15 +392,20 @@ If the above solution won’t work, then you would be required to walk the extra
 
 ![Modify network settings](https://images.wondershare.com/drfone/article/2017/06/14981519057338.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. It will display basic information related to your Wifi network. Just tap on the “Show advanced options” button to access more options related to the network setting.
 
 ![Show advanced options](https://images.wondershare.com/drfone/article/2017/06/14981519311624.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. From the IP Settings menu, change the field from DHCP to Static. This will let you establish a static connection between your device and the router.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change the field](https://images.wondershare.com/drfone/article/2017/06/14981520827015.jpg)
 
 5\. As soon as you will change it to static, you will get different fields related to your network’s IP address, gateway, DNS, and more. Simply fill these fields and tap on the “Save” button once you are done.
@@ -425,6 +438,10 @@ Step 1: Launch “Settings” of your Samsung Galaxy A54 5G and then get into th
 
 Step 2: Now, opt for the “System Update” option. If the update is available, get your device updated to the latest OS version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Restart the router and reset Android network settings
 
 Sometimes, the WiFi router may hang up while establishing a connection and therefore, the wifi authentication problem occurs. Try restarting your Wi-Fi router and then check if your device connects successfully. If this doesn’t work, try to [reset your Android Network Settings](https://drfone.wondershare.com/android-issue/authentication-error.html#reset).
@@ -439,7 +456,6 @@ Let it do for a while. Afterward, turn it off and try to connect to the Wifi net
 
 After following these quick and easy suggestions, you would be able to fix the Samsung Galaxy A54 5G Wifi problem for sure. Even if you use any other Android device, then its authentication error can easily be resolved after these effective solutions. Go ahead and give these expert solutions a try and let us know about your experience as well. If you have any other solution to fix the authentication problem Wifi, then share it with us as well in the comments.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -452,9 +468,24 @@ After following these quick and easy suggestions, you would be able to fix the S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-apeak-recorder-reviewed-speed-quality-and-ease-of-use-scored/"><u>[New] 2024 Approved Apeak Recorder Reviewed Speed, Quality, and Ease of Use Scored</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-virtual-questland-the-ultimate-guide-to-no-cost-mmorpgs/"><u>[New] Virtual Questland The Ultimate Guide to No-Cost MMORPGs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-complete-package-of-top-zoom-capturing-gear/"><u>[Updated] In 2024, The Complete Package of Top Zoom Capturing Gear</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/battery-powered-google-nest-doorbell-comprehensive-performance-and-feature-review/"><u>Battery-Powered Google Nest Doorbell: Comprehensive Performance and Feature Review</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-zero-30-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Zero 30 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-spark-20c-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Spark 20C Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-gt-10-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix GT 10 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-reno-9a-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Reno 9A FRP Bypass</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-pop-7-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Pop 7 ProFRP Lock</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-realme-narzo-60-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Realme Narzo 60 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-edge-40-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Edge 40 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-g24-power-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola G24 Power Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-samsung-tv-guide-why-the-s90c-oled-is-a-game-changer-and-available-for-less-insider-info-from-zdnet/"><u>The Ultimate Samsung TV Guide: Why the S90C OLED Is a Game-Changer and Available for Less - Insider Info From ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upgrade-your-email-experience-mozilla-thunderbird-version-52/"><u>Upgrade Your Email Experience: Mozilla Thunderbird Version 52</u></a></li>
+</ul></div>
 

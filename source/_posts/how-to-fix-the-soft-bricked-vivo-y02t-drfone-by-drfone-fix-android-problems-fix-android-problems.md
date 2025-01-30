@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y02T? | Dr.fone
-date: 2024-07-14T05:50:27.449Z
-updated: 2024-07-15T05:50:27.449Z
+date: 2025-01-22T21:39:58.622Z
+updated: 2025-01-30T00:26:11.171Z
 tags: 
   - problems
 categories:
@@ -56,9 +56,6 @@ This method will help you erase all the clogged up and unwanted files. You may l
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -75,9 +72,6 @@ In this step, download a ROM of your choice and store it in your SD Card. Insert
 
 Once at the recovery mode, select “Install Zip from SD Card” from the options.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
 Scroll down using the volume key and use the power key to select the downloaded ROM.
@@ -96,15 +90,27 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Solutions to Fix Chrome Crashes or Won’t Open on Vivo Y02T
 
 Google Chrome is one of the most popular web browsers in the world. It is fast, secure, and easy to use. However, like any other app, it is not free from errors. Many users have reported that Chrome crashes or won’t open on their Vivo Y02T. If you are also facing this issue, then you have come to the right place. In this article, we will discuss the reasons behind this problem and provide you with 7 solutions to fix Chrome crashes or won’t open on Vivo Y02T.
 
 Being one of the widely used browsers, Chrome is always our rescue whenever vital information is our need. Imagine, you launched Chrome for some urgent work and all of a sudden, got “Unfortunately Chrome has stopped” error. You re-opened it thinking about proper functioning of it now but to no avail. Does this situation sound familiar? Are you in a same problem as well? Fret not! We will discuss in this article why your Chrome is crashing on Android and the potential solutions to do away with the problem. Please read the article attentively and know what helps you best.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Too many tabs opened
 
 One of the main reasons why Chrome keeps crashing could be the multiple opened tabs. If you keep open the tabs, it may slow down the performance of Chrome and the app will use RAM. As a result, it will obviously get stopped midway. Therefore, we suggest you to close the tabs which are opened. And once you do that, exit the app and then launch it again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Too much memory used
 
@@ -138,8 +144,6 @@ Most probably Chrome is not able to support the website you are trying to access
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix crashing Chrome
@@ -158,9 +162,6 @@ Step 1: Install the Tool to Begin
 
 Start downloading it from there. Install it once downloading is completed and open the tool. The main screen will show you some tabs. You need to hit on “System Repair” among those.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Chrome crashing on Android - get the fixing tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Get Android Device Connected
@@ -194,6 +195,10 @@ While you were trying to download from internet, the file didn’t download prop
 
 ![fix Chrome crashing on Android by uninstalling updates](https://images.wondershare.com/drfone/article/2019/05/uninstall-updates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Now, you need to re-install it from Play Store. From the “My Apps” section, tap on Chrome and update it.
 
 ## Part 7: Clashes between Chrome and system
@@ -205,7 +210,9 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 
 ![fix Chrome crashing by updating android](https://images.wondershare.com/drfone/article/2019/05/update-android.jpg)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Android App Not Installed Error on Vivo Y02T Quickly?
 
@@ -251,16 +258,15 @@ The Unknown Error Code during Application installation can occur due to any one 
 
 ![application not installed](https://images.wondershare.com/drfone/article/2017/07/14994439892909.jpg "application not installed")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: One-click to fix App not installed on Android error
 
 So App not installed on your Vivo Y02T or tablet? The most horrible part is that this issue may come out of the corruption in the system files. In this situation, Android apps won't be installed no matter what measures you take. Android system repair is the only effective solution to deal with this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Android system repair used to require high technical skills. But most of the users know little about technical things. Well, worry not ![Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) allows you to repair Android easily, that is, complete the fix with just one click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -303,6 +309,10 @@ A powerful tool to fix the "Android App not installed" error in one click
 
 We understand that it can be a tricky situation to be in when Android App not installed error pops up, but what if we tell you can get rid of it in easy and simple steps? Yes, there is!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### #1. Delete unnecessary files/Apps
 
 Insufficient storage can prevent the app from being installed. Make some storage space on your device by cleaning unwanted data and deleting extra media and other files. You can also get rid of heavy Apps by:
@@ -319,6 +329,10 @@ You can also uninstall the unnecessary application on the home screen, just long
 
 ![uninstall app](https://images.wondershare.com/drfone/article/2023/05/android-app-not-installed-1.jpg "uninstall app")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### #2. Use only Google Play Store
 
 As you are all aware, the Play Store is specially designed for Android software and contains only trusted and safe Apps. It is often known as the “Android Market” because it is loaded with different types of Apps to stiffly all your needs so that you don't have to rely on other third-party sources to purchase/install Apps.
@@ -329,9 +343,6 @@ As you are all aware, the Play Store is specially designed for Android software 
 
 Another remedy for Android App not installed error is to make sure that the SD card inserted in your device is not inaccessible.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mount sd card](https://images.wondershare.com/drfone/article/2023/05/android-app-not-installed.jpg "mount sd card")
 
 To check the same:
@@ -343,6 +354,10 @@ You can now restart your device and try to install the app now, it should work!
 ### #4. Choose App location wisely
 
 It is advisable to not tamper with the App’s location and let the software decide where it needs to be placed. As far as possible, let the Apps be in your device’s internal memory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### #5. Format SD Card
 
@@ -360,6 +375,10 @@ You can reset App permissions to combat the Android App not installed error by V
 
 Make sure to always download an App file only from a trusted and safe source to avoid any errors during installation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### #8. Reboot your device
 
 Finally, if nothing else works, restart your device to end all operations which could be causing the said error. To reboot, just press the power button till you see a pop-up. Select “Restart” and wait for your device to reboot.
@@ -371,7 +390,6 @@ Finally, if nothing else works, restart your device to end all operations which 
 Encountering the "App Not Installed" error on Android can be frustrating, but by understanding the causes and implementing the appropriate solutions, you can overcome this issue. We saw that Android App not installed error can be fixed quickly if you keep in mind the tips given in this article. However, please ensure that you follow each instruction carefully to avoid any further goof up.
 
 ![safe Download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -385,9 +403,24 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-eliminate-discomfort-quick-tips-to-beat-vr-sickness-for-2024/"><u>[Updated] Eliminate Discomfort Quick Tips to Beat VR Sickness for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-premier-11-sound-capture-gadgets/"><u>[Updated] In 2024, Premier 11 Sound Capture Gadgets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-chill-peaks-2022-winter-games-moments/"><u>2024 Approved Chill Peaks 2022 Winter Games Moments</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/easy-solutions-for-common-windows-programming-errors-guidance-by-yl-software-experts/"><u>Easy Solutions for Common Windows Programming Errors - Guidance by YL Software Experts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nokia-c32-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nokia C32 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-g310-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia G310 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-dive-perfecting-the-art-of-green-screen-with-kinemaster/"><u>In-Depth Dive Perfecting the Art of Green Screen with Kinemaster</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/optimize-profitability-the-science-behind-high-roi-fb-animatons-for-2024/"><u>Optimize Profitability The Science Behind High-ROI FB Animatons for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oneplus-open-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On OnePlus Open? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-on-how-to-update-and-install-drivers-for-netgear-wnas3100-router/"><u>Quick Guide on How to Update and Install Drivers for Netgear WNAS3100 Router</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-reno-11-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Reno 11 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-z-fold-5-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy Z Fold 5 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a14-4g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A14 4G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-video-invitation-creators-for-iphone-and-android-a-roundup/"><u>Updated Video Invitation Creators for iPhone and Android A Roundup</u></a></li>
+</ul></div>
 

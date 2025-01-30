@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor Magic 6 Pro? | Dr.fone
-date: 2024-07-14T05:46:54.362Z
-updated: 2024-07-15T05:46:54.362Z
+date: 2025-01-25T19:58:49.919Z
+updated: 2025-01-29T17:17:43.329Z
 tags: 
   - problems
 categories:
@@ -50,6 +50,10 @@ Use the volume down key to scroll down and select ”Wipe cache partition” as 
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
 This method will help you erase all the clogged up and unwanted files. You may loose some App related data, but that is a small price to pay to fix your bricked phone.
@@ -90,8 +94,6 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## 7 Solutions to Fix Error Code 963 on Google Play Of Honor Magic 6 Pro
 
 People are increasingly complaining about Google Play Error Codes which pop-up during downloading, installing or updating an App via Google Play Store. Amongst these, the most recent and common one being Error Code 963.
@@ -120,15 +122,14 @@ Error Code 963 is basically an outcome of data crash which mostly is seen in che
 
 All these reasons and more can handle with ease and you can continue to use Google play services smoothly. In the following segment, we will discuss various fixes to cure the problem to enable to you download, install and update Apps on your device normally.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Easiest solution to fix _Error Code 963_ on Android
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 One click to fix Google Play error 963
@@ -148,9 +149,6 @@ One click to fix Google Play error 963
 
 Step 1 – To begin fixing error 963, run Dr.Fone after downloading and installing it on your PC. Now, pick out the ‘System Repair’ tab from the main screen. Thereupon, with the help of a USB cable, make connection between your Honor Magic 6 Pro and PC
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix google play error 963 using repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ and then click the ‘Start’ button.
@@ -179,10 +177,11 @@ If the Honor Magic 6 Pro device contains no Home button:
 
 Step 2 – Press the ‘Next’ button and then the program will commence the firmware downloading.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firmware downloaded](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3 – Upon successful downloading and verification of the firmware, the process of Android device repairing will begin automatically.
 
@@ -192,9 +191,17 @@ Step 4 – Within a while, the Google play error 963 will be vanished.
 
 ![make the fix google play error 963 disappear on android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: 6 Common Solutions to fix Error Code 963
 
 ![fix Error Code 963](https://images.wondershare.com/drfone/article/2017/06/14984132296365.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Since there is no specific reason for Error Code 963 to occur, similarly there is no one solution to the problem. You may use any one of them below or try them all to never see Error Code 963 on your device.
 
@@ -316,6 +323,10 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 
 ![alert status problem on mobile device](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Inability To Open the Play Store
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
@@ -335,6 +346,10 @@ When downloads and installations fail, you will be unable to enjoy new apps or u
 ### Authentication and Account Issues
 
 Problems with authentication and account access can lock users out of their Google accounts on the Play Store. It prevents users from purchasing or downloading apps. The issue not only hampers functionality but also raises security concerns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Problems
 
@@ -361,6 +376,10 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 Encountering issues with the Google Play Store can be frustrating. It disrupts your ability to download, update, or access essential apps. Here are seven quick solutions when your **Google Play Store unfortunately has stopped.**
 
 ![fixing mobile phone issues vector image](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear Cache and Data
 
@@ -400,9 +419,6 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 - **Step 1:** Navigate to **Settings** and choose **Accounts** or **Users & Accounts**.
 - **Step 2:** Select **Google** and remove the account. Re-add the Google account and verify if the Play Store functions properly.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
 
 ### Uninstall Play Store Updates
@@ -413,6 +429,10 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 - **Step 2:** Find **Google Play Store** and tap on **Uninstall Updates**. Confirm the action and restart the Play Store.
 
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Perform a System Update
 
@@ -437,10 +457,11 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 - **Step 2:** Launch the program and connect your Honor Magic 6 Pro to the computer using a USB cable. Choose the Honor Magic 6 Pro device type and click **Start** to initiate the repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone android problems window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
 
@@ -473,7 +494,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -486,9 +506,23 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-muting-the-youtube-video-peek-mechanism/"><u>[New] In 2024, Muting the YouTube Video Peek Mechanism</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-significant-tenets-of-interactive-storytelling-for-2024/"><u>[Updated] Significant Tenets of Interactive Storytelling for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/capturing-time-on-pause-instagrams-slow-motion-secrets/"><u>Capturing Time on Pause Instagram's Slow-Motion Secrets</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-converting-imovie-edits-for-online-exhibition-youtube-edition/"><u>In 2024, Converting iMovie Edits for Online Exhibition - YouTube Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/innovative-methods-to-enhance-your-twitch-stream-for-2024/"><u>Innovative Methods to Enhance Your Twitch Stream for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/resolved-issues-with-installing-boot-files-using-acer-errecovery-management-solved/"><u>Resolved: Issues with Installing Boot Files Using Acer ERrecovery Management Solved</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-streaming-sports-creating-your-own-mac-based-channel/"><u>Start Streaming Sports Creating Your Own Mac-Based Channel</u></a></li>
+</ul></div>
 

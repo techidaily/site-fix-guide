@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor Magic 5? | Dr.fone
-date: 2024-07-14T05:46:53.116Z
-updated: 2024-07-15T05:46:53.116Z
+date: 2025-01-27T21:32:59.020Z
+updated: 2025-01-30T01:21:46.706Z
 tags: 
   - problems
 categories:
@@ -56,6 +56,10 @@ This method will help you erase all the clogged up and unwanted files. You may l
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -80,6 +84,10 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
@@ -96,6 +104,10 @@ With the advance of technology over the years, many of us rely on smartphones to
 
 ![phone screen is black but still works intro](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Whether you’re using an iPhone or an Android device, you’ll eventually encounter a problematic symptom like this. Therefore, this article will explore **what to do when your phone screen goes black**. After exploring below, you’ll learn the common causes of why your **phone screen went black** and how to fix it. Read on below to learn more.
 
 ## Part 1: Why Did My Honor Magic 5 Screen Go Black but Still Works? Common Causes
@@ -106,10 +118,11 @@ Experiencing a **cell phone blank screen** is not exclusive to Android or iOS us
 
 The first thing that comes to mind when your **phone screen suddenly goes black** is you have a drained battery. Even though this is obvious, it’s still important to mention, as this is usually what most people encounter. To fix this problem, plug your smartphone into a charger and wait for your device to turn on again. If it works, then you just prevented a rather annoying experience.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drained iphone battery](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### App Troubles
 
@@ -157,6 +170,10 @@ If you own the latest iPhone models, here are the method of restarting it from i
 
 If you own an iPhone 7, press and hold the **Side** button and **Volume Down** simultaneously until you see the apple logo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Uninstall or Update Outdated Applications
 
 In some cases, your **phone screen is black but still works** because of installing incompatible apps on your iOS/Android device. If the installed app is frequently crashing, it may be the source of a blank cell phone **screen.** Uninstall the problem app to see if the black screen disappears or not.
@@ -191,9 +208,6 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 **Step 2**: Use the **Volume** buttons to navigate the choices and select **Wipe data/factory reset** and confirm your choice with the **Power** button.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-07.jpg)
 
 **Step 3**: Simply wait for the process to complete and wait for your Honor Magic 5 to restart automatically.
@@ -204,9 +218,6 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 **Step 2:** Next, choose **Erase All Content and Settings**. Check the list of items you want to remove.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios erase all content and settings](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-08.jpg)
 
 **Step 3:** Tap **Continue** and enter your iPhone passcode. A message warns you that the process will delete all media and data and reset all settings.
@@ -231,9 +242,6 @@ Dr.Fone – System Repair can fix all kinds of issues on your Android/iOS, such 
 
 All iOS versions, including the latest iOS 16 and iOS 16 beta, are fully supported by Dr.Fone – System Repair. The app handles all your smartphone issues without data loss to secure your info. On the other hand, if you own an Android, the app supports up to 1000+ Android smartphones, making it highly versatile for Android owners.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tech Specs
 
 Dr.Fone – System Repair (Android)’s minimum system requirements for your computer are listed below.
@@ -263,6 +271,10 @@ If you’re still undecided about Dr.Fone – System Repair, here are its pros a
 - Each version for each OS is sold separately.
 - The free version works up to your device’s compatibility. Once you start the repair process, the app will ask you for a valid license key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Fix Black Phone Screen With Dr.Fone – System Repair
 
 Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Android.
@@ -291,8 +303,6 @@ Our increasing reliance on smartphones has led to amazing advancements in new te
 
 Doing all the recommended methods above usually solves the case. If the different fixes don’t work for you, Dr.Fone – System Repair for iOS and Android can help resolve all your problems within less than 10 minutes. You can download it for free on Windows and Mac to test it yourself.
 
-
-
 ## 4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor Magic 5
 
 We often find people complaining, “Unfortunately Youtube has stopped”, “Unfortunately the internet has stopped” or “Unfortunately Netalpha has stopped”. An error that causes Apps to randomly stop working is experienced by users daily. This is a strange error as it occurs while you are using an App, and it suddenly stops working or crashes. You are brought back from the App screen to the Home Screen of your device with an error message saying: “Unfortunately, it has stopped working.”
@@ -302,6 +312,10 @@ We often find people complaining, “Unfortunately Youtube has stopped”, “Un
 Apps not working or stopped while working, such as unfortunately Netalpha has stopped or unfortunately the internet has stopped, is a very confusing error because one moment your App is running smoothly and the next moment it shuts down automatically with an error message. Unfortunately, Youtube has stopped working, Netalpha has stopped. Unfortunately, the internet has stopped, and many more such examples of Apps stopping while working normally are witnessed by users all over the world, and they are constantly on a lookout for solutions to fix such an error.
 
 Read on to find out why exactly your App stops working suddenly and 3 of the best and most effective ways to tackle the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why your App stops working suddenly?
 
@@ -314,6 +328,10 @@ Many users also feel that incomplete or improper installation may cause the App 
 There may be many more reasons for them; unfortunately, App has stopped error to show up, but no one reason can be blamed for it.
 
 Therefore it is important for us to carefully examine the problem and choose from the solutions given below to fix Unfortunately, Youtube has stopped; unfortunately, Netalpha has stopped; unfortunately, the internet has stopped and many other similar unfortunately App has stopped working errors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: A One-Click Fix to ‘Unfortunately App has Stopped’
 
@@ -367,9 +385,6 @@ Follow the steps given below to learn how to clear App cache:
 
 • Visit “Settings”  to find an option named “Apps”.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Apps](https://images.wondershare.com/drfone/article/2017/06/14984194726169.jpg)
 
 • Tap on “Apps” and look for the App which has suddenly stopped.
@@ -400,11 +415,19 @@ Firstly, to uninstall all an existing App from your device, follow the instructi
 
 ![Uninstall](https://images.wondershare.com/drfone/article/2017/06/14984195579235.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You may also uninstall an app directly from the Home Screen (only possible in certain devices) or the Play Store.
 
 To re-install the App, visit Google Play Store, search for the App name and click on “Install”. You will also find the deleted App in “My Apps and games” on your Play store.
 
 This method has helped many and will be useful to you too. So don't hesitate to try it. It may sound tedious and time-consuming, but it hardly takes 5 minutes of your time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Fix your App has unfortunately stopped by factory reset
 
@@ -430,7 +453,6 @@ Note: Once the factory reset process is complete, your device will automatically
 
 Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has stopped, unfortunately, the internet has stopped working and so on are very common these days. They disrupt the normal functioning of an App/Apps and prevent you from using the App/Apps smoothly. Unfortunately, App has stopped error is not a serious problem and does not mean there is a problem with the App, your Android OS version, or your handset. It is a random error which occurs due to various reasons in a given situation. If you experience such an error while sign in your favorite App/Apps, DO NOT panic as unfortunately, App has stopped error can be fixed easily. All you need to do is be patient with the App’s software and not try to launch it again and again once it crashes, and an error message pops-up. Just follow the methods listed and explained in detail in the previous segments to solve the problem of unfortunately App has stopped.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -443,9 +465,22 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-top-10-innovative-tweets-de-followers-and-cleanup-apps/"><u>[Updated] In 2024, Top 10 Innovative Tweets De-Followers & Cleanup Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-ranked-switch-console-simulations-online/"><u>[Updated] In 2024, Top-Ranked Switch Console Simulations Online</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigate-through-creating-stellar-educational-video-content-for-online-platforms-for-2024/"><u>[Updated] Navigate Through Creating Stellar Educational Video Content for Online Platforms for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-note-30-vip-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Note 30 VIP?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlocking-stream-potential-your-journey-with-obs-youtube-and-twitch/"><u>In 2024, Unlocking Stream Potential Your Journey with OBS, YouTube, & Twitch</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-subtitle-manipulation-in-macos-for-2024/"><u>Mastering Subtitle Manipulation in macOS for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem-for-2024/"><u>Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-itel-p55-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Itel P55? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-windows-operations-formulating-and-scrutinizing-reports/"><u>Understanding Windows Operations: Formulating & Scrutinizing Reports</u></a></li>
+</ul></div>
 

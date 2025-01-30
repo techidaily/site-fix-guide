@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y36? | Dr.fone
-date: 2024-07-14T05:50:40.446Z
-updated: 2024-07-15T05:50:40.446Z
+date: 2025-01-28T16:51:06.468Z
+updated: 2025-01-29T20:51:49.412Z
 tags: 
   - problems
 categories:
@@ -68,6 +68,10 @@ Once the Bootloader is unlocked, take a backup of all your data by selecting “
 
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
 
 Once at the recovery mode, select “Install Zip from SD Card” from the options.
@@ -78,7 +82,15 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
@@ -90,20 +102,16 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Vivo Y36 Screen Unresponsive? Here's How to Fix It
 
 Vivo Y36 phones have become increasingly popular due to their advanced features, sleek designs, and affordable prices. These phones offer many benefits, including high-quality cameras, long battery life, and fast processing speeds. However, sometimes users may encounter problems such as a **Vivo Y36 touch screen not working**, which can be frustrating and difficult.
 
 This article aims to provide solutions for Vivo Y36 phone users experiencing screen unresponsiveness. We will explore various reasons this issue may occur and discuss step-by-step instructions for fixing the problem. So, if your **Vivo Y36 touchscreen is not working**, don't worry – we've got you covered!
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Causes A Vivo Y36 Screen Unresponsive?
 
 There are several reasons why a Vivo Y36 phone's screen may become unresponsive. Some common causes include software issues, hardware problems, or issues with the touchscreen itself. It's essential to identify the root cause of the problem to fix it properly.
@@ -122,9 +130,6 @@ In the previous section, we identified the possible causes of Vivo Y36 screen un
 
 ### 1. Restart The Device
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mui restart button](https://images.wondershare.com/drfone/article/2023/03/reset-button-android-1.jpg)
 
 Restarting the phone is typically the initial solution that comes to mind when we encounter the Vivo Y36 black screen problem. It's a simple and widely used method to address the issue, as the black screen problem could be caused by a software glitch, which can often be resolved by freeing up the phone's memory.
@@ -136,6 +141,10 @@ It is the most commonly used method to fix Vivo Y36's touch screen and power but
 ![low battery](https://images.wondershare.com/drfone/article/2023/03/drain-your-phone-battery.jpg)
 
 Sometimes, the tablet screen may become unresponsive due to a software issue preventing the Vivo Y36 device from functioning correctly. Leaving the Vivo Y36 device unused and draining the battery helps resolve these issues. After fully discharging the battery, the Vivo Y36 device can be recharged and turned back on, potentially resolving the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. Contact Custom Service
 
@@ -256,11 +265,19 @@ Follow the on-screen instructions on how to then boot your Vivo Y36 in Download 
 
 ![fix app stopping in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once booted, the software will verify your firmware and start repairing your device. Make sure your phone stays connected throughout the process, and you’ll be ready to go and your ‘unfortunately the internet \[or another app\] has stopped’ error should be erased!
 
 ![Internet stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 _This could take some time, depending on your internet connection and speeds, so be mindful that everything stays connected._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Fix your App has unfortunately stopped by clearing App Cache
 
@@ -272,9 +289,6 @@ Follow the steps given below to learn how to clear App cache:
 
 • Visit “Settings”  to find an option named “Apps”.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apps](https://images.wondershare.com/drfone/article/2017/06/14984194726169.jpg)
 
 • Tap on “Apps” and look for the App which has suddenly stopped.
@@ -283,9 +297,17 @@ Follow the steps given below to learn how to clear App cache:
 
 ![All](https://images.wondershare.com/drfone/article/2017/06/14984194986883.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 • From the options that appear, tap on “Storage” and then on “Clear cache” as shown below.
 
 ![Clear cache](https://images.wondershare.com/drfone/article/2017/06/14984195179360.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Clearing App cache is always a good idea as it prevents any errors which may be caused due to the cache being corrupt or too full. This method is likely to help you, but if the problem persists, read on to find out about 2 more solutions.
 
@@ -323,9 +345,6 @@ Follow the step-by-step explanation given below to factory reset your device to 
 
 • Now select “Backup and Reset” and move on.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/06/14984196029720.jpg)
 
 • In this step, select “Factory data reset” and then “Reset Device”.
@@ -334,10 +353,13 @@ Follow the step-by-step explanation given below to factory reset your device to 
 
 ![tap on “ERASE EVERYTHING”](https://images.wondershare.com/drfone/article/2017/06/14984196238153.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again.
 
 Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has stopped, unfortunately, the internet has stopped working and so on are very common these days. They disrupt the normal functioning of an App/Apps and prevent you from using the App/Apps smoothly. Unfortunately, App has stopped error is not a serious problem and does not mean there is a problem with the App, your Android OS version, or your handset. It is a random error which occurs due to various reasons in a given situation. If you experience such an error while sign in your favorite App/Apps, DO NOT panic as unfortunately, App has stopped error can be fixed easily. All you need to do is be patient with the App’s software and not try to launch it again and again once it crashes, and an error message pops-up. Just follow the methods listed and explained in detail in the previous segments to solve the problem of unfortunately App has stopped.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -351,9 +373,24 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-dive-into-digital-green-magic-top-4-youtube-sources-for-no-cost-background-workshops/"><u>[New] In 2024, Dive Into Digital Green Magic Top 4 YouTube Sources for No-Cost Background Workshops</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastering-iphone-scaling-images-quickly/"><u>[Updated] 2024 Approved Mastering iPhone Scaling Images Quickly</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-video-vibes-for-top-tier-unpacked-videos/"><u>[Updated] 2024 Approved Mastering Video Vibes for Top-Tier Unpacked Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ideal-cloud-services-with-infinite-capacity/"><u>[Updated] Ideal Cloud Services with Infinite Capacity</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-broadcast-without-breaks-2023-guides-to-overcoming-livestream-disruptions-on-fb/"><u>2024 Approved Broadcast Without Breaks 2023 Guides to Overcoming Livestream Disruptions on FB</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-deep-dive-into-effective-animoji-utilization-on-iphone-x/"><u>A Deep Dive Into Effective Animoji Utilization on iPhone X</u></a></li>
+<li><a href="https://facebook.techidaily.com/battle-against-facebooks-covert-watchers/"><u>Battle Against Facebook’s Covert Watchers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-create-a-healthy-meal-plan-using-chatgpt/"><u>How to Create a Healthy Meal Plan Using ChatGPT</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-phantom-v-flip-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Phantom V Flip Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-sony-xperia-1-v-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Sony Xperia 1 V Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-13c-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi 13C 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nokia-g42-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p40-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P40 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-c50-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco C50 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+</ul></div>
 

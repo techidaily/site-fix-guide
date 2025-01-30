@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Oppo A78 5G? | Dr.fone
-date: 2024-07-14T05:48:40.007Z
-updated: 2024-07-15T05:48:40.007Z
+date: 2025-01-25T21:45:44.550Z
+updated: 2025-01-30T01:43:41.836Z
 tags: 
   - problems
 categories:
@@ -50,6 +50,10 @@ Use the volume down key to scroll down and select ”Wipe cache partition” as 
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
 This method will help you erase all the clogged up and unwanted files. You may loose some App related data, but that is a small price to pay to fix your bricked phone.
@@ -90,20 +94,17 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## 6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo A78 5G
 
 Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog of our lives. Be it in the professional era or personal (gossips, oomph) stuffs, it is a crucial engaging kind of application. WhatsApp is the slow poison yet a useful tool used worldwide after call logs or messages. Imagining a day without is enough to put someone off. And if one has recently faced a problem in WhatsApp crashing or not opening, then it is enough to give a heart break. It can be due to Cache memory piled up, storage running out of space, WhatsApp components getting corrupted. In such a case, resolving the problem by using an effective solution is very important! Don’t worry and wander as we will provide impeccable range of fixes to bid bye to WhatsApp stopping problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cause 1: WhatsApp-related Firmware Components went wrong
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -157,6 +158,10 @@ The purpose of Cache in a device is to keep the track of frequently used data an
 
 ![whatsapp stopping - fix cache conflict](https://images.wondershare.com/drfone/article/2019/06/clear-whatsapp-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause 3: WhatsApp components corruption
 
 A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp. In such case, all you need to do is uninstall and install the WhatsApp again. This is how you do it.
@@ -185,9 +190,6 @@ It is a well-known fact that Android device and Gmail account go hand in hand. T
 
 Now, you can login again and check if WhatsApp works or not.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cause 6: WhatsApp Incompatible with your Android Phone
 
 If still nothing works and your WhatsApp keeps stopping, most likely the reason is the incompatibility of your WhatsApp with your device. In such case, the thing that comes to your rescue is mod WhatsApp version like GBWhatsApp. It is a mod app which is similar to WhatsApp but in a more modified way. With this, a user gets more functionalities and customizable settings when compared to WhatsApp.
@@ -245,6 +247,10 @@ Before we make you familiar with different fixes for the Wifi authentication err
 
 Ensure that no other extra characters are being added in the Wi-Fi password while you’re entering it. Key in the password carefully while viewing the characters, and then check if the authentication error occurs or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### One-Click to Fix Wifi Authentication Error by Android System Repair
 
 Android system repair is considered the most effective way to fix Wifi Authentication Error. As the bottom-layer Android system files may be corrupted unconsciously with days of phone use, the Wifi Authentication Error may be one of the symptoms.
@@ -252,8 +258,6 @@ Android system repair is considered the most effective way to fix Wifi Authentic
 So Android repair requires programming knowledge to do it?
 
 No! With Dr.Fone - System Repair (Android), you can do Android repair in just a few steps and get all issues like Wifi Authentication error fixed easily.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -302,9 +306,6 @@ Step 3: Depending on your Oppo A78 5G model, look for “IP Settings” and tap 
 
 Step 4: Note down the static IP address fields and wipe off all the fields. Punch it in again and then save it.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change dhcp settings of wifi](https://images.wondershare.com/drfone/article/2019/06/dhcp-static.jpg)
 
 ### Check carefully for duplicate Wi-Fi names before you connect
@@ -323,6 +324,10 @@ One of the easiest ways to fix the authentication problem of Wifi is to reset th
 
 ![tap on the “Forget”](https://images.wondershare.com/drfone/article/2017/06/14981517891308.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Afterward, turn on your Wifi again and tap to the network you wish to connect to. Simply provide the credentials and tap on the “Connect” button to reestablish the connection. This way, you can reset the network successfully.
 
 ![tap on the Connect button](https://images.wondershare.com/drfone/article/2017/06/14981518275903.jpg)
@@ -333,10 +338,11 @@ If the above solution won’t work, then you would be required to walk the extra
 
 1\. To start with, visit your phone’s Settings and open the Wifi page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open the Wifi page](https://images.wondershare.com/drfone/article/2017/06/14981518727215.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2\. This will display a list of all the Wifi networks that are associated with your device. Just long-tap on the Wifi network that you wish to modify. It will open another pop-up window. From here, tap on the option of “Manage network settings”. Sometimes, users also get an option of “Modify network settings” here as well. Simply select it to proceed.
 
@@ -346,6 +352,10 @@ If the above solution won’t work, then you would be required to walk the extra
 
 ![Show advanced options](https://images.wondershare.com/drfone/article/2017/06/14981519311624.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. From the IP Settings menu, change the field from DHCP to Static. This will let you establish a static connection between your device and the router.
 
 ![change the field](https://images.wondershare.com/drfone/article/2017/06/14981520827015.jpg)
@@ -353,6 +363,10 @@ If the above solution won’t work, then you would be required to walk the extra
 5\. As soon as you will change it to static, you will get different fields related to your network’s IP address, gateway, DNS, and more. Simply fill these fields and tap on the “Save” button once you are done.
 
 ![fill these fields](https://images.wondershare.com/drfone/article/2017/06/14981521159129.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, try to connect to the Wifi hotspot again. You would be able to overcome the authentication problem of Wifi.
 
@@ -366,15 +380,16 @@ It has been observed that, when we connect to Wifi, our device chooses a wrong s
 
 ![tap on the “Security”](https://images.wondershare.com/drfone/article/2017/06/14981521984185.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. From here, you will get a list of various security protocols that you can pick. Select “WPA/WPA2-PSK” and save your selection.
 
 ![Select “WPA/WPA2-PSK”](https://images.wondershare.com/drfone/article/2017/06/14981522445076.jpg)
 
 Now, try to connect to the network again. Most likely, it will let you fix the authentication error on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Update Android firmware to the latest
 
 There are instances where an outdated OS version of your Oppo A78 5G may create a hindrance in establishing a connection between your device and the WiFi network. You need to update your Android firmware to the latest version and then check if the problem persists or not.
@@ -387,6 +402,10 @@ Step 2: Now, opt for the “System Update” option. If the update is available,
 
 Sometimes, the WiFi router may hang up while establishing a connection and therefore, the wifi authentication problem occurs. Try restarting your Wi-Fi router and then check if your device connects successfully. If this doesn’t work, try to [reset your Android Network Settings](https://drfone.wondershare.com/android-issue/authentication-error.html#reset).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Bonus tip: Turn Airplane mode on/off
 
 By simply turning on the Airplane mode (and later turning it off), you can easily fix the authentication problem Wifi most of the time. You can find a toggle button for Airplane mode on the notification bar of your phone. If you can’t find it there, then go to your phone’s Settings > Connection > More Networks and turn on the feature of “Airplane Mode”.
@@ -396,7 +415,6 @@ By simply turning on the Airplane mode (and later turning it off), you can easil
 Let it do for a while. Afterward, turn it off and try to connect to the Wifi network again.
 
 After following these quick and easy suggestions, you would be able to fix the Oppo A78 5G Wifi problem for sure. Even if you use any other Android device, then its authentication error can easily be resolved after these effective solutions. Go ahead and give these expert solutions a try and let us know about your experience as well. If you have any other solution to fix the authentication problem Wifi, then share it with us as well in the comments.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -410,9 +428,21 @@ After following these quick and easy suggestions, you would be able to fix the O
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-global-iptv-connectivity-solutions/"><u>[New] 2024 Approved Global IPTV Connectivity Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-boost-your-brand-with-snapchats-business-features/"><u>[Updated] 2024 Approved Boost Your Brand with Snapchat's Business Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-uniting-subscribers-through-shared-playlists/"><u>[Updated] In 2024, Uniting Subscribers Through Shared Playlists</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-review-of-the-latest-slomo-capture-application/"><u>Complete Review of the Latest SloMo Capture Application</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-sony-xperia-5-v-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Sony Xperia 5 V Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-cross-platform-comparison-iphone-vs-android-youtube-viewing/"><u>In 2024, Cross-Platform Comparison IPhone vs Android YouTube Viewing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-chronicles-uncovered-top-10-historians-youtube-picks/"><u>In 2024, The Chronicles Uncovered Top 10 Historian's YouTube Picks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-hot-40i-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Hot 40i Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-find-x6-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo Find X6 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-itel-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Itel</u></a></li>
+</ul></div>
 

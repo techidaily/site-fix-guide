@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Pova 5 Pro | Dr.fone
-date: 2024-07-14T05:45:36.934Z
-updated: 2024-07-15T05:45:36.934Z
+date: 2025-01-23T17:19:28.349Z
+updated: 2025-01-29T20:23:34.995Z
 tags: 
   - problems
 categories:
@@ -116,6 +116,10 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
@@ -134,9 +138,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 2:**** Connect your Tecno Pova 5 Pro or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
@@ -216,8 +217,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Tecno Pova 5 Pro 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## Authentication Error Occurred on Tecno Pova 5 Pro? Here Are 10 Proven Fixes
 
 There are times when users get an authentication error while they connect to a Wifi network. The problem is mostly found in Android whenever a device tries to establish a connection to Wifi. If your device is also experiencing an authentication problem Wifi, then don’t worry. It can easily be resolved. In this post, we will make you familiar with the root cause for the Tecno Pova 5 Pro Wifi problem and how you can resolve whenever authentication error occurred on your device.
@@ -227,6 +226,10 @@ There are times when users get an authentication error while they connect to a W
 Wi-Fi authentication has to be done every time you wish to connect to a Wi-Fi network over your smartphone or laptop. To authenticate yourself and connect to the protected Wi-Fi network, you need to have the password of it. But if after you’re putting in the correct password and still experiencing the wifi authentication problem. Here’s what you need to know.
 
 Authentication error occurs when the “deal” between the Wi-Fi router and device fails due to certain reasons. First, the Tecno Pova 5 Pro device sends the password of the network and the "connect" request in an encrypted format to the Wi-Fi router. Then, the router decrypts the password and compares the password saved on it. Now, if the password matches, it sends affirmation for the "connect" request, and then the Tecno Pova 5 Pro device is allowed to connect to the network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Why Authentication Error Occurred when Connecting to Wifi?
 
@@ -249,8 +252,6 @@ Android system repair is considered the most effective way to fix Wifi Authentic
 So Android repair requires programming knowledge to do it?
 
 No! With Dr.Fone - System Repair (Android), you can do Android repair in just a few steps and get all issues like Wifi Authentication error fixed easily.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -277,9 +278,6 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 
 1. Select all the details that match your device, and click "Next".
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Wifi Authentication Error by selecting option by selecting device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 1. Next up, you should boot your Tecno Pova 5 Pro in download mode by following the on-screen instructions.
@@ -304,6 +302,10 @@ Step 4: Note down the static IP address fields and wipe off all the fields. Punc
 
 ![change dhcp settings of wifi](https://images.wondershare.com/drfone/article/2019/06/dhcp-static.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check carefully for duplicate Wi-Fi names before you connect
 
 Perhaps, you might connect to a WiFi with a similar name. There are good chances that some users do not modify their WiFi network name and possibly, your neighbor may have the same WiFi network, service provider. Therefore, ensure you connect to the correct WiFi network.
@@ -314,14 +316,15 @@ One of the easiest ways to fix the authentication problem of Wifi is to reset th
 
 1\. Firstly, you need to forget a Wifi network. To do it, go to your phone’s Settings > WiFi and network. From here, you can see a list of all the Wifi hotspots that your phone connects to. Select the network you wish to forget.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select the network](https://images.wondershare.com/drfone/article/2017/06/14981516957952.jpg)
 
 2\. When you would select a network, it will provide the basic information related to it. Just tap on the “Forget” button and agree to the pop-up message. This will erase the network’s information from your device.
 
 ![tap on the “Forget”](https://images.wondershare.com/drfone/article/2017/06/14981517891308.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Afterward, turn on your Wifi again and tap to the network you wish to connect to. Simply provide the credentials and tap on the “Connect” button to reestablish the connection. This way, you can reset the network successfully.
 
@@ -338,6 +341,10 @@ If the above solution won’t work, then you would be required to walk the extra
 2\. This will display a list of all the Wifi networks that are associated with your device. Just long-tap on the Wifi network that you wish to modify. It will open another pop-up window. From here, tap on the option of “Manage network settings”. Sometimes, users also get an option of “Modify network settings” here as well. Simply select it to proceed.
 
 ![Modify network settings](https://images.wondershare.com/drfone/article/2017/06/14981519057338.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. It will display basic information related to your Wifi network. Just tap on the “Show advanced options” button to access more options related to the network setting.
 
@@ -401,7 +408,6 @@ You might find lots of people online stating I can't receive text messages on An
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
 
-
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
 The most common symptoms that would clarify that your Android messaging service is not working right are given below:
@@ -423,8 +429,9 @@ The reasons why your Android is not receiving texts are given below:
 Apart from all these reasons, some additional causes are also there that can lead to this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: One-click to Fix Android not Receiving Texts by Android System Repair
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/06HDyPDOBqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
@@ -432,8 +439,6 @@ Apart from all these reasons, some additional causes are also there that can lea
 If you are not willing to waste your precious time fixing the message problem, then you can switch to the top-rated Android repair tool, i.e., [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). With this software, you can easily fix issues like the black screen of death, crashing apps, can't receive text messages on Android, or failed download. If you have no idea what is causing the message app problem, you can simply think of repairing the whole Android system.
 
 You surely need to try the software as it can perform the following tasks:
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -467,6 +472,10 @@ It won’t take long, and your Tecno Pova 5 Pro will be repaired. Now you will b
 
 The easiest thing that you can try if your Tecno Pova 5 Pro is not receiving any text messages is because the SIM is not inserted right. If your SIM card is inserted wrong, then it is obvious you can't receive text messages on Android. Simply take out the SIM card, see how it must be inserted, and do it correctly. Once the SIM is inserted in the right way, you will receive the pending text messages immediately unless there is another issue preventing it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Check Network Connection
 
 Another simple method that you can try if you are not receiving text messages on Tecno Pova 5 Pro phone is to check your network connection. Usually, you can see the bar on the top of the screen. Maybe the problem exists because you have no signal strength at the moment.
@@ -484,8 +493,9 @@ Sometimes, people complain that Tecno Pova 5 Pro is not receiving texts from iPh
 When you are offline the message is saved on the server and just about when you get online, the text messages are delivered. If it is the SIM issue, then you will not get the message unless you contact your network operator.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 6: Clear the Cache of Messaging App
 
 In smartphones, the memory space often gets filled up with cache. And not everyone remembers that they have to clear the cache from time to time. The accumulated cache can also lead to this issue. So, if your Android messaging app is not working, you have to clear the cache memory.
@@ -505,6 +515,10 @@ Sometimes, if you are not receiving text messages on Tecno Pova 5 Pro, it means 
 Step 1: Open the messages app and open settings. Look for an option that says “Manage SIM Card Messages”. Sometimes, you can find this option under Advanced Settings.
 
 ![android not receiving texts - free up space](https://images.wondershare.com/drfone/article/2019/02/manage-SIM-card-messages.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: There, you will see the existing messages on the SIM. You can either delete all the messages or perform a selective deletion to free up space.
 
@@ -528,6 +542,10 @@ Taking the iPhone in hand makes sure that you are connected to a network. Open s
 
 If the FaceTime option is also on, you might have to deactivate that too to send messages and calls as regular ones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 11: Update Your Android
 
 Updating the operating system to the latest Android version can fix some system errors which may cause the "Android not receiving texts" issue because the latest version always brings a better user experience and fix the know bugs.
@@ -535,7 +553,6 @@ Updating the operating system to the latest Android version can fix some system 
 ### Conclusion
 
 Now you know several methods that can work if the Android messaging app is not working.  If you experience this kind of issue with your Tecno Pova 5 Pro, then you are most likely to resolve them with these fixes. If none of the solutions seem to fix the issue, then you can take the help of Dr. Fone - System Repair (Android) feature. With this tool, you can resolve all kinds of working issues on your device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -549,9 +566,19 @@ Now you know several methods that can work if the Android messaging app is not w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-melodic-medium-finding-the-right-film-score/"><u>[New] In 2024, Melodic Medium Finding the Right Film Score</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-behind-the-screen-discovering-samsung-galaxy-s8s-4k-edge-for-2024/"><u>[Updated] Behind the Screen Discovering Samsung Galaxy S8's 4K Edge for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-best-10-free-youtube-subtitle-extractors-and-downloaders/"><u>2024 Approved Best 10 Free YouTube Subtitle Extractors & Downloaders</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ensure-vivid-gameplay-tips-to-eliminate-darkness-on-obs-captures/"><u>In 2024, Ensure Vivid Gameplay Tips to Eliminate Darkness on OBS Captures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-speech-to-text-conversion-software/"><u>In 2024, Free Speech-to-Text Conversion Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lyrical-launchpads-discover-10-top-music-for-podcasts/"><u>In 2024, Lyrical Launchpads Discover 10 Top Music for Podcasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-simple-methods-for-setting-up-a-bootable-windows-7-drive/"><u>Quick & Simple Methods for Setting Up a Bootable Windows 7 Drive</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-10-4g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 10 4G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>
 

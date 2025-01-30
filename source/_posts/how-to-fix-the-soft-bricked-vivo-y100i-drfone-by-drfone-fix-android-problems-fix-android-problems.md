@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y100i? | Dr.fone
-date: 2024-07-14T05:50:30.857Z
-updated: 2024-07-15T05:50:30.857Z
+date: 2025-01-28T03:29:53.350Z
+updated: 2025-01-29T19:22:41.188Z
 tags: 
   - problems
 categories:
@@ -22,6 +22,10 @@ If you are confused about the soft brick and hard brick problems and looking for
 
 Read on to find out more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is the difference between soft brick and hard brick?
 
 To begin with, let us understand the basic difference between a soft brick and hard brick issue. Both versions of a bricked phone prevent it from booting but differ in their causes and gravity of the problem.
@@ -31,6 +35,10 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Stuck at the Boot Loop
 
@@ -44,9 +52,6 @@ Since the phone refuses to boot, Cache can be cleared from entering into the Rec
 
 Once you are the recovery mode screen, you will see a number of options as shown in the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
@@ -144,9 +149,6 @@ This issue, however, may be resolved by wiping the data and cache partitions in 
 - **Step 1:** Turn off your smartphone and enter recovery mode by pressing the Power and Volume Down buttons simultaneously. Different devices have various approaches for entering recovery mode, so you may perform better.
 - **Step 2:** After entering recovery mode, you should see the screen below. Remember to pick Advanced and then “Wipe Dalvik Cache” if your device is under Clockwork Mod recovery. Return to the main screen and select “Wipe Cache Partition” once more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-2.jpg)
 
 - **Step 3:** Finally, on your smartphone, choose the Reboot system immediately.
@@ -183,6 +185,10 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 - **Step 2:** Choose the file types you wish to recover. Click “Next” and then select the type of damage your phone is experiencing. Select **“Touch screen not responsive, or cannot access the phone”** or **“Black/broken screen”.**
 
 ![select symptom of your phone](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Use the recovery wizard to enter your Android smartphone into Download Mode. Connect your Android handset to the computer after following the instructions to begin automatically analyzing your device.
 
@@ -249,6 +255,10 @@ One reason calls go **straight to voicemail without ringing** is if you enabled 
 
 ![phone dial app settings](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Navigate to **Supplementary services** > **Call forwarding**.
 
 ![call settings supplementary services](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-05.jpg)
@@ -296,6 +306,10 @@ When Bluetooth is on, it can interfere with your device’s ability to receive c
 
 ![turn off bluetooth on settings app](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It should help ensure that calls come through to your phone instead of going to voicemail.
 
 7. Check Airplane Mode
@@ -313,9 +327,6 @@ Using the Quick Settings panel:
 - **Step 1:** Swipe down from the top of the phone screen to access the **Quick Settings** panel.
 - **Step 2:** Look for the **Airplane mode** or **Flight mode** icon, then tap it to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![airplane mode on](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-11.jpg)
 
 8. Check Blocked Numbers
@@ -355,6 +366,10 @@ And if your carrier confirms that there is no service outage or billing-related 
 
 Ringless voicemail is a service that allows businesses to bypass your phone’s ringtone and send you pre-recorded messages directly to voicemail. Ringless voicemail is often used for marketing purposes. If you think you’re receiving ringless voicemail calls, you can contact the company calling you and ask them to remove you from their list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Not Clear About the Root Cause? Troubleshoot Directly by Wondershare Dr.Fone
 
 If you’re unsure what’s causing your calls to go straight to voicemail, you can try using the [<u>Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) System Repair tool. This software can scan and repair your phone for any underlying problems, which may fix the issue and get your calls ringing again.
@@ -369,9 +384,6 @@ Dr.Fone supports over 1000 Android models, including unlocked Vivo Y100i models 
 
 - **Step 2:** Connect your smartphone to your desktop or computer using a USB cable. Next, from the **Toolbox** homepage, select **System Repair**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone system repair toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Select **Android** as the Vivo Y100i device type.
@@ -386,15 +398,20 @@ Dr.Fone supports over 1000 Android models, including unlocked Vivo Y100i models 
 
 ![choose device information to repair](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** Follow the in-app instructions to enter Download mode on your Vivo Y100i, then click **Next**.
 
 ![android devices to enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Wait while the app downloads the firmware; once done, click **Fix Now**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firmware downloaded ready to use](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 - **Step 8:** Enter the code in the input box to verify the Vivo Y100i device information in the dialogue box, then click **Confirm**.
@@ -405,6 +422,10 @@ Dr.Fone supports over 1000 Android models, including unlocked Vivo Y100i models 
 
 ![repaired android device system issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **You May Also Like:**
 
 [<u>Top 5 Best Android System Repair Apps</u>](https://drfone.wondershare.com/android-issue/android-repair-software.html)
@@ -412,6 +433,10 @@ Dr.Fone supports over 1000 Android models, including unlocked Vivo Y100i models 
 [<u>How to Fix It: Android Stuck on Boot Screen?</u>](https://drfone.wondershare.com/android-issue/android-stuck-on-boot-screen.html)
 
 [<u>How to Flash Dead Android Phone Safely</u>](https://drfone.wondershare.com/android-issue/flash-dead-android-phone.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -422,9 +447,6 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,215,287** people have downloaded it
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -438,9 +460,24 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-cutting-edge-techniques-for-free-from-photo-backgrounds/"><u>[New] 2024 Approved Cutting Edge Techniques for Free-From Photo Backgrounds</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-minecraft-survival-shelter-mastery/"><u>[Updated] In 2024, Minecraft Survival Shelter Mastery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-streamline-your-content-twitter-video-integration/"><u>[Updated] In 2024, Streamline Your Content Twitter Video Integration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-tools-for-sub-to-srt-transition-rated-8-through-17/"><u>Best Tools for Sub to SRT Transition, Rated #8 Through #17</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-x50-gt-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X50 GT Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-xr-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone XR?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-c12-plus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia C12 Plus in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-play-8t-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor Play 8T – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-tecno-camon-30-pro-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Camon 30 Pro 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-review/"><u>Navigating the World of Gadgets with Tom's Hardware Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-frame-rate-drops-in-minecraft-on-your-powerhouse-pc-a-modern-approach-learn-from-2vectras-best-practices/"><u>Overcoming Frame Rate Drops in Minecraft on Your Powerhouse PC: A Modern Approach - Learn From 2Vectra's Best Practices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-c51-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme C51 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-90-gt-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor 90 GT Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a15-4g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A15 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/form-your-video-appeal-incorporating-own-thumbnails-for-2024/"><u>Transform Your Video Appeal Incorporating Own Thumbnails for 2024</u></a></li>
+</ul></div>
 

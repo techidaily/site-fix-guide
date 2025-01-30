@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y78 5G? | Dr.fone
-date: 2024-07-14T05:50:45.103Z
-updated: 2024-07-15T05:50:45.103Z
+date: 2025-01-29T02:09:47.206Z
+updated: 2025-01-29T19:06:13.429Z
 tags: 
   - problems
 categories:
@@ -29,6 +29,10 @@ To begin with, let us understand the basic difference between a soft brick and h
 A soft-brick problem is caused merely by a software error/crash and makes your device switch on automatically every time you manually turn it off. This phenomenon is referred to as Boot Loop. Soft bricked Android phones are not as difficult to fix as the hard bricked Android phones. It is convenient to say that a soft bricked phone only boots up half-way and not fully, whereas a hard bricked device does not switch on at all. A hard brick error is thus caused when the kernel, which is nothing but an interface for the software to communicate with the hardware, is tampered with. A hard bricked phone is not recognized by your PC when plugged in and is a serious problem. It requires troubleshooting techniques and cannot be easily fixed as the soft brick problem.
 
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
@@ -90,8 +94,6 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## Android Screen Stuck: General Vivo Y78 5G Partly Screen Unresponsive
 
 Over time, both stuck and ****dead pixels on phone**** screens can make it challenging to enjoy your device features, especially if they are in a critical area. In addition to making your phone look less appealing, they can make it hard to use for big tasks like texting, surfing, or taking pictures.
@@ -99,7 +101,6 @@ Over time, both stuck and ****dead pixels on phone**** screens can make it chal
 Fortunately, there are ways to overcome this, and one of the best is Dr.Fone. In this article, you will discover more about these ****broken pixels on phones****, which of the different methods works for you, and why it is worth considering. By the end of this article, you will have the knowledge and tools you need to get your phone working like new again.
 
 ![hand holding a phone](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-01.jpg)
-
 
 ## Part 1: Understanding Stuck and Dead Vivo Y78 5Gs on Phone Screens
 
@@ -114,6 +115,10 @@ A ****stuck pixel phone**** is always on, so it shows up on a touchscreen as a 
 In contrast to the stuck pixel, the dead pixel subpixels are all left unpowered, turning them off. A ****dead pixel on the phone**** is a tiny, persistent rectangle of black or white color on the part of the phone screen not working.
 
 ![stuck white pixel and dead pixel](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Some Differences Between Stuck and Dead Vivo Y78 5Gs on Phone
 
@@ -132,9 +137,6 @@ Stuck and ****dead pixels on phone screen****s can happen for various reasons, i
 - ****Manufacturing defects****. During manufacturing, some pixels may not work due to poor quality control, resulting in stuck or ****dead pixels on the phone**** In other words, if the power transfer issue isn't completely fixed, you might see more dead pixels.
 - ****Physical damage****. Accidents such as dropping the phone or exposure to extreme heat or cold can damage the screen and cause stuck or dead pixels. For instance, the ****upper part of the touch screen not working****may also occur due to pressure on the display when the phone is placed in a pocket with other sharp objects.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![person holding a gadget with pen](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-03.jpg)
 
 - ****Age-related wear and tear****. Over time, the display on your phone may start to wear out, resulting in the appearance of dead or stuck pixels on the phone. It is more common in older devices and those with high usage rates. Factors such as exposure to sunlight or excessive phone use can also contribute to the issue.
@@ -187,9 +189,17 @@ Visit the help page for your device's manufacturer to learn how to activate and 
 
 ![safe mode on the android screen](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** Try touching the screen while your phone is in safe mode. If the display functions as intended, a specific app is likely causing the issue with the ****stuck pixel phone**** display. Next, turn off ****Safe Mode****.
 
 ****Step 3:**** To resolve issues related to a problematic app on your phone, remove the most recent downloads one at a time, and restart your phone after each uninstallation. Check if uninstalling the app resolves the issue. Once you know the problematic app, you may install the other applications you deleted again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 4: Perform Factory Data Reset
 
@@ -244,9 +254,6 @@ The good thing is Dr.Fone can help you with these issues, making the process eas
 - ****Ease of use****. The software is user-friendly and easy to navigate, making it accessible to anyone without advanced technical knowledge.
 - ****Safety****. The software is safe and secure, ensuring that your data is not compromised during the process. This feature is for users concerned about the confidentiality of their data and wants to ensure that their personal information is not shared or stored on the internet.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Frequently Asked Questions
 
 Aside from the methods and tools discussed for fixing ****dead pixels on phone screen****s and ****stuck pixels on the phone****, you may still have some questions regarding the issues. Whether you are dealing with a single stuck pixel or a cluster of dead pixels, this section aims to provide you with helpful insights.
@@ -269,19 +276,17 @@ It frequently happens throughout the LCD manufacturing process when one or more 
 
 In addition, the essential factor in comparing dead pixel policies is whether or not the policy permits the Vivo Y78 5G devices to be returned, swapped, or repaired when this frequent issue arises.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 You have learned the difference between a stuck and ****dead pixel on the phone****. With this knowledge, you can apply the different tools and techniques for removing ****stuck pixels on phone**** screens and how to work around dead pixels on the phone screen. Whether using software like Dr.Fone or employing manual methods such as rebooting or cleaning your device, there are various options you can try.
 
 Remember to back up your data before attempting any fixes and to seek professional help if necessary. If you are still experiencing issues with dead pixels on your phone screen, don't hesitate to contact your device manufacturer for further assistance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bricked Your Vivo Y78 5G? Here’s A Full Solution
 
@@ -289,11 +294,13 @@ A bricked phone is a device that won’t turn on no matter what you do and every
 
 In this article we are going to look at how you can fix your device if you are sure it is bricked, how to rescue the data on your bricked device and even how you can avoid this situation in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Rescue the data on your Bricked Android Phone
 
 Before we can learn how to fix a bricked device, it is important that you are able to save the data that is on the Vivo Y78 5G device. Having the data saved somewhere else will be the added insurance you need in case anything goes wrong during the process. There are very few software solutions in the market to help you get back data from a bricked device. One of these and the most reliable is [Wondershare Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html).
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -324,13 +331,25 @@ Step 3: In the next step, you need to select your device model. If you don’t k
 
 ![bricked android phone data recovery-select your device model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: The next screen will provide instructions on how to enter “Download mode.” Connect the Vivo Y78 5G device to your PC once it is in “Download Mode”
 
 ![bricked android phone data recovery-Download Mode](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: The program will begin an analysis of your device and then download the recovery package.
 
 ![bricked android phone data recovery-download the recovery package](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6: Then Dr.Fone will display all the recoverable file types. You can click on the files to preview them. Select the ones you need and click on "Recover to Computer" to save them to your computer.
 
@@ -362,9 +381,6 @@ Step 2: Go to “Advanced” which will bring up a number of options to choose f
 
 Step 3: One of the options should be “Wipe Dalvik cache” select this option and then follow the instructions. When finished select “Go Back” to return to the main menu.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![bricked android phone data recovery-Go Back](https://images.wondershare.com/drfone/others/fix-bricked-android-02.jpg)
 
 Step 4: Go to the “Wipe Cache Partition” and select it.
@@ -372,6 +388,10 @@ Step 4: Go to the “Wipe Cache Partition” and select it.
 Step 5: Go to “Wipe data/ factory reset.”
 
 ![bricked android phone data recovery-Wipe data/ factory reset](https://images.wondershare.com/drfone/others/fix-bricked-android-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6: Finally reboot the Vivo Y78 5G device by selecting “Reboot system now.” This should fix the problem. You may also want to flash the same ROM or try a new one.
 
@@ -397,7 +417,6 @@ If you are planning on installing custom ROM you need to install Custom Recovery
 
 While installing Custom ROM can actually be a great way to customize your device, it is also the leading reason for bricked devices. Therefore ensure that you understand what you are doing when you decide to customize your device. Learn as much as you can about the process before attempting everything.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -410,9 +429,19 @@ While installing Custom ROM can actually be a great way to customize your device
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-investigating-ffmpeg-for-intact-audio-preservation/"><u>[New] Investigating FFmpeg for Intact Audio Preservation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-quick-fix-for-turning-yt-lists-backwards/"><u>[New] The Quick Fix for Turning YT Lists Backwards</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-deciphering-the-secrets-of-zd-soft-recorder/"><u>[Updated] Deciphering the Secrets of ZD Soft Recorder</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-level-gopro-tricks-and-insights/"><u>Pro-Level GoPro Tricks and Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-a2plus-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi A2+ Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y27-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y27 4G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-disabling-auto-start-feature-on-windows-10-devices/"><u>Step-by-Step Guide: Disabling Auto-Start Feature on Windows 10 Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-essential-twitter-archive-user-manual/"><u>The Essential Twitter Archive User Manual</u></a></li>
+</ul></div>
 

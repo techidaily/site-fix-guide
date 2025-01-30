@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Infinix Hot 30 5G? | Dr.fone
-date: 2024-07-14T05:47:12.020Z
-updated: 2024-07-15T05:47:12.020Z
+date: 2025-01-26T22:26:37.985Z
+updated: 2025-01-29T19:42:00.239Z
 tags: 
   - problems
 categories:
@@ -31,6 +31,10 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Stuck at the Boot Loop
 
@@ -94,6 +98,10 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 
 “Unfortunately TouchWiz home has stopped” is the talk of the town due to annoying TouchWiz UI, a front-end user interface developed by Infinix Hot 30 5G. Not to mention, the Infinix Hot 30 5G has borne a whole lot of heat from its agitated users over the years and the reason is pretty much obvious due to the pre-installed bloatware apps and the theme launch “TouchWiz home”. That not just brutally annoys users and eats up a heck of internal storage space but lags up too often due to low speed and stability. As a result users end up with “Unfortunately TouchWiz home has stopped” and “Unfortunately, TouchWiz has stopped”. Apparently, there are several flaws in the design and functioning of this launcher and hence, Touchwiz keeps stopping or becomes unresponsive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Common scenarios when TouchWiz keeps stopping
 
 Here in this section, we will introduce some scenarios that can be blamed for why **_TouchWiz is not working_**. Check out the following points:
@@ -102,13 +110,19 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 - When you **<u>disable some built-in apps</u>**, you might get in trouble with TouchWiz. Doing this sometimes can hamper the TouchWiz operation and raise the “**_unfortunately TouchWiz home has stopped_**” error message.
 - Many times **<u>installing some third-party apps and widgets</u>** can cause this problem. The apps like launchers can be conflicting with TouchWiz home launcher and therefore cease it to work. Also, a glitched widget is responsible for the same i.e. forces stop the TouchWiz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -136,18 +150,6 @@ After you open the software, hit on the “System Repair” button from the main
 
 Now, from the next screen, you are supposed to choose “Android Repair” tab. It is given on the left panel.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![repair android to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step 4: Enter Right Information**
@@ -176,6 +178,10 @@ Now, when the firmware is downloaded, the program will itself begin to repair yo
 
 ![get android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Clear the cache data the TouchWiz
 
 Maximum Android devices are designed to deleted cache data upon getting updated to the newest Android system. However, Infinix Hot 30 5G stands as an exception in such case. And therefore, many times **_TouchWiz starts stopping_** right after upgrading. Thus, due to the collection of cache data, TouchWiz can display error. This calls for removing the cache from TouchWiz and run things smoothly. Here is how to do this:
@@ -190,6 +196,10 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 
 ![clear cache to fix touchwiz home stopping](https://images.wondershare.com/drfone/article/2019/02/clear-cache-touchwiz.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Please note that this will delete all your Home screens post this method.
 
 ### Disable Motion & gesture settings
@@ -199,6 +209,10 @@ The functions regarding Motions and Gestures can be responsible for why **_Touch
 ### Change the Animation Scale
 
 When you use TouchWiz, it may consume higher memory usage for high amount of graphic maintenance. As a result, the “**_unfortunately TouchWiz home has stopped_**” error might crop up. Taking this into consideration, you should try reconfiguring the animation scale and get rid of the error. Here’s how:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clear Cache Partition
 
@@ -236,9 +250,6 @@ Here is the next solution to be followed when TouchWiz keeps stopping. As we alr
 
 ![safe mode](https://images.wondershare.com/drfone/article/2019/02/enable-safe-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reset Factory settings
 
 If the above method went futile and you’re still at the same place, then factory reset is the next logical step to be taken. We suggest this method because it will take your device to its factory state. As a result, TouchWiz will probably get normal and work perfectly.
@@ -253,9 +264,6 @@ Along with this, we would also suggest you go take backup of your data so that y
 
 - Wait a few minutes and your device will reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Install a new launcher to replace TouchWiz
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
@@ -302,8 +310,6 @@ Most probably Chrome is not able to support the website you are trying to access
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix crashing Chrome
@@ -322,9 +328,6 @@ Step 1: Install the Tool to Begin
 
 Start downloading it from there. Install it once downloading is completed and open the tool. The main screen will show you some tabs. You need to hit on “System Repair” among those.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Chrome crashing on Android - get the fixing tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Get Android Device Connected
@@ -341,9 +344,6 @@ Step 4: Download Firmware
 
 Now, follow the steps displaying on the screen to enter the DFU mode. When you do this, click on “Next” and the program will download the firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![download firmware and fix Chrome crashing on Android](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 5: Repair the Issue
@@ -351,6 +351,10 @@ Step 5: Repair the Issue
 Once the firmware is downloaded, you will notice that the repairing process will start by the program. Wait until it gets finished and try to start Chrome again and you’ll surely get rid of the problem.
 
 ![Chrome crashing fixed on Android](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: File Downloading issue from Chrome
 
@@ -360,6 +364,10 @@ While you were trying to download from internet, the file didn’t download prop
 - Select “Chrome” and tap on “Uninstall Updates”.
 
 ![fix Chrome crashing on Android by uninstalling updates](https://images.wondershare.com/drfone/article/2019/05/uninstall-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Now, you need to re-install it from Play Store. From the “My Apps” section, tap on Chrome and update it.
 
@@ -372,8 +380,9 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 
 ![fix Chrome crashing by updating android](https://images.wondershare.com/drfone/article/2019/05/update-android.jpg)
 
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -387,9 +396,26 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/2024-approved-digital-retouch-fundamentals-eliminate-backdrops-with-ease/"><u>2024 Approved Digital Retouch Fundamentals Eliminate Backdrops with Ease</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-infinix-smart-8-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Infinix Smart 8 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/finding-and-installing-the-right-hp-pro-3500-mt-pc-drivers-with-easy-downloading-techniques/"><u>Finding and Installing the Right HP Pro 3500 MT PC Drivers with Easy Downloading Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-reinstalling-windows-mice-drivers/"><u>Guide to Reinstalling Windows Mice Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-a05s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy A05s Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-xr-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone XR</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-masterful-selection-8-top-free-3d-video-players-windows-and-mac/"><u>In 2024, Masterful Selection 8 Top Free 3D Video Players Windows & Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-proactive-planning-harnessing-the-power-of-slack-and-filmora-for-meetings/"><u>In 2024, Proactive Planning Harnessing the Power of Slack & Filmora For Meetings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715701110135-odins-revenge-ragnarok-coming-soon/"><u>Odin's Revenge Ragnarök - Coming Soon!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-lava-yuva-3-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Lava Yuva 3 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-narzo-n53-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo N53 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-magic-v2-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor Magic V2 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-stability-achieved-in-win-environments/"><u>USB Stability Achieved in WIN Environments</u></a></li>
+</ul></div>
 

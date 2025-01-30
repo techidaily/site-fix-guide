@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Itel A60? | Dr.fone
-date: 2024-07-14T05:47:30.286Z
-updated: 2024-07-15T05:47:30.286Z
+date: 2025-01-28T19:25:37.750Z
+updated: 2025-01-29T23:40:33.513Z
 tags: 
   - problems
 categories:
@@ -30,6 +30,10 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
 ## Part 2: Stuck at the Boot Loop
@@ -48,9 +52,6 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
 
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
@@ -101,7 +102,6 @@ After all, the presence of app icons on our Android device's home screen is impo
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your Itel A60.
 
-
 ## Part 1: Make Sure if the Missing App Is Installed
 
 Before proceeding with troubleshooting the **missing app icon on your Android** device, it's essential to confirm whether the app is still installed or if it has been accidentally deleted. To do it, you can have a quick check on Google Play:
@@ -114,11 +114,19 @@ Before proceeding with troubleshooting the **missing app icon on your Android** 
 
 Now, see whether you can find the **app icon that disappeared on your Android.** If you can’t find it, it means the app has been accidentally deleted, and you can install it back on your device. However, if it’s confirmed to be installed on your Android but remains missing from your home screen, you can continue the following practice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How To Find the Missing App Icon on Android
 
 _“_**_All my apps disappeared from my home Android screen._** _What should I do?”_
 
 If you've confirmed that the missing app is installed, but its icon is nowhere to be found on your home screen, don't fret—there are several solutions you can take to locate and restore the **missing app icon on Android**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Check hidden apps
 
@@ -132,6 +140,10 @@ However, as a general guide, you can follow these steps:
 
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Move the app to the home screen from the App Drawer
 
 If your **app icon disappeared on your Android**, you can also easily restore it by adding the app to the home screen from the app drawer. Follow the step-by-step guide below:
@@ -141,9 +153,6 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 - **Step 3.** Long-press the Icon of the missing app and move it to the desired location on your home screen. You can drag it to an empty space or a specific folder.
 - **Step 4.** Release to drop the app icon onto the home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
 
 ### 3\. Re-enable disabled app
@@ -181,9 +190,6 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,136,839** people have downloaded it
@@ -199,6 +205,10 @@ Click Start on the new screen to kick off the repair. Since you're dealing with 
 The platform will detect your Itel A60's brand. Confirm the Name, Model, Country, and Carrier. If your device is unlocked, choose OPEN in the Carrier section. Agree to the warning, click Next, and proceed with the repair.
 
 ![Confirm your Itel A60’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4.** Activate Download de
 
@@ -226,8 +236,6 @@ When the **app disappears from the home screen of your Android**, it can hinder 
 
 Whether it's due to accidental deletion or a system glitch, we have discussed various methods to recover the missing app and ensure smooth functionality in this article. In cases of system-related issues on your Itel A60, it's advisable to rely on trustworthy software such as Dr. Fone's system repair tool for a comprehensive resolution.
 
-
-
 ## What To Do if Your Itel A60 Auto Does Not Work
 
 Embracing the convenience of Android Auto enhances your driving experience. It seamlessly connects your smartphone with your vehicle. However, in the realm of technology, glitches and malfunctions are commonplace. Android Auto, too, may [<u>encounter software or hardware issues</u>](https://drfone.wondershare.com/device-diagnostics/how-to-run-a-hardware-test-on-xiaomi.html) that disrupt its functionality.
@@ -249,6 +257,10 @@ Android Auto connects your smartphone to your car’s infotainment system via US
 By integrating familiar smartphone functionalities into your car, Android Auto aims to provide a safer and more enjoyable driving experience, reducing the need for manual phone interactions while on the road. Understanding this foundation will empower you to effectively troubleshoot when issues arise.
 
 ![android auto and apple carplay](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Common Issues Android Auto Faces + Troubleshooting/Repair
 
@@ -282,6 +294,10 @@ Begin by scrutinizing your internet connection, as voice commands rely on a stab
 
 Understanding that these issues are inherent to any technology, Android Auto users can confidently navigate and troubleshoot these problems with the provided solutions. By addressing these commonplace concerns, users empower themselves to swiftly overcome hurdles, ensuring a seamless and gratifying driving experience with Android Auto.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. A Quicker Solution: <u>Wondershare Dr.Fone</u>
 
 If navigating through various troubleshooting steps seems complicated, especially if the issue resides within your Itel A60, a swift and efficient solution comes in the form of Wondershare Dr.Fone - System Repair.
@@ -294,9 +310,6 @@ It addresses issues that go beyond the scope of regular troubleshooting. It give
 
 **Note:** If the problem persists and is related to the car’s head unit, a visit to the maintenance center might be necessary after exhausting these software-based solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How To Use Wondershare Dr. Fone’s System Repair
 
 To use Dr. Fone’s System Repair feature, follow the steps below. These steps will work with any Android phone.
@@ -311,11 +324,12 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 
 ![wondershare dr.fone phone os chooser](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Initiate the Android System Repair by clicking **Start**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare dr.fone system repair start screen](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 4:** Confirm the accuracy of your device details. If needed, edit any information that may be incorrect.
@@ -330,11 +344,19 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 
 ![wondershare dr.fone initiate system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Upon completion of the process, your phone should now be restored. Click **Done** to conclude.
 
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,276,578** people have downloaded it
 
@@ -343,7 +365,6 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 In wrapping up this guide, you’ve explored common reasons **Android Auto does not work**. You’ve also been provided practical solutions to keep your driving experience seamless. Remember, regular maintenance of your car’s head unit and periodic checks on your Itel A60 can preemptively address potential issues.
 
 By staying proactive, you ensure a consistently smooth ride with Android Auto. For comprehensive system repair and addressing broader Android-related needs, consider trying out Dr.Fone. It’s a versatile tool that can enhance your Android experience and keep your digital journey hassle-free. Take control of your drive and explore the full potential of your Itel A60s with Dr.Fone today.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -357,9 +378,18 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-halo-reviewed-a-revolutionary-cutting-edge-health-monitor/"><u>Amazon Halo Reviewed: A Revolutionary, Cutting-Edge Health Monitor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-and-retrieve-picturesvideos-from-a-water-damaged-iphone-that-wont-turn-on-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone That Wont Turn on | Stellar</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-film-creation-tools-go-free-and-green/"><u>In 2024, Film Creation Tools Go Free and Green</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-prime-stabilization-techniques-for-youtubers/"><u>In 2024, Prime Stabilization Techniques for YouTubers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-poco-c51-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Poco C51 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/overcoming-deformed-video-playback-online-for-2024/"><u>Overcoming Deformed Video Playback Online for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-playback-hiccups-on-netflix-a-comprehensive-guide/"><u>Overcoming Playback Hiccups on Netflix - A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-note-30-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Note 30 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-smart-8-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Smart 8 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/2-free-youtube-thumbnail-makers-filmora-for-2024/"><u>Top 12 Free YouTube Thumbnail Makers - Filmora for 2024</u></a></li>
+</ul></div>
 

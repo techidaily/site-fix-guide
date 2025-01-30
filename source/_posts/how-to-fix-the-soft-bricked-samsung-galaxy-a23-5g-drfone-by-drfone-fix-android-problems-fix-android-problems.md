@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy A23 5G? | Dr.fone
-date: 2024-07-14T05:49:32.923Z
-updated: 2024-07-15T05:49:32.923Z
+date: 2025-01-22T22:07:30.234Z
+updated: 2025-01-29T17:52:46.526Z
 tags: 
   - problems
 categories:
@@ -56,6 +56,10 @@ This method will help you erase all the clogged up and unwanted files. You may l
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -90,15 +94,16 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Effective Methods on How To Take Viruses Off Your Phone
 
 Cell phones have become a part of a person’s daily life. It offers convenience and connectivity at your fingertips. Yet, these handy devices are prone to viruses when used carelessly. Viruses can infiltrate your phone through unverified downloads, unsecured networks, or malicious links. This can compromise your data and device performance.
 
 In this article, you’ll explore practical methods on **h ow to take a virus off your phone**. From simple preventive measures to specific solutions, this guide aims to equip you with practical strategies, ensuring a safer and smoother mobile experience by safeguarding your phone against the perils of viruses.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![phone with virus logo](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-01.jpg)
 
 ## Part 1: Why You Get Mobile Viruses in the First Place
@@ -160,6 +165,10 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![firmware download complete](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** Once the process is completed, choose **Done.** Your phone should be virus-free by now.
 
 ![repair complete](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
@@ -185,9 +194,6 @@ For iPhones, here’s how you can do it:
 
 ![ios safe mode](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Downloading Anti-Virus Software
 
 Anti-virus software works like a shield, protecting your phone from sneaky viruses and malware. Here are three recommended anti-virus apps that you should try out. They’re available on both the Google Play Store and App Store. So, regardless of what device you’re using, you’re sure to be safe with these:
@@ -195,6 +201,10 @@ Anti-virus software works like a shield, protecting your phone from sneaky virus
 - Avast Anti-virus – Mobile Security
 - Norton 360: Online Security
 - Bitdefender Mobile Security & Anti-virus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Performing a Factory Reset
 
@@ -207,6 +217,10 @@ Generally, the Factory Reset option should be in **Settings > General & Backup a
 IOS devices should be under **Settings > General > Transfer or Reset iPhone**.
 
 ![ios transfer or reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Remember, each method has its strengths and weaknesses. Dr.Fone is quick and effective, Safe Mode is limited but useful, anti-virus apps can protect, and a Factory Reset gives a clean slate. Try these methods to zap those viruses away!
 
@@ -227,8 +241,6 @@ Viruses can make your phones act weird, but you have the tools to fight back. Ke
 
 And, if you’re thinking, “**How do I get a virus off My Samsung Galaxy A23 5G?**” then Wondershare Dr.Fone is a reliable hero. It’s quick and effective in clearing out those bugs. By staying aware and taking preventive steps, you can keep your phone safe and ensure a trouble-free experience. And if viruses strike, Dr. Fone’s got your back for an instant fix!
 
-
-
 ## Gmail Not Working on Samsung Galaxy A23 5G: 7 Common Problems & Fixes
 
 Ever since Android is introduced, it has almost eliminated the need of computers to work through Gmail. Gmail carries much importance especially when you’re a working person. A lot of work is done through mails on daily basis. But maybe today is not your lucky day. Maybe Gmail is giving you a hard time today. Is it? Is your Gmail not responding or keeps stopping you from going further? Well! There is no need to be bothered anymore. We are discussing some of the general Gmail problems along with their fixes. So, if your Gmail is not working on Android, you can go through this article and find the relevant solution.
@@ -245,6 +257,10 @@ The first thing you can do to fix Gmail not responding issue is to clear the cac
 
     ![gmail not working android - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Now, from the apps list, search “Gmail” and tap on it.
 
     ![gmail not working android - search gmail](https://images.wondershare.com/drfone/article/2019/04/clear-cache-gmail-2.jpg)
@@ -256,6 +272,10 @@ The first thing you can do to fix Gmail not responding issue is to clear the cac
 ### Restart the Samsung Galaxy A23 5G device
 
 Restarting the Samsung Galaxy A23 5G device in the first place simply resolves many problems and so in the instance when Gmail keeps stopping. Simply long press the power button of your device and restart the Samsung Galaxy A23 5G device. See of the problem gets vanished or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Factory Reset the Samsung Galaxy A23 5G device
 
@@ -286,9 +306,6 @@ When still the Gmail not working issue persists and you can’t sync, make sure 
 1. Launch the Gmail app and tap on the menu icon (three horizontal lines).
 2. Tap “Settings” and choose your account.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![Gmail crashing on Android - find settings](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-1.jpg)
 
 3. Check the box next to “Sync Gmail” if it’s not checked.
@@ -345,6 +362,10 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 
 Now, here is another annoying problem that doesn’t let Gmail working on Android properly. This problem addresses the situation where users send a mail but it gets stuck on sending. If this is the problem that you are going through, the following solutions will help you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Try Alternative Gmail Address
 
 First of all, if Gmail is not working due to stuck in sending issue, we advise you to make use of some other Gmail address to send the mail. If the problem still occurs, jump to the next solution.
@@ -367,6 +388,10 @@ Large attachments can also be the reason for this issue. We would here like to s
 
 Many times, the users get the error that says “Account not synced” while they try to work with Gmail. And this is the 6<sup>th</sup> problem we are introducing. The ways mentioned below will assist to get out of the trouble.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Make Space in the Phone
 
 When Gmail stops to further the process by prompting “Accounts not synced” issue, be sure that your Samsung Galaxy A23 5G has some storage in it. If not, create it straight away. As we also mentioned in one of the above solutions, you can either delete the unnecessary files or transfer the important files to the PC to make the space in the phone. Go along with this tip and see if it works.
@@ -385,8 +410,9 @@ As another solution, check Gmail sync settings to get the issue fixed.
 ![Gmail not responding - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Restart the Samsung Galaxy A23 5G device
 
 If the above method went futile, simply restart your device. Take help of the Power button on your device. Long press it and from the options, restart it. This will hopefully work for you.
@@ -403,9 +429,6 @@ It is a universal method to fix minor Android system issues. And here too, we wo
 
 Usually all the apps start running slow when the Samsung Galaxy A23 5G device is not having sufficient space. As the apps need space to function quickly and appropriately, having the Samsung Galaxy A23 5G device on low storage can prove to be a bad luck for Gmail. So, make sure you wipe out the items you no longer needed on your device and create some room so that the Gmail responds nicely and won’t be running slow anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Update Gmail App
 
 As the last tip that will indeed help you is to update the Gmail app. Until you update the app when required, Gmail keeps stopping you from working and you will definitely get frustrated. Therefore, go to Play Store and look for the Gmail update. If it is available, welcome it with smile and bid farewell to the problem of slow running Gmail.
@@ -424,7 +447,6 @@ Fix all Gmail issues caused by Android system:
 - Gmail app crashing or stopping
 - Gmail app not responding
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -437,9 +459,26 @@ Fix all Gmail issues caused by Android system:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-starting-a-vlog-the-must-have-equipmentsoftware/"><u>[Updated] Starting a Vlog The Must-Have Equipment/Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-talking-texts-a-beginners-guide-to-animated-instagram-captions/"><u>[Updated] Talking Texts A Beginner's Guide to Animated Instagram Captions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-finding-your-ideal-screen-recorder-obs-or-fraps/"><u>2024 Approved Finding Your Ideal Screen Recorder OBS or Fraps?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-high-disk-usage-caused-by-microsoft-telemetry-on-windows-10-systems/"><u>How to Fix High Disk Usage Caused by Microsoft Telemetry on Windows 10 Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-x50-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from X50</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-13-pro-without-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 13 Pro without itunes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-bridging-worlds-unveiling-the-best-31-platforms-for-cross-language-video-conversion/"><u>In 2024, Bridging Worlds Unveiling the Best 31 Platforms for Cross-Language Video Conversion</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-languages-made-easy-googles-choice-mondly/"><u>Navigating Languages Made Easy: Google's Choice Mondly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-x-fold-2-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo X Fold 2? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-infinix-smart-7-hd-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Smart 7 HD Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-10-4g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 10 4G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y100-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y100 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/speedy-execution-tactics-for-fb-video-success-for-2024/"><u>Speedy Execution Tactics for FB Video Success for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/swift-solutions-for-recording-video-talks/"><u>Swift Solutions for Recording Video Talks</u></a></li>
+</ul></div>
 

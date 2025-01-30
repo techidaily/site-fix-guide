@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor X7b? | Dr.fone
-date: 2024-07-14T05:47:06.032Z
-updated: 2024-07-15T05:47:06.032Z
+date: 2025-01-26T17:07:08.714Z
+updated: 2025-01-29T19:41:25.856Z
 tags: 
   - problems
 categories:
@@ -30,7 +30,15 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Stuck at the Boot Loop
 
@@ -55,6 +63,10 @@ After the process is completed, select “Reboot System” which is the first op
 This method will help you erase all the clogged up and unwanted files. You may loose some App related data, but that is a small price to pay to fix your bricked phone.
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Booting straight into recovery mode
 
@@ -84,6 +96,10 @@ This might take a few minutes of your time, but once the process is complete, re
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
@@ -105,8 +121,6 @@ So if you're still thinking about why won't My Honor X7b charge, read on to find
 While you are upset over ‘why My Honor X7b won't charge?’, would you mind us helping you around?
 
 Well, we have got [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) at your fingertips to get rid of this annoying phone won't charge issues (caused by system corruption). Whether the Honor X7b device froze or became unresponsive, bricked, or got stuck on the Honor X7b logo/blue screen of death or apps started crashing. It can fix every Android system problem.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -156,9 +170,6 @@ Step 3: Now, Dr.Fone - System Repair (Android) would verify the firmware and the
 
 ![Android phone won’t charge issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. 10 common ways to fix Android won't charge
 
 ### 1\. Check/replace charging cable
@@ -168,6 +179,10 @@ Charging cables fray or become defunct after prolonged usage. Therefore, it is a
 It is also very commonly observed that the charging end of the cable which gets connected to the charging port of the Honor X7b device gets damaged and prevents the current from flowing to the phone/tablet.
 
 ![charging cable](https://images.wondershare.com/drfone/article/2017/06/14985459762305.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Check/clean charging port
 
@@ -221,6 +236,10 @@ Restarting a device is simple and can be done by following the steps given below
 
 To restart your device, you may also press the power button for about 20-25 seconds for the phone/tablet to automatically reboot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Download and install the Ampere App
 
 The Ampere app can be downloaded from the Google Play Store. It is very helpful to fix the why won't my charge error as it gives you real-time information about your device’s battery consumption, charging status, and other essential data.
@@ -240,8 +259,9 @@ To check for and install updates on your device, you must be connected to WiFi o
 If there is an update available, you will be prompted to download it. Just follow the instructions given before you install a brand new Android OS version on your device.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 9\. Factory reset your device
 
 Factory Reset is must be done after due deliberation. Remember to take a back-up of all your data and contents on the cloud or an external memory device, such as a pen drive before adopting this method because once you perform a factory reset on your device, all media, contents, data and other files are wiped out, including your device settings.
@@ -262,7 +282,15 @@ Follow the steps given below to factory reset your device:
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/06/14985012764216.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: Once the factory reset process is complete, your device will automatically restart and you will have to set it up once again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10\. Replace your battery
 
@@ -281,8 +309,6 @@ It can occur while you launch the app or while you’re in the app already findi
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -388,9 +414,6 @@ Many a times, we skip updating our device software thinking it is of less import
 1. First and foremost, head on to “Settings” menu. Over there, click on “About Device”.
 2. There, you need to tap over “Software Update”.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
@@ -413,9 +436,6 @@ Do you happen to exchange voicemails quite often? It can trigger to be the reaso
 2. From there, duly opt for “Voicemail”.
 3. Just click on the press menu option and at last select “Delete” option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.8 Uninstall the downloaded apps
 
 Some applications contain some unwanted advertisements and some elements of malware. This can be enough for disrupting the functionality of the built-in contact app won’t open. It is crucial for your phone to be detoxed from such elements. You need to manually scrap off such applications. Do, ensure to download the application from the genuine source for future use.
@@ -429,9 +449,6 @@ Now, check whether you’ve fought the battle with the problem or not.
 
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### 2.9 Reset to Factory Settings
 
 Last but not least, if all the methods falls flat to resolve the issue of contacts app won’t open. Then, it might be your device has some internal problem. This can be any software crash which might not be fixing with the aforementioned steps. That is where reset to factory settings may prove to be a good option. With this method, your phone will be cleared of all the components, settings and everything present in it. Here are is the comprehensive tutorial for biding bye to the problem of contacts app won’t open.
@@ -444,8 +461,9 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -459,9 +477,23 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-the-mystery-of-storing-instagram-videos-pc-and-mac-users-guide/"><u>[Updated] Unlocking the Mystery of Storing Instagram Videos (PC & Mac Users Guide)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/easily-share-your-camera-roll-in-a-snap-tips-and-tricks-for-2024/"><u>Easily Share Your Camera Roll in a Snap - Tips & Tricks for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/font-loading-made-simple-how-to-enrich-your-iphones-typography/"><u>Font Loading Made Simple: How to Enrich Your iPhone's Typography</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-gear-checklist-for-youtube-success/"><u>In 2024, Essential Gear Checklist for YouTube Success</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/internet-sanctions-top-3-locations-where-facebook-is-forbidden/"><u>Internet Sanctions: Top 3 Locations Where Facebook Is Forbidden</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-tecno-camon-20-premier-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Camon 20 Premier 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-reno-9a-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Reno 9A Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/retrospective-review-exploring-the-new-dimensions-in-ratchet-and-clank-classic/"><u>Retrospective Review: Exploring the New Dimensions in Ratchet & Clank Classic</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-dj-charts-of-the-past-a-look-back-at-purely-silks-best-moments-in-2018/"><u>Top DJ Charts of the Past: A Look Back at Purely Silk's Best Moments in 2018</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211066385-9789359043630-unveiled-mysteries/"><u>Unveiled Mysteries | Free Book</u></a></li>
+</ul></div>
 

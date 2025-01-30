@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Google Pixel 8 ? Fix It Easily | Dr.fone
-date: 2025-01-19T16:13:40.734Z
-updated: 2025-01-22T16:05:03.767Z
+date: 2025-01-29T01:50:50.955Z
+updated: 2025-01-29T17:50:39.730Z
 tags: 
   - problems
 categories:
@@ -35,10 +35,6 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
 
@@ -143,6 +139,10 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Restore a Bricked Google Pixel 8 Back to Operation
 
 In moments of lag or freezing on your Android, you might **brick Your Google Pixel 8,** which can be unsettling. This is more than just the loss of a device. A **bricked cell phone** also involves potential data erasure. Yet, it's crucial to understand the true implications of a **bricked phone**. This page tackles how to address the issue of a bricked Android phone.
@@ -151,16 +151,20 @@ This comprehensive guide aims to the reasons behind Android phones becoming bric
 
 ![man holding a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. What are Brick Phones: At a Glance
 
 The term "**bricked phone**" is used when a device becomes non-functional. This is typically due to a critical software or firmware error. There are two distinct scenarios for encountering a bricked phone: a soft brick and a hard brick.
 
 - **Soft Brick**. A soft brick entails a phone that's not operational due to software glitches or conflicts but is not irreparable.
 - **Hard Brick**.A hard brick signifies a more dire situation. This is where the phone becomes inoperable, resembling an actual brick in terms of functionality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Common Causes of a Cell Phone Bricking
 
@@ -185,6 +189,10 @@ Installing malicious, incompatible, or poorly coded apps can lead to a soft bric
 #### Others
 
 Several less common factors can also contribute to bricking. Overclocking, attempting to modify the bootloader, or tampering with system files can lead to disastrous consequences. Hardware issues, such as faulty memory or battery problems, might also manifest as bricked devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Unbricking Methods and Tools
 
@@ -216,6 +224,10 @@ Dr.Fone - System Repair (Android) empowers you to resolve a range of prevalent A
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,039,461** people have downloaded it
 
 ### Key Features
@@ -242,6 +254,10 @@ Dr. Fone – System Repair (Android) is a great solution with numerous tools to 
 - Utilizing the app for system repair is an effortless and speedy process. It doesn't take up much time to revive your **bricked phone**so you can use it right away.
 - The System Repair toolkit only needs you to click on a few buttons. Combined with its clean UI and speedy process, using the app is a breeze.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. How To Revive a Bricked Phone Using Dr.Fone – System Repair (Android)
 
 Below are the steps to recover data on a bricked mobile phone.
@@ -249,10 +265,6 @@ Below are the steps to recover data on a bricked mobile phone.
 - **Step 1**: Download and install Dr.Fone – System Repair (Android) on your computer. Launch the app and select **System Repair.** Next, choose Select **Android** as the Google Pixel 8 device type. Then, connect to your Google Pixel 8. Choose **Phone Brick** as the Android problem and click **Start.**
 
 ![connect brick phone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2**: Select the correct device information. Choose the **Brand**, **Name**, **Model**, **Country**, and **Carrier**. Tick the box next to **I agree** button and click **Next** to proceed to the next step.
 
@@ -286,10 +298,6 @@ This is mainly due to geographical restrictions that are often imposed by develo
 
 Encountering the "**Google Play App Not Available in Your Country**" issue can feel like hitting a roadblock. This restriction hampers your ability to explore and use valuable apps. It can also disrupt the smooth functioning of your daily digital activities. Before going for solutions, it is crucial to understand the reasons causing this restriction in installing apps on smartphones:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Regional Restrictions
 
 One of the primary culprits behind this issue is the regional restrictions imposed by developers. Developers often roll out their apps gradually across different regions. It is done to adhere to legal and licensing requirements. This staggered release strategy ensures compliance with local laws. Moreover, it guarantees a smooth user experience tailored to specific geographical locations.
@@ -298,13 +306,13 @@ One of the primary culprits behind this issue is the regional restrictions impos
 
 Licensing agreements and legal constraints play an important role when it comes to the accessibility of apps. Developers may encounter licensing issues. This can prevent them from offering their apps in certain regions. It is due to copyright, trademark, or other legal considerations. Navigating the complex web of international laws and agreements is a big hassle. It becomes a determining factor in the availability of apps on the Play Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Localization Challenges
 
 Apps are often designed with specific markets in mind. These incorporate language, cultural, and regulatory considerations to enhance user experience. The absence of proper localization can render an app incompatible with specific regions. It includes factors such as adapting the app for different languages, currencies, and cultural nuances. This can result in the app being excluded from the **Play Store app not available in your country.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Device and OS Compatibility
 
@@ -326,10 +334,6 @@ One of the most direct ways to address this issue is by manually adjusting your 
 
 ![general settings play store](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Within the "General" tab, move towards "Account and device preferences" and tap it. There, select "Country and profiles" and tap the country to change it. Now, follow the on-screen prompts to complete the procedure.
 
 ![update residence country](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-2.jpg)
@@ -348,13 +352,13 @@ You can utilize a reliable VPN to access the Play Store as though you were in a 
 
 ![clear play store cache](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Go back to the “App info” screen and press "Force Stop" to force close the app. Afterward, relaunch the Play Store and access your targeted apps.
 
 ![try force stopping app](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Download an APK File
 
@@ -369,7 +373,7 @@ One way to resolve the issue at hand is to sideload the app by downloading its A
 ![install apk on device](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Try a Third-Party App Store
@@ -380,10 +384,6 @@ Google Play Store isn't the only apps and games store. There exist many options,
 
 ![aptoide app store](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Open the third-party app store and look for your targeted apps. Now, you should be able to download them without any restrictions.
 
 ![install app in aptoide](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-9.jpg)
@@ -393,6 +393,10 @@ Google Play Store isn't the only apps and games store. There exist many options,
 If the Play Store is not working on your Google Pixel 8s or an application is not downloading from it, we have a tip for you. [<u>Wondershare Dr.Fone – System Repair (Android)</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) is a perfect solution for all the issues for your Google Pixel 8s. Whether it is the Play Store functionality issue or the downloading of applications problem, System Repair (Android) is there to resolve them.
 
 It fixes various Android issues in a matter of a few seconds. This toolkit has a high success rate of fixing Android issues, including the Play Store Not Working issue. It can also resolve the issue of [<u>Apps Keep Crashing</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html), [<u>Phone Stuck in a Boot Loop</u>](https://drfone.wondershare.com/android-issue/boot-loop-android.html), and much more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -438,10 +442,6 @@ Once the phone has been put in the Download Mode, the firmware will download aut
 
 ![repair process completed](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,289,252** people have downloaded it
@@ -480,17 +480,16 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-captivating-gamer-content-through-obs-streaming/"><u>[New] 2024 Approved Captivating Gamer Content Through OBS Streaming</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-craft-memes-for-comedy-using-adobe/"><u>[Updated] 2024 Approved Craft Memes for Comedy Using Adobe</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comment-activer-le-gestionnaire-des-taches-si-ladministration-la-desactive/"><u>Comment Activer Le Gestionnaire Des Tâches Si L'Administration L'a Désactivé</u></a></li>
-<li><a href="https://extra-information.techidaily.com/djis-sky-high-creativity-with-pro-drone-review/"><u>DJI's Sky-High Creativity with Pro Drone Review</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-z-flip-5-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy Z Flip 5 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/how-to-transfer-photos-and-videos-from-iphone-to-pc-on-windows-11-10-8-and-7/"><u>How to Transfer Photos and Videos From iPhone to PC on Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-depth-analysis-the-power-of-quantum-hdr/"><u>In-Depth Analysis The Power of Quantum HDR</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-f34-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy F34 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-note-12-pro-4g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 12 Pro 4G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-master-video-cutting-and-splicing-with-vimeo-for-free/"><u>[New] In 2024, Master Video Cutting & Splicing with Vimeo, for Free</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1968-coogans-bluff-with-eastwood-as-the-title-character-sheriff-wally-coogan-who-is-assigned-to-escort-an-informant-back-to-new-york-city-from-a-small-town-56/"><u>1968 - Coogan's Bluff, with Eastwood as the Title Character, Sheriff Wally Coogan Who Is Assigned to Escort an Informant Back to New York City From a Small Town in Arizona. The Film Was Based on Edward L. Norton Jr.'s 1965 Novel ''Drag Murder''</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-weekly-must-watch-excellence-in-igtv/"><u>2024 Approved Weekly Must-Watch Excellence in IGTV</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-rid-of-filmora-watermark-with-or-without-subscription-for-2024/"><u>Get Rid of Filmora Watermark With or Without Subscription for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-10t-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme 10T 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-v30-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted V30 Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/leveraging-keywords-and-metadata-in-podcast-seo/"><u>Leveraging Keywords and Metadata in Podcast SEO</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-lava-blaze-curve-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Lava Blaze Curve 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-v30-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V30 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-navigating-around-troublesome-loading-screens-problem-solved/"><u>Red Dead Redemption Navigating Around Troublesome Loading Screens – Problem Solved</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 </ul></div>
 

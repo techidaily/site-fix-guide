@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy XCover 7 | Dr.fone
-date: 2024-07-14T05:45:22.864Z
-updated: 2024-07-15T05:45:22.864Z
+date: 2025-01-25T19:37:47.494Z
+updated: 2025-01-29T18:37:16.866Z
 tags: 
   - problems
 categories:
@@ -172,9 +172,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -184,9 +181,6 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -206,8 +200,9 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data backup with Dr. Fone is simple and quick.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -228,9 +223,6 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 
 If you're asking **why is my Android phone in black and white**, then you're in luck. Dive into the article below to unravel the causes behind your phone's black-and-white display. Discover insights on addressing this unexpected issue, enhancing your overall mobile experience.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![girl pointing at phone with problem](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-01.jpg)
 
 ## Part 1. Phone Screen in Black and White? Easy Fixes for Android Devices
@@ -238,6 +230,10 @@ If you're asking **why is my Android phone in black and white**, then you're in 
 Discovering your Samsung Galaxy XCover 7 going monochrome can be annoying. The section below answers the question: **why did my Samsung Galaxy XCover 7 phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
 
 ![phone display in black and white](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Accessibility Settings
 
@@ -284,6 +280,10 @@ In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnosti
 
 ![broken android screen](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Seek professional assistance or contact the Samsung Galaxy XCover 7 device manufacturer if hardware problems are suspected.
 
 Consider a reliable third-party tool if your phone persists in black and white despite troubleshooting attempts. Tools such as [Dr.Fone System Repair Android](https://drfone.wondershare.net/android-repair.html) offer advanced solutions for complex system issues. They ensure your phone regains its vibrant display without a hitch.
@@ -309,6 +309,10 @@ Repair Android System Errors without Any Trouble.
 - **Step 1:** Download and install Dr.Fone. Launch the program and click on **System** **Repair** on the main window. Connect your Samsung Galaxy XCover 7 to the computer using the correct cable. Choose **Android** among the options.
 
 ![dr.fone android repair window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -420,6 +424,10 @@ In this guide, discover reliable solutions when your **Google Play Store is not 
 
 ![woman annoyed on phone not working](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I. 7 Common Google Play Store Issues Users Encounter
 
 The Google Play Store serves as the epicenter for Android users. It facilitates seamless access to a vast array of apps. However, encountering issues with the platform can impact the functionality of your device. Below are 7 common issues on why your **Google Play Store is not responding**.
@@ -449,6 +457,10 @@ Problems with authentication and account access can lock users out of their Goog
 ### Update Problems
 
 [<u>Difficulties in updating apps </u>](https://drfone.wondershare.com/samsung/install-uninstall-update-samsung-kies-on-pc.html) can leave users with outdated software. It can potentially compromise security and miss out on new features. The issue diminishes the user experience by depriving you of the latest enhancements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Connection and Network Errors
 
@@ -490,6 +502,10 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
@@ -503,6 +519,10 @@ Restore your device's app settings to default for improved functionality. Below 
 
 ![resetting app preferences on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Re-add Google Account
 
 Resolve Play Store issues by re-adding your Google account. Follow these steps in **Settings** to remove and re-add your Google account, ensuring a seamless and error-free experience.
@@ -511,6 +531,10 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 - **Step 2:** Select **Google** and remove the account. Re-add the Google account and verify if the Play Store functions properly.
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Uninstall Play Store Updates
 
@@ -528,9 +552,6 @@ Ensure your device's overall stability by performing a system update to ensure t
 - **Step 1:** Access **Settings**, scroll down, and select **System** or **Software Update**.
 - **Step 2:** Next, choose **System update** or **Check for Updates** and install any available system updates**.**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![perform system update on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-10.jpg)
 
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
@@ -552,6 +573,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
 
 ![dr.fone device information window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Simply click **Done** on the prompt window displaying a confirmation message to exit the tool if your Samsung Galaxy XCover 7 starts successfully. In the event that the Samsung Galaxy XCover 7 device fails to start, select **Try Again** to initiate the process once more.
 
@@ -580,9 +605,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -595,9 +617,20 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-demystifying-vimeo-top-choice-for-filmmakers/"><u>[New] In 2024, Demystifying Vimeo Top Choice for Filmmakers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-follow-forward-guide-accumulating-1000-likesmonth-on-ig-for-2024/"><u>[New] The Follow-Forward Guide Accumulating 1,000 Likes/Month on IG for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-guide-to-thriving-in-google-meet-chats/"><u>[New] The Ultimate Guide to Thriving in Google Meet Chats</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-sharing-sites-guide-for-instagram-story-and-post-links/"><u>[Updated] 2024 Approved Sharing Sites Guide for Instagram Story and Post Links</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-hear-the-difference-explore-the-best-voice-changer-software-for-smartphones/"><u>[Updated] In 2024, Hear the Difference Explore the Best Voice Changer Software for Smartphones</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-note-30-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Note 30 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-v27-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo V27 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/podcasters-playlist-the-best-music-spots-to-open-your-ears-for-2024/"><u>Podcaster’s Playlist The Best Music Spots to Open Your Ears for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-s18-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo S18 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Itel P40+ | Dr.fone</u></a></li>
+</ul></div>
 

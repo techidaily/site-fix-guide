@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy A34 5G? | Dr.fone
-date: 2024-07-14T05:49:36.316Z
-updated: 2024-07-15T05:49:36.316Z
+date: 2025-01-26T02:35:51.532Z
+updated: 2025-01-29T16:05:43.859Z
 tags: 
   - problems
 categories:
@@ -22,6 +22,10 @@ If you are confused about the soft brick and hard brick problems and looking for
 
 Read on to find out more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is the difference between soft brick and hard brick?
 
 To begin with, let us understand the basic difference between a soft brick and hard brick issue. Both versions of a bricked phone prevent it from booting but differ in their causes and gravity of the problem.
@@ -30,7 +34,15 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Stuck at the Boot Loop
 
@@ -55,6 +67,10 @@ After the process is completed, select “Reboot System” which is the first op
 This method will help you erase all the clogged up and unwanted files. You may loose some App related data, but that is a small price to pay to fix your bricked phone.
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Booting straight into recovery mode
 
@@ -90,13 +106,15 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## How To Deal With the Samsung Galaxy A34 5G Screen Black But Still Works?
 
 With the advance of technology over the years, many of us rely on smartphones to communicate, work, and play. As such, it can be pretty concerning when your device begins to act strange like your **phone screen suddenly went blank**.
 
 ![phone screen is black but still works intro](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Whether you’re using an iPhone or an Android device, you’ll eventually encounter a problematic symptom like this. Therefore, this article will explore **what to do when your phone screen goes black**. After exploring below, you’ll learn the common causes of why your **phone screen went black** and how to fix it. Read on below to learn more.
 
@@ -104,9 +122,6 @@ Whether you’re using an iPhone or an Android device, you’ll eventually encou
 
 Experiencing a **cell phone blank screen** is not exclusive to Android or iOS users. A **phone screen not turning on** happens all the time due to several factors that may or may not be out of your control. While they can be frustrating, here are some common causes you should know as to why **your phone screen went black but still works.**
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### A Drained Battery
 
 The first thing that comes to mind when your **phone screen suddenly goes black** is you have a drained battery. Even though this is obvious, it’s still important to mention, as this is usually what most people encounter. To fix this problem, plug your smartphone into a charger and wait for your device to turn on again. If it works, then you just prevented a rather annoying experience.
@@ -121,13 +136,14 @@ If your **phone is working, but the screen is black,** there’s also a high pro
 
 A potential reason why **your phone screen went black but still works** could be because of your smartphone’s software. This problem suggests that your Samsung Galaxy A34 5G is crashing, potentially freezing your device if not addressed immediately. If this is the cause, then your device is likely experiencing a critical system error, and you should directly try to reboot your phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Hardware Problem
 
 If you dropped your phone, there’s a high chance the LCD connectors went loose due to the physical impact. If this happened to you, the phone might be working, but the screen is black due to the LCD cable dislodging. Another issue could be your phone got exposed to extreme temperatures. This can also cause a **black screen but your phone is still on.**
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![loose samsung galaxy lcd](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-03.jpg)
 
 ## Part 2: How To Fix Black Screen on Your Phone
@@ -218,6 +234,10 @@ If **your phone screen went black but still works** and doing the methods above 
 
 ![drfone system repair main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features
 
 Dr.Fone – System Repair for iOS and Android has fantastic features you can immediately take advantage of. Here are its key features below.
@@ -245,9 +265,6 @@ Meanwhile, here are the system requirements for Dr.Fone – System Repair (iOS).
 | Windows 11, 10, 8.1, 8, 7 | Supports all iOS versions, including the latest iOS 16 and iOS 16 beta |
 | macOS 12, 11, 10.15, 10.14, 10.13, 10.12, 10.11, 10.10, 10.9, 10.8 |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pros and Cons
 
 If you’re still undecided about Dr.Fone – System Repair, here are its pros and cons.
@@ -296,9 +313,6 @@ Embracing the convenience of Android Auto enhances your driving experience. It s
 
 In this guide, you’ll delve into the common problems users face when **Android Auto does not work** and provide practical solutions to get you back on the road smoothly. From troubleshooting software glitches to addressing hardware concerns, this article aims to equip you with the knowledge to tackle **Android Auto problems** effectively.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android and car logo](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-01.jpg)
 
 ## Part 1. A Briefer on Android Auto
@@ -314,6 +328,10 @@ Android Auto connects your smartphone to your car’s infotainment system via US
 By integrating familiar smartphone functionalities into your car, Android Auto aims to provide a safer and more enjoyable driving experience, reducing the need for manual phone interactions while on the road. Understanding this foundation will empower you to effectively troubleshoot when issues arise.
 
 ![android auto and apple carplay](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Common Issues Android Auto Faces + Troubleshooting/Repair
 
@@ -333,11 +351,19 @@ If specific apps refuse to cooperate, a quick remedy is to restart the head unit
 
 ![google maps needs location permission](https://images.wondershare.com/drfone/article/2023/11/android-auto-does-not-work-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screen and Display Problems (Head Unit)
 
 Issues with the screen or display on your car’s head unit can be disconcerting. To troubleshoot, commence with a simple restart of the head unit.
 
 If the problem lingers, escalate the solution by restarting the entire car. Should these steps prove ineffective, seeking professional assistance at a maintenance center is advisable. This ensures a thorough examination and potential resolution of [<u>hardware-related problems</u>](https://drfone.wondershare.com/device-diagnostics/best-apps-for-android-hardware-test.html), providing a comprehensive fix for persistent screen and display issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Voice Commands Not Working
 
@@ -365,9 +391,6 @@ To use Dr. Fone’s System Repair feature, follow the steps below. These steps w
 
 - **Step 1:** Begin by launching Dr.Fone on your computer. From the left panel, access the Toolbox menu and click **System Repair**. Ensure your Samsung Galaxy A34 5G is connected.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,014,082** people have downloaded it
@@ -406,7 +429,6 @@ In wrapping up this guide, you’ve explored common reasons **Android Auto does 
 
 By staying proactive, you ensure a consistently smooth ride with Android Auto. For comprehensive system repair and addressing broader Android-related needs, consider trying out Dr.Fone. It’s a versatile tool that can enhance your Android experience and keep your digital journey hassle-free. Take control of your drive and explore the full potential of your Samsung Galaxy A34 5Gs with Dr.Fone today.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -419,9 +441,20 @@ By staying proactive, you ensure a consistently smooth ride with Android Auto. F
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-video-presentation-with-these-7-free-makers-for-2024/"><u>[Updated] Elevate Your Video Presentation with These 7 Free Makers for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-8-android-fixes-for-time-lags-in-videos/"><u>[Updated] In 2024, Top 8 Android Fixes for Time-Lags in Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-jest-jar-compreenas-best-no-cost-templates/"><u>[Updated] Jest Jar Compreenas Best No-Cost Templates</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-transform-video-quality-on-tiktok-2-ways-for-2024/"><u>[Updated] Transform Video Quality on TikTok (2 Ways) for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-note-30-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Note 30 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a59-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A59 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/prime-pixels-selecting-cameras-for-quality-slow-videos-for-2024/"><u>Prime Pixels Selecting Cameras for Quality Slow Videos for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screen-capture-power-play-apowsort-reviewed-and-comparisons-made/"><u>Screen Capture Power Play Apowsort Reviewed & Comparisons Made</u></a></li>
+</ul></div>
 

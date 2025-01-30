@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo X100 | Dr.fone
-date: 2024-07-14T05:45:59.987Z
-updated: 2024-07-15T05:45:59.987Z
+date: 2025-01-27T21:47:40.523Z
+updated: 2025-01-30T02:09:40.863Z
 tags: 
   - problems
 categories:
@@ -32,6 +32,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - Vivo X100 ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
 You may experience a variety of touch screens not working on Android issues:
@@ -56,9 +60,6 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 
 If you have already tried running the Vivo X100 device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Vivo X100’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -90,8 +91,9 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -106,18 +108,6 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 4:**** You will then find the switch to turn it on or off. Disable itby toggling the button off.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
@@ -133,6 +123,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -190,6 +184,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -208,9 +206,6 @@ Dr.Fone – System Repair is a data management and recovery tool that contains s
 - A high success rate for fixing Android system issues
 - Fixes Android system back to normal
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pros
 
 Here are the advantages of using Dr.Fone – System Repair:
@@ -234,8 +229,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Vivo X100 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## How to Fix It: Vivo X100 Won't Turn On
 
 Did your Vivo X100 decide to go on vacation and refuses to turn on? If your Vivo X100 won’t turn on for no apparent reason, finding why it failed to power on and the solution for it is not a fun process.
@@ -257,8 +250,6 @@ If you cannot find any reason why your Vivo X100 will not switch on, here are so
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -321,8 +312,6 @@ After repeated attempts, when your Android mobile/tablet stops buzzing, what opt
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 The real fix to issues like "Android phone will not switch on"
@@ -343,6 +332,10 @@ Step 1: Run Dr.Fone on your computer once the installation is complete and tap t
 
 ![fix Android Phone not turn on by repairing system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
 ![star to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -350,6 +343,10 @@ Step 2: You will find a range of options, tap on the ‘Android Repair’ one. H
 Step 3: Now, over the Vivo X100 device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
 ![go to SMS to export text messages](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Phase 2: Enter ‘Download’ mode for fixing your Vivo X100**
 
@@ -370,6 +367,10 @@ Step 2: Hitting the ‘Next’ key will allow you to download firmware and proce
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Android Phone Won't Turn On: **Common Fix**
 
@@ -453,8 +454,6 @@ They are easy, user-friendly, and do not take much of your time. So don not wast
 
 If you’re still encountering the Parsing error, there may be a problem with the Vivo X100 device data on your device, which means you’ll need to repair it. Luckily, there’s a simple, one-click solution you can follow called [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/).
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix all android system issues in one click
@@ -479,11 +478,12 @@ Input your device and firmware information to confirm you’re installing the ri
 
 ![select device model info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #2** Follow the onscreen instructions on how to get into Download Mode to start the Repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix problem parsing the package in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Once complete, the firmware will start downloading.
@@ -495,6 +495,10 @@ Once complete, the firmware will start downloading.
 When this is completed, you’ll be free to disconnect your Vivo X100 and use it how you please without the ‘there is a problem with the parsing package’ error.
 
 ![repairing android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **2.2 Allow installation from unknown sources**
 
@@ -521,6 +525,10 @@ To enable USB Debugging to fix “There is a problem parsing the package” erro
 • Once you see a pop-up saying “You are now a developer”, go back to “Settings”.
 
 ![go back to “Settings”](https://images.wondershare.com/drfone/article/2017/06/14985108996306.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 • In this step, select “Developer Options” and turn on “USB Debugging”.
 
@@ -582,7 +590,6 @@ The whole process of factory resetting your Vivo X100 might sound tedious, risky
 
 Parse Error: There was a problem parsing the package is an error message that has troubled many Android users. The good part is that the above-stated fixes not only solve the problem but also prevent it from occurring in the future. So, keep them in mind the next time you or anyone you know faces such an issue.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -595,9 +602,22 @@ Parse Error: There was a problem parsing the package is an error message that ha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-3-step-financial-forecasting-assessing-revenue-from-googles-platform-youtube/"><u>2024 Approved 3-Step Financial Forecasting Assessing Revenue From Google's Platform, YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-gionee-f3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Gionee F3 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-tips-streamline-mac-screen-captures-using-keyboard-tricks/"><u>Essential Tips Streamline Mac Screen Captures Using Keyboard Tricks</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-next-level-wifi-with-our-in-depth-review-of-the-netgear-nighthawk-x10-ad7200-router/"><u>Experience Next-Level WiFi with Our In-Depth Review of the Netgear Nighthawk X10 (AD7200) Router</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-new-sas-driver-for-your-windows-pc-supports-windows-1087-systems/"><u>Get the New SAS Driver for Your Windows PC - Supports Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hp-envy-27-4k-usb-c-monitor-review-for-2024/"><u>HP Envy 27 4K USB-C Monitor Review for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-enhance-your-films-with-these-vfx-sites/"><u>In 2024, Enhance Your Films with These VFx Sites</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-note-30-vip-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-moto-g14-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Moto G14 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-y100-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y100 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-x50iplus-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor X50i+ ? Fix It Easily | Dr.fone</u></a></li>
+</ul></div>
 

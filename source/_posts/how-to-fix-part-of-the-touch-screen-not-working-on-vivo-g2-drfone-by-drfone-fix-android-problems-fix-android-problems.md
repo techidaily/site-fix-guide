@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo G2 | Dr.fone
-date: 2024-07-14T05:45:45.327Z
-updated: 2024-07-15T05:45:45.327Z
+date: 2025-01-24T23:45:31.271Z
+updated: 2025-01-29T22:08:17.600Z
 tags: 
   - problems
 categories:
@@ -116,6 +116,10 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
@@ -134,9 +138,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 2:**** Connect your Vivo G2 or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
@@ -184,9 +185,6 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -213,6 +211,10 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
@@ -224,6 +226,10 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 “**Can’t take screenshots due to security policy**” is a screenshot restriction on your Android smartphone. You’ve probably seen this error message before, especially when taking screenshots of banking or video streaming apps. But why do apps and websites block screenshots? It’s actually for your good.
 
 Screenshots can be misused to steal money or pirate copyrighted content. By prohibiting screenshots, apps and websites can help to protect your data and privacy. If you want to learn more, keep reading. This article will explain why apps and websites prevent screenshot capture and why it’s important for security. We’ll also give you tips on how to take photos of apps and websites that don’t let you take screenshots.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Can’t Take Screenshots Due to Security Policy on Android? Here’s Why
 
@@ -265,18 +271,6 @@ Some apps and websites allow users to share private information. Some apps, like
 
 You **can’t take screenshots due to security policy Whatsapp** features, View Once media option. This method stops people from taking pictures of private media chats, protecting users’ privacy.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp screenshot blocked](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-03.jpg)
 
 You Are Using a Secure Folder
@@ -314,6 +308,10 @@ Apps and websites may prohibit screenshots in incognito mode to protect your pri
 - **Step 1:** Open Chrome on your Vivo G2 and type “chrome://flags” in the address bar.
 
 ![chrome experimental flags](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Search for Incognito Screenshot and choose **Enabled** from the drop-down menu.
 
@@ -366,6 +364,10 @@ Still experiencing the error message, “**Can’t take screenshot due to securi
 The module patches the Android framework to remove the FLAG\_SECURE flag from apps. It is a relatively simple process but requires root access and Magisk. This module will turn off the security flag to take screenshots in Incognito mode and other apps.
 
 ![magiskzip disable flag secure module](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Authors Verdict
 
@@ -427,6 +429,10 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 ![android system issue repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 You can fix the “**Can’t take screenshot due to security policy**” error on Android in different ways. But it depends on the cause of the error. If an app is causing the error, you can try two things. First, remove the app’s screenshot restriction. Second, download a different screenshot app or a different device to take screenshots.
@@ -434,8 +440,6 @@ You can fix the “**Can’t take screenshot due to security policy**” error o
 Although there are ways to bypass the “**Can’t take screenshot due to security policy**” error message, it’s crucial to know why screenshots are not allowed. Many apps and websites do not permit it to protect sensitive information, prevent piracy, and follow regulations. They also do it to prevent fraud, protect user privacy, and safeguard intellectual property.
 
 If you think the issue is with your Android system, or your device becomes bricked after trying other methods, experiencing app crashes, or otherwise malfunctioning, try using the Dr.Fone System Repair tool. It is worth trying and can fix most Android system issues in a few minutes.
-
-
 
 ## 7 Solutions to Fix Error Code 963 on Google Play Of Vivo G2
 
@@ -469,8 +473,6 @@ All these reasons and more can handle with ease and you can continue to use Goog
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click to fix Google Play error 963
@@ -495,6 +497,10 @@ Step 1 – To begin fixing error 963, run Dr.Fone after downloading and installi
 Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ and then click the ‘Start’ button.
 
 ![select the android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3 – On the following screen, you need to choose the appropriate details for your device like the name, brand, model, country/region etc. Later, go for warning confirmation and hit ‘Next’.
 
@@ -544,6 +550,10 @@ Visit “Settings” and select “Application Manager”.
 
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984136371337.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now select “All” to see all downloaded and built-in Apps on your device.
 
 Select “Google Play Store” and from the options that appear, tap on “Clear Cache” and “Clear Data”.
@@ -568,6 +578,10 @@ In this step, click on “Uninstall Updates” as shown below.
 
 ![Uninstall Updates](https://images.wondershare.com/drfone/article/2017/06/14984137166252.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **3\. Shift the App from SD Card to device’s memory**
 
 This method is strictly for certain Apps which cannot be updated because they are stored on an external memory card, i.e., SD Card. Such memory enhancing chips do not support large Apps and due to a shortage of space prevents them from updating. It advisable to move such Apps from the SD Card to the Vivo G2 device’s internal memory and then try to update it.
@@ -580,10 +594,11 @@ From “All” Apps click on the App which is unable to update.
 
 Now click on “Move to Phone” or “Move to internal storage” and try to download its update again from the Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![“Move to internal storage”](https://images.wondershare.com/drfone/article/2017/06/14984137603366.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Try updating the App now. If the Apps’s update does not download even now, DO NOT worry. There are three more ways to help you.
 
@@ -599,9 +614,6 @@ Now select “Storage”.
 
 From the options that appear, select “Unmount SD Card” as explained in the screenshot below.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select “Unmount SD Card”](https://images.wondershare.com/drfone/article/2017/06/14984574238529.jpg)
 
 Note: If the App or its update downloads successfully now, do not forget to mount the SD Card back.
@@ -644,7 +656,6 @@ This remedy is as simple as it sounds and has helped many HTC users to get rid o
 
 Google Play Errors are a very common phenomenon these days, especially Error Code 963 which usually occurs in the Google Play Store when we try to download, install or update an App. There is no need to worry if you see Error Code 963 pop-up on your screen as your device and its software are not to be blamed for Error 963 to suddenly surface. It is a random error and can be fixed easily by you. You do not need any technical assistance to deal with the issue. All you need to do is follow the steps introduced in this article to use Google Play Store and its services smoothly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -657,9 +668,21 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-seamless-integration-of-text-with-image-editing-tools-for-2024/"><u>[New] Seamless Integration of Text with Image Editing Tools for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-step-by-step-tutorial-applying-computer-vhs-filters-for-2024/"><u>[New] Step-by-Step Tutorial Applying Computer VHS Filters for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-with-tesla-inspired-cybertruck-by-robomower-surprisingly-impressive-review-on-zdnet/"><u>Experience with Tesla-Inspired Cybertruck by RoboMower: Surprisingly Impressive Review on ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fb-videos-made-quick-proximity-tricks-for-instant-uploaddownload/"><u>FB Videos Made Quick Proximity Tricks for Instant Upload/Download</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-push-more-viewers-to-your-channel-with-easy-tricks-2/"><u>In 2024, Push More Viewers to Your Channel with Easy Tricks (2)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-16-top-rated-avi-video-cutters-for-windows-mac-android-iphone-and-online/"><u>New In 2024, 16 Top-Rated AVI Video Cutters for Windows, MAC, Android, iPhone, and Online</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-a54-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy A54 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-data-centers-micron-releases-ddr5-8800-memory-modules-compatible-with-intel-xeon-6/"><u>Revolutionizing Data Centers: Micron Releases DDR5-8800 Memory Modules Compatible with Intel Xeon 6</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-your-dvd-content-to-youtube/"><u>Step-by-Step Guide: Adding Your DVD Content to YouTube</u></a></li>
+</ul></div>
 

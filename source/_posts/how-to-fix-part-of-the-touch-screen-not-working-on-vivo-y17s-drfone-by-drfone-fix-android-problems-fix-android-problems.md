@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y17s | Dr.fone
-date: 2024-07-14T05:46:08.166Z
-updated: 2024-07-15T05:46:08.166Z
+date: 2025-01-29T03:34:53.467Z
+updated: 2025-01-30T00:33:23.778Z
 tags: 
   - problems
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 You probably touch the screen of your phone hundreds of times per day. It’s no surprise that smartphone touchscreens are one of the most common components to fail, given their delicate glass construction. However, a ****part of the touch screen not working**** on your Vivo Y17s does not necessarily mean it is a hardware issue. There could be other reasons why your Android’s touch screen stopped responding.
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Is Part of My Screen Not Working
 
@@ -66,6 +70,10 @@ When your touch screen stops working, the first thing you should do is restart y
 
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** When the Vivo Y17s device turns off, wait a few seconds.
 
 ****Step 3:**** Press and hold the “Power” button to restart the Vivo Y17s device.
@@ -86,6 +94,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -100,14 +112,6 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 4:**** You will then find the switch to turn it on or off. Disable itby toggling the button off.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
@@ -122,9 +126,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
@@ -147,6 +148,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** Connect your Vivo Y17s or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -160,6 +165,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Before repairing your Vivo Y17s, you must boot it into ****Download**** ****mode****. To boot your Vivo Y17s or tablet into DFU mode, follow the steps below:
 
@@ -224,6 +233,10 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Vivo Y17s 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Guide: How To Unbrick a Bricked Vivo Y17s Phone
 
 Vivo Y17s phones are super popular thanks to their excellent features and affordable prices. But being so popular means people try to customize them with custom software. If you're not careful, you might have a **"bricked" Vivo Y17s** phone. It won't work at all. It will be more like a brick than a smartphone.
@@ -232,9 +245,6 @@ Don't worry, though. This guide is here to help. It will show you how to unbrick
 
 ![destroyed system xiaomi phone](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Common Reasons Why Vivo Y17s Phones Get Bricked
 
 A **bricked phone** might sound like a techy term, but it's pretty simple – when your Vivo Y17s phone turns into a lifeless block that won't do anything. In this section, you'll learn all about why this happens, so you can avoid these issues and keep your phone alive as long as possible.
@@ -246,6 +256,10 @@ A **bricked phone** might sound like a techy term, but it's pretty simple – wh
 - **Failed Firmware Updates.** When your phone asks you to update its software, following the instructions carefully is essential. If you interrupt the process or something goes wrong, your phone could be bricked.
 
 Now, you must know about soft and hard-bricking to learn how to diagnose your phone. [Soft bricking](https://drfone.wondershare.com/android-issue/fix-soft-bricked-android.html) is like a phone's bad day – it might not start up. However, with the right help, you can fix it. Hard bricking is worse. It's when your phone is a paperweight – it won't turn on, respond, or do anything useful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Method 1: Use the Vivo Y17s Flash Tool
 
@@ -259,9 +273,6 @@ The Vivo Y17s Flash Tool is a superhero for various situations. Here are some sc
 - **Bug Fixes.**Got pesky bugs or glitches? The Flash Tool can replace corrupted software to make your phone behave.
 - **Performance Enhancement.** If your phone feels sluggish, the Flash Tool can boost its speed by flashing a new OS.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How To Use the Vivo Y17s Flash Tool To Unbrick a Vivo Y17s Phone
 
 Now that you know what the Vivo Y17s Flash Tool is all about, it's time to learn how to use it. If you've bricked your Vivo Y17s phone, follow the steps below:
@@ -270,6 +281,10 @@ Now that you know what the Vivo Y17s Flash Tool is all about, it's time to learn
 - **Step 2.** Turn off your phone. Then, press and hold the Volume Down + Power Key simultaneously for 6-8 seconds. This will force your phone to enter the Fastboot mode.
 
 ![xiaomi press hold buttons together](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** Connect your phone to your computer using a cable when you see this screen flash.
 
@@ -284,6 +299,10 @@ Now that you know what the Vivo Y17s Flash Tool is all about, it's time to learn
 ![xiaomi flash tool success screen](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-06.jpg)
 
 Congratulations! Your phone should be up and working after following these steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Method 2: Wondershare Dr.Fone
 
@@ -349,9 +368,6 @@ Before diving into the unbricking process, you must arm yourself with some tips 
 - **Authentic Tools and Software: Stay on the Safe Side.**Using genuine and trustworthy tools is crucial when **unbricking** your **Vivo Y17s** This applies especially to Dr.Fone, which you should only download from the official website. Additionally, when recovering your phone's software, use authentic Vivo Y17s ROMs (the operating system's files).
 - **Learning from Online Guides and Communities: Seek Guidance.**Navigating the unbricking process might seem daunting, but you're not alone. There are many online guides, tutorials, and communities where people share their experiences and solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 So, there you have it – your guide to fixing a **bricked Vivo Y17s** phone. Remember, bricking happens when your phone stops working. You won't be afraid when that happens, as you learned about the Vivo Y17s Flash Tool and Dr.Fone. They are your phone-saving superheroes that can unbrick even a hard-bricked Vivo Y17s phone.
@@ -362,7 +378,9 @@ As a parting reminder, always keep a tool ready for emergencies. For this, choos
 
 **3,052,835** people have downloaded it
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Restore a Bricked Vivo Y17s Back to Operation
 
@@ -371,7 +389,6 @@ In moments of lag or freezing on your Android, you might **brick Your Vivo Y17s,
 This comprehensive guide aims to the reasons behind Android phones becoming bricked. By reading below, you'll learn effective methods to **unbrick a mobile phone** without the risk of data loss.
 
 ![man holding a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-01.jpg)
-
 
 ## Part 1. What are Brick Phones: At a Glance
 
@@ -490,7 +507,6 @@ Fixing a **bricked phone** may seem daunting, but solutions are within reach. Th
 
 Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. The tool offers a comprehensive toolkit for recovery and data rescue. The power to reclaim lost data lies in your hands. Act, follow the methods outlined, and recover your brick phone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -503,9 +519,23 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-dissecting-the-digital-language-meanings-of-fb-messengers-blue-emoji-for-2024/"><u>[New] Dissecting the Digital Language Meanings of FB Messenger’s Blue Emoji for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-virtuoso-your-guide-to-windows-8-movie-maker/"><u>[New] From Novice to Virtuoso Your Guide to Windows 8 Movie Maker</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-resounding-videos-a-tutorial-on-instagrams-musical-integration/"><u>[Updated] In 2024, Resounding Videos A Tutorial on Instagram's Musical Integration</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-essential-guide-from-twitter-videos-to-high-quality-mp3-soundtracks/"><u>2024 Approved The Essential Guide From Twitter Videos to High-Quality MP3 Soundtracks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/find-your-perfect-match-the-top-10-online-converters-list/"><u>Find Your Perfect Match The Top 10 Online Converters List</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-moto-g34-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Moto G34 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-online-journey-discovering-custom-ringtones/"><u>In 2024, Ideal Online Journey Discovering Custom Ringtones</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/resolving-sync-issues-top-4-methods-to-restore-dropbox-functionality-on-windows-11/"><u>Resolving Sync Issues: Top 4 Methods to Restore Dropbox Functionality on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+</ul></div>
 

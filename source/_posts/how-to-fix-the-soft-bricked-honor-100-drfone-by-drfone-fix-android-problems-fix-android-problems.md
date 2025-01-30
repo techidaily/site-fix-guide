@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor 100? | Dr.fone
-date: 2024-07-14T05:46:46.079Z
-updated: 2024-07-15T05:46:46.079Z
+date: 2025-01-27T03:16:53.466Z
+updated: 2025-01-30T03:43:58.860Z
 tags: 
   - problems
 categories:
@@ -44,14 +44,15 @@ Since the phone refuses to boot, Cache can be cleared from entering into the Rec
 
 Once you are the recovery mode screen, you will see a number of options as shown in the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
@@ -81,6 +82,10 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
@@ -101,18 +106,6 @@ In this article, you’ll explore practical methods on **h ow to take a virus of
 
 ![phone with virus logo](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-01.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why You Get Mobile Viruses in the First Place
 
 Mobile viruses are tiny bugs that sneak into your phone and mess things up. They’re sneaky software programs designed to cause trouble, like stealing your info or making your phone act strange. Pesky viruses are usually acquired by accessing unverified links and downloading sketchy files. This is why it’s essential to be careful about what you access on the internet. It’s also a great habit to beware of the computers you’re connecting your phone to.
@@ -120,6 +113,10 @@ Mobile viruses are tiny bugs that sneak into your phone and mess things up. They
 You might notice weird things happening on your phone when infected with a virus. It may suddenly slow down, show pop-ups you didn’t click, or [run out of battery super-fast](https://drfone.wondershare.com/device-diagnostics/run-phone-batery-test-on-xiaomi.html). These could be signs that your phone has a virus. Take note of these.
 
 ![hacker with virus tools](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here are some common ways viruses get into your phone:
 
@@ -144,7 +141,15 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![dr.fone homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3,391,426** people have downloaded it
 
@@ -211,9 +216,6 @@ A [Factory Reset](https://drfone.wondershare.com/factory-reset-protection/bypass
 
 Generally, the Factory Reset option should be in **Settings > General & Backup and reset** or under **Settings > About phone** for Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![miui factory reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-13.jpg)
 
 IOS devices should be under **Settings > General > Transfer or Reset iPhone**.
@@ -239,11 +241,6 @@ Viruses can make your phones act weird, but you have the tools to fight back. Ke
 
 And, if you’re thinking, “**How do I get a virus off My Honor 100?**” then Wondershare Dr.Fone is a reliable hero. It’s quick and effective in clearing out those bugs. By staying aware and taking preventive steps, you can keep your phone safe and ensure a trouble-free experience. And if viruses strike, Dr. Fone’s got your back for an instant fix!
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Play Store Not Working On Honor 100? 8 Solutions Inside
 
 A functional Google Play Store is crucial for Android users to access, update, and install apps. Unfortunately, common issues like your Google **Play Store not working** can disrupt this experience. If you find your Play Store misbehaving more often than not, don't fret.
@@ -261,6 +258,10 @@ The Google Play Store serves as the epicenter for Android users. It facilitates 
 ### Inability To Open the Play Store
 
 The inability to open the Play Store leaves you without access to new apps or updates. The issue is often accompanied by error messages, which can leave you scratching your head.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Crashing Issues
 
@@ -344,6 +345,10 @@ Resolve Play Store issues by re-adding your Google account. Follow these steps i
 
 ![re-adding google account on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Uninstall Play Store Updates
 
 This method troubleshoots Play Store problems by uninstalling updates. Here's how.
@@ -380,14 +385,23 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 - **Step 3:** Dr.Foneshould automatically detect the brand of your device. Next, choose the **Name**, **Model**, **Country**, and **Carrier**. Tick the checkmark and click Next to continue. Follow the on-screen instructions and wait for the repair process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone device information window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Simply click **Done** on the prompt window displaying a confirmation message to exit the tool if your Honor 100 starts successfully. In the event that the Honor 100 device fails to start, select **Try Again** to initiate the process once more.
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
 
@@ -412,7 +426,6 @@ Addressing issues when your **Google Play Store does not work** is crucial for 
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -425,9 +438,19 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-tls.techidaily.com/10-effective-solutions-for-when-outlook-fails-to-display-email-attachments/"><u>10 Effective Solutions for When Outlook Fails to Display Email Attachments</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-achieving-seamless-gaming-with-switch-pro-and-steam/"><u>2024 Approved Achieving Seamless Gaming with Switch Pro & Steam</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-live-stream-facebook-from-pc-mac-or-laptop-with-obs/"><u>2024 Approved How to Live Stream Facebook From PC, Mac or Laptop with OBS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-x9b-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor X9b Phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/empowering-individuals-with-visual-challenges-the-best-iphone-assistive-features-unveiled/"><u>Empowering Individuals with Visual Challenges: The Best iPhone Assistive Features Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enigmatic-adventures-for-idevices-the-best-brain-teasing-apps-like-the-room-and-myst/"><u>Enigmatic Adventures for iDevices: The Best Brain-Teasing Apps Like 'The Room' And 'Myst'</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-poco-x6-phone-by-drfone-android/"><u>How to Unlock a Network Locked Poco X6 Phone?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-most-popular-gratuitous-vfx-websites/"><u>In 2024, Most Popular Gratuitous VFX Websites</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-tecno-spark-10c-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Spark 10C? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-hot-40-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Hot 40 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>
 

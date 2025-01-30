@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y100i Power 5G? | Dr.fone
-date: 2024-07-14T05:50:32.022Z
-updated: 2024-07-15T05:50:32.022Z
+date: 2025-01-23T17:00:43.851Z
+updated: 2025-01-29T23:35:35.060Z
 tags: 
   - problems
 categories:
@@ -22,15 +22,16 @@ If you are confused about the soft brick and hard brick problems and looking for
 
 Read on to find out more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is the difference between soft brick and hard brick?
 
 To begin with, let us understand the basic difference between a soft brick and hard brick issue. Both versions of a bricked phone prevent it from booting but differ in their causes and gravity of the problem.
 
 A soft-brick problem is caused merely by a software error/crash and makes your device switch on automatically every time you manually turn it off. This phenomenon is referred to as Boot Loop. Soft bricked Android phones are not as difficult to fix as the hard bricked Android phones. It is convenient to say that a soft bricked phone only boots up half-way and not fully, whereas a hard bricked device does not switch on at all. A hard brick error is thus caused when the kernel, which is nothing but an interface for the software to communicate with the hardware, is tampered with. A hard bricked phone is not recognized by your PC when plugged in and is a serious problem. It requires troubleshooting techniques and cannot be easily fixed as the soft brick problem.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
@@ -77,6 +78,10 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
@@ -92,8 +97,6 @@ Hopefully, your bricked phone will not boot normally and work smoothly.
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
-
 
 ## 11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y100i Power 5G
 
@@ -138,9 +141,6 @@ A most effective method to fix Google Play Store not working
 
 1. The downloaded firmware will be loaded and flashed to your Vivo Y100i Power 5G to fix the Google Play Store not working issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![fix google play store stopping by flashing firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 1. Wait until the Android repair process is complete. Start your Android and Google Play Store, you can then find that the Google Play Store not working issue no longer exists.
@@ -167,9 +167,6 @@ Step 2 – Now you can see several options. Select “Automatic date and time”
 
 Step 3 – Now, go to the Play store and try to connect again. This should be working without any problem now.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Cleaning of Cache data of Play Store
 
 This may happen that sometimes Google Play Store stopped working due to excessive unnecessary data stored in the cache of the Vivo Y100i Power 5G device. So, clearing unnecessary data is very important to keep the application run smoothly. To do this, you need to follow the below steps.
@@ -200,6 +197,10 @@ Step 3 – Now, instead of tapping “Clear cache”, tap on “Clear data”. T
 
 After this, open “Google Play Store” and now your problem might be solved now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Reconnecting the Google account
 
 Sometimes it may happen that removing and reconnecting your Google account may solve the Play Store not working issue. To do this, you need to follow the instructions below.
@@ -216,6 +217,10 @@ Step 3 – Now click on the top right side three dots or “more” option. Here
 
 Now, go back and try to open Google Play Store again. This should work now and enter your Google ID and password again to continue. If it’s still not working, move to the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Reinstall the latest version of Google Play Store
 
 Google Play store can’t be uninstalled completed completely from your Vivo Y100i Power 5G. But disabling and reinstalling its latest version can resolve the Play Store crashing issue. For doing this, just follow the below guide.
@@ -228,10 +233,11 @@ Step 2 – Upon clicking on this option, you can find “Android device manager�
 
 Step 3 – Now you can be able to uninstall Google play service by going into application manager.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall Google play service](https://images.wondershare.com/drfone/article/2017/06/14985034252357.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4 – After that, try to open any app that requires Google Play store to open, and that will automatically guide you to install the Google Play service. Now install the updated version of the Google Play service.
 
@@ -313,6 +319,10 @@ Ever had your Vivo Y100i Power 5G claim it's offline, leaving you scratching you
 
 In the following sections, we're diving into the **"why is My Vivo Y100i Power 5G offline"** dilemma that many Android users face. We'll break down the possible reasons behind this common issue and guide you through simple steps on how to fix it. By the end of the article, you’ll be able to get back to smooth internet surfing on your Vivo Y100i Power 5G. Let’s get started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Does My Vivo Y100i Power 5G Say Offline?
 
 When you encounter the “offline” error message, it can disrupt your usual smartphone activities. Suddenly, you find yourself unable to browse the internet, send or receive emails, or stay connected through instant messages.
@@ -339,6 +349,10 @@ Now, you have understood the potential causes as the first step toward resolving
 
 ![Phone offline on Android](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How To Fix “Phone Offline” With Internet Connection Problem
 
 Now that we've figured out why your phone says it's offline, let's tackle the issue head-on. If you're facing problems like downloads that won't start, Google Play stuck on "Loading…," or web pages refusing to load, chances are it's an internet connection issue causing the problem.
@@ -354,6 +368,10 @@ Switching to mobile data can be a quick fix if your Wi-Fi is acting up. It ensur
 - **Step 3:** Tap Mobile Data to turn it on.
 
 ![Change connection to mobile data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: On and off Airplane mode
 
@@ -427,6 +445,10 @@ How to re-install Google Chrome:
 
 ![Re-install Google Chrome on Google Play Store](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 3: Repair the system to fix the phone showing offline
 
 When persistent offline issues seem deeply rooted in your device's system, a comprehensive system repair may be the solution. Wondershare Dr. Fone's system repair tool is designed to address a range of system problems, providing a reliable way to fix any problem you have with your phone.
@@ -446,6 +468,10 @@ How to use Dr. Fone's system repair tool:
 Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox section and connect your Vivo Y100i Power 5G. Choose System Repair and pick Android as your device type.
 
 ![Open Dr.Fone System Repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -467,9 +493,6 @@ The platform will detect your Vivo Y100i Power 5G's brand. Confirm the Name, Mod
 
 Follow the instructions to put your Vivo Y100i Power 5G into Download Mode. Once in Download Mode, you will start downloading the firmware.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Activate Download mode to download the firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 5:** Confirm Installation
@@ -484,7 +507,6 @@ Dealing with the "Phone Offline" hiccup on your Vivo Y100i Power 5G can be a rea
 
 Remember, technology can sometimes be tricky. But with patience and the right guidance, you can overcome these challenges.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -497,9 +519,18 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-perfecting-eq-adjustments-in-ableton/"><u>[New] Perfecting EQ Adjustments in Ableton</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-essential-tutorial-for-home-grown-animation-magic/"><u>[New] The Essential Tutorial for Home-Grown Animation Magic</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nubia-red-magic-8s-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nubia Red Magic 8S Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-xiaomi-13t-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Xiaomi 13T Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigate-common-crashes-in-world-of-warships-for-windows-discover-our-5-key-remedies/"><u>Navigate Common Crashes in World of Warships for Windows: Discover Our 5 Key Remedies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a18-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A18 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-9a-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 9A Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-y78t-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y78t Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-index-configuration-in-windows/"><u>Unlock Index Configuration in Windows</u></a></li>
+</ul></div>
 

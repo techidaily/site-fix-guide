@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor Magic 6 Lite ? Fix It Easily | Dr.fone
-date: 2025-01-19T16:08:48.596Z
-updated: 2025-01-22T16:05:50.553Z
+date: 2025-01-28T18:23:08.862Z
+updated: 2025-01-30T00:14:52.039Z
 tags: 
   - problems
 categories:
@@ -52,6 +52,10 @@ Step 5: Finally, press and hold both the Power and the Volume up Key for around 
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - System Repair (Android)
 
 One-stop solution to fix Android stuck at System recovery
@@ -73,25 +77,13 @@ Once installed on your computer, open onto the main menu and connect your Honor 
 
 ![fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step #2** Select the 'Android Repair' option from the next screen.
 
 ![get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Insert your device information, including the brand, carrier details, model and country and region you're in to ensure you're downloading the correct firmware.
 
 ![select items to correctly fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step #3** Follow the onscreen instructions on how to put your device in Download Mode.
 
@@ -108,6 +100,10 @@ Ensure your device, and your computer stays connected the entire time, and make 
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
@@ -151,10 +147,6 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix Unfortunately Settings Has Stopped on Honor Magic 6 Lite Quickly
 
 All of you, sooner or later, must have found the “Unfortunately Settings has stopped” error on your Honor Magic 6 Lite. The problem can occur if the Settings keeps stopping or crashing. Many times, you may try to open the Settings but it doesn’t even open. Or possibly, it may freeze after getting opened thereby hampering the Honor Magic 6 Lite device's performance.
@@ -193,6 +185,10 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
 
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Uninstall the Google update
 
 Uninstalling Google Play Store updates has also responded well to many users. It has worked in the case of the “Unfortunately Settings has stopped” error. So, we would also like to suggest you use this tip if the others don’t work. Here are the steps to be followed for this.
@@ -204,7 +200,7 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
@@ -269,10 +265,6 @@ Like RAM, wiping cache is also vital so as to make the Honor Magic 6 Lite device
 
 ![Android settings not responding - cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: Factory reset your Android
 
 You can also opt for Factory resetting your device to fix the issue of Settings keeps stopping. By removing everything from the Honor Magic 6 Lite device, it will make your device run properly. If you have important data on your device, please make sure to [create a backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before taking action if you don’t want to lose it. The steps are as follows.
@@ -323,10 +315,6 @@ Given below are eight techniques to flash your Honor Magic 6 Lite safely, depend
 Flashing a dead Android phone might be skeptical for many users who have been in such a situation. Although it is possible to flash a dead Android phone, it is essential to be aware of the reasons that lead you into such a situation. Before a remedy, diagnosing the problem is a necessity for retaining the Honor Magic 6 Lite device.
 
 From battery issues to physical damage to the Honor Magic 6 Lite device, there can be many reasons your Honor Magic 6 Lite died. The reasons for a dead Android phone are not restricted to these points. There can be software-related issues or firmware issues that might cause such havoc on your Android.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to flash Honor Magic 6 Lite in one click
 
@@ -380,13 +368,13 @@ Step 2: Press the ‘Next’ button for initiating firmware download.
 
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -404,6 +392,10 @@ Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file ty
 
 ![firmware zip file](https://images.wondershare.com/drfone/article/2017/07/14991896515887.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![firmware md5 file](https://images.wondershare.com/drfone/article/2017/07/14991896708947.jpg)
 
 Step 3: In this step, download the latest version of Odin on your PC and move it to the desktop, and then right-click on the downloaded Odin file to select “Run as Administrator”.
@@ -417,7 +409,7 @@ Step 4: Now, boot your dead device to Download Mode by pressing the power, volum
 ![boot in download mode](https://images.wondershare.com/drfone/article/2017/07/14991897353612.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
@@ -446,6 +438,10 @@ Step 2: Once done, you should download the SP Flash tool and extract it on your 
 
 ![download sp flash tool](https://images.wondershare.com/drfone/article/2017/07/14991898618783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Now, on the SP Flash tool window, click on “Download” and select “Scatter-loading”.
 
 ![scatter loading](https://images.wondershare.com/drfone/article/2017/07/14991898892877.jpg)
@@ -453,6 +449,10 @@ Step 3: Now, on the SP Flash tool window, click on “Download” and select “
 Step 4: The last step would be to locate the file downloaded by you and click “Open” and then finally, select “Download” on the SP Flash tool window.
 
 ![load the downloaded file](https://images.wondershare.com/drfone/article/2017/07/14991899108318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After completing the above steps, connect your dead device to the PC with a USB cable and wait for it to get recognized. The flashing process will take a few minutes to finish and then you will see a green circle indicating “OK Download”.
 
@@ -486,10 +486,6 @@ Then move on to select “Dead Phone USB Flashing” from the Firmware Update Bo
 
 ![dead phone usb flashing](https://images.wondershare.com/drfone/article/2017/07/14991900551025.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lastly, just click on “Refurbish” and connect your phone to the PC using a USB cable.
 
 That was it, the flashing process may take up to a few minutes after which your dead Honor Magic 6 Lite  will restart automatically.
@@ -520,6 +516,10 @@ Another solution that can help you fix the dead Android phone is changing its ba
 
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 9: How to repair dead Android phone by contacting official support
 
 If you are unable to discover any proper solution for **how to flash dead Android phones,** you might have to consult the respective customer support of the Android phone manufacturers. Consult customer support to discover why the phone is dead and how it can be flashed. The respective personnel will assist you in resolving the issue, which might require monetary input from your side.
@@ -546,16 +546,18 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-archive-of-awe-high-quality-gif-preservation-for-tweeters/"><u>[New] 2024 Approved Archive of Awe High-Quality GIF Preservation for Tweeters</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ync-your-screen-time-concurrent-youtube-content-consumption/"><u>[New] Sync Your Screen Time Concurrent YouTube Content Consumption</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-captivating-content-incorporate-these-20-magic-words/"><u>[Updated] Captivating Content Incorporate These 20 Magic Words</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-feathersticks-short-film-characters-music-for-2024/"><u>Flashing Feathersticks Short Film Characters' Music for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-x50iplus-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Honor X50i+ Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-reno-9a-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo Reno 9A? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-c67-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme C67 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/understanding-delayed-image-rendering-in-pc-gaming-insights-from-yl-computings-expert-analysis/"><u>Understanding Delayed Image Rendering in PC Gaming: Insights From YL Computing's Expert Analysis</u></a></li>
-<li><a href="https://extra-information.techidaily.com/windows-for-videographers-hdr-insights/"><u>Windows for Videographers HDR Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-capturing-attention-how-to-edit-and-crop-videography-for-instagram-success/"><u>[New] 2024 Approved Capturing Attention How to Edit & Crop Videography for Instagram Success</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ps5xbox-x-visuals-the-top-5-game-tvs-for-2024/"><u>[Updated] PS5/Xbox X Visuals The Top 5 Game TVs for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-innovative-visitor-tracking-solution-for-your-website/"><u>Cookiebot: Innovative Visitor Tracking Solution for Your Website</u></a></li>
+<li><a href="https://fox-that.techidaily.com/drug-interactions-can-significantly-impact-the-efficacy-and-safety-of-beta-blockers-for-example-combining-them-with-certain-calcium-channel-blockers-may-req27/"><u>Drug Interactions Can Significantly Impact the Efficacy and Safety of Beta Blockers; for Example, Combining Them with Certain Calcium Channel Blockers May Require Careful Monitoring.</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-effortlessly-copy-an-entire-external-hard-drive-onto-a-secondary-external-device-expert-tips-and-tricks/"><u>How to Effortlessly Copy an Entire External Hard Drive Onto a Secondary External Device: Expert Tips and Tricks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/next-moment-examination-alternate-strategies-for-2024/"><u>Next Moment Examination Alternate Strategies for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-tecno-camon-20-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Tecno Camon 20 Black and White | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-repair-techniques-for-a-malfunctioning-logitech-g933-microphone/"><u>Quick Repair Techniques for a Malfunctioning Logitech G933 Microphone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-smart-7-hd-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Smart 7 HD Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
 </ul></div>
 

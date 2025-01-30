@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y100 5G | Dr.fone
-date: 2024-07-14T05:46:03.587Z
-updated: 2024-07-15T05:46:03.587Z
+date: 2025-01-25T00:05:11.609Z
+updated: 2025-01-29T23:26:20.219Z
 tags: 
   - problems
 categories:
@@ -86,6 +86,14 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -134,9 +142,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 2:**** Connect your Vivo Y100 5G or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
@@ -145,14 +150,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
@@ -272,6 +269,10 @@ Step 5: After downloading the firmware, the software will start the repair proce
 
 ![home button not working android - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.2 Force Restart your Android
 
 Whenever you encounter with Android virtual soft keys, not working problem, the first thing you should try is to force [restart your phone](https://www.wondershare.com/reset-android/restart-android-without-power-button.html). If the problem is due to a software issue, then it can be probably fixed by simply force restarting your Android.
@@ -329,6 +330,10 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en\_US](https://play.google.com/store/apps/details?id=ace.jun.simplecontrol&hl=en_US)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2 Button Savior app
 
 Button Savior app is one of the ultimate apps that can help you to fix the Android home button not working problem with ease. For this app, root and no root versions are available on the Google Play store. To fix the Home button not working issue, no root version is the right one. But, if you want to fix the Back button or other buttons, then you need to go for the root version.
@@ -347,13 +352,14 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=com.smart.swkey" target="\_blank" rel="nofollow](https://play.google.com/store/apps/details?id=com.smart.swkey)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.3 Navigation Bar (Back, Home, Recent Button) app
 
 Navigation Bar app is another great solution to fix the home button not responding problem. It can replace broken and failed button for users who are facing difficulty using navigation bar panel or buttons not working properly. The app offers numerous features, and it is easy to use.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vavigation bar](https://images.wondershare.com/drfone/article/2019/02/navigation-bar-app.jpg)
 
 Pros:
@@ -368,6 +374,10 @@ Cons:
 - It comes with ads.
 
 URL: [https://play.google.com/store/apps/details?id=nu.nav.bar](https://play.google.com/store/apps/details?id=nu.nav.bar)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.4 Home Button app
 
@@ -394,6 +404,10 @@ Is your Android physical home button is broken or dead? If yes, then the Multi-a
 
 ![home button not working android - Multi-action Home Button app](https://images.wondershare.com/drfone/article/2019/02/multi-action-home-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pros:
 
 - It provides various actions with the button.
@@ -419,15 +433,16 @@ If you are confused about the soft brick and hard brick problems and looking for
 
 Read on to find out more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is the difference between soft brick and hard brick?
 
 To begin with, let us understand the basic difference between a soft brick and hard brick issue. Both versions of a bricked phone prevent it from booting but differ in their causes and gravity of the problem.
 
 A soft-brick problem is caused merely by a software error/crash and makes your device switch on automatically every time you manually turn it off. This phenomenon is referred to as Boot Loop. Soft bricked Android phones are not as difficult to fix as the hard bricked Android phones. It is convenient to say that a soft bricked phone only boots up half-way and not fully, whereas a hard bricked device does not switch on at all. A hard brick error is thus caused when the kernel, which is nothing but an interface for the software to communicate with the hardware, is tampered with. A hard bricked phone is not recognized by your PC when plugged in and is a serious problem. It requires troubleshooting techniques and cannot be easily fixed as the soft brick problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
@@ -446,11 +461,12 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
 
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
@@ -481,6 +497,10 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
@@ -492,9 +512,6 @@ Hopefully, your bricked phone will not boot normally and work smoothly.
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -508,9 +525,22 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-free-camera-screen-recorders-deep-dive-review-and-top-alternatives/"><u>[Updated] In 2024, Free Camera Screen Recorders Deep Dive Review and Top Alternatives</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-techniques-for-downloading-vimeo-media-as-mp3/"><u>[Updated] In 2024, Techniques for Downloading Vimeo Media as MP3</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-step-by-step-guide-to-youtube-sound-placement/"><u>[Updated] Step-by-Step Guide to Youtube Sound Placement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-best-iphone-selfie-devices-ranked-8/"><u>2024 Approved The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-performance-with-virtual-memory-on-windows-11/"><u>Enhancing Performance with Virtual Memory on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-step-by-step-windows-11-movie-file-saving/"><u>In 2024, Step-by-Step Windows 11 Movie File Saving</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210845561-9781088143278-manifesting-your-dream-life/"><u>MANIFESTING YOUR DREAM LIFE | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-viewer-interest-6-essential-video-formats/"><u>Mastering Viewer Interest 6 Essential Video Formats</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-motorola-edge-40-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Edge 40 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/which-window-suits-you-best-home-versus-pro-in-windows-11/"><u>Which Window Suits You Best? Home Versus Pro in Windows 11</u></a></li>
+</ul></div>
 

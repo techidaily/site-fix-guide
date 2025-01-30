@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on ZTE Blade A73 5G | Dr.fone
-date: 2024-07-14T05:46:39.131Z
-updated: 2024-07-15T05:46:39.131Z
+date: 2025-01-27T17:39:11.527Z
+updated: 2025-01-29T23:49:52.481Z
 tags: 
   - problems
 categories:
@@ -73,8 +73,9 @@ When your touch screen stops working, the first thing you should do is restart y
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Turn On Safe Mode
 
 You should switch to Safe mode whenever an application or piece of software causes a problem on your device. Only the most fundamental system components are loaded and used when operating in Safe mode.
@@ -126,8 +127,9 @@ Resetting your device to its factory settings will return it to its state when y
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -145,6 +147,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 2:**** Connect your ZTE Blade A73 5G or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
@@ -205,6 +211,10 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -213,14 +223,15 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your ZTE Blade A73 5G 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 4 Android System Repair Software for ZTE Blade A73 5G Bricked Devices
 
@@ -272,15 +283,16 @@ So, why is it important to know all this? Well, a bricked device isn't just frus
 
 Now that you've grasped the concept, let's dive into how to **unbrick a ZTE Blade A73 5G**. That's where Android system repair software comes in. These clever programs are like doctors for your device's software. They diagnose and fix issues to keep your appliance running smoothly. Let's explore the cream of the crop when it comes to these software solutions:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### <u>Wondershare Dr.Fone</u>
 
 Dr.Fone - System Repair (Android) is like a magic wand for your ZTE Blade A73 5G device. It's designed to rescue your device from troubles and make it run smoothly again. Dr.Fone - System Repair (Android) is built to  fix various issues, including a bricked device. It can resolve problems like [<u>black screens</u>](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html), frozen devices, boot loops, and even devices stuck in recovery mode.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
@@ -339,11 +351,19 @@ This tutorial will show you how Dr.Fone can remove the **brick from a ZTE Blade 
 
 ![drfone android device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Put your ZTE Blade A73 5G into **Download Mode** when prompted.
 
 - If your phone has a home button, follow the on-screen prompts to power it down. Keep pressing and holding the Volume Down, Home, and Power Then, press the Volume Upbutton to activate the **Download Mode**.
 
 ![drfone phone with home button android](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - If your Android doesn't have a Home button, you may still use it byturning it off and pressing the Volume Down, Bixby, and Power buttons simultaneously. Repeatedly pressing the Volume Up button will activate Download Mode.
 
@@ -490,8 +510,6 @@ Encountering a **bricked ZTE Blade A73 5G** device can be a frustrating roadbloc
 
 So, whether your device is experiencing a soft brick or a hard brick, you now have the best tools and knowledge to overcome it. Dive into the Android system repair software world, explore your options, and bid farewell to brick. Welcome a revived, functioning ZTE Blade A73 5G device into your daily life.
 
-
-
 ## Quick Fixes for Why Is My ZTE Blade A73 5G Black and White
 
 **Why is My ZTE Blade A73 5G in black and white?** This sudden shift in display colors can be perplexing and impact user experience. This issue affects various devices, including ZTE Blade A73 5G and other Android models. The abrupt shift to monochrome can impact your daily use. It can make apps and content appear dull.
@@ -516,15 +534,16 @@ Accidental activation of accessibility settings may turn your display monochroma
 
 - **Step 2:** Disable the **Grayscale** or **Color** **Inversion** option.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### App Conflicts
 
 Certain third-party apps can cause conflicts, leading to a [black-and-white display](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html). Newly installed apps might be the culprit, affecting your device's color settings. Some apps also have grayscale modes that can impact the overall display. Here's how to fix it:
 
 - **Step 1**: Identify and uninstall recently installed apps.
 - **Step 2:** Check individual app settings for grayscale modes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### System Glitches
 
@@ -579,6 +598,10 @@ Repair Android System Errors without Any Trouble.
 - **Step 1:** Download and install Dr.Fone. Launch the program and click on **System** **Repair** on the main window. Connect your ZTE Blade A73 5G to the computer using the correct cable. Choose **Android** among the options.
 
 ![dr.fone android repair window](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -682,7 +705,6 @@ The guide highlights the "**Why is My ZTE Blade A73 5G black and white**" query.
 
 The guide provided solutions for display issues and showcased the versatility of Dr.Fone System Repair Android. It's a holistic solution for users seeking a seamless and reliable Android experience, addressing diverse concerns with precision and efficiency.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -695,9 +717,20 @@ The guide provided solutions for display issues and showcased the versatility of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-art-of-advertising-making-money-on-the-worlds-social-network/"><u>[Updated] 2024 Approved The Art of Advertising Making Money on the World's Social Network</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-audience-engagement-and-its-impact-on-youtube-performance/"><u>2024 Approved Audience Engagement and Its Impact on YouTube Performance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-covert-consumer-of-virtual-diaries/"><u>2024 Approved Covert Consumer of Virtual Diaries</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-drivers-for-your-netgear-wifi-adapter-efficiently/"><u>How to Install Updated Drivers for Your NETGEAR WiFi Adapter Efficiently</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-camera-woes-over-obs-now-functioning/"><u>In 2024, Camera Woes Over OBS Now Functioning</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-curve-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze Curve 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edge-2023-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 2023 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-5-best-apps-to-help-you-write-better-on-a-windows-pc/"><u>The 5 Best Apps to Help You Write Better on a Windows PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-free-secure-vlc-player-access-on-apple-devices-for-2024/"><u>Unlocking Free, Secure VLC Player Access on Apple Devices for 2024</u></a></li>
+</ul></div>
 

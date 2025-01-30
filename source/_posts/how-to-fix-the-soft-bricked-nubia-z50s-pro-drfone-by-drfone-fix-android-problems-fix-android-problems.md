@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Nubia Z50S Pro? | Dr.fone
-date: 2024-07-14T05:48:20.165Z
-updated: 2024-07-15T05:48:20.165Z
+date: 2025-01-25T02:57:50.082Z
+updated: 2025-01-29T17:48:51.362Z
 tags: 
   - problems
 categories:
@@ -74,6 +74,10 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
@@ -84,13 +88,15 @@ This might take a few minutes of your time, but once the process is complete, re
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
-
 
 ## How To Deal With the Nubia Z50S Pro Screen Black But Still Works?
 
@@ -118,9 +124,6 @@ If your **phone is working, but the screen is black,** there’s also a high pro
 
 A potential reason why **your phone screen went black but still works** could be because of your smartphone’s software. This problem suggests that your Nubia Z50S Pro is crashing, potentially freezing your device if not addressed immediately. If this is the cause, then your device is likely experiencing a critical system error, and you should directly try to reboot your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Hardware Problem
 
 If you dropped your phone, there’s a high chance the LCD connectors went loose due to the physical impact. If this happened to you, the phone might be working, but the screen is black due to the LCD cable dislodging. Another issue could be your phone got exposed to extreme temperatures. This can also cause a **black screen but your phone is still on.**
@@ -227,6 +230,10 @@ Dr.Fone – System Repair can fix all kinds of issues on your Android/iOS, such 
 
 All iOS versions, including the latest iOS 16 and iOS 16 beta, are fully supported by Dr.Fone – System Repair. The app handles all your smartphone issues without data loss to secure your info. On the other hand, if you own an Android, the app supports up to 1000+ Android smartphones, making it highly versatile for Android owners.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tech Specs
 
 Dr.Fone – System Repair (Android)’s minimum system requirements for your computer are listed below.
@@ -257,8 +264,9 @@ If you’re still undecided about Dr.Fone – System Repair, here are its pros a
 - The free version works up to your device’s compatibility. Once you start the repair process, the app will ask you for a valid license key.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Fix Black Phone Screen With Dr.Fone – System Repair
 
 Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Android.
@@ -267,10 +275,11 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 **Step 2A (For iOS)**: Choose the correct model of your iPhone for the program to be able to download the appropriate firmware package.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone system repair for ios](https://images.wondershare.com/drfone/product-2021/system-repair/swp2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2B (For Android)**: Click **Start.** On the next window, choose the **Brand, Name, Model, Country,** and **Carrier** of your smartphone, then click **Next**.
 
@@ -298,10 +307,13 @@ Fortunately, there are ways to overcome this, and one of the best is Dr.Fone. In
 
 ![hand holding a phone](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-01.jpg)
 
-
 ## Part 1: Understanding Stuck and Dead Nubia Z50S Pros on Phone Screens
 
 While dead and ****stuck pixels on the phone**** may seem similar, there are important distinctions between the two. Read on to discover the differences and what causes them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Stuck Nubia Z50S Pros on Phone
 
@@ -312,6 +324,10 @@ A ****stuck pixel phone**** is always on, so it shows up on a touchscreen as a 
 In contrast to the stuck pixel, the dead pixel subpixels are all left unpowered, turning them off. A ****dead pixel on the phone**** is a tiny, persistent rectangle of black or white color on the part of the phone screen not working.
 
 ![stuck white pixel and dead pixel](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Some Differences Between Stuck and Dead Nubia Z50S Pros on Phone
 
@@ -344,10 +360,11 @@ Before attempting to fix a ****dead pixel on a smartphone**** screen, it is nec
 
 ****Step 1:**** Check for chips, cracks, or any other signs of damage on the screen if your ****phone touch screen is not working in some areas****. If you find any damage, you may need to take your phone to a professional repair shop or consider getting a replacement.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![phone with damaged screen from dropping](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** If you have a screen protector or case, remove them because they can interfere with the process. This step will allow you to get a clear view of the screen and accurately assess the ****dead pixel on the phone****.
 
@@ -415,6 +432,10 @@ Dealing with the ****stuck pixels on the phone**** can be a challenging issue t
 
 ![Wondershare Dr.Fone  device type](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Note:****
 
 Wondershare Dr.Fone provides support for Nubia Z50S Pro S22 as well as other popular Nubia Z50S Pro models.
@@ -467,14 +488,14 @@ In addition, the essential factor in comparing dead pixel policies is whether or
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 You have learned the difference between a stuck and ****dead pixel on the phone****. With this knowledge, you can apply the different tools and techniques for removing ****stuck pixels on phone**** screens and how to work around dead pixels on the phone screen. Whether using software like Dr.Fone or employing manual methods such as rebooting or cleaning your device, there are various options you can try.
 
 Remember to back up your data before attempting any fixes and to seek professional help if necessary. If you are still experiencing issues with dead pixels on your phone screen, don't hesitate to contact your device manufacturer for further assistance.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -488,9 +509,24 @@ Remember to back up your data before attempting any fixes and to seek profession
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-emotive-expression-through-pictures-and-music-fusion/"><u>[New] 2024 Approved Emotive Expression Through Pictures & Music Fusion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-explore-and-review-free-powerful-and-user-friendly-ios-edits-for-2024/"><u>[Updated] Explore & Review Free, Powerful, and User-Friendly iOS Edits for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-insta-stories-how-to-fix-and-prevent-low-quality-video-issues-with-our-uploads-guide/"><u>Enhance Your Insta Stories - How to Fix and Prevent Low-Quality Video Issues with Our Uploads Guide</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-guide-to-forensic-data-retrieval-restoring-deleted-files-for-court-use/"><u>Expert Guide to Forensic Data Retrieval: Restoring Deleted Files for Court Use</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/editing-to-sharing-youtube-mastery-with-adobe-premiere/"><u>From Editing to Sharing YouTube Mastery with Adobe Premiere</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-hot-30i-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Hot 30i.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-note-30-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Note 30 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oneplus-11-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked OnePlus 11 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-deciphering-dji-phantom-3s-flight-instruments-and-controls/"><u>In 2024, Deciphering DJI Phantom 3'S Flight Instruments and Controls</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-hot-40-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 40 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-v30t-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme V30T Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/rewind-designers-toolkit-for-2024/"><u>Rewind Designer's Toolkit for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unparalleled-background-music-compilation-for-2024/"><u>Unparalleled Background Music Compilation for 2024</u></a></li>
+</ul></div>
 

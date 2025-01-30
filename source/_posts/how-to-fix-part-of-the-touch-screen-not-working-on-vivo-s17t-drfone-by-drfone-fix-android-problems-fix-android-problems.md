@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo S17t | Dr.fone
-date: 2024-07-14T05:45:48.171Z
-updated: 2024-07-15T05:45:48.171Z
+date: 2025-01-26T21:16:40.183Z
+updated: 2025-01-29T16:21:01.845Z
 tags: 
   - problems
 categories:
@@ -72,9 +72,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn On Safe Mode
 
 You should switch to Safe mode whenever an application or piece of software causes a problem on your device. Only the most fundamental system components are loaded and used when operating in Safe mode.
@@ -125,6 +122,10 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -147,6 +148,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
@@ -161,9 +166,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 2. Hold the Volume Down, Home, and Power buttons for 5 to 10 seconds.
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **For a device that lacks a Home button:**
@@ -177,6 +179,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Vivo S17t. And in a while, your Vivo S17t’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported OS
 
@@ -196,6 +202,10 @@ Dr.Fone – System Repair is a data management and recovery tool that contains s
 - A high success rate for fixing Android system issues
 - Fixes Android system back to normal
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros
 
 Here are the advantages of using Dr.Fone – System Repair:
@@ -205,15 +215,16 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
 
 - Depending on the toolkit required, the program can be costly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
@@ -248,6 +259,10 @@ It is possible that the corrupted cache files are responsible for this error. He
 
 ![settings crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
 
 ## Part 2: Clear the Android phone’s RAM and retry
@@ -268,16 +283,11 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 2. Now, head to all the apps and select “Google Play Store” from there.
 3. Tap on “Uninstall Updates” and restart your device to check if the crashing Settings issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Vivo S17t, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Vivo S17t devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -310,6 +320,10 @@ Step 3: Feed Correct Information
 In the next window, you need to fill in some necessary information like the name and model of the mobile device. Enter details like country and career. Check once and hit on “Next”.
 
 ![Android settings not responding - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Enter Download Mode
 
@@ -365,6 +379,10 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Solutions to Fix Chrome Crashes or Won’t Open on Vivo S17t
 
 Google Chrome is one of the most popular web browsers in the world. It is fast, secure, and easy to use. However, like any other app, it is not free from errors. Many users have reported that Chrome crashes or won’t open on their Vivo S17t. If you are also facing this issue, then you have come to the right place. In this article, we will discuss the reasons behind this problem and provide you with 7 solutions to fix Chrome crashes or won’t open on Vivo S17t.
@@ -387,9 +405,6 @@ When Chrome or any other app keeps running on the background, issues like “Unf
 
 3\. The app will be force quit now. You can then start it again to check if thing get back to normal.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Chrome cache overflowing
 
 While using any app for long, the temporary files for those gets collected in the form of cache. And when cache is not getting cleared, one may face the freezing, crashing or sluggish apps. And this could also be the cause why your Chrome keeps stopping. Hence, the following steps will show you how to clear cache and make Chrome work as before.
@@ -410,7 +425,9 @@ Most probably Chrome is not able to support the website you are trying to access
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -431,6 +448,10 @@ Step 1: Install the Tool to Begin
 Start downloading it from there. Install it once downloading is completed and open the tool. The main screen will show you some tabs. You need to hit on “System Repair” among those.
 
 ![fix Chrome crashing on Android - get the fixing tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Get Android Device Connected
 
@@ -474,9 +495,6 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
 
 ![fix Chrome crashing by updating android](https://images.wondershare.com/drfone/article/2019/05/update-android.jpg)
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -489,9 +507,26 @@ Of still you are receiving “Unfortunately Chrome has stopped” pop-up, it mig
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-determining-the-top-2023-action-camera-champion/"><u>[New] 2024 Approved Determining the Top 2023 Action Camera Champion</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tailored-obs-tweaks-for-affordable-systems-for-2024/"><u>[Updated] Tailored OBS Tweaks for Affordable Systems for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-efficient-way-to-grab-all-episodes-on-your-idevice/"><u>2024 Approved The Efficient Way to Grab All Episodes on Your iDevice</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breezy-video-capture-testimony-for-2024/"><u>Breezy Video Capture Testimony for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/comparing-recording-obs-studio-versus-bandicam/"><u>Comparing Recording OBS Studio Versus Bandicam</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-setup-for-your-hp-officejet-5740-with-reliable-drivers-download-now/"><u>Effortless Setup for Your HP OfficeJet #5740 with Reliable Drivers - Download Now!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-c55-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco C55 Phone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-reno-10-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Reno 10 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4windows-10/"><u>MP4再生不能に悩むなら：Windows 10のソリューションと原因解明方法</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-servers-problems-quick-and-effective-tips/"><u>Navigating Through Servers Problems: Quick & Effective Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-z-fold-5-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy Z Fold 5 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-note-13-pro-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi Note 13 Pro 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+</ul></div>
 

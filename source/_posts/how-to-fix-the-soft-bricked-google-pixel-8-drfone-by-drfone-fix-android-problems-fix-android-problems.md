@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Google Pixel 8? | Dr.fone
-date: 2024-07-14T05:46:42.732Z
-updated: 2024-07-15T05:46:42.732Z
+date: 2025-01-28T04:09:17.816Z
+updated: 2025-01-29T16:16:06.038Z
 tags: 
   - problems
 categories:
@@ -22,6 +22,10 @@ If you are confused about the soft brick and hard brick problems and looking for
 
 Read on to find out more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is the difference between soft brick and hard brick?
 
 To begin with, let us understand the basic difference between a soft brick and hard brick issue. Both versions of a bricked phone prevent it from booting but differ in their causes and gravity of the problem.
@@ -32,9 +36,6 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Stuck at the Boot Loop
 
 This is the first sign of a soft bricked Android phone. Boot Loop is nothing but when your phone does not remain switched off and turns itself on automatically, and freezes at the logo screen or blank screen, every time you manually try to power it off.
@@ -69,29 +70,35 @@ Firstly, you must root your phone and unlock the Bootloader. Every phone’s mec
 
 Once the Bootloader is unlocked, take a backup of all your data by selecting “Backup” or “Android” back in recovery mode. The process should not take long and all you need to do is tap “OK” to config backup.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
 
 Once at the recovery mode, select “Install Zip from SD Card” from the options.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Booting straight into Bootloader
 
@@ -131,6 +138,10 @@ Step 4: The white Google logo will appear immediately followed by the Android lo
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-05.jpg)
@@ -138,8 +149,6 @@ Step 5: Finally, press and hold both the Power and the Volume up Key for around 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -180,10 +189,11 @@ Your device should already be in this mode but follow the instructions to make s
 
 Ensure your device, and your computer stays connected the entire time, and make sure your internet connection remains stable.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
@@ -231,9 +241,6 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix the Soft Bricked Google Pixel 8?
 
 Bricked phone is a serious problem, as your brick smartphone could be suffering from a soft brick or hard brick problem, and must be dealt with carefully. It is very common to see a brick smartphone these days. If you are wondering what exactly is a bricked phone, here is your answer.
@@ -243,6 +250,10 @@ A bricked phone, hard brick or soft brick, is a smartphone which refuses to star
 If you are confused about the soft brick and hard brick problems and looking for solutions to fix your priced phone, then here is all you need to know.
 
 Read on to find out more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the difference between soft brick and hard brick?
 
@@ -290,6 +301,10 @@ Once the Bootloader is unlocked, take a backup of all your data by selecting “
 
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
 
 Once at the recovery mode, select “Install Zip from SD Card” from the options.
@@ -302,18 +317,23 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -327,9 +347,20 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-shadowy-fringe-to-front-row-action-gaining-popularity-in-tiktok-unboxings/"><u>[Updated] From Shadowy Fringe to Front Row Action Gaining Popularity in TikTok Unboxings</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-a23-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy A23 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-lava-storm-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Lava Storm 5G FRP Locks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-hands-free-tga-file-transformation-and-upload-for-websites/"><u>Movavi: Hands-Free TGA File Transformation and Upload for Websites</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-10-webm-converters-to-mp4-expert-reviews/"><u>New Top 10 WebM Converters to MP4 Expert Reviews</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-samsung-galaxy-m54-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Samsung Galaxy M54 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-x5-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco X5 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-your-hardware-drivers-with-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Reinstall your hardware drivers with Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/visionmatic-screen-logger-pro-for-2024/"><u>VisionMatic Screen Logger Pro for 2024</u></a></li>
+</ul></div>
 

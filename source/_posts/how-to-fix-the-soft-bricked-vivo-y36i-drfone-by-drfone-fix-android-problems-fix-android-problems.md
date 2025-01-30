@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y36i? | Dr.fone
-date: 2024-07-14T05:50:41.571Z
-updated: 2024-07-15T05:50:41.571Z
+date: 2025-01-27T16:29:38.945Z
+updated: 2025-01-30T01:48:10.151Z
 tags: 
   - problems
 categories:
@@ -46,11 +46,12 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
 
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
@@ -71,6 +72,10 @@ Once the Bootloader is unlocked, take a backup of all your data by selecting “
 
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
 
 Once at the recovery mode, select “Install Zip from SD Card” from the options.
@@ -82,9 +87,14 @@ Scroll down using the volume key and use the power key to select the downloaded 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
@@ -96,9 +106,6 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo Y36i
 
 Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog of our lives. Be it in the professional era or personal (gossips, oomph) stuffs, it is a crucial engaging kind of application. WhatsApp is the slow poison yet a useful tool used worldwide after call logs or messages. Imagining a day without is enough to put someone off. And if one has recently faced a problem in WhatsApp crashing or not opening, then it is enough to give a heart break. It can be due to Cache memory piled up, storage running out of space, WhatsApp components getting corrupted. In such a case, resolving the problem by using an effective solution is very important! Don’t worry and wander as we will provide impeccable range of fixes to bid bye to WhatsApp stopping problem.
@@ -106,8 +113,6 @@ Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog o
 ## Cause 1: WhatsApp-related Firmware Components went wrong
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -161,6 +166,10 @@ The purpose of Cache in a device is to keep the track of frequently used data an
 
 ![whatsapp stopping - fix cache conflict](https://images.wondershare.com/drfone/article/2019/06/clear-whatsapp-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause 3: WhatsApp components corruption
 
 A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp. In such case, all you need to do is uninstall and install the WhatsApp again. This is how you do it.
@@ -178,6 +187,10 @@ Insufficient storage could be the other reason why for your WhatsApp has stopped
 - Firstly, go to Settings and check the storage. Make sure it is enough i.e. at least 100 to 200MB.
 - Secondly, start eliminating the apps that are no longer needed. This will indeed create more space in your device and will let your WhatsApp wok properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause 5: Gmail Account no longer valid or hacked
 
 It is a well-known fact that Android device and Gmail account go hand in hand. To run the Vivo Y36i device smoothly, it is always asked to enter your Gmail address for further configurations. And when WhatsApp stops on your device, the reason might be your Gmail account. Most probably it is not valid now or maybe hacked. If this is the case, we suggest you to log out and log in with some another Gmail account.
@@ -185,9 +198,6 @@ It is a well-known fact that Android device and Gmail account go hand in hand. T
 - Log out by opening “Settings” and tap on “Accounts”.
 - Choose your Google account and tap on “REMOVE ACCOUNT”.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - fix gmail account](https://images.wondershare.com/drfone/article/2019/06/log-out-gmail.jpg)
 
 Now, you can login again and check if WhatsApp works or not.
@@ -225,8 +235,6 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
 
-
-
 ## How To Restore a Bricked Vivo Y36i Back to Operation
 
 In moments of lag or freezing on your Android, you might **brick Your Vivo Y36i,** which can be unsettling. This is more than just the loss of a device. A **bricked cell phone** also involves potential data erasure. Yet, it's crucial to understand the true implications of a **bricked phone**. This page tackles how to address the issue of a bricked Android phone.
@@ -235,13 +243,16 @@ This comprehensive guide aims to the reasons behind Android phones becoming bric
 
 ![man holding a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-01.jpg)
 
-
 ## Part 1. What are Brick Phones: At a Glance
 
 The term "**bricked phone**" is used when a device becomes non-functional. This is typically due to a critical software or firmware error. There are two distinct scenarios for encountering a bricked phone: a soft brick and a hard brick.
 
 - **Soft Brick**. A soft brick entails a phone that's not operational due to software glitches or conflicts but is not irreparable.
 - **Hard Brick**.A hard brick signifies a more dire situation. This is where the phone becomes inoperable, resembling an actual brick in terms of functionality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Common Causes of a Cell Phone Bricking
 
@@ -273,13 +284,18 @@ Below are solutions that you can employ to fix various brick phone scenarios.
 
 ![rebooting a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reverting Android Device to Factory Defaults (Soft Brick)
 
 A universal approach to trying to recover a **brick phone** exists for all Android phones. This is, consider restoring your device to its factory settings. You can find instructions specific to your phone model online. Although this procedure erases all your data, it's possible to regain the use of your brick phone.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Get in Touch With the Manufacturer (Hard Brick and Soft Brick)
 
 Normally, smartphone warranties span from 1 to 2 years. If your phone remains unrooted and falls within that coverage period, consider reaching out to the manufacturer. This direct approach could lead to your phone being repaired or replaced with a new one at no cost to you.
@@ -350,12 +366,15 @@ Below are the steps to recover data on a bricked mobile phone.
 
 **4,311,328** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing a **bricked phone** may seem daunting, but solutions are within reach. This page explained the distinctions between soft and hard brick scenarios. It also identified common causes and revealed effective methods for unbricking.
 
 Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. The tool offers a comprehensive toolkit for recovery and data rescue. The power to reclaim lost data lies in your hands. Act, follow the methods outlined, and recover your brick phone.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -369,9 +388,22 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-tips-for-conducting-obs-meetings-via-zoom-for-2024/"><u>[New] Expert Tips for Conducting OBS Meetings via Zoom for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-culinary-comrades-youtubes-best-food-blogs/"><u>[New] In 2024, Culinary Comrades YouTube's Best Food Blogs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-lightning-fast-windows-evaluation-path-for-2024/"><u>[New] Lightning-Fast Windows Evaluation Path for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-the-moment-expert-tips-for-amazing-android-slow-mo-videos/"><u>2024 Approved Capturing the Moment Expert Tips for Amazing Android Slow Mo Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-the-chase-8-simple-youtube-thumbnail-builders/"><u>Cut-to-the-Chase 8 Simple YouTube Thumbnail Builders</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-finding-and-updating-toshiba-laptop-driver-software-for-windows-users/"><u>Easy Guide: Finding and Updating Toshiba Laptop Driver Software for Windows Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a25-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A25 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone X?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-neo-5-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT Neo 5 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-13c-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi 13C 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Techniques for Dealing with Razer ManO'War Microphone Problems
-date: 2025-01-16T16:04:37.417Z
-updated: 2025-01-22T16:11:45.102Z
+date: 2025-01-25T16:00:40.776Z
+updated: 2025-01-29T17:00:18.169Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d5d5810dfb5162fe3838fd5a512ce840bf5c9c8c5
 ## Reviving Your Onikuma Microphone - Top Troubleshooting Tips for Sound Success
 
 If you’re experiencing Onikuma headset mic not working, you’re not alone. This is a common issue reported by many users, but don’t worry. After reading this post, you’ll learn 4 quick & easy fixes to get your headset mic back to working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Here are the fixes
 
@@ -40,12 +44,20 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-1.jpg)
 2. Scroll down to**Recording Audio** . Then select it and click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Check the privacy settings
@@ -67,10 +79,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Set your Onikuma mic as the default device
 
  If there are multiple microphone inputs on your computer, the Onikuma headset mic might not be used properly until you set it as the default device. Here’s how:
@@ -86,18 +94,14 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
@@ -129,14 +133,10 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -165,19 +165,20 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-integrated-systems-approach-for-film-recording-on-diverse-computers/"><u>[New] In 2024, Integrated Systems Approach for Film Recording on Diverse Computers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-compilation-of-top-10-free-youtube-spaces-for-digital-illustrators/"><u>[New] The Ultimate Compilation of Top 10 Free YouTube Spaces for Digital Illustrators</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-cutting-edge-photography-apps-on-iphones-vs-androids/"><u>[Updated] 2024 Approved Cutting-Edge Photography Apps on iPhones vs Androids</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-harness-the-power-of-speech-to-text-in-google-documents/"><u>[Updated] 2024 Approved Harness the Power of Speech-to-Text in Google Documents</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-edu-stream-100-cutting-edge-learning-yt-for-2024/"><u>[Updated] Edu-Stream 100 Cutting-Edge Learning YT for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-key-steps-turning-visual-media-from-pinterest-into-music-files/"><u>[Updated] Key Steps Turning Visual Media From Pinterest Into Music Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-beyond-facebooks-borders-a-users-guide-to-hidden-activities/"><u>Exploring Beyond Facebooks' Borders - A User’s Guide to Hidden Activities</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-xiaomi-redmi-12-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi 12 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/your-francophone-reading-journey-starts-with-these-novels/"><u>Your Francophone Reading Journey Starts with These Novels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-tips-for-sharper-images-on-google-meet-calls/"><u>[New] 2024 Approved Top Tips for Sharper Images on Google Meet Calls</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-quickest-windowed-image-analyzer/"><u>[New] In 2024, Quickest Windowed Image Analyzer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-revolutionary-srt-adjustments-unleash-potential-on-both-oses/"><u>[Updated] 2024 Approved Revolutionary SRT Adjustments Unleash Potential on Both OSes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-average-gain-for-youtubers-per-ad-exposure-in-2024/"><u>[Updated] Average Gain for YouTubers per Ad Exposure, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-repairing-missing-or-corrupted-msodll-files/"><u>Expert Advice on Repairing Missing or Corrupted Mso.dll Files</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a78-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A78 Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-crafting-content-for-insta-clout-a-9-step-playbook-for-fame/"><u>In 2024, Crafting Content for Insta Clout A 9-Step Playbook for Fame</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastering-mac-audacitys-audio-recording-guide/"><u>In 2024, Mastering Mac Audacity's Audio Recording Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/prime-screen-capture-tools-no-lag-just-clarity/"><u>Prime Screen Capture Tools - No Lag, Just Clarity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oneplus-open-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix OnePlus Open Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tiny-screenplay-scheme-for-2024/"><u>Tiny Screenplay Scheme for 2024</u></a></li>
 </ul></div>
 

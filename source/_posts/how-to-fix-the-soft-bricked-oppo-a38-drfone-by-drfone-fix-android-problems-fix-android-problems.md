@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Oppo A38? | Dr.fone
-date: 2024-07-14T05:48:36.473Z
-updated: 2024-07-15T05:48:36.473Z
+date: 2025-01-26T16:45:46.813Z
+updated: 2025-01-30T01:20:13.778Z
 tags: 
   - problems
 categories:
@@ -44,9 +44,6 @@ Since the phone refuses to boot, Cache can be cleared from entering into the Rec
 
 Once you are the recovery mode screen, you will see a number of options as shown in the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
@@ -59,6 +56,10 @@ This method will help you erase all the clogged up and unwanted files. You may l
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -69,9 +70,6 @@ Firstly, you must root your phone and unlock the Bootloader. Every phone’s mec
 
 Once the Bootloader is unlocked, take a backup of all your data by selecting “Backup” or “Android” back in recovery mode. The process should not take long and all you need to do is tap “OK” to config backup.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
@@ -96,6 +94,10 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo A38
 
 “Unfortunately TouchWiz home has stopped” is the talk of the town due to annoying TouchWiz UI, a front-end user interface developed by Oppo A38. Not to mention, the Oppo A38 has borne a whole lot of heat from its agitated users over the years and the reason is pretty much obvious due to the pre-installed bloatware apps and the theme launch “TouchWiz home”. That not just brutally annoys users and eats up a heck of internal storage space but lags up too often due to low speed and stability. As a result users end up with “Unfortunately TouchWiz home has stopped” and “Unfortunately, TouchWiz has stopped”. Apparently, there are several flaws in the design and functioning of this launcher and hence, Touchwiz keeps stopping or becomes unresponsive.
@@ -110,11 +112,17 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -138,13 +146,14 @@ After you open the software, hit on the “System Repair” button from the main
 
 ![fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Choose the Tab**
 
 Now, from the next screen, you are supposed to choose “Android Repair” tab. It is given on the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![repair android to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 **Step 4: Enter Right Information**
@@ -171,9 +180,6 @@ You will get some instructions on your screen to keep your device in Download mo
 
 Now, when the firmware is downloaded, the program will itself begin to repair your device. Wait and keep the Oppo A38 device connected until you get the notification for process completion.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![get android device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ### Clear the cache data the TouchWiz
@@ -262,8 +268,6 @@ Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog o
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix firmware component issues
@@ -306,6 +310,10 @@ Now, you just have to sit back and relax. The program will begin to repair your 
 
 ![whatsapp stopping - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause 2: Cache conflict
 
 The purpose of Cache in a device is to keep the track of frequently used data and information of an application. And when there are the files or data that are corrupted in the cache, this might raise the “Unfortunately WhatsApp has stopped” error. Therefore, you need to clear the WhatsApp data if the above method went futile. Here are the steps.
@@ -342,7 +350,15 @@ It is a well-known fact that Android device and Gmail account go hand in hand. T
 
 ![whatsapp stopping - fix gmail account](https://images.wondershare.com/drfone/article/2019/06/log-out-gmail.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, you can login again and check if WhatsApp works or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cause 6: WhatsApp Incompatible with your Android Phone
 
@@ -373,15 +389,17 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - launch gbwhatsapp](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Simply proceed with entering your name, country and contact number. The app will verify your account. You are now ready to use this app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
 
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -395,9 +413,18 @@ Now that you have decided where to download the apk file, these are the followin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-experience-next-gen-notetaking-with-mematic/"><u>[Updated] Experience Next-Gen Notetaking with Mematic</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-principles-of-filming-inspirational-daily-living-documentaries/"><u>[Updated] In 2024, Principles of Filming Inspirational Daily Living Documentaries</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-how-to-fix-missing-attachments-in-outlook-a-step-by-step-guide/"><u>1. How To Fix: Missing Attachments In Outlook - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/canon-image-masters-10plus-luts-some-are-free/"><u>Canon Image Masters - 10+ LUTs, Some Are Free</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-x6-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X6 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-x5-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X5 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/tailored-guide-to-following-and-watching-facebook-broadcasts-for-2024/"><u>Tailored Guide to Following and Watching Facebook Broadcasts for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-snapping-photos-of-your-desktop-on-windows-11/"><u>Ultimate Tutorial: Snapping Photos of Your Desktop on Windows 11</u></a></li>
+</ul></div>
 

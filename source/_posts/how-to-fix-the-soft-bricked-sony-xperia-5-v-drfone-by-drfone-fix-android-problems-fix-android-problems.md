@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Sony Xperia 5 V? | Dr.fone
-date: 2024-07-14T05:49:58.012Z
-updated: 2024-07-15T05:49:58.012Z
+date: 2025-01-27T23:18:13.903Z
+updated: 2025-01-30T02:18:41.437Z
 tags: 
   - problems
 categories:
@@ -56,6 +56,10 @@ This method will help you erase all the clogged up and unwanted files. You may l
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -84,11 +88,19 @@ This might take a few minutes of your time, but once the process is complete, re
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quick Fixes for Why Is My Sony Xperia 5 V Black and White
 
@@ -98,9 +110,6 @@ If you're asking **why is my Android phone in black and white**, then you're in 
 
 ![girl pointing at phone with problem](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Phone Screen in Black and White? Easy Fixes for Android Devices
 
 Discovering your Sony Xperia 5 V going monochrome can be annoying. The section below answers the question: **why did my Sony Xperia 5 V phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
@@ -113,9 +122,6 @@ Accidental activation of accessibility settings may turn your display monochroma
 
 - **Step 1:** Open your phone's settings. Navigate to the **Accessibility** or **Vision** section.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![color inversion option turned on](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-03.jpg)
 
 - **Step 2:** Disable the **Grayscale** or **Color** **Inversion** option.
@@ -133,9 +139,6 @@ System glitches or software bugs can trigger display issues. It can result in a 
 
 - **Step 1:** Go to your phone's settings. Check for software updates in the **Software** **update** or **System** **update** section.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![checking for system updates on android](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-04.jpg)
 
 - **Step 2:** Update your device if there is a software update available. Ensure your device is running the latest software version.
@@ -192,20 +195,12 @@ Repair Android System Errors without Any Trouble.
 
 ![dr.fone device details window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Follow the on-screen instructions and wait for the program to download the firmware. Once downloaded and verified, Dr.Fone automatically initiates the repair process on your Sony Xperia 5 V.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone downloading firmware window](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 4:** After a while, your Sony Xperia 5 V will have all system issues fixed. Click **Done** to complete the process or choose **Try** **again** if the problem persists, allowing you to repeat the steps.
@@ -298,8 +293,6 @@ The guide highlights the "**Why is My Sony Xperia 5 V black and white**" query. 
 
 The guide provided solutions for display issues and showcased the versatility of Dr.Fone System Repair Android. It's a holistic solution for users seeking a seamless and reliable Android experience, addressing diverse concerns with precision and efficiency.
 
-
-
 ## Top 4 Android System Repair Software for Sony Xperia 5 V Bricked Devices
 
 Is your Sony Xperia 5 V device showing signs of being "bricked" or "soft-bricked"? When a **Sony Xperia 5 V is bricked**, it becomes unresponsive and unusable. But fear not, as this article will guide you through reviving your device's functionality. It will delve into the significance of unbricking and how it restores usability.
@@ -356,6 +349,14 @@ Dr.Fone - System Repair (Android) is like a magic wand for your Sony Xperia 5 V 
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - System Repair (Android)
 
 Repair Android System Errors without Any Trouble.
@@ -404,6 +405,10 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Sony Xperi
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,001,177** people have downloaded it
 
 - **Step 2:** Select **Android** on the following screen to troubleshoot an Android device. After that, you'll be brought to a new screen where you can initiate the fix by clicking **Start**.
@@ -413,6 +418,10 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Sony Xperi
 - **Step 3:** When you click through to the next window, the service will automatically recognize the manufacturer of the Android device. Choose the appropriate **Brand**, **Name**, **Model**, **Country**, and **Carrier** from the drop-down menus. Select **OPEN** in the **Carrier** area if the phone is unlocked. The next step is to tick the box labeled **I accept the risk and am ready to continue**. Click **Next** to proceed with the rest of the Sony Xperia 5 V device repair.
 
 ![drfone android device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Put your Sony Xperia 5 V into **Download Mode** when prompted.
 
@@ -440,9 +449,6 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Sony Xperi
 
 This software is a real game-changer in resolving Android system problems. It specializes in repairing system issues, enhancing device performance, and cleaning up unnecessary files.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![repair system and phone master](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-11.jpg)
 
 #### Key Features
@@ -473,6 +479,10 @@ Below is the disadvantage of this software:
 True to its name, System Repair for Android is designed to repair and rejuvenate your device's Android system. It's a reliable tool to tackle various software issues, including bricked devices.
 
 ![google play system repair for android app](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -519,6 +529,10 @@ This app's advantages include the following:
 Check out this app's disadvantages below:
 
 - Not solely focused on software repair, might not cover all scenarios.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Tips on Preventing Future Bricking Incidents
 
@@ -568,7 +582,6 @@ Encountering a **bricked Sony Xperia 5 V** device can be a frustrating roadblock
 
 So, whether your device is experiencing a soft brick or a hard brick, you now have the best tools and knowledge to overcome it. Dive into the Android system repair software world, explore your options, and bid farewell to brick. Welcome a revived, functioning Sony Xperia 5 V device into your daily life.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -581,9 +594,17 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastery-of-instagram-video-marketing-the-ultimate-plan-crafted-here/"><u>[New] 2024 Approved Mastery of Instagram Video Marketing The Ultimate Plan Crafted Here</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-windows-menu-with-portable-software-tools/"><u>Customizing Windows Menu with Portable Software Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-m54-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy M54 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-frame-your-shot-ultimate-software-guide-image-editors/"><u>In 2024, Frame Your Shot Ultimate Software Guide Image Editors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-k11x-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo K11x Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-agni-2-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Agni 2 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-light-techniques-for-improving-youtube-video-quality/"><u>Shedding Light Techniques for Improving YouTube Video Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zoom-innovations-key-techniques-to-improve-video-transformation-processes/"><u>Zoom Innovations Key Techniques to Improve Video Transformation Processes</u></a></li>
+</ul></div>
 

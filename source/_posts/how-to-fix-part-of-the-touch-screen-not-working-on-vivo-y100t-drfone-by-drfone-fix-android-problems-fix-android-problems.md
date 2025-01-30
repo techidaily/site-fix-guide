@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y100t | Dr.fone
-date: 2024-07-14T05:46:07.034Z
-updated: 2024-07-15T05:46:07.034Z
+date: 2025-01-26T00:49:59.478Z
+updated: 2025-01-29T16:42:56.587Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ You probably touch the screen of your phone hundreds of times per day. It’s no
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Is Part of My Screen Not Working
 
 There are two possible causes as to why your phone’s touch screen is not working. One is the touch screen may have been damaged, and the other is the Vivo Y100t device may be experiencing technical difficulties.
@@ -89,6 +86,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -105,6 +106,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
 ### Reset Device to Factory Settings
@@ -119,11 +124,19 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
@@ -153,6 +166,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4:**** Before repairing your Vivo Y100t, you must boot it into ****Download**** ****mode****. To boot your Vivo Y100t or tablet into DFU mode, follow the steps below:
 
 **For a device that has a Home button:**
@@ -162,6 +179,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For a device that lacks a Home button:**
 
@@ -174,6 +195,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Vivo Y100t. And in a while, your Vivo Y100t’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported OS
 
@@ -284,10 +309,11 @@ If you're experiencing apps crashing after a recent update, consider uninstallin
 
 To do this on your Vivo Y100t, navigate to **Settings** > **Apps**, then select **Vivo Y100t Android System WebView**. Tap the **menu** icon in the top right corner and tap **Uninstall updates**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall android system webview updates](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Update Android WebView
 
@@ -384,8 +410,6 @@ For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reli
 
 **4,684,259** people have downloaded it
 
-
-
 ## 7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y100t
 
 People are increasingly complaining about Google Play Error Codes which pop-up during downloading, installing or updating an App via Google Play Store. Amongst these, the most recent and common one being Error Code 963.
@@ -414,11 +438,13 @@ Error Code 963 is basically an outcome of data crash which mostly is seen in che
 
 All these reasons and more can handle with ease and you can continue to use Google play services smoothly. In the following segment, we will discuss various fixes to cure the problem to enable to you download, install and update Apps on your device normally.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Easiest solution to fix _Error Code 963_ on Android
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -447,18 +473,6 @@ Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ a
 
 Step 3 – On the following screen, you need to choose the appropriate details for your device like the name, brand, model, country/region etc. Later, go for warning confirmation and hit ‘Next’.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![device references selected](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Taking Android device in Download mode for repairing**
@@ -511,6 +525,10 @@ Select “Google Play Store” and from the options that appear, tap on “Clear
 
 ![Clear Data](https://images.wondershare.com/drfone/article/2017/06/14984133035184.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you are done clearing Google Play Store Cache and Data, try to download, install or update the App facing Google Play Error 963 again.
 
 #### **2\. Uninstall updates for Play Store**
@@ -523,9 +541,6 @@ Visit “Settings” and select “Application Manager”.
 
 Now select “Google Play Store” from “All” Apps.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select “Google Play Store”](https://images.wondershare.com/drfone/article/2017/06/14984135667390.jpg)
 
 In this step, click on “Uninstall Updates” as shown below.
@@ -544,9 +559,6 @@ From “All” Apps click on the App which is unable to update.
 
 Now click on “Move to Phone” or “Move to internal storage” and try to download its update again from the Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![“Move to internal storage”](https://images.wondershare.com/drfone/article/2017/06/14984137603366.jpg)
 
 Try updating the App now. If the Apps’s update does not download even now, DO NOT worry. There are three more ways to help you.
@@ -605,7 +617,6 @@ This remedy is as simple as it sounds and has helped many HTC users to get rid o
 
 Google Play Errors are a very common phenomenon these days, especially Error Code 963 which usually occurs in the Google Play Store when we try to download, install or update an App. There is no need to worry if you see Error Code 963 pop-up on your screen as your device and its software are not to be blamed for Error 963 to suddenly surface. It is a random error and can be fixed easily by you. You do not need any technical assistance to deal with the issue. All you need to do is follow the steps introduced in this article to use Google Play Store and its services smoothly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -618,9 +629,20 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-top-asmr-content-creators-on-youtube/"><u>[New] 2024 Approved Top ASMR Content Creators on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-velocity-hero-4-versus-ghost-s-racing-for-2024/"><u>Capturing Velocity Hero 4 Versus Ghost-S Racing for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-the-latest-video-editing-capabilities-with-movavi-pro-2024/"><u>Exploring the Latest Video Editing Capabilities with Movavi Pro 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/google-meet-username-transformation-guide-for-2024/"><u>Google Meet Username Transformation Guide for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-12-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi 12 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-engaging-audiences-with-jujutsu-kaisen-tiktok-content/"><u>In 2024, Engaging Audiences with Jujutsu Kaisen TikTok Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-key-to-unlocking-the-best-video-production-talents/"><u>In 2024, The Key to Unlocking the Best Video Production Talents</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-smart-8-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Smart 8 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-s18-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo S18 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-poco-c55-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Poco C55 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-configuring-the-aeon-mq-9-theme-in-your-kodi-interface/"><u>Step-by-Step Guide: Configuring the Aeon MQ #9 Theme in Your Kodi Interface</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nubia-red-magic-9-proplus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nubia Red Magic 9 Pro+ Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-5-foremost-security-first-email-solutions-available-today/"><u>Unveiling the 5 Foremost Security-First Email Solutions Available Today</u></a></li>
+</ul></div>
 

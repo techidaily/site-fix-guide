@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor 90? | Dr.fone
-date: 2024-07-14T05:46:49.623Z
-updated: 2024-07-15T05:46:49.623Z
+date: 2025-01-26T00:14:40.836Z
+updated: 2025-01-29T16:05:02.433Z
 tags: 
   - problems
 categories:
@@ -46,9 +46,17 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
@@ -102,6 +110,10 @@ In this article, we will review the details of this Android phone issue. We’ll
 
 The issue of Android phone running slow and freezing is not limited to old devices only. The same problem has also been observed in newly purchased units. The roots of this unfortunate occurrence vary from one user to another. It depends on different elements, from external factors like users’ handling of the Honor 90 device to internal factors such as its capabilities. To understand it more, below are some Android phone specifications related to the Honor 90 device's overall performance and speed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The CPU Core Count
 
 Unlike before, Android phones today are equipped with several cores. Each of them has the ability to execute a process alone. Therefore, the Honor 90 device can handle two or more tasks at once without compromising the quality of its performance. If your Honor 90 contains more CPU core, its performance surely be more powerful and speedy.
@@ -110,9 +122,6 @@ Unlike before, Android phones today are equipped with several cores. Each of the
 
 Simply put, clock speed is basically the speed at which the CPU cores can carry out a cycle in a second. A faster clock speed definitely translates into the Honor 90 device’s higher performance. For instance, an octa-core Android phone with a one GHz per second clock speed is a decent device. But it’s less powerful than a device with the same number of cores but runs at two GHz per second.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Random Access Memory
 
 In a simple language, Random Access Memory (RAM) temporarily stores the data from apps that are currently running. Smartphones can be more flexible with multi-tasking if their RAM has enough space. So if you’re among these users who perform multiple tasks simultaneously, you better choose a device with more RAM.
@@ -137,6 +146,10 @@ Mobile apps need to save data on your phone. They perform the tasks based on the
 
 You can modify the Honor 90 device’s animation type and speed on your Honor 90 via the developer’s option. However, altering its default settings can sometimes make the Android phone run slow. If the speed is set slower, more delays are added to the animation. Hence, it takes a while for Your Honor 90 to launch an app or complete a certain process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### You’re Using an Outdated Android Version
 
 If your Honor 90 is running slow and freezing, the Honor 90 device’s software is probably outdated. The mobile apps installed on your device are lagging or crashing because they’re no longer compatible with the OS. It happens most of the time. Hence, always watch out for OS updates.
@@ -145,12 +158,13 @@ If your Honor 90 is running slow and freezing, the Honor 90 device’s software 
 
 Operating systems and device software serve as the main component of all smartphones. Sometimes, it runs into inevitable problems caused by computer bugs and other glitches. When it happens, the Honor 90 device’s overall performance is affected. So that can be the reason why sometimes your Honor 90 is running slow and freezing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Your Internet Connection is Unstable
 
 Of course, a slow internet connection can make the Android phone runs slow too. Most apps today rely heavily on the internet to execute some tasks like communicating and streaming. So don’t panic when your Honor 90 is running slow and freezing. It’s possible that your internet connection is messing up with you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When My Honor 90 Lags?
 
@@ -163,6 +177,10 @@ Sometimes, minor bugs can give your device a hard time. It can be the reason why
 - **Step 1:** For seven seconds or more, hold the **Power** and the **Volume Down** button together.
 
 ![android phone restarts](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Several options will manifest on the screen. From there, click **Restart.** Wait until your device completely shuts off and restarts again.
 
@@ -188,9 +206,6 @@ _Initiate the following steps first to enable the developers option on your devi
 - **Step 1:** Go to **Settings.**
 - **Step 2:** Find the **About Phone** option. Click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![enable developers options](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-3.JPG)
 
 - **Step 3:** Find the **Build Number.** And then click on it seven times.
@@ -217,9 +232,6 @@ It’s always recommended to update your phone to the latest Android version. As
 
 ![update android version](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-5.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Reset Your Honor 90 to Factory Settings
 
 One way to restore the original performance of your Honor 90 is to revert it back to factory settings. It deletes all the phone’s data and adjusts the settings to default. Most of the time, this procedure works magic. It fixes numerous issues, including the Android phone that’s slow and constantly freezing. But ensure your phone has already been backed up before commencing this step. You may use [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to help you back up and secure your files.
@@ -273,9 +285,6 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 - **Step 7:** Wondershare Dr.Fone will automatically download the firmware that matches your device’s specifications. Wait until the process has been completed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 8:** Thereafter, the details about the newly downloaded firmware package will be displayed on the screen. From there, click **Fix Now.**
@@ -290,6 +299,10 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![install new firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 11:** A notification will immediately appear after installing the new firmware. Click **Done** if your phone starts normally. Otherwise, click **Try Again** to repeat the process.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
@@ -300,7 +313,9 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 Android phone is capable of performing lots of stuff. It can assist you in both your personal and professional tasks. But if it’s sluggish and doesn’t execute optimally, the good things it promises all go down the drain. So if you notice that your Honor 90 is running slow and freezing, act fast to resolve the issue. [<u>Wondershare Dr.Fone</u>](https://drfone.wondershare.com/guide/android-repair.html) can be of great help in this kind of situation. It’s an all-in-one mobile solution that can assist you with system repair, phone backup, data recovery, and a lot more.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quick Fixes for Why Is My Honor 90 Black and White
 
@@ -315,6 +330,10 @@ If you're asking **why is my Android phone in black and white**, then you're in 
 Discovering your Honor 90 going monochrome can be annoying. The section below answers the question: **why did my Honor 90 phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
 
 ![phone display in black and white](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Accessibility Settings
 
@@ -340,6 +359,10 @@ System glitches or software bugs can trigger display issues. It can result in a 
 - **Step 1:** Go to your phone's settings. Check for software updates in the **Software** **update** or **System** **update** section.
 
 ![checking for system updates on android](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Update your device if there is a software update available. Ensure your device is running the latest software version.
 
@@ -489,7 +512,6 @@ The guide highlights the "**Why is My Honor 90 black and white**" query. It offe
 
 The guide provided solutions for display issues and showcased the versatility of Dr.Fone System Repair Android. It's a holistic solution for users seeking a seamless and reliable Android experience, addressing diverse concerns with precision and efficiency.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -502,9 +524,20 @@ The guide provided solutions for display issues and showcased the versatility of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-comprehensible-guide-to-high-quality-audios-on-youtube/"><u>[New] Comprehensible Guide to High-Quality Audios on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-simplify-passport-photography-with-these-top-10-low-cost-solutions-for-2024/"><u>[Updated] Simplify Passport Photography with These Top 10 Low-Cost Solutions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726227892975-wmampegmovavi/"><u>「シェアリングで簡単WMA・MPEG変換」Movaviによる完全無料のオンラインツール</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unbeatable-youtube-video-titling-assistant/"><u>2024 Approved Unbeatable YouTube Video Titling Assistant</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-f23-5g-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset F23 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-y27-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo Y27 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/top-ten-tools-to-transform-your-picture-grids-for-2024/"><u>Top Ten Tools to Transform Your Picture Grids for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-mac-video-editing-discover-the-best-options-beyond-vsdc/"><u>Updated In 2024, Mac Video Editing Discover the Best Options Beyond VSDC</u></a></li>
+</ul></div>
 

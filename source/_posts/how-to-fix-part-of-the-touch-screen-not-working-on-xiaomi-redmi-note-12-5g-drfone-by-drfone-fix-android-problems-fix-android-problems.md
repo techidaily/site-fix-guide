@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 12 5G | Dr.fone
-date: 2024-07-14T05:46:33.130Z
-updated: 2024-07-15T05:46:33.130Z
+date: 2025-01-24T21:40:26.151Z
+updated: 2025-01-29T20:05:59.709Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ You probably touch the screen of your phone hundreds of times per day. It’s no
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Is Part of My Screen Not Working
 
 There are two possible causes as to why your phone’s touch screen is not working. One is the touch screen may have been damaged, and the other is the Xiaomi Redmi Note 12 5G device may be experiencing technical difficulties.
@@ -75,6 +72,10 @@ When your touch screen stops working, the first thing you should do is restart y
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn On Safe Mode
 
 You should switch to Safe mode whenever an application or piece of software causes a problem on your device. Only the most fundamental system components are loaded and used when operating in Safe mode.
@@ -105,6 +106,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
 ### Reset Device to Factory Settings
@@ -124,6 +129,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
@@ -223,7 +232,6 @@ In moments of lag or freezing on your Android, you might **brick Your Xiaomi Red
 This comprehensive guide aims to the reasons behind Android phones becoming bricked. By reading below, you'll learn effective methods to **unbrick a mobile phone** without the risk of data loss.
 
 ![man holding a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-01.jpg)
-
 
 ## Part 1. What are Brick Phones: At a Glance
 
@@ -328,6 +336,10 @@ Below are the steps to recover data on a bricked mobile phone.
 
 ![dr.fone following on-screen instructions](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Once the Xiaomi Redmi Note 12 5G device enters Download Mode, the firmware will automatically start downloading. Follow the on-screen prompts and wait for the system to initiate the repair process. Once it concludes, the completion message will appear on the main window. Click **Done** to close the tool or click **Try again** to repeat the process.
 
 ![reviving brick phone process completion window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -335,6 +347,10 @@ Below are the steps to recover data on a bricked mobile phone.
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,311,328** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -348,16 +364,21 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
 
 If you're asking **why is my Android phone in black and white**, then you're in luck. Dive into the article below to unravel the causes behind your phone's black-and-white display. Discover insights on addressing this unexpected issue, enhancing your overall mobile experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![girl pointing at phone with problem](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Phone Screen in Black and White? Easy Fixes for Android Devices
 
 Discovering your Xiaomi Redmi Note 12 5G going monochrome can be annoying. The section below answers the question: **why did my Xiaomi Redmi Note 12 5G phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
 
 ![phone display in black and white](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Accessibility Settings
 
@@ -402,9 +423,6 @@ In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnosti
 
 - **Step 1:** Check for physical damage, loose connectors, or display hardware issues.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![broken android screen](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-06.jpg)
 
 - **Step 2:** Seek professional assistance or contact the Xiaomi Redmi Note 12 5G device manufacturer if hardware problems are suspected.
@@ -412,15 +430,13 @@ In rare cases, [hardware issues](https://drfone.wondershare.com/device-diagnosti
 Consider a reliable third-party tool if your phone persists in black and white despite troubleshooting attempts. Tools such as [Dr.Fone System Repair Android](https://drfone.wondershare.net/android-repair.html) offer advanced solutions for complex system issues. They ensure your phone regains its vibrant display without a hitch.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2. Using a Dedicated Tool: Dr.Fone for Fixing Black and White Display Problems
 
 Dr.Fone is a reliable solution for addressing black-and-white display issues on Android devices. For a stress-free repair experience, follow these simple steps using Dr.Fone - System Repair (Android).
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - System Repair (Android)
@@ -446,6 +462,10 @@ Repair Android System Errors without Any Trouble.
 - **Step 2:** Provide accurate device information, including brand, name, model, country/region, and carrier details. Confirm the warning and click **Next**.
 
 ![dr.fone device details window](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Follow the on-screen instructions and wait for the program to download the firmware. Once downloaded and verified, Dr.Fone automatically initiates the repair process on your Xiaomi Redmi Note 12 5G.
 
@@ -488,6 +508,10 @@ Below are additional functionalities of Dr.Fone that support your device to keep
 - **Phone Manager.**Fone acts as a comprehensive phone manager. It allows you to transfer contacts, SMS, photos, videos, and more between your Xiaomi Redmi Note 12 5G and computer. The feature simplifies data management and ensures seamless organization.
 - **Phone Backup**. The tool enables selective backup of Android data on a computer. It provides you with the flexibility to safeguard essential information. The selective backup feature ensures efficient use of storage and allows for easy restoration when needed.
 - **Screen Unlock Without Losing Data.**Fone offers a secure way to unlock the screen of Android devices without losing data. You can regain access to your devices without compromising valuable data, whether due to forgotten passwords, pattern locks, or PINs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Tips for Maintaining Your Phone Display Brilliance
 
@@ -541,9 +565,6 @@ The guide highlights the "**Why is My Xiaomi Redmi Note 12 5G black and white**"
 
 The guide provided solutions for display issues and showcased the versatility of Dr.Fone System Repair Android. It's a holistic solution for users seeking a seamless and reliable Android experience, addressing diverse concerns with precision and efficiency.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -556,9 +577,26 @@ The guide provided solutions for display issues and showcased the versatility of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-unveil-top-10plus-platforms-for-virtual-worship-spaces-for-2024/"><u>[Updated] Unveil Top 10+ Platforms for Virtual Worship Spaces for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-upscaling-your-youtube-visuals-for-2024/"><u>[Updated] Upscaling Your YouTube Visuals for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/essential-steps-for-top-tier-tiktok-intros-mac-edition-for-2024/"><u>Essential Steps for Top-Tier TikTok Intros - Mac Edition for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479903252-facing-issues-with-your-iphones-cellular-data-discover-10-remedies/"><u>Facing Issues with Your iPhone's Cellular Data? Discover 10 Remedies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-s24-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy S24 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-captivate-conversations-essential-cool-channel-titles/"><u>In 2024, Captivate Conversations Essential Cool Channel Titles</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-11-pro-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 11 Pro to Computer? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-motorola-edge-2023-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Motorola Edge 2023 Without PUK Codes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-unveiling-the-best-screen-capture-videographers-of-2023/"><u>In 2024, Unveiling the Best Screen Capture Videographers of 2023</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-moto-g73-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Moto G73 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-note-50-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme Note 50 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-t2-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo T2 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-motorola-moto-g73-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Motorola Moto G73 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-infinix-note-30-vip-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Infinix Note 30 VIP ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-resolving-no-available-camera-error-on-snap-device/"><u>Troubleshooting: Resolving 'No Available Camera' Error on Snap Device</u></a></li>
+</ul></div>
 

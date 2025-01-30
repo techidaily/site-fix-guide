@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 12T Pro | Dr.fone
-date: 2024-07-14T05:46:36.730Z
-updated: 2024-07-15T05:46:36.730Z
+date: 2025-01-23T19:26:27.677Z
+updated: 2025-01-29T21:58:34.811Z
 tags: 
   - problems
 categories:
@@ -122,6 +122,10 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -139,6 +143,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 2:**** Connect your Xiaomi Redmi Note 12T Pro or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
@@ -213,8 +221,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Xiaomi Redmi Note 12T Pro 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## [8 Quick Fixes] Unfortunately, Snapchat has Stopped on Xiaomi Redmi Note 12T Pro
 
 Have you ever been deep in conversation with a loved one or friend, taking advantage of all the funny filters and games Snapchat has to offer when you’ve suddenly been presented with the ‘Unfortunately, Snapchat has Stopped’ error code? This is usually followed by the app crashing back to the main menu.
@@ -281,8 +287,6 @@ If you’re experiencing the Snapchat crashing on Android often, or you’re exp
 
 The best way to fix this is to repair your device using the software known as Dr.Fone - System Repair (Android). This is a powerful repair system that can completely recover your device from any errors, including the Snapchat keeps crashing error.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Dedicated repair tool to fix Snapchat crashing on Android.
@@ -311,10 +315,11 @@ Once completed, open the software, so you’re on the main menu.
 
 On the next screen, use the drop-down menus to confirm the model, brand, operating system, and carrier of your device. Click Next to confirm the details are correct.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![snapchat crashing - select details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** You’ll now need to put your phone into Download Mode, sometimes referred to as Recovery Mode. For this, you can follow the onscreen instructions. Make sure your device stays connected to your computer throughout this process.
 
@@ -345,8 +350,9 @@ Fortunately, it’s easy to check to make sure you’re running the latest versi
 **Step 2:** Tap the ‘Check for Updates’ option. If an update is available, you’ll then have the option to Install Now or Install Overnight. If no update is available, you’ll see a notification stating your device is up to date and no action is needed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 6. Connect to another Wi-Fi
 
 In some cases, you may be trying to connect to a Wi-Fi network that’s not very stable. This may keep cutting the connection to your device, which in turn is causing Snapchat to crash on Android.
@@ -355,9 +361,6 @@ To resolve this, you can simply try connecting to another Wi-Fi network or a dat
 
 **Step 1:** Open the Settings menu on your Xiaomi Redmi Note 12T Pro, followed by the Wi-Fi option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![snapchat stopping - connect to wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change1.png)
 
 **Step 2:** Tap the new Wi-Fi network you’re currently connected to, and then tap the ‘Forget’ option, to stop your phone connecting to it.
@@ -367,6 +370,10 @@ To resolve this, you can simply try connecting to another Wi-Fi network or a dat
 **Step 3:** Now tap the new Wi-Fi network you want to connect to. Insert the Wi-Fi security code and connect. Now try reopening and using the Snapchat to see if you can use it.
 
 ![snapchat stopping - reconnect wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7. Stop using the custom ROM
 
@@ -415,9 +422,6 @@ Given below are eight techniques to flash your Xiaomi Redmi Note 12T Pro safely,
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ZqS8c3T65WI"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 1: Can a Dead Phone Be Flashed?
@@ -430,8 +434,6 @@ From battery issues to physical damage to the Xiaomi Redmi Note 12T Pro device, 
 
 While you are worried about how to flash Xiaomi Redmi Note 12T Pro instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Xiaomi Redmi Note 12T Pro logo.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One-click solution to flash Xiaomi Redmi Note 12T Pro
@@ -443,6 +445,10 @@ One-click solution to flash Xiaomi Redmi Note 12T Pro
 - It is one of its kind and the first one-click Android repair software on the market.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-step Tutorial
 
@@ -460,6 +466,10 @@ Step 2: Click ‘Android Repair’ from the available options, and then press th
 
 ![android repair to flash dead phone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: On the Xiaomi Redmi Note 12T Pro device information screen, pick the appropriate device brand, name, model, and other details followed by tapping the ‘Next’ button.
 
 ![choose brand info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -475,6 +485,10 @@ Step 1: It is essential to boot your Xiaomi Redmi Note 12T Pro in Download mode 
 - In the absence of a ‘Home’ button: Switch off the Android device and hold the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons for 5 to 10 seconds, then release them. Hit the ‘Volume Up’ button for entering the ‘Download’ mode.
 
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Press the ‘Next’ button for initiating firmware download.
 
@@ -506,9 +520,6 @@ Step 3: In this step, download the latest version of Odin on your PC and move it
 
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
@@ -544,6 +555,10 @@ Step 2: Once done, you should download the SP Flash tool and extract it on your 
 Step 3: Now, on the SP Flash tool window, click on “Download” and select “Scatter-loading”.
 
 ![scatter loading](https://images.wondershare.com/drfone/article/2017/07/14991898892877.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: The last step would be to locate the file downloaded by you and click “Open” and then finally, select “Download” on the SP Flash tool window.
 
@@ -585,6 +600,10 @@ Lastly, just click on “Refurbish” and connect your phone to the PC using a U
 
 That was it, the flashing process may take up to a few minutes after which your dead Xiaomi Redmi Note 12T Pro  will restart automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: How to flash a dead phone that won’t turn on via factory reset?
 
 Using tools for flashing Android devices can be a solution; however, it is heavily restricted to the Xiaomi Redmi Note 12T Pro device models. For a generalized solution, there can be other options that you can go with. Factory resetting an Android device by putting it in Recovery Mode is one way. To know **how to flash a dead Android phone** using factory reset, go through the steps featured below:
@@ -623,7 +642,6 @@ It has been observed that Wondershare Dr.Fone – System Repair (Android) assist
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -636,9 +654,23 @@ Carefully follow the instructions given, and you will be able to reboot your dea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-skillfully-secure-and-save-gif-images-from-facebooks-domain/"><u>[Updated] 2024 Approved How To Skillfully Secure and Save GIF Images From Facebook's Domain</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-experts-guide-to-utilizing-morphvox-voice-changers/"><u>[Updated] Expert's Guide to Utilizing MorphVOX Voice Changers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-boosting-popularity-on-tiktok-top-7-essential-apps-and-strategies/"><u>[Updated] In 2024, Boosting Popularity on TikTok Top 7 Essential Apps & Strategies</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-crafting-content-for-specific-youtube-subsets/"><u>2024 Approved Crafting Content for Specific Youtube Subsets</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/persistent-unmanaged-descent-of-spacecraft-continues-despite-advancements/"><u>Persistent Unmanaged Descent of Spacecraft Continues Despite Advancements</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-samsung-galaxy-a15-4g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Samsung Galaxy A15 4G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c02-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C02 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-note-13-proplus-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 13 Pro+ 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a24-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A24 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-the-frustration-effective-fixes-for-constant-keeps-on-wwe-2k22-pc/"><u>Stop the Frustration: Effective Fixes for Constant Keeps on WWE 2K22 PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/target-audience-of-the-apple-vision-pro-ar-headset-ideal-users-unveiled/"><u>Target Audience of the Apple Vision Pro AR Headset: Ideal Users Unveiled</u></a></li>
+</ul></div>
 

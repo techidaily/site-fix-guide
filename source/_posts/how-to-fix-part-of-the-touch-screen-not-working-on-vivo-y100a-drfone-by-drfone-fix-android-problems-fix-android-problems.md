@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y100A | Dr.fone
-date: 2024-07-14T05:46:05.892Z
-updated: 2024-07-15T05:46:05.892Z
+date: 2025-01-27T00:01:42.100Z
+updated: 2025-01-29T18:39:49.809Z
 tags: 
   - problems
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
 You probably touch the screen of your phone hundreds of times per day. It’s no surprise that smartphone touchscreens are one of the most common components to fail, given their delicate glass construction. However, a ****part of the touch screen not working**** on your Vivo Y100A does not necessarily mean it is a hardware issue. There could be other reasons why your Android’s touch screen stopped responding.
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Is Part of My Screen Not Working
 
@@ -120,14 +124,8 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -205,9 +203,6 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -221,8 +216,6 @@ Check below to know Dr.Fone – System Repair’s limitations:
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Vivo Y100A 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
-
-
 
 ## Reliable User Guide to Fix Vivo Y100A Running Slow and Freezing
 
@@ -271,6 +264,10 @@ You can modify the Vivo Y100A device’s animation type and speed on your Vivo Y
 ### You’re Using an Outdated Android Version
 
 If your Vivo Y100A is running slow and freezing, the Vivo Y100A device’s software is probably outdated. The mobile apps installed on your device are lagging or crashing because they’re no longer compatible with the OS. It happens most of the time. Hence, always watch out for OS updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Your Phone is Experiencing Some System Issues
 
@@ -357,6 +354,10 @@ _Here’s how to back up your Vivo Y100A using Wondershare Dr.Fone:_
 
 ![start wondershare drfone backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Here’s how to reset your Vivo Y100A to factory settings:_
 
 - **Step 1:** Go to **Settings.**
@@ -393,6 +394,10 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![put device into download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Wondershare Dr.Fone will automatically download the firmware that matches your device’s specifications. Wait until the process has been completed.
 
 ![firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -413,11 +418,12 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3,660,347** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Android phone is capable of performing lots of stuff. It can assist you in both your personal and professional tasks. But if it’s sluggish and doesn’t execute optimally, the good things it promises all go down the drain. So if you notice that your Vivo Y100A is running slow and freezing, act fast to resolve the issue. [<u>Wondershare Dr.Fone</u>](https://drfone.wondershare.com/guide/android-repair.html) can be of great help in this kind of situation. It’s an all-in-one mobile solution that can assist you with system repair, phone backup, data recovery, and a lot more.
@@ -432,9 +438,6 @@ In our guide, you’ll find out why your Spotify keeps crashing. Moreover, you�
 
 ## Part 1. Why Spotify Keeps Crashing
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![spotify crashing problem](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-2.jpg)
 
 Some people have encountered a problem with their Spotify accounts. Spotify can sometimes keep crashing and closing due to several reasons. For example, it can happen due to your phone not being compatible with the app. This can happen if your operating system isn’t updated to the newest version.
@@ -507,6 +510,10 @@ The steps for entering Download Mode on an Android phone with the Home button ar
 The steps for entering Download Mode on Android devices without the Home button are as follows:
 
 ![enter download mode without the home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1:** Turn off your phone.
 - **Step 2:** Press and hold the **Volume Down**, **Bixby**, and**Power** buttons simultaneously.
@@ -587,6 +594,10 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 
 ![install system update on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7. Update Your App
 
 If your system is updated, then Spotify might need an update. The app might malfunction if you’re using an older version. Thus, updating the app might solve the Spotify crashing problem. You can update Spotify by following these steps:
@@ -599,6 +610,10 @@ If your system is updated, then Spotify might need an update. The app might malf
 - **Step 3:** Tap Update
 
 ![update spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8. Free up Storage
 
@@ -625,11 +640,19 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 ![uninstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Press **OK**.
 - **Step 5:** Then, open the PlayStore and find Spotify.
 - **Step 6:** Tap **Install**to reinstall the app again.
 
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
@@ -677,7 +700,6 @@ If your Spotify app keeps crashing, several reasons might be behind it. For inst
 
 We’ve given you 11 solutions to fix the Spotify crashing problem. However, if your system needs repairing, you can try Wondershare Dr.Fone for quick and easy repair. This solution and all others will surely help you fix the crashing problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -690,9 +712,19 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exclusive-insights-into-making-memorable-instagram-movies/"><u>[New] In 2024, Exclusive Insights Into Making Memorable Instagram Movies</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-7-streaming-tools-for-mac-os-x/"><u>[Updated] Top 7 Streaming Tools for Mac OS X</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-sneak-peeks-into-instagrams-latest-hacks/"><u>2024 Approved Sneak Peeks Into Instagram's Latest Hacks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bug-fix-guide-overcoming-crashes-and-glitches-in-call-of-duty-modern-warfare-3-mobile/"><u>Bug Fix Guide: Overcoming Crashes and Glitches in Call of Duty Modern Warfare 3 Mobile</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-note-30-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Note 30 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-asus-rog-phone-8-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Asus ROG Phone 8 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/jumpstart-new-logitech-mouse-features-via-win11-update/"><u>Jumpstart New Logitech Mouse Features via Win11 Update</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-reno-10-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Reno 10 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-poco-x6-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Poco X6 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshooting-tips-for-when-quick-start-doesnt-appear-on-your-ipad-a-2024-edition-solution/"><u>Troubleshooting Tips for When Quick Start Doesn't Appear on Your iPad - A 2024 Edition Solution</u></a></li>
+</ul></div>
 

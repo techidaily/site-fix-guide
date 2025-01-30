@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y55s 5G (2023) | Dr.fone
-date: 2024-07-14T05:46:12.881Z
-updated: 2024-07-15T05:46:12.881Z
+date: 2025-01-24T23:51:24.504Z
+updated: 2025-01-29T20:25:37.833Z
 tags: 
   - problems
 categories:
@@ -56,6 +56,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 
 If you have already tried running the Vivo Y55s 5G (2023) device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Vivo Y55s 5G (2023)’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -84,9 +88,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ****Step 3:**** When you let go of the “Power” button, press and hold the “Volume Down” button. After that, a “Safe Mode” label will appear in your screen’s lower-left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
 ### Turn Off Developer Options
@@ -145,9 +146,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
@@ -155,6 +153,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Before repairing your Vivo Y55s 5G (2023), you must boot it into ****Download**** ****mode****. To boot your Vivo Y55s 5G (2023) or tablet into DFU mode, follow the steps below:
 
@@ -165,6 +167,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For a device that lacks a Home button:**
 
@@ -195,6 +201,10 @@ Dr.Fone – System Repair is a data management and recovery tool that contains s
 - Troubleshoots and repairs a wide range of Android system problems, including black screen of death, Play Store not working, apps crashing, phone stuck in a boot loop, and bricked Android issues
 - A high success rate for fixing Android system issues
 - Fixes Android system back to normal
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pros
 
@@ -249,9 +259,6 @@ Step 3: Press the Volume up and Volume down keys and use the Power key to select
 
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
 
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
@@ -261,8 +268,6 @@ Step 5: Finally, press and hold both the Power and the Volume up Key for around 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -284,6 +289,10 @@ One-stop solution to fix Android stuck at System recovery
 Once installed on your computer, open onto the main menu and connect your Vivo Y55s 5G (2023) using the official USB cable. Select the System Repair option.
 
 ![fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #2** Select the 'Android Repair' option from the next screen.
 
@@ -351,6 +360,10 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix App Not Available in Your Country Play Store Problem on Vivo Y55s 5G (2023)
 
 Mobile applications are important for smooth operations when it comes to smartphones. They offer convenience, entertainment, and functionality at your fingertips. However, encountering the "**App Not Available in Your Country Play Store**" issue can be frustrating. It can quickly dampen the excitement of discovering a new app.
@@ -369,9 +382,6 @@ One of the primary culprits behind this issue is the regional restrictions impos
 
 Licensing agreements and legal constraints play an important role when it comes to the accessibility of apps. Developers may encounter licensing issues. This can prevent them from offering their apps in certain regions. It is due to copyright, trademark, or other legal considerations. Navigating the complex web of international laws and agreements is a big hassle. It becomes a determining factor in the availability of apps on the Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Localization Challenges
 
 Apps are often designed with specific markets in mind. These incorporate language, cultural, and regulatory considerations to enhance user experience. The absence of proper localization can render an app incompatible with specific regions. It includes factors such as adapting the app for different languages, currencies, and cultural nuances. This can result in the app being excluded from the **Play Store app not available in your country.**
@@ -394,14 +404,15 @@ One of the most direct ways to address this issue is by manually adjusting your 
 
 - **Step 1.** Launch the Google Play Store on your Vivo Y55s 5G (2023) and tap the “Profile” icon from the top right corner. Here, choose "Settings" and follow on to tap "General."
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![general settings play store](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-1.jpg)
 
 - **Step 2.** Within the "General" tab, move towards "Account and device preferences" and tap it. There, select "Country and profiles" and tap the country to change it. Now, follow the on-screen prompts to complete the procedure.
 
 ![update residence country](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Use a Reliable VPN
 
@@ -421,6 +432,10 @@ You can utilize a reliable VPN to access the Play Store as though you were in a 
 
 ![try force stopping app](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Download an APK File
 
 One way to resolve the issue at hand is to sideload the app by downloading its APK file. It can be a viable and direct solution where other methods fail. This method involves installing the application manually, bypassing the Google Play Store. Follow these sequential instructions to download and install an APK file:
@@ -428,6 +443,10 @@ One way to resolve the issue at hand is to sideload the app by downloading its A
 - **Step 1.** Before starting, ensure that you have enabled the installation from unknown sources. Afterward, find a reliable website and search for your targeted apps.
 
 ![download apk from website](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Once you have found the targeted app, download it on your Vivo Y55s 5G (2023). When the download process is complete, tap the file to start the installation process.
 
@@ -472,6 +491,10 @@ Repair Android System Errors without Any Trouble.
 - User-friendly interface with easy-to-follow steps.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps Included To Fix Play Store Not Working on All Android Smartphones
 
@@ -519,9 +542,6 @@ To summarize, the pursuit of the perfect app sometimes encounters hurdles. One f
 
 As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful tool designed to tackle Play Store malfunctions head-on. With support for even Android 13, this software offers a complete solution for Android. Its comprehensive approach and easy-to-use interface make it a valuable addition to your toolkit.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -534,9 +554,26 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-record-twitch-live-stream-for-2024/"><u>[New] How to Record Twitch Live Stream for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhancing-videos-with-professional-voiceovers/"><u>[Updated] 2024 Approved Enhancing Videos with Professional Voiceovers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-stream-your-webcam-in-real-time-using-vlc-software/"><u>[Updated] 2024 Approved Stream Your Webcam in Real Time Using VLC Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-elite-applications-facilitating-video-discussions/"><u>[Updated] In 2024, Elite Applications Facilitating Video Discussions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-free-screen-capture-solutions-top-5-recommendations-for-windows/"><u>2024 Approved Free Screen Capture Solutions – Top 5 Recommendations for Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y78-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y78 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/making-content-universal-how-to-insert-text-overlays-in-ig-stories/"><u>Making Content Universal: How to Insert Text Overlays in IG Stories</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-fps-fixing-gpu-issues-in-call-of-duty-warzone-on-windows-11/"><u>Maximizing FPS: Fixing GPU Issues in Call of Duty Warzone on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-sovled-warno-pc-instability-and-recurrent-software-errors/"><u>Overcoming SOVLED Warno PC Instability and Recurrent Software Errors</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-5-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 5 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/unlock-effortless-audio-capture-on-your-mac-el-capitan-and-up-why-you-need-the-spotify-recorder-now/"><u>Unlock Effortless Audio Capture on Your Mac (El Capitan & Up): Why You Need the Spotify Recorder Now!</u></a></li>
+</ul></div>
 

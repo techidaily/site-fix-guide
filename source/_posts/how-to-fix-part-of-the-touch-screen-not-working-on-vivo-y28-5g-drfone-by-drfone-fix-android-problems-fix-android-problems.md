@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y28 5G | Dr.fone
-date: 2024-07-14T05:46:11.667Z
-updated: 2024-07-15T05:46:11.667Z
+date: 2025-01-28T23:23:57.469Z
+updated: 2025-01-29T18:08:12.795Z
 tags: 
   - problems
 categories:
@@ -64,10 +64,11 @@ When your touch screen stops working, the first thing you should do is restart y
 
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** When the Vivo Y28 5G device turns off, wait a few seconds.
 
@@ -117,10 +118,11 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -142,6 +144,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** Connect your Vivo Y28 5G or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -149,6 +155,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
@@ -174,6 +184,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![download mode repair android without home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Vivo Y28 5G. And in a while, your Vivo Y28 5G’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -186,6 +200,10 @@ Check Dr.Fone’s supported operating systems below before using the application
 | --- | --- |
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -219,8 +237,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Vivo Y28 5G 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## 4 Ways to Fix Android Blue Screen of Death On Vivo Y28 5G
 
 Android is undoubtedly amongst the best smartphone platforms but comes with its own share of glitches. The Android screen of death is observed by many users all over the world who complain of their device screen turning blue rendering their phone/tablet unresponsive. This is called the Android blue screen of death and it usually occurs when you turn on your device by pressing the Power On button but your device does not boot up normally and remains stuck at a plain blue screen without any error message.
@@ -233,7 +249,9 @@ Read on to learn more about the Android screen of death and ways to combat it.
 
 The Android blue screen of death issue is not a difficult problem to deal with and can be fixed by you by following the easy steps given in this article. We suggest that all readers rescue the data stored on their Android devices to prevent data loss and keep it stored in your PC from where it can be accessed and recovered by you anytime, anywhere. This task might sound tedious, but, we have for you [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html), a software specially designed to retrieve data from broken and damaged Vivo Y28 5G phones and tabs, especially Vivo Y28 5G devices, and keep it safe in your PC without tampering with it or altering its format. It efficiently extracts data from broken or unresponsive Vivo Y28 5G devices, phones/tabs stuck at black/blue screen, or whose system crashed due to a virus attack.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -278,11 +296,12 @@ Follow the steps given below to extract data when you experience an Android scre
 
 ![android blue screen of death-extract files](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg "extract files")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The process may take up to a few minutes and once it's done all your files will be extracted and stored on your PC. You can now move on to troubleshooting the problem without the fear of losing all your important data.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 2: One click to fix the Android blue screen of death
@@ -290,8 +309,6 @@ The process may take up to a few minutes and once it's done all your files will 
 We understand how annoying it is to see the Android blue screen of death and fail to access your device data. But, with [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), your troubles would burst away.
 
 This software effectively fixes Android screen of death issue along with app crashing, bricked or unresponsive device, stuck on Vivo Y28 5G logo, etc. All Android issues are well taken care of by Dr.Fone - System Repair (Android) with one click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -327,9 +344,6 @@ Step 1: Get the Vivo Y28 5G device in ‘Download’ mode to fix the **Android b
 
 - On a ‘Home’ button-less device – you need to switch off the Vivo Y28 5G device. Now, hold the ‘Volume Down’, ‘Power’, and ‘Bixby’ keys together for about 10 seconds and release. Hit the ‘Volume Up’ key to get into ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - On a ‘Home’ button device – shut down the Android phone/tablet, and then push the ‘Power’, ‘Volume Down’, and ‘Home’ keys for 10 seconds. Let go of the keys and press the ‘Volume Up’ key to enter ‘Download’ mode.
@@ -344,9 +358,6 @@ Step 3: Dr.Fone - System Repair (Android) would verify the firmware post-downloa
 
 ![android system repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 3: Force Restart Your Vivo Y28 5G
@@ -356,6 +367,10 @@ A force restart is a basic step that can clear minor software glitches. It has t
 **Step:** On your Vivo Y28 5G, press and hold the "Power" and "Volume Down" keys for around 10 seconds. Release the keys when your device reboots and wait for it to complete rebooting.
 
 ![force restart android phone](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Remove phone battery to fix blue screen of death
 
@@ -473,6 +488,10 @@ Step 1 – Turn on your device in safe mode. It can generally be done by tapping
 
 ![tap home, power and volume up](https://images.wondershare.com/drfone/article/2017/06/14986725776650.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2 – Now you can find the recovery mode screen. Navigate to the “Wipe cache” option with the volume up and down button and select the option by tapping the power button.
 
 ![Navigate to “Wipe cache”](https://images.wondershare.com/drfone/article/2017/06/14986726461259.jpg)
@@ -504,8 +523,6 @@ After this method, you can successfully get rid of the safe mode on Android. Res
 If some apps or programs create a problem on your device, the solution is safe mode. Safe mode allows you to uninstall the app or the program out of your device safely. So, safe mode on Android is quite useful sometimes. Let’s have a look at how to turn on safe mode in Android.
 
 Before this, remember to take a backup of your Vivo Y28 5G. We recommend you to use the Dr.Fone - Phone Backup (Android). This tool is the best in its class to provide users with a very easy-to-use user interface yet powerful solution.
-
-
 
 ### Dr.Fone - Phone Backup (Android)\_
 
@@ -548,7 +565,6 @@ The safe mode is a very useful program for any Android device. But it limits the
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -561,9 +577,24 @@ The safe mode is a very useful program for any Android device. But it limits the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-professional-guide-expertise-in-vimeo-video-logging/"><u>[New] In 2024, Professional Guide Expertise in Vimeo Video Logging</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-the-craft-of-looped-visuals-for-social-media-success/"><u>[New] Mastering the Craft of Looped Visuals for Social Media Success</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-crafting-connections-the-art-and-science-of-personalized-facebook-profiles/"><u>[Updated] 2024 Approved Crafting Connections The Art and Science of Personalized Facebook Profiles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-dissecting-digital-dynamics-comparative-channel-analysis/"><u>2024 Approved Dissecting Digital Dynamics Comparative Channel Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/elevate-your-gaming-experience-how-to-restore-sound-on-pc-for-warzone-players-2023-tips/"><u>Elevate Your Gaming Experience: How to Restore Sound on PC for Warzone Players (2023 Tips)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-m34-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy M34 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-storm-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Storm 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-lava-blaze-2-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Blaze 2 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/srt-subtitle-translation-tools-and-techniques/"><u>SRT Subtitle Translation Tools and Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-graphics-card-memory-limits/"><u>Uncover Graphics Card Memory Limits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-legacy-of-electric-vehicles-through-time/"><u>Understanding the Legacy of Electric Vehicles Through Time</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-best-practices-for-win-11s-remote-access/"><u>Unveiling the Best Practices for Win 11'S Remote Access</u></a></li>
+</ul></div>
 

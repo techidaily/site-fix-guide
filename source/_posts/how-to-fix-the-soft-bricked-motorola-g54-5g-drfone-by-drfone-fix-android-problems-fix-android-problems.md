@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Motorola G54 5G? | Dr.fone
-date: 2024-07-14T05:47:56.586Z
-updated: 2024-07-15T05:47:56.586Z
+date: 2025-01-22T18:41:05.745Z
+updated: 2025-01-29T19:37:04.676Z
 tags: 
   - problems
 categories:
@@ -46,6 +46,10 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
@@ -76,9 +80,6 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
@@ -219,6 +220,10 @@ Smart View allows you to display your Motorola G54 5G device’s screen on your 
 
 ![cast samsung phone using smart view](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Alternatively, if you don’t have a smart TV, you can still mirror your phone screen display to your desktop or tablet using the Motorola G54 5G Flow app and take a screenshot of your phone’s screen instead.
 
 Use Disable Flag Secure Magisk Module
@@ -289,6 +294,10 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 ![android system issue repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 You can fix the “**Can’t take screenshot due to security policy**” error on Android in different ways. But it depends on the cause of the error. If an app is causing the error, you can try two things. First, remove the app’s screenshot restriction. Second, download a different screenshot app or a different device to take screenshots.
@@ -311,22 +320,14 @@ Encountering the frustrating "**your device isn’t compatible with this version
 
 One of the primary culprits behind the compatibility error is [<u>outdated OS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html). App developers release updates to keep up with the latest features and security patches. That's why an obsolete OS version on your device may render it incompatible with the newer app versions available on the Google Play Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Insufficient Hardware Requirements
 
 Each application has specific hardware prerequisites that your device needs to fulfill. In case your smartphone does not meet the required specifications, you won't be able to utilize the app. Thus, Google Play Store may restrict access to certain applications, citing compatibility issues.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Corrupted Cache Files
 
 Cache files are designed to enhance the speed and efficiency of app loading. Yet, they can sometimes become corrupt. When this occurs, it disrupts the app's normal operation. Clearing these corrupted cache files is often a crucial step.
@@ -351,11 +352,12 @@ Force quitting the Google Play Store is a simple yet effective first step in res
 
 ![play store app info](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Here, tap the "Force Stop" option to force close the Google Play Store. After a while, relaunch the app to see if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![force stop play store](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-2.jpg)
 
 ### Fix 2: Clear Google Play Store Cache
@@ -376,10 +378,11 @@ The Google Services Framework plays a crucial role in your Motorola G54 5G. It i
 
 - **Step 1.** Open your device's Settings and scroll down to tap "Apps." There, press the "All Apps" options, and on the following screen, choose "Show System" from the top right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access system apps](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Now, find and tap the "Google Services Framework" app and go on to press "Storage and Cache." Here, use "Clear Cache" and "Clear Storage" to clear its cache and data.
 
@@ -394,8 +397,9 @@ An outdated operating system is a common factor behind compatibility issues. Thi
 ![checking system update](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Uninstall the Google Play Store Updates
 
 In certain cases, issues with the [<u>Google Play Store</u>](https://drfone.wondershare.com/android-stopped/google-play-services-wont-update.html) itself may be contributing to compatibility errors. Uninstalling recent updates can revert the app to its default state. It can potentially resolve the problem. Follow these steps to uninstall updates for the Google Play Store and resolve “**device not compatible Play Store”** issues:
@@ -407,6 +411,10 @@ In certain cases, issues with the [<u>Google Play Store</u>](https://drfone.wond
 - **Step 2.** From the available options, choose "Uninstall updates." Then confirm your decision when prompted to delete the Google Play Store updates.
 
 ![uninstall play store updates](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Sideload the Incompatible Android App
 
@@ -420,6 +428,10 @@ If all else fails and the compatibility issue persists, sideloading the app can 
 
 ![try installing apk](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Install a Custom ROM
 
 Have you exhausted other options and are still grappling with compatibility issues? Installing a custom ROM could be a more advanced but effective solution. Custom ROMs are modified versions of Android operating systems developed by the Android community. Engaging in this procedure entails large modifications to your device's software. It is crucial to comprehend the potential consequences and proceed with caution.
@@ -427,6 +439,10 @@ Have you exhausted other options and are still grappling with compatibility issu
 Installing a custom ROM may void your device's warranty. Moreover, it's crucial to choose a ROM compatible with your device model. Installing a custom ROM is an advanced solution that should be approached with caution. It has the capability to address compatibility issues. Nevertheless, it demands a certain level of technical expertise and may not be suitable for all users.
 
 ![install custom rom](https://images.wondershare.com/drfone/article/2023/11/fixes-for-google-play-device-isnt-compatible-with-version-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Try Using a Third-Party App Store
 
@@ -495,9 +511,6 @@ To conclude, encountering compatibility issues like “**Google Play your device
 
 For users seeking a comprehensive solution, Wondershare Dr.Fone emerges as a versatile and powerful tool. It goes beyond conventional troubleshooting methods. Its "Android Repair" feature is tailored to address various Android system issues, including those affecting the Google Play Store.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -510,9 +523,24 @@ For users seeking a comprehensive solution, Wondershare Dr.Fone emerges as a ver
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-avoiding-strikes-youtube-edition/"><u>[New] In 2024, Avoiding Strikes YouTube Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hero5-black-mastery-techniques-to-take-photos-and-videos-from-great/"><u>[Updated] Hero5 Black Mastery Techniques to Take Photos & Videos From Great</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-unveiled-apple-enhances-every-airpods-model-discover-top-4-innovative-features/"><u>1. Unveiled: Apple Enhances Every AirPods Model - Discover Top 4 Innovative Features!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-solving-obs-high-bitrate-issues/"><u>2024 Approved Solving OBS High Bitrate Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y02t-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y02T to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-pop-7-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Pop 7 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016936733-hyperx-cloud-alpha-mic-not-working-heres-how-to-get-it-functioning-again/"><u>HyperX Cloud Alpha Mic Not Working? Here's How to Get It Functioning Again</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Location Changers for Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/meizu-21-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Meizu 21 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-charger-solutions-for-gopro-hero5-genuine-and-imitative-companies-for-2024/"><u>Optimal Charger Solutions for GoPro Hero5 Genuine & Imitative Companies for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oppo-reno-11-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo Reno 11 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-spark-20c-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Spark 20C Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-solution-for-integrating-webm-videos-with-final-cut-pro-x-successfully/"><u>Step-by-Step Solution for Integrating WebM Videos with Final Cut Pro X Successfully</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ultimate-tutorial-on-3d-lut-tools/"><u>Ultimate Tutorial on 3D LUT Tools</u></a></li>
+</ul></div>
 

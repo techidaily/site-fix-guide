@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi 13C | Dr.fone
-date: 2024-07-14T05:46:26.347Z
-updated: 2024-07-15T05:46:26.348Z
+date: 2025-01-22T23:00:56.664Z
+updated: 2025-01-29T23:40:37.578Z
 tags: 
   - problems
 categories:
@@ -66,15 +66,16 @@ When your touch screen stops working, the first thing you should do is restart y
 
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** When the Xiaomi Redmi 13C device turns off, wait a few seconds.
 
 ****Step 3:**** Press and hold the “Power” button to restart the Xiaomi Redmi 13C device.
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn On Safe Mode
 
 You should switch to Safe mode whenever an application or piece of software causes a problem on your device. Only the most fundamental system components are loaded and used when operating in Safe mode.
@@ -107,6 +108,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -118,6 +123,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -147,6 +156,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
@@ -175,6 +188,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -202,9 +219,6 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -225,6 +239,10 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 
 Just as any problem gives some indication of anything wrong is going to befall. Similarly, a user does feel some unexpected turns of events resulting in **_Play Store to stick at downloading_**. If one happens to see that the progress bar has suddenly frozen to a certain scope and taking ages to march any further, it is treated as the first signs for Play store not working properly. Another, such scenario is where your apps are not able to download easily. Rather, the Play store reflects a message downloads are yet in the pending queue. If one happens to witness such problems, these can be in fact be giving you the warning signal of the Play store problem
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Causes of why “Play Store Stuck on Downloading”
 
 With technology, uncertainties are bound to happen. It becomes quite tricky to analyze the real problem and craft a solution. As, there can be several causes that might be disturbing the smooth functionality of Play store. Here are some collated issues that we’ve gathered that are indicative of the cause.
@@ -244,11 +262,13 @@ All the applications, data of one’s device is generally loads directly in phon
 
 Sometimes, it’s not your phone that is going all faulty, the root cause might be the internet connection. If the internet is running low or does not seem to be stable, then the **_play store download problem_** may occur. Users must ensure that the Xiaomi Redmi 13C device they are working should have a stable network connection so as to combat the problem. Then, they can try downloading the application and check if the problem is prevalent or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -310,6 +330,10 @@ Did you know the piling up of cache memory can certainly pull off a great deal f
 
 ![clear data to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/clear-cache-data.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.5 Update Play Store to the latest version
 
 When was the last time you cared to update your Play store app? Generally, users overlook the need of updating the application. As, they think that it may not be of any greater importance. But, in reality working in an outdated version can directly impact **_Play Store and cause download problem_**. Follow the below steps to update Play Store to latest version.
@@ -321,6 +345,10 @@ When was the last time you cared to update your Play store app? Generally, users
 
 ![update device to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/update-play-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.6 Try another Google account
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
@@ -329,11 +357,6 @@ If you’re unable to see a streak of hope and wondering why my **_Play Store is
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Xiaomi Redmi 13C Bootloop Problem, How to Fix it Without Data Loss
 
 Have you, like many other users, faced the bootloop Android problem and wondered what exactly is Android boot loop. Well, Android boot loop is nothing but an error that makes your phone switch on itself every time you manually turn it off. To be precise, when your Xiaomi Redmi 13C does not remain switched off or powered off and starts to boot up automatically after a few seconds, it might be stuck in the boot loop Android.
@@ -368,8 +391,6 @@ If you are trying to figure out how to fix boot loop, the first option you have 
 
 This is designed to repair any data corruption on your device and restores your firmware to its usual working condition.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click to fix boot loop of Android
@@ -399,9 +420,6 @@ Open the software and select the System Repair option from the main menu to fix 
 
 You’ll then need to input the Xiaomi Redmi 13C device information, such as your carrier info, device name, model, and country/region in order to ensure you’re downloading and repairing the correct firmware to your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select info to fix android boot loop](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step #3** Now you’ll need to put your phone into Download Mode to remove the Android bootloop.
@@ -422,9 +440,6 @@ Make sure your computer stays connected to the internet, and your device stays c
 
 You’ll be notified when the process is done and when you can remove your device and start using free from the boot loop Android error!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 3: Soft reset to fix Android bootloop issue
@@ -532,6 +547,9 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -545,9 +563,20 @@ An Android boot loop is a common phenomenon with all Android devices because we 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-art-in-a-flash-quick-draw-on-windows-10-images/"><u>[New] Masterful Art in a Flash Quick Draw on Windows 10 Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dng-jpg-web/"><u>DNG 이미지를 원격용 JPG로 자유성 전환: 모바일 내장 및 Web 친화적 시스템</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/iphone-screen-capture-simplified-guide/"><u>IPhone Screen Capture Simplified Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-inconsistent-flashing-issue-resolved-fixed/"><u>Laptop's Inconsistent Flashing: Issue Resolved [Fixed]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/principles-of-plot-construction/"><u>Principles of Plot Construction</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-c67-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme C67 5G Phone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformation-sans-frais-fichiers-3gpp-en-format-wmv-avec-movavi-en-ligne/"><u>Transformation Sans Frais : Fichiers 3GPP en Format WMV Avec Movavi en Ligne</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-13-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 13 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+</ul></div>
 

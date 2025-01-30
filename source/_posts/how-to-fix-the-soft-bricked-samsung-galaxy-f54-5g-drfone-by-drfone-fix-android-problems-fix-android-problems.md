@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy F54 5G? | Dr.fone
-date: 2024-07-14T05:49:41.967Z
-updated: 2024-07-15T05:49:41.967Z
+date: 2025-01-22T19:10:29.111Z
+updated: 2025-01-30T02:20:13.174Z
 tags: 
   - problems
 categories:
@@ -30,7 +30,15 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Stuck at the Boot Loop
 
@@ -66,9 +74,6 @@ Firstly, you must root your phone and unlock the Bootloader. Every phone’s mec
 
 Once the Bootloader is unlocked, take a backup of all your data by selecting “Backup” or “Android” back in recovery mode. The process should not take long and all you need to do is tap “OK” to config backup.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
@@ -97,18 +102,6 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 
 App not installed on Android is no more an unknown Error Code during Application installation as many people experience it on a day-to-day basis. An "Application not installed" error message usually pops up when you are trying to download and install an App with a .apk file extension from somewhere other than the Google Play Store. The error is very confusing at first but makes sense when you realize that this unknown Error Code during Application installation is neither a software issue nor a hardware problem. It is a direct outcome of what you do with your device. Yes, you heard that right. Your faulty actions can cause Android App not installed error.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![app not install on android](https://images.wondershare.com/drfone/article/2023/05/app-not-installed-error-in-android.jpg)
 
 What to do when trying to install the Android APK it says "app not installed"? It is terrible that you can't install App on your device. But in this article, you will know more about the causes behind this error and the best ways to fix it, read on, here is all you need to know.
@@ -149,13 +142,15 @@ The Unknown Error Code during Application installation can occur due to any one 
 
 ![application not installed](https://images.wondershare.com/drfone/article/2017/07/14994439892909.jpg "application not installed")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: One-click to fix App not installed on Android error
 
 So App not installed on your Samsung Galaxy F54 5G or tablet? The most horrible part is that this issue may come out of the corruption in the system files. In this situation, Android apps won't be installed no matter what measures you take. Android system repair is the only effective solution to deal with this issue.
 
 Android system repair used to require high technical skills. But most of the users know little about technical things. Well, worry not ![Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) allows you to repair Android easily, that is, complete the fix with just one click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -194,6 +189,10 @@ A powerful tool to fix the "Android App not installed" error in one click
 
 ![safe Download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to fix App not installed error on Android
 
 We understand that it can be a tricky situation to be in when Android App not installed error pops up, but what if we tell you can get rid of it in easy and simple steps? Yes, there is!
@@ -209,6 +208,10 @@ Visiting “Settings” on your device. Then select "Manage apps", "Application 
 Now select the App you wish to uninstall and wait for the App Info screen to open, then click on “Uninstall” as shown in the screenshot.
 
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14994441067237.jpg "uninstall app")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also uninstall the unnecessary application on the home screen, just long-press the app you want to uninstall until you see the "uninstall" icon. Click "Uninstall", then, you need to click "OK" to confirm the uninstall process.
 
@@ -252,13 +255,14 @@ You can reset App permissions to combat the Android App not installed error by V
 
 Make sure to always download an App file only from a trusted and safe source to avoid any errors during installation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### #8. Reboot your device
 
 Finally, if nothing else works, restart your device to end all operations which could be causing the said error. To reboot, just press the power button till you see a pop-up. Select “Restart” and wait for your device to reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart device](https://images.wondershare.com/drfone/article/2017/07/14994442937664.jpg "restart device")
 
 ## Conclusion
@@ -299,6 +303,10 @@ There could be a wide variety of reasons that is happening, including:
 
 An array of hardware and software issues could lead to you being unable to play videos on your Android. However, that doesn’t mean you should immediately send your device for repairs or delete the videos that won’t play. There might be a few better solutions you could try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Can Do if Your Videos Aren’t Playing On Android Phone
 
 Since there are many reasons for having problems with videos not playing on your Android, you could also try many solutions.
@@ -327,15 +335,16 @@ Over time, however, your RAM can get filled with unnecessary data and data fragm
 
 Restarting your phone will clear your RAM and potentially eliminate any data fragments causing your videos to be unplayable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3. Check the Video Format
 
 As a general rule of thumb, the videos you capture should be in a format your device supports. However, the videos you’ve downloaded might not be. That’s why checking the files’ video format before trying other possible fixes is in your best interest.
 
 If the format isn’t supported, installing the right video player with the necessary compatibility is the most straightforward fix. Some of the most popular video players for Android include VLC for Android, GOM Player, MX Player, Bsplayer, and RealPlayer. You can easily find all of them in the Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4. Check the Internet Connection
 
 ![pull-down bar on android showing wifi is turned off](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-5.jpg)
@@ -358,6 +367,10 @@ To clear the cache from your apps, you’ll want to go to **Settings > Apps.** F
 
 ![clear cache on android apps](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6. Update Android OS
 
 An outdated Android OS is usually the culprit behind many bugs and glitches you may encounter on your phone. It can prevent you from playing video files, accessing apps, taking photos, and more. It can lead to data corruption and loss, expose you to malware and cyberattacks, and compromise phone performance.
@@ -366,9 +379,6 @@ Regularly updating your OS to its latest version is always in your best interest
 
 ### 7. Repair Your Android OS
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![person holding a phone with black screen](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-8.jpg)
 
 You might already have the latest version of Android OS, but that still doesn’t mean your OS is functioning as it should. Maybe your phone was interrupted while downloading or installing the new OS version. Maybe your phone had underlying OS issues, or you accidentally downloaded files you shouldn’t have. Whatever the case is, if your videos don’t play due to an OS problem, you’ll need to repair your OS.
@@ -401,6 +411,10 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your Samsung Galax
 - **Step 10**: Type **000000**, then select **Confirm**to continue fixing your device.
 
 ![wondershare dr.fone system repair confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 11**: Wait for the **Repairing Now**process to finish.
 - **Step 12**: Once the process is complete, click **Done**.
@@ -443,9 +457,6 @@ Like other smartphones, Android devices occasionally encounter glitches when pla
 
 Whatever the case is, don’t despair. There’s usually a solution that can fix the problem and ensure your device works as expected.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -458,9 +469,20 @@ Whatever the case is, don’t despair. There’s usually a solution that can fix
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-windows-video-conferencing-excellence-8-1/"><u>[New] In 2024, Windows Video Conferencing Excellence #8-1</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-guide-to-preserve-snapchat-videos-on-phone/"><u>[New] Step-by-Step Guide to Preserve Snapchat Videos on Phone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-obs-dominion-vs-streamlabs-kingdom/"><u>[Updated] In 2024, OBS Dominion Vs. Streamlabs Kingdom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-color-palette-with-luts-a-guide-to-premiere/"><u>2024 Approved Optimizing Color Palette with LUTs A Guide to Premiere</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-11-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme 11 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-s23-fe-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy S23 FE Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y77t-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y77t in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-iphone-ringtones-a-guide-to-personalized-sound-choices/"><u>In 2024, IPhone Ringtones A Guide to Personalized Sound Choices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-xiaomi-civi-3-disney-100th-anniversary-edition-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi Civi 3 Disney 100th Anniversary Edition Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/starting-off-smoothly-with-fast-forwarding-in-snapchat-for-2024/"><u>Starting Off Smoothly with Fast-Forwarding in Snapchat for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-common-culprits-behind-insurgency-sandstorm-game-crashes-elucidated-and-solved/"><u>The Common Culprits Behind Insurgency: Sandstorm Game Crashes Elucidated and Solved</u></a></li>
+</ul></div>
 

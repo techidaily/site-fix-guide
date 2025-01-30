@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A23 5G | Dr.fone
-date: 2024-07-14T05:45:02.631Z
-updated: 2024-07-15T05:45:02.631Z
+date: 2025-01-25T00:39:05.890Z
+updated: 2025-01-29T19:07:58.151Z
 tags: 
   - problems
 categories:
@@ -64,9 +64,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
 ****Step 2:**** When the Samsung Galaxy A23 5G device turns off, wait a few seconds.
@@ -107,6 +104,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -123,10 +124,11 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
@@ -140,18 +142,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 2:**** Connect your Samsung Galaxy A23 5G or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
@@ -186,6 +176,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![download mode repair android without home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Samsung Galaxy A23 5G. And in a while, your Samsung Galaxy A23 5G’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -198,6 +192,10 @@ Check Dr.Fone’s supported operating systems below before using the application
 | --- | --- |
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -231,8 +229,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Samsung Galaxy A23 5G 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## How to Fix Android.Process.Media Has Stopped on Samsung Galaxy A23 5G
 
 Like any other technological system, Android is not without its fair share of problems. One of the most common issues that Android users face is the android.process.media error. If you have encountered this problem lately, you don’t need to worry, this article will clearly explain what exactly causes this error and how to fix it safely.
@@ -252,8 +248,6 @@ There are several reasons why this error can occur repeatedly and it is worth no
 ## Part 2. Back up your Android Data First
 
 It is always a good idea to back up your data especially before embarking on any attempt to fix any problem with your device. This way you will always have your data with you just in case something goes wrong and you lose all your data. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) will help you easily back up your Samsung Galaxy A23 5G. The application will allow you to back up your device with a few clicks and you can restore what you want from your backup .
-
-
 
 ### Wondershare Dr.Fone
 
@@ -286,6 +280,10 @@ When your device is displayed on the window of the program, click "Back Up Now "
 
 ![Android. Process. Media - select data types](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 3. How to Fix "Android. Process. Media" Error
@@ -299,6 +297,10 @@ Updates often include patches for known issues and vulnerabilities. Ensuring tha
 Step 1: Visit the Google Play Store to check for available app updates.
 
 Step 2: In "Settings," go to "System" > "Software Update" to check for system updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Reset app preferences
 
@@ -344,8 +346,6 @@ This Should clear the error message for good.
 
 ### Method 6: Fix the error by using a dedicated repair tool
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Fix Android process media has stopped issue in one click
@@ -363,6 +363,10 @@ After launching Dr.Fone, click on "System Repair" from the main window.
 
 ![fix android.process.media stopping by drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then connect your Samsung Galaxy A23 5G with the correct cable and choose "Android" > click "Start".
 
 ![select android repair to fix android.process.media stopping](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -379,14 +383,15 @@ To confirm the Android repair may erase all data on your device, you need to typ
 
 Read and follow the [guide here](https://drfone.wondershare.com/guide/android-repair.html) to boot your Samsung Galaxy A23 5G in Download mode.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android.process.media stopping in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Then click "Next" to start downloading the firmware.
 
 ![start downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It may take a while, so you could have a cup of coffee to wait for the repair process completed.
 
@@ -406,9 +411,17 @@ It is our hope that when faced with this fairly common error, you will not panic
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Gmail Not Working on Samsung Galaxy A23 5G: 7 Common Problems & Fixes
 
 Ever since Android is introduced, it has almost eliminated the need of computers to work through Gmail. Gmail carries much importance especially when you’re a working person. A lot of work is done through mails on daily basis. But maybe today is not your lucky day. Maybe Gmail is giving you a hard time today. Is it? Is your Gmail not responding or keeps stopping you from going further? Well! There is no need to be bothered anymore. We are discussing some of the general Gmail problems along with their fixes. So, if your Gmail is not working on Android, you can go through this article and find the relevant solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Problem 1: Gmail App not responding or keeps crashing
 
@@ -467,9 +480,6 @@ When still the Gmail not working issue persists and you can’t sync, make sure 
 
 3. Check the box next to “Sync Gmail” if it’s not checked.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Gmail crashing on Android - sync gmail](https://images.wondershare.com/drfone/article/2019/04/gmail-sync-settings-2.jpg)
 
 ### Restart the Samsung Galaxy A23 5G device
@@ -595,7 +605,6 @@ Fix all Gmail issues caused by Android system:
 - Gmail app crashing or stopping
 - Gmail app not responding
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -608,9 +617,23 @@ Fix all Gmail issues caused by Android system:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-cutting-edge-tips-for-elite-instagram-image-editing/"><u>[New] 2024 Approved Cutting-Edge Tips for Elite Instagram Image Editing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-tomorrows-reality-progress-in-virtual-worlds/"><u>[New] In 2024, Tomorrow's Reality Progress in Virtual Worlds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigate-to-new-horizinas-top-win11-gaming-delights/"><u>[New] Navigate to New Horizinas Top Win11 Gaming Delights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-framemaker-screen-capturing-mastery-review-2023-edition/"><u>[Updated] 2024 Approved 'FrameMaker' Screen Capturing Mastery Review, 2023 Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-streamlined-processes-for-exporting-video-assets-as-mp3-on-pinterest-for-2024/"><u>[Updated] Streamlined Processes for Exporting Video Assets as MP3 on Pinterest for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dismantling-the-mysteries-of-big-ai-language-tools/"><u>Dismantling the Mysteries of Big AI Language Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nokia-130-music-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nokia 130 Music Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-8-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 8 iCloud Bypass</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-12r-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus 12R Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m54-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M54 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24-ultra-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24 Ultra Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-infinix-hot-40-by-drfone-android/"><u>Three Ways to Sim Unlock Infinix Hot 40</u></a></li>
+</ul></div>
 

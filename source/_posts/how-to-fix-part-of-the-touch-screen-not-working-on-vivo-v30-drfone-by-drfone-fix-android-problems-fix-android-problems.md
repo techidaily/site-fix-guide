@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo V30 | Dr.fone
-date: 2024-07-14T05:45:56.575Z
-updated: 2024-07-15T05:45:56.575Z
+date: 2025-01-28T03:48:58.832Z
+updated: 2025-01-29T16:13:24.612Z
 tags: 
   - problems
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a
 You probably touch the screen of your phone hundreds of times per day. It’s no surprise that smartphone touchscreens are one of the most common components to fail, given their delicate glass construction. However, a ****part of the touch screen not working**** on your Vivo V30 does not necessarily mean it is a hardware issue. There could be other reasons why your Android’s touch screen stopped responding.
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Is Part of My Screen Not Working
 
@@ -66,15 +70,16 @@ When your touch screen stops working, the first thing you should do is restart y
 
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** When the Vivo V30 device turns off, wait a few seconds.
 
 ****Step 3:**** Press and hold the “Power” button to restart the Vivo V30 device.
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn On Safe Mode
 
 You should switch to Safe mode whenever an application or piece of software causes a problem on your device. Only the most fundamental system components are loaded and used when operating in Safe mode.
@@ -89,9 +94,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -110,6 +112,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -127,6 +133,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
@@ -187,6 +197,10 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -219,17 +233,12 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Vivo V30 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## How to Fix It: Vivo V30 Won't Turn On
 
 Did your Vivo V30 decide to go on vacation and refuses to turn on? If your Vivo V30 won’t turn on for no apparent reason, finding why it failed to power on and the solution for it is not a fun process.
 
 Here, we hope we are able to give you a checklist of reasons behind this issue and the possible steps you can take to rectify it.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Common Reasons That Your Vivo V30 Won't Turn On
 
 If you cannot find any reason why your Vivo V30 will not switch on, here are some possible reasons:
@@ -240,16 +249,11 @@ If you cannot find any reason why your Vivo V30 will not switch on, here are som
 4. Your device is clogged up with dust and lint causing the hardware to not work properly.
 5. [Your power button is broken](https://www.wondershare.com/reset-android/restart-android-without-power-button.html), which caused it to not be able to trigger the necessary action needed to power up the Android phone. Check to also see if your connectors have no carbon build-up which will cause your phone to not be charged properly.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Rescue Data on Android Phone That Will Not Turn On
 
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -280,10 +284,11 @@ On the next window, you will need to check the boxes corresponding to the type o
 
 Opt for "Touch screen not responsive or cannot access the phone" or "Black/broken screen". Click Next to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Look up for your device – pick the Vivo V30 device Name and Device Model. Advance by clicking on the Next button.
 
@@ -315,8 +320,6 @@ After repeated attempts, when your Android mobile/tablet stops buzzing, what opt
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 The real fix to issues like "Android phone will not switch on"
@@ -336,6 +339,10 @@ Prior to fixing the Android phone will not switch and getting things back in act
 Step 1: Run Dr.Fone on your computer once the installation is complete and tap the ‘Repair’ option form the interface. Now, connect your Android mobile with the computer.
 
 ![fix Android Phone not turn on by repairing system](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
@@ -413,6 +420,10 @@ The first thing that comes to mind when your **phone screen suddenly goes black*
 
 ![drained iphone battery](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### App Troubles
 
 If your **phone is working, but the screen is black,** there’s also a high probability that you are having an isolated issue with a particular application. An app could be loading something, which often happens for streaming apps such as YouTube, Netflix, Prime, and more, especially if you have slow internet connectivity.
@@ -426,6 +437,10 @@ A potential reason why **your phone screen went black but still works** could b
 If you dropped your phone, there’s a high chance the LCD connectors went loose due to the physical impact. If this happened to you, the phone might be working, but the screen is black due to the LCD cable dislodging. Another issue could be your phone got exposed to extreme temperatures. This can also cause a **black screen but your phone is still on.**
 
 ![loose samsung galaxy lcd](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Fix Black Screen on Your Phone
 
@@ -576,6 +591,10 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,262,204** people have downloaded it
 
 ## Conclusion
@@ -583,7 +602,6 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 Our increasing reliance on smartphones has led to amazing advancements in new technologies. However, lingering issues such as your **phone screen not turning on** or your **phone screen being black but still working** are ongoing problems to many. That’s why learning how to prevent these events is essential to take care of your smartphone.
 
 Doing all the recommended methods above usually solves the case. If the different fixes don’t work for you, Dr.Fone – System Repair for iOS and Android can help resolve all your problems within less than 10 minutes. You can download it for free on Windows and Mac to test it yourself.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -597,9 +615,23 @@ Doing all the recommended methods above usually solves the case. If the differen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-of-breed-capture-card-for-switch-for-2024/"><u>[New] Best of Breed Capture Card for Switch for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/tech-tips-fixed-kernel32-errors/"><u>[Tech Tips] Fixed Kernel32 Errors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-dark-art-of-night-photography-best-practices-revealed/"><u>[Updated] In 2024, The Dark Art of Night Photography Best Practices Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-restoring-iphone-xs-trust-reviving-biometric-lock/"><u>[Updated] Restoring iPhone X's Trust Reviving Biometric Lock</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-power-of-precision-crafting-effective-video-titles/"><u>[Updated] The Power of Precision Crafting Effective Video Titles</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-galaxy-f54-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Galaxy F54 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-honor-x9b-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor X9b in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-motorola-moto-g04-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Motorola Moto G04 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-neo-5-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT Neo 5 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y27s-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y27s Step-by-Step Solutions | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Sony Xperia 5 V | Dr.fone
-date: 2024-07-14T05:45:26.339Z
-updated: 2024-07-15T05:45:26.339Z
+date: 2025-01-22T23:28:17.924Z
+updated: 2025-01-29T20:08:38.490Z
 tags: 
   - problems
 categories:
@@ -86,6 +86,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -101,6 +105,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 ****Step 4:**** You will then find the switch to turn it on or off. Disable itby toggling the button off.
 
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
@@ -172,6 +180,14 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -181,9 +197,6 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -228,8 +241,6 @@ Read on to learn more about the Android screen of death and ways to combat it.
 
 The Android blue screen of death issue is not a difficult problem to deal with and can be fixed by you by following the easy steps given in this article. We suggest that all readers rescue the data stored on their Android devices to prevent data loss and keep it stored in your PC from where it can be accessed and recovered by you anytime, anywhere. This task might sound tedious, but, we have for you [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html), a software specially designed to retrieve data from broken and damaged Sony Xperia 5 V phones and tabs, especially Sony Xperia 5 V devices, and keep it safe in your PC without tampering with it or altering its format. It efficiently extracts data from broken or unresponsive Sony Xperia 5 V devices, phones/tabs stuck at black/blue screen, or whose system crashed due to a virus attack.
 
-
-
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
@@ -257,6 +268,10 @@ Follow the steps given below to extract data when you experience an Android scre
 
 ![android blue screen of death-select fault type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png "select fault type")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5\. You will now be asked to feed in your phone’s model type and name as shown in the screenshot below. Give correct details for the software to identify your device smoothly and hit “Next”.
 
 ![android blue screen of death-select phone model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png "select phone model")
@@ -264,6 +279,10 @@ Follow the steps given below to extract data when you experience an Android scre
 6\. In this step, refer to the instructions in your device manual to enter into Download Mode on your Sony Xperia 5 V and hit “Next”. An example of what to do to reach Download Mode is shown below.
 
 ![android blue screen of death-boot in download mode](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png "boot in download mode")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7\. Finally, let the software recognize your Sony Xperia 5 V, and start to download the recovery package for your device.
 
@@ -282,8 +301,6 @@ The process may take up to a few minutes and once it's done all your files will 
 We understand how annoying it is to see the Android blue screen of death and fail to access your device data. But, with [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), your troubles would burst away.
 
 This software effectively fixes Android screen of death issue along with app crashing, bricked or unresponsive device, stuck on Sony Xperia 5 V logo, etc. All Android issues are well taken care of by Dr.Fone - System Repair (Android) with one click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -307,9 +324,6 @@ Step 1: Installation and running Dr.Fone - System Repair (Android) on your syste
 
 Step 2: Press the ‘Android Repair’ option before tapping the ‘Start’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start to fix Android blue screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Over the Sony Xperia 5 V device information window, select all relevant data about your device followed by the ‘Next’ button.
@@ -366,13 +380,14 @@ Note: Not all Android devices allow you to remove their battery. If you own such
 
 In some cases, issues related to the Android blue screen of death can be caused by problems with the SIM card or SD card. Removing and reinserting these cards can help resolve potential conflicts or glitches. Remember that this method can help resolve issues related to SIM card or SD card conflicts. However, it may not address more complex software or hardware problems causing the blue screen issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: Clean or change the LCD connector
 
 If you're facing the Android blue screen of death issue, the issue might be related to a hardware problem. The problem can be a loose or damaged LCD connector. In this scenario, you can try cleaning or changing the connector. This method is more advanced and involves disassembling your device. That's why you need to proceed with caution and only if you're comfortable with hardware tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clean or change the lcd connector](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-2.jpg)
 
 ## Part 7: Update to the latest Android version
@@ -424,6 +439,10 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 Open the Phone app in Safe Mode
 
 First and foremost, the thing that can let you get rid of this trouble is Safe Mode. It is a feature that will end any excessive background functioning of the Sony Xperia 5 V device. For instance, your device will be able to run sans any third-party apps when in Safe mode. Since the important functions and the naïve apps will be running on the Sony Xperia 5 V device, you will get to know if it’s really a software glitch or not by running the Phone app in Safe mode. And this is the first solution we would recommend you make use of when the Phone app has stopped. Here is how to enable Safe Mode.
@@ -433,18 +452,6 @@ First and foremost, the thing that can let you get rid of this trouble is Safe M
 3. Release the button and immediately press and hold the "Volume Down" key.
 4. Leave the key once the Sony Xperia 5 V device is in Safe mode. Now, the third-party apps will be disabled and you can check if the Phone app is still not responding or everything is fine.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.2 Clear the cache of the Phone app
 
 The cache should be cleaned timely if you want any app to work properly. Due to the constant usage, the temporary files get collected and may corrupt if not cleared. Hence, the next solution you should try when the Phone app keeps stopping is to clear the cache. Here are the steps to be performed.
@@ -456,8 +463,9 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.3 Update Google Play services
 
 Since Android is created by Google, there must be some Google Play services that are crucial to run several system functions. And if attempting the previous methods isn’t of any use, try updating Google Play services when you find the Phone app stopped. For doing this, you need to make sure that automatic updates are turned on in Google settings. If not, enable it and get the apps including Google Play services updated for smoother functions.
@@ -491,7 +499,9 @@ If still, the Phone app keeps stopping after trying everything, here is the most
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -551,9 +561,6 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -566,9 +573,23 @@ If none of the above methods worked for you, the last resort you are left with i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capturing-every-moment-an-overview-of-apowersofts-screenshot-tool/"><u>[New] Capturing Every Moment An Overview of Apowersoft's Screenshot Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-whats-missing-from-todays-virtual-reality-library-insight/"><u>[New] In 2024, What's Missing From Today's Virtual Reality Library? - Insight</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-transform-slow-motion-to-quick-with-android-aids-for-2024/"><u>[New] Transform Slow Motion to Quick with Android Aids for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-easy-bucks-on-reddit-for-newbies-a-guide-to-top-13-ways-for-2024/"><u>[Updated] Easy Bucks on Reddit for Newbies - A Guide to Top 13 Ways for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-motorola-razr-40-ultra-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Motorola Razr 40 Ultra Quickly? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oneplus-ace-2v-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve OnePlus Ace 2V Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-xiaomi-13-ultra-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi 13 Ultra Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-x-fold-2-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo X Fold 2 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-t2-pro-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo T2 Pro 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-pro-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 Pro 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-proplus-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 Pro+ 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-s17e-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo S17e Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-t2x-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo T2x 5G FRP Bypass</u></a></li>
+</ul></div>
 

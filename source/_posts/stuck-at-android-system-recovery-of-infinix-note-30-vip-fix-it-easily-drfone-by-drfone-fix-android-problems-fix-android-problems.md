@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Infinix Note 30 VIP ? Fix It Easily | Dr.fone
-date: 2025-01-19T16:00:20.313Z
-updated: 2025-01-22T16:10:43.165Z
+date: 2025-01-25T23:00:04.357Z
+updated: 2025-01-29T18:41:18.123Z
 tags: 
   - problems
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 In this article, you will learn what is Android system recovery, and how to fix Android stuck at system recovery step by step. To get out of Android system recovery more easily, you need this Android repair tool.
 
 You know your Infinix Note 30 VIP is stuck in recovery mode when you cannot turn on the Infinix Note 30 VIP device. If you try to turn it on, it shows a message that says, "Android System Recover." This situation can be quite debilitating for most Android users. Most of the time, you don't know whether you have lost all of your important Android data. It is even more worrying because of the fact that you cannot turn on your device at all, especially when you don't know how to fix it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1. What is Android System Recovery?
 
@@ -91,10 +87,6 @@ Your device should already be in this mode but follow the instructions to make s
 
 ![fix Android stuck at System recovery in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step #4** The firmware will now start downloading. You'll be able to track this process in the window.
 
 Ensure your device, and your computer stays connected the entire time, and make sure your internet connection remains stable.
@@ -110,7 +102,7 @@ You'll be notified when the operation is complete and when you're able to discon
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
@@ -128,10 +120,6 @@ Step 4: Press the Volume down key to select the "Wipe Data/ Factory Reset option
 Step 5: Next, you need to press the Volume down button to highlight "Delete All User Data" and then press the Power button to select it. The device will reset and present the "Reboot System Now" option.
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5. Backup and Restore Android System
 
@@ -162,6 +150,10 @@ Over time, both stuck and ****dead pixels on phone**** screens can make it chal
 Fortunately, there are ways to overcome this, and one of the best is Dr.Fone. In this article, you will discover more about these ****broken pixels on phones****, which of the different methods works for you, and why it is worth considering. By the end of this article, you will have the knowledge and tools you need to get your phone working like new again.
 
 ![hand holding a phone](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Understanding Stuck and Dead Infinix Note 30 VIPs on Phone Screens
 
@@ -220,10 +212,6 @@ Before attempting to fix a ****dead pixel on a smartphone**** screen, it is nec
 
 ![wiping phone screen with clean cloth](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Restart Your Infinix Note 30 VIP
 
 This method may seem simple, but it can be the most effective solution to your problem. Here is how you restart most smartphones available in the market.
@@ -233,6 +221,10 @@ This method may seem simple, but it can be the most effective solution to your p
 ****Step 2:**** Select ****Restart**** on your phone's screen. It will initiate a reboot of your device.
 
 ![android interface restart and power off](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Tip:**
 
@@ -255,7 +247,7 @@ Visit the help page for your device's manufacturer to learn how to activate and 
 ****Step 3:**** To resolve issues related to a problematic app on your phone, remove the most recent downloads one at a time, and restart your phone after each uninstallation. Check if uninstalling the app resolves the issue. Once you know the problematic app, you may install the other applications you deleted again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 4: Perform Factory Data Reset
@@ -300,6 +292,10 @@ Wondershare Dr.Fone provides support for Infinix Note 30 VIP S22 as well as othe
 
 ****Step 6:**** Your device will need to have the new Android firmware flashed onto it, which Wondershare Dr.Fone will take care of. Simply wait while the process completes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Benefits of Using Dr.Fone on Phones With Dead Infinix Note 30 VIPs
 
 If your phone's screen is malfunctioning or some features are inaccessible due to stuck or dead pixels, following the steps to ****fix dead pixels on the phone**** may be challenging. Resetting your phone and backing up data can also be a hassle.
@@ -336,11 +332,7 @@ In addition, the essential factor in comparing dead pixel policies is whether or
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -365,6 +357,10 @@ Given below are eight techniques to flash your Infinix Note 30 VIP safely, depen
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ZqS8c3T65WI"></iframe>
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Can a Dead Phone Be Flashed?
 
@@ -416,6 +412,10 @@ Step 1: It is essential to boot your Infinix Note 30 VIP in Download mode before
 
 ![flash android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - In the absence of a ‘Home’ button: Switch off the Android device and hold the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons for 5 to 10 seconds, then release them. Hit the ‘Volume Up’ button for entering the ‘Download’ mode.
 
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
@@ -427,10 +427,6 @@ Step 2: Press the ‘Next’ button for initiating firmware download.
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -459,10 +455,6 @@ Step 3: In this step, download the latest version of Odin on your PC and move it
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
 
 ![boot in download mode](https://images.wondershare.com/drfone/article/2017/07/14991897353612.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: Gently press the volume up button, and you will see the Download Mode Screen.
 
@@ -530,6 +522,10 @@ Then move on to select “Dead Phone USB Flashing” from the Firmware Update Bo
 
 ![dead phone usb flashing](https://images.wondershare.com/drfone/article/2017/07/14991900551025.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lastly, just click on “Refurbish” and connect your phone to the PC using a USB cable.
 
 That was it, the flashing process may take up to a few minutes after which your dead Infinix Note 30 VIP  will restart automatically.
@@ -553,6 +549,10 @@ The screen of your Infinix Note 30 VIP may be faulty, due to which it is not lau
 If the Android vibrates on restarting and the screen does not lighten up, the problem can be directed to a hardware fault. The screen is broken and needs physical assistance to resolve the issue.
 
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 8: How to fix a dead Android phone by changing the battery
 
@@ -586,24 +586,15 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-step-by-step-guide-to-stunning-android-shots/"><u>[New] In 2024, Step-by-Step Guide to Stunning Android Shots</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-from-amateur-to-pro-instagram-video-tutorials-for-2024/"><u>[Updated] From Amateur to Pro Instagram Video Tutorials for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-virtual-venues-clash-obstwitch-live-for-2024/"><u>[Updated] Virtual Venues Clash OBS/Twitch Live for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-of-the-best-comprehensive-guide-to-2024s-elite-15-inch-laptops-tested-and-reviewed-zdnet-insights/"><u>Best of the Best: Comprehensive Guide to 2024'S Elite 15-Inch Laptops Tested and Reviewed | ZDNET Insights</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/how-to-make-looping-videos-for-instagram/"><u>How To Make Looping Videos for Instagram?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oneplus-12r-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve OnePlus 12R Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>In 2024, Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-nord-n30-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-100-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor 100? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-p55t-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P55T Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c12-plus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C12 Plus Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-13-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolve-your-wi-fis-no-internet-issue-top-10-steps-for-windows-11-users/"><u>Resolve Your Wi-Fi's No-Internet Issue: Top 10 Steps for Windows 11 Users</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/sony-xperia-5-v-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 5 V Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-13-mini-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 13 mini</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/al-diary-dos-and-donts-for-consistent-content-for-2024/"><u>Virtual Diary Dos & Don'ts for Consistent Content for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-diving-deep-reviewing-your-old-tweets/"><u>[New] In 2024, Diving Deep Reviewing Your Old Tweets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-5-secure-downloader-apps-for-fb-video-extraction-for-2024/"><u>[New] Top 5 Secure Downloader Apps for FB Video Extraction for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-upgrading-zoom-video-fidelity-a-comprehensive-guide/"><u>[New] Upgrading Zoom Video Fidelity A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/expert-guide-effortlessly-uninstalling-icoresynchronizer-from-macos-devices/"><u>Expert Guide: Effortlessly Uninstalling iCoreSynchronizer From macOS Devices</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-14-ultra-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi 14 Ultra Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nubia-z50s-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nubia Z50S Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-nokia-c12-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Nokia C12 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/andio/"><u>ファイルブラスターイマジナリーバーンを始めよう: ダウンロード・国際化・設定指南&IOエラー解決法集成</u></a></li>
 </ul></div>
 

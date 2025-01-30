@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Fixes for Call of Duty: Black Ops Cold War's Gameplay Freeze Problem"
-date: 2025-01-21T16:04:07.188Z
-updated: 2025-01-22T16:12:27.418Z
+date: 2025-01-25T19:17:41.208Z
+updated: 2025-01-29T17:20:43.638Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ There is nothing more frustrating than buying a video game and not being able to
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-22-28.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-04.jpg)
@@ -65,25 +69,13 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-58-37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Double-click **Display adapters** . Then, right-click **your graphics card** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-58-50.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click **Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you can’t click the button, or if rolling back to the previous version didn’t fix your issue, then move on and try updating your graphics driver.
 
@@ -128,6 +120,10 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_15-00-05.jpg)
@@ -146,6 +142,10 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_17-55-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  On the **Processes** tab, right-click the **Blizzard-related program** (such as **Blizzard battle.net App,** agent.exe and **Blizzard Update Agent** ), then click **End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
@@ -161,6 +161,10 @@ If your issue persists, don’t fret. Move on to the next fix below.
 **5)**  Highlight and delete the **Blizzard Entertainment**  and **Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Relaunch your game to test the issue.
 
@@ -189,10 +193,6 @@ Here is how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-24.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Relaunch your game to test your issue.
 
 If your issue continues to occur, try performing a clean boot on your PC.
@@ -207,13 +207,13 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-36.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Type **msconfig** . Then, on your keyboard, press the **Enter, Shift**  and **Ctrl**  keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-32-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Uncheck the box next to **Load startup items** . Then click **Apply** .
 
@@ -230,10 +230,6 @@ If your issue continues to occur, try performing a clean boot on your PC.
 **6)** Click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)**  Click the **Startup tab.**
 
@@ -267,40 +263,40 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-36-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Type **msconfig**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-32-15-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the button next to **Normal startup,**  and then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-37-21.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the **Services tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-38-25.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Click **Enable all,** then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-39-34.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)**  Click **Restart** . (Your computer will start normally after you finish this step.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-40-28.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your game still won’t launch, move on to the next fix.
@@ -316,6 +312,10 @@ If your game still won’t launch, move on to the next fix.
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Restart your computer and the game after the update is complete.
 
@@ -347,18 +347,20 @@ If the issue persists, try the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-alternative-films-to-dive-into-7-favorites/"><u>[New] In 2024, Fresh Alternative Films to Dive Into, #7 Favorites</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-price-estimation-guide-for-music-video-production/"><u>[New] Price Estimation Guide for Music Video Production</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unlock-flawless-facetime-call-recordings-a-complete-walkthrough-for-2024/"><u>[New] Unlock Flawless FaceTime Call Recordings A Complete Walkthrough for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unseen-chronicles-5-expertly-crafted-viewer-tools/"><u>[Updated] In 2024, Unseen Chronicles 5 Expertly Crafted Viewer Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-pro-tips-chromebooks-finest-pencil-based-software/"><u>2024 Approved Pro Tips Chromebook's Finest Pencil-Based Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-instructions-for-entering-setup-mode-on-your-amazon-echo-dot/"><u>Easy Instructions for Entering Setup Mode on Your Amazon Echo Dot</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-speech-to-ai-the-android-way-with-chatgpt/"><u>From Speech to AI: The Android Way with ChatGPT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-itel-p55t-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Itel P55T Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-changefake-your-itel-p55-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Itel P55 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/optimal-data-recorder-for-sony-a7c-model-for-2024/"><u>Optimal Data Recorder for Sony A7C Model for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-step-by-step-methodology-tracking-youtube-traffic-and-income/"><u>2024 Approved Step-by-Step Methodology Tracking YouTube Traffic & Income</u></a></li>
+<li><a href="https://win-best.techidaily.com/complete-guide-to-playing-a-voice-call-on-facetime/"><u>Complete Guide to Playing a Voice Call on FaceTime</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-7-plus-how-to-unlock-a-disabled-iphone-7-plus-by-drfone-ios/"><u>Disabled iPhone 7 Plus How to Unlock a Disabled iPhone 7 Plus?</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-m14-4g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy M14 4G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-se-2022-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone SE (2022) Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-x-fold-2-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo X Fold 2 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-photo-vault-services/"><u>In 2024, Premium Photo Vault Services</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unleashing-your-creative-potential-expert-led-audio-transition-workshops-in-audacity/"><u>In 2024, Unleashing Your Creative Potential Expert-Led Audio Transition Workshops in Audacity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-g310-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia G310 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-spark-20-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Spark 20? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-100-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor 100 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/shrink-your-videos-the-best-free-compression-tools-for-windows-10/"><u>Shrink Your Videos The Best Free Compression Tools for Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-updated-safely-with-macos-1441-a-comprehensive-guide/"><u>Stay Updated Safely with macOS 14.4.1: A Comprehensive Guide</u></a></li>
 </ul></div>
 

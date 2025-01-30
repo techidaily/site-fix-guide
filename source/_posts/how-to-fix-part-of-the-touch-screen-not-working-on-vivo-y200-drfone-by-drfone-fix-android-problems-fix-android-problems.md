@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y200 | Dr.fone
-date: 2024-07-14T05:46:09.331Z
-updated: 2024-07-15T05:46:09.331Z
+date: 2025-01-24T00:20:47.303Z
+updated: 2025-01-30T01:24:12.651Z
 tags: 
   - problems
 categories:
@@ -31,6 +31,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - LG screen is unresponsive to touch
 - Vivo Y200 ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
@@ -64,10 +68,11 @@ When your touch screen stops working, the first thing you should do is restart y
 
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** When the Vivo Y200 device turns off, wait a few seconds.
 
@@ -125,6 +130,10 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -174,6 +183,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Vivo Y200. And in a while, your Vivo Y200’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported OS
 
@@ -290,6 +303,10 @@ Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.V: Clear The Photo Gallery App Cache
 
 The camera app is closely tied to the photo gallery app that comes baked in into Android OS. That is because photos that the camera app takes are stored in the photo gallery app. Consequently, if there were any issues in the photo gallery app, that could lead to the camera app not working on Android problem. Here’s how to clear the photo gallery app cache:
@@ -300,18 +317,12 @@ Step 1: Go to Settings > Apps > Photos > Storage Usage.
 
 Step 2: Tap Clear Cache.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.VI: Check For App Updates
 
 This does not happen always, but sometimes, with known bugs and issues, there may be an update released that fixes those bugs and issues that prevent some users from using a given app reliably. Checking for updates is a good step to make sure that your camera app is updated to the latest version possible.
 
 Step 1: Go to Play Store and tap your profile picture on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![google play store app updates](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-9.jpg)
 
 Step 2: Tap Manage Apps and Device.
@@ -368,9 +379,6 @@ Step 6: Dr.Fone automatically downloads the most recent firmware for your device
 
 Step 7: You will need to enter a 6-digit code (digit zero, six times – 000000) to confirm and begin the repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm android firmware repair drfone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 When the repair is complete, Dr.Fone shows the final screen as below:
@@ -378,6 +386,10 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -390,6 +402,10 @@ Google Play Services is a crucial component of any Android device, responsible f
 It’s pretty much annoying when you try to launch Google Play Services but it isn’t able to operate correctly. You get some of the notifications like Google Play Services won't run unless you update Google Play Services. On the other hand, when you start to update Google Play Services, you stuck again with the error pop-ups, and **Google Play Services won’t update**. This can create a lot of chaos in one’s life. So, what action should one need to take in such a situation? Well! You needn’t rankle more as we will explore some of the causes and tips to fix the issue. Keep reading!
 
 ![fix google play services wont update](https://images.wondershare.com/drfone/article/2022/11/google-play-services-wont-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Causes for Google Play Services Won’t Update Issue
 
@@ -408,8 +424,6 @@ Before diving into the solutions, it's essential to understand the potential cau
 For those seeking a quick and effortless solution, several third-party tools offer one-click fixes for the Google Play Services update problem. These tools automate the update process, ensuring that you have the latest version of Google Play Services installed. However, it is crucial to use reputable and trusted tools to avoid potential security risks.
 
 If you cannot update Google play services by the reason of custom ROM incompatibility or Google Play component corruption, there is a serious need of repairing firmware then. And to repair Android firmware, one of the expert ways is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This professional tool vows to bring your Vivo Y200s back to normal by fixing the issues with ease. Here are the advantages of this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -463,6 +477,10 @@ When the firmware is downloaded completely, the program will automatically start
 
 In most cases, restarting the Vivo Y200 device can simply do the trick. When you restart the Vivo Y200 device, most of the issues get eliminated making the Vivo Y200 device perform better than before. Also, it is all about RAM. While you restart your device, the RAM gets cleared. As a result, the apps work properly. So, in the first place, we would like you to restart your Vivo Y200 when you cannot update Google Play Services. Once restarted, try to update again and see if the results are positive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2. Uninstall Google Play Services Updates and Reattempt the Update
 
 Uninstalling previous Google Play Services updates resolves conflicts and errors, often addressing the issue of updates. This process clears potential obstacles, enabling a successful update of Google Play Services. Here's how you can do it:
@@ -478,9 +496,6 @@ Uninstalling previous Google Play Services updates resolves conflicts and errors
 9. If an update is available, you'll see the option to "Update." Tap on it to start the update process.
 10. After the update is complete, restart your device to ensure the changes take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3. Update Google Play Store
 
 Ensure that you have the latest version of the Google Play Store app installed on your device. Open the Play Store, go to Settings, and check for updates. Updating the Play Store can often resolve compatibility issues with Google Play Services updates.
@@ -492,6 +507,10 @@ Go to your device's Settings, select Accounts or Users, and remove your Google a
 ### Method 5. Uninstall unnecessary apps
 
 As we mentioned above, due to a lot of apps being installed at the same time, the issue can crop up. And hence, if the above solution didn’t help, you can try to uninstall the apps that you don’t need currently. We hope this works. But if not, you can go to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6. Clear Google Play Services cache
 
@@ -571,6 +590,10 @@ To check the version of Google Play Services on your Vivo Y200, follow these ste
 - **Step 3.** Scroll down and select "Settings."
 - **Step 4.** Scroll to the bottom and find the "Play Store version" or "Play Services version". The number displayed indicates the version of Google Play Services installed on your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Why is my device not compatible with the latest version of Google Play Services?
 
 There can be several reasons why a device is not compatible with the latest version of Google Play Services. It could be due to hardware limitations, an outdated Android operating system version, or the Vivo Y200 device no longer receiving official software updates. Compatibility requirements can change with newer versions of Google Play Services, and older devices may not meet the necessary criteria to support the latest updates.
@@ -578,9 +601,6 @@ There can be several reasons why a device is not compatible with the latest vers
 ## Conclusion
 
 Encountering difficulties when updating Google Play Services can be frustrating, but with the right approach, these issues can be resolved. By understanding the causes and implementing the suggested fixes outlined in this guide, you can overcome the Google Play Services update problem. Remember to prioritize storage space, ensure a stable internet connection, and keep your apps and system components up to date. By doing so, you can enjoy the full functionality of Google Play Services and benefit from the latest features and security enhancements.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -594,9 +614,26 @@ Encountering difficulties when updating Google Play Services can be frustrating,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-cutting-edge-techniques-for-bypassing-obscuring-elements-in-affinity-photo/"><u>[New] Cutting-Edge Techniques for Bypassing Obscuring Elements in Affinity Photo</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-find-what-youve-just-watched-on-fb-quick-and-easy-for-2024/"><u>[New] Find What You've Just Watched on FB Quick & Easy for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-radiant-faces-mastering-makeup-and-lighting-together-for-2024/"><u>[Updated] Radiant Faces Mastering Makeup and Lighting Together for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-features-of-microsofts-affordable-ultrabook-the-laptop-go-in-depth-analysis/"><u>Exploring the Features of Microsoft's Affordable Ultrabook, the Laptop Go - In Depth Analysis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-pova-5-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Pova 5 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-t2-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-v-purse-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor V Purse Device SIM</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-14-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 14 Pro? How to Fix</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-realme-gt-5-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Realme GT 5 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-5-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 5 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/reel-to-perfection-selecting-the-best-video-editor-for-android/"><u>Reel to Perfection Selecting the Best Video Editor for Android</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-a56s-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo A56s 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-note-50-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme Note 50 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f04-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F04 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unveiling-the-best-of-facebooks-vid-scene-for-2024/"><u>Unveiling the Best of Facebook's Vid Scene for 2024</u></a></li>
+</ul></div>
 

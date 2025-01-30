@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Need for Stricter AI Laws: Insights From OpenAI's Leadership"
-date: 2025-01-19T16:13:13.842Z
-updated: 2025-01-22T16:13:32.900Z
+date: 2025-01-27T21:46:52.308Z
+updated: 2025-01-29T23:40:55.700Z
 tags:
   - chatgpt
   - open-ai
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  Trading crypto is and always has been a risky game, so it makes sense to pursue avenues that may make it a little easier. In 2023, the use of ChatGPT in crypto trading became evident, as this chatbot is a hub of information. However, there are some reasons why using ChatGPT to trade cryptocurrency may be a bad idea.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Lack of Real-Time Data
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The huge success of ChatGPT, as well as the release of[similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/) , has brought the concern of hallucination into the limelight.
 
@@ -45,16 +49,12 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
@@ -66,12 +66,16 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Relies Heavily on Historical Data
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
 
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  ChatGPT can be friendly and[even make jokes](https://www.makeuseof.com/can-ai-make-us-laugh/) , but this is all based on the data it has been trained with. You could certainly call it a smart program, as it is highly advanced by today's standards, but it is not an all-knowing entity.
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
@@ -116,21 +116,18 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-boosting-clickthrough-rates-with-attention-grabbing-youtube-thumbnails/"><u>[Updated] 2024 Approved Boosting Clickthrough Rates with Attention-Grabbing YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-imagery-inspiration-skillful-grading-techniques/"><u>[Updated] 2024 Approved Imagery Inspiration Skillful Grading Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-amazon-fire-hd/"><u>Expert Analysis of the Amazon Fire HD</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-tecno-camon-20-premier-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Tecno Camon 20 Premier 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changefake-your-itel-a05s-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Itel A05s Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-leave-a-life360-group-on-itel-s23plus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Itel S23+ Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-auto-translate-youtube-videos-into-different-languages-for-2024/"><u>New Auto Translate YouTube Videos Into Different Languages for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unlock-pro-quality-sound-top-10-audio-editing-software-tools/"><u>New Unlock Pro-Quality Sound Top 10 Audio Editing Software Tools</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-11r-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 11R Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-tecno-spark-20-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Spark 20 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-k70-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi K70 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-and-rectifying-windows-struggling-charmap-problems/"><u>Unraveling and Rectifying Windows' Struggling CharMap Problems</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-avs-video-editor-review-does-it-live-up-to-expectations-in-2024/"><u>Updated AVS Video Editor Review Does It Live Up to Expectations, In 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-decoding-youtubes-user-comment-selection-criteria-for-2024/"><u>[New] Decoding YouTube's User-Comment Selection Criteria for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-video-lessons-to-vivid-engaging-gifs-no-download-needed-for-2024/"><u>[New] From Video Lessons to Vivid, Engaging GIFs – No Download Needed for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-evolution-of-engagement-key-post-vidcon-events-for-2024/"><u>[Updated] Evolution of Engagement Key Post-VidCon Events for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-tailoring-tags-a-guide-for-enhanced-online-visibility/"><u>[Updated] Tailoring Tags A Guide for Enhanced Online Visibility</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-realme-c53-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Realme C53 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/electric-dreams-unveiled-special-perks-of-park-spots-and-hov-lane-priority-for-ev-owners/"><u>Electric Dreams Unveiled: Special Perks of Park Spots & HOV Lane Priority for EV Owners</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-ps5-slim-crucial-upgrades-exposed/"><u>Exploring PS5 Slim: Crucial Upgrades Exposed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-california-drivers-can-securely-link-their-licenses-with-apple-and-google-pay-a-step-by-step-guide/"><u>How California Drivers Can Securely Link Their Licenses with Apple and Google Pay: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-z-fold-5-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy Z Fold 5 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-pop-7-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Pop 7 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor X8b | Dr.fone</u></a></li>
 </ul></div>
 

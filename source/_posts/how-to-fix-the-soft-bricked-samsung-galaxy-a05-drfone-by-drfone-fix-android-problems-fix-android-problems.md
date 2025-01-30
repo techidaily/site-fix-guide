@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy A05? | Dr.fone
-date: 2024-07-14T05:49:29.547Z
-updated: 2024-07-15T05:49:29.547Z
+date: 2025-01-29T01:16:45.542Z
+updated: 2025-01-30T01:24:58.694Z
 tags: 
   - problems
 categories:
@@ -78,7 +78,15 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
@@ -97,8 +105,6 @@ Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog o
 ## Cause 1: WhatsApp-related Firmware Components went wrong
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -123,6 +129,10 @@ To start repairing, go to the official website of Dr.Fone - System Repair (Andro
 As the next step, you need to take the help of USB cable and then plug your device to the computer. Once connected appropriately, make sure to click on the “Android Repair” tab from the left panel.
 
 ![whatsapp not opening - choose repair tab](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Enter Details**
 
@@ -160,10 +170,11 @@ A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp
 - Go to “Play Store” and search “WhatsApp” on the search bar.
 - Tap on it and start downloading followed by installing it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - fix component corruption](https://images.wondershare.com/drfone/article/2019/06/install-whatsapp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cause 4: Not Enough Storage on your Phone
 
@@ -216,7 +227,9 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy A05
 
@@ -226,9 +239,6 @@ Google Play Store is a necessary and bundled service of any Android device. This
 
 If you search on the internet, you may find various tricks dealing with Google Play Store not working issue. However, either to try each of them or choose several to follow would certainly cost a lot of time. What's more, we are not sure whether they will really work. Therefore, we would recommend you with a more effective and fast way, that is to use [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), a dedicated Android repair tool to fix Google Play Store, not working issues just in one click.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 A most effective method to fix Google Play Store not working
@@ -244,10 +254,11 @@ A most effective method to fix Google Play Store not working
 
 1. Get this tool downloaded on your computer. Install and launch it, and you can find the following welcome screen displayed.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix google play store not working using a dedicated tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Select the option "System Repair". In the new interface, click on the "Android Repair" tab.
 
@@ -263,9 +274,6 @@ A most effective method to fix Google Play Store not working
 
 1. After entering the Download mode, the Dr.Fone tool starts to download the correct firmware to your Android.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 1. The downloaded firmware will be loaded and flashed to your Samsung Galaxy A05 to fix the Google Play Store not working issue.
@@ -290,11 +298,19 @@ Step 1 – First, go to the “Settings” of your device. Find ‘Date and time
 
 ![Find ‘Date and time’](https://images.wondershare.com/drfone/article/2017/06/14985032465232.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2 – Now you can see several options. Select “Automatic date and time”. This should override the wrong date and time your device have. Else, deselect the tick beside that option and select the date and time manually.
 
 ![Select “Automatic date and time”](https://images.wondershare.com/drfone/article/2017/06/14985032658893.jpg)
 
 Step 3 – Now, go to the Play store and try to connect again. This should be working without any problem now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Cleaning of Cache data of Play Store
 
@@ -356,6 +372,10 @@ Step 3 – Now you can be able to uninstall Google play service by going into ap
 
 ![uninstall Google play service](https://images.wondershare.com/drfone/article/2017/06/14985034252357.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4 – After that, try to open any app that requires Google Play store to open, and that will automatically guide you to install the Google Play service. Now install the updated version of the Google Play service.
 
 After installing, your problem might be solved by now. If not, try the next solution.
@@ -388,6 +408,10 @@ Step 3 – Here you can find “VPN”.  Tap on it and turn it off.
 
 Now, again go back and try to open the Google Play Store. This may solve your problem now. If not, check the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Force stop Google Play Service
 
 Google Play Store needs to be restart just like your PC. This is a really helpful and common trick to overcome the Play Store crashing issue on your Samsung Galaxy A05. To do this, follow the below steps.
@@ -410,9 +434,6 @@ Step 1 – Long press the “Power” button on your device.
 
 Step 2 – Now, click on ‘Reboot’ or ‘Restart’ option. Your device will restart in some time.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on ‘Reboot’](https://images.wondershare.com/drfone/article/2017/06/14985035964108.jpg)
 
 After restarting, try to open the Google Play Store again and this time you should succeed. If any case, it's not opening, try the last (but not the least) method by hard reset your Android.
@@ -433,7 +454,6 @@ This will take a while to reset your device completely. After completion, start 
 
 The above methods are the best 11 among all the solutions you can get for your Play Store not working on wifi or Play Store crashing error. Try one by one and you might get rid of this problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -446,9 +466,19 @@ The above methods are the best 11 among all the solutions you can get for your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-elevate-engagement-posting-youtube-video-on-fb/"><u>[New] In 2024, Elevate Engagement Posting YouTube Video on FB</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-effective-strategies-for-premiere-sound-transitioning/"><u>[Updated] In 2024, Effective Strategies for Premiere Sound-Transitioning</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-access-and-organize-fb-pages-easily-with-top-8-tools/"><u>2024 Approved Access and Organize FB Pages Easily with Top 8 Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-face-to-face-factor-dissecting-apples-x-and-samsungs-identification-methods/"><u>2024 Approved Face-to-Face Factor Dissecting Apple’s X and Samsung’s Identification Methods</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/evolution-of-international-diplomacy-in-the-qing-era-insights-and-analysis/"><u>Evolution of International Diplomacy in the Qing Era: Insights and Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-correcting-the-missing-msvcrt1cdll-file-warning-on-windows/"><u>Guide to Correcting the Missing MSVCRT1C.DLL File Warning on Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-performance-with-new-gtx-1050-ti-drivers/"><u>Optimize Performance with New GTX 1050 Ti Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-itel-a05s-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Itel A05s? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/premium-viewer-ultimate-video-quality-on-pcmobile-for-2024/"><u>Premium Viewer Ultimate Video Quality on PC/Mobile for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-reno-11f-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Reno 11F 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a05-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A05 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+</ul></div>
 

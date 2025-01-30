@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor Play 7T? | Dr.fone
-date: 2024-07-14T05:46:57.973Z
-updated: 2024-07-15T05:46:57.973Z
+date: 2025-01-24T19:04:49.352Z
+updated: 2025-01-30T02:59:02.229Z
 tags: 
   - problems
 categories:
@@ -80,15 +80,27 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Unfortunately Settings Has Stopped on Honor Play 7T Quickly
 
@@ -116,7 +128,15 @@ It is possible that the corrupted cache files are responsible for this error. He
 
 ![settings crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Clear the Android phone’s RAM and retry
 
@@ -128,6 +148,10 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
 
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Uninstall the Google update
 
 Uninstalling Google Play Store updates has also responded well to many users. It has worked in the case of the “Unfortunately Settings has stopped” error. So, we would also like to suggest you use this tip if the others don’t work. Here are the steps to be followed for this.
@@ -138,15 +162,18 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Honor Play 7T, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Honor Play 7T devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix "Unfortunately, Settings Has Stopped"
@@ -165,9 +192,6 @@ Step 1: Download Tool
 
 Visit the official website of Dr.Fone and download the toolbox from there. Go for the installation process and wait until the installation gets over. Launch it now and choose the “System Repair” tab from the main window.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Android settings not responding- download tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Get the Phone Connected
@@ -192,9 +216,6 @@ Step 5: Repair the Issue
 
 Once the firmware is completely downloaded, your Honor Play 7T will automatically start getting repaired. Stay there and you will receive a notification that the repair is done.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - fix the issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -247,6 +268,9 @@ This comprehensive guide aims to the reasons behind Android phones becoming bric
 
 ![man holding a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. What are Brick Phones: At a Glance
 
@@ -293,9 +317,6 @@ A universal approach to trying to recover a **brick phone** exists for all Andro
 
 Normally, smartphone warranties span from 1 to 2 years. If your phone remains unrooted and falls within that coverage period, consider reaching out to the manufacturer. This direct approach could lead to your phone being repaired or replaced with a new one at no cost to you.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Seek Professional Assistance (Hard Brick and Soft Brick)
 
 When your phone falls outside the warranty coverage, consider seeking help from a reputable repair shop. However, be aware that any lost data cannot be attributed to their efforts. Fortunately, you can recover lost data using reliable data recovery software once your phone is operational again.
@@ -338,9 +359,6 @@ Dr. Fone – System Repair (Android) is a great solution with numerous tools to 
 - Utilizing the app for system repair is an effortless and speedy process. It doesn't take up much time to revive your **bricked phone**so you can use it right away.
 - The System Repair toolkit only needs you to click on a few buttons. Combined with its clean UI and speedy process, using the app is a breeze.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. How To Revive a Bricked Phone Using Dr.Fone – System Repair (Android)
 
 Below are the steps to recover data on a bricked mobile phone.
@@ -348,6 +366,10 @@ Below are the steps to recover data on a bricked mobile phone.
 - **Step 1**: Download and install Dr.Fone – System Repair (Android) on your computer. Launch the app and select **System Repair.** Next, choose Select **Android** as the Honor Play 7T device type. Then, connect to your Honor Play 7T. Choose **Phone Brick** as the Android problem and click **Start.**
 
 ![connect brick phone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2**: Select the correct device information. Choose the **Brand**, **Name**, **Model**, **Country**, and **Carrier**. Tick the box next to **I agree** button and click **Next** to proceed to the next step.
 
@@ -371,9 +393,6 @@ Fixing a **bricked phone** may seem daunting, but solutions are within reach. Th
 
 Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. The tool offers a comprehensive toolkit for recovery and data rescue. The power to reclaim lost data lies in your hands. Act, follow the methods outlined, and recover your brick phone.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -386,9 +405,24 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/levate-your-brand-discovering-the-essential-5-youtube-strategies/"><u>[New] Elevate Your Brand Discovering the Essential 5 YouTube Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-streamline-your-gaming-memories-easy-minecraft-recordings-on-macs/"><u>[Updated] 2024 Approved Streamline Your Gaming Memories Easy Minecraft Recordings on Macs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-exceptional-live-streamers/"><u>[Updated] 2024 Approved The Ultimate Guide to Exceptional Live Streamers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-deciding-on-live-stream-software-streamlabs-vs-obs-comparison-for-2024/"><u>[Updated] Deciding on Live Stream Software Streamlabs Vs. OBS Comparison for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cloud-computing-coverage/"><u>Cloud Computing Coverage</u></a></li>
+<li><a href="https://games-able.techidaily.com/expertly-chosen-8-java-environments-mobile-simulations/"><u>Expertly Chosen 8 Java Environments, Mobile Simulations</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silence-a-users-handbook-for-fixing-the-conexant-smartaudio-hd-sound-issue-in-windows-10/"><u>Overcoming Silence: A User's Handbook for Fixing the Conexant SmartAudio HD Sound Issue in Windows 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-x50-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor X50 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-narzo-60-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo 60 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-fixing-rocket-league-game-crashes-in-2nd4/"><u>Top Strategies: Fixing Rocket League Game Crashes in 2nD4</u></a></li>
+</ul></div>
 

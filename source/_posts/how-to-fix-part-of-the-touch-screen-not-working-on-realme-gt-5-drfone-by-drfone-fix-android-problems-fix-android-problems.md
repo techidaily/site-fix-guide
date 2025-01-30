@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme GT 5 | Dr.fone
-date: 2024-07-14T05:44:47.511Z
-updated: 2024-07-15T05:44:47.511Z
+date: 2025-01-22T17:55:21.952Z
+updated: 2025-01-29T17:22:49.497Z
 tags: 
   - problems
 categories:
@@ -32,6 +32,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - Realme GT 5 ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
 You may experience a variety of touch screens not working on Android issues:
@@ -56,9 +60,6 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 
 If you have already tried running the Realme GT 5 device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Realme GT 5’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -67,9 +68,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
 ****Step 2:**** When the Realme GT 5 device turns off, wait a few seconds.
@@ -92,6 +90,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -106,9 +108,6 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 4:**** You will then find the switch to turn it on or off. Disable itby toggling the button off.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
@@ -149,6 +148,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -168,6 +171,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For a device that lacks a Home button:**
 
@@ -222,9 +229,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Realme GT 5 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Android Safe Mode - How to Turn off Safe Mode on Realme GT 5?
 
 Safe mode on Android is very useful to get rid of dangerous apps and malware. This allows the user to perform a uninstall of the crashed or malicious apps by putting safe mode on Android. Now the question is how to remove safe mode? In this article, we have discussed in detail how to get out of safe mode and also discussed some frequently asked questions. Keep reading this article.
@@ -244,6 +248,10 @@ Step 2 – You could find the option “Restart”. Tap on it. (If you have only
 Step 3 – Now, your phone will boot up in some time and you can see the Realme GT 5 device is no more on safe mode.
 
 ![the Realme GT 5 device](https://images.wondershare.com/drfone/article/2017/06/14986725432763.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This method, if goes well, will turn off safe mode in Android from your device. IF not, move to the next method instead.
 
@@ -313,8 +321,6 @@ If some apps or programs create a problem on your device, the solution is safe m
 
 Before this, remember to take a backup of your Realme GT 5. We recommend you to use the Dr.Fone - Phone Backup (Android). This tool is the best in its class to provide users with a very easy-to-use user interface yet powerful solution.
 
-
-
 ### Dr.Fone - Phone Backup (Android)\_
 
 Flexibly Backup and Restore Android Data
@@ -331,6 +337,10 @@ To enter the safe mode, follow the instructions below.
 Step  1 – First of all, long press the power button and let the Power options appear.
 
 ![Power options](https://images.wondershare.com/drfone/article/2017/06/14986727492182.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2 – Now, long press on the "Power off” option. This will instantly ask you if you want to reboot into safe mode. Select the option and your device will reboot in safe mode.
 
@@ -356,8 +366,6 @@ The safe mode is a very useful program for any Android device. But it limits the
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
-
-
 ## 4 Ways to Fix Android Blue Screen of Death On Realme GT 5
 
 Android is undoubtedly amongst the best smartphone platforms but comes with its own share of glitches. The Android screen of death is observed by many users all over the world who complain of their device screen turning blue rendering their phone/tablet unresponsive. This is called the Android blue screen of death and it usually occurs when you turn on your device by pressing the Power On button but your device does not boot up normally and remains stuck at a plain blue screen without any error message.
@@ -369,8 +377,6 @@ Read on to learn more about the Android screen of death and ways to combat it.
 ## Part 1: How to rescue data on Realme GT 5 with blue screen of death?
 
 The Android blue screen of death issue is not a difficult problem to deal with and can be fixed by you by following the easy steps given in this article. We suggest that all readers rescue the data stored on their Android devices to prevent data loss and keep it stored in your PC from where it can be accessed and recovered by you anytime, anywhere. This task might sound tedious, but, we have for you [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html), a software specially designed to retrieve data from broken and damaged Realme GT 5 phones and tabs, especially Realme GT 5 devices, and keep it safe in your PC without tampering with it or altering its format. It efficiently extracts data from broken or unresponsive Realme GT 5 devices, phones/tabs stuck at black/blue screen, or whose system crashed due to a virus attack.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -425,8 +431,6 @@ We understand how annoying it is to see the Android blue screen of death and fai
 
 This software effectively fixes Android screen of death issue along with app crashing, bricked or unresponsive device, stuck on Realme GT 5 logo, etc. All Android issues are well taken care of by Dr.Fone - System Repair (Android) with one click.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Easy and effective solution to fix the **Android blue screen of death**！
@@ -453,9 +457,6 @@ Step 2: Press the ‘Android Repair’ option before tapping the ‘Start’ but
 
 Step 3: Over the Realme GT 5 device information window, select all relevant data about your device followed by the ‘Next’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select data to fix Android blue screen of death](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Initiate repairing after entering ‘Download’ mode**
@@ -466,9 +467,17 @@ Step 1: Get the Realme GT 5 device in ‘Download’ mode to fix the **Android b
 
 ![fix android without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - On a ‘Home’ button device – shut down the Android phone/tablet, and then push the ‘Power’, ‘Volume Down’, and ‘Home’ keys for 10 seconds. Let go of the keys and press the ‘Volume Up’ key to enter ‘Download’ mode.
 
 ![fix android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Tap the ‘Next’ button to download firmware.
 
@@ -477,6 +486,10 @@ Step 2: Tap the ‘Next’ button to download firmware.
 Step 3: Dr.Fone - System Repair (Android) would verify the firmware post-download. It will start repairing the Android system automatically.
 
 ![android system repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -548,6 +561,9 @@ The Android screen of death, especially the **Android blue screen of death**, is
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -561,9 +577,20 @@ The Android screen of death, especially the **Android blue screen of death**, is
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-youtube-for-educators-maximizing-its-classroom-potential/"><u>[Updated] 2024 Approved YouTube for Educators Maximizing Its Classroom Potential</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-free-tools-perfecting-your-video-calls/"><u>[Updated] In 2024, Essential Free Tools Perfecting Your Video Calls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-streamlined-sea-filmmaking-techniques/"><u>[Updated] The Ultimate Guide to Streamlined Sea Filmmaking Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-compilation-of-audio-enhancing-software-for-virtual-performers/"><u>[Updated] Ultimate Compilation of Audio-Enhancing Software for Virtual Performers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/boost-your-windows-11-performance-by-deleting-unnecessary-files-and-recover-space/"><u>Boost Your Windows 11 Performance by Deleting Unnecessary Files & Recover Space</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-f34-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy F34 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oneplus-nord-n30-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your OnePlus Nord N30 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/pro-drone-guide-unveiling-the-top-5-picks-for-you-for-2024/"><u>Pro Drone Guide Unveiling the Top 5 Picks for You for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-tecno-pova-5-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Tecno Pova 5 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-11x-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11X 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-90-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor 90 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-strategies-to-combat-repeated-freezing-and-crashes-of-f1-2021-while-playing-on-pc/"><u>Solution Strategies to Combat Repeated Freezing and Crashes of F1 2021 While Playing on PC</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/unleash-the-might-of-super-saiyan-god-vegeta-stunning-visuals-and-background-imery-for-mobile-pc-curated-by-yl-graphic-design-studio/"><u>Unleash the Might of Super Saiyan God Vegeta: Stunning Visuals and Background Imery for Mobile, PC – Curated by YL Graphic Design Studio</u></a></li>
+</ul></div>
 

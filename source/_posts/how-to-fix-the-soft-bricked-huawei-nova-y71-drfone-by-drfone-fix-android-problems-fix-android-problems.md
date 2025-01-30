@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Huawei Nova Y71? | Dr.fone
-date: 2024-07-14T05:47:08.264Z
-updated: 2024-07-15T05:47:08.264Z
+date: 2025-01-23T00:12:01.964Z
+updated: 2025-01-29T19:49:07.543Z
 tags: 
   - problems
 categories:
@@ -72,9 +72,6 @@ In this step, download a ROM of your choice and store it in your SD Card. Insert
 
 Once at the recovery mode, select “Install Zip from SD Card” from the options.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
 Scroll down using the volume key and use the power key to select the downloaded ROM.
@@ -93,15 +90,10 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## 7 Fixes for "Unfortunately, Phone Has Stopped" on Huawei Nova Y71
 
 Encountering issues with the Phone app is never welcoming. Being one of the useful apps, seeing it crashing and unresponsive gives sheer despondency. If talked about the triggering points, they are numerous. But the central point is what to do when the Phone app keeps crashing. In this article, we have discussed this issue in detail. To know this and more about why the "Unfortunately, Phone has stopped" error crops up, read this article and get the problem sorted on your own.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: When can the "Unfortunately, Phone has stopped" error come?
 
 First things first! You need to stay updated on why the Phone app keeps stopping or crashing before jumping to any solution. Following are the points when this error comes up to annoy you.
@@ -110,6 +102,10 @@ First things first! You need to stay updated on why the Phone app keeps stopping
 - The upgrading of the software or incomplete updates can lead to crashing the Phone app.
 - Data crashes can be another reason why this error shows up.
 - Infection through malware and virus on your phone is also included when the Phone app might crash.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 7 Fixes for the "Unfortunately, Phone Has Stopped" error
 
@@ -132,6 +128,10 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.3 Update Google Play services
 
 Since Android is created by Google, there must be some Google Play services that are crucial to run several system functions. And if attempting the previous methods isn’t of any use, try updating Google Play services when you find the Phone app stopped. For doing this, you need to make sure that automatic updates are turned on in Google settings. If not, enable it and get the apps including Google Play services updated for smoother functions.
@@ -143,12 +143,13 @@ When the firmware is not updated, it may conflict with some apps and maybe that�
 1. Open "Settings" and go to "About Device".
 2. Now tap on "Software Updates" and check for the availability of the new update.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone app crashing - update firmware](https://images.wondershare.com/drfone/article/2023/05/samsung-android-update-shot.jpg)
 
 1. Download and install it and then try to use the Phone app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.5 Clear partition cache
 
@@ -168,11 +169,6 @@ If still, the Phone app keeps stopping after trying everything, here is the most
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix "Unfortunately, Phone Has Stopped" on Huawei Nova Y71 devices.
@@ -217,6 +213,10 @@ When you see the firmware has been downloaded, the issue will begin to get resol
 
 ![Phone app crashing - device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ### 2.7 Factory reset
@@ -231,6 +231,10 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Full Solutions to Fix Error Code 920 In Google Play on Huawei Nova Y71
 
 If you are using an Android device, you might have encountered the error code 920 in Google Play Store. This error usually occurs when you are trying to download or update an app from the Google Play Store. The error code 920 can be quite frustrating, as it prevents you from downloading or updating your favorite apps. However, there are several ways to fix this error and get your apps back up and running. In this article, we will show you some of the best solutions to fix error code 920 in Google Play Store on Huawei Nova Y71.
@@ -241,6 +245,10 @@ Trust me, once you face an error it’s frustrating until you find a solution to
 - (ii) Switching off and turning the wifi (cellular data) on
 - (iii) Clearing the cache and data of Google Play Store
 - (iv) Removing and adding back your Google account
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is Error Code 920?
 
@@ -296,6 +304,10 @@ Then connect your Huawei Nova Y71 using the official cable and select the ‘And
 
 ![fix error code 920 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dr.Fone will now download your firmware and automatically install it onto your device. Your phone will then reset, and you’ll be ready to use it without experiencing that annoying error 920 play store code!
 
 #### **METHOD 2: Re-installing the application**
@@ -312,6 +324,10 @@ Step 4 - Now you clear the task manager and try installing it once again. If the
 
 ![error code 920-install apps](https://images.wondershare.com/drfone/article/2017/06/14985022232651.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **METHOD 3: Switching off and turning the wifi (cellular data) on**
 
 This is another basic method in solving the play store error 920. This error comes in when you have given too many tasks to download.
@@ -321,6 +337,10 @@ Step 1 - To remove that load Just turn your wifi off and then turn your wifi on 
 Step 2 - Now after doing this go to your Play Store application and download the application that you were going to download. Now your Play Store Error 920 won’t be bothering you anymore.
 
 ![error code 920-turn off wifi](https://images.wondershare.com/drfone/article/2017/06/14985022435219.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **METHOD 4: Clearing the cache and data of Google Play Store**
 
@@ -332,10 +352,11 @@ Step 2 – Now find “Applications” option under the settings menu. Here you 
 
 Step 3 – Now, at the bottom, you can find “Clear Cache” option. Tap on it and your all cache will be cleared.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![error code 920-google play store clear cache](https://images.wondershare.com/drfone/article/2017/06/14985022644620.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After doing this step clear your task manager (delete all recent applications). Go to play store and resume your download or update.
 
@@ -357,7 +378,6 @@ Again it is best if you follow the methods as illustrated above for removing err
 
 Play Store error 920 is a pretty common error and its solutions are also very easy. Please do ensure that you follow each and every step in sync so that you can get the best result out of these methods and get over with the error code 920 on Google play store.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -370,9 +390,16 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-windows-http-error-a-guide-to-fixes/"><u>Decoding the Window's HTTP Error: A Guide to Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p55-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P55 To Phone | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-11-pro-max-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 11 Pro Max with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-pop-8-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Pop 8 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-note-30-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+</ul></div>
 

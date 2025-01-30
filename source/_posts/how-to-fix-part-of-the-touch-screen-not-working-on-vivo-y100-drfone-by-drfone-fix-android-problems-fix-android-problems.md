@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y100 | Dr.fone
-date: 2024-07-14T05:46:04.665Z
-updated: 2024-07-15T05:46:04.665Z
+date: 2025-01-26T16:57:44.715Z
+updated: 2025-01-29T22:56:59.528Z
 tags: 
   - problems
 categories:
@@ -64,9 +64,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
 ****Step 2:**** When the Vivo Y100 device turns off, wait a few seconds.
@@ -124,6 +121,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
@@ -202,9 +203,6 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -219,6 +217,10 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Vivo Y100 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## App Won't Open on Your Vivo Y100? Here Are All Fixes
 
 It is not a very rare phenomenon where an App won't open, crash abruptly or face trouble while launching on an Android device. Many Android phone users also add to the fact that whenever they try to launch an App, it keeps loading but does not run smoothly, as it should in normal circumstances.
@@ -229,9 +231,6 @@ Many people are also interested in knowing about the causes behind why an App wo
 
 Here are all the fixes you need if an App won’t open on your Vivo Y100. Read on to find out all about why Apps won't open on your Vivo Y100 and solutions to overcome such a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Possible reasons for Apps won't open
 
 If you are an Android phone user and face a problem while trying to open an App on your device, you will ask yourself “Why won't my App open?”. To answer your question and explain to you why an App won't open on your phone, here are some probable and simple reasons to make you understand the real problem.
@@ -241,6 +240,10 @@ It is appropriate to tag our generation as smartphone addicts because we use sma
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984182929893.jpg)
 
 ![Settings](https://images.wondershare.com/drfone/article/2017/06/14984583143306.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Another possible reason for Apps to crash or why an App won't open is a possible data crash. This may occur due to **an unstable internet connection** or **various other background software interruptions**.
 
@@ -252,7 +255,9 @@ You have already understood ‘why won't your app open?’ at the start of this 
 
 Well, in such a case [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can prove to be your savior. It resolves failed Android system update issues, crashing apps, and black screen of death. It can also get an unresponsive or bricked Android device or boot loop stuck device fixed with one click.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -290,10 +295,11 @@ Step 1: You got to boot the Android device under Download mode, as it’s import
 
 - Android devise with a ‘Home’ button – Press together ‘Volume Down’, ‘Home’, and ‘Power’ buttons together for 5 to 10 seconds after turning off the Vivo Y100 device. Release them afterward and click the ‘Volume Up’ button to get into the ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![boot android in download mode with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - When there is no ‘Home’ button – Turn off the Vivo Y100 device and then for 5 to 10 seconds, keep the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons pressed. Tap the ‘Volume Up’ button after releasing all the buttons to enter the ‘Download’ mode.
 
@@ -361,6 +367,10 @@ Carefully follow the step-by-step instructions given below to clear all App cach
 
 ![Clear data](https://images.wondershare.com/drfone/article/2017/06/14984585184488.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: 3 Common fix if all Apps won’t open on Android
 
 In this segment, we will discuss solutions to the problem if all your Apps won't open. They are simple and easy to follow and solve the error in no time.
@@ -415,8 +425,6 @@ Your phone will now reboot and will be required to set up from scratch.
 
 So go ahead and try them out now!
 
-
-
 ## How to Fix the Soft Bricked Vivo Y100?
 
 Bricked phone is a serious problem, as your brick smartphone could be suffering from a soft brick or hard brick problem, and must be dealt with carefully. It is very common to see a brick smartphone these days. If you are wondering what exactly is a bricked phone, here is your answer.
@@ -455,11 +463,19 @@ Use the volume down key to scroll down and select ”Wipe cache partition” as 
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
 This method will help you erase all the clogged up and unwanted files. You may loose some App related data, but that is a small price to pay to fix your bricked phone.
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Booting straight into recovery mode
 
@@ -483,6 +499,10 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
@@ -490,14 +510,14 @@ This might take a few minutes of your time, but once the process is complete, re
 Hopefully, your bricked phone will not boot normally and work smoothly.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -511,9 +531,16 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/conversione-aac-a-mp3m4a-online-gratuita-con-movavi/"><u>Conversione AAC a MP3/M4A OnLine Gratuita Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-data-protection-how-to-use-chatgpt-responsibly-in-the-workplace/"><u>Ensuring Data Protection: How to Use ChatGPT Responsibly in the Workplace</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-correctly-address-the-notorious-black-ops-cold-war-error-27711-on-your-interface/"><u>How To Correctly Address The Notorious Black Ops Cold War Error 27711 on Your Interface</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-meteorological-measurements-with-the-ws-2902a-osprey-a-detailed-overview/"><u>Maximize Meteorological Measurements with the WS-2902A Osprey: A Detailed Overview</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-x-fold-2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo X Fold 2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-80-pro-straight-screen-edition-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor 80 Pro Straight Screen Edition Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-windows-11-app-opening-secrets-revealed/"><u>Turbo Windows 11 App Opening Secrets Revealed</u></a></li>
+</ul></div>
 

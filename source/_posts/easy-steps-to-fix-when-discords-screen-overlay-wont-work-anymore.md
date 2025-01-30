@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Fix When Discord's Screen Overlay Won't Work Anymore
-date: 2025-01-21T16:13:34.883Z
-updated: 2025-01-22T16:05:00.256Z
+date: 2025-01-26T02:45:44.804Z
+updated: 2025-01-30T02:37:25.847Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Game freezing is the most frustrating part of PC gaming. You may run into issues
 
  If you’re experiencing_Borderlands 3_ freezing issues, before reaching out to the game’s developer, try the solutions below. Here is a general guide to help rule out common issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix _Borderlands 3_ freezing?
 
  You may not have to try them all, just work your way down the list until you find the one that does the trick for you.
@@ -31,10 +35,6 @@ Game freezing is the most frustrating part of PC gaming. You may run into issues
 6. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Adjust your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall the Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check your computer specs
 
@@ -62,15 +62,15 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-40-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the **Display 1** tab to check your graphics card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-45-46.jpg)
 
  Make sure your computer meets the minimum requirements to run the game, then move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Rule out driver issues
 
@@ -89,10 +89,6 @@ Follow the instructions below to view your computer hardware information:
 **2)** Double-click**Display adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-23-36.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Right-click the name of your graphics card and select**Properties** .
 
@@ -138,10 +134,6 @@ Follow the instructions below to view your computer hardware information:
 
  If your problem continues to occur, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Run your game as an administrator
 
  Running a game with administrative privileges can help resolve compatibility issues and prevent game issues caused by restricted access. To run_Borderland 3_ as an administrator, follow these steps:
@@ -149,6 +141,10 @@ Follow the instructions below to view your computer hardware information:
 **1)** Right-click the **Epic Games icon** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-49-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Go to the **Compatibility tab** , check the box next to **Run this program as an administrator** .
 
@@ -172,25 +168,13 @@ If the game still freezes, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Epic Games Launcher will fix corrupted or missing game files if it detects any. Wait for the scans to be complete, then relaunch _Borderlands 3_ to check if this has fixed your issue.
 
 If your issue persists, check the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: End unnecessary background programs
 
@@ -215,10 +199,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-45.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After turning off unwanted programs, relaunch your game to test your issue. If your problem still exists, try **[Fix 6](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
@@ -233,11 +213,19 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click the program you don’t need and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-25.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try launching _Borderlands 3_ to see if it works properly now. If not, check the next fix, below.
 
@@ -249,11 +237,23 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-29.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-35.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer and your game after the update is complete. If the freezing issue happens again, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Adjust your virtual memory
 
@@ -271,10 +271,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-04-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click**Advanced** \>**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-19-52.jpg)
@@ -282,6 +278,10 @@ If your issue persists, check the fix below.
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Click your **C drive** .
 
@@ -319,15 +319,15 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-39.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
  If you’re prompted for permission, select **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** [**Download**](https://www.epicgames.com/unrealtournament/download) and install the Epic Games Launcher. Then, reinstall_Borderlands 3_ .
 
@@ -356,15 +356,24 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-quick-stitching-together-synchronizing-obs-and-zoom/"><u>[New] 2024 Approved Quick Stitching Together Synchronizing OBS and Zoom</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-prime-image-archive-platforms/"><u>[Updated] In 2024, Prime Image Archive Platforms</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/does-tecno-pop-7-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Pop 7 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-a56s-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo A56s 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-floating-window-technology-in-netflix/"><u>In 2024, Navigating The Floating Window Technology in Netflix</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/movavimp3w6eb/"><u>Movaviで楽にオンラインMP3変換：W6ebフォーマット用のワンクリック方法</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-flip-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Flip Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ate-buyers-guide-top-gpus-for-youtube-streamers-for-2024/"><u>Ultimate Buyer's Guide Top GPUs for YouTube Streamers for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-capturing-stardust-the-premier-10-sites-for-hdr-skyscapes-for-2024/"><u>[New] Capturing Stardust The Premier 10 Sites for HDR Skyscapes for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-checklist-facebook-and-youtube-video-integration/"><u>[Updated] The Ultimate Checklist Facebook & YouTube Video Integration</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-peepsnap-evaluation-review-screen-recorders/"><u>2024 Approved Peepsnap Evaluation Review - Screen Recorders</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-gimp-your-go-to-multi-platform-imaging-solution-for-zero-price-tag/"><u>Comprehensive Analysis of GIMP - Your Go-To Multi-Platform Imaging Solution for Zero Price Tag</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harvesting-stills-from-moving-images-on-windows-for-2024/"><u>Harvesting Stills From Moving Images on Windows for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-wolcen-lords-of-mayhem-game-crashing-on-windows-pcs/"><u>How to Fix 'Wolcen: Lords of Mayhem' Game Crashing on Windows PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-smart-7-hd-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Smart 7 HD Phone FRP Lock</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p40plus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P40+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/live-coverage-of-microsofts-surface-and-windows-ai-showcase-key-highlights-and-insights/"><u>Live Coverage of Microsoft's Surface & Windows AI Showcase: Key Highlights & Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-k11-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo K11 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-magic-v2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic V2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-open-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Open Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23plus-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23+ Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-real-time-media-streamers/"><u>Superior Real-Time Media Streamers</u></a></li>
 </ul></div>
 

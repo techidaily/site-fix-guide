@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Vivo Y36 | Dr.fone
-date: 2025-01-15T16:13:51.260Z
-updated: 2025-01-22T16:03:33.598Z
+date: 2025-01-24T17:18:01.716Z
+updated: 2025-01-30T01:45:06.347Z
 tags: 
   - problems
 categories:
@@ -26,10 +26,6 @@ The reasons below collectively contribute to the frustration users experience wh
 
 ![confused about apps not downloading](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Connectivity Issues
 
 Slow or unstable internet connections can interfere with the download process. It often leads to failed or delayed app installations. You will experience frustration when faced with connectivity issues, impacting your ability to access desired apps.
@@ -46,13 +42,13 @@ Running an outdated version of the Play Store can cause compatibility issues wit
 
 Issues with verifying Google accounts can restrict access to the Play Store. It prevents you from downloading or updating apps. Authentication problems pose a significant barrier, impacting your ability to stay current with app versions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### App Download Restrictions
 
 Device settings or parental controls may impose restrictions on certain app downloads. You may encounter limitations in accessing specific apps. It can affect the Vivo Y36 device's versatility.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Incorrect Date and Time Settings
 
@@ -73,6 +69,10 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,307,222** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -102,10 +102,6 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3,143,540** people have downloaded it
 
 - **Step 2:** Connect your Vivo Y36 to the computer using a USB cable. Dr.Fone will detect your device, and you'll be prompted to choose your device's type. Select **Android** **Repair**.
@@ -133,6 +129,10 @@ Here are 8 other methods to troubleshoot and resolve common app downloading prob
 
 A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u> <u> an Internet signal check</u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) to ensure you are connected to a reliable Wi-Fi network or have a strong mobile data signal. If the connection is weak, consider switching to a more robust network.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Free Up Storage Space
 
 [<u>Insufficient storage</u>](https://drfone.wondershare.com/backup/fix-not-enough-icloud-storage-problem.html) on your device can hinder app installations. Navigate to the Vivo Y36 device settings, access the **Storage** section, and clear unnecessary files or apps. Creating more space ensures a smoother download experience.
@@ -157,11 +157,19 @@ Authentication issues with your Google account can prevent app downloads. Confir
 
 ![syncing google account on device](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Date and Time Settings
 
 Incorrect date and time settings may disrupt the authentication process. Verify that your device's date and time are set correctly. Enable automatic date and time settings to ensure accuracy.
 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Review Download Restrictions
 
@@ -170,7 +178,11 @@ Device settings or parental controls might impose restrictions on certain app do
 ![download restrictions on android](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Restart the Vivo Y36 device
@@ -202,10 +214,6 @@ Error 963 is a common Google Play Store error which basically hinders Apps from 
 Error 963 pop-up message reads as follows: “cannot be downloaded due to an error (963)” as shown in the image below.
 
 ![cannot download app](https://images.wondershare.com/drfone/article/2017/06/14984572397254.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 A similar message shows up even while you are trying to update an App, as shown in the screenshot below.
 
@@ -243,6 +251,10 @@ Step 1 – To begin fixing error 963, run Dr.Fone after downloading and installi
 Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ and then click the ‘Start’ button.
 
 ![select the android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3 – On the following screen, you need to choose the appropriate details for your device like the name, brand, model, country/region etc. Later, go for warning confirmation and hit ‘Next’.
 
@@ -324,19 +336,11 @@ Visit “Settings” and select “Apps”.
 
 ![select “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984137395509.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 From “All” Apps click on the App which is unable to update.
 
 Now click on “Move to Phone” or “Move to internal storage” and try to download its update again from the Google Play Store.
 
 ![“Move to internal storage”](https://images.wondershare.com/drfone/article/2017/06/14984137603366.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Try updating the App now. If the Apps’s update does not download even now, DO NOT worry. There are three more ways to help you.
 
@@ -400,6 +404,10 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 
 Just as any problem gives some indication of anything wrong is going to befall. Similarly, a user does feel some unexpected turns of events resulting in **_Play Store to stick at downloading_**. If one happens to see that the progress bar has suddenly frozen to a certain scope and taking ages to march any further, it is treated as the first signs for Play store not working properly. Another, such scenario is where your apps are not able to download easily. Rather, the Play store reflects a message downloads are yet in the pending queue. If one happens to witness such problems, these can be in fact be giving you the warning signal of the Play store problem
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Causes of why “Play Store Stuck on Downloading”
 
 With technology, uncertainties are bound to happen. It becomes quite tricky to analyze the real problem and craft a solution. As, there can be several causes that might be disturbing the smooth functionality of Play store. Here are some collated issues that we’ve gathered that are indicative of the cause.
@@ -414,6 +422,10 @@ With technology, uncertainties are bound to happen. It becomes quite tricky to a
 ### 3.1 Check SD card and phone storage space
 
 All the applications, data of one’s device is generally loads directly in phone’s storage or the SD card (if plugged). Hence, it is crucial to check whether your phone storage or SD is not fully occupied. As it can indirectly be the reason why the issue of “**_Play Store download stuck at 99%_**” might occur. Ensure to get rid of any application that you are no longer using. Or, consider deleting any picture, videos or documents that aren’t required by you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.2 Check Wi-Fi or cellular data connection
 
@@ -451,10 +463,6 @@ Over the following screen, select “Android Repair” placed at the left panel 
 
 ![play store stuck on downloading - go to android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Fill in the information**
 
 It is important to add in all the necessary information for successful execution of program. Make sure to give details of “Brand”, “Name”, “Country”, “Model” and all other fields.
@@ -487,10 +495,6 @@ Did you know the piling up of cache memory can certainly pull off a great deal f
 
 ![clear data to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/clear-cache-data.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3.5 Update Play Store to the latest version
 
 When was the last time you cared to update your Play store app? Generally, users overlook the need of updating the application. As, they think that it may not be of any greater importance. But, in reality working in an outdated version can directly impact **_Play Store and cause download problem_**. Follow the below steps to update Play Store to latest version.
@@ -501,10 +505,6 @@ When was the last time you cared to update your Play store app? Generally, users
 4. Tap on it, if it shows that Play Store app is not updated then proceed with the on-screen prompts to update it to the latest version.
 
 ![update device to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/update-play-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.6 Try another Google account
 
@@ -528,20 +528,16 @@ Last but certainly not the least, users must avoid downloading large application
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-annual-salary-details-for-streaming-sensation-pewdiepie/"><u>[New] Annual Salary Details for Streaming Sensation PewDiePie</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-affordable-methods-for-video-and-text-synergy/"><u>[Updated] Affordable Methods for Video and Text Synergy</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-effortless-dvd-to-iso-conversion-and-backup-using-winx-dvd-copy-professional/"><u>1. Effortless DVD to ISO Conversion and Backup Using WinX DVD Copy Professional</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/black-friday-deals-dive-into-language-learning-at-a-steal/"><u>Black Friday Deals: Dive Into Language Learning at a Steal!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-note-13-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi Note 13 Pro 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-eac-launch-error-by-properly-installing-easy-anti-cheat/"><u>How to Overcome 'EAC Launch Error' By Properly Installing Easy Anti-Cheat</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oneplus-nord-ce-3-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked OnePlus Nord CE 3 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-spark-20-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Spark 20 without App | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-samsung-galaxy-s23-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Samsung Galaxy S23</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/launch-alert-new-apple-releases-including-macbook-air-and-ipads-may-arrive-by-spring-season-zdnet/"><u>Launch Alert: New Apple Releases Including MacBook Air & iPads May Arrive by Spring Season - ZDNet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/meizu-21-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Meizu 21 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-empower-your-journey-through-cinemas-best-10-titles-for-2024/"><u>[New] Empower Your Journey Through Cinema's Best 10 Titles for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-coordinating-zoom-meetings-with-iphone-android-and-computer-timelines/"><u>[New] In 2024, Coordinating Zoom Meetings with iPhone, Android, and Computer Timelines</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategic-steps-for-a-million-viewing-video-masterpiece/"><u>[New] Strategic Steps for a Million-Viewing Video Masterpiece</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-exploring-the-boundaries-of-true-black-on-asuss-professional-screen/"><u>[Updated] 2024 Approved Exploring the Boundaries of True Black on ASUS's Professional Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlight-solutions-best-for-video-illumination/"><u>[Updated] Streamlight Solutions Best for Video Illumination</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-atomic-hearts-failures-at-boot-time/"><u>Diagnosing and Fixing Atomic Hearts Failures at Boot Time</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-infinix-smart-8-hd-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Infinix Smart 8 HD Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on OnePlus Ace 3 | Dr.fone</u></a></li>
 </ul></div>
 

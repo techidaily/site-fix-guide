@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y02T | Dr.fone
-date: 2024-07-14T05:46:02.473Z
-updated: 2024-07-15T05:46:02.473Z
+date: 2025-01-27T18:26:57.101Z
+updated: 2025-01-30T03:42:45.848Z
 tags: 
   - problems
 categories:
@@ -52,12 +52,13 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - If there is a sticker on the Vivo Y02T device screen, you must remove it.
 - Before continuing, make sure your screen is spotless.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Vivo Y02T device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Vivo Y02T’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart Your Device
 
@@ -210,6 +211,10 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
@@ -231,6 +236,10 @@ Luckily, despite there being so many problems out there, there are also many sol
 Begin by powering off your Vivo Y02T and unplugging your router. Wait for about a minute before plugging in the router and turning on your device. This simple reset can often restore stable connections and fix Android wifi not working.
 
 ![restart android](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Turn on Airplane mode and turn off
 
@@ -290,16 +299,11 @@ Every wireless device will have its own codes and making sure they’re matched 
 
 When these numbers are matching, if your Android is still not connecting to wifi, you’ll know this wasn’t the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 7. Fix Android system issues in one click
 
 If none of the solutions above are working, this could indicate a real problem with the firmware and operating system of your Vivo Y02T. Fortunately, a fast solution to get everything working again is to completely repair the software of your phone.
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -331,9 +335,6 @@ Once installed, connect your Vivo Y02T to your computer using a USB cable, and o
 
 **Step Four** Confirm you want the software to carry out the repair process by typing the ‘000000’ code into the pop-up box and pressing Confirm. Make sure you read everything displayed in this box beforehand to know what’s happening.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - confirm the repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step Five** Now put your phone into Download Mode by following the on-screen instructions, so your device is ready for the repair process. The method for getting your phone into Download Mode will vary depending on your device, so make sure you’re following the right instructions.
@@ -369,6 +370,10 @@ Of course, if you’re already using another phone on your Wi-Fi network, you kn
 
 ![android phone not connecting to wifi - password settings](https://images.wondershare.com/drfone/article/2019/04/android-wifi-password.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Each Wi-Fi network router will give the opportunity to choose and change the password you have to let devices connect to your network. It’s important you try changing this because you never know if someone else has accessed your network and could be blocking your device. Here’s how it works;
 
 1. Log onto your computer and open your Wi-Fi settings
@@ -376,6 +381,10 @@ Each Wi-Fi network router will give the opportunity to choose and change the pas
 3. Change the password to something complicated using all available digits and characters
 4. Save the password and restart the router to disconnect all devices
 5. Now connect your Vivo Y02T to the router using the new password
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 10. Reset network settings on Android
 
@@ -409,6 +418,10 @@ As you continue to use your Vivo Y02T, the partition cache will fill up with dat
 
 ![wifi not working on android - factory settings](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If worse comes to worst, another option you have is to factory reset your Vivo Y02T. As we’ve spoken about above, while using your phone from the day you started using it, your device will fill up with files and data which can become messy and causes bugs.
 
 However, by factory resetting your device, you can start again from the factory default from which you first received it, ultimately clearing the bugs. Make sure you back up your device before proceeding because it will erase your personal files.
@@ -422,8 +435,6 @@ However, by factory resetting your device, you can start again from the factory 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
 ## Fixing Persistent Pandora Crashes on Vivo Y02T
 
 Pandora, an app bringing music to our fingertips, is a beloved platform for streaming tunes on Android devices. Despite its popularity, users might encounter occasional hurdles with the app, such as unexpected hanging, lagging, or even crashing. These interruptions can disrupt our musical journey.
@@ -431,6 +442,10 @@ Pandora, an app bringing music to our fingertips, is a beloved platform for stre
 In this article, you’ll explore practical solutions to the problem of “**why does Pandora keep stopping**.” Following the steps and tips, you can regain smooth and uninterrupted access to your favorite tunes. Have a hassle-free and enjoyable music streaming experience with Pandora on your Vivo Y02T.
 
 ![dead android with pandora logo](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Basic Troubleshooting and Fixes
 
@@ -465,18 +480,23 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 1:** Launch Dr.Fone on your computer. Access **System Repair**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,851,928** people have downloaded it
 
 - **Step 2:** Choose **Android** on the next page.
 
 ![wondershare dr.fone phone os chooser](https://images.wondershare.com/drfone/guide/system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Click **Start** to initiate Android System Repair.
 
@@ -488,9 +508,6 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 5:** Follow the onscreen instructions to place your phone into Download mode. Then, Dr.Fone will download the firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare dr.fone download mode tutorial](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - **Step 6:** After downloading, click **Fix Now**. Then, type in “000000” on the appearing window text box. Click **Confirm.**
@@ -500,6 +517,10 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 - **Step 7:** Once finished, click **Done**. Your Pandora app should not crash once you reinstall it again by now.
 
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cache Buildup
 
@@ -533,7 +554,6 @@ When persistent issues arise, especially if other apps are affected similarly, W
 
 **3,362,023** people have downloaded it
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -546,9 +566,21 @@ When persistent issues arise, especially if other apps are affected similarly, W
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-exploring-the-capabilities-of-sj-cam-s6/"><u>[New] In 2024, Exploring the Capabilities of SJ-CAM S6</u></a></li>
+<li><a href="https://article-helps.techidaily.com/data-size-and-time-coefficient-in-video-files-20mb-for-2024/"><u>Data Size and Time Coefficient in Video Files (20MB) for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/enablingdisabling-pip-on-youtube-for-ios-devices-step-by-step-guide-for-2024/"><u>Enabling/Disabling PIP on YouTube for iOS Devices Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y100-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y100 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Civi 3 Disney 100th Anniversary Edition without App | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-pathways-to-youtube-stardom-in-video-games/"><u>In 2024, Pathways to YouTube Stardom in Video Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/net-laugh-builder-for-2024/"><u>Net Laugh Builder for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-3-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord 3 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a18-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A18 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unseen-feed-hiding-pages-without-disclosure-on-fb/"><u>The Unseen Feed: Hiding Pages without Disclosure on FB</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/top-strategies-fixing-persistent-windows-11-system-crashes-and-stutters/"><u>Top Strategies: Fixing Persistent Windows 11 System Crashes & Stutters</u></a></li>
+</ul></div>
 

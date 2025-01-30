@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy S23 Tactical Edition? | Dr.fone
-date: 2024-07-14T05:49:51.156Z
-updated: 2024-07-15T05:49:51.156Z
+date: 2025-01-24T01:38:52.995Z
+updated: 2025-01-29T16:17:56.089Z
 tags: 
   - problems
 categories:
@@ -78,11 +78,19 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Booting straight into Bootloader
 
@@ -107,9 +115,6 @@ Here are some common reasons why your Samsung Galaxy S23 Tactical Edition is bri
 - **Android firmware is being updated:**If the phone is interrupted when updating the Android firmware, it will be bricked.
 - **Installing harmful applications:**You installed harmful programs on your Samsung Galaxy S23 Tactical Edition, or the phone was infected with a virus.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to Fix a Bricked Phone
 
 The first step is to establish how badly your device is bricked. In most cases, you will be working with soft bricks that are pretty simple to repair. If your phone is stuck in a boot loop or enters recovery mode every time you turn it on, you may have a soft brick.
@@ -146,6 +151,10 @@ This issue, however, may be resolved by wiping the data and cache partitions in 
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Finally, on your smartphone, choose the Reboot system immediately.
 
 ### Method 3. Perform a Factory Reset
@@ -167,9 +176,6 @@ If you boot your phone directly into recovery mode, there's a problem with the R
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5. Using <u>Wondershare Dr.Fone</u>
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Data Recovery is the first data recovery solution for any damaged Android smartphone in the globe. It offers one of the greatest recovery rates and can recover a variety of information like images, videos, contacts, messages, and call logs. The program is most effective with Samsung Galaxy S23 Tactical Edition smartphones.
@@ -180,9 +186,17 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 
 ![data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Choose the file types you wish to recover. Click “Next” and then select the type of damage your phone is experiencing. Select **“Touch screen not responsive, or cannot access the phone”** or **“Black/broken screen”.**
 
 ![select symptom of your phone](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Use the recovery wizard to enter your Android smartphone into Download Mode. Connect your Android handset to the computer after following the instructions to begin automatically analyzing your device.
 
@@ -240,11 +254,13 @@ Error Code 963 is basically an outcome of data crash which mostly is seen in che
 
 All these reasons and more can handle with ease and you can continue to use Google play services smoothly. In the following segment, we will discuss various fixes to cure the problem to enable to you download, install and update Apps on your device normally.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Easiest solution to fix _Error Code 963_ on Android
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -267,9 +283,17 @@ Step 1 – To begin fixing error 963, run Dr.Fone after downloading and installi
 
 ![fix google play error 963 using repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ and then click the ‘Start’ button.
 
 ![select the android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3 – On the following screen, you need to choose the appropriate details for your device like the name, brand, model, country/region etc. Later, go for warning confirmation and hit ‘Next’.
 
@@ -304,8 +328,9 @@ Step 4 – Within a while, the Google play error 963 will be vanished.
 ![make the fix google play error 963 disappear on android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: 6 Common Solutions to fix Error Code 963
 
 ![fix Error Code 963](https://images.wondershare.com/drfone/article/2017/06/14984132296365.jpg)
@@ -328,6 +353,10 @@ Select “Google Play Store” and from the options that appear, tap on “Clear
 
 ![Clear Data](https://images.wondershare.com/drfone/article/2017/06/14984133035184.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you are done clearing Google Play Store Cache and Data, try to download, install or update the App facing Google Play Error 963 again.
 
 #### **2\. Uninstall updates for Play Store**
@@ -344,9 +373,6 @@ Now select “Google Play Store” from “All” Apps.
 
 In this step, click on “Uninstall Updates” as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstall Updates](https://images.wondershare.com/drfone/article/2017/06/14984137166252.jpg)
 
 #### **3\. Shift the App from SD Card to device’s memory**
@@ -355,9 +381,6 @@ This method is strictly for certain Apps which cannot be updated because they ar
 
 Visit “Settings” and select “Apps”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984137395509.jpg)
 
 From “All” Apps click on the App which is unable to update.
@@ -422,9 +445,6 @@ This remedy is as simple as it sounds and has helped many HTC users to get rid o
 
 Google Play Errors are a very common phenomenon these days, especially Error Code 963 which usually occurs in the Google Play Store when we try to download, install or update an App. There is no need to worry if you see Error Code 963 pop-up on your screen as your device and its software are not to be blamed for Error 963 to suddenly surface. It is a random error and can be fixed easily by you. You do not need any technical assistance to deal with the issue. All you need to do is follow the steps introduced in this article to use Google Play Store and its services smoothly.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -437,9 +457,16 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-crafting-quality-content-image-submission-for-youtubers/"><u>[Updated] In 2024, Crafting Quality Content Image Submission for YouTubers</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-itel-s23plus-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Itel S23+ to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-11r-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 11R Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-lava-yuva-3-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Lava Yuva 3 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tips-for-writing-irresistible-podcast-intros-for-2024/"><u>Tips for Writing Irresistible Podcast Intros for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+</ul></div>
 

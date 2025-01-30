@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo Y78+? | Dr.fone
-date: 2024-07-14T05:50:46.325Z
-updated: 2024-07-15T05:50:46.325Z
+date: 2025-01-28T00:44:26.528Z
+updated: 2025-01-29T17:21:16.109Z
 tags: 
   - problems
 categories:
@@ -46,6 +46,10 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
@@ -84,9 +88,6 @@ This might take a few minutes of your time, but once the process is complete, re
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
@@ -94,8 +95,9 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix Android.Process.Media Has Stopped on Vivo Y78+
 
 Like any other technological system, Android is not without its fair share of problems. One of the most common issues that Android users face is the android.process.media error. If you have encountered this problem lately, you don’t need to worry, this article will clearly explain what exactly causes this error and how to fix it safely.
@@ -116,7 +118,9 @@ There are several reasons why this error can occur repeatedly and it is worth no
 
 It is always a good idea to back up your data especially before embarking on any attempt to fix any problem with your device. This way you will always have your data with you just in case something goes wrong and you lose all your data. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) will help you easily back up your Vivo Y78+. The application will allow you to back up your device with a few clicks and you can restore what you want from your backup .
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Wondershare Dr.Fone
 
@@ -143,13 +147,25 @@ Then connect your Vivo Y78+ to the computer and make sure that it can be recogni
 
 ![Android. Process. Media - recognize phone](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. Begin to backup
 
 When your device is displayed on the window of the program, click "Back Up Now " to begin. The rest will be done by the program.
 
 ![Android. Process. Media - select data types](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to Fix "Android. Process. Media" Error
 
@@ -189,9 +205,6 @@ Step 5: Next you need to open Google Play and when presented with an error, clic
 
 Step 6: Turn off the Vivo Y78+ device and then turn it back on. Go to the Google Services framework again and turn it on to see if the issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Check Google Sync & Media Storage settings
 
 Step 1: Go to Settings > Accounts and Personal> Google Sync and uncheck all the checkboxes to stop the Google Synchronization.
@@ -205,15 +218,14 @@ Step 4: Turn off your device and then turn it on
 This Should clear the error message for good.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 5: Boot your device into safe mode
 
 [Safe mode](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html) can temporarily disable third-party apps, allowing only core system apps. This detects if a third-party app causes the "Android process media keeps stopping" error. If the problem disappears in safe mode, a third-party app might be the cause. Uninstalling it can restore normal function. If the problem persists in safe mode, a deeper system issue might exist, needing further investigation or support.
 
 ### Method 6: Fix the error by using a dedicated repair tool
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -244,6 +256,10 @@ To confirm the Android repair may erase all data on your device, you need to typ
 
 ![fix android.process.media stopping by entering code](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Repair your Vivo Y78+ in Download mode.**
 
 Read and follow the [guide here](https://drfone.wondershare.com/guide/android-repair.html) to boot your Vivo Y78+ in Download mode.
@@ -271,8 +287,6 @@ If the problem persists after trying the above steps, it could be related to spe
 It is our hope that when faced with this fairly common error, you will not panic. This is a fairly mild issue that can easily be fixed as we have seen above.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
-
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on Vivo Y78+
 
@@ -307,8 +321,6 @@ Any error that occurs during downloading or installation process not only hinder
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
@@ -327,6 +339,10 @@ One click to repair Android system and make error code 505 disappear
 Step1: Download [the Dr.Fone - System Repair (Android) program](https://tools.techidaily.com/wondershare/drfone/android-repair/), install and launch it. The following interface will pop up.
 
 ![make error code 505 disappear by android repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2: Select the "Android Repair" among the 3 tabs, connect your Android to PC, and click "Start".
 
@@ -379,6 +395,10 @@ Working with an old operating system is ok, but many times old version also crea
 
 ![update](https://images.wondershare.com/drfone/article/2017/06/14976276197089.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Solution 4: Clearing the cache memory from Google services Framework and Google play store**
 
 While browsing data online or through Google play store some cache memory get stored for the fast access to the pages. Below mentioned simple steps will help you in clearing out the cache memory from Google services framework and Google play store.
@@ -415,9 +435,6 @@ The reason behind the installation error code 505 might be Google play store upd
 
 Due to continuous updation of new apps and services Google Play store used to be flooded with so many updates or sometimes does not updated properly. That sometimes caused the problem in dealing with app installation. Resolving the issue is important to make your play store ready for future updation and installation.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google Play store](https://images.wondershare.com/drfone/article/2017/06/14976277251819.jpg)
 
 - \>Go to Settings
@@ -473,7 +490,6 @@ However, sometimes the five simple couldn’t work anymore. A system repair soft
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -486,9 +502,18 @@ Not being able to download or install the app is very frustrating and time-consu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-prime-video-communication-experience-the-top-10-mobile-apps/"><u>[Updated] Prime Video Communication Experience The Top 10 Mobile Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-visualloger-12-professional-for-2024/"><u>[Updated] VisualLoger 12 Professional for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-crashes-on-stream-a-step-by-step-solution-for-uninterrupted-broadcasting/"><u>Discord Crashes on Stream? A Step-by-Step Solution for Uninterrupted Broadcasting</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-change-background-in-google-meet-on-laptop-and-mobile-devices-for-2024/"><u>How to Change Background in Google Meet on Laptop and Mobile Devices for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-gionee-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Gionee Phone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-itel-p55-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Itel P55 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-infinix-zero-30-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Infinix Zero 30 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+</ul></div>
 

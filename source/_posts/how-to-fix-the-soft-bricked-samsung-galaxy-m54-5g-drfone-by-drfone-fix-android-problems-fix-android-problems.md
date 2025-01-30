@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy M54 5G? | Dr.fone
-date: 2024-07-14T05:49:47.798Z
-updated: 2024-07-15T05:49:47.798Z
+date: 2025-01-23T16:09:23.157Z
+updated: 2025-01-30T00:37:47.894Z
 tags: 
   - problems
 categories:
@@ -30,6 +30,10 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
 ## Part 2: Stuck at the Boot Loop
@@ -56,6 +60,10 @@ This method will help you erase all the clogged up and unwanted files. You may l
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -78,32 +86,21 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Solved] Warning: Camera Failed on Samsung Galaxy M54 5G
 
@@ -131,11 +128,13 @@ We are all aware that no device runs smoothly, without any glitches. We also kno
 
 There might be much more reasons for the camera failed error, but these are the most obvious ones. Now let us now move on to troubleshooting the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to fix Samsung Galaxy M54 5G Camera Failed in One Click?
 
 If you are experiencing some kind of issues in your Samsung Galaxy M54 5Gs such as Samsung Galaxy M54 5G camera failed, the Samsung Galaxy M54 5G device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Samsung Galaxy M54 5G devices and perform a complete system repair so the Samsung Galaxy M54 5G device starts working normally.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -156,15 +155,16 @@ One-click solution to fix camera failed on Samsung Galaxy M54 5G devices
 
 ![fix samsung camera failed by repairing samsung system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** You will have to provide the Samsung Galaxy M54 5G device details accurately to ensure that the software provides a precise firmware package to be downloaded. Enter brand, name, model, country, and carrier of your device and agree to the terms and condition.
 
 ![select the details of samsung device](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step 3**. Now put your device in the download mode. The software will provide you with a guide to put the phone in download mode to begin the downloading process.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
@@ -187,9 +187,6 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear data](https://images.wondershare.com/drfone/article/2017/07/14997066321127.jpg "clear data")
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
@@ -220,6 +217,10 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![power off device](https://images.wondershare.com/drfone/article/2017/07/14997067521730.jpeg "power off device")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Now, press and hold the power on/off, home and volume up button simultaneously. Your device will now vibrate. This a signal to let go of the power button (only).
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14997067742072.jpg "boot in recovery mode")
@@ -231,6 +232,10 @@ This method might seem tedious and time-consuming and you may also lose your dat
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You may try to use the camera app once the process completes.
 
@@ -270,9 +275,17 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Finally, you have to click on “Erase Everything” and wait for the Samsung Galaxy M54 5G device to reboot itself.
 
 ![erase everything](https://images.wondershare.com/drfone/article/2017/07/14997070554687.jpg "erase everything")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note: You will have to set up your Samsung Galaxy M54 5G device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
@@ -318,8 +331,6 @@ Step 5: Finally, press and hold both the Power and the Volume up Key for around 
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One-stop solution to fix Android stuck at System recovery
@@ -355,13 +366,14 @@ Your device should already be in this mode but follow the instructions to make s
 
 ![fix Android stuck at System recovery in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #4** The firmware will now start downloading. You'll be able to track this process in the window.
 
 Ensure your device, and your computer stays connected the entire time, and make sure your internet connection remains stable.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
@@ -410,9 +422,6 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -425,9 +434,26 @@ Android system recovery mode can be quite useful, especially when your system is
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-key-ingredients-for-successful-instagram-unboxing-reels/"><u>[New] 2024 Approved The Key Ingredients for Successful Instagram Unboxing Reels</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-photobooth-frustration-unfreezing-video-playback-for-2024/"><u>[Updated] Photobooth Frustration Unfreezing Video Playback for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-pathway-to-perfection-a-pro-guide-to-instagram-photos/"><u>2024 Approved The Pathway to Perfection A Pro Guide to Instagram Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-compilation-of-devout-ringtones/"><u>2024 Approved The Ultimate Compilation of Devout Ringtones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-secret-weapon-for-stunning-time-lagged-footage/"><u>Android's Secret Weapon for Stunning Time-Lagged Footage</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-editors-interface-incorporate-wordpad-triggers-in-windows-11s-menu/"><u>Enhancing Editors' Interface: Incorporate WordPad Triggers in Windows 11’S Menu</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-note-30-5g-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Note 30 5G</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-facebook-live-vs-youtube-live-vs-twitter-periscope/"><u>In 2024, Facebook Live Vs YouTube Live Vs Twitter Periscope</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-find-n3-flip-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo Find N3 Flip – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mastering-audio-transitions-in-fcpx-l-cuts-and-j-cuts-explained-for-2024/"><u>New Mastering Audio Transitions in FCPX L-Cuts and J-Cuts Explained for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c12-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C12 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-s17t-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo S17t? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-spark-20-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Spark 20 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-edgeplus-2023-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Edge+ (2023) Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a79-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A79 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a05s-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A05s Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-wireless-potential-easy-bluetooth-setup-instructions-for-win11-and-win10-users/"><u>Unlocking Wireless Potential: Easy Bluetooth Setup Instructions for Win11 & Win10 Users</u></a></li>
+</ul></div>
 

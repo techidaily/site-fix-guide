@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo S18 | Dr.fone
-date: 2024-07-14T05:45:49.364Z
-updated: 2024-07-15T05:45:49.364Z
+date: 2025-01-22T23:33:55.592Z
+updated: 2025-01-29T23:28:13.796Z
 tags: 
   - problems
 categories:
@@ -56,9 +56,6 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 
 If you have already tried running the Vivo S18 device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Vivo S18’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -74,6 +71,10 @@ When your touch screen stops working, the first thing you should do is restart y
 ****Step 3:**** Press and hold the “Power” button to restart the Vivo S18 device.
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn On Safe Mode
 
@@ -171,6 +172,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![download mode repair android without home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Vivo S18. And in a while, your Vivo S18’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -184,18 +189,6 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -220,10 +213,11 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 - Depending on the toolkit required, the program can be costly.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -231,7 +225,9 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Vivo S18 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Ways to Fix Android Blue Screen of Death On Vivo S18
 
@@ -244,8 +240,6 @@ Read on to learn more about the Android screen of death and ways to combat it.
 ## Part 1: How to rescue data on Vivo S18 with blue screen of death?
 
 The Android blue screen of death issue is not a difficult problem to deal with and can be fixed by you by following the easy steps given in this article. We suggest that all readers rescue the data stored on their Android devices to prevent data loss and keep it stored in your PC from where it can be accessed and recovered by you anytime, anywhere. This task might sound tedious, but, we have for you [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html), a software specially designed to retrieve data from broken and damaged Vivo S18 phones and tabs, especially Vivo S18 devices, and keep it safe in your PC without tampering with it or altering its format. It efficiently extracts data from broken or unresponsive Vivo S18 devices, phones/tabs stuck at black/blue screen, or whose system crashed due to a virus attack.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -282,6 +276,10 @@ Follow the steps given below to extract data when you experience an Android scre
 
 ![android blue screen of death-boot in download mode](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png "boot in download mode")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7\. Finally, let the software recognize your Vivo S18, and start to download the recovery package for your device.
 
 ![android blue screen of death-download recovery package](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-06.jpg "download recovery package")
@@ -294,13 +292,15 @@ The process may take up to a few minutes and once it's done all your files will 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: One click to fix the Android blue screen of death
 
 We understand how annoying it is to see the Android blue screen of death and fail to access your device data. But, with [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), your troubles would burst away.
 
 This software effectively fixes Android screen of death issue along with app crashing, bricked or unresponsive device, stuck on Vivo S18 logo, etc. All Android issues are well taken care of by Dr.Fone - System Repair (Android) with one click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -340,9 +340,6 @@ Step 1: Get the Vivo S18 device in ‘Download’ mode to fix the **Android blue
 
 - On a ‘Home’ button device – shut down the Android phone/tablet, and then push the ‘Power’, ‘Volume Down’, and ‘Home’ keys for 10 seconds. Let go of the keys and press the ‘Volume Up’ key to enter ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Step 2: Tap the ‘Next’ button to download firmware.
@@ -353,6 +350,10 @@ Step 3: Dr.Fone - System Repair (Android) would verify the firmware post-downloa
 
 ![android system repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 3: Force Restart Your Vivo S18
@@ -362,6 +363,10 @@ A force restart is a basic step that can clear minor software glitches. It has t
 **Step:** On your Vivo S18, press and hold the "Power" and "Volume Down" keys for around 10 seconds. Release the keys when your device reboots and wait for it to complete rebooting.
 
 ![force restart android phone](https://images.wondershare.com/drfone/article/2023/08/fix-android-blue-screen-of-death-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Remove phone battery to fix blue screen of death
 
@@ -428,6 +433,10 @@ The Android screen of death, especially the **Android blue screen of death**, is
 “**Can’t take screenshots due to security policy**” is a screenshot restriction on your Android smartphone. You’ve probably seen this error message before, especially when taking screenshots of banking or video streaming apps. But why do apps and websites block screenshots? It’s actually for your good.
 
 Screenshots can be misused to steal money or pirate copyrighted content. By prohibiting screenshots, apps and websites can help to protect your data and privacy. If you want to learn more, keep reading. This article will explain why apps and websites prevent screenshot capture and why it’s important for security. We’ll also give you tips on how to take photos of apps and websites that don’t let you take screenshots.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Can’t Take Screenshots Due to Security Policy on Android? Here’s Why
 
@@ -521,6 +530,10 @@ With Google Assistant, taking screenshots on your Vivo S18 is now easier than ev
 
 ![google assistant command](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use a Third-Party App To Take Screenshots
 
 You can download several applications on Google Play Store if you still can’t take a screenshot due to security policy. Some popular third-party screenshot apps include:
@@ -579,9 +592,6 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 1:** Once you have downloaded Dr.Fone, install it and launch it on your desktop. Then, connect your Vivo S18 to your desktop using a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,567,199** people have downloaded it
@@ -630,7 +640,6 @@ Although there are ways to bypass the “**Can’t take screenshot due to securi
 
 If you think the issue is with your Android system, or your device becomes bricked after trying other methods, experiencing app crashes, or otherwise malfunctioning, try using the Dr.Fone System Repair tool. It is worth trying and can fix most Android system issues in a few minutes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -643,9 +652,21 @@ If you think the issue is with your Android system, or your device becomes brick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-bridging-visual-and-auditory-elements-adding-music-to-premiere-projects/"><u>[New] Bridging Visual and Auditory Elements Adding Music to Premiere Projects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-investors-guide-to-best-financial-youtube-sources/"><u>[New] Investors' Guide to Best Financial YouTube Sources</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-advanced-tech-the-most-reliable-webcams-for-podcasters/"><u>[Updated] Advanced Tech The Most Reliable Webcams for Podcasters</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-prime-cloud-storage-contenders-of-the-new-year/"><u>[Updated] In 2024, The Prime Cloud Storage Contenders of the New Year</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pci-compliant-driver-packs-win-versions-11-7/"><u>PCI-Compliant Driver Packs: Win Versions 11-7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-c51-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme C51? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y17s-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y17s Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-magic-6-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor Magic 6 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-refrigeration-aseteks-launch-of-an-innovative-ai-powered-ecam-cold-plate-crafted-through-state-of-the-art-3d-metal-printing-in-teamwork-with11/"><u>Revolutionizing Refrigeration: Asetek's Launch of an Innovative AI-Powered ECAM Cold Plate, Crafted Through State-of-the-Art 3D Metal Printing in Teamwork with Fabric8Labs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/superior-app-dev-editors-top-15-selection-for-2024/"><u>Superior App Dev Editors Top 15 Selection for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-beginners-handbook-mastering-home-audio-setup/"><u>Ultimate Beginner's Handbook: Mastering Home Audio Setup</u></a></li>
+</ul></div>
 

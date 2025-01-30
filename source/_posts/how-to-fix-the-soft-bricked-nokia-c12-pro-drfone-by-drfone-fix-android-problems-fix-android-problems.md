@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Nokia C12 Pro? | Dr.fone
-date: 2024-07-14T05:48:10.505Z
-updated: 2024-07-15T05:48:10.505Z
+date: 2025-01-22T18:25:41.415Z
+updated: 2025-01-29T16:01:38.113Z
 tags: 
   - problems
 categories:
@@ -44,9 +44,6 @@ Since the phone refuses to boot, Cache can be cleared from entering into the Rec
 
 Once you are the recovery mode screen, you will see a number of options as shown in the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
@@ -102,8 +99,6 @@ It can occur while you launch the app or while you’re in the app already findi
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -174,8 +169,9 @@ The cache memory basically stashes the copies of the concerned application. It i
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.3 Wipe cache partition
 
 As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the Nokia C12 Pro device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
@@ -187,6 +183,10 @@ As we know the cache memories are the temporary files build by the firmware. The
 5. Finally, push the “Power” key to give consent to the selection.
 
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the Nokia C12 Pro device.
 
@@ -205,6 +205,10 @@ There will be a prompt stating that the application may misbehave. However, you 
 
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.5 Update your device software
 
 Many a times, we skip updating our device software thinking it is of less importance. In fact, one must not miss out the updates that occurs in phone. As, without the updates, the scope of some applications are affected to some extent. For its better functioning and avoiding issues like “contacts keep stopping”, here is how you should update device software.
@@ -212,10 +216,11 @@ Many a times, we skip updating our device software thinking it is of less import
 1. First and foremost, head on to “Settings” menu. Over there, click on “About Device”.
 2. There, you need to tap over “Software Update”.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app crashing - check updates](https://images.wondershare.com/drfone/article/2019/04/check-updates-for-phone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
@@ -228,6 +233,10 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 - At last, just select “Reset default apps”.
 
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.7 Delete voicemail
 
@@ -250,6 +259,14 @@ Now, check whether you’ve fought the battle with the problem or not.
 
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.9 Reset to Factory Settings
 
 Last but not least, if all the methods falls flat to resolve the issue of contacts app won’t open. Then, it might be your device has some internal problem. This can be any software crash which might not be fixing with the aforementioned steps. That is where reset to factory settings may prove to be a good option. With this method, your phone will be cleared of all the components, settings and everything present in it. Here are is the comprehensive tutorial for biding bye to the problem of contacts app won’t open.
@@ -260,12 +277,7 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 - You need to toggle on the option for performing the backup on your Google account.
 - Then, tap on “Reset” button and then tick mark the option for resetting your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
-
-
 
 ## Authentication Error Occurred on Nokia C12 Pro? Here Are 10 Proven Fixes
 
@@ -283,9 +295,6 @@ There could be plenty of reasons for facing an authentication error on your devi
 
 In this scenario, whenever you try to connect to a Wifi network (even after supplying the correct password and username), it doesn’t connect to it. Instead, it displays an authentication error occurred promptly. Thankfully, there are plenty of ways to overcome the authentication problem Wifi. In the next section, we have provided three different solutions to fix the Nokia C12 Pro Wifi problem (as it mostly happens on Android devices).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: 10 Solutions to Fix Wifi Authentication Error
 
 Before we make you familiar with different fixes for the Wifi authentication error, it is important to check your router beforehand. Chances are that you could be getting the authentication error because your router is not functioning properly. You can restart it and try to connect any other device to it as well to check it. After making sure that there is no problem with your network or router, follow these suggestions to overcome the authentication error occurred issue.
@@ -301,8 +310,6 @@ Android system repair is considered the most effective way to fix Wifi Authentic
 So Android repair requires programming knowledge to do it?
 
 No! With Dr.Fone - System Repair (Android), you can do Android repair in just a few steps and get all issues like Wifi Authentication error fixed easily.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -322,6 +329,10 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 1. After the Dr.Fone tool is downloaded, install, and launch it. You can see the following screen.
 
 ![fix Wifi Authentication Error by android repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Connect your Nokia C12 Pro to the computer, and select "Android Repair" in the middle.
 
@@ -389,6 +400,10 @@ If the above solution won’t work, then you would be required to walk the extra
 
 ![Show advanced options](https://images.wondershare.com/drfone/article/2017/06/14981519311624.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. From the IP Settings menu, change the field from DHCP to Static. This will let you establish a static connection between your device and the router.
 
 ![change the field](https://images.wondershare.com/drfone/article/2017/06/14981520827015.jpg)
@@ -398,6 +413,10 @@ If the above solution won’t work, then you would be required to walk the extra
 ![fill these fields](https://images.wondershare.com/drfone/article/2017/06/14981521159129.jpg)
 
 Now, try to connect to the Wifi hotspot again. You would be able to overcome the authentication problem of Wifi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change Network Security Type
 
@@ -437,7 +456,6 @@ Let it do for a while. Afterward, turn it off and try to connect to the Wifi net
 
 After following these quick and easy suggestions, you would be able to fix the Nokia C12 Pro Wifi problem for sure. Even if you use any other Android device, then its authentication error can easily be resolved after these effective solutions. Go ahead and give these expert solutions a try and let us know about your experience as well. If you have any other solution to fix the authentication problem Wifi, then share it with us as well in the comments.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -450,9 +468,21 @@ After following these quick and easy suggestions, you would be able to fix the N
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-gain-ground-by-generating-earnings-on-your-youtube-channel-like-ajay/"><u>[New] Gain Ground by Generating Earnings on Your Youtube Channel Like Ajay</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-leading-list-10-budget-friendly-sbd-solutions/"><u>[New] In 2024, Leading List 10 Budget-Friendly SBD Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mac-users-guide-convert-youtube-music-files-to-mp3/"><u>[New] Mac Users' Guide Convert YouTube Music Files to MP3</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-synchronizing-tweeted-videos-on-social-media-hub-fb/"><u>[Updated] In 2024, Synchronizing Tweeted Videos on Social Media Hub FB</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-professional-choices-the-very-best-8-tripods-for-4k/"><u>[Updated] Professional Choices The Very Best 8 Tripods for 4K</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-f04-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-your-ai-writing-essential-web-tools-for-expertise-in-prompts/"><u>Boosting Your AI Writing: Essential Web Tools for Expertise in Prompts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-a-non-responsive-iphone-wireless-charger-with-these-7-effective-solutions/"><u>Fix a Non-Responsive iPhone Wireless Charger with These 7 Effective Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-x7b-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor X7b Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-an-ai-tool/"><u>New 2024 Approved What Is an AI Tool?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-note-12-proplus-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi Note 12 Pro+ 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor Magic 6 | Dr.fone</u></a></li>
+</ul></div>
 

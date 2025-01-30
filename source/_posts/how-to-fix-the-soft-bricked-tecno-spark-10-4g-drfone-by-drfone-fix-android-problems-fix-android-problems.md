@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Tecno Spark 10 4G? | Dr.fone
-date: 2024-07-14T05:50:06.573Z
-updated: 2024-07-15T05:50:06.573Z
+date: 2025-01-26T20:11:03.010Z
+updated: 2025-01-29T16:47:02.802Z
 tags: 
   - problems
 categories:
@@ -22,9 +22,6 @@ If you are confused about the soft brick and hard brick problems and looking for
 
 Read on to find out more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is the difference between soft brick and hard brick?
 
 To begin with, let us understand the basic difference between a soft brick and hard brick issue. Both versions of a bricked phone prevent it from booting but differ in their causes and gravity of the problem.
@@ -48,6 +45,10 @@ Since the phone refuses to boot, Cache can be cleared from entering into the Rec
 Once you are the recovery mode screen, you will see a number of options as shown in the screenshot.
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
@@ -87,6 +88,10 @@ This might take a few minutes of your time, but once the process is complete, re
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
@@ -113,6 +118,10 @@ Error 963 pop-up message reads as follows: “cannot be downloaded due to an err
 
 ![cannot download app](https://images.wondershare.com/drfone/article/2017/06/14984572397254.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A similar message shows up even while you are trying to update an App, as shown in the screenshot below.
 
 ![can't update app](https://images.wondershare.com/drfone/article/2017/06/14984132013078.jpeg)
@@ -124,8 +133,6 @@ All these reasons and more can handle with ease and you can continue to use Goog
 ## Part 2: Easiest solution to fix _Error Code 963_ on Android
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -154,9 +161,6 @@ Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ a
 
 Step 3 – On the following screen, you need to choose the appropriate details for your device like the name, brand, model, country/region etc. Later, go for warning confirmation and hit ‘Next’.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![device references selected](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Taking Android device in Download mode for repairing**
@@ -190,6 +194,10 @@ Step 4 – Within a while, the Google play error 963 will be vanished.
 ## Part 3: 6 Common Solutions to fix Error Code 963
 
 ![fix Error Code 963](https://images.wondershare.com/drfone/article/2017/06/14984132296365.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Since there is no specific reason for Error Code 963 to occur, similarly there is no one solution to the problem. You may use any one of them below or try them all to never see Error Code 963 on your device.
 
@@ -234,6 +242,10 @@ This method is strictly for certain Apps which cannot be updated because they ar
 Visit “Settings” and select “Apps”.
 
 ![select “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984137395509.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 From “All” Apps click on the App which is unable to update.
 
@@ -307,9 +319,6 @@ The error constantly plagues thousands of Android users, and it can be incredibl
 
 Oddly enough, the “**Unfortunately, Google Play Services has stopped**.” error isn’t severe – you can fix it with a few general and easy-to-do fixes, a factory reset, or a system repair. Below, you’ll find info about why it’s happening and a list of ten possible solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Am I Getting the Message “Google Play Services Keeps Stopping?”
 
 Computers and phones often speak in error codes and apps that stop working. Even minor connectivity issues can cause these problems, leaving you wondering what’s wrong with your device or displaying the “Unfortunately, Google Play Services has stopped working.” error message.
@@ -319,6 +328,10 @@ Software errors are another set of problems that can also cause this issue. Name
 There’s also the issue of wrong app versions. Although each Android phone uses the Android operating system, these systems can be vastly different, and the apps built for them can be made to be phone-specific and only run on a specific phone model.
 
 That’s also the case with Google Play Store and Google Play Services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Google Play Services Keeps Stopping
 
@@ -343,6 +356,10 @@ A factory reset on any smartphone removes all your data on the phone’s interna
 - **Step 3**: Tap the **Erase all data**or **Reset device** at the bottom, whichever button is there.
 
     ![android factory reset](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-2.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4**: Input your password and confirm the action.
 
@@ -419,6 +436,10 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
     ![confirm android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
 
 ### 7. Clear Cache
@@ -428,14 +449,15 @@ The easiest and the most obvious fix for many Android apps is clearing the app�
 - **Step 1**: Go into **Settings**\> **Apps** and find the **Google Play Store**
 - **Step 2**: Tap **Storage**and hit the **Clear cache**
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![clear app cache](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-10.jpg)
 
 - **Step 3**: Repeat the process for the **Google Play Services**
 
 If this doesn’t work, move on to another possible fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8. Check Date and Time Settings
 
@@ -444,9 +466,6 @@ Oddly enough, the Google Play Services app is prone to failure because of an inc
 - **Step 1**: Head into **Settings**\> **System** > **Date & Time**.
 - **Step 2**: Ensure that both “**_Use network–provided time_**” and “**_Use network-provided time zone_**” are toggled on.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![check date and time settings](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-11.jpg)
 
 - **Step 3**: If this doesn’t work, you can try repeating the process and manually setting the time and the time zone.
@@ -469,14 +488,15 @@ Once inside Permission Settings, check whether the Google Play Services and Play
 
 **4,953,228** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Although it’s an incredibly frustrating error, the “Unfortunately, Google Play Services has stopped” message is more annoying than serious. We’ve explained why it happens, but we’ve also given you a list of solutions to fix it.
 
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -490,9 +510,21 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-innovative-approaches-to-integrating-your-fb-story/"><u>[New] 2024 Approved Innovative Approaches to Integrating Your FB Story</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-to-safeguard-your-videos-in-the-age-of-youtube/"><u>[Updated] 2024 Approved How to Safeguard Your Videos in the Age of YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-streaming-galore-top-nine-game-portals/"><u>2024 Approved Streaming Galore Top Nine Game Portals</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-v29-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo V29 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-s23plus-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy S23+ Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-narzo-60x-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Narzo 60x 5G Phone FRP Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-secure-to-use-independent-chatgpt-browser-plugins/"><u>Is It Secure to Use Independent ChatGPT Browser Plugins?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-phase0exception-in-depth-strategies-to-resolve-stop-error-0x00000078/"><u>Overcoming PHASE0_EXCEPTION: In-Depth Strategies to Resolve Stop Error 0X00000078</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-xiaomi-redmi-note-12r-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi Redmi Note 12R Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-narzo-n53-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo N53 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-itel-p55t-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Itel P55T Step-by-Step Solutions | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone
-date: 2024-07-14T05:51:07.280Z
-updated: 2024-07-15T05:51:07.280Z
+date: 2025-01-25T21:39:12.296Z
+updated: 2025-01-29T16:07:12.535Z
 tags: 
   - problems
 categories:
@@ -30,6 +30,10 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
 ## Part 2: Stuck at the Boot Loop
@@ -56,9 +60,6 @@ This method will help you erase all the clogged up and unwanted files. You may l
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -77,6 +78,10 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
@@ -93,11 +98,13 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## 7 Fixes for "Unfortunately, Phone Has Stopped" on Xiaomi Redmi Note 12 Pro+ 5G
 
 Encountering issues with the Phone app is never welcoming. Being one of the useful apps, seeing it crashing and unresponsive gives sheer despondency. If talked about the triggering points, they are numerous. But the central point is what to do when the Phone app keeps crashing. In this article, we have discussed this issue in detail. To know this and more about why the "Unfortunately, Phone has stopped" error crops up, read this article and get the problem sorted on your own.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: When can the "Unfortunately, Phone has stopped" error come?
 
@@ -127,14 +134,8 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 2. Now from the list of all applications, go to "Phone" and tap on it.
 3. Now, click on "Storage" and choose "Clear Cache".
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Update Google Play services
 
 Since Android is created by Google, there must be some Google Play services that are crucial to run several system functions. And if attempting the previous methods isn’t of any use, try updating Google Play services when you find the Phone app stopped. For doing this, you need to make sure that automatic updates are turned on in Google settings. If not, enable it and get the apps including Google Play services updated for smoother functions.
@@ -147,6 +148,10 @@ When the firmware is not updated, it may conflict with some apps and maybe that�
 2. Now tap on "Software Updates" and check for the availability of the new update.
 
 ![Phone app crashing - update firmware](https://images.wondershare.com/drfone/article/2023/05/samsung-android-update-shot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Download and install it and then try to use the Phone app.
 
@@ -167,8 +172,6 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -196,11 +199,19 @@ Take your original USB cord and then connect your Xiaomi Redmi Note 12 Pro+ 5G t
 
 ![Phone app crashing - connect phone to pc](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Enter the Details**
 
 As the next step, enter some important details on the next screen. Be sure to enter the right name, brand, and model of the Xiaomi Redmi Note 12 Pro+ 5G device. When done everything, verify once and click on "Next".
 
 ![Phone app crashing - enter details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Downloading Firmware**
 
@@ -226,12 +237,19 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Redmi Note 12 Pro+ 5G
 
 SIM cards are small chips that act as a connecting medium between your cell phone and your carrier. It is programmed to help your carrier identify your cell phone account with certain information. And eventually, you are enabled to make calls and to make use of mobile internet. Now, if your device is showing “SIM not provisioned” on Android then it signifies that the connection to carrier network cannot be established or perhaps, your carrier isn’t able to identify your cell phone account.
-
 
 ## Part 1. Why does the error “SIM not provisioned MM#2” pop up?
 
@@ -254,11 +272,6 @@ A yet another reason could be that your SIM card got deactivated by your carrier
 
 Without talking any further, let’s straightly get to the first and the easiest way to repair SIM not provisioned issue on Android. For this purpose, we’re glad to introduce [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), one of its kind of tool that is capable of repairing almost all sort of Android OS issues in just a matter of few clicks. Whether it is SIM not provisioned on Android or SIM not working in Android or your device stuck in a boot loop or black/white screen of death. The most probable reason for these errors is Android OS corruption. And with Dr.Fone – Repair (Android) you can efficiently and effectively repair your Android OS in a hassle freeway.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix "SIM not provisioned MM#2" error
@@ -305,6 +318,10 @@ As soon as the download completes, the software verifies the firmware and automa
 
 At times, the issue can be as simple as cleaning your SIM card and SIM slot properly. Ensuring that SIM is not wet either and then putting it back into its place. If this works, then the SIM not working in Android was due to the dirt or moisture that was preventing proper contact between SIM card pins and smartphone circuit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.3 Insert the SIM card correctly
 
 If your SIM card was working properly until yet, there is a good possibility that the SIM card may have moved a bit from its actual location. Eventually, there is poor contact between the SIM card pins and the circuit. Try inserting your SIM card properly with the following steps.
@@ -340,19 +357,19 @@ A yet another reason why SIM not working in Android can be because of the SIM ca
 
 Or just in case, you’ve still no joy and the SIM not provisioned on Android message is bothering you. Try making use of another Android device. Eject the SIM card from the Xiaomi Redmi Note 12 Pro+ 5G device which is creating problems and try plugging it into other Xiaomi Redmi Note 12 Pro+ 5G] and other smartphones. Perhaps, this will let you know whether the issue is with your device only or with the SIM card itself.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.8 Try a new SIM card
 
 Still, wondering how to fix SIM not provisioned? Perhaps, nothing worked for you, right? Well, on that note, you must head to your carrier store and request a new SIM card. Also, inform them about the “SIM not provisioned MM2” error, they will be able to execute proper diagnostics over your old SIM card and hopefully get it resolved. Or else, they’ll equip you with a brand new SIM card and swap the new SIM card into your device and get it activated in the meantime. Eventually, restoring the normal functioning of your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
 In wrapping up, SIM not provisioned errors on Android can be troubling, but they're certainly fixable. There are several methods, from a simple device restart to reaching out to your network provider. But if these don't work, we suggest trying [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool is known for its ability to handle an array of Android issues and could be just what your device needs. Navigate your tech challenges with ease using Dr.Fone.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -366,9 +383,26 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/irect-conversion-convert-and-upload-mp3-songs-on-youtube-for-2024/"><u>[New] Direct Conversion Convert & Upload MP3 Songs on YouTube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-live-streaming-capture-services/"><u>[New] In 2024, Live-Streaming Capture Services</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mac-windows-vmx-substitute/"><u>[New] Mac-Windows VMX Substitute</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-tablet-gear-beyond-the-hype-a-must-try-photo-editing-list/"><u>Best Tablet Gear Beyond the Hype A Must-Try Photo Editing List</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rs-assistant-top-5-portable-devices-for-vfx-artists/"><u>Editor's Assistant Top 5 Portable Devices for VFX Artists</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gemini-milestone-the-1m-tokens-revolution/"><u>Gemini Milestone: The $1M Tokens Revolution</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/generate-laughter-giphys-art/"><u>Generate Laughter Giphy's Art</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-add-a-portable-software-menu-to-windows-11-and-11/"><u>How to Add a Portable Software Menu to Windows 11 & 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-huawei-nova-y91-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Huawei Nova Y91 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-meizu-21-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Meizu 21 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-slideshow-feature-for-2024/"><u>Instagram Slideshow Feature for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/latest-ios-upgrade-a-step-by-step-guide-on-keeping-your-ipad-current/"><u>Latest iOS Upgrade: A Step-by-Step Guide on Keeping Your iPad Current</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c12-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C12 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-n30-se-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 SE Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-nubia-red-magic-9-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Nubia Red Magic 9 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c210-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C210 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor V Purse | Dr.fone</u></a></li>
+</ul></div>
 

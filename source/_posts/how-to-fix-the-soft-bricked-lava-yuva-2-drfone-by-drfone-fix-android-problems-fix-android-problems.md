@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Lava Yuva 2? | Dr.fone
-date: 2024-07-14T05:47:43.729Z
-updated: 2024-07-15T05:47:43.729Z
+date: 2025-01-26T00:47:59.315Z
+updated: 2025-01-30T03:15:28.999Z
 tags: 
   - problems
 categories:
@@ -56,6 +56,10 @@ This method will help you erase all the clogged up and unwanted files. You may l
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -96,9 +100,6 @@ When your Lava Yuva 2 becomes unresponsive or frozen after mistakenly flashing a
 
 This article will explain what a **bricked android phone** is, why an Android phone becomes bricked, how to unbrick an Android phone without losing data and a third-party application you can use.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Causes of Bricked Phones
 
 In everyday settings, our mobile devices have become our greatest friends, therefore breaking your phone is the last thing you want to do. There are different reasons why devices brick, and we must be familiar with them in order to comprehend the various techniques to repair bricked devices.
@@ -109,6 +110,10 @@ Here are some common reasons why your Lava Yuva 2 is bricked:
 - **Rooting an Android device:**You are unable to effectively root the Lava Yuva 2 device.
 - **Android firmware is being updated:**If the phone is interrupted when updating the Android firmware, it will be bricked.
 - **Installing harmful applications:**You installed harmful programs on your Lava Yuva 2, or the phone was infected with a virus.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How to Fix a Bricked Phone
 
@@ -121,6 +126,10 @@ To repair bricked Android phones and tablets, you must first thoroughly examine 
 [Recover Now](https://download.wondershare.com/drfone_recover_full3366.exe)
 
 ![safe Download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here are some simple methods for repairing bricked Android devices:
 
@@ -156,9 +165,6 @@ A factory reset can undo the alterations made to your device that resulted in th
 - **Step 2:** Select “**Wipe Data/“Factory Reset”** then confirm the action. When the process is done, you'll be returned to the recovery mode menu.
 - **Step 3:** Select **“Reboot System Now”** to restart your device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reboot system now](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-3.jpg)
 
 ### Method 4. Flash a Custom ROM
@@ -169,6 +175,10 @@ If you boot your phone directly into recovery mode, there's a problem with the R
 - **Step 2:** Click the **“Install zip from sdcard”** button. Then, select the ZIP file that contains the ROM. Finally, click the **"reboot system now"** button.
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5. Using <u>Wondershare Dr.Fone</u>
 
@@ -182,9 +192,6 @@ While it is not an Android unbrick tool, it is a useful tool for retrieving data
 
 - **Step 2:** Choose the file types you wish to recover. Click “Next” and then select the type of damage your phone is experiencing. Select **“Touch screen not responsive, or cannot access the phone”** or **“Black/broken screen”.**
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select symptom of your phone](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
 - **Step 3:** Use the recovery wizard to enter your Android smartphone into Download Mode. Connect your Android handset to the computer after following the instructions to begin automatically analyzing your device.
@@ -213,12 +220,7 @@ Here are some things to remember to prevent your device from bricking:
 
 It is certainly upsetting when your gadget bricks, but you may attempt the solutions listed above to resolve the issue. Meanwhile, if you want to solve the problem quickly and easily, you can try Wondershare Dr.Fone. It can not only help you repair your Android smartphone, but it can also help you extract data from a bricked device, recover data, and many more Android device solutions!
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-
 
 ## Super Easy Ways To Deal with Lava Yuva 2 Unresponsive Screen
 
@@ -227,7 +229,6 @@ The evolution of smartphones signifies the development of mobile communication t
 Lava Yuva 2 smartphones are gaining popularity owing to their low costs, high quality, and innovative features. High-resolution cameras, extensive battery life, and lightning-fast processing are just a few of the advantages of these mobile devices. Nevertheless, customers may sometimes need help with issues, such as a non-functioning Lava Yuva 2 touchscreen, which may be challenging.
 
 Some common issues might arise for Lava Yuva 2 phone users. The Redmi note 4 touch not working is a serious problem. It can only go up to the initialization screen. In this guide, you'll find the information you need to troubleshoot and fix the most common problems reported by Motorola customers.
-
 
 ## **What causes a Lava Yuva 2 Screen to be unresponsive?**
 
@@ -243,9 +244,17 @@ A touch screen not working on Lava Yuva 2 smartphones indicates a soft brick (re
 
 Screens on Lava Yuva 2 devices may become unresponsive for a variety of hardware-related reasons. A broken LCD panel, faulty touch sensor, or loosened ribbon wires are all possible causes. Every Lava Yuva 2 device, including the Note 4 and 5, is susceptible to these problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **There might be errors in the updated software**
 
 The Android operating system is adjustable. Some of our technological advancements may backfire on us. The phone won't power on or become stuck in a boot loop where the logo will only show intermittently. For example, some Lava Yuva 2 4 and 5 users have reported their screens are unresponsive after a software update, rendering the Lava Yuva 2 device unusable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **The common solutions to solve a Lava Yuva 2 Screen unresponsive**
 
@@ -253,18 +262,23 @@ Could anything be more annoying than a broken touchscreen on your Lava Yuva 2 ph
 
 Before taking the item in for repairs, see if you can figure out the problem independently. Do you want to learn the method? If the touch screens on your Lava Yuva 2 stop working, don’t panic; we'll teach you exactly what to do.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Solution 1: Try to restart your device**
 
 ![restart your phone](https://images.wondershare.com/drfone/article/2023/03/reset-button-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Giving your Lava Yuva 2 a restart is one of the most common solutions if you encounter an unresponsive screen on your phone. Here’s how.
 
 **Step 1:** Press and hold the **power button** until the screen becomes black;
 
 **Step 2:** After 1 minute or so, hold the **power button** again to power on the Lava Yuva 2 device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Solution 2: Check your charging port and battery**
 
@@ -280,6 +294,10 @@ If the battery of your Lava Yuva 2 is empty, your screen is expected to be unres
 ### **Solution 3: Contact Customer Service**
 
 ![xiaomi contact customer service](https://images.wondershare.com/drfone/article/2023/03/xiaomi-customer-service-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Let's assume you've applied every possible course of action. For example, your Lava Yuva 2 4 touchscreen is still unresponsive. You may contact the brand's customer support department if you need assistance. When the time comes, they'll always know what to do.
 
@@ -328,12 +346,15 @@ Avoiding severe temperatures and humidity may protect the Lava Yuva 2 device's i
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Sometimes, Lava Yuva 2 smartphones may experience problems with their screen. This occurs if there is an issue with the functioning of a new app or a software update. Several Lava Yuva 2 phone owners have reported problems with an unresponsive screen. However, the remedies outlined here should help you quickly and efficiently fix the issue and get your phone back up and running. Keep your phone updated, and remember to back up your data often to avoid this problem in the future.
 
 When following the directions, the user may require more research into some troubleshooting techniques. If this is the case, Dr.Fone Repair is usually the solution. The fact that Dr. Fone can continually tweak his system of unresponsive screens is wonderful news. This helpful tool can fix both black screens and endless starting cycles. That's why it's an integral part of every modern computer.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -347,9 +368,26 @@ When following the directions, the user may require more research into some trou
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-integrating-visual-cues-a-guide-to-videography-annotations/"><u>[New] 2024 Approved Integrating Visual Cues A Guide to Videography Annotations</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-crafting-the-perfect-gaming-channel-header/"><u>[New] In 2024, Crafting the Perfect Gaming Channel Header</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-stepwise-steps-to-install-windows-movie-maker-6-for-2024/"><u>[New] Stepwise Steps to Install Windows Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-visual-harmony-on-screen-mastering-zooms-edge-magic/"><u>[Updated] 2024 Approved Visual Harmony on Screen Mastering Zoom's Edge Magic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/effective-strategies-for-capturing-online-gatherings-mac-pc-for-2024/"><u>Effective Strategies for Capturing Online Gatherings (Mac, PC) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-apple-envisions-a-smart-robotic-aide-inside-your-living-room-the-next-big-leap-from-cupertino/"><u>How Apple Envisions a Smart Robotic Aide Inside Your Living Room – The Next Big Leap From Cupertino</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-s23-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy S23 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-infinix-note-30-vip-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Infinix Note 30 VIP Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Life360 on Windows PC For Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-xiaomi-13t-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi 13T Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oneplus-ace-2v-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of OnePlus Ace 2V? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-poco-f5-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Poco F5 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-xcover-6-pro-tactical-edition-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy XCover 6 Pro Tactical Edition Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-quick-glitch-fix-for-podcast-broadcasts/"><u>The Quick Glitch Fix for Podcast Broadcasts</u></a></li>
+</ul></div>
 

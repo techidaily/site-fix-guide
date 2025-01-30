@@ -1,7 +1,7 @@
 ---
 title: What the Elite Circle of 10 Global Tech Minds Have to Say About AI
-date: 2025-01-16T16:02:18.674Z
-updated: 2025-01-22T16:06:45.311Z
+date: 2025-01-24T19:47:58.077Z
+updated: 2025-01-29T16:31:27.250Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
 
 ![GPT-4 chatbot interface ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/gpt-4-chatbot-interface-chatgpt-plus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The most obvious benefit of upgrading to the Plus version is access to GPT-4\. As the successor to GPT-3.5,[there are major differences between the two](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) . GPT-4 improves natural language processing, understanding of context, and problem-solving. It is also trained on a larger data set, which means it's better at recognizing complex patterns.
 
  In reality, the differences can be a bit subtle as they're not immediately noticeable. However, the more you use it, the sooner you realize that GPT-4 has a better chance of providing the correct response on its first attempt. It's also more accurate and doesn't fall victim to AI hallucinations as often.
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
  You can also use this picture to understand handwritten documents you've scanned or have a picture of. You can even insert a picture of a spreadsheet and ask ChatGPT to make calculations based on the data it has acquired or suggest improvements to the spreadsheet's layout.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Internet Access
@@ -58,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
  The standard, free version of ChatGPT has a knowledge cutoff from September 2021\. That means it does not have access to any information on events that occurred after that date. However, you can overcome this limitation using the new**Browse with Bing** mode with the GPT-4 model. This means you can access the internet within ChatGPT.
 
  Internet access lets you summarize articles, conduct up-to-date market research, and find recent news stories and papers. ChatGPT can also access a wider dataset and deliver more accurate responses. So, with the $20/month subscription, the knowledge cutoff is no longer a problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. DALL·E 3 Art Creation
 
@@ -76,26 +68,22 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
 ![​​​​​​​DALL·E 3 book illustrations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-book-illustrations.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is how easy it has become to write a story and have beautiful illustrations! Again, if something makes the $20/month ChatGPT Plus subscription seem cheap and extremely valuable, it's definitely the combo of DALL·E 3 and GPT-4.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Plugin Access
 
 ![chatgpt plugins option selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-plugins-option-selection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Plugin access gives ChatGPT Plus a level of customization that you won't find with its competitors. These plugins serve as third-party software components that integrate with ChatGPT. While the feature is currently in beta, you can[install plugins from the plugin store](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) and pick from over 100 different options.
 
  Each plugin serves a different purpose. For example, you can use the Kayak plugin to book a trip abroad, the Instacart plugin to plan meals and buy ingredients, or interact with apps like Google Sheets and Gmail using Zapier. Some plugins can be buggy or slow, but it'll be interesting to see how useful they are once the kinks are ironed out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Advanced Data Analytics
 
@@ -105,9 +93,17 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
 
 ![Advanced data analysis ChatGPT prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-data-analysis-chatgpt-prompt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After it's uploaded, you can ask ChatGPT what you'd like it to do with the data, and it will oblige. I uploaded a random CSV and asked it to create visuals.
 
 ![Data visualized by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/data-visualized-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Whether you're a small business owner or just play with data in spreadsheets, this feature can help you make data-driven decisions. You can upload your account books and ask ChatGPT not only to visualize the data for you but also to give you valuable insights into what needs improvement in your business.
 
@@ -116,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a9
 ![GPTPlus vs GPT3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gptplus-vs-gpt3-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The free[ChatGPT has its fair share of big problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) , but downtime is by far the most important one. Although the situation is much better now than it was when it was first launched, the free version can still go down anytime. OpenAI's servers sometimes have trouble keeping up with the incredibly high demand.
@@ -139,6 +135,10 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
  You also get access to multiple plugins that can help with your language-learning journey. The new Speak plugin is an excellent example of this. It helps you pronounce certain phrases, gives you alternate ways to express the same sentiment, and shows you examples that replicate real-life conversations in any language.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Plus Is Worth the Upgrade
 
  Though the subscription initially didn't provide enough value, with the introduction of new features like Advanced Data Analytics, DALL·E 3, and image input, ChatGPT Plus is more than worth the upgrade. Whether you're self-employed, a freelancer, or a small business owner, ChatGPT Plus can help you in pretty much all aspects, from business policies to written content to design visuals to understanding data.
@@ -160,16 +160,22 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-integrating-your-apple-tv-and-social-media-watch-facebook-now/"><u>[New] In 2024, Integrating Your Apple TV & Social Media Watch Facebook Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-shots-to-screens-the-importance-of-camera-lenses-in-vlogs-for-2024/"><u>[Updated] From Shots to Screens The Importance of Camera Lenses in Vlogs for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boosting-your-twitter-engagement-the-ultimate-guide-to-attracting-followers/"><u>Boosting Your Twitter Engagement: The Ultimate Guide to Attracting Followers</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-uninstall-troubles-with-epic-games-hub-w11/"><u>Eliminating Uninstall Troubles with Epic Games Hub W11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-nokia-g310-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nokia G310 Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-pause-life360-location-sharing-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y100t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y100t to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-realme-11-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Realme 11 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-night-photography-perfection-with-iphones-for-2024/"><u>[New] Night Photography Perfection with iPhones for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-guide-to-smart-video-money-making-on-platforms-for-2024/"><u>[New] The Guide to Smart Video Money-Making on Platforms for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-narratives-with-artificial-intelligence-the-power-of-chatgpt-in-storytelling-techniques/"><u>Enhancing Narratives with Artificial Intelligence: The Power of ChatGPT in Storytelling Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-cannot-install-windows-to-this-disk-error-a-complete-guide/"><u>Fixing the 'Cannot Install Windows to This Disk' Error - A Complete Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-gt-neo-5-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme GT Neo 5 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-70-lite-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor 70 Lite 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-c65-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco C65 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experts-insight-into-morphvox-for-professional-sound-alteration/"><u>In 2024, Expert's Insight Into MorphVOX for Professional Sound Alteration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issue-solved-reconnecting-an-unresponsive-iphone-to-your-desktop-or-laptop/"><u>Issue Solved: Reconnecting an Unresponsive iPhone to Your Desktop or Laptop</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-130-music-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia 130 Music Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-smart-8-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Smart 8 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/registration-and-login-virbo-ai-live-stream/"><u>Registration and Login | Virbo AI Live Stream</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-magic-vs-2-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor Magic Vs 2 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m14-4g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M14 4G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-checklist-facebook-and-youtube-video-integration/"><u>The Ultimate Checklist Facebook & YouTube Video Integration</u></a></li>
 </ul></div>
 

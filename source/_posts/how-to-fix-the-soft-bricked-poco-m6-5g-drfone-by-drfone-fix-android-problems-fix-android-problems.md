@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Poco M6 5G? | Dr.fone
-date: 2024-07-14T05:49:03.966Z
-updated: 2024-07-15T05:49:03.966Z
+date: 2025-01-22T17:34:54.289Z
+updated: 2025-01-29T18:25:36.406Z
 tags: 
   - problems
 categories:
@@ -74,6 +74,10 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
@@ -84,13 +88,15 @@ This might take a few minutes of your time, but once the process is complete, re
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
-
 
 ## How To Fix Unresponsive Touch Screen on Poco M6 5G
 
@@ -180,6 +186,10 @@ If doing all the earlier workarounds and fixes couldn’t resolve the **touchscr
 
 Your **phone touch problem** might not be caused by the screen, even when you had it replaced. If your Android is still unresponsive, it’s best to bring your smartphone to an authorized service center or directly to the phone manufacturer, especially when all efforts are exhausted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How To Fix Android Touch Problem With an Alternative
 
 If all the general **phone touch problems** on your Poco M6 5G persist, you should strongly consider [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) to do the job. The program can fix all Android system issues without any required skills. Problems caused by the operating system or software, such as the black screen of death, boot loop, ghost touch, and more, are done within less than 10 minutes with the program.
@@ -197,6 +207,10 @@ Wondershare Dr.Fone allows you to fix all **touchscreen problems** on your smart
 - **Supports up to 1000+ Android Models**
 
 The program supports almost all Poco M6 5G models and other Android devices, whether unlocked or from a carrier. Dr.Fone is equipped with all the proper firmware to flash your Poco M6 5G with just a few clicks. In addition, it has handy on-screen instructions to help you complete the whole process with ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pros and Cons
 
@@ -220,6 +234,10 @@ Follow the step-by-step guide below to start fixing general phone screen problem
 
 ![dr.fone general phone screen problems 01](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Click **Start** to initiate the setup on a new window. From there, select the **Brand, Name, Model, Country,** and **Carrier** of your Poco M6 5G and click **Next**.
 
 ![dr.fone general phone screen problems 02](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
@@ -228,12 +246,13 @@ Follow the step-by-step guide below to start fixing general phone screen problem
 
 ![dr.fone general phone screen problems 03](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Part 4: FAQs
 
 Here are some FAQs you should remember when experiencing **phone touch problems**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Does a Cracked Screen Affect Touch on an Android?
 
@@ -243,9 +262,6 @@ If you continue using a smartphone with a cracked screen, there are several impl
 
 If you can’t take your cracked screen to a repair shop, apply a small amount of vegetable oil or petroleum jelly to the screen. Doing this will not fix the issue but will make the cracks less noticeable. On the other hand, you can also apply a screen protector to safeguard your phone against further damage. The screen protector slows down or prevents the cracks from getting worse.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Can I Use Dr.Fone for Free?
 
 You can download and install Dr.Fone – System Repair (iOS) or (Android) for free to evaluate the program’s offerings. You can do the first few steps to see if the app supports your device. However, you need to get the full version and enter a valid license code to repair your smartphone.
@@ -266,9 +282,6 @@ Did your Poco M6 5G decide to go on vacation and refuses to turn on? If your Poc
 
 Here, we hope we are able to give you a checklist of reasons behind this issue and the possible steps you can take to rectify it.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Common Reasons That Your Poco M6 5G Won't Turn On
 
 If you cannot find any reason why your Poco M6 5G will not switch on, here are some possible reasons:
@@ -284,8 +297,6 @@ If you cannot find any reason why your Poco M6 5G will not switch on, here are s
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -322,6 +333,10 @@ Look up for your device – pick the Poco M6 5G device Name and Device Model. Ad
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Go into your Poco M6 5G’s Download Mode.**
 
 The data recovery tool will guide you on how you can go into your Poco M6 5G’s Download Mode. You should be getting a step-by-step guide on your computer.
@@ -347,8 +362,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -386,24 +399,26 @@ Step 1: You need to put your Poco M6 5G in Download mode for resolving the Andro
 
 ![fix Android Phone not turn on with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - For ‘Home’ button-less device, turn the phone/tablet down first. For 5 – 10 seconds, hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons. Tap on the ‘Volume Up’ button to get into the ‘Download’ mode, after releasing the 3 buttons.
 
 ![fix Android Phone not turn on without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Hitting the ‘Next’ key will allow you to download firmware and proceed with the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download firmware to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Android Phone Won't Turn On: **Common Fix**
 
 To try fixing an Android Phone that won’t turn on, follow these steps:
@@ -415,6 +430,10 @@ To try fixing an Android Phone that won’t turn on, follow these steps:
 5. Start your Poco M6 5G in **Safe Mode** by pressing and holding down the **Menu** or **Volume Down** button on your device.
 6. Should the first five steps do not work for you, perform a hard reset. Do take note that each device will have a different way to do so and that data that is stored locally on the phone will be deleted.
 7. Send your Poco M6 5G to the repair shop should none of these steps work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Useful Tips to Protect Your Poco M6 5G
 
@@ -434,7 +453,6 @@ There are several reasons as to why your Poco M6 5G won’t turn on. The problem
 
 It is important to note that your phone contains some important data. Therefore, when your Poco M6 5G won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -447,9 +465,23 @@ It is important to note that your phone contains some important data. Therefore,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-your-aspects-of-sound-and-sight-in-asmr-recording-for-2024/"><u>[New] Elevate Your Aspects of Sound and Sight in ASMR Recording for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-mastering-time-stamps-on-youtube-videos/"><u>[New] In 2024, Mastering Time Stamps on YouTube Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximize-your-vr-journey-oculus-rift-readiness/"><u>[New] Maximize Your VR Journey Oculus Rift Readiness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-impact-of-chatgpt-on-advancements-and-innovations-in-healthcare/"><u>Exploring the Impact of ChatGPT on Advancements and Innovations in Healthcare</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-zte-nubia-z60-ultra-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead ZTE Nubia Z60 Ultra Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-tecno-pova-6-pro-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Pova 6 Pro 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-90-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor 90 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-ai-graphic-editor-tools-for-2024/"><u>Prime AI Graphic Editor Tools for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-magic-5-lite-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor Magic 5 Lite Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-m14-4g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy M14 4G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstaller-guide-resolving-persistent-crashes-in-windows-explorer-7-tips/"><u>Revo Uninstaller Guide: Resolving Persistent Crashes in Windows Explorer (7 Tips)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-maximizing-your-privacy-with-the-free-and-open-source-protonvpn-browser-add-on-insights-from-zdnet/"><u>Step-by-Step Guide: Maximizing Your Privacy with the Free and Open Source ProtonVPN Browser Add-On - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-missing-d3dx9nine-dll-effective-solutions-explored/"><u>Troubleshooting the Missing D3dx9_nine Dll: Effective Solutions Explored</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-put-headsphones-on-and-record-new-auditory-elements-through-windows-video-editor-platform/"><u>Updated In 2024, Put Headsphones On & Record New Auditory Elements Through Windows Video Editor Platform</u></a></li>
+</ul></div>
 

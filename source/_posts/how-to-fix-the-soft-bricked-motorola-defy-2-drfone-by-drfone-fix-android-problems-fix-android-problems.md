@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Motorola Defy 2? | Dr.fone
-date: 2024-07-14T05:47:48.434Z
-updated: 2024-07-15T05:47:48.434Z
+date: 2025-01-24T23:00:17.550Z
+updated: 2025-01-29T22:16:26.259Z
 tags: 
   - problems
 categories:
@@ -22,9 +22,6 @@ If you are confused about the soft brick and hard brick problems and looking for
 
 Read on to find out more.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is the difference between soft brick and hard brick?
 
 To begin with, let us understand the basic difference between a soft brick and hard brick issue. Both versions of a bricked phone prevent it from booting but differ in their causes and gravity of the problem.
@@ -34,6 +31,10 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Stuck at the Boot Loop
 
@@ -49,9 +50,17 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
@@ -101,6 +110,10 @@ Nothing is more frustrating than your phone's touch screen becoming unresponsive
 
 Luckily for your, multiple ways are available to resolve this issue. This article will list six fixes for resolving the ****Motorola Defy 2 not working**** issue. It will also discuss the reasons behind this issue in detail and provide a list of tips to avoid it in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Causes Motorola Defy 2 Screen Unresponsive?
 
 Answering what causes Motorola Defy 2 screen unresponsiveness is difficult. Many reasons, ranging from minor bugs to serious hardware issues, can cause it. To find out the exact or near exact reason, you will have to review your device's activity before this issue occurs. You can use the following common reasons behind the ****Motorola Defy 2 6T touch screen not working**** as the basis of your investigation:
@@ -109,9 +122,6 @@ Answering what causes Motorola Defy 2 screen unresponsiveness is difficult. Many
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Battery Issue
 
 If your device's battery is damaged or is at the end of its lifespan, it can cause the touch screen not responding issues. Moreover, the low battery and issue with the charging port can also lead to this problem.
@@ -151,8 +161,9 @@ It is an excellent option if your Motorola Defy 2 device's touch is not working 
 ![contact oneplus customer support](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 4. Wipe the Cache of Your Motorola Defy 2 Device
 
 A common reason for ****Motorola Defy 2 Nord being stuck on the loading screen**** is the filled cache partition. If you do not clean out the cache partition of your Motorola Defy 2 device, its performance will degrade. As a result, your device will experience issues like the touch screen not working or getting stuck at the loading screen. Here is how you can clear the cache of your Motorola Defy 2 device:
@@ -163,9 +174,6 @@ A common reason for ****Motorola Defy 2 Nord being stuck on the loading screen**
 
 ****Step 2:**** Now, enter your phone’s PIN or pattern and choose a language. After selecting the language, choose “Wipe data and cache.”
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose wipe data and cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-4.jpg)
 
 ****Step 3:**** Select "Wipe cache" on the next screen and confirm the action through "Yes" in the ensuing window. Once the process is complete, choose "Reboot" to restart your device.
@@ -173,8 +181,9 @@ A common reason for ****Motorola Defy 2 Nord being stuck on the loading screen**
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 5. Reset to Factory Settings
 
 Sometimes, clearing the cache partition doesn't help resolve the touchscreen issue. In that case, You have to factory reset your Motorola Defy 2 device. It is the best and last solution if other fixes haven't worked and you can't pinpoint the reason. Factory resetting your Motorola Defy 2 will delete all phone data. Thus, you should create a proper backup before trying this fix. Follow these steps to factory reset your Motorola Defy 2 in no time:
@@ -183,6 +192,10 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ![select reset options](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
@@ -190,6 +203,10 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 ### Solution 6. Replace the Old Screen with A New Screen
 
 If none of the above-mentioned fixes have worked so far, you should replace the touch screen. Replacing the touch screen is recommended in case of hardware and severe software issues. However, it can be quite an expensive fix as new touch screens aren't cheap. The prices for new touchscreens differ depending on the model. These prices start from $20 and go up to hundreds of dollars.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Avoid Motorola Defy 2 Screen being Unresponsive?
 
@@ -203,6 +220,10 @@ Protecting your Motorola Defy 2 device against system issues like touch not work
 A new version of Dr.Fone is expected to release in the latter half of this month. The new version will include many improvements, advanced features, and increased device support. Furthermore, it will also have a better and more user-friendly interface.
 
 ![dr.fone phone toolbox](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -297,6 +318,10 @@ Follow the steps given below to fix the Android SystemUI has stopped issue by ro
 
 ![android system ui-tap on “Uninstall Updates”](https://images.wondershare.com/drfone/article/2017/06/14985097623540.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: To prevent the Android SystemUI isn't responding error to occur in the future, do not forget to change your Google Play Store settings to “Do Not Auto-Update Apps”.
 
 ![android system ui-“Do Not Auto-Update Apps”](https://images.wondershare.com/drfone/article/2017/06/14985097858029.jpg)
@@ -352,9 +377,6 @@ The whole process of factory resetting your Motorola Defy 2 might sound tedious,
 
 Android SystemUI isn't responding or Android, unfortunately, the process com.android.systemui has stopped error is commonly seen by users on their devices. It is not a random error and is linked to either the software, Google App, cache partition, or data stored in the Motorola Defy 2 device. It is fairly simple to deal with this issue as all you need to do is install or roll back your Android OS update, uninstall Google App updates, clear cache partition, or factory reset your device to clear all data, files, and settings stored in it. The methods listed and explained above are the best ways to fight the problem and to prevent it from troubling you in the future. These methods have been adopted by affected users all over the world who recommend them because they are safe and involve minimum risks as compared to other tools to solve the Android SystemUI has stopped error. So go ahead and try them now!
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -367,9 +389,22 @@ Android SystemUI isn't responding or Android, unfortunately, the process com.and
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-perfect-settings-for-live-broadcasts/"><u>[New] Perfect Settings for Live Broadcasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-diving-into-hololens-technology-the-visionary-glimpse/"><u>[Updated] 2024 Approved Diving Into HoloLens Technology – The Visionary Glimpse</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-magic-v2-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-lenovo-t500-device-drivers-with-these-hassle-free-instructions/"><u>Download & Update Lenovo T500 Device Drivers with These Hassle-Free Instructions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722645048665-experience-the-best-of-web-browsing-and-streaming-on-lenovos-newest-tablet-the-2020-tab-m10-hd-reviewed/"><u>Experience the Best of Web Browsing and Streaming on Lenovo's Newest Tablet - The 2020 Tab M10 HD Reviewed!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-camon-20-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Camon 20 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-syncsound-pro-downloads-and-analysis/"><u>In 2024, SyncSound Pro Downloads & Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-look-at-samsungutation-studio-features-for-2024/"><u>In-Depth Look at Samsung'utation Studio Features for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-e13-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto E13 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-f14-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy F14 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-absent-jvmdll-file-tips-and-solutions-for-windows-users/"><u>Troubleshooting the Absent jvm.dll File: Tips and Solutions for Windows Users</u></a></li>
+</ul></div>
 

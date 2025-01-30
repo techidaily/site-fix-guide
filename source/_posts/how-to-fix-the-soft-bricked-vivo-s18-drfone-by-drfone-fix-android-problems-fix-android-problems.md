@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Vivo S18? | Dr.fone
-date: 2024-07-14T05:50:18.182Z
-updated: 2024-07-15T05:50:18.182Z
+date: 2025-01-22T16:37:15.988Z
+updated: 2025-01-30T02:41:37.623Z
 tags: 
   - problems
 categories:
@@ -50,11 +50,19 @@ Use the volume down key to scroll down and select ”Wipe cache partition” as 
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
 This method will help you erase all the clogged up and unwanted files. You may loose some App related data, but that is a small price to pay to fix your bricked phone.
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Booting straight into recovery mode
 
@@ -80,17 +88,23 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
-
 
 ## Full Guide: How To Fix Connection Is Not Private on Vivo S18
 
@@ -148,14 +162,15 @@ This error code points to a discrepancy between your Vivo S18's date and time se
 
 This is a more generic error message that indicates a problem with the website's SSL certificate without specifying the exact nature of the issue. It could indicate various issues, such as an expired certificate, a misconfiguration in the certificate chain, or other SSL-related problems.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part 3: How To Fix Your Connection Is Not Private on Android
 
 Encountering the **"your connection is not private" error on Android** can be a frustrating experience. Fortunately, there are various methods to address and fix this issue, depending on its underlying cause.
 
 In this section, we will explore some effective solutions to help you regain a secure and private connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Clear your cache
 
@@ -182,6 +197,10 @@ How to perform system repair with Dr.Fone:
 Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox section and connect your Vivo S18. Choose System Repair and pick Android as your device type.
 
 ![Open Dr.Fone System Repair tool.](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -212,6 +231,10 @@ Remember, the repair may erase data. It's advisable to back up your data first b
 ![Confirm the repair process.](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 When done, click Done if your Android starts properly. If not, click Try Again to repeat the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Check and fix the date and time on your Android
 
@@ -245,9 +268,6 @@ When you see the error message, it often comes with specific codes that indicate
 
 By prioritizing user safety and following the step-by-step approach in this guide, you can navigate and resolve this common internet browsing challenge on your Vivo S18s.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Gmail Not Working on Vivo S18: 7 Common Problems & Fixes
 
 Ever since Android is introduced, it has almost eliminated the need of computers to work through Gmail. Gmail carries much importance especially when you’re a working person. A lot of work is done through mails on daily basis. But maybe today is not your lucky day. Maybe Gmail is giving you a hard time today. Is it? Is your Gmail not responding or keeps stopping you from going further? Well! There is no need to be bothered anymore. We are discussing some of the general Gmail problems along with their fixes. So, if your Gmail is not working on Android, you can go through this article and find the relevant solution.
@@ -290,6 +310,10 @@ If unfortunately the above solutions don’t work, there is a requirement to fla
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Problem 2: Gmail won’t sync between all ends
 
 The next most common problem where people get stuck with is when there Gmail won’t sync. Here are the solutions to this particular problem.
@@ -323,6 +347,10 @@ In case you are using the Gmail over your web browser and it has tested your pat
 
 First of all, you need to make sure that the browser you are using works with Gmail or not. Gmail can smoothly perform in Google Chrome, Firefox, Safari, Internet Explorer and Microsoft Edge. However, the browsers should be updated. So, please make sure that these browsers are running on the latest versions. Moreover, in case you use Chromebook, don’t forget to update the operating system in order to let it support Gmail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Clear Cache of web browser
 
 If you tried the above method but to no avail, try to clear the cache and cookies of the web browser. But by doing so, the browser history will be removed. As well as, the records of the websites you previously enjoyed will also be lost.
@@ -336,17 +364,15 @@ If you tried the above method but to no avail, try to clear the cache and cookie
 Gmail also gives you problem in sending or receive mails and messages. And to troubleshoot such issue, following are the solutions mentioned.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Check the Latest Version of Gmail
 
 This issue is likely to emerge when you are using an outdated version of Gmail. And therefore, the first solution says you to check if the Gmail update is available. You can go to the Play Store and from the “My apps & games” option, you can see if Gmail needs to be updated or not.
 
 ![Gmail crashing on Android - check version](https://images.wondershare.com/drfone/article/2019/04/check-update-gmail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Verify Internet Connection
 
 Another thing that carries weight while you can send or receive mails is the internet connection. As we all know that Gmail won’t respond if the Vivo S18 device is not connected to the internet. Therefore, you are advised to turn off Wi-Fi and then enable it again. Also, please ensure to switch to Wi-Fi if you are using the cellular data. This may hamper the process and stop you from receiving or sending mails.
@@ -357,9 +383,6 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 
 1. Open your Gmail app and go to “Manage accounts on this device”.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![Gmail crashing on Android - open gmail](https://images.wondershare.com/drfone/article/2019/04/remove-account-1.jpg)
 
 2. Now, tap on the account you are working with. Tap on “REMOVE ACCOUNT” thereafter. After this, you can again sign in and then check if the problem is gone or not.
@@ -443,7 +466,6 @@ Fix all Gmail issues caused by Android system:
 - Gmail app crashing or stopping
 - Gmail app not responding
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -456,9 +478,17 @@ Fix all Gmail issues caused by Android system:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-the-power-of-azure-transcript-services/"><u>[New] Harnessing the Power of Azure Transcript Services</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-tailor-your-space-the-best-apps-to-create-engaging-youtube-themes-for-2024/"><u>[Updated] Tailor Your Space The Best Apps to Create Engaging YouTube Themes for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-pick-for-retro-gaming-top-5-android-tools-for-ps2-titles/"><u>In 2024, Essential Pick for Retro Gaming Top 5 Android Tools for PS2 Titles</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-6s-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 6s Plus Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a34-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A34 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/success-stories-beating-dota-2s-unresponsive-load-screen-glitch/"><u>Success Stories: Beating Dota 2'S Unresponsive Load Screen Glitch</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-itel-a60s-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Itel A60s Device</u></a></li>
+</ul></div>
 

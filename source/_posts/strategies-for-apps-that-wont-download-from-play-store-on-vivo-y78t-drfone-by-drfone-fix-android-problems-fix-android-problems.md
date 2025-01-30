@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Vivo Y78t | Dr.fone
-date: 2025-01-17T16:04:12.430Z
-updated: 2025-01-22T16:00:05.565Z
+date: 2025-01-23T23:31:08.854Z
+updated: 2025-01-29T19:18:20.672Z
 tags: 
   - problems
 categories:
@@ -29,10 +29,6 @@ The reasons below collectively contribute to the frustration users experience wh
 ### Connectivity Issues
 
 Slow or unstable internet connections can interfere with the download process. It often leads to failed or delayed app installations. You will experience frustration when faced with connectivity issues, impacting your ability to access desired apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Insufficient Storage
 
@@ -70,10 +66,6 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 
 **4,307,222** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Features
 
 The summarized points show why Dr.Fone is a flexible and powerful tool for Android users with various phone models.
@@ -92,10 +84,6 @@ One of the standout features of Dr.Fone - System Repair is its high success rate
 
 When grappling with persistent issues hindering app downloads on the Google Play Store, having a reliable third-party tool becomes essential to safeguard your apps and ensure a seamless user experience. The next section will show you how to use the platform to fix the **apps not downloading in the Google Play Store** problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part III. First Choice: Use Dr.Fone - System Repair for App Downloading Issues
 
 Using Dr.Fone - System Repair to resolve app downloading issues is straightforward. Here are three simple steps to effectively address app-related challenges:
@@ -105,10 +93,6 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 - **Step 1:** Download and install Dr.Fone - System Repair on your computer. Launch the program and select **System** **Repair** from the available options.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3,143,540** people have downloaded it
 
@@ -155,10 +139,6 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Verify Google Account
 
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the Vivo Y78t device settings, select **Accounts**, and ensure your Google account is active and synced.
@@ -180,6 +160,10 @@ Device settings or parental controls might impose restrictions on certain app do
 ### Restart the Vivo Y78t device
 
 Sometimes, a simple restart can resolve various issues. Power off your device, wait a few seconds and then power it back on. This can help refresh system processes and eliminate temporary glitches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -225,6 +209,10 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
 
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Uninstall the Google update
 
 Uninstalling Google Play Store updates has also responded well to many users. It has worked in the case of the “Unfortunately Settings has stopped” error. So, we would also like to suggest you use this tip if the others don’t work. Here are the steps to be followed for this.
@@ -264,10 +252,6 @@ Step 2: Get the Phone Connected
 With the help of a USB cable, plug your Vivo Y78t into the PC. Upon proper connection, hit on the “Android Repair” option from the left panel.
 
 ![Android settings not responding - connect android](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Feed Correct Information
 
@@ -329,10 +313,6 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Troubleshooting Guide: How to Fix an Unresponsive Vivo Y78t Screen
 
 [![](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
@@ -355,10 +335,6 @@ The Vivo Y78t screen may become unresponsive due to various reasons. Here are so
 
 Overheating, physical damage, and manufacturing defects are some common causes of Vivo Y78t screen unresponsiveness, which may occur during use/gaming, no response when touching the screen, or after dropping the phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The common solutions to solve a Vivo Y78t Screen unresponsive
 
 Here are the three most common solutions to deal with phone screens being unresponsive, regardless of the brand:
@@ -367,11 +343,11 @@ Here are the three most common solutions to deal with phone screens being unresp
 
 ![restart realme smartphone](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-1.jpg)
 
-Restarting the Vivo Y78t device is a simple and quick solution to an unresponsive phone screen. To restart the phone, press and hold the **power button** until the screen **turns off**, then press and hold the **power button** again to t**urn the phone back on**.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Restarting the Vivo Y78t device is a simple and quick solution to an unresponsive phone screen. To restart the phone, press and hold the **power button** until the screen **turns off**, then press and hold the **power button** again to t**urn the phone back on**.
 
 ### Check the Charging Port and Battery
 
@@ -383,6 +359,10 @@ Sometimes, an unresponsive screen can be caused by a dead battery or a faulty ch
 
 **Step 2:** Try a different charger or cable to see if the issue is with the charging accessories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Contact the Pros
 
 ![realme customer service](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-3.jpg)
@@ -390,6 +370,10 @@ Sometimes, an unresponsive screen can be caused by a dead battery or a faulty ch
 If the above solutions don't work, contacting a professional is best. A trained technician can diagnose and fix the problem. Contact the phone manufacturer or an authorized repair center to get help with your phone.
 
 For different Vivo Y78t models, there may be additional solutions to consider:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check the Phone's Temperature
 
@@ -432,20 +416,32 @@ Make sure to regularly check for and install software updates on your Vivo Y78t 
 Regularly inspect your phone's hardware components such as charging ports, battery, and screen for any signs of damage or wear and tear. If you notice any issues, get them fixed promptly to prevent them from causing further damage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Avoid extreme temperatures
 
 Keep your Vivo Y78t device in a temperature-controlled environment. High temperatures can cause the screen to become unresponsive, and low temperatures can cause it to freeze.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Keep the screen clean
 
 Dirt and debris on the screen can cause it to become unresponsive. Use a microfiber cloth to clean the screen regularly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reduce the number of running apps
 
 Running too many apps at once can overload the system and cause the screen to become unresponsive. Close any apps you're not using to free up system resources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Use Wondershare Dr.Fone to Repair or Manage Your Data
 
@@ -454,6 +450,10 @@ Wondershare Dr.Fone is a helpful tool that can help manage and repair your phone
 By following these suggestions, you can help prevent screen unresponsiveness on your Vivo Y78t phone. Download Dr.Fone at [<u>https://drfone.wondershare.com/</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) to manage your phone's data effectively and fix any issues that may arise.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -475,24 +475,20 @@ To deal with an unresponsive screen, users can try restarting the Vivo Y78t devi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-reversal-blueprint-swiftly-backward-apple-vids/"><u>[New] Reversal Blueprint Swiftly Backward Apple Vids</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-beginners-guide-start-filming-with-ease-using-logitech-camera/"><u>[Updated] 2024 Approved Beginner's Guide Start Filming with Ease Using Logitech Camera</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-windows-11-auditory-setup-a-how-to/"><u>[Updated] Windows 11 Auditory Setup A How-To</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/"><u>Aiseesoft FoneLab Android Data Recovery</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/discover-the-ideal-display-elevate-your-xbox-series-x-gaming/"><u>Discover the Ideal Display - Elevate Your Xbox Series X Gaming</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-microsoft-surface-ergonomic-keyboard-an-examination-of-premium-build-and-functionality/"><u>Evaluating the Microsoft Surface Ergonomic Keyboard: An Examination of Premium Build and Functionality</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-y78plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y78+ Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-reno-11f-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Reno 11F 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-razr-40-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Razr 40 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-s24-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy S24 Ultra to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-powerful-narratives-with-these-30-video-plans/"><u>In 2024, Crafting Powerful Narratives with These 30 Video Plans</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/itel-a60s-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A60s Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-x50-gt-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor X50 GT – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-itel-a05s-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Itel A05s – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-x50-gt-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor X50 GT Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/revolutionizing-cybersecurity-microsofts-adoption-of-ztdns-for-fortified-windows-network-defenses/"><u>Revolutionizing Cybersecurity: Microsoft's Adoption of ZTDNS for Fortified Windows Network Defenses</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a15-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A15 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/windows-7-os/"><u>Windows 7 OS読み込み中に発生する「システムが起動されません」というエラーを修正方法</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>[New] Black Hero 4 or Ghost-S Choosing the Best Motorsport Camera</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-effortless-and-secure-transferring-of-huge-files-iphone-to-macos-for-2024/"><u>[New] Effortless & Secure Transferring of Huge Files IPhone to macOS for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-pre-upload-tiktoks-copyright-guidelines/"><u>[New] Mastering Pre-Upload TikTok's Copyright Guidelines</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-premium-gopro-enhancements-guide/"><u>[New] Premium Gopro Enhancements Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effective-youtube-card-usage-guide-for-2024/"><u>[Updated] Effective YouTube Card Usage Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-your-ultimate-method-for-mobile-igtv-downloads/"><u>[Updated] Your Ultimate Method for Mobile IGTV Downloads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-and-resolving-voice-chat-glitches-during-back-4-blood-gameplay/"><u>Addressing and Resolving Voice Chat Glitches During 'Back 4 Blood' Gameplay</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-nokia-130-music-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Nokia 130 Music for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-find-x6-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo Find X6 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-xiaomi-redmi-note-12-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi Redmi Note 12 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-11-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus 11 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi 12 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Tecno Spark 10 Pro? | Dr.fone
-date: 2024-07-14T05:50:08.865Z
-updated: 2024-07-15T05:50:08.865Z
+date: 2025-01-23T16:09:18.505Z
+updated: 2025-01-29T20:15:28.554Z
 tags: 
   - problems
 categories:
@@ -30,6 +30,10 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
 ## Part 2: Stuck at the Boot Loop
@@ -46,9 +50,17 @@ Once you are the recovery mode screen, you will see a number of options as shown
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
@@ -106,9 +118,6 @@ If you accidentally dropped your phone or knocked it on a hard surface, you coul
 
 If you are 100% certain that your phone has gone through physical damage, you should seek professional help to have your phone repaired or checked. It is advised not to fix this problem yourself as your phone’s internal parts are complicated and delicate. Look for an official phone repair store and get your phone fixed for issues like your ****phone getting stuck on the logo.****
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Liquid Damage
 
 It is not common for your phone to expose to water. Rain or water splashes are unavoidable; sometimes, your phone gets wet. Little exposure to water on the surfaces of your phone is fine. However, if you fall into a pool with your phone or drop it in a puddle of water, your phone will likely suffer from liquid damage.
@@ -117,9 +126,6 @@ Even the tiniest water droplet that seeped into your phone could damage the inte
 
 For iPhone users, look for the water damage indicator. If you see that it has turned from white to red, it has suffered from water damage. You have two options if your phone has suffered liquid damage. One is dismantling your phone and letting it dry for at least 48 hours. Two is bringing your phone to a repair shop to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone water indicator](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-02.jpg)
 
 ### Software Issues
@@ -127,6 +133,10 @@ For iPhone users, look for the water damage indicator. If you see that it has tu
 Software issues are probably the most common reason your ****phone is stuck on the logo**** screen. Eight times out of ten, software issues are either caused by a failed software update, using an older version of the operating system, or having a jailbroken phone. When the software does not successfully update, the phone will have no operating system, as the old system was erased before the new software was installed.
 
 The older operating system is also not desired as your phone typically will send periodic updates to make sure your phone is up-to-date and free from bugs. Running applications on an older operating system might lead to issues like the ****phone being stuck on the boot screen or the logo.**** Hence, updating your phone to the latest software version would be better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. 3 Helpful Ways To Fix Phones Stuck on Boot Screen
 
@@ -138,14 +148,8 @@ To quickly fix any of your phone issues, especially when stuck on the startup sc
 
 Here is an example of performing a hard reboot for an Android phone such as Tecno Spark 10 Pro. Preess and hold the Power and Volume Down buttons simultaneously for more than 7 seconds to perform the hard reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hard reboot of samsung](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Put your phone in recovery mode
 
 If a hard reboot does not work, a natural next step is to try going into recovery mode. The recovery mode is specially designed to solve any software-related issues. It is important to note that entering recovery mode will delete all your corrupted files and replace them with a functional operating system. Hence, back up all your files to ensure you retain all your information.
@@ -176,11 +180,12 @@ Here is an example of putting your Samsang smartphone into the Factory Reset DFU
 
 ![Tecno Spark 10 Pro reset button](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** Before carrying out a factory reset, you need to input the password of your Tecno Spark 10 Pro Account.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip: Best App To Solve Phone Stuck on Boot Screen
 
 If all the solutions above do not work and you do not want to perform a factory reset on your phone, one option is to use an application called [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is one of the most effective phone recovery solutions and can help to bring your phone back to a state like it was brand new. Being ****stuck on the startup screen**** page will be a problem of the past.
@@ -235,8 +240,6 @@ This article summarizes some of the possible reasons why your ****phone is stuck
 
 Dr.Fone-System Repair repairs the operating system issues and fixes the issue with your phone. Once you power on your phone again, you can rest assured that it will be like new.
 
-
-
 ## 11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Spark 10 Pro
 
 Google Play Store is a necessary and bundled service of any Android device. This app is required to download or even run any apps. So, getting an error like Play store not working or Play Store crashing is very unfortunate and a matter of a headache. Here we tried to put the best solution to overcome this issue. Keep reading this article for all the 11 best solutions.
@@ -278,6 +281,10 @@ A most effective method to fix Google Play Store not working
 
 ![download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. The downloaded firmware will be loaded and flashed to your Tecno Spark 10 Pro to fix the Google Play Store not working issue.
 
 ![fix google play store stopping by flashing firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -286,11 +293,19 @@ A most effective method to fix Google Play Store not working
 
 ![google play store stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Video tutorial to fix Google Play Store not working
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## Part 2: Other 10 common methods to fix Google Play Store issues
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Fix Date and Time settings
 
@@ -319,6 +334,10 @@ Step 3 – Here you can find the “Google Play Store” app listed. Open it by 
 Step 4 – Now, you can find a screen like below. Tap on “Clear cache” to remove all the cache from the application.
 
 ![Tap on “Clear cache”](https://images.wondershare.com/drfone/article/2017/06/14985032967281.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, again try to open Google Play Store and you may successfully overcome the Play Store not working issue. If not, check the next solution.
 
@@ -410,6 +429,10 @@ Step 3 – Here click on “Force Stop”. This allows the Google Play Store to 
 
 ![click on “Force Stop”](https://images.wondershare.com/drfone/article/2017/06/14985037034838.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, try to open Google Play store again and this time the service is being restarted and might work properly. If not, try the next solution.
 
 ### 9\. Try a Soft Reset of your device
@@ -440,7 +463,6 @@ This will take a while to reset your device completely. After completion, start 
 
 The above methods are the best 11 among all the solutions you can get for your Play Store not working on wifi or Play Store crashing error. Try one by one and you might get rid of this problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -453,9 +475,23 @@ The above methods are the best 11 among all the solutions you can get for your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-share-tunes-mp3-from-fb-for-2024/"><u>[New] Share Tunes MP3 From FB for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/12-leading-free-video-viewing-apps-for-loving-watchers-worldwide-for-2024/"><u>12 Leading Free Video Viewing Apps for Loving Watchers Worldwide for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/active-alert-code-cleared/"><u>Active Alert: Code Cleared</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-hl-l2340dw-brother-printer-on-microsoft-windows/"><u>Easy Installation Guide: HL-L2340DW Brother Printer on Microsoft Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-note-30i-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Note 30i Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-moto-e13-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Moto E13 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-5-ultimate-platforms-for-high-quality-text-embellishments/"><u>In 2024, 5 Ultimate Platforms for High-Quality Text Embellishments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-physical-presence-vs-virtual-validation/"><u>In 2024, Physical Presence vs Virtual Validation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-matter-smart-light-strips-by-nanoleaf-open-skylight-preorders-now-available-tech-news-at-zdnet/"><u>Introducing the New Matter Smart Light Strips by Nanoleaf: Open Skylight Preorders Now Available | Tech News at ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a78-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A78 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/produce-personalized-video-content-easily-with-movavi-tools/"><u>Produce Personalized Video Content Easily with Movavi Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+</ul></div>
 

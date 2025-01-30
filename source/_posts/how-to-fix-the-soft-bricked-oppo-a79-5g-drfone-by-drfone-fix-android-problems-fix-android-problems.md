@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Oppo A79 5G? | Dr.fone
-date: 2024-07-14T05:48:41.218Z
-updated: 2024-07-15T05:48:41.218Z
+date: 2025-01-24T22:38:45.517Z
+updated: 2025-01-29T20:32:43.132Z
 tags: 
   - problems
 categories:
@@ -56,6 +56,10 @@ This method will help you erase all the clogged up and unwanted files. You may l
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Booting straight into recovery mode
 
 If your bricked phone does not boot up to your Home Screen or Lock screen and instead boots directly into Recovery Mode, there is not much left to do. Booting straight into recovery mode is undoubtedly a soft brick error but it also indicates a possible problem with your current ROM. The only option you have to flash a new ROM to reboot your bricked phone back to its normal functioning.
@@ -74,18 +78,23 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 ![install zip from sdcard](https://images.wondershare.com/drfone/article/2017/06/14987191676749.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Booting straight into Bootloader
 
@@ -113,8 +122,6 @@ Before we can see how to safely enter and exit factory mode, it is important to 
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
 
-
-
 ### Dr.Fone - Backup & Restore (Android)
 
 Flexibly Backup and Restore Android Data
@@ -134,9 +141,6 @@ Run the software on your computer and you can see all features displayed in the 
 
 ![backup android before enter in recovery mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2. Plug in with your device
 
 Then plug in with your device to the computer. When your devic is detected, click on Backup.
@@ -149,6 +153,10 @@ The program will display all the file types it can support to backup. Just selec
 
 ![select the data types to backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 4. Start backing up your device to the computer
 
 After choosing the file's type for backup, click "Backup" to begin backing up your device to your computer. It will take you a few minutes, depending on the storage of the data.
@@ -157,13 +165,15 @@ After choosing the file's type for backup, click "Backup" to begin backing up yo
 
 Note: You can use the feature of "Restore From Backup" to restore the backup file to your device, when you have the need later.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: One Click Solution to fix Android stuck in factory mode
 
 From the above parts, you are well aware about what is factory mode. As we discussed, this mode fixes most troubles with Android devices.
 
 But for situations when your Oppo A79 5G gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Oppo A79 5G logo or factory mode or blue screen of death with a single click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -185,6 +195,10 @@ Step 1: Installation completion needs to be followed by running Dr.Fone on your 
 
 ![fix Android stuck in factory mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Select the ‘Android Repair’ option from the list to fix Android stuck in factory modeissue. Hit the ‘Start’ button soon after.
 
 ![start fixing Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -204,6 +218,10 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 - On a ‘Home’ button-less device – turn off the Oppo A79 5G device and push down the ‘Volume Down’, ‘Power’ and ‘Bixby’ buttons for about 10 seconds and un-hold. Now, hit the ‘Volume Up’ button to get into ‘Download’ mode.
 
 ![fix Android stuck in factory mode on android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - For a device with ‘Home’ button – switch it off and hold down the ‘Power’, ‘Volume Down’ and ‘Home’ buttons together for 10 seconds and release. Click the ‘Volume Up’ button for entering ‘Download’ mode.
 
@@ -267,8 +285,6 @@ You can also exit factory mode on unrooted device by going to Settings> Applicat
 
 As much as factory mode can be a useful solution to a number of problems, it can be quite annoying when it pops up unexpectedly. Now you are equipped with 2 effective solutions to help you safely exit factory mode if ever you find yourself in this situation.
 
-
-
 ## Calls on Oppo A79 5G Go Straight to Voicemail? 12 Fixes
 
 Have you ever experienced incoming calls to your **phone go straight to voicemail** without ringing? It can be frustrating, especially if you’re expecting an important call. It could be due to simple things like turning down the volume or forgetting to turn off the Do Not Disturb mode. In other cases, it might be because you accidentally blocked the caller’s number.
@@ -318,9 +334,6 @@ If a phone **call went straight to voicemail**, another possible explanation is 
 - **Step 2:** Go to **Settings** > **Supplementary services** > **Call barring**, then tap **OK**.
 - **Step 3:** Select **Voice call**, then turn off your preferred outgoing and incoming calls. When prompted, enter 0000 as a password.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![call barring settings interface](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-06.jpg)
 
 4. Update Your Phone’s Software
@@ -330,6 +343,10 @@ Sometimes, software bugs can cause problems with incoming calls, which may be wh
 To check for updates, open the **Settings** app and go to **Software update** or **System update**. For a seamless update experience, follow the step-by-step instructions on your mobile screen.
 
 ![software update settings](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Reset Network Settings
 
@@ -387,6 +404,10 @@ Do you also find yourself asking what does it mean? It could be that he has bloc
 
 ![block numbers on the phone](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you still have trouble reaching your boyfriend, try calling him from a different number. If your call didn’t go through, you know that he hasn’t blocked your number and that there may be another issue with his phone.
 
 9. Turn Off Google One VPN
@@ -426,9 +447,6 @@ Dr.Fone supports over 1000 Android models, including unlocked Oppo A79 5G models
 
 - **Step 2:** Connect your smartphone to your desktop or computer using a USB cable. Next, from the **Toolbox** homepage, select **System Repair**.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![dr.fone system repair toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Select **Android** as the Oppo A79 5G device type.
@@ -447,6 +465,10 @@ Dr.Fone supports over 1000 Android models, including unlocked Oppo A79 5G models
 
 ![android devices to enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Wait while the app downloads the firmware; once done, click **Fix Now**.
 
 ![firmware downloaded ready to use](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
@@ -457,9 +479,6 @@ Dr.Fone supports over 1000 Android models, including unlocked Oppo A79 5G models
 
 - **Step 9:** The app will start repairing the system issue on your Oppo A79 5G. Once completed, your app should restart, then click **Done** to close the app.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![repaired android device system issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 **You May Also Like:**
@@ -480,7 +499,6 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 **4,215,287** people have downloaded it
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -493,9 +511,26 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-best-12-mouse-focused-pc-games-for-enthusiasts/"><u>[New] In 2024, Best 12 Mouse-Focused PC Games for Enthusiasts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-your-journey-to-youtubes-command-center-of-creativity/"><u>[Updated] 2024 Approved Your Journey to YouTube's Command Center of Creativity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-7-free-pc-screen-capture-programs/"><u>[Updated] In 2024, Top 7 Free PC Screen Capture Programs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-success-steps-to-thriving-as-a-designer/"><u>2024 Approved Crafting Success Steps to Thriving as a Designer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/carve-custom-web-laughter-cutouts-today-for-2024/"><u>Carve Custom Web Laughter Cutouts Today for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-itel-p55t-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Itel P55T Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-s18e-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo S18e in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-asus-revolutionary-nuc-tiny-pc-lineup-featuring-advanced-rtx-4000-gpu-technology/"><u>Introducing ASUS' Revolutionary NUC Tiny PC Lineup Featuring Advanced RTX 4000 GPU Technology</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-n30-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-hurdles-a-comprehensive-guide-to-uploading-problems-on-instagram-stories/"><u>Overcoming Hurdles: A Comprehensive Guide to Uploading Problems on Instagram Stories</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-x5-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X5 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-smart-8-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Smart 8 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simple-steps-for-turning-your-smartphone-into-an-effective-camera/"><u>Simple Steps for Turning Your Smartphone Into an Effective Camera</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-converting-pal-dvds-into-popular-video-file-types-free/"><u>Step-by-Step Guide: Converting PAL DVDs Into Popular Video File Types - Free</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Oppo A2? | Dr.fone
-date: 2024-07-14T05:48:35.297Z
-updated: 2024-07-15T05:48:35.297Z
+date: 2025-01-26T03:21:29.762Z
+updated: 2025-01-29T21:00:53.669Z
 tags: 
   - problems
 categories:
@@ -21,6 +21,10 @@ A bricked phone, hard brick or soft brick, is a smartphone which refuses to star
 If you are confused about the soft brick and hard brick problems and looking for solutions to fix your priced phone, then here is all you need to know.
 
 Read on to find out more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the difference between soft brick and hard brick?
 
@@ -55,6 +59,10 @@ After the process is completed, select “Reboot System” which is the first op
 This method will help you erase all the clogged up and unwanted files. You may loose some App related data, but that is a small price to pay to fix your bricked phone.
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Booting straight into recovery mode
 
@@ -102,13 +110,15 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 - When you **<u>disable some built-in apps</u>**, you might get in trouble with TouchWiz. Doing this sometimes can hamper the TouchWiz operation and raise the “**_unfortunately TouchWiz home has stopped_**” error message.
 - Many times **<u>installing some third-party apps and widgets</u>** can cause this problem. The apps like launchers can be conflicting with TouchWiz home launcher and therefore cease it to work. Also, a glitched widget is responsible for the same i.e. forces stop the TouchWiz.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
 
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -199,6 +209,10 @@ In case the above steps didn’t figure out the problem, here is the next tip. T
 
 ![clear cache partition](https://images.wondershare.com/drfone/article/2019/02/clear-cache-partition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check now if the error is eliminated. If unfortunately not, please try the following solution.
 
 ### Enable the easy mode
@@ -212,14 +226,6 @@ For some users, enabling Easy Mode has been of great assistance. This feature ai
 
 Hope the **_TouchWiz won’t keep stopping_** error does not pop up anymore!
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Boot your phone to safe mode
 
 Here is the next solution to be followed when TouchWiz keeps stopping. As we already said, third-party apps can cause this issue, booting your device in the Safe mode will disable those apps temporarily. Hence you need to boot your Oppo A2 device to Safe mode and check if the reason is any third-party app.
@@ -231,6 +237,14 @@ Here is the next solution to be followed when TouchWiz keeps stopping. As we alr
 - You will now witness “Safe mode” on the bottom screen. You can now release the button.
 
 ![safe mode](https://images.wondershare.com/drfone/article/2019/02/enable-safe-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset Factory settings
 
@@ -250,10 +264,17 @@ Along with this, we would also suggest you go take backup of your data so that y
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo A2
 
 SIM cards are small chips that act as a connecting medium between your cell phone and your carrier. It is programmed to help your carrier identify your cell phone account with certain information. And eventually, you are enabled to make calls and to make use of mobile internet. Now, if your device is showing “SIM not provisioned” on Android then it signifies that the connection to carrier network cannot be established or perhaps, your carrier isn’t able to identify your cell phone account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why does the error “SIM not provisioned MM#2” pop up?
 
@@ -276,8 +297,6 @@ A yet another reason could be that your SIM card got deactivated by your carrier
 
 Without talking any further, let’s straightly get to the first and the easiest way to repair SIM not provisioned issue on Android. For this purpose, we’re glad to introduce [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), one of its kind of tool that is capable of repairing almost all sort of Android OS issues in just a matter of few clicks. Whether it is SIM not provisioned on Android or SIM not working in Android or your device stuck in a boot loop or black/white screen of death. The most probable reason for these errors is Android OS corruption. And with Dr.Fone – Repair (Android) you can efficiently and effectively repair your Android OS in a hassle freeway.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix "SIM not provisioned MM#2" error
@@ -296,9 +315,6 @@ Step 1. Connect your Oppo A2
 
 Download and launch the Dr.Fone toolkit on your computer and then opt for the "System Repair" option from the main interface. Meanwhile, get your Oppo A2 connected with the computer using a genuine cable.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix sim not provisioned on android - install the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2. Opt for Android Repair and key in important information
@@ -324,8 +340,9 @@ As soon as the download completes, the software verifies the firmware and automa
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.2 Ensure the SIM card is not dirty or wet
 
 At times, the issue can be as simple as cleaning your SIM card and SIM slot properly. Ensuring that SIM is not wet either and then putting it back into its place. If this works, then the SIM not working in Android was due to the dirt or moisture that was preventing proper contact between SIM card pins and smartphone circuit.
@@ -355,6 +372,10 @@ Even if your SIM isn’t activated, grab another working device to make a phone 
 
 ![fix SIM not working in android - contact carrier](https://images.wondershare.com/drfone/article/2019/05/contact-carrier.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.6 Try the other SIM card slot
 
 A yet another reason why SIM not working in Android can be because of the SIM card slot might have gone corrupted. Thanks to the dual SIM technology, you do not have to rush immediately to get it to check or repair. You can simply rule out this possibility by ejecting the SIM card from its original SIM slot and then replacing it into the other SIM card slot. If this solution did work out for you then it is obvious that the problem was with the SIM card slot that got corrupted. And hence, it was triggering SIM not responding issue.
@@ -365,33 +386,15 @@ A yet another reason why SIM not working in Android can be because of the SIM ca
 
 Or just in case, you’ve still no joy and the SIM not provisioned on Android message is bothering you. Try making use of another Android device. Eject the SIM card from the Oppo A2 device which is creating problems and try plugging it into other Oppo A2] and other smartphones. Perhaps, this will let you know whether the issue is with your device only or with the SIM card itself.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.8 Try a new SIM card
 
 Still, wondering how to fix SIM not provisioned? Perhaps, nothing worked for you, right? Well, on that note, you must head to your carrier store and request a new SIM card. Also, inform them about the “SIM not provisioned MM2” error, they will be able to execute proper diagnostics over your old SIM card and hopefully get it resolved. Or else, they’ll equip you with a brand new SIM card and swap the new SIM card into your device and get it activated in the meantime. Eventually, restoring the normal functioning of your device.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 In wrapping up, SIM not provisioned errors on Android can be troubling, but they're certainly fixable. There are several methods, from a simple device restart to reaching out to your network provider. But if these don't work, we suggest trying [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool is known for its ability to handle an array of Android issues and could be just what your device needs. Navigate your tech challenges with ease using Dr.Fone.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -405,9 +408,21 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-dual-task-perfection-iphones-single-action-capture/"><u>[New] In 2024, Dual-Task Perfection IPhone's Single Action Capture</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-professional-youtubers-guide-studio-vs-next-generation-beta/"><u>[Updated] 2024 Approved Professional YouTuber's Guide Studio Vs. Next Generation Beta</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-android-music-integration-a-guide-to-social-media-playlists/"><u>[Updated] In 2024, Android Music Integration A Guide to Social Media Playlists</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-ultimate-choice-top-screen-capturer-for-video-uploads/"><u>[Updated] In 2024, Ultimate Choice Top Screen Capturer for Video Uploads</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cutting-edge-computers-notebook-recommendations-for-editors/"><u>Cutting-Edge Computers Notebook Recommendations for Editors</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-2-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-elevate-your-content-with-the-best-free-video-translator-apps-for-2024/"><u>New Elevate Your Content with the Best Free Video Translator Apps for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-4g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-wont-play-on-m6-5g-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on M6 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/time-travel-in-tech-flipping-old-games-with-dosbox-x/"><u>Time Travel in Tech: Flipping Old Games with DOSBox-X</u></a></li>
+</ul></div>
 

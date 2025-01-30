@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Samsung Galaxy A05s? | Dr.fone
-date: 2024-07-14T05:49:30.732Z
-updated: 2024-07-15T05:49:30.732Z
+date: 2025-01-27T22:14:08.154Z
+updated: 2025-01-29T23:21:51.578Z
 tags: 
   - problems
 categories:
@@ -44,10 +44,11 @@ Since the phone refuses to boot, Cache can be cleared from entering into the Rec
 
 Once you are the recovery mode screen, you will see a number of options as shown in the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
@@ -103,14 +104,15 @@ There are plenty of problems you could experience, whether it’s the [Wi-Fi net
 
 Luckily, despite there being so many problems out there, there are also many solutions. Today, we’re going to share with you the complete definitive guide to help you get your Samsung Galaxy A05s connected and free from problems and issues.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Restart your Samsung Galaxy A05s
 
 Begin by powering off your Samsung Galaxy A05s and unplugging your router. Wait for about a minute before plugging in the router and turning on your device. This simple reset can often restore stable connections and fix Android wifi not working.
 
 ![restart android](https://images.wondershare.com/drfone/article/2023/08/wifi-not-working-on-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Turn on Airplane mode and turn off
 
@@ -176,8 +178,6 @@ If none of the solutions above are working, this could indicate a real problem w
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 A one-click tool to fix Wi-Fi not working on Android
@@ -204,17 +204,15 @@ Once installed, connect your Samsung Galaxy A05s to your computer using a USB ca
 
 **Step Three** On the next screen, go through the options and use the drop-down menus to make sure the information is correct for your individual device. Accept the terms and conditions of the software, and then click the "Next" button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi slow on android - select info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Step Four** Confirm you want the software to carry out the repair process by typing the ‘000000’ code into the pop-up box and pressing Confirm. Make sure you read everything displayed in this box beforehand to know what’s happening.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - confirm the repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step Five** Now put your phone into Download Mode by following the on-screen instructions, so your device is ready for the repair process. The method for getting your phone into Download Mode will vary depending on your device, so make sure you’re following the right instructions.
 
@@ -308,7 +306,15 @@ Smartphones nowadays contribute to our daily workflow, whether you’re a studen
 
 ![fix unresponsive android/ios touchscreen intro](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you are facing a similar issue, this page has all the solutions to teach you **what to do if your phone screen is not working.** By exploring the different methods below, you will be able to know how to fix a frozen phone touch screen as an Android user. Read on for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Top Causes of an Unresponsive Touchscreen
 
@@ -336,9 +342,6 @@ Your **phone screen not responding** can also be due to software glitches that 
 
 It may not respond properly when an Android device is dirty due to water, sweat, or body oils. It will not be able to take inputs, causing your **phone to not respond to touch**. A poor screen protector and a tightly pressed phone case will also negatively impact your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dirty samsung screen](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-03.jpg)
 
 ## Part 2: What To Do When Your Smartphone Is Not Responding to Touch
@@ -367,6 +370,10 @@ Here’s how to force restart your smartphone to fix your **phone screen that’
 
 ![samsung force restart](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **E****xample 2: For Samsung Galaxy A05s Redmi**
 
 If your Samsung Galaxy A05s Redmi **phone is stuck on loading screen** or “thinking” for a long time without responding, reboot it in just two steps.
@@ -377,6 +384,10 @@ If your Samsung Galaxy A05s Redmi **phone is stuck on loading screen** or “th
 
 ![reboot xiaomi redmi options](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Update Your Software
 
 Your smartphone may behave erratically due to software bugs. While these are out of your control, you can quickly fix **your phone not responding to touch** by simply updating your OS to the latest version. Here’s how.
@@ -385,6 +396,10 @@ Your smartphone may behave erratically due to software bugs. While these are out
 - For Android owners, go to **Settings > Software Update.** Tap the **Check for software updates**to see if a new update is available.
 
 ![ios software update](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Perform a Factory Reset
 
@@ -495,20 +510,25 @@ Your iPhone screen with a **touch issue** will sometimes go black after not res
 
 Keeping your apps updated should help you solve app crashing issues that can impact your Android OS. These apps build up large caches throughout your normal usage. Clearing cached data from time to time can drastically improve your smartphone’s performance and prevent **touch issues**. To remove your app cache, go to **Settings** \> **Storage** and tap **Cached Data**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Can I Use Dr.Fone for Free?
 
 Wondershare Dr.Fone for iOS and Android is free to download and install. You can also test the first few steps and see if the program supports your device. However, when you click the **Fix Now** button to start the repair process, you will be required to enter a valid license to activate the program.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Knowing the common causes of an **unresponsive phone touchscreen** is the first step to preventing it from happening to your smartphone. While there are ways to fix it when it does happen, prevention is better than cure, as most experts say. However, if the methods outlined above don’t work, your best bet is to use a dedicated program such as Wondershare Dr.Fone for Android and iOS.
 
 Wondershare Dr.Fone works on almost all modern smartphones today and can fix a **stop-working phone screen** within less than 10 minutes. It’s beginner-friendly and doesn’t require advanced technical know-how to use right away.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -522,9 +542,18 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-squashing-social-media-smears-with-grace/"><u>[Updated] Squashing Social Media Smears with Grace</u></a></li>
+<li><a href="https://article-tips.techidaily.com/achieve-peak-meeting-performance-a-detailed-zoom-guide/"><u>Achieve Peak Meeting Performance A Detailed Zoom Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-bargain-elite-gamer-speakers-slashed-to-just-30-off-at-amazon-featured-exclusively-on-zdnet/"><u>Discover the Ultimate Bargain: Elite Gamer Speakers Slashed to Just 30% Off at Amazon, Featured Exclusively on ZDNet!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-note-50-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme Note 50 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-pova-6-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Pova 6 Pro 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-gt-5-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme GT 5 Pro FRP</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-2-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze 2 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restore-android-media-performance/"><u>Restore Android Media Performance</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Google Pixel 8 Pro | Dr.fone</u></a></li>
+</ul></div>
 

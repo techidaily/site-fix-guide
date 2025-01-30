@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Tecno Spark 10 5G | Dr.fone
-date: 2024-07-14T05:45:40.718Z
-updated: 2024-07-15T05:45:40.718Z
+date: 2025-01-26T21:25:25.515Z
+updated: 2025-01-29T23:49:10.849Z
 tags: 
   - problems
 categories:
@@ -102,7 +102,15 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset Device to Factory Settings
 
@@ -134,9 +142,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 2:**** Connect your Tecno Spark 10 5G or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
@@ -146,6 +151,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
@@ -162,6 +171,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For a device that lacks a Home button:**
 
@@ -215,8 +228,6 @@ Check below to know Dr.Fone – System Repair’s limitations:
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Tecno Spark 10 5G 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
-
-
 
 ## Fix Can't Take Screenshot Due to Security Policy on Tecno Spark 10 5G
 
@@ -292,6 +303,10 @@ If you are using this Android device, you can enable the screen capture feature 
 
 ![enable samsung capture](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you have enabled screen capture, you can check if you can take screenshots of any app or website.
 
 Enable Screenshots in Incognito Mode
@@ -301,6 +316,10 @@ Apps and websites may prohibit screenshots in incognito mode to protect your pri
 - **Step 1:** Open Chrome on your Tecno Spark 10 5G and type “chrome://flags” in the address bar.
 
 ![chrome experimental flags](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Search for Incognito Screenshot and choose **Enabled** from the drop-down menu.
 
@@ -374,10 +393,11 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 1:** Once you have downloaded Dr.Fone, install it and launch it on your desktop. Then, connect your Tecno Spark 10 5G to your desktop using a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3,567,199** people have downloaded it
 
@@ -413,9 +433,17 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 ![repairing android device in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 10:** If your device has started properly, click **Done** to close this app. Otherwise, click **Try again**.
 
 ![android system issue repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -503,9 +531,6 @@ As we discussed, to restart your phone, you can also restart the router to get r
 
 ![restart wifi router](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Forget Old Networks
 
 The problem that your Wi-Fi keeps disconnecting can also occur because of the list of networks you have connected to. Having yourselves connected to different set of networks could turn out to be quite problematic in the process. In the process of finding and switching to the best network, your device’s Wi-Fi will continually disconnect and reconnect with the nearby networks. To finish this irritating issue, you should remove and forget all the extra networks that you connected previously.
@@ -524,9 +549,6 @@ Sometimes, different installed applications can also cause trouble. If your Wi-F
 
 **Step 1**: For uninstalling the problematic application, you have to select it and hold it. You will see a pop-up menu of multiple options; choose the option of ‘Uninstall' to remove the app from the phone.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on uninstall button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-9.jpg)
 
 ### Fix 7: Reset Network Settings on your Phone
@@ -549,6 +571,10 @@ It’s annoying that your Wi-Fi keeps disconnecting while you are working or stu
 
 ![tap on ok button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8: Check Routers Range
 
 If your Wi-Fi automatically disconnects and connects again while you are roaming in the house, then it is because of the router's range; you should check it. For this, you can consider changing and modifying your AP (Access Point) band on your router.
@@ -569,9 +595,6 @@ Most Android phones have a battery-saving feature. This feature disables the net
 
 ![enable connected while asleep](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 10: Upgrade Router Firmware
 
 If none of the above-shared fixes work, the last fix to resolve the problem is upgrading your router firmware. For this, you should contact any professional who knows network operations as upgrading router firmware takes time and requires knowledge.
@@ -579,7 +602,6 @@ If none of the above-shared fixes work, the last fix to resolve the problem is u
 ## Wi-Fi Stay Connected
 
 The article above has discussed 10 solutions that offer a comprehensive toolkit to tackle the persistent issue of Wi-Fi keeps turning off Android. By toggling Airplane Mode, restarting your device, adjusting settings, and updating firmware, among other steps, you can effectively address and resolve this connectivity problem. With these solutions at your disposal, you can regain a stable and uninterrupted Wi-Fi experience on your Tecno Spark 10 5G.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -593,9 +615,23 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-expert-tips-for-recording-fan-favorite-sports-games-for-2024/"><u>[New] Expert Tips for Recording Fan-Favorite Sports Games for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-premier-5-online-communities-ascending-beyond-twitter/"><u>[Updated] In 2024, Premier 5 Online Communities Ascending Beyond Twitter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-content-creators-dilemma-choosing-between-igtv-and-youtube/"><u>[Updated] The Content Creator’s Dilemma Choosing Between IGTV and YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/navigating-the-world-of-screen-capture-nvidia-edition-for-2024/"><u>Navigating the World of Screen Capture NVIDIA Edition for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-ace-2v-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 2V Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-mix-fold-3-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Mix Fold 3 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-m54-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy M54 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/removing-obscured-display-issues-in-recording-for-2024/"><u>Removing Obscured Display Issues in Recording for 2024</u></a></li>
+<li><a href="https://techidaily.com/sign-txt-file-online-add-signature-to-txt-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .txt file Online - Add Signature to .txt file for Free</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-xs-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone XS Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Oppo K11 5G? | Dr.fone
-date: 2024-07-14T05:48:48.435Z
-updated: 2024-07-15T05:48:48.435Z
+date: 2025-01-28T01:45:15.662Z
+updated: 2025-01-29T16:13:26.801Z
 tags: 
   - problems
 categories:
@@ -30,6 +30,10 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
 ## Part 2: Stuck at the Boot Loop
@@ -44,20 +48,25 @@ Since the phone refuses to boot, Cache can be cleared from entering into the Rec
 
 Once you are the recovery mode screen, you will see a number of options as shown in the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
 This method will help you erase all the clogged up and unwanted files. You may loose some App related data, but that is a small price to pay to fix your bricked phone.
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Booting straight into recovery mode
 
@@ -97,9 +106,6 @@ Brick smartphone problem has become more prominent than phone freezing or hangin
 
 Safe mode on Android is very useful to get rid of dangerous apps and malware. This allows the user to perform a uninstall of the crashed or malicious apps by putting safe mode on Android. Now the question is how to remove safe mode? In this article, we have discussed in detail how to get out of safe mode and also discussed some frequently asked questions. Keep reading this article.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to turn off safe mode on Android?
 
 This is very important to turn off the safe mode after you put the safe mode on Android. Your mobile performance is limited in this mode. So you have to turn off safe mode. For doing this, there are some methods. Try to apply them one by one. If you succeed, stop there. Else go to the next method.
@@ -152,6 +158,10 @@ Step 1 – Turn on your device in safe mode. It can generally be done by tapping
 
 ![tap home, power and volume up](https://images.wondershare.com/drfone/article/2017/06/14986725776650.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2 – Now you can find the recovery mode screen. Navigate to the “Wipe cache” option with the volume up and down button and select the option by tapping the power button.
 
 ![Navigate to “Wipe cache”](https://images.wondershare.com/drfone/article/2017/06/14986726461259.jpg)
@@ -178,16 +188,11 @@ After this method, you can successfully get rid of the safe mode on Android. Res
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iiA3E-Oj_pk"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to put the phone in safe mode?
 
 If some apps or programs create a problem on your device, the solution is safe mode. Safe mode allows you to uninstall the app or the program out of your device safely. So, safe mode on Android is quite useful sometimes. Let’s have a look at how to turn on safe mode in Android.
 
 Before this, remember to take a backup of your Oppo K11 5G. We recommend you to use the Dr.Fone - Phone Backup (Android). This tool is the best in its class to provide users with a very easy-to-use user interface yet powerful solution.
-
-
 
 ### Dr.Fone - Phone Backup (Android)\_
 
@@ -204,14 +209,19 @@ To enter the safe mode, follow the instructions below.
 
 Step  1 – First of all, long press the power button and let the Power options appear.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Power options](https://images.wondershare.com/drfone/article/2017/06/14986727492182.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2 – Now, long press on the "Power off” option. This will instantly ask you if you want to reboot into safe mode. Select the option and your device will reboot in safe mode.
 
 ![‘Power off”](https://images.wondershare.com/drfone/article/2017/06/14986728022827.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you are using Android version 4.2 or earlier, turn off the Oppo K11 5G device and turn it on the back by tapping the power button. When the logo appears, tap and hold the volume down button. This will allow the Oppo K11 5G device to boot in safe mode.
 
@@ -232,8 +242,6 @@ For the solution to remove safe mode from your device you must follow the step-b
 The safe mode is a very useful program for any Android device. But it limits the programs of Android and you must remove safe mode after uninstalling the harmful app. This article showed you how to turn off safe mode easily.
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
-
-
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on Oppo K11 5G
 
@@ -268,8 +276,6 @@ Any error that occurs during downloading or installation process not only hinder
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
@@ -300,6 +306,10 @@ Step3: Choose the correct device details from each field, confirm them and conti
 Step4: Boot your Android in download mode, then start downloading the firmware of your device.
 
 ![fix error code 505 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5: After the Oppo K11 5G device firmware is downloaded, the tool will start repairing your Android.
 
@@ -338,9 +348,6 @@ Working with an old operating system is ok, but many times old version also crea
 - \>Click on Update
 - \>Need to click on Install (if any update is available)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![update](https://images.wondershare.com/drfone/article/2017/06/14976276197089.jpg)
 
 #### **Solution 4: Clearing the cache memory from Google services Framework and Google play store**
@@ -381,6 +388,10 @@ Due to continuous updation of new apps and services Google Play store used to be
 
 ![Google Play store](https://images.wondershare.com/drfone/article/2017/06/14976277251819.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - \>Go to Settings
 - \>Visit Application Manager or Apps
 - \>Select Google Play Store
@@ -389,6 +400,10 @@ Due to continuous updation of new apps and services Google Play store used to be
 - \>Now Open Google play store>It will refresh the updates within 5 to 10 minutes(So you need to keep your internet connection on while Google play store is updating its store for new updates.)
 
 ![Click on Uninstalling Updates](https://images.wondershare.com/drfone/article/2017/06/14976277917398.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Solution 6: Third party App**
 
@@ -405,6 +420,10 @@ Note: If still, you are in the state of trouble to solve the issue of error code
 Or call them at their call center number regarding the issue.
 
 ![call center number](https://images.wondershare.com/drfone/article/2017/06/14976278809798.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus FAQ about Google Play error
 
@@ -434,7 +453,6 @@ However, sometimes the five simple couldn’t work anymore. A system repair soft
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -447,9 +465,21 @@ Not being able to download or install the app is very frustrating and time-consu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-kept-secrets-elite-mac-speech-apps-youre-missing-out-on/"><u>[New] Best-Kept Secrets Elite Mac Speech Apps You're Missing Out On</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-mastering-pip-chromes-full-screen-multi-tasking-guide/"><u>[New] Mastering PIP Chrome's Full-Screen Multi-Tasking Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-step-by-step-path-turning-gifs-into-stickers-across-social-media-messaging/"><u>[Updated] Step-by-Step Path Turning GIFs Into Stickers Across Social Media Messaging</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-install-the-latest-driver-for-your-lenovo-docking-station/"><u>Easy Steps to Install the Latest Driver for Your Lenovo Docking Station</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-input-latency-troubles-in-valorant-a-comprehensive-guide-for-players/"><u>Eliminating Input Latency Troubles in Valorant: A Comprehensive Guide for Players</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y28-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y28 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instaboomers-hook-your-audience-with-circular-content/"><u>InstaBoomers Hook Your Audience with Circular Content</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-poco-x6-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Poco X6? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-s23-ultra-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy S23 Ultra Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-spark-10-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Spark 10 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/reviving-old-youtube-videos-steps-for-online-reclamation-for-2024/"><u>Reviving Old YouTube Videos Steps for Online Reclamation for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-marketing-journey-begins-here-experience-the-full-spectrum-of-over-50-free-ads-in-2024/"><u>Your Marketing Journey Begins Here - Experience the Full Spectrum of Over 50 FREE Ads, In 2024</u></a></li>
+</ul></div>
 

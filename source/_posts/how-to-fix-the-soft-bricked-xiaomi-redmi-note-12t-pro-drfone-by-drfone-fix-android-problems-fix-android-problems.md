@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Xiaomi Redmi Note 12T Pro? | Dr.fone
-date: 2024-07-14T05:51:09.540Z
-updated: 2024-07-15T05:51:09.540Z
+date: 2025-01-23T00:00:53.478Z
+updated: 2025-01-29T17:50:32.701Z
 tags: 
   - problems
 categories:
@@ -30,6 +30,10 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
 ## Part 2: Stuck at the Boot Loop
@@ -45,6 +49,10 @@ Since the phone refuses to boot, Cache can be cleared from entering into the Rec
 Once you are the recovery mode screen, you will see a number of options as shown in the screenshot.
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
@@ -90,13 +98,19 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Can't Take Screenshot Due to Security Policy on Xiaomi Redmi Note 12T Pro
 
 “**Can’t take screenshots due to security policy**” is a screenshot restriction on your Android smartphone. You’ve probably seen this error message before, especially when taking screenshots of banking or video streaming apps. But why do apps and websites block screenshots? It’s actually for your good.
 
 Screenshots can be misused to steal money or pirate copyrighted content. By prohibiting screenshots, apps and websites can help to protect your data and privacy. If you want to learn more, keep reading. This article will explain why apps and websites prevent screenshot capture and why it’s important for security. We’ll also give you tips on how to take photos of apps and websites that don’t let you take screenshots.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Can’t Take Screenshots Due to Security Policy on Android? Here’s Why
 
@@ -190,6 +204,10 @@ With Google Assistant, taking screenshots on your Xiaomi Redmi Note 12T Pro is n
 
 ![google assistant command](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use a Third-Party App To Take Screenshots
 
 You can download several applications on Google Play Store if you still can’t take a screenshot due to security policy. Some popular third-party screenshot apps include:
@@ -228,6 +246,10 @@ The module patches the Android framework to remove the FLAG\_SECURE flag from ap
 
 ![magiskzip disable flag secure module](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Authors Verdict
 
 There are a few ways to bypass screenshot restrictions on Android apps and websites, but some methods are more complicated than others. All methods should work, but if you think your device has been compromised, it is important to check if it is a system issue.
@@ -248,30 +270,29 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 1:** Once you have downloaded Dr.Fone, install it and launch it on your desktop. Then, connect your Xiaomi Redmi Note 12T Pro to your desktop using a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,567,199** people have downloaded it
 
 - **Step 2:** From the **Toolbox** homepage, select **System Repair** > **Android**.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone toolbox selection interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Click **Start** on the new window.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone system repair solutions](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Select an option from the **Name**, **Model**, **Country**, and **Carrier** in the drop-down lists. Next, select the checkbox to agree with the warning, then click **Next** in the bottom right corner.
 
 ![select correct device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Follow the in-app instructions to put your Xiaomi Redmi Note 12T Pro on Download mode, then click **Next**.
 
@@ -317,9 +338,6 @@ Don't worry, though. This guide is here to help. It will show you how to unbrick
 
 A **bricked phone** might sound like a techy term, but it's pretty simple – when your Xiaomi Redmi Note 12T Pro phone turns into a lifeless block that won't do anything. In this section, you'll learn all about why this happens, so you can avoid these issues and keep your phone alive as long as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android logo head with broken glass](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-02.jpg)
 
 - **Trying to flash incompatible ROMs.** Sometimes, people want their Xiaomi Redmi Note 12T Pro phones to run different software like a custom version of Android called a ROM. But if you use the correct ROM for your specific phone, it can mess things up nicely. Also, inexperience with ROM flashing can **hard brick**your **Xiaomi Redmi Note 12T Pro** Be sure to follow guides and ask for community help online.
@@ -367,9 +385,6 @@ Congratulations! Your phone should be up and working after following these steps
 
 If you gave the Xiaomi Redmi Note 12T Pro Flash Tool a shot and your phone is still not cooperating, don't lose hope. Sometimes, the magic touch needs a slight variation. That's where Dr.Fone comes into play. This dedicated software can work wonders when fixing various phone problems. It can even help in cases of **bricked Xiaomi Redmi Note 12T Pro** phones involving software or firmware issues.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - System Repair (Android)
@@ -410,6 +425,10 @@ Now that you know about Dr.Fone, it's time to understand how to use it. Hopefull
 
 ![wondershare dr.fone device details confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5.** Put your phone into Download mode. Follow the guidelines for phones with or without home buttons. Your phone will begin downloading the dedicated firmware.
 
 ![wondershare dr.fone download mode tutorial](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
@@ -421,6 +440,10 @@ Now that you know about Dr.Fone, it's time to understand how to use it. Hopefull
 - **Step 7.** After the process is finished, your phone should now be okay. Click **Done**.
 
 ![wondershare dr.fone success screen](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Best Practices/Tips Before Unbricking Your Phone
 
@@ -440,7 +463,6 @@ As a parting reminder, always keep a tool ready for emergencies. For this, choos
 
 **3,052,835** people have downloaded it
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -453,9 +475,19 @@ As a parting reminder, always keep a tool ready for emergencies. For this, choos
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-upload-gif-to-instagram-in-4-steps/"><u>[New] How To Upload GIF to Instagram in 4 Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audiences-in-motion-analyzers/"><u>[Updated] In 2024, Audiences in Motion Analyzers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-best-meme-generator-app-downlaod/"><u>2024 Approved Best Meme Generator App Downlaod</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolving-tech-frontier-openais-new-milestone-with-gpt-4/"><u>Evolving Tech Frontier: OpenAI's New Milestone with GPT-4</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-hd-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 HD Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/net-laugh-builder-for-2024/"><u>Net Laugh Builder for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-nokia-c110-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia C110 Black and White | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-the-hidden-features-accessing-gpeditmsc-on-your-windows-home-pc/"><u>Unlocking the Hidden Features: Accessing gpedit.msc on Your Windows Home PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/visualcapture-reviewer-tool/"><u>VisualCapture Reviewer Tool</u></a></li>
+</ul></div>
 

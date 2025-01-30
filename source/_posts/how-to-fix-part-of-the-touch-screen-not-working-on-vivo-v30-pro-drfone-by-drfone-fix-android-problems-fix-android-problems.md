@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo V30 Pro | Dr.fone
-date: 2024-07-14T05:45:57.703Z
-updated: 2024-07-15T05:45:57.703Z
+date: 2025-01-27T18:41:48.611Z
+updated: 2025-01-30T03:42:53.448Z
 tags: 
   - problems
 categories:
@@ -55,6 +55,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Vivo V30 Pro device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Vivo V30 Pro’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart Your Device
 
@@ -140,6 +144,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -181,6 +189,10 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -207,13 +219,15 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Vivo V30 Pro 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
-
-
 
 ## 7 Fixes for "Unfortunately, Phone Has Stopped" on Vivo V30 Pro
 
@@ -238,6 +252,10 @@ First and foremost, the thing that can let you get rid of this trouble is Safe M
 2. Now keep pressing the "Power" button until you see the Vivo V30 Pro logo on the screen.
 3. Release the button and immediately press and hold the "Volume Down" key.
 4. Leave the key once the Vivo V30 Pro device is in Safe mode. Now, the third-party apps will be disabled and you can check if the Phone app is still not responding or everything is fine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Clear the cache of the Phone app
 
@@ -276,13 +294,15 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 
 ![Phone app crashing - cache partition clearance](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.6 Get the Vivo V30 Pro system repaired in one click
 
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -350,6 +370,10 @@ Does your **Spotify keep crashing**? You’re not alone. This problem is widespr
 
 In our guide, you’ll find out why your Spotify keeps crashing. Moreover, you’ll get a list of fixes for your **Spotify closing** problem and detailed instructions. Once you’ve read our guide, you’ll successfully solve the problem of **Spotify crashing on Android**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Why Spotify Keeps Crashing
 
 ![spotify crashing problem](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-2.jpg)
@@ -381,6 +405,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![pick android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** See which Android errors Wondershare Dr.Fone can fix and click **Start**.
 
 ![start system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -401,16 +429,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 - **Step 10:** Type “**000000**” in the dialog box and click **Confirm**.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 11:** That will start the system reparation, which you can follow on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android system repair in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 - **Step 12:** Once it finishes, click **Done**to complete the system repair.
@@ -508,9 +530,6 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 - **Step 3:** Select **System Update**.
 - **Step 4:** If there’s an available update, tap
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install system update on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-13.jpg)
 
 ### 7. Update Your App
@@ -533,10 +552,11 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 - **Step 1:** Open
 - **Step 2:** Go to **Device Maintenance > Storage**or go directly to Storage.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![storage in settings on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Here, you can see how much of your storage space is available and what’s taking up the most space.
 
@@ -562,6 +582,10 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 
 - **Step 7:** Once it installs, log in to test if it’s working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10. Check if Spotify Is Down
 
 If your Spotify keeps crashing and closing, it might not be your device’s problem. Sometimes, Spotify’s server can be down, and many people face the same issue. If that’s the case, you can check with your friends if their Spotify is working or check online if Spotify is down. To do that, follow these steps:
@@ -577,9 +601,6 @@ If your Spotify keeps crashing and closing, it might not be your device’s prob
 
 - **Step 4:** Go to one or two and see what they say. If Spotify is down, you’ll need to wait for them to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 11. Clear the Cache
 
 When using different apps and websites, your device caches data from those sources. Since there’s no need to pile up your Spotify cache, you can clear it. Follow these steps:
@@ -609,7 +630,6 @@ If your Spotify app keeps crashing, several reasons might be behind it. For inst
 
 We’ve given you 11 solutions to fix the Spotify crashing problem. However, if your system needs repairing, you can try Wondershare Dr.Fone for quick and easy repair. This solution and all others will surely help you fix the crashing problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -622,9 +642,18 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-best-drones-for-gopro/"><u>[Updated] 2024 Approved Best Drones for GoPro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-begin-webcam-footage-recording-with-vlc/"><u>[Updated] In 2024, Begin Webcam Footage Recording with VLC</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comprehensive-tutorial-on-retrieving-and-moving-vcenter-log-files-a-step-by-step-approach/"><u>Comprehensive Tutorial on Retrieving & Moving vCenter Log Files - A Step-by-Step Approach</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edge-40-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-your-system-cut-down-dwm-related-gpu-strain-on-windows-computers/"><u>Optimize Your System: Cut Down DWM Related GPU Strain on Windows Computers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-samsung-galaxy-z-fold-5-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Samsung Galaxy Z Fold 5? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/urban-mastery-at-your-fingertips-a-thorough-review-of-cities-skylines/"><u>Urban Mastery at Your Fingertips - A Thorough Review of Cities: Skylines</u></a></li>
+</ul></div>
 

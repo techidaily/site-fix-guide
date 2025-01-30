@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Honor 90 GT? | Dr.fone
-date: 2024-07-14T05:46:50.758Z
-updated: 2024-07-15T05:46:50.758Z
+date: 2025-01-26T22:31:43.281Z
+updated: 2025-01-29T17:28:03.332Z
 tags: 
   - problems
 categories:
@@ -30,6 +30,10 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 ![hard bricked v/s soft bricked](https://images.wondershare.com/drfone/article/2017/06/14987188976168.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
 ## Part 2: Stuck at the Boot Loop
@@ -44,14 +48,15 @@ Since the phone refuses to boot, Cache can be cleared from entering into the Rec
 
 Once you are the recovery mode screen, you will see a number of options as shown in the screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2017/06/14987490613783.jpg)
 
 Use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
@@ -79,12 +84,17 @@ Once at the recovery mode, select “Install Zip from SD Card” from the option
 
 Scroll down using the volume key and use the power key to select the downloaded ROM.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
@@ -96,8 +106,6 @@ If your bricked phone boots straight into Bootloader, then this a serious issue 
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
 
-
-
 ## 6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor 90 GT
 
 Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog of our lives. Be it in the professional era or personal (gossips, oomph) stuffs, it is a crucial engaging kind of application. WhatsApp is the slow poison yet a useful tool used worldwide after call logs or messages. Imagining a day without is enough to put someone off. And if one has recently faced a problem in WhatsApp crashing or not opening, then it is enough to give a heart break. It can be due to Cache memory piled up, storage running out of space, WhatsApp components getting corrupted. In such a case, resolving the problem by using an effective solution is very important! Don’t worry and wander as we will provide impeccable range of fixes to bid bye to WhatsApp stopping problem.
@@ -105,8 +113,6 @@ Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog o
 ## Cause 1: WhatsApp-related Firmware Components went wrong
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -124,18 +130,6 @@ Android repair tool to fix firmware component issues
 
 To start repairing, go to the official website of Dr.Fone - System Repair (Android) and download it. Install it and then open the tool on your PC. To proceed, look for the “System Repair” tab and click on it.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp not opening - fix with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Choose the Right Tab**
@@ -172,9 +166,6 @@ The purpose of Cache in a device is to keep the track of frequently used data an
 
 ![whatsapp stopping - fix cache conflict](https://images.wondershare.com/drfone/article/2019/06/clear-whatsapp-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cause 3: WhatsApp components corruption
 
 A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp. In such case, all you need to do is uninstall and install the WhatsApp again. This is how you do it.
@@ -184,6 +175,10 @@ A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp
 - Tap on it and start downloading followed by installing it.
 
 ![whatsapp stopping - fix component corruption](https://images.wondershare.com/drfone/article/2019/06/install-whatsapp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cause 4: Not Enough Storage on your Phone
 
@@ -232,6 +227,10 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - launch gbwhatsapp](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Simply proceed with entering your name, country and contact number. The app will verify your account. You are now ready to use this app.
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
@@ -245,7 +244,6 @@ It is very common that the Android messaging app is not working on many devices 
 You might find lots of people online stating I can't receive text messages on Android. And usually, people don’t find a legit solution for this issue. If you are also experiencing this sort of issue on your Honor 90 GTs, then don’t panic. We have a series of methods that can supposedly fix the problem. But at first, we will learn what the main reasons this problem arises are and how do you know that it is consistent not some random error.
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
-
 
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
@@ -275,8 +273,6 @@ If you are not willing to waste your precious time fixing the message problem, t
 
 You surely need to try the software as it can perform the following tasks:
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Android Not Receiving Texts
@@ -305,6 +301,10 @@ Step 3: Agree with the conditions and hit the Next button. The software will dow
 
 It won’t take long, and your Honor 90 GT will be repaired. Now you will be able to receive and send text messages without any hassle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Remove and Insert the SIM
 
 The easiest thing that you can try if your Honor 90 GT is not receiving any text messages is because the SIM is not inserted right. If your SIM card is inserted wrong, then it is obvious you can't receive text messages on Android. Simply take out the SIM card, see how it must be inserted, and do it correctly. Once the SIM is inserted in the right way, you will receive the pending text messages immediately unless there is another issue preventing it.
@@ -325,6 +325,10 @@ Sometimes, people complain that Honor 90 GT is not receiving texts from iPhone, 
 
 When you are offline the message is saved on the server and just about when you get online, the text messages are delivered. If it is the SIM issue, then you will not get the message unless you contact your network operator.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: Clear the Cache of Messaging App
 
 In smartphones, the memory space often gets filled up with cache. And not everyone remembers that they have to clear the cache from time to time. The accumulated cache can also lead to this issue. So, if your Android messaging app is not working, you have to clear the cache memory.
@@ -332,6 +336,10 @@ In smartphones, the memory space often gets filled up with cache. And not everyo
 Step 1: Open the Settings and go to Apps. Find the Messages app from the list and tap to open it. There you will see the storage occupied by the app along with the cache.
 
 ![android not receiving texts clear cache](https://images.wondershare.com/drfone/article/2019/02/clear-message-cache.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Click on the Clear Cache button and wait as the Honor 90 GT device free up the memory of your device.
 
@@ -353,12 +361,13 @@ If you can’t receive messages on your default app, then you can try installing
 
 _Further Reading: [15 Best Free Chat Apps in 2022. Chat Now!](https://drfone.wondershare.com/topsoftware/best-free-chat-apps.html) _
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 9: Ensure your Phone is Fully Charged
 
 Another possible fix to this problem might be your phone’s battery percentage. Sometimes, when the Android is in power saving mode, it disables the default apps too. As a result, you can't even receive text messages on Android. So, when you plug in the charger, the power saving mode will be disabled, and you will get your text messages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 10: Ensure It’s Not An iMessage From iPhone
 
@@ -378,7 +387,6 @@ Updating the operating system to the latest Android version can fix some system 
 
 Now you know several methods that can work if the Android messaging app is not working.  If you experience this kind of issue with your Honor 90 GT, then you are most likely to resolve them with these fixes. If none of the solutions seem to fix the issue, then you can take the help of Dr. Fone - System Repair (Android) feature. With this tool, you can resolve all kinds of working issues on your device.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -391,9 +399,24 @@ Now you know several methods that can work if the Android messaging app is not w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-from-live-streams-to-recorded-content-navigating-aiseesofts-features/"><u>[New] In 2024, From Live Streams to Recorded Content Navigating Aiseesoft's Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-techniques-to-boost-pc-audio-recording-efficiency-for-2024/"><u>[New] Techniques to Boost PC Audio Recording Efficiency for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accessing-and-using-srt-audio-on-various-oses/"><u>[Updated] Accessing and Using SRT Audio on Various OSes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-digital-savvy-guide-opting-between-software-and-no-software-for-vimeo/"><u>[Updated] Digital Savvy Guide Opting Between Software & No-Software for Vimeo</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-add-a-personal-touch-using-branded-graphic-elements-in-your-instagram-content/"><u>[Updated] In 2024, Add a Personal Touch Using Branded Graphic Elements in Your Instagram Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premier-nintendo-switch-brawlers-list-max-156/"><u>2024 Approved Premier Nintendo Switch Brawlers List (Max 156)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y200-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y200 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y36-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y36 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-11-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 11 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-motorola-moto-g24-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Motorola Moto G24? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-nord-n30-se-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Nord N30 SE Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/taming-the-beast-resolving-winxps-network-woes/"><u>Taming the Beast: Resolving WinXP's Network Woes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-choice-of-childhood-flying-fun-toys/"><u>The Ultimate Choice of Childhood Flying Fun Toys</u></a></li>
+</ul></div>
 

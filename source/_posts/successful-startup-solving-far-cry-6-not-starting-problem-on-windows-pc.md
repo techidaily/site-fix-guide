@@ -1,7 +1,7 @@
 ---
 title: "Successful Startup: Solving Far Cry 6 Not Starting Problem on Windows PC"
-date: 2025-01-16T16:08:44.530Z
-updated: 2025-01-22T16:09:36.528Z
+date: 2025-01-28T00:23:34.680Z
+updated: 2025-01-29T23:39:38.601Z
 tags:
   - win11
   - win10
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
@@ -61,17 +57,21 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) In the pop-up window, delete the**Origin**  folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap274.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Click**AppData** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap275.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Double-click the**Local**  folder to open it.
 
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/007.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  10) Restart your PC and Double-click the shortcut of Origin on your desktop.
@@ -90,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
  If Origin opens, you’ve resolved this issue. If not, try the next fix below to run the Program Compatibility Troubleshooter.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: update your graphics driver to the latest version**
 
@@ -123,16 +127,20 @@ Or
 
 ![Driver Easy Scan Screen](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
 
@@ -178,10 +186,6 @@ Or
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 5: Perform a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can find out the problematic software. Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -190,21 +194,17 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select the**Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) On the**Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .
 
@@ -214,9 +214,17 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
@@ -231,10 +239,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  1) On your keyboard, press**the Windows logo key** and type **update** . In the list of results, click **Check for updates** to open **Windows Update** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click **Check for updates** to update your Windows system.
 
@@ -259,7 +263,7 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
@@ -269,10 +273,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -300,16 +300,16 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-zoom-audio-capture-techniques/"><u>[New] Ultimate ZOOM Audio Capture Techniques</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-tecno-spark-go-2023-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Tecno Spark Go (2023) by Name | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/dive-into-panoramic-photography-with-theta-sc2/"><u>Dive Into Panoramic Photography with Theta SC2</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On OnePlus 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-yuva-2-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/making-waves-in-the-gaming-community-on-youtube-for-2024/"><u>Making Waves in the Gaming Community on YouTube for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nokia-g22-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia G22 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a23-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A23 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-razr-40-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-video-calls-discover-the-top-10-apps-for-your-phone/"><u>[Updated] 2024 Approved Mastering Video Calls Discover the Top 10 Apps for Your Phone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-maximize-productivity-on-mac-top-free-tts-app-picks-you-need/"><u>[Updated] Maximize Productivity on Mac TOP Free TTS App Picks You Need</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969055329-effortless-installation-get-your-xbox-wireless-driver-pack-here/"><u>Effortless Installation: Get Your Xbox Wireless Driver Pack Here!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/explore-olden-days-on-facebook-device-friendly-tips/"><u>Explore Olden Days on Facebook - Device-Friendly Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-spark-20-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Spark 20 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y78t-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y78t Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-find-x6-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Find X6 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-s23-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel S23 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-access-to-safe-mode-on-your-windows-11-pc/"><u>Swift Access to Safe Mode on Your Windows 11 PC</u></a></li>
 </ul></div>
 

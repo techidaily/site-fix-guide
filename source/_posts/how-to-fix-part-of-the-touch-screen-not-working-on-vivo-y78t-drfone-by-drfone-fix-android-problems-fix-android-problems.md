@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Vivo Y78t | Dr.fone
-date: 2024-07-14T05:46:15.266Z
-updated: 2024-07-15T05:46:15.266Z
+date: 2025-01-27T01:53:05.762Z
+updated: 2025-01-29T16:55:17.849Z
 tags: 
   - problems
 categories:
@@ -56,6 +56,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 
 If you have already tried running the Vivo Y78t device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Vivo Y78t’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -86,9 +90,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -119,6 +120,10 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
@@ -138,6 +143,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** Connect your Vivo Y78t or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
@@ -202,9 +211,6 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -269,8 +275,6 @@ So App not installed on your Vivo Y78t or tablet? The most horrible part is that
 
 Android system repair used to require high technical skills. But most of the users know little about technical things. Well, worry not ![Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) allows you to repair Android easily, that is, complete the fix with just one click.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 A powerful tool to fix the "Android App not installed" error in one click
@@ -293,6 +297,10 @@ A powerful tool to fix the "Android App not installed" error in one click
 2. Select the "Android" option and click "Start".
 
 ![fix Android App not installed error - select Android Repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Select device information, such as brand, name, model, country, etc., from each field, and type "Next".
 
@@ -328,6 +336,10 @@ You can also uninstall the unnecessary application on the home screen, just long
 
 ![uninstall app](https://images.wondershare.com/drfone/article/2023/05/android-app-not-installed-1.jpg "uninstall app")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### #2. Use only Google Play Store
 
 As you are all aware, the Play Store is specially designed for Android software and contains only trusted and safe Apps. It is often known as the “Android Market” because it is loaded with different types of Apps to stiffly all your needs so that you don't have to rely on other third-party sources to purchase/install Apps.
@@ -346,9 +358,6 @@ First, disconnect your Vivo Y78t from your PC and then visit “Settings” on y
 
 You can now restart your device and try to install the app now, it should work!
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### #4. Choose App location wisely
 
 It is advisable to not tamper with the App’s location and let the software decide where it needs to be placed. As far as possible, let the Apps be in your device’s internal memory.
@@ -381,8 +390,6 @@ Encountering the "App Not Installed" error on Android can be frustrating, but by
 
 ![safe Download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
-
-
 ## What to Do if Google Play Services Keeps Stopping on Vivo Y78t
 
 ![google play services app keeps stopping](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-1.jpg)
@@ -392,6 +399,10 @@ Is the annoying Google Play Services error constantly popping up on your phone? 
 The error constantly plagues thousands of Android users, and it can be incredibly frustrating when you’re using the phone for something important or doing something entirely unrelated to the Google Play app.
 
 Oddly enough, the “**Unfortunately, Google Play Services has stopped**.” error isn’t severe – you can fix it with a few general and easy-to-do fixes, a factory reset, or a system repair. Below, you’ll find info about why it’s happening and a list of ten possible solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Am I Getting the Message “Google Play Services Keeps Stopping?”
 
@@ -413,9 +424,6 @@ The Google Play Services keeps stopping error is an infamous one, and it can app
 
 Regardless of what’s causing the issue on your phone, we’ve compiled a list of ten possible solutions, and you can find those below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solutions to Try When Google Play Services Keeps Stopping
 
 There are many solutions for the issue of Google Play Services that keeps stopping. We’ve listed the most famous and effective ones, and you’ll find them below in no particular order. Try them out and see whether they fix the issue.
@@ -497,15 +505,27 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
     ![put the phone into download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5**: Select the appropriate Android firmware, download it, and hit **Fix Now**after it downloads.
 
     ![download android firmware before repair](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6**: Enter the code and hit **Confirm**to continue the system repair process. When it’s done, click the **Done**
 
     ![confirm android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7. Clear Cache
 
@@ -515,6 +535,10 @@ The easiest and the most obvious fix for many Android apps is clearing the app�
 - **Step 2**: Tap **Storage**and hit the **Clear cache**
 
     ![clear app cache](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: Repeat the process for the **Google Play Services**
 
@@ -539,9 +563,6 @@ Another regularly overlooked troublemaker is a poor internet connection. That’
 
 To test the internet connection on your Vivo Y78t, you should open a browser and head to a random internet page to see if it’s opening and whether there are any delays. If it’s working fine, your internet connection isn’t the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 10. Adjust Google Play Services Permissions
 
 Although permissions rarely change, they can cause issues if you change them accidentally. These settings can be found in the same place where you would uninstall updates or clear the app’s cache, so you can use some of the steps mentioned above to check them.
@@ -558,7 +579,6 @@ Although it’s an incredibly frustrating error, the “Unfortunately, Google Pl
 
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -571,9 +591,22 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-subscriber-surge-strategy-on-flexible-budget/"><u>[Updated] Subscriber Surge Strategy on Flexible Budget</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-your-ethernet-issues-on-windows-10-or-7/"><u>Diagnosing & Repairing Your Ethernet Issues on Windows 10 or 7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/funimate-decoded-a-step-by-step-journey/"><u>Funimate Decoded A Step-by-Step Journey</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-redmi-13c-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-color-grading-navigating-luts-in-adobe-premiere-pro-for-2024/"><u>Immersive Color Grading Navigating LUTs in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/macstandard-edition-stellar-file-eraser-v5-automated-schedule-wipe-for-files-and-folders/"><u>MacStandard Edition: Stellar File Eraser v5 - Automated Schedule Wipe for Files & Folders</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-g310-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia G310 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y55s-5g-2023-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y55s 5G (2023)? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectify-flawed-windows-trackpad-dell/"><u>Rectify Flawed Windows Trackpad (Dell)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-z-fold-5-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy Z Fold 5 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600338083-stellar-data-recovery-windows/"><u>Stellar Data Recovery ソフトウェア - Windows上での無料使用で大切なデータを保護・復元</u></a></li>
+</ul></div>
 

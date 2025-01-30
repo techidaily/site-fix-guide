@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Soft Bricked Google Pixel 8 Pro? | Dr.fone
-date: 2024-07-14T05:46:43.869Z
-updated: 2024-07-15T05:46:43.869Z
+date: 2025-01-26T21:36:51.321Z
+updated: 2025-01-29T23:19:44.541Z
 tags: 
   - problems
 categories:
@@ -33,17 +33,9 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Stuck at the Boot Loop
 
 This is the first sign of a soft bricked Android phone. Boot Loop is nothing but when your phone does not remain switched off and turns itself on automatically, and freezes at the logo screen or blank screen, every time you manually try to power it off.
@@ -80,6 +72,10 @@ Once the Bootloader is unlocked, take a backup of all your data by selecting “
 
 ![backup and restore](https://images.wondershare.com/drfone/article/2017/06/14987191436732.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this step, download a ROM of your choice and store it in your SD Card. Insert the SD Card in your phone to begin the flashing process.
 
 Once at the recovery mode, select “Install Zip from SD Card” from the options.
@@ -90,9 +86,6 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![Scroll down](https://images.wondershare.com/drfone/article/2017/06/14987191926694.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
@@ -124,6 +117,10 @@ If an incoming call to your **cell phone goes straight to voicemail** without ri
 DND mode is a feature that silences all incoming calls, notifications, and alerts. If DND mode is enabled, your **cell phone goes straight to voicemail** when someone calls. To turn off DND mode, swipe down from the top of the screen to open the notification settings panel, then tap the **Do not disturb** icon.
 
 ![do not disturb mode not enabled](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here’s an alternative way:
 
@@ -185,6 +182,10 @@ When Bluetooth is on, it can interfere with your device’s ability to receive c
 
 ![bluetooth not enabled](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Go to **Settings**\> **Connections** > **Bluetooth** and toggle the switch off.
 
 ![turn off bluetooth on settings app](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-10.jpg)
@@ -244,6 +245,10 @@ And if your carrier confirms that there is no service outage or billing-related 
 11. The Caller Used Ringless Voicemail
 
 Ringless voicemail is a service that allows businesses to bypass your phone’s ringtone and send you pre-recorded messages directly to voicemail. Ringless voicemail is often used for marketing purposes. If you think you’re receiving ringless voicemail calls, you can contact the company calling you and ask them to remove you from their list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Not Clear About the Root Cause? Troubleshoot Directly by Wondershare Dr.Fone
 
@@ -305,9 +310,15 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,215,287** people have downloaded it
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Fix Part of the Touch Screen Not Working on Google Pixel 8 Pro
 
@@ -383,6 +394,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -411,9 +426,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
@@ -422,9 +434,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -442,6 +451,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 2:**** Connect your Google Pixel 8 Pro or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
@@ -493,6 +506,10 @@ Dr.Fone – System Repair is a data management and recovery tool that contains s
 - A high success rate for fixing Android system issues
 - Fixes Android system back to normal
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros
 
 Here are the advantages of using Dr.Fone – System Repair:
@@ -502,9 +519,6 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -519,7 +533,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Google Pixel 8 Pro 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -532,9 +545,26 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-professional-picture-editing-hacks-how-to-add-text-with-precision/"><u>[New] 2024 Approved Professional Picture Editing Hacks How to Add Text with Precision</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-stand-out-design-and-customize-professional-logos-via-free-templates/"><u>[New] Stand Out Design and Customize Professional Logos via Free Templates</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-venture-into-virtual-reality-with-top-mobile-headsets/"><u>[Updated] Venture Into Virtual Reality with Top Mobile Headsets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-key-ingredients-for-successful-instagram-unboxing-reels/"><u>2024 Approved The Key Ingredients for Successful Instagram Unboxing Reels</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-honor-magic-6-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor Magic 6 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-open-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus Open Devices | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-g2-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo G2 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-m14-4g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy M14 4G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-gt-5-240w-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme GT 5 (240W) Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/in-depth-articles-and-tips-for-safe-data-deletion-techniques-by-stellar-experts/"><u>In-Depth Articles & Tips for Safe Data Deletion Techniques by Stellar Experts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/perfecting-sound-levels-in-recordings-step-by-step-guide-for-2024/"><u>Perfecting Sound Levels in Recordings Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-mysteries-accessing-secretive-youtube-content-for-2024/"><u>Unveiling the Mysteries Accessing Secretive YouTube Content for 2024</u></a></li>
+</ul></div>
 
