@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Motorola Moto G73 5G | Dr.fone
-date: 2024-07-14T05:43:28.225Z
-updated: 2024-07-15T05:43:28.225Z
+date: 2025-02-06T22:53:58.850Z
+updated: 2025-02-10T16:58:48.578Z
 tags: 
   - problems
 categories:
@@ -56,6 +56,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 
 If you have already tried running the Motorola Moto G73 5G device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Motorola Moto G73 5G’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -104,6 +108,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -114,9 +122,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
@@ -169,18 +174,12 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 2. Hold the Volume Down, Bixby, and Power buttons for 5 to 10 seconds.
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download mode repair android without home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Motorola Moto G73 5G. And in a while, your Motorola Moto G73 5G’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -208,6 +207,10 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -216,13 +219,15 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Motorola Moto G73 5G 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
-
-
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on Motorola Moto G73 5G
 
@@ -235,6 +240,10 @@ The occurrence chance is more in the old operating systems, 4 KitKat, Android ve
 ## Part 1: Reasons for Google Play error 505
 
 ![error 505](https://images.wondershare.com/drfone/article/2017/06/14976272942912.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As per the report by some users, error 505 occurs in certain apps such as Weather App, SBI, ITV, Adobe Air 15, We Chat etc.
 
@@ -257,11 +266,6 @@ Any error that occurs during downloading or installation process not only hinder
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
@@ -292,6 +296,10 @@ Step3: Choose the correct device details from each field, confirm them and conti
 Step4: Boot your Android in download mode, then start downloading the firmware of your device.
 
 ![fix error code 505 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5: After the Motorola Moto G73 5G device firmware is downloaded, the tool will start repairing your Android.
 
@@ -360,6 +368,10 @@ It will clear the cache of Google play store
 
 ![app info](https://images.wondershare.com/drfone/article/2017/06/14976276779206.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Clearing the cache memory remove the extra temporary memory, thus free up space for the further installation process.
 
 #### **Solution 5: Reinstalling play store Updates**
@@ -395,9 +407,6 @@ Or call them at their call center number regarding the issue.
 
 ![call center number](https://images.wondershare.com/drfone/article/2017/06/14976278809798.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus FAQ about Google Play error
 
 **Q1: What is a 505 error code?**
@@ -500,6 +509,10 @@ So, [<u>clearing your browser cache and data </u>](https://drfone.wondershare.co
 
 ![Clear the browser's cache and data.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After successfully clearing your browser cache and data, revisit the website to check if the problem persists.
 
 ### Method 2: Repair the Android system
@@ -515,6 +528,10 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 ![Open Dr.Fone System Repair tool.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,322,863** people have downloaded it
 
@@ -568,6 +585,10 @@ However, keep in mind that this process can result in data loss, so it's essenti
 
 Most of the time, you won't need to go to the extreme of a factory reset. The simpler solutions mentioned earlier should take care of the Security Certificate Error on your Android.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 By now, you should have a good grasp of the "Your Connection Is Not Private" problem on Android. This issue typically arises from complications with the SSL certificate of the website, designed to ensure a secure connection.
@@ -575,7 +596,6 @@ By now, you should have a good grasp of the "Your Connection Is Not Private" pro
 When you see the error message, it often comes with specific codes that indicate the underlying problem. Several methods can be employed to **fix the "Your Connection Is Not Private" on Android**. Clearing the browser cache, repairing the Android system using tools like Dr.Fone, checking and fixing date and time settings, and performing a factory reset as a last resort are among the solutions.
 
 By prioritizing user safety and following the step-by-step approach in this guide, you can navigate and resolve this common internet browsing challenge on your Motorola Moto G73 5Gs.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -589,9 +609,20 @@ By prioritizing user safety and following the step-by-step approach in this guid
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-key-technique-to-integrate-gopro-content-within-cohesive-spherical-videography/"><u>[New] 2024 Approved Key Technique to Integrate GoPro Content Within Cohesive Spherical Videography</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-spectacular-visuals-the-power-of-tiktok-effects/"><u>[Updated] In 2024, Spectacular Visuals The Power of TikTok Effects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-complete-manual-for-logging-and-storing-periscope-video/"><u>A Complete Manual for Logging & Storing Periscope Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ace-the-art-of-digital-photography-with-lunapic/"><u>Ace the Art of Digital Photography with LunaPic</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/compilation-of-ultimate-gratuitous-lut-downloads-for-2024/"><u>Compilation of Ultimate, Gratuitous LUT Downloads for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-k11-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo K11 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-z-fold-5-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy Z Fold 5 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-agni-2-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Agni 2 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/mobile-optimization-strategies-enhancing-your-websites-mobility/"><u>Mobile Optimization Strategies: Enhancing Your Website's Mobility</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-reno-11f-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo Reno 11F 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-smart-7-hd-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Smart 7 HD Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23plus-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23+ Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726219212935-gsm-wifi/"><u>무료 GSM 대터치에 성공하는 방법: 지원되는 모바일 서비스를 위한 WiFi 접기</u></a></li>
+</ul></div>
 

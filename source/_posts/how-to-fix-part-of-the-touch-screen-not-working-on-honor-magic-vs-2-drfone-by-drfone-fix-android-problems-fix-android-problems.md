@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor Magic Vs 2 | Dr.fone
-date: 2024-07-14T05:42:24.400Z
-updated: 2024-07-15T05:42:24.400Z
+date: 2025-02-06T16:00:48.354Z
+updated: 2025-02-11T00:38:31.886Z
 tags: 
   - problems
 categories:
@@ -66,6 +66,10 @@ When your touch screen stops working, the first thing you should do is restart y
 
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** When the Honor Magic Vs 2 device turns off, wait a few seconds.
 
 ****Step 3:**** Press and hold the “Power” button to restart the Honor Magic Vs 2 device.
@@ -116,6 +120,10 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
@@ -135,6 +143,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** Connect your Honor Magic Vs 2 or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
@@ -171,6 +183,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Honor Magic Vs 2. And in a while, your Honor Magic Vs 2’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported OS
 
@@ -239,6 +255,10 @@ It is possible that the corrupted cache files are responsible for this error. He
 
 ![settings crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
 
 ## Part 2: Clear the Android phone’s RAM and retry
@@ -264,8 +284,6 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Honor Magic Vs 2, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Honor Magic Vs 2 devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -303,9 +321,6 @@ Step 4: Enter Download Mode
 
 Now, you need to take your device into Download mode. For this, you need to follow the onscreen instruction according to your device. Click “Next” and you will notice the firmware downloading progress on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android settings not responding - download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 5: Repair the Issue
@@ -314,11 +329,12 @@ Once the firmware is completely downloaded, your Honor Magic Vs 2 will automatic
 
 ![Android settings not responding - fix the issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: Wipe cache partition to restore Settings
 
 Like RAM, wiping cache is also vital so as to make the Honor Magic Vs 2 device’s operation smoother. And when you are getting the “Unfortunately Settings has stopped” error, it might be due to the collected cache. To remove it, you will need to enter the recovery mode. And the steps for recovery mode range from device to device. For instance, [Honor Magic Vs 2 users](https://drfone.wondershare.com/samsung/samsung-recovery-mode.html) have to press the “Home”, “Power” and “Volume Up” buttons. Similarly, [HTC](https://drfone.wondershare.com/htc/htc-recovery-mode.html) and LG device users are supposed to press the “Volume Down” and “Power” buttons. For Nexus, it is “Volume Up, Down” and Power key combinations. Therefore, before going further, make sure what device you own and enter the recovery mode according to it. Now, follow the detailed guide below to wipe the cache partition in order to fix crashing Settings.
@@ -357,12 +373,7 @@ If your Honor Magic Vs 2 shows the "Unfortunately Settings has stopped" error, d
 
 For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html). It's known for fixing many iOS problems without losing any data. Remember, a well-working device is just a few steps away!
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-
 
 ## [8 Quick Fixes] Unfortunately, Snapchat has Stopped on Honor Magic Vs 2
 
@@ -420,17 +431,23 @@ Here’s how to fix it.
 
     ![wipe cahce of snapchat crashing - step 4](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-four.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Tap the Confirm option to clear your cache preference completely
 
     ![wipe cahce of snapchat crashing - step 5](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-five.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Fix the system issues that caused Snapchat stopping
 
 If you’re experiencing the Snapchat crashing on Android often, or you’re experiencing similar errors with other apps, this can be an indication that there’s something wrong with your Android operating system.
 
 The best way to fix this is to repair your device using the software known as Dr.Fone - System Repair (Android). This is a powerful repair system that can completely recover your device from any errors, including the Snapchat keeps crashing error.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -502,17 +519,15 @@ To resolve this, you can simply try connecting to another Wi-Fi network or a dat
 
 **Step 2:** Tap the new Wi-Fi network you’re currently connected to, and then tap the ‘Forget’ option, to stop your phone connecting to it.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![snapchat stopping - forget wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change2.png)
 
 **Step 3:** Now tap the new Wi-Fi network you want to connect to. Insert the Wi-Fi security code and connect. Now try reopening and using the Snapchat to see if you can use it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![snapchat stopping - reconnect wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7. Stop using the custom ROM
 
@@ -532,6 +547,10 @@ However, this reflashing process is simple thanks to the Dr.Fone - System Repair
 6. Put your device into Download Mode by following the onscreen instructions
 7. Allow the software to repair your Honor Magic Vs 2 automatically
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8. Reset the factory settings of your Android
 
 ![snapchat stopping - factory resetting](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
@@ -546,7 +565,6 @@ Make sure you back up your personal files from your device first like your photo
 
 **Step 2:** Click the Reset Phone option. That’s it! The phone will take several minutes to complete the process, after which your phone will be reset to its original state.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -559,9 +577,24 @@ Make sure you back up your personal files from your device first like your photo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-elevate-your-videography-mastering-the-dimensions/"><u>[New] In 2024, Elevate Your Videography Mastering the Dimensions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-probing-the-capabilities-of-ffmpeg-in-maintaining-audible-formats/"><u>[New] Probing the Capabilities of FFmpeg in Maintaining Audible Formats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-quickcapture-miniapp-windows-10-version/"><u>[Updated] In 2024, QuickCapture MiniApp - Windows 10 Version</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-tecno-pop-8-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Tecno Pop 8 by Name | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-forced-removal-of-persistent-folders-on-windows-operating-systems/"><u>Expert Tips for Forced Removal of Persistent Folders on Windows Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-the-finest-free-media-tools-for-windows-pcs/"><u>Explore the Finest Free Media Tools for Windows PCs</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/get-your-daily-dose-of-humor-cracked-comedy-clips-for-desktop-and-laptop-lovers/"><u>Get Your Daily Dose of Humor - Cracked Comedy Clips for Desktop & Laptop Lovers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-a15-4g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy A15 4G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-taking-off-and-replacing-your-phones-screen-safeguard/"><u>Step-by-Step Instructions for Taking Off & Replacing Your Phone's Screen Safeguard</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Google Pixel 8 Pro | Dr.fone</u></a></li>
+</ul></div>
 

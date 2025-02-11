@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor X8b ? Fix It Easily | Dr.fone
-date: 2025-01-25T03:25:47.726Z
-updated: 2025-01-29T17:41:13.533Z
+date: 2025-02-06T20:13:38.398Z
+updated: 2025-02-10T20:34:54.550Z
 tags: 
   - problems
 categories:
@@ -40,29 +40,25 @@ Step 3: Press the Volume up and Volume down keys and use the Power key to select
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-05.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -89,6 +85,10 @@ Once installed on your computer, open onto the main menu and connect your Honor 
 
 ![get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Insert your device information, including the brand, carrier details, model and country and region you're in to ensure you're downloading the correct firmware.
 
 ![select items to correctly fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -105,20 +105,20 @@ Ensure your device, and your computer stays connected the entire time, and make 
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
@@ -136,6 +136,10 @@ Step 4: Press the Volume down key to select the "Wipe Data/ Factory Reset option
 Step 5: Next, you need to press the Volume down button to highlight "Delete All User Data" and then press the Power button to select it. The device will reset and present the "Reboot System Now" option.
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Backup and Restore Android System
 
@@ -164,10 +168,6 @@ Android system recovery mode can be quite useful, especially when your system is
 Honor X8b phones have become increasingly popular due to their advanced features, sleek designs, and affordable prices. These phones offer many benefits, including high-quality cameras, long battery life, and fast processing speeds. However, sometimes users may encounter problems such as a **Honor X8b touch screen not working**, which can be frustrating and difficult.
 
 This article aims to provide solutions for Honor X8b phone users experiencing screen unresponsiveness. We will explore various reasons this issue may occur and discuss step-by-step instructions for fixing the problem. So, if your **Honor X8b touchscreen is not working**, don't worry – we've got you covered!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Causes A Honor X8b Screen Unresponsive?
 
@@ -199,10 +199,6 @@ It is the most commonly used method to fix Honor X8b's touch screen and power bu
 
 Sometimes, the tablet screen may become unresponsive due to a software issue preventing the Honor X8b device from functioning correctly. Leaving the Honor X8b device unused and draining the battery helps resolve these issues. After fully discharging the battery, the Honor X8b device can be recharged and turned back on, potentially resolving the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3. Contact Custom Service
 
 ![xiaomi contact customer service](https://images.wondershare.com/drfone/article/2023/03/xiaomi-customer-service-1.jpg)
@@ -223,7 +219,7 @@ You can clear your cached data using the default settings.
 ![clear cached data on xiaomi 5a](https://images.wondershare.com/drfone/article/2023/03/clear-cached-data-on-xiaomi5a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5. Back Up And Factory Reset
@@ -239,6 +235,10 @@ In the following steps, we will show you how to format the Honor X8b Redmi 5A to
 - Select **All files on the phone**to make a complete format of the Honor X8b Redmi 5A.
 
 ![factory reset on xiaomi 5a](https://images.wondershare.com/drfone/article/2023/03/factory-reset-on-xiaomi5a-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6. Using Dr. Fone Repair
 
@@ -358,10 +358,6 @@ Now, you need to take your device into Download mode. For this, you need to foll
 
 ![Android settings not responding - download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Repair the Issue
 
 Once the firmware is completely downloaded, your Honor X8b will automatically start getting repaired. Stay there and you will receive a notification that the repair is done.
@@ -369,6 +365,10 @@ Once the firmware is completely downloaded, your Honor X8b will automatically st
 ![Android settings not responding - fix the issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Wipe cache partition to restore Settings
 
@@ -382,10 +382,6 @@ Like RAM, wiping cache is also vital so as to make the Honor X8b device’s oper
 
 ![Android settings not responding - cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: Factory reset your Android
 
 You can also opt for Factory resetting your device to fix the issue of Settings keeps stopping. By removing everything from the Honor X8b device, it will make your device run properly. If you have important data on your device, please make sure to [create a backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before taking action if you don’t want to lose it. The steps are as follows.
@@ -395,6 +391,10 @@ You can also opt for Factory resetting your device to fix the issue of Settings 
 3. Wait for the completion of the process and check if Settings is stopping or not after it gets rebooted.
 
 ![Android settings not responding - factory reset android](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7: Check and update Android OS
 
@@ -428,18 +428,18 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elevate-your-youtube-presence-with-audio/"><u>[New] In 2024, Elevate Your Youtube Presence with Audio</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-best-practices-for-youtube-video-brightness-and-contrast/"><u>[Updated] Best Practices for YouTube Video Brightness and Contrast</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-cutting-edge-techniques-for-advanced-hdr-images-in-aps-for-2024/"><u>[Updated] Cutting-Edge Techniques for Advanced HDR Images in APS for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-your-time-best-ways-to-follow-facebook-live-for-2024/"><u>[Updated] Maximizing Your Time Best Ways to Follow Facebook Live for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-core-principles-in-internet-story-development/"><u>2024 Approved Core Principles in Internet Story Development</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1222100-9781583947999-aya-awakenings/"><u>Aya Awakenings | Free Book</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oppo-reno-11-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Oppo Reno 11 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-chromebooks-finest-online-video-editors-ranked/"><u>New In 2024, Chromebooks Finest Online Video Editors Ranked</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oppo-a1x-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo A1x 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-asus-rog-phone-7-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Asus ROG Phone 7 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/why-does-my-pc-take-forever-to-start-up-expert-insights-on-long-boot-times/"><u>Why Does My PC Take Forever to Start Up? Expert Insights on Long Boot Times</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/levate-your-freefire-presence-with-top-tips-and-tricks/"><u>[New] Elevate Your FreeFire Presence with Top Tips and Tricks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-viewer-interest-with-accurate-time-stamping/"><u>[New] In 2024, Enhancing Viewer Interest with Accurate Time Stamping</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-announces-latest-generation-of-arrow-lake-motherboards-featuring-an-enhanced-taichi-model-supporting-camm2-ram/"><u>ASROCK Announces Latest Generation of Arrow Lake Motherboards - Featuring an Enhanced Taichi Model Supporting CAMM2 RAM</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004728366-football-manager-2023-initialization-problems-fixed-learn-how-to-start-your-game/"><u>Football Manager 2023 Initialization Problems Fixed - Learn How to Start Your Game</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacks-for-finding-perfect-spot-for-gaming-drivers/"><u>Hacks for Finding Perfect Spot for Gaming Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oneplus-12r-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve OnePlus 12R Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-list-of-premium-3d-blu-ray-players-reviewed/"><u>In 2024, Exclusive List of Premium 3D Blu-Ray Players Reviewed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/perfect-x-men-movie-marathon-order-revealed/"><u>Perfect X-Men Movie Marathon Order Revealed!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c12-plus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C12 Plus Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/sony-xperia-5-v-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 5 V Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-smart-7-hd-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Smart 7 HD</u></a></li>
 </ul></div>
 

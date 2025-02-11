@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Itel S23 | Dr.fone
-date: 2024-07-14T05:43:02.092Z
-updated: 2024-07-15T05:43:02.092Z
+date: 2025-02-09T20:36:10.720Z
+updated: 2025-02-10T20:46:07.236Z
 tags: 
   - problems
 categories:
@@ -31,6 +31,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - LG screen is unresponsive to touch
 - Itel S23 ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
@@ -122,6 +126,10 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -168,6 +176,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![download mode repair android without home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Itel S23. And in a while, your Itel S23’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -213,6 +225,10 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Itel S23 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Exit Android Factory Mode On Itel S23?
 
 You’ve often heard that recovery mode will solve just about any problem your Itel S23 is experiencing. This is mostly true and one of the components of Android’s recovery mode, factory mode or [factory reset](https://drfone.wondershare.com/reset-android/wipe-data-factory-reset.html) is one of the most efficient ways to solve various problems on your device. While factory mode is often a good thing, there are times when your device can enter factory mode on its own. Other times, you can safely enter factory mode but not know how to get out.
@@ -227,13 +243,15 @@ If you have been using your Itel S23 for a while now and its performance to be l
 
 It is however important to note that a factory reset or factory mode does often result in the loss of all your data. Therefore a backup is necessary to protect against this data loss risk.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Backup your Android Device First
 
 Before we can see how to safely enter and exit factory mode, it is important to have a full backup of your device. We mentioned that a factory mode will likely erase all the data on your device. A backup will ensure that you can get your phone back to its original state before the factory mode.
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
-
-
 
 ### Dr.Fone - Backup & Restore (Android)
 
@@ -248,14 +266,19 @@ Flexibly Backup and Restore Android Data
 
 Follow these very simple steps to use this MobileTrans Phone Transfer software to create a full backup of your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1. Launch Dr.Fone on your computer and choose "Backup & Restore"
 
 Run the software on your computer and you can see all features displayed in the primary window. Choose this one: Backup & Restore. It allows you to get your device backed up entirely with one click.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup android before enter in recovery mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2. Plug in with your device
 
@@ -277,20 +300,12 @@ After choosing the file's type for backup, click "Backup" to begin backing up yo
 
 Note: You can use the feature of "Restore From Backup" to restore the backup file to your device, when you have the need later.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: One Click Solution to fix Android stuck in factory mode
 
 From the above parts, you are well aware about what is factory mode. As we discussed, this mode fixes most troubles with Android devices.
 
 But for situations when your Itel S23 gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Itel S23 logo or factory mode or blue screen of death with a single click.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 One click fix to Android stuck in factory mode
@@ -342,6 +357,10 @@ Step 2: Press ‘Next’ for initiating firmware downloading.
 Step 3: Dr.Fone –Repair (Android) starts Android repair as soon as download and verification of firmware is done. All Android issues along with Android stuck in factory mode will be fixed now.
 
 ![fixed Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Common Solutions to Exit Factory Mode on Android
 
@@ -423,6 +442,10 @@ The easiest solution is to use a software application known as [Dr.Fone - System
 
 If this sounds like the option you need to alleviate your, unfortunately, YouTube has stopped errors; this is how to use it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Use Dr.Fone -Repair to Fix Unfortunately App has Stopped Error
 
 **_Note:_** _Please note that using this solution_ _may rewrite and repair all data on your phone, meaning there is the potential to lose data during the process. Make sure you [back up your device](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before continuing._
@@ -449,9 +472,6 @@ Tap in your phone information. This is to make sure your device is repaired corr
 
 Follow the on-screen instructions on how to then boot your Itel S23 in Download mode.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix app stopping in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 Once booted, the software will verify your firmware and start repairing your device. Make sure your phone stays connected throughout the process, and you’ll be ready to go and your ‘unfortunately the internet \[or another app\] has stopped’ error should be erased!
@@ -480,9 +500,6 @@ Follow the steps given below to learn how to clear App cache:
 
 • From the options that appear, tap on “Storage” and then on “Clear cache” as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear cache](https://images.wondershare.com/drfone/article/2017/06/14984195179360.jpg)
 
 Clearing App cache is always a good idea as it prevents any errors which may be caused due to the cache being corrupt or too full. This method is likely to help you, but if the problem persists, read on to find out about 2 more solutions.
@@ -519,6 +536,10 @@ Follow the step-by-step explanation given below to factory reset your device to 
 
 ![Visit “Settings”](https://images.wondershare.com/drfone/article/2017/06/14984195804615.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 • Now select “Backup and Reset” and move on.
 
 ![select “Backup and Reset”](https://images.wondershare.com/drfone/article/2017/06/14984196029720.jpg)
@@ -533,9 +554,6 @@ Note: Once the factory reset process is complete, your device will automatically
 
 Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has stopped, unfortunately, the internet has stopped working and so on are very common these days. They disrupt the normal functioning of an App/Apps and prevent you from using the App/Apps smoothly. Unfortunately, App has stopped error is not a serious problem and does not mean there is a problem with the App, your Android OS version, or your handset. It is a random error which occurs due to various reasons in a given situation. If you experience such an error while sign in your favorite App/Apps, DO NOT panic as unfortunately, App has stopped error can be fixed easily. All you need to do is be patient with the App’s software and not try to launch it again and again once it crashes, and an error message pops-up. Just follow the methods listed and explained in detail in the previous segments to solve the problem of unfortunately App has stopped.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -548,9 +566,22 @@ Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-editorprox-evaluation-extensive-reviews-for-2024/"><u>[New] EditorProX Evaluation – Extensive Reviews for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-advanced-dynamic-typographic-options/"><u>[Updated] In 2024, Advanced Dynamic Typographic Options</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-tips-to-nail-every-green-screen-scene/"><u>[Updated] Top Tips to Nail Every Green Screen Scene</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harmonize-with-inshots-music-load-functionality/"><u>Harmonize with InShot's Music Load Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-effortlessly-set-up-a-subwoofer-alongside-your-samsung-soundbar/"><u>How to Effortlessly Set Up a Subwoofer Alongside Your Samsung Soundbar</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-c22-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia C22 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-effortlessly-excel-at-creating-instagram-reels/"><u>In 2024, Effortlessly Excel at Creating Instagram Reels</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-c12-plus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia C12 Plus – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nokia-c12-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nokia C12 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Sony Xperia 5 V | Dr.fone</u></a></li>
+</ul></div>
 

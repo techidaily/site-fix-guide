@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Samsung Galaxy S23 Wont Turn On | Dr.fone
-date: 2024-07-14T05:40:37.424Z
-updated: 2024-07-15T05:40:37.424Z
+date: 2025-02-08T01:07:33.211Z
+updated: 2025-02-10T17:15:00.457Z
 tags: 
   - problems
 categories:
@@ -33,8 +33,6 @@ If you cannot find any reason why your Samsung Galaxy S23 will not switch on, he
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -97,8 +95,6 @@ After repeated attempts, when your Android mobile/tablet stops buzzing, what opt
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 The real fix to issues like "Android phone will not switch on"
@@ -118,6 +114,10 @@ Prior to fixing the Android phone will not switch and getting things back in act
 Step 1: Run Dr.Fone on your computer once the installation is complete and tap the ‘Repair’ option form the interface. Now, connect your Android mobile with the computer.
 
 ![fix Android Phone not turn on by repairing system](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
@@ -143,6 +143,10 @@ Step 2: Hitting the ‘Next’ key will allow you to download firmware and proce
 
 ![download firmware to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -158,6 +162,10 @@ To try fixing an Android Phone that won’t turn on, follow these steps:
 5. Start your Samsung Galaxy S23 in **Safe Mode** by pressing and holding down the **Menu** or **Volume Down** button on your device.
 6. Should the first five steps do not work for you, perform a hard reset. Do take note that each device will have a different way to do so and that data that is stored locally on the phone will be deleted.
 7. Send your Samsung Galaxy S23 to the repair shop should none of these steps work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Useful Tips to Protect Your Samsung Galaxy S23
 
@@ -177,8 +185,6 @@ There are several reasons as to why your Samsung Galaxy S23 won’t turn on. The
 
 It is important to note that your phone contains some important data. Therefore, when your Samsung Galaxy S23 won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
 
-
-
 ## 11 Ways to Fix it When My Samsung Galaxy S23 Won't Charge
 
 What would you do if your phone or other device’s battery is draining? You will plug it into a power source. Right? What if you realize that your phone won't charge? My phone won't charge, and the Samsung Galaxy S23 tablet won't charge is a common problem.
@@ -194,8 +200,6 @@ So if you're still thinking about why won't My Samsung Galaxy S23 charge, read o
 While you are upset over ‘why My Samsung Galaxy S23 won't charge?’, would you mind us helping you around?
 
 Well, we have got [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) at your fingertips to get rid of this annoying phone won't charge issues (caused by system corruption). Whether the Samsung Galaxy S23 device froze or became unresponsive, bricked, or got stuck on the Samsung Galaxy S23 logo/blue screen of death or apps started crashing. It can fix every Android system problem.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -220,6 +224,10 @@ Step 1: Install and then run Dr.Fone - System Repair (Android), the ultimate And
 Step 2: Tap on the ‘Android Repair’ option and then click ‘Start’ for moving ahead.
 
 ![start to fix](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Mention the detailed information about your Samsung Galaxy S23 under the Samsung Galaxy S23 device information section. Press ‘Next’ then on.
 
@@ -255,6 +263,10 @@ It is also very commonly observed that the charging end of the cable which gets 
 
 ![charging cable](https://images.wondershare.com/drfone/article/2017/06/14985459762305.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Check/clean charging port
 
 The charging port in your device is a small opening where the charging end of the cabbie is inserted for the current to flow to the phone/tablet. Very often, we notice that the charging port gets blocked with tiny particles of dirt. The charging port might also get clogged if dirt and dust get accumulated in it, preventing the sensors from receiving and forwarding the current to the Samsung Galaxy S23 device.
@@ -263,9 +275,6 @@ The charging port in your device is a small opening where the charging end of th
 
 The best way to take this problem is to clean the port with a blunt pin or a soft bristle unused toothbrush. Make sure you clean the port gently and do not damage it or its sensors.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clean charging port](https://images.wondershare.com/drfone/article/2017/06/14985460097930.jpg)
 
 ### 3\. Check/replace charging adapter
@@ -277,6 +286,10 @@ This method is fairly simple, and all you need to do is check whether or not the
 ### 4\. Try another power source
 
 This technique is more like a quick trick. It means to switch from one power source to another or use a more efficient and suitable power source. Laptops and PCs charge slower than a direct power source, i.e., a wall socket. Sometimes, the charging speed is slower, and the battery is draining. In such a scenario, choose to charge your device by directly plugging it into a socket on the wall to never experience My Samsung Galaxy S23 won't charge problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Clear device Cache
 
@@ -324,9 +337,6 @@ Installing your Android version updates is a good idea as the software is the in
 
 To check for and install updates on your device, you must be connected to WiFi or a cellular network. Next, visit “Settings” and select “About device”. Now click on “Software Update”.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android software update](https://images.wondershare.com/drfone/article/2017/06/14985460584295.jpg)
 
 If there is an update available, you will be prompted to download it. Just follow the instructions given before you install a brand new Android OS version on your device.
@@ -371,6 +381,10 @@ It will offer both basic steps and advanced techniques. With clear instructions 
 
 A **Samsung Galaxy S23 4 not turning on** might simply be a victim of a drained battery due to lack of charging. Several factors could lead to this, including a damaged charging cable or adapter. Moreover, issues with the power source or a malfunctioning charging port can be the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reason 1. Damaged Charging Cable or Adapter
 
 **Solution:** Replace the charging cable or adapter with a known working one. Try using a different USB-C cable and adapter to ensure it's not a faulty connection.
@@ -389,13 +403,14 @@ A **Samsung Galaxy S23 4 not turning on** might simply be a victim of a drained 
 
 ![charging port issues google pixel](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scenario 2. Check for Damages
 
 Sometimes, a Samsung Galaxy S23 3 might not turn on due to physical damage incurred by the Samsung Galaxy S23 device. Instances such as accidental drops, exposure to water or moisture, or even hardware malfunctions can be the reason. These can cause visible or invisible damage, leading to **Samsung Galaxy S23 4 won’t turn on**.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reason 1. Physical Impact or Dropping
 
 **Solution:** If the Samsung Galaxy S23 3 has experienced a significant impact or drop, inspect the exterior for any visible damage. A cracked screen or internal hardware issue might prevent the Samsung Galaxy S23 device from turning on. Consider professional repair services if necessary.
@@ -452,9 +467,6 @@ Starting with, you will have to activate Dr.Fone on your computer and head to th
 
 ![launch dr fone android repair](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,082,195** people have downloaded it
@@ -477,6 +489,10 @@ Lastly, the repair process will get started and can be viewed in a progress bar.
 
 ![repair android device successfully](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scenario 5. Need for a Power Cycle
 
 At times, an Android device, including the Samsung Galaxy S23 3/4, might benefit from a power cycle procedure. This process involves completely refreshing the Samsung Galaxy S23 device's system. It potentially **my Samsung Galaxy S23 3 won’t turn on** issues, temporary bugs, or system hang-ups. These issues prevent the Samsung Galaxy S23 device from turning on or functioning properly.
@@ -490,6 +506,10 @@ At times, an Android device, including the Samsung Galaxy S23 3/4, might benefit
 ### Reason 2. Battery Optimization and Refreshment
 
 **Solution:** Sometimes, a power cycle helps [optimize the Samsung Galaxy S23 device's battery performance](https://drfone.wondershare.com/device-diagnostics/check-your-phone-battery-health.html) and refreshes the system. Allow the Samsung Galaxy S23 3/4 to completely power down, charge it for at least 30 minutes, then attempt to turn it on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reason 3. Software Hang-Up or Temporary Glitch
 
@@ -529,9 +549,6 @@ There are scenarios where a phone, like the Samsung Galaxy S23 3, hangs or gets 
 
 ![reboot google pixel to safe mode](https://images.wondershare.com/drfone/article/2023/11/google-pixel-3-wont-turn-on-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reason 2. Problematic App
 
 **Solution:** While in Safe Mode, observe if the Samsung Galaxy S23 device boots up properly. If it successfully boots, it suggests that a third-party application is causing the problem. To pinpoint the problematic app, uninstall recently added apps individually and restart the Samsung Galaxy S23 device after each removal. This process helps pinpoint the problematic app causing the hang during startup.
@@ -560,7 +577,6 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
 
 **3,673,294** people have downloaded it
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -573,9 +589,26 @@ Users are encouraged to follow the step-by-step instructions outlined here. Thes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-quickly-stream-spotify-audio-with-integrity/"><u>[New] How to Quickly Stream Spotify Audio with Integrity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-visuals-a-step-by-step-guide-for-buying-a-4k-monitor/"><u>[New] Maximizing Visuals A Step-by-Step Guide for Buying a 4K Monitor</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-polishing-video-journeys-inshots-segmentation-excellence/"><u>[Updated] In 2024, Polishing Video Journeys Inshot's Segmentation Excellence</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-recovering-from-a-mistaken-tiktok-reload/"><u>[Updated] In 2024, Recovering From a Mistaken TikTok Reload</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-audio-transfer-youtube-videos-)-mp3-macos-2023/"><u>[Updated] Seamless Audio Transfer YouTube Videos > MP3, MacOS 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-enhancing-mobile-instagram-videos-velocity-tips/"><u>2024 Approved Enhancing Mobile Instagram Videos' Velocity (Tips)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-panoramic-vision-leading-360-cameras-of-2023/"><u>2024 Approved Professional Panoramic Vision Leading 360° Cameras of 2023</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-spark-10-4g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Spark 10 4G?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-z-fold-5-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy Z Fold 5 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-poco-m6-pro-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Poco M6 Pro 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-tecno-pova-5-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Pova 5? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-note-12r-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 12R Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-90-lite-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor 90 Lite ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-free-tools-and-techniques-for-cutting-webm-videos-offline-or-online/"><u>Ultimate Guide: Free Tools & Techniques for Cutting WebM Videos Offline or Online</u></a></li>
+</ul></div>
 

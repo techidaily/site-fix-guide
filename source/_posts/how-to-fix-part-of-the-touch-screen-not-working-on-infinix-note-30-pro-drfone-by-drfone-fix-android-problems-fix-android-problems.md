@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Note 30 Pro | Dr.fone
-date: 2024-07-14T05:42:45.230Z
-updated: 2024-07-15T05:42:45.230Z
+date: 2025-02-08T22:20:29.788Z
+updated: 2025-02-10T17:37:39.483Z
 tags: 
   - problems
 categories:
@@ -66,11 +66,19 @@ When your touch screen stops working, the first thing you should do is restart y
 
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** When the Infinix Note 30 Pro device turns off, wait a few seconds.
 
 ****Step 3:**** Press and hold the “Power” button to restart the Infinix Note 30 Pro device.
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn On Safe Mode
 
@@ -85,6 +93,14 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 ****Step 3:**** When you let go of the “Power” button, press and hold the “Volume Down” button. After that, a “Safe Mode” label will appear in your screen’s lower-left corner.
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn Off Developer Options
 
@@ -114,9 +130,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
@@ -126,8 +139,9 @@ Resetting your device to its factory settings will return it to its state when y
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -142,11 +156,12 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** Connect your Infinix Note 30 Pro or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
@@ -216,13 +231,15 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Infinix Note 30 Pro 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
-
-
 
 ## How To Unbrick a Dead Infinix Note 30 Pro
 
@@ -265,9 +282,6 @@ Installing unofficial custom software, such as custom recoveries or third-party 
 
 The presence of malicious software can cause significant disruptions to the Infinix Note 30 Pro device's functioning. It can lead to bricking if left unchecked.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![oneplus 8t out the box](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-oneplus-device-02.jpg)
 
 ## Part 2. How To Unbrick One Plus Device Using Various Methods
@@ -280,9 +294,6 @@ Restoring using Recovery Mode can solve most problems that cannot be solved with
 
 - **Step 1**: Turn off your Infinix Note 30 Pro device. Press and hold the Power button and Volume Down until the Infinix Note 30 Pro logo is displayed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![oneplus recovery mode access](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-oneplus-device-03.jpg)
 
 - **Step 2**: Move through the menu using the Volume Up and Volume Down buttons until you reach **Recovery Mode**. Press the Power button to choose it.
@@ -322,6 +333,10 @@ Maintaining the longevity of your Infinix Note 30 Pro device requires adopting p
 Dr.Fone - Screen Unlock (Android) is powerful software designed to unlock Infinix Note 30 Pro devices quickly. This tool is compatible with various Infinix Note 30 Pro models, including the Infinix Note 30 Pro 6, Infinix Note 30 Pro, and Infinix Note 30 Pro 10 Pro, ensuring a wide support reach.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -390,6 +405,10 @@ Before we proceed and discuss different ways on how to update Play Store after u
 
 If your device is giving the insufficient storage warning, then you need to start by clearing your phone’s data. It is observed that the Google Play Service accumulates most of the data in a device. This leads to users looking for different ways to how to uninstall Google Play Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: What will it affect to uninstall Google Play Service?
 
 If you think that Google Play Service only provides a platform to download new apps, then you are wrong. It provides several other functions that might alter the way you use your smartphone. It is linked with other essential Google services as well, like Google Maps, Gmail, Google Music, etc. After uninstalling the Google Play Service, you might face trouble using various essential apps.
@@ -404,8 +423,11 @@ To disable the Google Play Services, just go to your phone’s Settings > Applic
 
 ![uninstall google play services-open Google Play Services](https://images.wondershare.com/drfone/article/2017/06/14981537155144.jpg)
 
-Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+Now when you know how to uninstall Google Play Store on your device, you can easily customize it. Get rid of any kind of problem you are facing due to lack of storage or battery issues related to Google Play services after following these instructions. Feel free to drop a comment below if you face any setback while following this tutorial.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -419,9 +441,26 @@ Now when you know how to uninstall Google Play Store on your device, you can eas
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dissecting-biggest-fifa-footage-trends-in-graphs/"><u>[Updated] In 2024, Dissecting Biggest FIFA Footage Trends in Graphs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-professional-video-intros-no-cost-for-2024/"><u>[Updated] Professional Video Intros, No Cost for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-best-collection-sites-for-quick-access-to-youtube-vids/"><u>2024 Approved Best Collection Sites for Quick Access to YouTube Vids</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-channel-buying-made-simple-a-beginners-toolkit/"><u>2024 Approved Channel Buying Made Simple A Beginner’s Toolkit</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-guidelines-to-affirm-your-youtube-status/"><u>2024 Approved Guidelines to Affirm Your YouTube Status</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-end-webcams-the-perfect-match-for-zoom-engagement/"><u>2024 Approved High-End Webcams The Perfect Match for Zoom Engagement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-insider-guide-for-seamless-video-sharing-on-instagram-tv/"><u>2024 Approved The Insider Guide for Seamless Video Sharing on Instagram TV</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-itel-p40-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Itel P40 FRP Bypass Instantly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-y36i-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo Y36i Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-a15-5g-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy A15 5G Phone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-v27-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V27 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-x100-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo X100 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-zero-5g-2023-turbo-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix Zero 5G 2023 Turbo? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-v29e-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V29e Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-14-proipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 14 Pro/iPad? Solved | Dr.fone</u></a></li>
+</ul></div>
 

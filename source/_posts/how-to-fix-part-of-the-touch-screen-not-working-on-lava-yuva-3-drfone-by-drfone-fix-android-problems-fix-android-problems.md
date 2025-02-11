@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Yuva 3 | Dr.fone
-date: 2024-07-14T05:43:12.542Z
-updated: 2024-07-15T05:43:12.542Z
+date: 2025-02-03T17:57:00.461Z
+updated: 2025-02-10T20:23:51.949Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ You probably touch the screen of your phone hundreds of times per day. It’s no
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Is Part of My Screen Not Working
 
 There are two possible causes as to why your phone’s touch screen is not working. One is the touch screen may have been damaged, and the other is the Lava Yuva 3 device may be experiencing technical difficulties.
@@ -105,6 +102,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
 ### Reset Device to Factory Settings
@@ -137,10 +138,11 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** Connect your Lava Yuva 3 or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
@@ -196,6 +198,10 @@ Dr.Fone – System Repair is a data management and recovery tool that contains s
 - A high success rate for fixing Android system issues
 - Fixes Android system back to normal
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pros
 
 Here are the advantages of using Dr.Fone – System Repair:
@@ -219,8 +225,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Lava Yuva 3 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## [Solved] Warning: Camera Failed on Lava Yuva 3
 
 In this article, you will learn why camera fails on Lava Yuva 3 devices, how to make camera work again, as well as a system repair tool to fix this issue in few clicks.
@@ -239,6 +243,10 @@ We are all aware that no device runs smoothly, without any glitches. We also kno
 
 ![camera failed](https://images.wondershare.com/drfone/article/2017/07/14997493927963.jpg "camera failed")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. If you have recently updated your OS version, there are chances that certain bugs are preventing the camera App from functioning normally. Also, if the update is interrupted and not downloaded completely, certain apps may suffer.
 2. There are chances of your internal storage being cluttered with unwanted Apps and files leaving no space for the camera App to save its data and work smoothly.
 3. If you haven't cleared camera Cache and Data, the chances of the App to get clogged up increase tremendously which disrupt its working.
@@ -250,8 +258,6 @@ There might be much more reasons for the camera failed error, but these are the 
 ## Part 2: How to fix Lava Yuva 3 Camera Failed in One Click?
 
 If you are experiencing some kind of issues in your Lava Yuva 3s such as Lava Yuva 3 camera failed, the Lava Yuva 3 device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Lava Yuva 3 devices and perform a complete system repair so the Lava Yuva 3 device starts working normally.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -274,10 +280,11 @@ One-click solution to fix camera failed on Lava Yuva 3 devices
 
 **Step 2.** You will have to provide the Lava Yuva 3 device details accurately to ensure that the software provides a precise firmware package to be downloaded. Enter brand, name, model, country, and carrier of your device and agree to the terms and condition.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the details of samsung device](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**. Now put your device in the download mode. The software will provide you with a guide to put the phone in download mode to begin the downloading process.
 
@@ -359,11 +366,12 @@ Resetting the camera settings solves the problem 9 out of 10 times and thus is w
 
 ![camera settings](https://images.wondershare.com/drfone/article/2017/07/14997069036741.jpeg "camera settings")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Now look for “Reset Settings” options and click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset settings](https://images.wondershare.com/drfone/article/2017/07/14997069347307.jpg "reset settings")
 
 Once done, go back to the Home Screen and start the camera App again to use it.
@@ -497,6 +505,10 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
     ![start the android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Select the make and model of your phone so that Dr.Fone can find the appropriate Android software.
 
     ![choose the phone model](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -515,6 +527,10 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7. Clear Cache
 
 The easiest and the most obvious fix for many Android apps is clearing the app’s cache. Here’s how you can do that for Google Play Services and Google Play Store:
@@ -529,8 +545,9 @@ The easiest and the most obvious fix for many Android apps is clearing the app�
 If this doesn’t work, move on to another possible fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 8. Check Date and Time Settings
 
 Oddly enough, the Google Play Services app is prone to failure because of an incorrectly set time or date. That’s because Google’s servers constantly check these settings before issuing updates to the Lava Yuva 3 devices, so you’ll need to ensure they’re correct beforehand. Here’s how:
@@ -560,12 +577,15 @@ Once inside Permission Settings, check whether the Google Play Services and Play
 
 **4,953,228** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Although it’s an incredibly frustrating error, the “Unfortunately, Google Play Services has stopped” message is more annoying than serious. We’ve explained why it happens, but we’ve also given you a list of solutions to fix it.
 
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -579,9 +599,22 @@ Our list includes various fixes, from simple ones, like deleting the app’s cac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-gold-standard-camcorders-12-models-boasting-gps-functionality/"><u>2024 Approved Gold Standard Camcorders 12 Models Boasting GPS Functionality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fullscreen-windows-missing-on-my-monitor-why/"><u>Fullscreen Windows Missing on My Monitor, Why?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-hangouts-uncovered-a-comprehensive-guide-to-its-uses/"><u>Google Hangouts Uncovered: A Comprehensive Guide to Its Uses</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-control-network-visibility-for-windows-10-users-on-and-off-techniques/"><u>How to Control Network Visibility for Windows 10 Users: On and Off Techniques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-f23-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo F23 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-empowering-your-brand-top-20-strategies-for-high-impact-fb-video-campaigns/"><u>In 2024, Empowering Your Brand Top 20 Strategies for High-Impact FB Video Campaigns</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-k11-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo K11 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-t2-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo T2 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-magic-6-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor Magic 6? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-tecno-camon-20-pro-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Camon 20 Pro 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-gt-neo-5-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme GT Neo 5 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-s23-tactical-edition-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy S23 Tactical Edition Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-research-meet-perplexity-ai-the-ai-tool-revolutionizing-your-google-searches/"><u>Transforming Research? Meet Perplexity AI - The AI Tool Revolutionizing Your Google Searches</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A05s | Dr.fone
-date: 2024-07-14T05:44:57.955Z
-updated: 2024-07-15T05:44:57.955Z
+date: 2025-02-07T22:27:53.150Z
+updated: 2025-02-10T23:57:50.373Z
 tags: 
   - problems
 categories:
@@ -32,6 +32,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - Samsung Galaxy A05s ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
 You may experience a variety of touch screens not working on Android issues:
@@ -52,9 +56,6 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - If there is a sticker on the Samsung Galaxy A05s device screen, you must remove it.
 - Before continuing, make sure your screen is spotless.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Samsung Galaxy A05s device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Samsung Galaxy A05s’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
@@ -107,6 +108,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -124,6 +129,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
@@ -222,6 +231,10 @@ Are you encountering the "your connection is not private" issue on your phone? W
 
 Usually, you can just reload the page to fix the error. But in case it doesn't help, you may need to look for more advanced solutions. In the following discussion, we will delve into why this **"your connection is not private" on Android** happens and explore solutions that work for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Addressing Your Connection Is Not Private on Android
 
 First of all, what does **"your connection is not private" on Android** mean? To answer this question, it's essential to understand that this error is often associated with Secure Socket Layer (SSL) protocol issues.
@@ -231,6 +244,10 @@ SSL is a cryptographic protocol created to establish a secure communication chan
 The error message appears when there's a problem with the SSL/TLS (Transport Layer Security) certificate of the website you are trying to access. This certificate is a digital document that authenticates the website and encrypts the data transmitted between the user's device and the server.
 
 ![Your connection is not private error on Android.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Some common factors that could trigger the **"your connection is not private" on Chrome Android error**:
 
@@ -250,9 +267,6 @@ So, the error serves as a warning to users, indicating that the connection may n
 
 Browsers, including those on Android devices, prioritize user safety and privacy. They will block access to potentially compromised websites to prevent data theft or unauthorized access. That's why when you get the "your connection is not private" message on Android, you can't access the website.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: What The Error Codes in "Your Connection Is Not Private" Mean
 
 When **"your connection is not private" on Chrome Android error** shows up, it often comes along with specific error codes that can indicate the root cause of the issue. Understanding these error codes is crucial for troubleshooting and resolving the problem effectively.
@@ -305,9 +319,6 @@ How to perform system repair with Dr.Fone:
 
 Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox section and connect your Samsung Galaxy A05s. Choose System Repair and pick Android as your device type.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Dr.Fone System Repair tool.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
@@ -336,9 +347,6 @@ Follow the instructions to put your Samsung Galaxy A05s into Download Mode. Once
 
 Remember, the repair may erase data. It's advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Confirm the repair process.](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 When done, click Done if your Android starts properly. If not, click Try Again to repeat the process.
@@ -375,8 +383,6 @@ When you see the error message, it often comes with specific codes that indicate
 
 By prioritizing user safety and following the step-by-step approach in this guide, you can navigate and resolve this common internet browsing challenge on your Samsung Galaxy A05ss.
 
-
-
 ## Samsung Galaxy A05s Not Receiving Texts? 10 Hassle-Free Solutions Here
 
 If you are using an Samsung Galaxy A05s, you might have encountered the issue of not receiving texts. This issue can be quite frustrating, as it prevents you from staying connected with your friends and family. However, there are several ways to fix this issue and get your texts back up and running. In this article, we will show you some of the best solutions to fix the issue of not receiving texts on Samsung Galaxy A05s.
@@ -386,7 +392,6 @@ It is very common that the Android messaging app is not working on many devices 
 You might find lots of people online stating I can't receive text messages on Android. And usually, people don’t find a legit solution for this issue. If you are also experiencing this sort of issue on your Samsung Galaxy A05ss, then don’t panic. We have a series of methods that can supposedly fix the problem. But at first, we will learn what the main reasons this problem arises are and how do you know that it is consistent not some random error.
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
-
 
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
@@ -416,8 +421,6 @@ If you are not willing to waste your precious time fixing the message problem, t
 
 You surely need to try the software as it can perform the following tasks:
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Android Not Receiving Texts
@@ -438,9 +441,6 @@ Step 1: Launch the application and choose the System Repair option from the main
 
 Step 2: You will have to provide information about your device, including the brand, name, model, country, and carrier. In between, you will be notified that your device repair might erase the existing data of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android not receiving texts - provide info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step 3: Agree with the conditions and hit the Next button. The software will download the firmware package automatically. It might take a while to finish the download, and when it is finished, the repair process will be initiated automatically.
@@ -448,6 +448,10 @@ Step 3: Agree with the conditions and hit the Next button. The software will dow
 ![android not receiving texts - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
 It won’t take long, and your Samsung Galaxy A05s will be repaired. Now you will be able to receive and send text messages without any hassle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Remove and Insert the SIM
 
@@ -489,13 +493,25 @@ Step 1: Open the messages app and open settings. Look for an option that says �
 
 ![android not receiving texts - free up space](https://images.wondershare.com/drfone/article/2019/02/manage-SIM-card-messages.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: There, you will see the existing messages on the SIM. You can either delete all the messages or perform a selective deletion to free up space.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 8: Try a Third-party Messaging App
 
 If you can’t receive messages on your default app, then you can try installing a third-party messaging app. Nowadays, most people use social media messaging apps like WhatsApp, Skype, etc. for messaging. So, if somehow, the Android is not receiving texts, then the new apps can help you to send and receive messages with a non-native network.
 
 _Further Reading: [15 Best Free Chat Apps in 2022. Chat Now!](https://drfone.wondershare.com/topsoftware/best-free-chat-apps.html) _
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 9: Ensure your Phone is Fully Charged
 
@@ -515,10 +531,13 @@ If the FaceTime option is also on, you might have to deactivate that too to send
 
 Updating the operating system to the latest Android version can fix some system errors which may cause the "Android not receiving texts" issue because the latest version always brings a better user experience and fix the know bugs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Now you know several methods that can work if the Android messaging app is not working.  If you experience this kind of issue with your Samsung Galaxy A05s, then you are most likely to resolve them with these fixes. If none of the solutions seem to fix the issue, then you can take the help of Dr. Fone - System Repair (Android) feature. With this tool, you can resolve all kinds of working issues on your device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -532,9 +551,26 @@ Now you know several methods that can work if the Android messaging app is not w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-smiles-and-snickers-7-hilarious-video-concepts-for-content-creators/"><u>[New] 2024 Approved Smiles & Snickers 7 Hilarious Video Concepts for Content Creators</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-struggle-to-success-a-collection-of-best-practices-for-fb-profiles/"><u>[Updated] From Struggle to Success A Collection of Best Practices for FB Profiles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-maximizing-impact-making-an-engaging-podcast-trailer-for-2024/"><u>[Updated] Maximizing Impact Making an Engaging Podcast Trailer for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-real-time-engagement-strategies-for-online-streamers-for-2024/"><u>[Updated] Real-Time Engagement Strategies for Online Streamers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-vlog-with-verve-following-in-the-footsteps-of-video-experts/"><u>[Updated] Vlog with Verve Following in the Footsteps of Video Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-seamless-switching-between-screens-with-chromes-pip/"><u>2024 Approved Seamless Switching Between Screens with Chrome's PIP</u></a></li>
+<li><a href="https://article-posts.techidaily.com/comparing-the-best-gopro-max-360-vs-hero-11/"><u>Comparing the Best GoPro Max 360 VS Hero 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-g24-power-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola G24 Power Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-samsungs-latest-entry-into-gaming-peripherals-the-inaugural-gamepad-reviewed-on-zdnet/"><u>Introducing Samsung's Latest Entry Into Gaming Peripherals: The Inaugural Gamepad Reviewed on ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c110-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C110 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-red-magic-9-proplus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Red Magic 9 Pro+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-open-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Open Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-x100-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo X100 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-when-your-discord-video-call-lacks-sound-during-screen-share/"><u>Quick Fixes for When Your Discord Video Call Lacks Sound During Screen Share</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a05-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A05 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unraveling-the-art-of-screencasts-a-step-by-step-approach-for-2024/"><u>Unraveling the Art of Screencasts A Step-by-Step Approach for 2024</u></a></li>
+</ul></div>
 

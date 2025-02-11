@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Motorola Moto G13 ? Fix It Easily | Dr.fone
-date: 2025-01-23T22:25:52.889Z
-updated: 2025-01-29T19:17:32.771Z
+date: 2025-02-05T22:21:55.225Z
+updated: 2025-02-11T01:37:20.606Z
 tags: 
   - problems
 categories:
@@ -37,7 +37,7 @@ Step 2: Next, you need to hold down the Power and the Volume Key. You should abl
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
@@ -77,17 +77,21 @@ Once installed on your computer, open onto the main menu and connect your Motoro
 
 ![fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #2** Select the 'Android Repair' option from the next screen.
 
 ![get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Insert your device information, including the brand, carrier details, model and country and region you're in to ensure you're downloading the correct firmware.
 
 ![select items to correctly fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #3** Follow the onscreen instructions on how to put your device in Download Mode.
 
@@ -155,6 +159,10 @@ In this article, you’ll explore practical methods on **h ow to take a virus of
 
 ![phone with virus logo](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why You Get Mobile Viruses in the First Place
 
 Mobile viruses are tiny bugs that sneak into your phone and mess things up. They’re sneaky software programs designed to cause trouble, like stealing your info or making your phone act strange. Pesky viruses are usually acquired by accessing unverified links and downloading sketchy files. This is why it’s essential to be careful about what you access on the internet. It’s also a great habit to beware of the computers you’re connecting your phone to.
@@ -162,10 +170,6 @@ Mobile viruses are tiny bugs that sneak into your phone and mess things up. They
 You might notice weird things happening on your phone when infected with a virus. It may suddenly slow down, show pop-ups you didn’t click, or [run out of battery super-fast](https://drfone.wondershare.com/device-diagnostics/run-phone-batery-test-on-xiaomi.html). These could be signs that your phone has a virus. Take note of these.
 
 ![hacker with virus tools](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here are some common ways viruses get into your phone:
 
@@ -190,6 +194,10 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![dr.fone homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **3,391,426** people have downloaded it
@@ -197,10 +205,6 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 - **Step 2:** Choose either **Android** or **iPhone**. In this example, iPhone shall be selected. For Android devices, simply follow and mirror the prompts that will follow.
 
 ![system repair os options](https://images.wondershare.com/drfone/guide/system-repair-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3:** Select **iOS Repair** to proceed.
 
@@ -225,10 +229,6 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 - **Step 8:** Once the process is completed, choose **Done.** Your phone should be virus-free by now.
 
 ![repair complete](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Using Safe Mode
 
@@ -259,10 +259,6 @@ Anti-virus software works like a shield, protecting your phone from sneaky virus
 - Norton 360: Online Security
 - Bitdefender Mobile Security & Anti-virus
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4: Performing a Factory Reset
 
 A [Factory Reset](https://drfone.wondershare.com/factory-reset-protection/bypass-factory-reset-on-android.html) is like a phone makeover—it wipes everything and starts fresh. But be cautious, as it erases all data!
@@ -271,11 +267,19 @@ Generally, the Factory Reset option should be in **Settings > General & Backup a
 
 ![miui factory reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 IOS devices should be under **Settings > General > Transfer or Reset iPhone**.
 
 ![ios transfer or reset](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-14.jpg)
 
 Remember, each method has its strengths and weaknesses. Dr.Fone is quick and effective, Safe Mode is limited but useful, anti-virus apps can protect, and a Factory Reset gives a clean slate. Try these methods to zap those viruses away!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Handy Prevention Tips To Avoid Future Infections
 
@@ -301,7 +305,7 @@ All of you, sooner or later, must have found the “Unfortunately Settings has s
 ![unfortunately settings has stopped](https://images.wondershare.com/drfone/article/2022/04/fix-unfortunately-settings-has-stopped.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Well! There can be a number of reasons why this thing happens. For instance, custom ROM installations, not enough space in the Motorola Moto G13 device or perhaps an outdated version of Android. If you are struggling with the same issue and want to know what to do when Android Settings is not responding, this post will help you. We have explained everything in detail along with the solutions. So, scroll down and get things sorted.
@@ -335,10 +339,6 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
 2. Now, swipe the apps and tap on the clear option. You will be able to notice the amount of RAM cleared
 
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Uninstall the Google update
 
@@ -393,7 +393,7 @@ Now, you need to take your device into Download mode. For this, you need to foll
 ![Android settings not responding - download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 5: Repair the Issue
@@ -416,10 +416,6 @@ Like RAM, wiping cache is also vital so as to make the Motorola Moto G13 device�
 
 ![Android settings not responding - cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: Factory reset your Android
 
 You can also opt for Factory resetting your device to fix the issue of Settings keeps stopping. By removing everything from the Motorola Moto G13 device, it will make your device run properly. If you have important data on your device, please make sure to [create a backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before taking action if you don’t want to lose it. The steps are as follows.
@@ -439,6 +435,10 @@ A lot of times minor issues crop up due to the operating systems that get outdat
 3. If there is any, go along with the prompts to install it and make your phone even smarter.
 
 ![Android settings not responding - update android firmware](https://images.wondershare.com/drfone/article/2019/04/update-samsung.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -462,18 +462,22 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-enhancing-sound-flow-with-premier-pro/"><u>[New] 2024 Approved Enhancing Sound Flow with Premier Pro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-essential-tips-installing-apple-podcasts-app-successfully/"><u>[New] In 2024, Essential Tips Installing Apple Podcasts App Successfully</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-youtube-on-fb-maximizing-auto-play-efficiency-for-2024/"><u>[Updated] YouTube on FB Maximizing Auto-Play Efficiency for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-6s-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 6s How to Bypass?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-phantom-v-fold-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Phantom V Fold Safely | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-csv-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in .csv files</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-moto-g13-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Moto G13 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/king-of-construction-showdown-thieye-t5-or-sjcam-s6-in-2024/"><u>King of Construction Showdown Thieye T5 or SJCAM S6, In 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-audio-enabled-mac-video-recorder/"><u>[New] In 2024, Audio-Enabled Mac Video Recorder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-youtubes-economic-strategy-the-rise-of-short-videos/"><u>[New] In 2024, Decoding YouTube’s Economic Strategy The Rise of Short Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-essential-tactics-from-visual-to-audio-media/"><u>[New] In 2024, Essential Tactics From Visual to Audio Media</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-blueprint-for-capturing-compelling-powerpoint-presentations/"><u>[New] The Blueprint for Capturing Compelling PowerPoint Presentations</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-xiaomi-13t-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi 13T Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-best-thunderbolt-drivers-tailored-for-your-windows-pc-today/"><u>Download the Best Thunderbolt Drivers Tailored for Your Windows PC Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-ultimate-creators-setup-at-half-price-dramatic-1100-discount-on-high-performance-computers-for-gamers-and-producers-spotted-first-on-zdnet/"><u>Get the Ultimate Creator's Setup at Half Price! Dramatic $1,100 Discount on High-Performance Computers for Gamers and Producers – Spotted First on ZDNet.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-comprehensive-guide-to-digital-subtitle-enhancing-platforms/"><u>In 2024, The Comprehensive Guide to Digital Subtitle Enhancing Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-gamified-views-selecting-the-best-webcams-for-players-for-2024/"><u>Mastering Gamified Views Selecting the Best Webcams for Players for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-itel-a60s-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Itel A60s – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-asus-rog-phone-7-ultimate-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Asus ROG Phone 7 Ultimate? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-13c-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi 13C 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-nokia-c02-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nokia C02 ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor Magic Vs 2 ? Fix It Easily | Dr.fone
-date: 2025-01-28T21:53:03.170Z
-updated: 2025-01-29T23:42:50.644Z
+date: 2025-02-10T01:55:02.968Z
+updated: 2025-02-10T17:03:04.760Z
 tags: 
   - problems
 categories:
@@ -32,9 +32,17 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
 
@@ -47,10 +55,6 @@ Step 4: The white Google logo will appear immediately followed by the Android lo
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-05.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
@@ -81,6 +85,10 @@ Once installed on your computer, open onto the main menu and connect your Honor 
 
 ![get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Insert your device information, including the brand, carrier details, model and country and region you're in to ensure you're downloading the correct firmware.
 
 ![select items to correctly fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -91,19 +99,11 @@ Your device should already be in this mode but follow the instructions to make s
 
 ![fix Android stuck at System recovery in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step #4** The firmware will now start downloading. You'll be able to track this process in the window.
 
 Ensure your device, and your computer stays connected the entire time, and make sure your internet connection remains stable.
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
@@ -151,6 +151,10 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Solutions to Fix Error Code 963 on Google Play Of Honor Magic Vs 2
 
 People are increasingly complaining about Google Play Error Codes which pop-up during downloading, installing or updating an App via Google Play Store. Amongst these, the most recent and common one being Error Code 963.
@@ -162,10 +166,6 @@ Error 963 cannot be attributed to a particular App or its update. It is a Google
 Error Code 963, just like any other Google Play Store errors, is not something difficult to deal with. It's a minor glitch which can be fixed easily. There is no need to worry or panic if you see Error 963 on Google Play Store preventing your favorite App from downloading or updating.
 
 Read on to find out more about the Google Play Error 963 and best ways to fix it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What is Error Code 963?
 
@@ -184,7 +184,7 @@ Error Code 963 is basically an outcome of data crash which mostly is seen in che
 All these reasons and more can handle with ease and you can continue to use Google play services smoothly. In the following segment, we will discuss various fixes to cure the problem to enable to you download, install and update Apps on your device normally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Easiest solution to fix _Error Code 963_ on Android
@@ -216,13 +216,13 @@ Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ a
 
 ![select the android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3 – On the following screen, you need to choose the appropriate details for your device like the name, brand, model, country/region etc. Later, go for warning confirmation and hit ‘Next’.
 
 ![device references selected](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Phase 2: Taking Android device in Download mode for repairing**
 
@@ -248,21 +248,17 @@ Step 3 – Upon successful downloading and verification of the firmware, the pro
 
 ![start the fixing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4 – Within a while, the Google play error 963 will be vanished.
 
 ![make the fix google play error 963 disappear on android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: 6 Common Solutions to fix Error Code 963
 
 ![fix Error Code 963](https://images.wondershare.com/drfone/article/2017/06/14984132296365.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Since there is no specific reason for Error Code 963 to occur, similarly there is no one solution to the problem. You may use any one of them below or try them all to never see Error Code 963 on your device.
 
@@ -314,6 +310,10 @@ Now click on “Move to Phone” or “Move to internal storage” and try to do
 
 ![“Move to internal storage”](https://images.wondershare.com/drfone/article/2017/06/14984137603366.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Try updating the App now. If the Apps’s update does not download even now, DO NOT worry. There are three more ways to help you.
 
 #### **4\. Unmount your external Memory Card**
@@ -329,6 +329,10 @@ Now select “Storage”.
 From the options that appear, select “Unmount SD Card” as explained in the screenshot below.
 
 ![select “Unmount SD Card”](https://images.wondershare.com/drfone/article/2017/06/14984574238529.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note: If the App or its update downloads successfully now, do not forget to mount the SD Card back.
 
@@ -433,6 +437,10 @@ It is important to add in all the necessary information for successful execution
 
 ![play store stuck on downloading - fill in info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Ensure to Download Firmware**
 
 Now, follow the on the on-screen prompts to boot Android phone into the download mode. Once done, you’re ready to download the suitable firmware package by hitting the “Next”.
@@ -446,10 +454,6 @@ Fret not, the program will automatically detect the most suitable firmware for y
 After the package downloads, program will repair all kinds of problems surfacing over your phone automatically. This way, the **_Play store stuck on downloading_** will get resolved fully.
 
 ![get to repair android to fix play store download pending](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.4 Clear data and cache of Play Store and download again
 
@@ -478,10 +482,6 @@ When was the last time you cared to update your Play store app? Generally, users
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3.7 Avoid downloading large apps
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
@@ -500,18 +500,20 @@ Last but certainly not the least, users must avoid downloading large application
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-green-screen-glossary-for-novice-visual-effect-enthusiasts/"><u>[Updated] Green Screen Glossary for Novice Visual Effect Enthusiasts</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/overcoming-hurdles-in-entrepreneurship-cutting-edge-technology-adoption-by-smes-as-featured-on-zdnet/"><u>Overcoming Hurdles in Entrepreneurship: Cutting-Edge Technology Adoption by SMEs as Featured on ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overreliance-on-algorithms-in-patient-care-might-lead-to-wrong-treatment/"><u>Overreliance on Algorithms in Patient Care Might Lead to Wrong Treatment</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oneplus-nord-3-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My OnePlus Nord 3 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-z-flip-5-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy Z Flip 5 Black and White | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-htc-u23-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix HTC U23 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-poco-x5-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Poco X5 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-path-to-verified-badge-on-x-platform-insider-tips-and-tricks/"><u>The Path to Verified Badge on X Platform: Insider Tips and Tricks</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/transform-paperwork-into-digital-files-with-your-iphone-discover-the-magic-of-finereaders-ocr-technology/"><u>Transform Paperwork Into Digital Files with Your iPhone - Discover the Magic of FineReader's OCR Technology!</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-motorola-edgeplus-2023-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-avs-audio-editor-product-details-key-features-reviews-and-alternatives/"><u>Updated 2024 Approved AVS Audio Editor Product Details, Key Features, Reviews & Alternatives</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-how-to-turn-your-smartphone-into-a-virtual-reality-vr-headset/"><u>[New] 2024 Approved How to Turn Your Smartphone Into a Virtual Reality (VR) Headset</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-use-vlc-for-professional-screen-recording/"><u>[Updated] 2024 Approved How to Use VLC for Professional Screen Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-guide-to-selecting-excellent-spotify-recorders/"><u>[Updated] In 2024, Ultimate Guide to Selecting Excellent Spotify Recorders</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-lava-blaze-2-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lava Blaze 2 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-13-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-perk-dji-miniair-2-owners-get-20-free-luts/"><u>In 2024, Exclusive Perk DJI Mini/Air 2 Owners Get 20 Free LUTS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-hidden-highlight-harvester/"><u>In 2024, Hidden Highlight Harvester</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-the-world-of-toms-hardware-latest-reviews-and-insights/"><u>Inside the World of Tom's Hardware: Latest Reviews & Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-ai-ethics-conduct/"><u>Mastering the Art of AI Ethics Conduct</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-lava-agni-2-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Lava Agni 2 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-xcover-6-pro-tactical-edition-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy XCover 6 Pro Tactical Edition Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

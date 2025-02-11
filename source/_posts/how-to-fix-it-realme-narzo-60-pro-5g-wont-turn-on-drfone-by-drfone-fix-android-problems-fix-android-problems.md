@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Realme Narzo 60 Pro 5G Wont Turn On | Dr.fone
-date: 2024-07-14T05:40:17.180Z
-updated: 2024-07-15T05:40:17.180Z
+date: 2025-02-09T21:37:17.957Z
+updated: 2025-02-11T02:00:48.211Z
 tags: 
   - problems
 categories:
@@ -34,8 +34,6 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
-
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
@@ -53,9 +51,6 @@ If your Realme Narzo 60 Pro 5G won’t turn on, here is how you can use the soft
 
 On your desktop computer or laptop, open Wondershare Dr.Fone. Click on Data Recovery on the left column. Connect your Realme Narzo 60 Pro 5G to the computer using a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-device-01.jpg)
 
 **Step 2: Decide which file types to recover**
@@ -100,7 +95,9 @@ After repeated attempts, when your Android mobile/tablet stops buzzing, what opt
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -136,9 +133,6 @@ Step 1: You need to put your Realme Narzo 60 Pro 5G in Download mode for resolvi
 
 - For the Realme Narzo 60 Pro 5G device having ‘Home’ button, you got to switch it off and press ‘Volume Down’, ‘Home’, and ‘Power’ keys for 5-10 seconds at once. Let them go and click on the ‘Volume Up’ button to put your phone in ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![fix Android Phone not turn on with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 - For ‘Home’ button-less device, turn the phone/tablet down first. For 5 – 10 seconds, hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons. Tap on the ‘Volume Up’ button to get into the ‘Download’ mode, after releasing the 3 buttons.
@@ -151,9 +145,6 @@ Step 2: Hitting the ‘Next’ key will allow you to download firmware and proce
 
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 4: Android Phone Won't Turn On: **Common Fix**
@@ -185,6 +176,10 @@ There are several reasons as to why your Realme Narzo 60 Pro 5G won’t turn on.
 - Make sure you update your operating system, software and apps to make sure you have the latest version – the developer may have fixed the bugs that have caused problems on Android phones.
 
 It is important to note that your phone contains some important data. Therefore, when your Realme Narzo 60 Pro 5G won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do if Google Play Services Keeps Stopping on Realme Narzo 60 Pro 5G
 
@@ -243,6 +238,10 @@ As keeping your phone’s system and apps updated to the latest possible version
 - **Step 3**: If there’s an update available, click it and go through the process of updating your phone’s system.
 
 Restarting your phone after an update, even if it doesn’t restart itself, is highly advisable, ensuring that the new updates apply without issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. Revert to the Previous Version
 
@@ -305,6 +304,10 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
     ![confirm android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
 
 ### 7. Clear Cache
@@ -328,6 +331,10 @@ Oddly enough, the Google Play Services app is prone to failure because of an inc
 - **Step 2**: Ensure that both “**_Use network–provided time_**” and “**_Use network-provided time zone_**” are toggled on.
 
     ![check date and time settings](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: If this doesn’t work, you can try repeating the process and manually setting the time and the time zone.
 
@@ -355,7 +362,9 @@ Although it’s an incredibly frustrating error, the “Unfortunately, Google Pl
 
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Is My Realme Narzo 60 Pro 5G Offline? Troubleshooting Guide
 
@@ -405,6 +414,10 @@ Switching to mobile data can be a quick fix if your Wi-Fi is acting up. It ensur
 
 ![Change connection to mobile data](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2: On and off Airplane mode
 
 [<u>Airplane Mode</u>](https://drfone.wondershare.com/fake-location/airplane-mode-turn-off-gps-location.html) can sometimes cause connectivity confusion. Turning it off and on essentially resets your phone's wireless connections, which might resolve the offline issue.
@@ -450,8 +463,9 @@ Ever found it odd to receive the frustrating offline error message when you're s
 In this part, we'll answer the question “**Why does My Realme Narzo 60 Pro 5G say offline android?**” despite a seemingly functional internet connection. Then, let's see other solutions on how to get your device back to its online, fully functional self.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 1: Clear Google Chrome’s cache and data
 
 Sometimes, the answer to “**Why is my Android phone offline**” can be attributed to a buildup of corrupted or outdated data in your browser's cache. Clearing the cache and data for Google Chrome can resolve this issue, allowing for a fresh start and potentially eliminating the offline status.
@@ -479,6 +493,10 @@ How to re-install Google Chrome:
 - **Step 4:** Once the installation is complete, open Google Chrome and check if the offline error persists while browsing.
 
 ![Re-install Google Chrome on Google Play Store](https://images.wondershare.com/drfone/article/2023/12/why-is-my-phone-offline-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Repair the system to fix the phone showing offline
 
@@ -508,10 +526,11 @@ Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox secti
 
 Click Start on the new screen to kick off the repair. Since you're dealing with an offline connection issue on Android, select System Damage.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select the problem and begin the repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Confirm your device details
 
@@ -537,7 +556,6 @@ Dealing with the "Phone Offline" hiccup on your Realme Narzo 60 Pro 5G can be a 
 
 Remember, technology can sometimes be tricky. But with patience and the right guidance, you can overcome these challenges.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -550,9 +568,22 @@ Remember, technology can sometimes be tricky. But with patience and the right gu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-converting-zip-files-into-srt-subtitle-format-quickly/"><u>[New] Converting ZIP Files Into SRT Subtitle Format Quickly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-enhance-web-presentations-top-12-html5-video-platforms/"><u>[Updated] 2024 Approved Enhance Web Presentations Top 12 HTML5 Video Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prestigious-zooids-introduction-spotlight/"><u>2024 Approved Prestigious Zooids Introduction Spotlight</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unveiling-top-8-premium-marriage-videos-on-video-platforms/"><u>2024 Approved Unveiling Top 8 Premium Marriage Videos on Video Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-and-engage-ifunny-meme-downloads/"><u>Explore & Engage IFunny Meme Downloads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-oppo-a78-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Oppo A78 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-fix-phasmophobia-vr-not-working/"><u>How to Fix Phasmophobia VR Not Working</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-a59-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo A59 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-10c-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 10C to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-poco-x6-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Poco X6? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a78-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A78 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975520533-upgrade-your-viewing-swift-and-straightforward-asus-monitor-driver-installation/"><u>Upgrade Your Viewing: Swift and Straightforward ASUS Monitor Driver Installation.</u></a></li>
+</ul></div>
 

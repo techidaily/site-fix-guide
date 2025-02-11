@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Realme 12+ 5G Wont Turn On | Dr.fone
-date: 2024-07-14T05:40:05.855Z
-updated: 2024-07-15T05:40:05.855Z
+date: 2025-02-04T22:37:58.803Z
+updated: 2025-02-10T17:56:32.403Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ Did your Realme 12+ 5G decide to go on vacation and refuses to turn on? If your 
 
 Here, we hope we are able to give you a checklist of reasons behind this issue and the possible steps you can take to rectify it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Common Reasons That Your Realme 12+ 5G Won't Turn On
 
 If you cannot find any reason why your Realme 12+ 5G will not switch on, here are some possible reasons:
@@ -37,11 +34,6 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
@@ -87,9 +79,6 @@ The data recovery tool will guide you on how you can go into your Realme 12+ 5G�
 
 Using the provided USB cable, attach your Realme 12+ 5G to your computer – the data recovery tool should be able to discover your device automatically and scan it for recoverable data.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
@@ -106,7 +95,9 @@ After repeated attempts, when your Android mobile/tablet stops buzzing, what opt
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -135,6 +126,10 @@ Step 2: You will find a range of options, tap on the ‘Android Repair’ one. H
 Step 3: Now, over the Realme 12+ 5G device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
 ![go to SMS to export text messages](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Phase 2: Enter ‘Download’ mode for fixing your Realme 12+ 5G**
 
@@ -186,9 +181,6 @@ There are several reasons as to why your Realme 12+ 5G won’t turn on. The prob
 
 It is important to note that your phone contains some important data. Therefore, when your Realme 12+ 5G won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Play Store Stuck on Downloading Of Realme 12+ 5G? 7 Ways to Resolve
 
 ## Part 1: Symptoms when “Play Store Stuck on Downloading”
@@ -210,18 +202,17 @@ With technology, uncertainties are bound to happen. It becomes quite tricky to a
 
 All the applications, data of one’s device is generally loads directly in phone’s storage or the SD card (if plugged). Hence, it is crucial to check whether your phone storage or SD is not fully occupied. As it can indirectly be the reason why the issue of “**_Play Store download stuck at 99%_**” might occur. Ensure to get rid of any application that you are no longer using. Or, consider deleting any picture, videos or documents that aren’t required by you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.2 Check Wi-Fi or cellular data connection
 
 Sometimes, it’s not your phone that is going all faulty, the root cause might be the internet connection. If the internet is running low or does not seem to be stable, then the **_play store download problem_** may occur. Users must ensure that the Realme 12+ 5G device they are working should have a stable network connection so as to combat the problem. Then, they can try downloading the application and check if the problem is prevalent or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -283,6 +274,10 @@ Did you know the piling up of cache memory can certainly pull off a great deal f
 
 ![clear data to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/clear-cache-data.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.5 Update Play Store to the latest version
 
 When was the last time you cared to update your Play store app? Generally, users overlook the need of updating the application. As, they think that it may not be of any greater importance. But, in reality working in an outdated version can directly impact **_Play Store and cause download problem_**. Follow the below steps to update Play Store to latest version.
@@ -301,8 +296,6 @@ If you’re unable to see a streak of hope and wondering why my **_Play Store is
 ### 3.7 Avoid downloading large apps
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
-
-
 
 ## Realme 12+ 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix
 
@@ -378,13 +371,15 @@ Every wireless device will have its own codes and making sure they’re matched 
 
 When these numbers are matching, if your Android is still not connecting to wifi, you’ll know this wasn’t the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7. Fix Android system issues in one click
 
 If none of the solutions above are working, this could indicate a real problem with the firmware and operating system of your Realme 12+ 5G. Fortunately, a fast solution to get everything working again is to completely repair the software of your phone.
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -422,6 +417,10 @@ Once installed, connect your Realme 12+ 5G to your computer using a USB cable, a
 
 ![wifi not working on android - boot in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Six** Once the software has detected your device in Download Mode, it will automatically begin the repair process. You need to make sure your device stays connected throughout this time, and your computer stays on.
 
 ![wifi not working on android - begin repairing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -430,7 +429,15 @@ The whole process is automatic, so you won’t need to do anything until it’s 
 
 ![wifi not working on android - wifi issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 8. Check the Wi-Fi connectivity on another phone
 
@@ -478,6 +485,10 @@ Here’s how you can do this easily on your Realme 12+ 5G;
 
 ![wifi not working on android - clear partition](https://images.wondershare.com/drfone/article/2019/04/android-reset-partitioncache.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As you continue to use your Realme 12+ 5G, the partition cache will fill up with data your device needs and doesn’t need. However, by clearing your device’s partition cache, you can make clear up some space which should help your device have enough memory to connect to the internet.
 
 1. Turn off your Realme 12+ 5G
@@ -486,6 +497,10 @@ As you continue to use your Realme 12+ 5G, the partition cache will fill up with
 4. When a menu is displayed, use the volume buttons to navigate the menu
 5. Select the Android System Recovery option, followed by Wipe Cache Partition
 6. Restart your device and connect to the internet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 12. Reset factory settings
 
@@ -504,7 +519,6 @@ However, by factory resetting your device, you can start again from the factory 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -517,9 +531,21 @@ However, by factory resetting your device, you can start again from the factory 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-transform-your-channels-look-for-free/"><u>[New] In 2024, Transform Your Channel's Look for Free</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-advanced-techniques-in-logitech-webcam-video-recording/"><u>[Updated] In 2024, Advanced Techniques in Logitech Webcam Video Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-learn-to-switch-up-your-instagram-vocal-branding/"><u>2024 Approved Learn to Switch Up Your Instagram Vocal Branding</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/considering-an-rtx-upgrade-pros-and-cons-for-gamers-and-professionals/"><u>Considering an RTX Upgrade: Pros and Cons for Gamers and Professionals</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-samsung-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Samsung .</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/te-your-video-game-the-best-of-8-mirrorless-cams/"><u>Elevate Your Video Game The Best of 8 Mirrorless Cams</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-fcp-without-spending-practical-guide/"><u>In 2024, FCP Without Spending – Practical Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c67-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C67 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/revamping-online-speech-chromebooks-top-5-voice-alteration-tools-revealed-for-2024/"><u>Revamping Online Speech Chromebook's Top 5 Voice Alteration Tools Revealed for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-aps-guide-to-crafting-exquisite-hdr-photos/"><u>Step-by-Step APS Guide to Crafting Exquisite HDR Photos</u></a></li>
+</ul></div>
 

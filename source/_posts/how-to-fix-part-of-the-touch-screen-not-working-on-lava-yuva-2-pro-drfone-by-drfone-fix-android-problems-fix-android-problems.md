@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Yuva 2 Pro | Dr.fone
-date: 2024-07-14T05:43:11.376Z
-updated: 2024-07-15T05:43:11.376Z
+date: 2025-02-03T21:20:32.222Z
+updated: 2025-02-11T00:35:42.397Z
 tags: 
   - problems
 categories:
@@ -71,6 +71,10 @@ When your touch screen stops working, the first thing you should do is restart y
 ****Step 3:**** Press and hold the “Power” button to restart the Lava Yuva 2 Pro device.
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn On Safe Mode
 
@@ -142,9 +146,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
@@ -202,6 +203,10 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -219,7 +224,6 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 ## Why Your Lava Yuva 2 Pro Screen Might be Unresponsive and How to Fix It
 
 This article aims to provide practical solutions for troubleshooting an **unresponsive Lava Yuva 2 Pro screen**. Whether you're facing a software glitch or hardware damage, this guide will offer useful tips and tricks to help you resolve the issue and get your device back up and running smoothly.
-
 
 ## 5 Solutions to Solve Lava Yuva 2 Pro Screen Unresponsive Issues
 
@@ -250,6 +254,10 @@ If force restarting doesn't work, let the battery drain completely. This can hel
 ### 3\. Check for Software Updates
 
 ![software update of oppo device](https://images.wondershare.com/drfone/article/2023/03/oppo-a3s-touch-not-working-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sometimes, an unresponsive Lava Yuva 2 Pro screen can be caused by outdated software. Checking for software updates ensures your device runs the latest and most stable operating system version.
 
@@ -295,6 +303,10 @@ If none of the above solutions work, it may be time to contact Lava Yuva 2 Pro c
 
 **Step 3. Choose** your preferred method of contact, such as phone or email, and **describe** the issue you're experiencing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Common Causes of Lava Yuva 2 Pro Screen Unresponsiveness
 
 While Lava Yuva 2 Pro devices offer reliable performance, users may encounter situations where the screen becomes unresponsive or stuck on boot. Soft-bricked software or corrupted firmware can cause an Lava Yuva 2 Pro device to become unresponsive, including the screen stuck on the boot. This can happen to various models, such as the Lava Yuva 2 Pro, A37, A5, and A5s. Software updates and resets can help fix these issues.
@@ -321,8 +333,6 @@ Lava Yuva 2 Pro Screen unresponsiveness can be a frustrating issue to deal with,
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
 ## Fix Can't Take Screenshot Due to Security Policy on Lava Yuva 2 Pro
 
 “**Can’t take screenshots due to security policy**” is a screenshot restriction on your Android smartphone. You’ve probably seen this error message before, especially when taking screenshots of banking or video streaming apps. But why do apps and websites block screenshots? It’s actually for your good.
@@ -343,9 +353,6 @@ Say you’re trying to take a screenshot on your Lava Yuva 2 Pro device, and you
 
 Some apps and websites, such as banking apps, store private data like financial and credit card details. Blocking capturing screenshots is a way to prevent unauthorized access to confidential information.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cryptocurrency app screenshot error](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-02.jpg)
 
 Follow Regulations
@@ -378,9 +385,6 @@ You Are Using a Secure Folder
 
 Companies design secure folders to protect your most sensitive data from unauthorized access, so screenshots are not allowed within them.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. 8 Ways To Take Screenshots When You Can’t Due to Security Policy
 
 If you’re trying to take a screenshot of an app or website with a security policy in place, there’s usually no way to circumvent it. However, there are a few things you can do to take pictures of these apps and website content.
@@ -413,6 +417,10 @@ Apps and websites may prohibit screenshots in incognito mode to protect your pri
 
 ![chrome experimental flags](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Search for Incognito Screenshot and choose **Enabled** from the drop-down menu.
 
 ![incognito screenshot enabled](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-08.jpg)
@@ -426,6 +434,10 @@ Use Google Assistant
 With Google Assistant, taking screenshots on your Lava Yuva 2 Pro is now easier than ever. Just say, “Hey, Google, take a screenshot,” Google Assistant will capture the screen and save it to your gallery.
 
 ![google assistant command](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use a Third-Party App To Take Screenshots
 
@@ -455,6 +467,10 @@ Smart View allows you to display your Lava Yuva 2 Pro device’s screen on your 
 
 ![cast samsung phone using smart view](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Alternatively, if you don’t have a smart TV, you can still mirror your phone screen display to your desktop or tablet using the Lava Yuva 2 Pro Flow app and take a screenshot of your phone’s screen instead.
 
 Use Disable Flag Secure Magisk Module
@@ -463,9 +479,6 @@ Still experiencing the error message, “**Can’t take screenshot due to securi
 
 The module patches the Android framework to remove the FLAG\_SECURE flag from apps. It is a relatively simple process but requires root access and Magisk. This module will turn off the security flag to take screenshots in Incognito mode and other apps.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![magiskzip disable flag secure module](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-11.jpg)
 
 Authors Verdict
@@ -490,11 +503,19 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3,567,199** people have downloaded it
 
 - **Step 2:** From the **Toolbox** homepage, select **System Repair** > **Android**.
 
 ![dr.fone toolbox selection interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Click **Start** on the new window.
 
@@ -502,9 +523,6 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 4:** Select an option from the **Name**, **Model**, **Country**, and **Carrier** in the drop-down lists. Next, select the checkbox to agree with the warning, then click **Next** in the bottom right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select correct device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 5:** Follow the in-app instructions to put your Lava Yuva 2 Pro on Download mode, then click **Next**.
@@ -527,6 +545,10 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 ![repairing android device in progress](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 10:** If your device has started properly, click **Done** to close this app. Otherwise, click **Try again**.
 
 ![android system issue repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -538,7 +560,6 @@ You can fix the “**Can’t take screenshot due to security policy**” error o
 Although there are ways to bypass the “**Can’t take screenshot due to security policy**” error message, it’s crucial to know why screenshots are not allowed. Many apps and websites do not permit it to protect sensitive information, prevent piracy, and follow regulations. They also do it to prevent fraud, protect user privacy, and safeguard intellectual property.
 
 If you think the issue is with your Android system, or your device becomes bricked after trying other methods, experiencing app crashes, or otherwise malfunctioning, try using the Dr.Fone System Repair tool. It is worth trying and can fix most Android system issues in a few minutes.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -552,9 +573,24 @@ If you think the issue is with your Android system, or your device becomes brick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-instagram-your-step-by-step-video-sharing/"><u>[New] In 2024, Mastering Instagram Your Step-by-Step Video Sharing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leveraging-ios-11-for-professional-level-iphone-shots/"><u>[Updated] Leveraging iOS 11 for Professional-Level iPhone Shots</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/el-growth-on-a-dime-attracting-sponsors-with-simplicity-for-2024/"><u>Channel Growth on a Dime Attracting Sponsors with Simplicity for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/configure-copy-paste-preferences-and-customize-quick-access-keys-for-emeditor/"><u>Configure Copy-Paste Preferences & Customize Quick Access Keys for EmEditor</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-tecno-spark-20c-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Tecno Spark 20C Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oneplus-11r-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on OnePlus 11R – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-s17-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo S17 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-g2-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo G2? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-motorola-moto-g24-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola Moto G24? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-inside-scoop-on-the-iphone-14s-battery-lifespan-and-potential-problems/"><u>The Inside Scoop on the iPhone 14'S Battery Lifespan and Potential Problems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728481310972-windows-1011-hdd/"><u>Windows 10/11 HDDのシステム移行と起動手順</u></a></li>
+</ul></div>
 

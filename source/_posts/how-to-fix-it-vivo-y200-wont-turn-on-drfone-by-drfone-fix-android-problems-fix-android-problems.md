@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Vivo Y200 Wont Turn On | Dr.fone
-date: 2024-07-14T05:41:30.781Z
-updated: 2024-07-15T05:41:30.781Z
+date: 2025-02-09T23:11:37.048Z
+updated: 2025-02-10T16:35:40.215Z
 tags: 
   - problems
 categories:
@@ -34,11 +34,6 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
@@ -74,17 +69,29 @@ Look up for your device – pick the Vivo Y200 device Name and Device Model. Adv
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Go into your Vivo Y200’s Download Mode.**
 
 The data recovery tool will guide you on how you can go into your Vivo Y200’s Download Mode. You should be getting a step-by-step guide on your computer.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Scan the Android Phone.**
 
 Using the provided USB cable, attach your Vivo Y200 to your computer – the data recovery tool should be able to discover your device automatically and scan it for recoverable data.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
 
@@ -99,8 +106,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -130,6 +135,10 @@ Step 3: Now, over the Vivo Y200 device information window, ensure to feed your e
 
 ![go to SMS to export text messages](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Phase 2: Enter ‘Download’ mode for fixing your Vivo Y200**
 
 Step 1: You need to put your Vivo Y200 in Download mode for resolving the Android phone will not switch on.
@@ -149,6 +158,10 @@ Step 2: Hitting the ‘Next’ key will allow you to download firmware and proce
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Android Phone Won't Turn On: **Common Fix**
 
@@ -179,8 +192,6 @@ There are several reasons as to why your Vivo Y200 won’t turn on. The problem 
 - Make sure you update your operating system, software and apps to make sure you have the latest version – the developer may have fixed the bugs that have caused problems on Android phones.
 
 It is important to note that your phone contains some important data. Therefore, when your Vivo Y200 won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
-
-
 
 ## Vivo Y200 Stuck on Screen – Finding Solutions For Stuck on Boot
 
@@ -216,9 +227,6 @@ Do you seek to resolve the problem of the ****Vivo Y200  Plus stuck on the Andr
 
 The first and most proclaimed technique to refresh Vivo Y200 devices under such a problem is to force restart them. If the Vivo Y200 device is stuck, you will have to perform this process by pressing the "Power" and "Volume Up" keys for 15 seconds. Continue holding the buttons until the Vivo Y200 device vibrates or restarts by showing the screen again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![force restart nokia](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-2.jpg)
 
 ### Solution 2: Leave the Phone For a While To Drain Its Battery
@@ -289,6 +297,10 @@ What if you come to know that you can avoid the Vivo Y200 screen stuck-on boot p
 
 The first thing to protect your Vivo Y200 smartphone from getting stuck on the boot is to keep it safe from unauthorized and malicious data. The best thing to keep a device secure is to follow all security protocols and avoid bypassing them. If you try downloading something not authorized by the Play Store itself, for instance, an APK, it can make your device vulnerable to malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Keep Your Device Updated
 
 If you feel frustrated by issues like ****Vivo Y200 being stuck on the Android One screen,**** the best thing to avoid such a problem is to keep your device updated at all costs. Whenever there is an update on your Vivo Y200 smartphone, make sure to install it on time and properly. Do not leave updates uninstalled for no reason, as they can hinder the Vivo Y200 device’s speed and performance.
@@ -316,6 +328,10 @@ With all the provided methods, we do hope that you will be able to restore the s
 The rapid evolution of technology has transformed our smartphones into powerful devices. Presently, with just a few taps, they possess the ability to accomplish a diverse array of tasks. It has been possible due to the extensive availability of mobile applications. However, it can be incredibly frustrating when your favorite apps keep crashing repeatedly.
 
 You're not alone if you're an Android user who encounters app crashes. This article will explore ten practical ways to fix apps that keep crashing on Android devices. We will also discuss the causes behind app crashes and how to prevent them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Are the Causes Behind Apps Keep Crashing on Android?
 
@@ -345,9 +361,6 @@ Despite rigorous testing, apps can still have bugs or coding errors that lead to
 
 Once you discover why your Android apps keep crashing, fixing them becomes a lot easier. However, there is no need to worry even if you cannot locate the problem source. Below we have listed 10 general and specialized solutions to ****fix app crashing****:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Check the Internet Connection
 
 As mentioned before, some apps rely on the internet to function. If you don’t have an active internet connection, they will not work. To avoid ****the app crashing****, you need to ensure that the internet connection on your device is working. If you use Wi-Fi, check the router and turn Wi-Fi off and on again. In the case of mobile data, try enabling Airplane mode and then disabling it.
@@ -380,6 +393,10 @@ Not updating your Android OS for a long while can cause many performance issues 
 
 ![tap on download and install](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 2:**** During the update process, ensure you have a stable internet connection. Moreover, your device should be fully charged to avoid any complications.
 
 ### Fix 5: Clear the App Cache
@@ -388,9 +405,6 @@ Have you tried clearing the cache of the app that keeps crashing? The app cache 
 
 - ****Step 1:**** Navigate to your targeted app icon and long-press it. Now, tap “App Info” from the pop-up menu to access app information.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![choose app info option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-5.jpg)
 
 - ****Step 2:**** Following this, press "Storage," and on the following screen, hit “Clear Cache.” It will clean the cache for the targeted app.
@@ -409,20 +423,16 @@ Bugs in the app can prove a nightmare and hard to remove from the app. If your *
 
 ![press the install button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Check the App Permissions
 
 Sometimes, app crashes can occur due to improper or conflicting permissions. Whenever you install an app on your device, it needs related permission to function. If you have not granted the required permissions, the apps will not function, leading to ****apps keep crashing on Android****. You can check the app permissions using the following procedure:
 
 - ****Step 1:**** You will need to launch Settings on your Vivo Y200 and tap “Apps.” Here find and select the targeted app to open App Info.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on the apps option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-9.jpg)
 
 - ****Step 2:**** On the App Info screen, press “Permissions” to access all permission settings. Here, ensure that your app has the required permissions.
@@ -481,6 +491,10 @@ Click "Start" to initiate the repair process and provide your device information
 
 ![press the start button](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 3: Repair the Apps Keeps Crashing on Android****
 
 Follow the on-screen instruction to activate Download Mode on your device. Wondershare Dr.Fone will download the related firmware once you have enabled Download Mode. Afterward, click "Fix Now" and confirm your action by inserting the "000000" code. Now, wait for the repair process to finish.
@@ -495,7 +509,6 @@ To sum up, if your ****apps keep crashing on Android****, you can resolve it in 
 
 With its clean interface and powerful features, Wondershare Dr.Fone stands out as the best choice to fix app crashes. It provides a comprehensive toolkit to diagnose and resolve various software issues.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -508,9 +521,24 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-understanding-the-edge-of-av1-in-video-encoding/"><u>[New] In 2024, Understanding the Edge of AV1 in Video Encoding</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-virtual-chuckles-await-tips-and-tricks-to-metaverse-meme-magic/"><u>[New] In 2024, Virtual Chuckles Await Tips & Tricks to Metaverse Meme Magic</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-seamless-switch-to-virtual-reality-your-phones-next-step/"><u>[New] Seamless Switch to Virtual Reality Your Phone's Next Step</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-strategizing-visibility-for-podcasts-through-design/"><u>[Updated] 2024 Approved Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-zte-axon-40-lite-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of ZTE Axon 40 Lite? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-4g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 4G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/precision-leaders-best-7-shooting-adventures/"><u>Precision Leaders Best 7 Shooting Adventures</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-infinix-smart-8-hd-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Smart 8 HD Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-realme-11x-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Realme 11X 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/topo-5-mas-efectivos-para-descarga-de-videos-flash-en-sitios-web/"><u>Topo 5 Más Efectivos Para Descarga De Videos Flash en Sitios Web</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-seasonal-charge-issues-why-devices-like-ipads-and-macbooks-may-fail-in-cold-weather/"><u>Understanding Seasonal Charge Issues: Why Devices Like iPads and MacBooks May Fail in Cold Weather</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721451904807-unveiling-the-must-have-features-in-ios-153-why-upgrading-is-imperative-right-now/"><u>Unveiling the Must-Have Features in iOS 15.3: Why Upgrading Is Imperative Right Now</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Poco X5 Pro | Dr.fone
-date: 2024-07-14T05:44:29.758Z
-updated: 2024-07-15T05:44:29.758Z
+date: 2025-02-08T00:25:59.306Z
+updated: 2025-02-10T19:33:04.125Z
 tags: 
   - problems
 categories:
@@ -86,6 +86,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -144,13 +148,14 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 ****Step 4:**** Before repairing your Poco X5 Pro, you must boot it into ****Download**** ****mode****. To boot your Poco X5 Pro or tablet into DFU mode, follow the steps below:
@@ -175,6 +180,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -184,9 +193,6 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -218,8 +224,6 @@ Check below to know Dr.Fone – System Repair’s limitations:
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Poco X5 Pro 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
-
-
 
 ## What To Do When Poco X5 Pro Has Black Screen of Death?
 
@@ -256,9 +260,11 @@ The solution for recovery data is the [Dr.Fone - Data Recovery (Android)](https:
 
 ![Dr.Fone - Data Recovery (Android)](https://images.wondershare.com/drfone/guide/recover-data-from-android-device-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use this revolutionary toolkit to get the data back from the black tablet screen of death. Connect the Poco X5 Pro device with the PC after installing this tool and follow the on-screen instruction, and all of your data will be transferred to your PC. Unfortunately, the tool is supported on selected Poco X5 Pro Android devices as of now.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -289,8 +295,6 @@ Facing an Android device with a black screen of death, I believe, is one of the 
 
 What to do? Shall we find someone who is tech-savvy to seek help? Come on, this is the 21st century, and there are always one-click solutions to deal with technical issues for laymen like you and me.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Fix Black Screen of Death for Android In One Click
@@ -315,6 +319,10 @@ Fix Black Screen of Death for Android In One Click
 3. Click "Start" to commence the Android system repair. In the next screen, select and confirm your Android model details like name, model, country, etc. and go on.
 
     ![choose android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Boot your Android into Download mode by following the on-screen demonstrations.
 
@@ -346,9 +354,6 @@ Step 1: For Poco X5 Pro devices, press and hold down the Power and Volume Down b
 
 ![force restart android](https://images.wondershare.com/drfone/article/2023/08/android-black-screen-of-death.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.3 Check and clean your phone
 
 This method might not be popular with Android users, but this can do wonders when dealing with an Android black screen of death issue. To do this, follow the steps provided below:
@@ -361,9 +366,6 @@ Step 3: If the phone isn’t charging normally, ensure the charging port isn’t
 
 Step 4: After you’re done with the cleaning, it’s best to charge the phone for at least 10 minutes. Just give it a quick charge and then try to restart it.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wa stickers](https://images.wondershare.com/drfone/article/2023/08/android-black-screen-of-death-1.jpg)
 
 ### 3.4 Remove the battery
@@ -379,6 +381,10 @@ Note: When replacing the battery, ensure the metal contacts correctly connect to
 ![remove battery of android phone](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-a-black-screen-on-android-phones-03.jpg)
 
 This easy and straightforward method should help you fix your Android screen black issue, but if it doesn’t, continue reading, as this article got more techniques you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.5 Recharge the Poco X5 Pro device
 
@@ -456,9 +462,17 @@ Step 2: After booting up in recovery mode, you can find the "Factory data reset"
 
 ![Factory data reset](https://drfone.wondershare.com/images/article/2017/06/14987030401463.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: In this step, you need to confirm your action by tapping on the “Yes” option. After this, your device will start erasing. This may take a while to complete the whole process.
 
 Now, your device will reboot automatically and you can see the Android black screen of death problem is solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to avoid Android black screen of death?
 
@@ -482,9 +496,6 @@ There could be a lot of reasons why an Android black screen issue occurs, but th
 
 But among the methods discussed above, Dr.Fone – System Repair just stood out as this program does not only help you with a black screen of death problem, but it covers many other Android system issues too. It’s also a highly intuitive program that requires no skills to operate.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Bricked Your Poco X5 Pro? Here’s A Full Solution
@@ -496,8 +507,6 @@ In this article we are going to look at how you can fix your device if you are s
 ## Part 1: Rescue the data on your Bricked Android Phone
 
 Before we can learn how to fix a bricked device, it is important that you are able to save the data that is on the Poco X5 Pro device. Having the data saved somewhere else will be the added insurance you need in case anything goes wrong during the process. There are very few software solutions in the market to help you get back data from a bricked device. One of these and the most reliable is [Wondershare Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html).
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -523,6 +532,10 @@ Step 1: Download and install Wondershare Dr.Fone to your PC. Launch the program 
 Step 2. Select the issue type for your phone. Choose from "Touch screen not responsive or cannot access the phone" or "Black/broken screen".
 
 ![bricked android phone data recovery-Select the issue type](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: In the next step, you need to select your device model. If you don’t know the model of your device click on “How to check the Poco X5 Pro device model” to get help.
 
@@ -574,6 +587,10 @@ Step 5: Go to “Wipe data/ factory reset.”
 
 ![bricked android phone data recovery-Wipe data/ factory reset](https://images.wondershare.com/drfone/others/fix-bricked-android-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6: Finally reboot the Poco X5 Pro device by selecting “Reboot system now.” This should fix the problem. You may also want to flash the same ROM or try a new one.
 
 If the above methods don’t work, try one of the following options.
@@ -598,7 +615,6 @@ If you are planning on installing custom ROM you need to install Custom Recovery
 
 While installing Custom ROM can actually be a great way to customize your device, it is also the leading reason for bricked devices. Therefore ensure that you understand what you are doing when you decide to customize your device. Learn as much as you can about the process before attempting everything.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -611,9 +627,20 @@ While installing Custom ROM can actually be a great way to customize your device
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-premier-10-terraria-mods-for-superior-play/"><u>[New] 2024 Approved Premier 10 Terraria Mods for Superior Play</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tand-alone-hold-tight-camera-stability-techniques/"><u>[New] Stand Alone, Hold Tight Camera Stability Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-craft-compelling-youtube-titles-faster-than-ever/"><u>[Updated] In 2024, Craft Compelling YouTube Titles Faster Than Ever</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-the-price-of-youtube-marketing-for-2024/"><u>[Updated] Mastering the Price of YouTube Marketing for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-beginners-guide-to-choosing-lenses-and-cameras-for-youtube-vloggers/"><u>2024 Approved Beginner's Guide to Choosing Lenses and Cameras for YouTube Vloggers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apple-watch-series-4-examined-unveiling-the-enhanced-superiority/"><u>Apple Watch Series 4 Examined: Unveiling the Enhanced Superiority</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-x50-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor X50 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oneplus-nord-3-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track OnePlus Nord 3 5G without App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/old-pc-new-tricks-staying-current-without-windows-11/"><u>Old PC, New Tricks: Staying Current Without Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo A58 4G | Dr.fone</u></a></li>
+</ul></div>
 

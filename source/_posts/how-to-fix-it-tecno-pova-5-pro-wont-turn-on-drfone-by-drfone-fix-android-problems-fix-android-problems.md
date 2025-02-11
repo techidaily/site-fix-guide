@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Tecno Pova 5 Pro Wont Turn On | Dr.fone
-date: 2024-07-14T05:40:54.587Z
-updated: 2024-07-15T05:40:54.587Z
+date: 2025-02-06T00:00:07.981Z
+updated: 2025-02-10T23:20:28.255Z
 tags: 
   - problems
 categories:
@@ -33,8 +33,6 @@ If you cannot find any reason why your Tecno Pova 5 Pro will not switch on, here
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -69,9 +67,6 @@ Opt for "Touch screen not responsive or cannot access the phone" or "Black/broke
 
 Look up for your device – pick the Tecno Pova 5 Pro device Name and Device Model. Advance by clicking on the Next button.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
 
 **Step 4: Go into your Tecno Pova 5 Pro’s Download Mode.**
@@ -86,6 +81,10 @@ Using the provided USB cable, attach your Tecno Pova 5 Pro to your computer – 
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
 
 Wait for the program to finish scanning the phone – once completed, you will be able to get a list of recoverable files. You can have a preview of the file by highlighting them. Tick the box next to the file name and click on Recover to start retrieving the files and save them in the destination of your choosing.
@@ -99,8 +98,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -142,6 +139,10 @@ Step 1: You need to put your Tecno Pova 5 Pro in Download mode for resolving the
 
 ![fix Android Phone not turn on without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Hitting the ‘Next’ key will allow you to download firmware and proceed with the next step.
 
 ![download firmware to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -149,6 +150,10 @@ Step 2: Hitting the ‘Next’ key will allow you to download firmware and proce
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Android Phone Won't Turn On: **Common Fix**
 
@@ -196,6 +201,10 @@ Trust me, once you face an error it’s frustrating until you find a solution to
 Sometimes people think that they have endangered the fate of humanity because of the error that is being displayed (Just Kidding). Don’t worry you haven’t crashed any server or did any damage to your device but you just gave your device a lot of work. Before you got this error you were downloading a lot of apps right. Well, that’s the exact reason why you came up with this error in the first place. There are various reasons behind this error code 920, however, the prominent ones are –
 
 ![error code 920](https://images.wondershare.com/drfone/article/2017/06/14985021968933.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - a. Too much load on your data connection.
 - b. The cache is not cleaned. Thus the connection is getting hampered due to overload.
@@ -299,11 +308,13 @@ Step 4 - Now you have successfully removed your account and after that re-add yo
 
 ![error code 920-remove account](https://images.wondershare.com/drfone/article/2017/06/14985022914137.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Again it is best if you follow the methods as illustrated above for removing error code 920 and this might have solved your problem by now. If now, you go for a complete factory reset, do it only at the extreme stage as this will delete all your personal data.
 
 Play Store error 920 is a pretty common error and its solutions are also very easy. Please do ensure that you follow each and every step in sync so that you can get the best result out of these methods and get over with the error code 920 on Google play store.
-
-
 
 ## Full Guide: How To Fix Connection Is Not Private on Tecno Pova 5 Pro
 
@@ -311,14 +322,6 @@ Are you encountering the "your connection is not private" issue on your phone? W
 
 Usually, you can just reload the page to fix the error. But in case it doesn't help, you may need to look for more advanced solutions. In the following discussion, we will delve into why this **"your connection is not private" on Android** happens and explore solutions that work for you.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Addressing Your Connection Is Not Private on Android
 
 First of all, what does **"your connection is not private" on Android** mean? To answer this question, it's essential to understand that this error is often associated with Secure Socket Layer (SSL) protocol issues.
@@ -328,6 +331,10 @@ SSL is a cryptographic protocol created to establish a secure communication chan
 The error message appears when there's a problem with the SSL/TLS (Transport Layer Security) certificate of the website you are trying to access. This certificate is a digital document that authenticates the website and encrypts the data transmitted between the user's device and the server.
 
 ![Your connection is not private error on Android.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Some common factors that could trigger the **"your connection is not private" on Chrome Android error**:
 
@@ -387,6 +394,10 @@ So, [<u>clearing your browser cache and data </u>](https://drfone.wondershare.co
 
 ![Clear the browser's cache and data.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After successfully clearing your browser cache and data, revisit the website to check if the problem persists.
 
 ### Method 2: Repair the Android system
@@ -415,9 +426,6 @@ Click Start on the new screen to kick off the repair. Since you're dealing with 
 
 The platform will detect your Tecno Pova 5 Pro's brand. Confirm the Name, Model, Country, and Carrier. If your device is unlocked, choose OPEN in the Carrier section. Agree to the warning, click Next, and proceed with the repair.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Confirm your Tecno Pova 5 Pro's details.](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 - **Step 4.** Activate Download Mode
@@ -426,17 +434,22 @@ Follow the instructions to put your Tecno Pova 5 Pro into Download Mode. Once in
 
 ![Activate Download mode to download the firmware.](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5.** Confirm Installation
 
 Remember, the repair may erase data. It's advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar.
 
 ![Confirm the repair process.](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When done, click Done if your Android starts properly. If not, click Try Again to repeat the process.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Check and fix the date and time on your Android
 
 Since the error code "NET::ERR\_CERT\_DATE\_INVALID" indicates a mismatch between the date and time on your device and your browser, you need to adjust the date and time settings on your Android to fix it.
@@ -449,8 +462,9 @@ The specific steps can vary based on your Android model, but the general approac
 ![Check and fix the Android's date and time.](https://images.wondershare.com/drfone/article/2023/12/connection-private-android-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Perform factory reset
 
 If nothing else works, there might be malware on your phone causing trouble. It's crucial to eliminate this threat before further damage occurs. The recommended action is to [<u>perform a factory reset </u>](https://drfone.wondershare.com/reset-android/how-to-factory-reset-huawei-phone-when-locked.html) on your phone.
@@ -472,7 +486,6 @@ When you see the error message, it often comes with specific codes that indicate
 
 By prioritizing user safety and following the step-by-step approach in this guide, you can navigate and resolve this common internet browsing challenge on your Tecno Pova 5 Pros.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -485,9 +498,22 @@ By prioritizing user safety and following the step-by-step approach in this guid
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-audience-friendly-techniques-for-monitoring-facebook-live/"><u>[New] Audience-Friendly Techniques for Monitoring Facebook Live</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-master-video-editing-on-a-shoestring-budget-top-9-picks/"><u>[New] Master Video Editing on a Shoestring Budget - Top 9 Picks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unveiling-the-mystery-of-instagrams-most-trusted-6-techniques-for-building-a-fanbase-for-2024/"><u>[New] Unveiling the Mystery of Instagram's Most Trusted 6 Techniques for Building a Fanbase for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-pova-5-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Pova 5 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero-session-vs-cube-a-face-off-in-video-editors-for-2024/"><u>Hero Session Vs. Cube A Face-Off in Video Editors for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-g24-power-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola G24 Power Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-ultimate-solution-for-video-damage-grau-gmbhs-expert-system-repairs/"><u>The Ultimate Solution for Video Damage: Grau GmbH’s Expert System Repairs</u></a></li>
+<li><a href="https://discover-data.techidaily.com/top-free-tools-ultimate-guide-to-securely-backing-up-your-data-on-windows-with-google-drive/"><u>Top Free Tools: Ultimate Guide to Securely Backing Up Your Data on Windows with Google Drive</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-with-apex-legends-solve-common-engine-issues-now/"><u>Trouble with Apex Legends? Solve Common Engine Issues Now!</u></a></li>
+</ul></div>
 

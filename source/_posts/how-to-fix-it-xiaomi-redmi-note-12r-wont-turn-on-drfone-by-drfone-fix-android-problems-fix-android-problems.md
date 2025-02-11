@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Xiaomi Redmi Note 12R Wont Turn On | Dr.fone
-date: 2024-07-14T05:41:59.455Z
-updated: 2024-07-15T05:41:59.455Z
+date: 2025-02-08T02:21:41.871Z
+updated: 2025-02-10T18:50:41.282Z
 tags: 
   - problems
 categories:
@@ -33,8 +33,6 @@ If you cannot find any reason why your Xiaomi Redmi Note 12R will not switch on,
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -75,9 +73,6 @@ Look up for your device – pick the Xiaomi Redmi Note 12R device Name and Devic
 
 The data recovery tool will guide you on how you can go into your Xiaomi Redmi Note 12R’s Download Mode. You should be getting a step-by-step guide on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
 
 **Step 5: Scan the Android Phone.**
@@ -85,6 +80,10 @@ The data recovery tool will guide you on how you can go into your Xiaomi Redmi N
 Using the provided USB cable, attach your Xiaomi Redmi Note 12R to your computer – the data recovery tool should be able to discover your device automatically and scan it for recoverable data.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
 
@@ -99,8 +98,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -144,16 +141,10 @@ Step 1: You need to put your Xiaomi Redmi Note 12R in Download mode for resolvin
 
 Step 2: Hitting the ‘Next’ key will allow you to download firmware and proceed with the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download firmware to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ## Part 4: Android Phone Won't Turn On: **Common Fix**
@@ -232,9 +223,17 @@ If unfortunately the above solutions don’t work, there is a requirement to fla
 
 The next most common problem where people get stuck with is when there Gmail won’t sync. Here are the solutions to this particular problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Make Space in the Phone
 
 When Gmail stops syncing, one of the things that can save you is clearing the storage. It is the space that maybe the culprit and therefore the syncing don’t work at all. We would like to suggest you removing the unwanted apps to clear the storage or deleting the downloaded files. You can also transfer the important files to your computer and make the space vacant.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check Gmail Sync Settings
 
@@ -261,6 +260,10 @@ In case you are using the Gmail over your web browser and it has tested your pat
 
 First of all, you need to make sure that the browser you are using works with Gmail or not. Gmail can smoothly perform in Google Chrome, Firefox, Safari, Internet Explorer and Microsoft Edge. However, the browsers should be updated. So, please make sure that these browsers are running on the latest versions. Moreover, in case you use Chromebook, don’t forget to update the operating system in order to let it support Gmail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Clear Cache of web browser
 
 If you tried the above method but to no avail, try to clear the cache and cookies of the web browser. But by doing so, the browser history will be removed. As well as, the records of the websites you previously enjoyed will also be lost.
@@ -273,6 +276,10 @@ If you tried the above method but to no avail, try to clear the cache and cookie
 
 Gmail also gives you problem in sending or receive mails and messages. And to troubleshoot such issue, following are the solutions mentioned.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check the Latest Version of Gmail
 
 This issue is likely to emerge when you are using an outdated version of Gmail. And therefore, the first solution says you to check if the Gmail update is available. You can go to the Play Store and from the “My apps & games” option, you can see if Gmail needs to be updated or not.
@@ -283,9 +290,6 @@ This issue is likely to emerge when you are using an outdated version of Gmail. 
 
 Another thing that carries weight while you can send or receive mails is the internet connection. As we all know that Gmail won’t respond if the Xiaomi Redmi Note 12R device is not connected to the internet. Therefore, you are advised to turn off Wi-Fi and then enable it again. Also, please ensure to switch to Wi-Fi if you are using the cellular data. This may hamper the process and stop you from receiving or sending mails.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Remove you Account and Add Again
 
 If still Gmail keeps stopping you to go ahead, make sure to once sign out from it. To do this:
@@ -298,9 +302,17 @@ If still Gmail keeps stopping you to go ahead, make sure to once sign out from i
 
 ![Gmail crashing on Android - remove account](https://images.wondershare.com/drfone/article/2019/04/remove-account-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Problem 5: Stuck in sending
 
 Now, here is another annoying problem that doesn’t let Gmail working on Android properly. This problem addresses the situation where users send a mail but it gets stuck on sending. If this is the problem that you are going through, the following solutions will help you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Try Alternative Gmail Address
 
@@ -319,6 +331,10 @@ Now try to send the mail and see if things are still the same or not.
 ### Check Attachments
 
 Large attachments can also be the reason for this issue. We would here like to suggest you to check the attachments you are sending. If these are not so important, you can remove them and send the mail. Or if it is not possible to send the mail without attachments, compressing the files can be a solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Problem 6: “Account not synced” issue
 
@@ -349,9 +365,6 @@ If the above method went futile, simply restart your device. Take help of the Po
 
 The last problem that you may face is the slow-going Gmail app. In simple words, you may experience that Gmail app is operating extremely slowly. To fix this, following solutions will help you.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Restart the Phone
 
 It is a universal method to fix minor Android system issues. And here too, we would like you to restart your Xiaomi Redmi Note 12R in the first place when you find that Gmail is not responding due to the sluggish behavior.
@@ -377,8 +390,6 @@ Fix all Gmail issues caused by Android system:
 - Gmail app corruption or not opening
 - Gmail app crashing or stopping
 - Gmail app not responding
-
-
 
 ## Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Redmi Note 12R
 
@@ -432,8 +443,6 @@ They are easy, user-friendly, and do not take much of your time. So don not wast
 
 If you’re still encountering the Parsing error, there may be a problem with the Xiaomi Redmi Note 12R device data on your device, which means you’ll need to repair it. Luckily, there’s a simple, one-click solution you can follow called [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/).
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix all android system issues in one click
@@ -482,6 +491,10 @@ When we install Apps from other sources and not Google Play Store, there might b
 
 ![allow App installation](https://images.wondershare.com/drfone/article/2017/06/14985473958735.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **2.3 Enable USB debugging**
 
 USB debugging is not considered necessary by many users but these methods give you an edge over others while using an Android device as it lets you access things on your phone, etc which you could not earlier.
@@ -524,6 +537,10 @@ We do not suggest that you delete the Antivirus App permanently. Temporary unins
 
 ![click on “Uninstall”](https://images.wondershare.com/drfone/article/2017/06/14985109617315.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now download and install the desired App again. Once this is done, do not forget to install the Antivirus App again.
 
 #### **2.7 Clear Cache cookies of Play Store**
@@ -558,7 +575,6 @@ The whole process of factory resetting your Xiaomi Redmi Note 12R might sound te
 
 Parse Error: There was a problem parsing the package is an error message that has troubled many Android users. The good part is that the above-stated fixes not only solve the problem but also prevent it from occurring in the future. So, keep them in mind the next time you or anyone you know faces such an issue.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -571,9 +587,23 @@ Parse Error: There was a problem parsing the package is an error message that ha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/mmerse-yourself-with-these-youtubes-top-10-vr-videos/"><u>[New] Immerse Yourself with These YouTube’s Top 10 VR Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-myth-busting-realities-of-instagram-story-followers-for-2024/"><u>[Updated] Myth-Busting Realities of Instagram Story Followers for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-compilation-of-best-cams-for-mountain-sports/"><u>2024 Approved Ultimate Compilation of Best Cams for Mountain Sports</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722890621182-effective-strategies-to-address-and-mend-missing-dynamic-link-library-problems/"><u>Effective Strategies to Address and Mend Missing Dynamic Link Library Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-perfect-samsung-printer-driver-for-your-windows-pc/"><u>Find & Install the Perfect Samsung Printer Driver for Your Windows PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-13-mini-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maintaining-data-integrity-in-adaptive-chatgpt-systems/"><u>Maintaining Data Integrity in Adaptive ChatGPT Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-pro-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-y27-4g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y27 4G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-a24-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy A24 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/retrieve-missing-data-from-your-system-the-ultimate-tutorial-for-windows-11-users/"><u>Retrieve Missing Data From Your System: The Ultimate Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/visualizing-disk-usage-adding-to-win-11s-ui/"><u>Visualizing Disk Usage, Adding to Win 11'S UI</u></a></li>
+</ul></div>
 

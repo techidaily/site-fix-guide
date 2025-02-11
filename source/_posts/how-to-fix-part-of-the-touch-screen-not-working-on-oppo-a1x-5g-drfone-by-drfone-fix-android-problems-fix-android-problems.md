@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Oppo A1x 5G | Dr.fone
-date: 2024-07-14T05:44:00.091Z
-updated: 2024-07-15T05:44:00.091Z
+date: 2025-02-05T00:39:16.686Z
+updated: 2025-02-10T17:01:42.300Z
 tags: 
   - problems
 categories:
@@ -64,9 +64,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
 ****Step 2:**** When the Oppo A1x 5G device turns off, wait a few seconds.
@@ -106,6 +103,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset Device to Factory Settings
 
@@ -169,10 +170,11 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 2. Hold the Volume Down, Bixby, and Power buttons for 5 to 10 seconds.
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download mode repair android without home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Oppo A1x 5G. And in a while, your Oppo A1x 5G’s system issues will be resolved.
 
@@ -213,6 +215,10 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
@@ -239,6 +245,10 @@ A soft-brick problem is caused merely by a software error/crash and makes your d
 
 Hard bricked phones are a rare sight, but the soft brick is very common. Given below are ways to fix a soft brick Android phone. The techniques listed here are the best and the most efficient ways to get your phone back to its normal working conditions without losing your important data or damaging your device or its software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Stuck at the Boot Loop
 
 This is the first sign of a soft bricked Android phone. Boot Loop is nothing but when your phone does not remain switched off and turns itself on automatically, and freezes at the logo screen or blank screen, every time you manually try to power it off.
@@ -257,11 +267,19 @@ Use the volume down key to scroll down and select ”Wipe cache partition” as 
 
 ![”Wipe cache partition”](https://images.wondershare.com/drfone/article/2017/06/14987491246838.jpg)\>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After the process is completed, select “Reboot System” which is the first option in the recovery mode screen.
 
 This method will help you erase all the clogged up and unwanted files. You may loose some App related data, but that is a small price to pay to fix your bricked phone.
 
 If this method does not boot up your brick smartphone and the problem still persists, there are two more things you can try. Read ahead to find out about them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Booting straight into recovery mode
 
@@ -287,17 +305,23 @@ Scroll down using the volume key and use the power key to select the downloaded 
 
 ![select the downloaded ROM](https://images.wondershare.com/drfone/article/2017/06/14987192218478.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This might take a few minutes of your time, but once the process is complete, reboot your phone.
 
 Hopefully, your bricked phone will not boot normally and work smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Booting straight into Bootloader
 
 If your bricked phone boots straight into Bootloader, then this a serious issue and must not be taken lightly. Flashing a new ROM or clearing cache partitions are of little help in such a brick smartphone situation. Booting straight into Bootloader is a peculiar soft bricked Android phone feature and can be tackled only by downloading and flashing your original ROM from the manufacturer. In order to do so, a detailed study about your manufacturer’s ROM, ways to download and flash must be carried out. Since different Android phones come with different types of ROMs, it difficult to cover all the aspects about the different types of ROMs.
 
 Brick smartphone problem has become more prominent than phone freezing or hanging issue. Android users are often seen looking for solutions to fix their soft brick and hard brick phones. Android phones are prone to get bricked and thus, it is important for us to know about the three techniques given above. These methods have been tried, tested and recommended by ay affected bricked phone users. Therefore, these tips are reliable and worth a try. So if your phone acts stubborn and refuses to boot normally, examine the problem carefully and adopt one of the solutions given above which best suits your situation.
-
-
 
 ## 11 Ways to Fix it When My Oppo A1x 5G Won't Charge
 
@@ -314,8 +338,6 @@ So if you're still thinking about why won't My Oppo A1x 5G charge, read on to fi
 While you are upset over ‘why My Oppo A1x 5G won't charge?’, would you mind us helping you around?
 
 Well, we have got [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) at your fingertips to get rid of this annoying phone won't charge issues (caused by system corruption). Whether the Oppo A1x 5G device froze or became unresponsive, bricked, or got stuck on the Oppo A1x 5G logo/blue screen of death or apps started crashing. It can fix every Android system problem.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -343,9 +365,6 @@ Step 2: Tap on the ‘Android Repair’ option and then click ‘Start’ for mo
 
 Step 3: Mention the detailed information about your Oppo A1x 5G under the Oppo A1x 5G device information section. Press ‘Next’ then on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Get to ‘Download’ mode for repairing the Oppo A1x 5G device**
@@ -378,9 +397,6 @@ It is also very commonly observed that the charging end of the cable which gets 
 
 ![charging cable](https://images.wondershare.com/drfone/article/2017/06/14985459762305.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Check/clean charging port
 
 The charging port in your device is a small opening where the charging end of the cabbie is inserted for the current to flow to the phone/tablet. Very often, we notice that the charging port gets blocked with tiny particles of dirt. The charging port might also get clogged if dirt and dust get accumulated in it, preventing the sensors from receiving and forwarding the current to the Oppo A1x 5G device.
@@ -411,11 +427,12 @@ Follow the steps given below to clear your device’s cache:
 
 ![phone storage](https://images.wondershare.com/drfone/article/2017/06/14985460357571.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 • Now tap on “Cached Data”.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cached data](https://images.wondershare.com/drfone/article/2017/06/14985010715377.jpg)
 
 • Click “OK” to clear all unwanted cache from your device as shown above.
@@ -443,6 +460,10 @@ The Ampere app can be downloaded from the Google Play Store. It is very helpful 
 If the App gives information in green color, it means all is wetland your device is charging normally, however, if the information before you is in orange, you need to take steps to fix the charging problem.
 
 ![charging status](https://images.wondershare.com/drfone/article/2017/06/14985011165678.jpg) ![full charged](https://images.wondershare.com/drfone/article/2017/06/14985011377424.jpg) ![discharging](https://images.wondershare.com/drfone/article/2017/06/14985011663339.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Install software updates
 
@@ -484,7 +505,6 @@ This should be your last resort to fix My Oppo A1x 5G won't charge problem, and 
 
 Finally, fixing the phone won't charge the problem is simple, and therefore there is no need for you to worry as you are not the only one experiencing such an issue. Other Android users have tried, tested, and recommended the methods given above to solve why won't My Oppo A1x 5G charge or Oppo A1x 5G tablet won't charge error. So go ahead and try them out now.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -497,9 +517,26 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-crafting-stunning-slideshows-on-iphone-series-13/"><u>[New] In 2024, Crafting Stunning Slideshows on iPhone Series 13</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-twitter-to-mp3-how-to-convert-videos-on-social-media/"><u>[New] Twitter to MP3 How to Convert Videos on Social Media</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-heroic-hurdles-the-ultimate-10-role-playing-journeys/"><u>[Updated] 2024 Approved Heroic Hurdles The Ultimate 10 Role-Playing Journeys</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-premier-selection-of-vr-cycling-options/"><u>[Updated] In 2024, The Premier Selection of VR Cycling Options</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-everything-you-need-to-know-about-the-firefox-picture-in-picture-mode/"><u>2024 Approved Everything You Need to Know About the Firefox Picture-in-Picture Mode</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/change-location-on-yik-yak-for-your-google-pixel-7a-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Google Pixel 7a to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211329464-9798869333988-guerison-vibrationnelle/"><u>GUÉRISON VIBRATIONNELLE | Free Book</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-camon-20-premier-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Camon 20 Premier 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changefake-your-honor-magic-5-lite-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Honor Magic 5 Lite Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-leave-a-life360-group-on-google-pixel-8-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Google Pixel 8 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Motorola Moto G84 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-user-input-key-to-the-development-of-chatgpt-skills/"><u>Is User Input Key To The Development Of ChatGPT Skills?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-130-music-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nokia 130 Music Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+</ul></div>
 

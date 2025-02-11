@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Infinix Smart 8 Plus | Dr.fone
-date: 2025-01-19T16:07:44.155Z
-updated: 2025-01-22T16:04:46.540Z
+date: 2025-02-03T16:20:40.314Z
+updated: 2025-02-11T01:52:03.022Z
 tags: 
   - problems
 categories:
@@ -64,6 +64,10 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,307,222** people have downloaded it
 
 ### Key Features
@@ -111,11 +115,11 @@ Using Dr.Fone - System Repair to resolve app downloading issues is straightforwa
 
 ![dr.fone completion message window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If you can't download Dr.Fone for some reason, you can try these common fixes to try to resolve your app download issues on your device
 
 ## Part IV. 8 Other Methods of Resolving Common App Downloading Issues
 
@@ -131,6 +135,10 @@ A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u
 
 ![android internal storage menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update the Play Store
 
 An outdated Play Store version may lead to compatibility issues. Open the Google Play Store, go to **Settings**, and tap the **Play Store version**. If an update is available, install it to ensure compatibility with the latest apps.
@@ -143,11 +151,19 @@ Cached data in the Play Store can sometimes cause download problems. Head to the
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Verify Google Account
 
 Authentication issues with your Google account can prevent app downloads. Confirm that your Google account is properly verified. Go to the Infinix Smart 8 Plus device settings, select **Accounts**, and ensure your Google account is active and synced.
 
 ![syncing google account on device](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check Date and Time Settings
 
@@ -180,7 +196,7 @@ If your **touchscreen is malfunctioning** or doesn’t work correctly, you canno
 ![android screen problems intro](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why Is My Android Experiencing Touch Screen Problems
@@ -204,10 +220,6 @@ If any of the outlined reasons above are the cause of your **touch screen malfun
 Some phone cases and screen protectors cause **touch problems** on your Android screen. This issue is prevalent if you recently changed your phone case or screen protector. It may be due to incompatibility, but you should remove them to see if your phone starts responding again.
 
 ![android remove screen protector](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Clean Your Android Smartphone
 
@@ -255,6 +267,10 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Wait for the process to complete and for your Infinix Smart 8 Plus to restart automatically.
 
 ### Method 7: Replace Your Android Touchscreen
@@ -284,6 +300,10 @@ Wondershare Dr.Fone allows you to fix all **touchscreen problems** on your smart
 - **Supports up to 1000+ Android Models**
 
 The program supports almost all Infinix Smart 8 Plus models and other Android devices, whether unlocked or from a carrier. Dr.Fone is equipped with all the proper firmware to flash your Infinix Smart 8 Plus with just a few clicks. In addition, it has handy on-screen instructions to help you complete the whole process with ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pros and Cons
 
@@ -319,17 +339,9 @@ Follow the step-by-step guide below to start fixing general phone screen problem
 
 Here are some FAQs you should remember when experiencing **phone touch problems**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Does a Cracked Screen Affect Touch on an Android?
 
 If you continue using a smartphone with a cracked screen, there are several implications. Your device will be vulnerable to further damage and might develop **touchscreen problems**,and your sensors will gradually begin to malfunction. The capabilities of your device are also compromised the longer you delay repairing it. Moreover, a cracked screen can put your fingers at risk of injury due to potential glass splinters.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How Do I Temporarily Fix a Cracked Screen?
 
@@ -420,13 +432,13 @@ Step 1: It is essential to boot your Infinix Smart 8 Plus in Download mode befor
 
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Press the ‘Next’ button for initiating firmware download.
 
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
@@ -450,10 +462,6 @@ Make sure the file is .bin, .tar, or .tar.md5 only as these are the only file ty
 
 ![firmware md5 file](https://images.wondershare.com/drfone/article/2017/07/14991896708947.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: In this step, download the latest version of Odin on your PC and move it to the desktop, and then right-click on the downloaded Odin file to select “Run as Administrator”.
 
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
@@ -468,13 +476,13 @@ Step 5: Gently press the volume up button, and you will see the Download Mode Sc
 
 ![android download mode](https://images.wondershare.com/drfone/article/2017/07/14991897566586.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 6: Now, you may use a USB to connect your Infinix Smart 8 Plus to the PC. Odin will recognize your device, and in the Odin window, you will see a message saying “Added”.
 
 ![connect android device](https://images.wondershare.com/drfone/article/2017/07/14991897792616.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA” or “AP” on the Odin window and then click “Start”.
 
@@ -534,10 +542,6 @@ Then move on to select “Dead Phone USB Flashing” from the Firmware Update Bo
 
 ![dead phone usb flashing](https://images.wondershare.com/drfone/article/2017/07/14991900551025.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lastly, just click on “Refurbish” and connect your phone to the PC using a USB cable.
 
 That was it, the flashing process may take up to a few minutes after which your dead Infinix Smart 8 Plus  will restart automatically.
@@ -561,10 +565,6 @@ The screen of your Infinix Smart 8 Plus may be faulty, due to which it is not la
 If the Android vibrates on restarting and the screen does not lighten up, the problem can be directed to a hardware fault. The screen is broken and needs physical assistance to resolve the issue.
 
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 8: How to fix a dead Android phone by changing the battery
 
@@ -598,19 +598,16 @@ Carefully follow the instructions given, and you will be able to reboot your dea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-4-easy-ways-to-screen-record-lenovo-laptop/"><u>[New] 4 Easy Ways to Screen Record Lenovo Laptop</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-analytics-audience-insight-crusade/"><u>[New] Mastering Instagram Analytics Audience Insight Crusade</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-inside-look-a-catalog-of-tracking-methods/"><u>[Updated] Inside Look A Catalog of Tracking Methods</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/crafting-compelling-video-narratives-using-captivate-for-2024/"><u>Crafting Compelling Video Narratives Using Captivate for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-logitech-speaker-drivers-here-supports-windows-10-7-and-8/"><u>Get Your Logitech Speaker Drivers Here: Supports Windows 10, 7 and 8</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a59-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A59 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-compatible-drivers-for-dell-inspiron-15-on-windows-10/"><u>Latest Compatible Drivers for Dell Inspiron 15 on Windows 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/lively-user-onboarding-pathway-for-2024/"><u>Lively User Onboarding Pathway for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-guide-to-android-video-editing-top-10-free-and-paid-apps-for-2024/"><u>New The Ultimate Guide to Android Video Editing Top 10 Free and Paid Apps for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m14-4g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M14 4G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/understanding-the-underrated-downsides-of-vr/"><u>Understanding the Underrated Downsides of VR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-rapid-fire-windowed-image-reader/"><u>[Updated] Rapid-Fire Windowed Image Reader</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-inspire-your-recruitment-process-with-pioneering-tapes/"><u>2024 Approved Inspire Your Recruitment Process with Pioneering Tapes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-note-12-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi Note 12 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-poco-c51-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Poco C51 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-best-spots-for-free-downloadable-got-ringtones/"><u>In 2024, The Best Spots for Free Downloadable GoT Ringtones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-play-7t-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Play 7T Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-poco-f5-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Poco F5 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

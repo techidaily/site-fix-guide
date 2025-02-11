@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Tecno Pop 8 Wont Turn On | Dr.fone
-date: 2024-07-14T05:40:53.454Z
-updated: 2024-07-15T05:40:53.454Z
+date: 2025-02-03T17:50:50.080Z
+updated: 2025-02-10T23:42:49.729Z
 tags: 
   - problems
 categories:
@@ -34,7 +34,9 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -60,6 +62,10 @@ On your desktop computer or laptop, open Wondershare Dr.Fone. Click on Data Reco
 On the next window, you will need to check the boxes corresponding to the type of files you can recover from a list. You can get back Contacts, Messages, Call History, WhatsApp messages & attachments, Photos, Audio and more.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Select the problem with your phone**
 
@@ -96,8 +102,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -139,6 +143,10 @@ Step 1: You need to put your Tecno Pop 8 in Download mode for resolving the Andr
 
 ![fix Android Phone not turn on without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Hitting the ‘Next’ key will allow you to download firmware and proceed with the next step.
 
 ![download firmware to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -177,7 +185,9 @@ There are several reasons as to why your Tecno Pop 8 won’t turn on. The proble
 
 It is important to note that your phone contains some important data. Therefore, when your Tecno Pop 8 won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Play Store Stuck on Downloading Of Tecno Pop 8? 7 Ways to Resolve
 
@@ -208,8 +218,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Play Store stuck on downloading
@@ -231,6 +239,10 @@ Here is the complete guide which will help users in understanding how Dr.Fone - 
 First of all, load the program on PC. In the interim, draw connection of device with phone using a genuine cable. Over the interface, tap on “System Repair” mode.
 
 ![fix play store stuck on downloading](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Select Android Repair mode**
 
@@ -279,14 +291,15 @@ When was the last time you cared to update your Play store app? Generally, users
 3. In Settings, browse for “Play Store Version” located under “About” section.
 4. Tap on it, if it shows that Play Store app is not updated then proceed with the on-screen prompts to update it to the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update device to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/update-play-store.jpg)
 
 ### 3.6 Try another Google account
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.7 Avoid downloading large apps
 
@@ -330,14 +343,8 @@ Once you discover why your Android apps keep crashing, fixing them becomes a lot
 
 As mentioned before, some apps rely on the internet to function. If you don’t have an active internet connection, they will not work. To avoid ****the app crashing****, you need to ensure that the internet connection on your device is working. If you use Wi-Fi, check the router and turn Wi-Fi off and on again. In the case of mobile data, try enabling Airplane mode and then disabling it.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check the internet connection](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Force Stop the Apps Keep Crashing
 
 If your ****apps keep crashing****, you should try force-closing the targeted app and re-opening it. Doing this will flush out minor bugs and glitches from the app. These temporary bugs and glitches can occur due to various reasons and hamper the app's working. Use the following steps to force stop the app that keeps crashing and re-open it:
@@ -356,24 +363,16 @@ In case restarting the app hasn’t worked, you should try restarting your Tecno
 
 ![proceed with the restart option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Update the Android OS
 
 Not updating your Android OS for a long while can cause many performance issues in your device. One of these issues is the incompatibility with the latest apps. That's why make sure that your Tecno Pop 8 is running the latest available version of the operating system. You can check and update the Android OS of your device using these steps:
 
 - ****Step 1:**** Launch the Settings app on your Tecno Pop 8 and scroll down to select “Software Update.” On the next screen, tap “Download and Install” to look for new updates.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on download and install](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-4.jpg)
 
 - ****Step 2:**** During the update process, ensure you have a stable internet connection. Moreover, your device should be fully charged to avoid any complications.
@@ -384,9 +383,6 @@ Have you tried clearing the cache of the app that keeps crashing? The app cache 
 
 - ****Step 1:**** Navigate to your targeted app icon and long-press it. Now, tap “App Info” from the pop-up menu to access app information.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose app info option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-5.jpg)
 
 - ****Step 2:**** Following this, press "Storage," and on the following screen, hit “Clear Cache.” It will clean the cache for the targeted app.
@@ -405,6 +401,10 @@ Bugs in the app can prove a nightmare and hard to remove from the app. If your *
 
 ![press the install button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Check the App Permissions
 
 Sometimes, app crashes can occur due to improper or conflicting permissions. Whenever you install an app on your device, it needs related permission to function. If you have not granted the required permissions, the apps will not function, leading to ****apps keep crashing on Android****. You can check the app permissions using the following procedure:
@@ -416,6 +416,10 @@ Sometimes, app crashes can occur due to improper or conflicting permissions. Whe
 - ****Step 2:**** On the App Info screen, press “Permissions” to access all permission settings. Here, ensure that your app has the required permissions.
 
 ![access the app permissions](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Check and Clear the Phone Storage
 
@@ -475,6 +479,10 @@ Follow the on-screen instruction to activate Download Mode on your device. Wonde
 
 ![tap on the fix now button](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
@@ -482,7 +490,6 @@ Follow the on-screen instruction to activate Download Mode on your device. Wonde
 To sum up, if your ****apps keep crashing on Android****, you can resolve it in many ways. Using the fixes given in this article, you can improve apps' performance and reduce crashes. However, if you're looking for a reliable and convenient solution, we highly recommend Wondershare Dr.Fone.
 
 With its clean interface and powerful features, Wondershare Dr.Fone stands out as the best choice to fix app crashes. It provides a comprehensive toolkit to diagnose and resolve various software issues.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -496,9 +503,24 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-into-simplicity-a-tailored-approach-to-creating-shorts-thumbnails/"><u>[New] 2024 Approved Step Into Simplicity A Tailored Approach to Creating Shorts Thumbnails</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-digital-paintbrushes-at-your-fingertips-explore-11-color-correction-essentials/"><u>[New] Digital Paintbrushes at Your Fingertips Explore 11 Color Correction Essentials</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-weavers-codex-looms-screen-capture-secrets-for-2024/"><u>[New] The Weaver’s Codex Loom's Screen Capture Secrets for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-comprehensible-guide-to-fb-page-rank-boosting/"><u>2024 Approved The Comprehensible Guide to FB Page Rank Boosting</u></a></li>
+<li><a href="https://win11.techidaily.com/action-plan-if-powershell-isnt-displayed-by-windows/"><u>Action Plan if PowerShell Isn’t Displayed by Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-airwaves-a-beginners-internet-radio-guide/"><u>Capture the Airwaves A Beginner's Internet Radio Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/has-fb-shared-my-personal-details-unintentionally/"><u>Has FB Shared My Personal Details Unintentionally?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-lava-blaze-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Lava Blaze 2 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-g24-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G24 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oneplus-nord-n30-se-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On OnePlus Nord N30 SE? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-x9b-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor X9b ? Fix It Easily | Dr.fone</u></a></li>
+</ul></div>
 

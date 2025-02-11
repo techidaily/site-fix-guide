@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Xiaomi Redmi Note 12T Pro Wont Turn On | Dr.fone
-date: 2024-07-14T05:42:00.702Z
-updated: 2024-07-15T05:42:00.702Z
+date: 2025-02-07T21:35:39.839Z
+updated: 2025-02-11T00:09:00.522Z
 tags: 
   - problems
 categories:
@@ -28,16 +28,11 @@ If you cannot find any reason why your Xiaomi Redmi Note 12T Pro will not switch
 4. Your device is clogged up with dust and lint causing the hardware to not work properly.
 5. [Your power button is broken](https://www.wondershare.com/reset-android/restart-android-without-power-button.html), which caused it to not be able to trigger the necessary action needed to power up the Android phone. Check to also see if your connectors have no carbon build-up which will cause your phone to not be charged properly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Rescue Data on Android Phone That Will Not Turn On
 
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -84,9 +79,6 @@ The data recovery tool will guide you on how you can go into your Xiaomi Redmi N
 
 Using the provided USB cable, attach your Xiaomi Redmi Note 12T Pro to your computer – the data recovery tool should be able to discover your device automatically and scan it for recoverable data.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
@@ -102,8 +94,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -128,6 +118,10 @@ Step 1: Run Dr.Fone on your computer once the installation is complete and tap t
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
 ![star to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Now, over the Xiaomi Redmi Note 12T Pro device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
@@ -203,9 +197,6 @@ There’s also the issue of wrong app versions. Although each Android phone uses
 
 That’s also the case with Google Play Store and Google Play Services.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Why Google Play Services Keeps Stopping
 
 The Google Play Services keeps stopping error is an infamous one, and it can appear for various reasons and even on brand new phones. However, these causes can be categorized into three groups, which are:
@@ -219,6 +210,10 @@ Regardless of what’s causing the issue on your phone, we’ve compiled a list 
 ## Solutions to Try When Google Play Services Keeps Stopping
 
 There are many solutions for the issue of Google Play Services that keeps stopping. We’ve listed the most famous and effective ones, and you’ll find them below in no particular order. Try them out and see whether they fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. Do a Factory Reset
 
@@ -289,6 +284,10 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
     ![start the android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Select the make and model of your phone so that Dr.Fone can find the appropriate Android software.
 
     ![choose the phone model](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -307,6 +306,10 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7. Clear Cache
 
 The easiest and the most obvious fix for many Android apps is clearing the app’s cache. Here’s how you can do that for Google Play Services and Google Play Store:
@@ -315,6 +318,10 @@ The easiest and the most obvious fix for many Android apps is clearing the app�
 - **Step 2**: Tap **Storage**and hit the **Clear cache**
 
     ![clear app cache](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: Repeat the process for the **Google Play Services**
 
@@ -375,13 +382,15 @@ Also, there could be another reason that it cannot sync with the servers.
 
 Now that we know the possible reasons for the error 495, let us also know how to get rid of it in the sections below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: One Click to Fix error 495 by Android Repair
 
 Tried several methods to make the error 495 disappear, but nothing works? Well, many people have experienced the same frustration. The root cause is that something is wrong with the Android system. You need to have your Android system repaired to fix error 495 in this situation.
 
 **Note:** _Having your Android system repaired may lose existing data on your Android. [Backup the data on your Android](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before the Android repair._
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -402,9 +411,6 @@ With [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershar
 
 3. Select the option "Repair" > "Android Repair", and click "Start".
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start the android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 5. Select the Xiaomi Redmi Note 12T Pro device information like brand, name, model, etc., and confirm your selection by typing in "000000".
@@ -418,6 +424,14 @@ With [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershar
 9. After the firmware is downloaded, the program will automatically start to repair your Android.
 
 ![fix error 495 automatically](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2: Clear the Google Service Framework cache to Fix error 495
 
@@ -491,13 +505,14 @@ Go to the “Settings” section of your device. Like it was mentioned before, d
 
 ![fix error 495-settings](https://images.wondershare.com/drfone/article/2017/05/14953036986598.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 STEP 2:
 
 Go to the accounts section in the settings tab.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix error 495-accounts](https://images.wondershare.com/drfone/article/2017/05/14952145437743.jpg)
 
 STEP 3:
@@ -532,6 +547,10 @@ Once after opening the settings section, select the “Installed apps” or the 
 
 ![fix error 495-installed apps](https://images.wondershare.com/drfone/article/2017/05/14953040242469.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 STEP 3:
 
 Find the “Google Play Store” section and select that too.
@@ -546,9 +565,6 @@ Doing the above steps will clear your caches of the Google Play Store. Now you h
 
 Hence in this article, we got to know about the error 495 and the possible solutions to it as well. Also, this article explains how Error code 495 can be removed by 5 different ways. These are the best ways by which you can remove or get rid of the Error Code 495. In case one of the method fails, use the other one to rectify this recurring error 495 on your Xiaomi Redmi Note 12T Pro.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -561,9 +577,22 @@ Hence in this article, we got to know about the error 495 and the possible solut
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-enhance-your-smartphone-photos-with-these-free-innovative-tools/"><u>[New] In 2024, Enhance Your Smartphone Photos with These Free, Innovative Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-pinnacle-of-tablet-drawing-best-8-for-ipados/"><u>[New] The Pinnacle of Tablet Drawing Best 8 for iPadOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-most-advanced-virtual-reality-engines-of-2023/"><u>2024 Approved The Most Advanced Virtual Reality Engines of 2023</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-tecno-camon-30-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Tecno Camon 30 Pro 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-find-x7-ultra-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo Find X7 Ultra Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-c55-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme C55 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-a38-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo A38 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-freezing-easy-troubleshooting-for-constant-titanfall-2-crashes/"><u>No More Freezing: Easy Troubleshooting for Constant Titanfall 2 Crashes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-xcover-7-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy XCover 7 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-5-slick-online-apps-for-direct-gif-to-video-updates/"><u>Top 5 Slick Online Apps for Direct GIF to Video Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unclogging-the-puzzle-a-user-manual-for-repairing-webcam-problems-in-windows/"><u>Unclogging the Puzzle: A User Manual for Repairing Webcam Problems in Windows</u></a></li>
+</ul></div>
 

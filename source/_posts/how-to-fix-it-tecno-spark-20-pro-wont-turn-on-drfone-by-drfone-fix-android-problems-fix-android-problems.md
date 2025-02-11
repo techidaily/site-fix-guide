@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Tecno Spark 20 Pro Wont Turn On | Dr.fone
-date: 2024-07-14T05:41:02.052Z
-updated: 2024-07-15T05:41:02.052Z
+date: 2025-02-05T22:09:32.625Z
+updated: 2025-02-10T21:25:10.360Z
 tags: 
   - problems
 categories:
@@ -28,13 +28,19 @@ If you cannot find any reason why your Tecno Spark 20 Pro will not switch on, he
 4. Your device is clogged up with dust and lint causing the hardware to not work properly.
 5. [Your power button is broken](https://www.wondershare.com/reset-android/restart-android-without-power-button.html), which caused it to not be able to trigger the necessary action needed to power up the Android phone. Check to also see if your connectors have no carbon build-up which will cause your phone to not be charged properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Rescue Data on Android Phone That Will Not Turn On
 
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -67,6 +73,10 @@ Opt for "Touch screen not responsive or cannot access the phone" or "Black/broke
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Look up for your device – pick the Tecno Spark 20 Pro device Name and Device Model. Advance by clicking on the Next button.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
@@ -96,8 +106,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -143,9 +151,17 @@ Step 2: Hitting the ‘Next’ key will allow you to download firmware and proce
 
 ![download firmware to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Android Phone Won't Turn On: **Common Fix**
 
@@ -158,6 +174,10 @@ To try fixing an Android Phone that won’t turn on, follow these steps:
 5. Start your Tecno Spark 20 Pro in **Safe Mode** by pressing and holding down the **Menu** or **Volume Down** button on your device.
 6. Should the first five steps do not work for you, perform a hard reset. Do take note that each device will have a different way to do so and that data that is stored locally on the phone will be deleted.
 7. Send your Tecno Spark 20 Pro to the repair shop should none of these steps work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Useful Tips to Protect Your Tecno Spark 20 Pro
 
@@ -181,9 +201,6 @@ It is important to note that your phone contains some important data. Therefore,
 
 YouTube can be considered among the apps that are widely used by users. And seeing “Unfortunately YouTube has stopped” error on the Android display screen is a thing that you can’t stand. The reasons can be multiple for why YouTube is not working or it keeps crashing. For instance, an outdated app, not updated OS, low storage, or corrupted cache. No matter what has triggered the problem on your device, we have solutions for it. Please read and follow this article to get the problem sorted.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restart the app
 
 The issues like YouTube keeps crashing are often get disappeared by just quitting and restarting the app. This is helpful to give a fresh start to the app and restarting will bring your device back to normal. Hence, the first resolution we would like to recommend is to restart your app. Follow the steps to do this.
@@ -241,8 +258,6 @@ The apps that run on the internet might start crashing due to connectivity issue
 
 There are times when a corrupted system gives you such errors. And therefore, you should try re-flashing the stock ROM on your Tecno Spark 20 Pro. Before you wonder how we would like to introduce a highly recommended tool for this. It is Dr.Fone - System Repair (Android). It holds the proficiency to flash the stock ROM in just a click. So, when your YouTube is not responding due to a corrupted system, make use of this tool to get it solved. The benefits associated with this tool are as follows.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to flash the stock ROM of Android
@@ -294,7 +309,9 @@ When nothing works, the last resort you can go with is resetting the Tecno Spark
 
 ![Youtube crashing on Android - factory reset android](https://images.wondershare.com/drfone/article/2019/06/factory-reset.jpg)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Flash Dead Tecno Spark 20 Pro Safely
 
@@ -323,11 +340,6 @@ From battery issues to physical damage to the Tecno Spark 20 Pro device, there c
 
 While you are worried about how to flash Tecno Spark 20 Pro instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Tecno Spark 20 Pro logo.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 One-click solution to flash Tecno Spark 20 Pro
@@ -374,19 +386,17 @@ Step 1: It is essential to boot your Tecno Spark 20 Pro in Download mode before 
 
 Step 2: Press the ‘Next’ button for initiating firmware download.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![flashing samsung galaxy](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to flash Tecno Spark 20 Pro dead phone with Odin?
 
@@ -409,6 +419,10 @@ Step 3: In this step, download the latest version of Odin on your PC and move it
 ![download odin](https://images.wondershare.com/drfone/article/2017/07/14991896878336.jpg)
 
 ![run as administrator](https://images.wondershare.com/drfone/article/2017/07/14991897121955.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Now, boot your dead device to Download Mode by pressing the power, volume down, and home button together. When the phone vibrates, release the power button only.
 
@@ -474,6 +488,10 @@ Simply, feed in the details and then click “OK”.
 
 ![check the details](https://images.wondershare.com/drfone/article/2017/07/14991900207363.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After this, click on “Flashing” and select “Firmware update” and then browse to select the appropriate product code and then click “OK” again.
 
 Then move on to select “Dead Phone USB Flashing” from the Firmware Update Box.
@@ -484,9 +502,6 @@ Lastly, just click on “Refurbish” and connect your phone to the PC using a U
 
 That was it, the flashing process may take up to a few minutes after which your dead Tecno Spark 20 Pro  will restart automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: How to flash a dead phone that won’t turn on via factory reset?
 
 Using tools for flashing Android devices can be a solution; however, it is heavily restricted to the Tecno Spark 20 Pro device models. For a generalized solution, there can be other options that you can go with. Factory resetting an Android device by putting it in Recovery Mode is one way. To know **how to flash a dead Android phone** using factory reset, go through the steps featured below:
@@ -525,7 +540,6 @@ It has been observed that Wondershare Dr.Fone – System Repair (Android) assist
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -538,9 +552,19 @@ Carefully follow the instructions given, and you will be able to reboot your dea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-mac-from-live-classroom-to-recorded-session/"><u>[New] 2024 Approved Mastering Mac From Live Classroom to Recorded Session</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-insert-soundtracks-for-dynamic-presentations-for-2024/"><u>[New] Insert Soundtracks for Dynamic Presentations for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-storytelling-with-epic-videos/"><u>[Updated] 2024 Approved Instagram Storytelling with Epic Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-picture-perfect-with-soundtracked-clips/"><u>[Updated] In 2024, Picture Perfect with Soundtracked Clips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-win-11s-best-practices-the-ultimate-guide-to-saving-mov-files/"><u>[Updated] Win 11'S Best Practices The Ultimate Guide to Saving MOV Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-enhance-your-gopros-battery-health/"><u>How to Enhance Your GoPro's Battery Health</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-poco-x5-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Poco X5 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-social-media-revolution-a-side-by-side-look-at-tiktok-and-snapchats-features/"><u>In 2024, The Social Media Revolution A Side-By-Side Look at TikTok and Snapchat's Features</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo S18 | Dr.fone</u></a></li>
+</ul></div>
 

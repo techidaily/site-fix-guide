@@ -1,7 +1,7 @@
 ---
 title: How to Fix It ZTE Axon 40 Lite Wont Turn On | Dr.fone
-date: 2024-07-14T05:42:05.369Z
-updated: 2024-07-15T05:42:05.369Z
+date: 2025-02-07T00:29:51.444Z
+updated: 2025-02-10T19:44:38.012Z
 tags: 
   - problems
 categories:
@@ -28,13 +28,15 @@ If you cannot find any reason why your ZTE Axon 40 Lite will not switch on, here
 4. Your device is clogged up with dust and lint causing the hardware to not work properly.
 5. [Your power button is broken](https://www.wondershare.com/reset-android/restart-android-without-power-button.html), which caused it to not be able to trigger the necessary action needed to power up the Android phone. Check to also see if your connectors have no carbon build-up which will cause your phone to not be charged properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Rescue Data on Android Phone That Will Not Turn On
 
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -55,11 +57,19 @@ On your desktop computer or laptop, open Wondershare Dr.Fone. Click on Data Reco
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-device-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Decide which file types to recover**
 
 On the next window, you will need to check the boxes corresponding to the type of files you can recover from a list. You can get back Contacts, Messages, Call History, WhatsApp messages & attachments, Photos, Audio and more.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Select the problem with your phone**
 
@@ -77,11 +87,19 @@ The data recovery tool will guide you on how you can go into your ZTE Axon 40 Li
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Scan the Android Phone.**
 
 Using the provided USB cable, attach your ZTE Axon 40 Lite to your computer – the data recovery tool should be able to discover your device automatically and scan it for recoverable data.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
 
@@ -96,8 +114,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -121,9 +137,6 @@ Step 1: Run Dr.Fone on your computer once the installation is complete and tap t
 
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![star to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Now, over the ZTE Axon 40 Lite device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
@@ -144,10 +157,11 @@ Step 1: You need to put your ZTE Axon 40 Lite in Download mode for resolving the
 
 Step 2: Hitting the ‘Next’ key will allow you to download firmware and proceed with the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download firmware to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
@@ -192,8 +206,6 @@ It can occur while you launch the app or while you’re in the app already findi
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -263,6 +275,10 @@ The cache memory basically stashes the copies of the concerned application. It i
 
 ![contacts app stopping - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-contacts-cache-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.3 Wipe cache partition
 
 As we know the cache memories are the temporary files build by the firmware. These are of little importance as they are bound to become a bit more corrupted in nature. And sometimes, may indirectly become a hurdle for the working of contacts app. It is good if the ZTE Axon 40 Lite device is cleared off from the caches. Instead of manually wiping down the cache memory, we will understand how to clear off the cache partition in the following steps.
@@ -274,6 +290,10 @@ As we know the cache memories are the temporary files build by the firmware. The
 5. Finally, push the “Power” key to give consent to the selection.
 
 ![contacts app stopping - wipe cache partition](https://images.wondershare.com/drfone/article/2019/04/wipe-cache-partion.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. After, the process is through there will be an option for “Reboot System Now”. Tap on it and restart the ZTE Axon 40 Lite device.
 
@@ -303,9 +323,6 @@ Many a times, we skip updating our device software thinking it is of less import
 
 The device will now check whether there are any updates available for your device. If yes, then update application right away.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.6 Reset App Preferences
 
 As stated, the malfunctioning of contacts can be due to be any unexpected reason. Hence, users can opt for resetting app preferences. This may prove to be helpful in brushing away the issue of “Contacts app won’t open”.
@@ -315,6 +332,10 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 - At last, just select “Reset default apps”.
 
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.7 Delete voicemail
 
@@ -337,6 +358,10 @@ Now, check whether you’ve fought the battle with the problem or not.
 
 ![contacts app not responding - delete app](https://images.wondershare.com/drfone/article/2019/04/delete-downloaded-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.9 Reset to Factory Settings
 
 Last but not least, if all the methods falls flat to resolve the issue of contacts app won’t open. Then, it might be your device has some internal problem. This can be any software crash which might not be fixing with the aforementioned steps. That is where reset to factory settings may prove to be a good option. With this method, your phone will be cleared of all the components, settings and everything present in it. Here are is the comprehensive tutorial for biding bye to the problem of contacts app won’t open.
@@ -349,8 +374,6 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
-
-
 ## 6 Solutions to Fix Error 505 in Google Play Store on ZTE Axon 40 Lite
 
 In case you are receiving the error code 505 while downloading an application from Google play store and have no clue what is it, then this is the right article for you. In this article we are covering the reasons behind the occurrence of Google play error 505. Not only that, we are also providing 6 solutions to fix the error code 505. Usually, this error is seen with Android 5.0 Lollipop version and occurs at the time when you try to install the already downloaded application making it hard to run the app.
@@ -361,9 +384,6 @@ The occurrence chance is more in the old operating systems, 4 KitKat, Android ve
 
 ## Part 1: Reasons for Google Play error 505
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![error 505](https://images.wondershare.com/drfone/article/2017/06/14976272942912.jpg)
 
 As per the report by some users, error 505 occurs in certain apps such as Weather App, SBI, ITV, Adobe Air 15, We Chat etc.
@@ -387,11 +407,6 @@ Any error that occurs during downloading or installation process not only hinder
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
@@ -553,7 +568,6 @@ However, sometimes the five simple couldn’t work anymore. A system repair soft
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -566,9 +580,18 @@ Not being able to download or install the app is very frustrating and time-consu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-enhancing-your-social-media-footprint-upload-success-tips-for-stories/"><u>[Updated] Enhancing Your Social Media Footprint Upload Success Tips for Stories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-essential-chromes-leading-fb-video-grabs/"><u>2024 Approved Essential Chromes Leading FB Video Grabs</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/5aac5l2v5zyo6igv5ooz5z6l6zu76iwm5lik5yplusw5zue5bey6kkr5yiq5o6j55qe5qqu5qgi77ya6kmz57sw5pwz56il/"><u>如何在聯想型電腦上取回已被刪掉的檔案：詳細教程</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-lava-yuva-2-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Lava Yuva 2 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-a14-4g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy A14 4G Through Google Earth?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-complete-blueprint-to-record-hulu-playback/"><u>In 2024, The Complete Blueprint to Record Hulu Playback</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-xr21-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia XR21 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-meizu-21-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Meizu 21 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-z-fold-5-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy Z Fold 5 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+</ul></div>
 

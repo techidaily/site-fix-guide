@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Oppo A78 | Dr.fone
-date: 2024-07-14T05:44:07.386Z
-updated: 2024-07-15T05:44:07.386Z
+date: 2025-02-09T20:19:14.585Z
+updated: 2025-02-10T20:18:22.311Z
 tags: 
   - problems
 categories:
@@ -64,9 +64,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
 ****Step 2:**** When the Oppo A78 device turns off, wait a few seconds.
@@ -105,6 +102,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
 ### Reset Device to Factory Settings
@@ -118,6 +119,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -161,9 +166,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 2. Hold the Volume Down, Home, and Power buttons for 5 to 10 seconds.
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 **For a device that lacks a Home button:**
@@ -223,9 +225,6 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 
 We often find people complaining, “Unfortunately Youtube has stopped”, “Unfortunately the internet has stopped” or “Unfortunately Netalpha has stopped”. An error that causes Apps to randomly stop working is experienced by users daily. This is a strange error as it occurs while you are using an App, and it suddenly stops working or crashes. You are brought back from the App screen to the Home Screen of your device with an error message saying: “Unfortunately, it has stopped working.”
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Unfortunately,has stopped working](https://images.wondershare.com/drfone/article/2017/06/14984194476852.jpg)
 
 Apps not working or stopped while working, such as unfortunately Netalpha has stopped or unfortunately the internet has stopped, is a very confusing error because one moment your App is running smoothly and the next moment it shuts down automatically with an error message. Unfortunately, Youtube has stopped working, Netalpha has stopped. Unfortunately, the internet has stopped, and many more such examples of Apps stopping while working normally are witnessed by users all over the world, and they are constantly on a lookout for solutions to fix such an error.
@@ -286,9 +285,6 @@ Once booted, the software will verify your firmware and start repairing your dev
 
 _This could take some time, depending on your internet connection and speeds, so be mindful that everything stays connected._
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Fix your App has unfortunately stopped by clearing App Cache
 
 Herein we bring to you 3 of the most effective remedies to combat the; unfortunately, App has stopped error, which has helped many users facing similar problems.
@@ -309,9 +305,6 @@ Follow the steps given below to learn how to clear App cache:
 
 • From the options that appear, tap on “Storage” and then on “Clear cache” as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear cache](https://images.wondershare.com/drfone/article/2017/06/14984195179360.jpg)
 
 Clearing App cache is always a good idea as it prevents any errors which may be caused due to the cache being corrupt or too full. This method is likely to help you, but if the problem persists, read on to find out about 2 more solutions.
@@ -325,6 +318,10 @@ Firstly, to uninstall all an existing App from your device, follow the instructi
 • Visit “Settings” and search for “Application Manager” or “Apps”.
 
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984195406104.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 • Select the App you wish to uninstall, say, for example, “Messenger”.
 
@@ -362,6 +359,10 @@ Note: Once the factory reset process is complete, your device will automatically
 
 Errors such as unfortunately, Youtube has stopped, unfortunately, Netalpha has stopped, unfortunately, the internet has stopped working and so on are very common these days. They disrupt the normal functioning of an App/Apps and prevent you from using the App/Apps smoothly. Unfortunately, App has stopped error is not a serious problem and does not mean there is a problem with the App, your Android OS version, or your handset. It is a random error which occurs due to various reasons in a given situation. If you experience such an error while sign in your favorite App/Apps, DO NOT panic as unfortunately, App has stopped error can be fixed easily. All you need to do is be patient with the App’s software and not try to launch it again and again once it crashes, and an error message pops-up. Just follow the methods listed and explained in detail in the previous segments to solve the problem of unfortunately App has stopped.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Solved] Warning: Camera Failed on Oppo A78
 
 In this article, you will learn why camera fails on Oppo A78 devices, how to make camera work again, as well as a system repair tool to fix this issue in few clicks.
@@ -392,8 +393,6 @@ There might be much more reasons for the camera failed error, but these are the 
 
 If you are experiencing some kind of issues in your Oppo A78s such as Oppo A78 camera failed, the Oppo A78 device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Oppo A78 devices and perform a complete system repair so the Oppo A78 device starts working normally.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One-click solution to fix camera failed on Oppo A78 devices
@@ -421,6 +420,10 @@ One-click solution to fix camera failed on Oppo A78 devices
 
 ![fix samsung camera failed in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** As soon as the firmware is downloaded, the software will automatically initiate the repair process. You will be able to see the ongoing repair.
 
 ![fixing samsung camera failed](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -445,6 +448,10 @@ Tap on “Camera” to open the “Camera Info” screen and once you are there,
 
 That's all, now return to the Home Screen and access the camera again. Hopefully, it will work now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to fix Camera Failed error by removing third-party Apps?
 
 Another tip to fix Oppo A78 camera failed error is by deleting a few unwanted third-party Apps (recently installed) to free some space in the Oppo A78 device’s internal storage. It is essential to create and keep storage space for the camera App to function smoothly and allow it to store its data as well. Also, if this issue only happens recently, it might be some newly installed Apps causing some glitches with the camera.
@@ -463,6 +470,10 @@ Simply, follow the instructions given below to remove Apps from Oppo A78 Devices
 
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How to fix Camera Failed error by wiping Cache Partition?
 
 This method might seem tedious and time-consuming and you may also lose your data and essential settings. However, wiping the Cache Partition only cleans your device system internally and gets rid off any unwanted and trouble making elements causing Warning: Camera Failed error. Follow the step-by-step guide given below to clean Cache Partition smoothly:
@@ -479,9 +490,17 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2017/07/14997499417028.jpg "reboot system now")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You may try to use the camera app once the process completes.
 
@@ -517,6 +536,10 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/07/14997069833129.jpg "backup and reset")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Now you must first select “Factory data reset” and then tap on “Reset Device” as shown in the screenshot below.
 
 ![factory data reset](https://images.wondershare.com/drfone/article/2017/07/14997070083006.jpg "factory data reset") ![reset device](https://images.wondershare.com/drfone/article/2017/07/14997070259341.jpg "reset device")
@@ -528,9 +551,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 Note: You will have to set up your Oppo A78 device from scratch once it is reset, however, that is a small price to pay to fix your Camera App.
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Oppo A78 devices.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -544,9 +564,24 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-step-by-step-process-for-crafting-a-unique-discord-avatar-pcmobile/"><u>[New] Step-by-Step Process for Crafting a Unique Discord Avatar (PC/Mobile)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-building-believable-characters-through-dialogue/"><u>[Updated] Building Believable Characters Through Dialogue</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixelpioneer-8-version-visual-conjurer/"><u>[Updated] PixelPioneer 8-Version Visual Conjurer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture-for-2024/"><u>[Updated] Revolutionize Your Laptop Experience Innovative Methods for Screen Capture for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/immerse-yourself-in-the-world-of-superheroes-with-apple-vision-pro-available-now/"><u>Immerse Yourself in the World of Superheroes with Apple Vision Pro – Available Now!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-tecno-spark-20c-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Tecno Spark 20C Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-f14-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy F14 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-youtubthumbnail-guide-for-mac-users/"><u>In 2024, The Ultimate YoutubThumbnail Guide for Mac Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-hot-40-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 40 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edge-40-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-c55-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme C55? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-fix-guide-for-common-windows-resolutions/"><u>The Essential Fix Guide for Common Windows Resolutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-lighting-on-faulty-corsair-keyboards/"><u>Troubleshooting Guide: Restoring Lighting on Faulty Corsair Keyboards</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Sony Xperia 5 V Wont Turn On | Dr.fone
-date: 2024-07-14T05:40:44.153Z
-updated: 2024-07-15T05:40:44.153Z
+date: 2025-02-07T20:44:49.868Z
+updated: 2025-02-11T01:51:43.776Z
 tags: 
   - problems
 categories:
@@ -34,7 +34,9 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -81,9 +83,6 @@ The data recovery tool will guide you on how you can go into your Sony Xperia 5 
 
 Using the provided USB cable, attach your Sony Xperia 5 V to your computer – the data recovery tool should be able to discover your device automatically and scan it for recoverable data.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
@@ -94,13 +93,15 @@ Wait for the program to finish scanning the phone – once completed, you will b
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ShpCFggyBvs"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Android Phone Won't Turn On: **One Click Fix**
 
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -128,9 +129,6 @@ Step 2: You will find a range of options, tap on the ‘Android Repair’ one. H
 
 Step 3: Now, over the Sony Xperia 5 V device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to SMS to export text messages](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Enter ‘Download’ mode for fixing your Sony Xperia 5 V**
@@ -140,6 +138,10 @@ Step 1: You need to put your Sony Xperia 5 V in Download mode for resolving the 
 - For the Sony Xperia 5 V device having ‘Home’ button, you got to switch it off and press ‘Volume Down’, ‘Home’, and ‘Power’ keys for 5-10 seconds at once. Let them go and click on the ‘Volume Up’ button to put your phone in ‘Download’ mode.
 
 ![fix Android Phone not turn on with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - For ‘Home’ button-less device, turn the phone/tablet down first. For 5 – 10 seconds, hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons. Tap on the ‘Volume Up’ button to get into the ‘Download’ mode, after releasing the 3 buttons.
 
@@ -195,6 +197,10 @@ Luckily for your, multiple ways are available to resolve this issue. This articl
 
 Answering what causes Sony Xperia 5 V screen unresponsiveness is difficult. Many reasons, ranging from minor bugs to serious hardware issues, can cause it. To find out the exact or near exact reason, you will have to review your device's activity before this issue occurs. You can use the following common reasons behind the ****Sony Xperia 5 V 6T touch screen not working**** as the basis of your investigation:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Touchscreen Calibration
 
 Excessive smartphone use can cause the touchscreen to go out of the required settings. It means until the touch screen is not recalibrated properly, the touch not working issues will continue to pop up.
@@ -221,9 +227,6 @@ As with any other issue or device, the first fix you should always try first is 
 
 ****Instruction:**** Press and hold the “Power” button for a couple of seconds until it turns off. Wait a few moments and then use the “Power” button to turn on the Sony Xperia 5 V device. In some of the Sony Xperia 5 V devices, you also have to use the “Volume Down” button along with the “Power” button to restart the Sony Xperia 5 V device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart your oneplus device](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-1.jpg)
 
 ### Solution 2. Check the Charging Port and Battery
@@ -231,6 +234,10 @@ As with any other issue or device, the first fix you should always try first is 
 The issues with the battery of your Sony Xperia 5 V 5 can also lead to ****Sony Xperia 5 V not working****. It can be due to your device's low or near-empty battery. While in some cases, serious issues with the battery can also be behind this problem. Similarly, the reason behind your phone's touch not working can be charging port issues.
 
 Thus, you should check and clean your device's charging port and see if it resolves the problem. Moreover, turn off your device, charge it, and then restart it to check if the touch screen not working issue is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3. Contact the Sony Xperia 5 V Customer Support
 
@@ -256,6 +263,10 @@ A common reason for ****Sony Xperia 5 V Nord being stuck on the loading screen**
 
 ![select wipe cache option](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5. Reset to Factory Settings
 
 Sometimes, clearing the cache partition doesn't help resolve the touchscreen issue. In that case, You have to factory reset your Sony Xperia 5 V device. It is the best and last solution if other fixes haven't worked and you can't pinpoint the reason. Factory resetting your Sony Xperia 5 V will delete all phone data. Thus, you should create a proper backup before trying this fix. Follow these steps to factory reset your Sony Xperia 5 V in no time:
@@ -266,9 +277,6 @@ Sometimes, clearing the cache partition doesn't help resolve the touchscreen iss
 
 ****Step 2:**** In the “Reset Options,” select “Erase all data (factory reset)” and confirm the action by again pressing “Erase All Data.” It will start the factory reset process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start the erase process](https://images.wondershare.com/drfone/article/2023/03/fix-oneplus-touchscreen-not-working-7.jpg)
 
 ### Solution 6. Replace the Old Screen with A New Screen
@@ -322,8 +330,6 @@ You have already understood ‘why won't your app open?’ at the start of this 
 
 Well, in such a case [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can prove to be your savior. It resolves failed Android system update issues, crashing apps, and black screen of death. It can also get an unresponsive or bricked Android device or boot loop stuck device fixed with one click.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Why won't my app open? The quick fix is here!
@@ -374,6 +380,10 @@ Step 3: Once Dr.Fone - System Repair (Android) verifies the downloaded firmware,
 
 ![fixing App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: 3 Common fixes if a particular App won’t open
 
 In this segment, we will discuss the three best ways to help you fix the problem if only a particular App won't open/launch/ run and takes an indefinite time to load.
@@ -392,12 +402,17 @@ Follow the steps given below to update the app which won't open on your phone:
 
 ![select “My Apps & Games](https://images.wondershare.com/drfone/article/2017/06/14984183627979.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 • In this step, you may click on “Update All” to update all Apps for which an update is available or manually select the Apps which you wish to Update.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Update All](https://images.wondershare.com/drfone/article/2017/06/14984183782889.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once the App is updated, close all Apps and tabs running in the background. Now try to launch the app once again. If it opens, your problem is solved. If not, DO NOT worry as there are more ways to help you.
 
@@ -463,6 +478,10 @@ Restarting your Sony Xperia 5 V to fix an error might sound old school but it gi
 
 ![click on “Restart”](https://images.wondershare.com/drfone/article/2017/06/14984184913200.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Your phone will automatically restart and once it does, you can try to launch the App. You may also restart your Sony Xperia 5 V by pressing the power button for about 15-20 seconds.
 
 3\. Reset Factory Settings
@@ -485,9 +504,6 @@ Your phone will now reboot and will be required to set up from scratch.
 
 So go ahead and try them out now!
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -500,9 +516,22 @@ So go ahead and try them out now!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-navigating-the-maze-fb-messengers-a-video-downloading-guide/"><u>[New] 2024 Approved Navigating the Maze FB Messengers - A Video Downloading Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-top-ten-lady-gamers-on-youtube-rising/"><u>[New] 2024 Approved Top Ten Lady Gamers on YouTube Rising</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-access-your-fb-links-easily-download-8-best-online-utilities/"><u>[New] Access Your FB Links Easily Download 8 Best Online Utilities</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-through-your-preferred-youtube-viewing-pace/"><u>2024 Approved Navigating Through Your Preferred YouTube Viewing Pace</u></a></li>
+<li><a href="https://win-news.techidaily.com/diagnosing-windows-pc-hardware-issues-expert-tips-from-yl-computing/"><u>Diagnosing Windows PC Hardware Issues: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-xiaomi-redmi-13c-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi 13C Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-vivo-v30-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo V30 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-note-13-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi Note 13 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-note-12-proplus-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Xiaomi Redmi Note 12 Pro+ 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y56-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y56 5G online without jailbreak</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-why-your-rocket-league-game-keeps-failing-at-launch/"><u>Troubleshooting: Why Your Rocket League Game Keeps Failing at Launch</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-is-facebook-choosing-just-feed-and-what-does-it-mean-for-users/"><u>Why Is Facebook Choosing 'Just Feed', And What Does It Mean for Users</u></a></li>
+</ul></div>
 

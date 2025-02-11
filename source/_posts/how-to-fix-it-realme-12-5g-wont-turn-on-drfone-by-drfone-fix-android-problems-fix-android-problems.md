@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Realme 12 5G Wont Turn On | Dr.fone
-date: 2024-07-14T05:40:02.439Z
-updated: 2024-07-15T05:40:02.439Z
+date: 2025-02-04T19:34:52.539Z
+updated: 2025-02-10T18:50:09.887Z
 tags: 
   - problems
 categories:
@@ -28,13 +28,15 @@ If you cannot find any reason why your Realme 12 5G will not switch on, here are
 4. Your device is clogged up with dust and lint causing the hardware to not work properly.
 5. [Your power button is broken](https://www.wondershare.com/reset-android/restart-android-without-power-button.html), which caused it to not be able to trigger the necessary action needed to power up the Android phone. Check to also see if your connectors have no carbon build-up which will cause your phone to not be charged properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Rescue Data on Android Phone That Will Not Turn On
 
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -67,6 +69,10 @@ Opt for "Touch screen not responsive or cannot access the phone" or "Black/broke
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Look up for your device – pick the Realme 12 5G device Name and Device Model. Advance by clicking on the Next button.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
@@ -83,6 +89,10 @@ Using the provided USB cable, attach your Realme 12 5G to your computer – the 
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
 
 Wait for the program to finish scanning the phone – once completed, you will be able to get a list of recoverable files. You can have a preview of the file by highlighting them. Tick the box next to the file name and click on Recover to start retrieving the files and save them in the destination of your choosing.
@@ -91,13 +101,15 @@ Wait for the program to finish scanning the phone – once completed, you will b
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ShpCFggyBvs"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Android Phone Won't Turn On: **One Click Fix**
 
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -117,9 +129,6 @@ Prior to fixing the Android phone will not switch and getting things back in act
 
 Step 1: Run Dr.Fone on your computer once the installation is complete and tap the ‘Repair’ option form the interface. Now, connect your Android mobile with the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![fix Android Phone not turn on by repairing system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
@@ -128,9 +137,6 @@ Step 2: You will find a range of options, tap on the ‘Android Repair’ one. H
 
 Step 3: Now, over the Realme 12 5G device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to SMS to export text messages](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Enter ‘Download’ mode for fixing your Realme 12 5G**
@@ -147,9 +153,6 @@ Step 1: You need to put your Realme 12 5G in Download mode for resolving the And
 
 Step 2: Hitting the ‘Next’ key will allow you to download firmware and proceed with the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download firmware to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
@@ -186,8 +189,6 @@ There are several reasons as to why your Realme 12 5G won’t turn on. The probl
 
 It is important to note that your phone contains some important data. Therefore, when your Realme 12 5G won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
 
-
-
 ## Super Easy Ways To Deal with Realme 12 5G Unresponsive Screen
 
 The evolution of smartphones signifies the development of mobile communication technology. Different from the initial years, they are not just used for messaging and calling but have many other applications. Realme 12 5G cell phones are presently utilized for perusing the Internet and exploring through maps, photography, videography, and numerous other used cases. A development in arranged availability goes hand-in-hand with the development of cell phones.
@@ -195,7 +196,6 @@ The evolution of smartphones signifies the development of mobile communication t
 Realme 12 5G smartphones are gaining popularity owing to their low costs, high quality, and innovative features. High-resolution cameras, extensive battery life, and lightning-fast processing are just a few of the advantages of these mobile devices. Nevertheless, customers may sometimes need help with issues, such as a non-functioning Realme 12 5G touchscreen, which may be challenging.
 
 Some common issues might arise for Realme 12 5G phone users. The Redmi note 4 touch not working is a serious problem. It can only go up to the initialization screen. In this guide, you'll find the information you need to troubleshoot and fix the most common problems reported by Motorola customers.
-
 
 ## **What causes a Realme 12 5G Screen to be unresponsive?**
 
@@ -207,9 +207,6 @@ The following are some potential reasons for an unresponsive screen on a Realme 
 
 A touch screen not working on Realme 12 5G smartphones indicates a soft brick (recoverable by firmware update), often caused by a defective or undercharged battery. System file corruption, old firmware, or failed upgrades are all possible causes. Several customers have complained that after installing a software update, their Realme 12 5G 4 or 5 device's screen became unresponsive and remained at the boot logo.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **There might be issues with the Realme 12 5G device itself**
 
 Screens on Realme 12 5G devices may become unresponsive for a variety of hardware-related reasons. A broken LCD panel, faulty touch sensor, or loosened ribbon wires are all possible causes. Every Realme 12 5G device, including the Note 4 and 5, is susceptible to these problems.
@@ -228,6 +225,10 @@ Before taking the item in for repairs, see if you can figure out the problem ind
 
 ![restart your phone](https://images.wondershare.com/drfone/article/2023/03/reset-button-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Giving your Realme 12 5G a restart is one of the most common solutions if you encounter an unresponsive screen on your phone. Here’s how.
 
 **Step 1:** Press and hold the **power button** until the screen becomes black;
@@ -244,6 +245,10 @@ If the battery of your Realme 12 5G is empty, your screen is expected to be unre
 2. Leave it for about an hour.
 3. Come back to check. Turn your phone on.
 4. Test if the touchscreen is now working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Solution 3: Contact Customer Service**
 
@@ -280,6 +285,10 @@ Doing a factory reset may be your last remaining choice if the preceding solutio
 3. **Recovery Menu**will appear in your screen, press v**olume down button** until **Factory reset** is highlighted
 4. Press the**power button** in selecting the Factory reset option and your phone should restart automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Solution 6: Using Dr. Fone Android Repair Toolkit**
 
 ![dr fone system repair](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -312,7 +321,6 @@ You might find lots of people online stating I can't receive text messages on An
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
 
-
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
 The most common symptoms that would clarify that your Android messaging service is not working right are given below:
@@ -340,8 +348,6 @@ Apart from all these reasons, some additional causes are also there that can lea
 If you are not willing to waste your precious time fixing the message problem, then you can switch to the top-rated Android repair tool, i.e., [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). With this software, you can easily fix issues like the black screen of death, crashing apps, can't receive text messages on Android, or failed download. If you have no idea what is causing the message app problem, you can simply think of repairing the whole Android system.
 
 You surely need to try the software as it can perform the following tasks:
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -403,6 +409,10 @@ Step 2: Click on the Clear Cache button and wait as the Realme 12 5G device free
 
 Once the cache is cleared, you can also clear the data if you want to and you’ll instantly receive the text messages on your phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: Delete Useless Messages to Free Up Space
 
 Sometimes, if you are not receiving text messages on Realme 12 5G, it means that you need to clean up the clutter of useless messages from your phone and SIM both. The phone messages can be deleted directly from your phone. But the SIM card messages needed to be deleted separately. The SIM cards don’t have enough memory to hold plenty of messages. Therefore, once the storage is full, you will stop receiving messages entirely.
@@ -411,6 +421,10 @@ Step 1: Open the messages app and open settings. Look for an option that says �
 
 ![android not receiving texts - free up space](https://images.wondershare.com/drfone/article/2019/02/manage-SIM-card-messages.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: There, you will see the existing messages on the SIM. You can either delete all the messages or perform a selective deletion to free up space.
 
 ## Part 8: Try a Third-party Messaging App
@@ -418,6 +432,10 @@ Step 2: There, you will see the existing messages on the SIM. You can either del
 If you can’t receive messages on your default app, then you can try installing a third-party messaging app. Nowadays, most people use social media messaging apps like WhatsApp, Skype, etc. for messaging. So, if somehow, the Android is not receiving texts, then the new apps can help you to send and receive messages with a non-native network.
 
 _Further Reading: [15 Best Free Chat Apps in 2022. Chat Now!](https://drfone.wondershare.com/topsoftware/best-free-chat-apps.html) _
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 9: Ensure your Phone is Fully Charged
 
@@ -433,9 +451,6 @@ Taking the iPhone in hand makes sure that you are connected to a network. Open s
 
 If the FaceTime option is also on, you might have to deactivate that too to send messages and calls as regular ones.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 11: Update Your Android
 
 Updating the operating system to the latest Android version can fix some system errors which may cause the "Android not receiving texts" issue because the latest version always brings a better user experience and fix the know bugs.
@@ -443,7 +458,6 @@ Updating the operating system to the latest Android version can fix some system 
 ### Conclusion
 
 Now you know several methods that can work if the Android messaging app is not working.  If you experience this kind of issue with your Realme 12 5G, then you are most likely to resolve them with these fixes. If none of the solutions seem to fix the issue, then you can take the help of Dr. Fone - System Repair (Android) feature. With this tool, you can resolve all kinds of working issues on your device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -457,9 +471,20 @@ Now you know several methods that can work if the Android messaging app is not w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-youtube-video-replays-your-comprehensive-tutorial/"><u>[Updated] 2024 Approved Mastering YouTube Video Replays Your Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/c-span-archive-entry-the-free-download-guide-for-2024/"><u>C-Span Archive Entry The Free Download Guide for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-hidefake-snapchat-location-on-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/matching-tunes-to-themes-in-film-clips/"><u>Matching Tunes to Themes in Film Clips</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-top-200-free-video-soundtrack-collections/"><u>New In 2024, Top 200 Free Video Soundtrack Collections</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-k11-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo K11 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-perfect-pairing-of-xbox-and-zooming-techniques-for-gaming-for-2024/"><u>The Perfect Pairing of Xbox and Zooming Techniques for Gaming for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-led-flashlight-picks-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated LED Flashlight Picks - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbiased-comparison-the-leading-alternative-to-apple-and-tiles-wallet-airtags-revealed/"><u>Unbiased Comparison: The Leading Alternative to Apple & Tile's Wallet AirTags Revealed</u></a></li>
+</ul></div>
 

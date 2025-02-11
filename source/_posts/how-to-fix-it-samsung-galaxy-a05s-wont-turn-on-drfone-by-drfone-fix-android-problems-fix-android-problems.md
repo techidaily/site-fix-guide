@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Samsung Galaxy A05s Wont Turn On | Dr.fone
-date: 2024-07-14T05:40:22.161Z
-updated: 2024-07-15T05:40:22.161Z
+date: 2025-02-09T21:38:57.060Z
+updated: 2025-02-10T18:07:55.608Z
 tags: 
   - problems
 categories:
@@ -33,8 +33,6 @@ If you cannot find any reason why your Samsung Galaxy A05s will not switch on, h
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -71,11 +69,19 @@ Look up for your device – pick the Samsung Galaxy A05s device Name and Device 
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Go into your Samsung Galaxy A05s’s Download Mode.**
 
 The data recovery tool will guide you on how you can go into your Samsung Galaxy A05s’s Download Mode. You should be getting a step-by-step guide on your computer.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Scan the Android Phone.**
 
@@ -96,8 +102,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -125,9 +129,6 @@ Step 2: You will find a range of options, tap on the ‘Android Repair’ one. H
 
 Step 3: Now, over the Samsung Galaxy A05s device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to SMS to export text messages](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 **Phase 2: Enter ‘Download’ mode for fixing your Samsung Galaxy A05s**
@@ -149,6 +150,10 @@ Step 2: Hitting the ‘Next’ key will allow you to download firmware and proce
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
 ![fixed Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Android Phone Won't Turn On: **Common Fix**
 
@@ -213,8 +218,6 @@ Any error that occurs during downloading or installation process not only hinder
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
@@ -269,6 +272,10 @@ At the top, an option will appear
 \>Then Select Enable
 
 ![Application Manger](https://images.wondershare.com/drfone/article/2017/06/14976274734570.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Enabling download manager to give permission to the Samsung Galaxy A05s device to start the download or installation process.
 
@@ -340,6 +347,10 @@ Download link: [https://www.luckypatchers.com/download/](https://www.luckypatche
 
 ![lucky patcher](https://images.wondershare.com/drfone/article/2017/06/14976278389200.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: If still, you are in the state of trouble to solve the issue of error code 505 then Google Play help center is here to look out all troubles related to app store and its service. You can check out the details by visiting the following link:
 
 [https://support.google.com/googleplay/?hl=en-IN#topic=3364260](https://support.google.com/googleplay/?hl=en-IN#topic=3364260)
@@ -372,14 +383,9 @@ The 506 error code is a frequent error when operating the Google Play Store. You
 
 However, sometimes the five simple couldn’t work anymore. A system repair software can be helpful quickly. We really recommend [the Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) , only a few minutes, the error will be fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
-
-
 
 ## How To Deal With the Samsung Galaxy A05s Screen Black But Still Works?
 
@@ -403,9 +409,6 @@ The first thing that comes to mind when your **phone screen suddenly goes black*
 
 If your **phone is working, but the screen is black,** there’s also a high probability that you are having an isolated issue with a particular application. An app could be loading something, which often happens for streaming apps such as YouTube, Netflix, Prime, and more, especially if you have slow internet connectivity.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Software Issues
 
 A potential reason why **your phone screen went black but still works** could be because of your smartphone’s software. This problem suggests that your Samsung Galaxy A05s is crashing, potentially freezing your device if not addressed immediately. If this is the cause, then your device is likely experiencing a critical system error, and you should directly try to reboot your phone.
@@ -420,9 +423,6 @@ If you dropped your phone, there’s a high chance the LCD connectors went loose
 
 Here are four valuable methods you should know on **what to do when your phone screen goes black** on your iPhone or Android smartphone to get them working again.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Force Restart your Android/iOS Smartphone
 
 If your **phone screen is black but still works,** force restarting it is the easiest way to fix it. The following are the detailed steps for both Android and iOS devices.
@@ -434,6 +434,10 @@ Here is how you force restart an Android device when your **phone screen doesn�
 **Step 1**: Press and hold the **Power** and **Volume Down** buttons simultaneously.
 
 ![force restart android device](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2**: Hold the same buttons until your device restarts, and display the phone’s logo.
 
@@ -454,6 +458,10 @@ If you own an iPhone 7, press and hold the **Side** button and **Volume Down** 
 ### Method 2: Uninstall or Update Outdated Applications
 
 In some cases, your **phone screen is black but still works** because of installing incompatible apps on your iOS/Android device. If the installed app is frequently crashing, it may be the source of a blank cell phone **screen.** Uninstall the problem app to see if the black screen disappears or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Inspect the LCD Connectors
 
@@ -485,9 +493,6 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 **Step 2**: Use the **Volume** buttons to navigate the choices and select **Wipe data/factory reset** and confirm your choice with the **Power** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-07.jpg)
 
 **Step 3**: Simply wait for the process to complete and wait for your Samsung Galaxy A05s to restart automatically.
@@ -561,9 +566,17 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![drfone system repair for ios](https://images.wondershare.com/drfone/product-2021/system-repair/swp2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2B (For Android)**: Click **Start.** On the next window, choose the **Brand, Name, Model, Country,** and **Carrier** of your smartphone, then click **Next**.
 
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: Follow the on-screen instructions provided on the main program window and wait for the repair process to complete.
 
@@ -573,12 +586,15 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 **4,262,204** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Our increasing reliance on smartphones has led to amazing advancements in new technologies. However, lingering issues such as your **phone screen not turning on** or your **phone screen being black but still working** are ongoing problems to many. That’s why learning how to prevent these events is essential to take care of your smartphone.
 
 Doing all the recommended methods above usually solves the case. If the different fixes don’t work for you, Dr.Fone – System Repair for iOS and Android can help resolve all your problems within less than 10 minutes. You can download it for free on Windows and Mac to test it yourself.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -592,9 +608,19 @@ Doing all the recommended methods above usually solves the case. If the differen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/astering-playlist-sharing-on-youtube-for-2024/"><u>[New] Mastering Playlist Sharing on YouTube for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ideal-tasks-during-your-podcast-sessions/"><u>[Updated] In 2024, Ideal Tasks During Your Podcast Sessions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-beginner-secrets-to-mastering-photoshop-edits/"><u>5 Beginner Secrets to Mastering Photoshop Edits</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-infinix-note-30-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Infinix Note 30 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-lava-yuva-3-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lava Yuva 3 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Life360 on Windows PC For Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-nord-3-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Nord 3 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-your-pcs-failure-to-boot-successfully/"><u>Step-by-Step Guide: Correcting Your PC’s Failure to Boot Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-automotive-venture-latest-insights-on-costs-launch-timeline-and-specifications/"><u>Upcoming Apple Automotive Venture: Latest Insights on Costs, Launch Timeline & Specifications</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-reduce-video-size-for-free-10-best-online-compressors/"><u>Updated Reduce Video Size for Free 10 Best Online Compressors</u></a></li>
+</ul></div>
 

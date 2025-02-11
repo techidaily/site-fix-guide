@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Agni 2 5G | Dr.fone
-date: 2024-07-14T05:43:03.211Z
-updated: 2024-07-15T05:43:03.211Z
+date: 2025-02-08T17:26:44.932Z
+updated: 2025-02-10T22:30:19.980Z
 tags: 
   - problems
 categories:
@@ -64,9 +64,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
 ****Step 2:**** When the Lava Agni 2 5G device turns off, wait a few seconds.
@@ -163,6 +160,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For a device that lacks a Home button:**
 
 1. Turn off the Lava Agni 2 5G device.
@@ -210,6 +211,14 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
@@ -240,9 +249,6 @@ Read on to find out more.
 
 Parse Error, better known as “there was a problem parsing the package” error is very common and normally surfaces when we try to download and install new Apps onto our Android devices from Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Parse Error](https://images.wondershare.com/drfone/article/2017/06/14985107664037.jpg)
 
 The reason for the error message to pop-up are many but none of them can be blamed singularly for the “there is a problem parsing the package” error. Given below is a list of the most probable reasons for Parse Error to stop an App from installing. Examine them carefully before moving on to the solutions to fix the “there was a problem parsing the package” error.
@@ -270,8 +276,6 @@ They are easy, user-friendly, and do not take much of your time. So don not wast
 #### **2.1 One Click to Fix ‘There is a Problem Parsing the Package**
 
 If you’re still encountering the Parsing error, there may be a problem with the Lava Agni 2 5G device data on your device, which means you’ll need to repair it. Luckily, there’s a simple, one-click solution you can follow called [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/).
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -301,9 +305,17 @@ Input your device and firmware information to confirm you’re installing the ri
 
 ![fix problem parsing the package in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once complete, the firmware will start downloading.
 
 ![download the firmware to fix problem parsing the package](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #3** Once the firmware has downloaded, it will automatically install it to your device.
 
@@ -425,14 +437,9 @@ Error Code 963 is basically an outcome of data crash which mostly is seen in che
 
 All these reasons and more can handle with ease and you can continue to use Google play services smoothly. In the following segment, we will discuss various fixes to cure the problem to enable to you download, install and update Apps on your device normally.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part 2: Easiest solution to fix _Error Code 963_ on Android
 
 When it comes to the most convenient solution to fix error 963, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) cannot be missed. It is the most productive program that covers a wide range of Android issues. It ensures full safety while performing and one can fix the Android issues in a hassle-free way.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -458,6 +465,10 @@ Step 1 – To begin fixing error 963, run Dr.Fone after downloading and installi
 Step 2 – On the left panel, you’re supposed to choose ‘Android Repair’ and then click the ‘Start’ button.
 
 ![select the android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3 – On the following screen, you need to choose the appropriate details for your device like the name, brand, model, country/region etc. Later, go for warning confirmation and hit ‘Next’.
 
@@ -487,6 +498,10 @@ Step 3 – Upon successful downloading and verification of the firmware, the pro
 
 ![start the fixing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4 – Within a while, the Google play error 963 will be vanished.
 
 ![make the fix google play error 963 disappear on android](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -505,16 +520,21 @@ Follow the steps given below to fix  Error Code 963:
 
 Visit “Settings” and select “Application Manager”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Application Manager](https://images.wondershare.com/drfone/article/2017/06/14984136371337.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now select “All” to see all downloaded and built-in Apps on your device.
 
 Select “Google Play Store” and from the options that appear, tap on “Clear Cache” and “Clear Data”.
 
 ![Clear Data](https://images.wondershare.com/drfone/article/2017/06/14984133035184.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you are done clearing Google Play Store Cache and Data, try to download, install or update the App facing Google Play Error 963 again.
 
@@ -524,9 +544,6 @@ Uninstalling Google Play Store updates is an easy and quick task. This method is
 
 Visit “Settings” and select “Application Manager”.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select “Application Manager”](https://images.wondershare.com/drfone/article/2017/06/14984135382889.jpg)
 
 Now select “Google Play Store” from “All” Apps.
@@ -581,6 +598,10 @@ Select your account and from the “Menu” select “Remove account” as shown
 
 ![select “Remove account”](https://images.wondershare.com/drfone/article/2017/06/14984138188713.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once your account is removed, follow the steps given hereunder to add it back again after a few minutes:
 
 Go back to “Accounts” and select “Add Account”.
@@ -607,9 +628,6 @@ This remedy is as simple as it sounds and has helped many HTC users to get rid o
 
 Google Play Errors are a very common phenomenon these days, especially Error Code 963 which usually occurs in the Google Play Store when we try to download, install or update an App. There is no need to worry if you see Error Code 963 pop-up on your screen as your device and its software are not to be blamed for Error 963 to suddenly surface. It is a random error and can be fixed easily by you. You do not need any technical assistance to deal with the issue. All you need to do is follow the steps introduced in this article to use Google Play Store and its services smoothly.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -622,9 +640,24 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-amplifying-instagram-video-reach-and-traffic/"><u>[New] In 2024, Amplifying Instagram Video Reach & Traffic</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solved-how-to-view-hidden-files-in-windows-10windows-help/"><u>[Solved] How to View Hidden Files in Windows 10–Windows Help</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-charting-the-future-the-next-gen-youtube-festivals/"><u>[Updated] 2024 Approved Charting the Future The Next Gen Youtube Festivals</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-uncover-top-8-spots-to-find-free-3d-text-psdfiles/"><u>[Updated] In 2024, Uncover Top 8 Spots to Find Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-poco-x5-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Poco X5 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-xiaomi-redmi-k70-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi Redmi K70 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-edgeplus-2023-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Edge+ (2023) Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-xcover-7-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy XCover 7 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-k11-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo K11 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-guide-to-travel-blogs-on-youtube-for-2024/"><u>The Ultimate Guide to Travel Blogs on Youtube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-3-scatti-riepilogativi-su-convertitori-video-rapidi-il-guida-completa/"><u>Top 3 Scatti Riepilogativi Su Convertitori Video Rapidi - Il Guida Completa</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/travis-scott-mobile-wallpapers-high-resolution-desktop-and-phone-imagery-officially-licensed-by-yl-tech/"><u>Travis Scott Mobile Wallpapers: High-Resolution Desktop & Phone Imagery - Officially Licensed by YL Tech</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-htc-u23-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on HTC U23 Pro FRP Bypass</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/zing-jump-cuts-to-amplify-your-vlog-impact/"><u>Utilizing Jump Cuts to Amplify Your Vlog Impact</u></a></li>
+</ul></div>
 

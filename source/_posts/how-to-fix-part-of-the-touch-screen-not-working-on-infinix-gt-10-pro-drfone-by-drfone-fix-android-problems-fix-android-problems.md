@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix GT 10 Pro | Dr.fone
-date: 2024-07-14T05:42:39.316Z
-updated: 2024-07-15T05:42:39.316Z
+date: 2025-02-10T00:59:35.029Z
+updated: 2025-02-10T20:42:26.695Z
 tags: 
   - problems
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 You probably touch the screen of your phone hundreds of times per day. It’s no surprise that smartphone touchscreens are one of the most common components to fail, given their delicate glass construction. However, a ****part of the touch screen not working**** on your Infinix GT 10 Pro does not necessarily mean it is a hardware issue. There could be other reasons why your Android’s touch screen stopped responding.
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Is Part of My Screen Not Working
 
@@ -57,8 +61,9 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 If you have already tried running the Infinix GT 10 Pro device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Infinix GT 10 Pro’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -89,6 +94,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -104,6 +113,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 ****Step 4:**** You will then find the switch to turn it on or off. Disable itby toggling the button off.
 
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
@@ -184,6 +197,10 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -226,9 +243,6 @@ Fortunately, there are plenty of solutions out there to help you out and get the
 
 ## Part 1. Install Snapchat again from Google Play Store
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![snapchat not responding - reinstall snapchat](https://images.wondershare.com/drfone/article/2019/04/install-snapchat-googleplay.png)
 
 One of the best ways to resolve the Snapchat crashing problem or [Snap Map not working issue](https://drfone.wondershare.com/snapchat/snap-map-not-working.html) is to delete the app and reinstall it again. When you’re using your phone, there is data continually flowing around and data being sent here, there, and everywhere.
@@ -263,6 +277,10 @@ Here’s how to fix it.
 
     ![wipe cahce of snapchat crashing - step 1](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-one.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Tap the Settings gear icon on the top right
 
     ![wipe cahce of snapchat crashing - step 2](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-two.png)
@@ -284,8 +302,6 @@ Here’s how to fix it.
 If you’re experiencing the Snapchat crashing on Android often, or you’re experiencing similar errors with other apps, this can be an indication that there’s something wrong with your Android operating system.
 
 The best way to fix this is to repair your device using the software known as Dr.Fone - System Repair (Android). This is a powerful repair system that can completely recover your device from any errors, including the Snapchat keeps crashing error.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -329,18 +345,16 @@ The method will slightly differ depending on whether your device has a home butt
 
 **Step 6:** That’s it! Once you see the screen saying your device has been repaired, you’ll be able to close the Dr.Fone - System Repair (Android) software, disconnect your phone, and can start using Snapchat as normal without the Snapchat not responding error coming up!
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![snapchat crashing - fixed issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. Check for the Android update
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![snapchat stopping - check for android update](https://images.wondershare.com/drfone/article/2019/04/android-update-firmware.png)
 
 Similar to some of the other solutions we’ve listed above, if you’re using an outdated version of the Android operating system, but the latest version of Snapchat is coded to the most recent, this can be a cause for the Snapchat crashing on Android problem to occur.
@@ -401,8 +415,6 @@ Make sure you back up your personal files from your device first like your photo
 
 **Step 2:** Click the Reset Phone option. That’s it! The phone will take several minutes to complete the process, after which your phone will be reset to its original state.
 
-
-
 ## Fixing Persistent Pandora Crashes on Infinix GT 10 Pro
 
 Pandora, an app bringing music to our fingertips, is a beloved platform for streaming tunes on Android devices. Despite its popularity, users might encounter occasional hurdles with the app, such as unexpected hanging, lagging, or even crashing. These interruptions can disrupt our musical journey.
@@ -434,6 +446,10 @@ A stable internet connection is pivotal for seamless app functionality. Crashes 
 
 ![wi-fi page android](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Corrupted/Broken Devices
 
 If you notice that all other [apps are crashing](https://drfone.wondershare.com/iphone-problems/how-to-fix-ios-17-app-crashing.html), your device’s system may also have a problem. In this case, simple app reinstalls/restarts can fix the problem.
@@ -448,11 +464,19 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,851,928** people have downloaded it
 
 - **Step 2:** Choose **Android** on the next page.
 
 ![wondershare dr.fone phone os chooser](https://images.wondershare.com/drfone/guide/system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Click **Start** to initiate Android System Repair.
 
@@ -468,9 +492,6 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 6:** After downloading, click **Fix Now**. Then, type in “000000” on the appearing window text box. Click **Confirm.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare dr.fone initiate system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 7:** Once finished, click **Done**. Your Pandora app should not crash once you reinstall it again by now.
@@ -509,7 +530,6 @@ When persistent issues arise, especially if other apps are affected similarly, W
 
 **3,362,023** people have downloaded it
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -522,9 +542,22 @@ When persistent issues arise, especially if other apps are affected similarly, W
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-demystifying-instagrams-videography-restrictions/"><u>[New] Demystifying Instagram's Videography Restrictions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-navigating-advanced-editing-techniques-for-immersive-video-in-premiere-pro/"><u>[Updated] In 2024, Navigating Advanced Editing Techniques for Immersive Video in Premiere Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-step-by-step-approach-to-crafting-3d-text-in-photoshop/"><u>[Updated] In 2024, Step-by-Step Approach to Crafting 3D Text in Photoshop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-13t-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi 13T Pro Unlock Without Password</u></a></li>
+<li><a href="https://win11.techidaily.com/7-solutions-for-resolving-windows-11-naming-issues-in-directories/"><u>7 Solutions for Resolving Windows 11 Naming Issues in Directories</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199698884-blue-screen-of-death-eliminate-bad-system-config-issues-in-minutes/"><u>Blue Screen of Death? Eliminate 'Bad System Config' Issues in Minutes!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-analysis-on-computing-equipment-trustworthy-reviews-by-toms-hardware/"><u>Expert Analysis on Computing Equipment – Trustworthy Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mobile-masterpieces-the-ultimate-list-of-facial-enhancers-iosandroid-for-2024/"><u>Mobile Masterpieces The Ultimate List of Facial Enhancers (iOS/Android) for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a58-4g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A58 4G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-hot-40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Hot 40? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme 11 5G | Dr.fone</u></a></li>
+</ul></div>
 

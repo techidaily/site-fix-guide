@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme 11 5G | Dr.fone
-date: 2024-07-14T05:44:34.276Z
-updated: 2024-07-15T05:44:34.276Z
+date: 2025-02-09T22:32:10.186Z
+updated: 2025-02-10T18:05:00.273Z
 tags: 
   - problems
 categories:
@@ -65,6 +65,10 @@ When your touch screen stops working, the first thing you should do is restart y
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** When the Realme 11 5G device turns off, wait a few seconds.
 
@@ -233,8 +237,6 @@ Before we can see how to safely enter and exit factory mode, it is important to 
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
 
-
-
 ### Dr.Fone - Backup & Restore (Android)
 
 Flexibly Backup and Restore Android Data
@@ -260,11 +262,23 @@ Then plug in with your device to the computer. When your devic is detected, clic
 
 ![connect android phone to computer](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3. Select the file types to backup
 
 The program will display all the file types it can support to backup. Just select the ones you would like to backup and hit Backup.
 
 ![select the data types to backup](https://images.wondershare.com/drfone/drfone/android-data-backup-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 4. Start backing up your device to the computer
 
@@ -274,13 +288,15 @@ After choosing the file's type for backup, click "Backup" to begin backing up yo
 
 Note: You can use the feature of "Restore From Backup" to restore the backup file to your device, when you have the need later.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: One Click Solution to fix Android stuck in factory mode
 
 From the above parts, you are well aware about what is factory mode. As we discussed, this mode fixes most troubles with Android devices.
 
 But for situations when your Realme 11 5G gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Realme 11 5G logo or factory mode or blue screen of death with a single click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -314,6 +330,10 @@ Step 4: Enter ‘000000’ for confirmation then proceed.
 
 ![confirmation on fixing](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Phase 2: Get in ‘Download’ mode for repairing the Android device**
 
 Step 1: It’s important to put the Android device in ‘Download’ mode, here are the steps to do so –
@@ -332,14 +352,8 @@ Step 2: Press ‘Next’ for initiating firmware downloading.
 
 Step 3: Dr.Fone –Repair (Android) starts Android repair as soon as download and verification of firmware is done. All Android issues along with Android stuck in factory mode will be fixed now.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixed Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Common Solutions to Exit Factory Mode on Android
 
 Having a backup of all your data will eliminate the risk of losing any of your data. You can now safely exit factory mode using one of the 2 methods below. These two methods will work on a rooted device.
@@ -390,8 +404,6 @@ You can also exit factory mode on unrooted device by going to Settings> Applicat
 
 As much as factory mode can be a useful solution to a number of problems, it can be quite annoying when it pops up unexpectedly. Now you are equipped with 2 effective solutions to help you safely exit factory mode if ever you find yourself in this situation.
 
-
-
 ## Realme 11 5G Not Receiving Texts? 10 Hassle-Free Solutions Here
 
 If you are using an Realme 11 5G, you might have encountered the issue of not receiving texts. This issue can be quite frustrating, as it prevents you from staying connected with your friends and family. However, there are several ways to fix this issue and get your texts back up and running. In this article, we will show you some of the best solutions to fix the issue of not receiving texts on Realme 11 5G.
@@ -401,7 +413,6 @@ It is very common that the Android messaging app is not working on many devices 
 You might find lots of people online stating I can't receive text messages on Android. And usually, people don’t find a legit solution for this issue. If you are also experiencing this sort of issue on your Realme 11 5Gs, then don’t panic. We have a series of methods that can supposedly fix the problem. But at first, we will learn what the main reasons this problem arises are and how do you know that it is consistent not some random error.
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
-
 
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
@@ -430,8 +441,6 @@ Apart from all these reasons, some additional causes are also there that can lea
 If you are not willing to waste your precious time fixing the message problem, then you can switch to the top-rated Android repair tool, i.e., [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). With this software, you can easily fix issues like the black screen of death, crashing apps, can't receive text messages on Android, or failed download. If you have no idea what is causing the message app problem, you can simply think of repairing the whole Android system.
 
 You surely need to try the software as it can perform the following tasks:
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -471,6 +480,10 @@ Another simple method that you can try if you are not receiving text messages on
 
 ![android not receiving texts - check connection](https://images.wondershare.com/drfone/article/2019/02/no-internet-connection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Consult your Carrier about the Data Plan
 
 Maybe you are unable to get messages on your Realme 11 5Gs because your existing data plan has expired. You can directly contact your Carrier about the issues where your Realme 11 5G is not receiving texts. If your plan has expired, then you might have to renew it immediately. If not, then try out other fixes to resolve this issue.
@@ -489,22 +502,20 @@ Step 1: Open the Settings and go to Apps. Find the Messages app from the list an
 
 ![android not receiving texts clear cache](https://images.wondershare.com/drfone/article/2019/02/clear-message-cache.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Click on the Clear Cache button and wait as the Realme 11 5G device free up the memory of your device.
 
 Once the cache is cleared, you can also clear the data if you want to and you’ll instantly receive the text messages on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 7: Delete Useless Messages to Free Up Space
 
 Sometimes, if you are not receiving text messages on Realme 11 5G, it means that you need to clean up the clutter of useless messages from your phone and SIM both. The phone messages can be deleted directly from your phone. But the SIM card messages needed to be deleted separately. The SIM cards don’t have enough memory to hold plenty of messages. Therefore, once the storage is full, you will stop receiving messages entirely.
 
 Step 1: Open the messages app and open settings. Look for an option that says “Manage SIM Card Messages”. Sometimes, you can find this option under Advanced Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android not receiving texts - free up space](https://images.wondershare.com/drfone/article/2019/02/manage-SIM-card-messages.jpg)
 
 Step 2: There, you will see the existing messages on the SIM. You can either delete all the messages or perform a selective deletion to free up space.
@@ -516,8 +527,9 @@ If you can’t receive messages on your default app, then you can try installing
 _Further Reading: [15 Best Free Chat Apps in 2022. Chat Now!](https://drfone.wondershare.com/topsoftware/best-free-chat-apps.html) _
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 9: Ensure your Phone is Fully Charged
 
 Another possible fix to this problem might be your phone’s battery percentage. Sometimes, when the Android is in power saving mode, it disables the default apps too. As a result, you can't even receive text messages on Android. So, when you plug in the charger, the power saving mode will be disabled, and you will get your text messages.
@@ -532,6 +544,10 @@ Taking the iPhone in hand makes sure that you are connected to a network. Open s
 
 If the FaceTime option is also on, you might have to deactivate that too to send messages and calls as regular ones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 11: Update Your Android
 
 Updating the operating system to the latest Android version can fix some system errors which may cause the "Android not receiving texts" issue because the latest version always brings a better user experience and fix the know bugs.
@@ -539,7 +555,6 @@ Updating the operating system to the latest Android version can fix some system 
 ### Conclusion
 
 Now you know several methods that can work if the Android messaging app is not working.  If you experience this kind of issue with your Realme 11 5G, then you are most likely to resolve them with these fixes. If none of the solutions seem to fix the issue, then you can take the help of Dr. Fone - System Repair (Android) feature. With this tool, you can resolve all kinds of working issues on your device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -553,9 +568,26 @@ Now you know several methods that can work if the Android messaging app is not w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-accessing-c-span-archives-at-zero-cost-steps-included/"><u>[New] Accessing C-Span Archives at Zero Cost - Steps Included</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-potential-of-video-creation-with-vida/"><u>[New] Unlocking the Full Potential of Video Creation with Vida</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-captivating-your-curbsides-glow-inside-your-house/"><u>2024 Approved Captivating Your Curbside's Glow Inside Your House</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-exploring-techniques-for-photo-based-tileworks/"><u>2024 Approved Exploring Techniques for Photo-Based Tileworks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beating-the-apple-vision-game-saving-big-on-corrective-eyewear-with-revolutionary-xr-glasses-tech-insights/"><u>Beating the Apple Vision Game: Saving Big on Corrective Eyewear with Revolutionary XR Glasses | Tech Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-overcome-black-screen-error-in-mtg-arena-platform/"><u>Expert Solutions to Overcome Black Screen Error in MTG Arena Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/from-basic-to-winning-converting-batch-to-executable/"><u>From Basic to Winning: Converting Batch to Executable</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-s24-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy S24 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-x100-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo X100 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-camon-20-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Camon 20 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-apowersoft-unveils-new-pc-screen-capture-tech/"><u>In 2024, Apowersoft Unveils New PC Screen Capture Tech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lift-run-dance-select-the-most-motivating-exercise-tracks/"><u>In 2024, Lift, Run, Dance - Select the Most Motivating Exercise Tracks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55plus-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55+ Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-poco-c65-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Poco C65 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pioneering-inventions-the-most-significant-tech-advances-post-1844/"><u>Pioneering Inventions: The Most Significant Tech Advances Post-1844</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-zte-nubia-flip-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On ZTE Nubia Flip 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-note-12-pro-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi Note 12 Pro 4G Step-by-Step Solutions | Dr.fone</u></a></li>
+</ul></div>
 

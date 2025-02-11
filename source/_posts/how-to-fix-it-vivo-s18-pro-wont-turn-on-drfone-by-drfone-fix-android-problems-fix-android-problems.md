@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Vivo S18 Pro Wont Turn On | Dr.fone
-date: 2024-07-14T05:41:09.059Z
-updated: 2024-07-15T05:41:09.059Z
+date: 2025-02-07T01:01:37.381Z
+updated: 2025-02-11T01:31:12.468Z
 tags: 
   - problems
 categories:
@@ -34,8 +34,6 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
-
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
@@ -59,9 +57,6 @@ On your desktop computer or laptop, open Wondershare Dr.Fone. Click on Data Reco
 
 On the next window, you will need to check the boxes corresponding to the type of files you can recover from a list. You can get back Contacts, Messages, Call History, WhatsApp messages & attachments, Photos, Audio and more.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-01.jpg)
 
 **Step 3: Select the problem with your phone**
@@ -74,6 +69,10 @@ Look up for your device – pick the Vivo S18 Pro device Name and Device Model. 
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Go into your Vivo S18 Pro’s Download Mode.**
 
 The data recovery tool will guide you on how you can go into your Vivo S18 Pro’s Download Mode. You should be getting a step-by-step guide on your computer.
@@ -84,9 +83,6 @@ The data recovery tool will guide you on how you can go into your Vivo S18 Pro�
 
 Using the provided USB cable, attach your Vivo S18 Pro to your computer – the data recovery tool should be able to discover your device automatically and scan it for recoverable data.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
@@ -102,8 +98,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -133,6 +127,10 @@ Step 3: Now, over the Vivo S18 Pro device information window, ensure to feed you
 
 ![go to SMS to export text messages](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Phase 2: Enter ‘Download’ mode for fixing your Vivo S18 Pro**
 
 Step 1: You need to put your Vivo S18 Pro in Download mode for resolving the Android phone will not switch on.
@@ -143,9 +141,6 @@ Step 1: You need to put your Vivo S18 Pro in Download mode for resolving the And
 
 - For ‘Home’ button-less device, turn the phone/tablet down first. For 5 – 10 seconds, hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons. Tap on the ‘Volume Up’ button to get into the ‘Download’ mode, after releasing the 3 buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Android Phone not turn on without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Hitting the ‘Next’ key will allow you to download firmware and proceed with the next step.
@@ -167,6 +162,10 @@ To try fixing an Android Phone that won’t turn on, follow these steps:
 5. Start your Vivo S18 Pro in **Safe Mode** by pressing and holding down the **Menu** or **Volume Down** button on your device.
 6. Should the first five steps do not work for you, perform a hard reset. Do take note that each device will have a different way to do so and that data that is stored locally on the phone will be deleted.
 7. Send your Vivo S18 Pro to the repair shop should none of these steps work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Useful Tips to Protect Your Vivo S18 Pro
 
@@ -206,6 +205,10 @@ When Chrome or any other app keeps running on the background, issues like “Unf
 
 ![fix Chrome crashing on Android by force quiting](https://images.wondershare.com/drfone/article/2019/05/force-quit-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. The app will be force quit now. You can then start it again to check if thing get back to normal.
 
 ## Part 3: Chrome cache overflowing
@@ -227,8 +230,6 @@ Most probably Chrome is not able to support the website you are trying to access
 ## Part 5: Android firmware corruption
 
 Another reason why your Chrome has stopped could be the corrupted software. You can’t expect anything normal when your firmware corruption occurs and so in the case of Chrome. If this is the case, the re-flashing the stock ROM is the most recommended solution. And the best that can help you in this is none other than [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). Within one click, it vows to help users in flashing the ROM without any complications. Read the advantages offered by this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -266,11 +267,19 @@ Now, follow the steps displaying on the screen to enter the DFU mode. When you d
 
 ![download firmware and fix Chrome crashing on Android](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Repair the Issue
 
 Once the firmware is downloaded, you will notice that the repairing process will start by the program. Wait until it gets finished and try to start Chrome again and you’ll surely get rid of the problem.
 
 ![Chrome crashing fixed on Android](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: File Downloading issue from Chrome
 
@@ -280,6 +289,10 @@ While you were trying to download from internet, the file didn’t download prop
 - Select “Chrome” and tap on “Uninstall Updates”.
 
 ![fix Chrome crashing on Android by uninstalling updates](https://images.wondershare.com/drfone/article/2019/05/uninstall-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Now, you need to re-install it from Play Store. From the “My Apps” section, tap on Chrome and update it.
 
@@ -301,6 +314,10 @@ This is why it can so annoying when it gets to a point where the internet connec
 There are plenty of problems you could experience, whether it’s the [Wi-Fi network keeps disconnecting](https://drfone.wondershare.com/android-issue/why-does-my-phone-keep-disconnecting-from-wifi.html) on its own without any warning, perhaps a security issue where the passcode or IP address isn’t being registered properly, or even if the connection is just being super slow, even if there’s no reason too.
 
 Luckily, despite there being so many problems out there, there are also many solutions. Today, we’re going to share with you the complete definitive guide to help you get your Vivo S18 Pro connected and free from problems and issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Restart your Vivo S18 Pro
 
@@ -343,9 +360,6 @@ If your device connects to the internet while in Safe Mode, you’ll know you ha
 
 ## Part 5. Check the Android Wi-Fi adapter
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - check adapter](https://images.wondershare.com/drfone/article/2019/04/android-wifi-adapter.jpeg)
 
 If you’re using a Wi-Fi adapter on your device to connect to the internet, you’ll need to make sure this is working. This could be an adapter on your Vivo S18 Pro itself, especially if you’re using an older device, or if you’re using an adapter to boost the ranger of your router network.
@@ -375,8 +389,6 @@ If none of the solutions above are working, this could indicate a real problem w
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 A one-click tool to fix Wi-Fi not working on Android
@@ -396,6 +408,10 @@ To help you have the best and the most accurate experience when using the Dr.Fon
 Once installed, connect your Vivo S18 Pro to your computer using a USB cable, and open the software, click "System Repair".
 
 ![wifi slow on android - get a tool to fix](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step Two** Click the "Android" option in the menu and then click "Start" to begin the Repair process.
 
@@ -440,10 +456,11 @@ Of course, if you’re already using another phone on your Wi-Fi network, you kn
 
 ## Part 9. Change the password of the Wi-Fi
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone not connecting to wifi - password settings](https://images.wondershare.com/drfone/article/2019/04/android-wifi-password.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Each Wi-Fi network router will give the opportunity to choose and change the password you have to let devices connect to your network. It’s important you try changing this because you never know if someone else has accessed your network and could be blocking your device. Here’s how it works;
 
@@ -498,9 +515,6 @@ However, by factory resetting your device, you can start again from the factory 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -513,9 +527,22 @@ However, by factory resetting your device, you can start again from the factory 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-audio-allies-the-new-tiktok-trend-for-2024/"><u>[New] Audio Allies The New TikTok Trend for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-strategy-for-subtitles-on-instagram-media/"><u>[New] In 2024, The Ultimate Strategy for Subtitles on Instagram Media</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-enhance-your-tiktok-videos-with-these-tools/"><u>[Updated] Enhance Your TikTok Videos with These Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-intro-creation-made-simple-free-templates/"><u>2024 Approved Intro Creation Made Simple - Free Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-guide-to-spinning-and-combining-video-files-for-2024/"><u>Android's Guide to Spinning & Combining Video Files for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-to-preventing-and-repairing-pc-crashes-while-playing-fifa-19/"><u>Easy Guide to Preventing and Repairing PC Crashes While Playing FIFA 19</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fake-snapchat-location-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-c67-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme C67 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-a34-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy A34 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-itel-a60-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Itel A60 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-nubia-z50s-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Nubia Z50S Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-k11x-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo K11x Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategies-to-set-up-a-supportive-social-space-on-fb/"><u>Strategies to Set Up a Supportive Social Space on FB</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-seamless-music-transitions-activating-the-crossfade-option-in-apple-music/"><u>Unlock Seamless Music Transitions: Activating the Crossfade Option in Apple Music</u></a></li>
+</ul></div>
 

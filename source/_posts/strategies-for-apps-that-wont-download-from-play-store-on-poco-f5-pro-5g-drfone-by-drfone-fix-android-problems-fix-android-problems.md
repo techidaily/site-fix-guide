@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Poco F5 Pro 5G | Dr.fone
-date: 2025-01-16T16:17:54.156Z
-updated: 2025-01-22T16:10:43.433Z
+date: 2025-02-05T00:40:53.635Z
+updated: 2025-02-11T00:48:19.235Z
 tags: 
   - problems
 categories:
@@ -19,6 +19,10 @@ The frustration of **apps not downloading in the Google Play Store** can annoy u
 The inconvenience can impact user trust and the overall perception of an app's reliability. Addressing these challenges is crucial to maintaining a satisfied user experience and ensuring the success of apps on the platform. Explore the article below to learn what to do when **apps not downloading from the Play Store** issue appears.
 
 ![downloading status on phone vector](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I. 7 Usual Reasons Behind Apps Not Downloading in Google Play Store
 
@@ -117,6 +121,10 @@ If you can't download Dr.Fone for some reason, you can try these common fixes to
 
 Here are 8 other methods to troubleshoot and resolve common app downloading problems:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Internet Connection
 
 A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u> <u> an Internet signal check</u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) to ensure you are connected to a reliable Wi-Fi network or have a strong mobile data signal. If the connection is weak, consider switching to a more robust network.
@@ -127,19 +135,11 @@ A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u
 
 ![android internal storage menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Update the Play Store
 
 An outdated Play Store version may lead to compatibility issues. Open the Google Play Store, go to **Settings**, and tap the **Play Store version**. If an update is available, install it to ensure compatibility with the latest apps.
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clear Play Store Cache and Data
 
@@ -159,6 +159,10 @@ Incorrect date and time settings may disrupt the authentication process. Verify 
 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Review Download Restrictions
 
 Device settings or parental controls might impose restrictions on certain app downloads. Examine the download restrictions in the Poco F5 Pro 5G device settings and adjust them accordingly to allow for the installation of desired apps.
@@ -174,10 +178,6 @@ Sometimes, a simple restart can resolve various issues. Power off your device, w
 Ensuring a smooth app download experience demands attention to various factors. From connectivity to storage management, each step contributes to resolving download challenges. The careful review of date/time settings and download restrictions further enhances the process when you **cannot download from the Play Store**.
 
 For persistent issues, consider Dr.Fone - System Repair. The app is a viable option, providing a comprehensive approach. Embracing these measures ensures you can easily fix apps that won't download from the Play Store. Having a reliable tool beside you also fosters an uninterrupted and enjoyable downloading journey from the Play Store.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Fix Unresponsive Phone Touchscreen Of Poco F5 Pro 5G
 
@@ -260,6 +260,10 @@ Your smartphone may behave erratically due to software bugs. While these are out
 
 ![ios software update](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Perform a Factory Reset
 
 If nothing helps, your remaining option is to try completing a Factory Reset. Doing this will erase all your data, but this is arguably the quickest way to restore your **screen-frozen phone** to its factory default settings. Factory Reset is available on Android devices with almost similar steps. Here’s how.
@@ -283,11 +287,7 @@ The methods outlined above usually solve issues on your **smartphone not respond
 ![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Features
@@ -366,7 +366,7 @@ In this step-by-step guide below, you can fix your **unresponsive phone screen**
 ![dr.fone fix unresponsive touchscreen 03](https://images.wondershare.com/drfone/drfone/android-repair-09.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: People Also Ask
@@ -392,6 +392,10 @@ Wondershare Dr.Fone for iOS and Android is free to download and install. You can
 Knowing the common causes of an **unresponsive phone touchscreen** is the first step to preventing it from happening to your smartphone. While there are ways to fix it when it does happen, prevention is better than cure, as most experts say. However, if the methods outlined above don’t work, your best bet is to use a dedicated program such as Wondershare Dr.Fone for Android and iOS.
 
 Wondershare Dr.Fone works on almost all modern smartphones today and can fix a **stop-working phone screen** within less than 10 minutes. It’s beginner-friendly and doesn’t require advanced technical know-how to use right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Calls on Poco F5 Pro 5G Go Straight to Voicemail? 12 Fixes
 
@@ -430,6 +434,10 @@ One reason calls go **straight to voicemail without ringing** is if you enabled 
 
 ![phone dial app settings](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Navigate to **Supplementary services** > **Call forwarding**.
 
 ![call settings supplementary services](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-05.jpg)
@@ -452,10 +460,6 @@ To check for updates, open the **Settings** app and go to **Software update** or
 
 ![software update settings](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Reset Network Settings
 
 If the incoming calls on your **phone go straight to voicemail**, consider resetting your phone’s network settings. Network settings control how your phone connects to the cellular network. If these settings are not set up correctly, incoming calls may not be able to reach your device.
@@ -468,10 +472,6 @@ To reset your network settings on most Android devices:
 - **Step 2:** Go to **Reset** > **Reset Network Settings** and confirm the action.
 
 ![phone reset network settings](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Turn Off Bluetooth
 
@@ -531,6 +531,10 @@ If you’re using Google One VPN, try turning it off to see if that fixes the pr
 
 ![turn off google one vpn](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Contact Your Carrier
 
 If your **phone calls go straight to voicemail** after trying all the above, contact your carrier for help. They may be able to troubleshoot the problem or determine if there is a service outage in your area.
@@ -565,10 +569,6 @@ Dr.Fone supports over 1000 Android models, including unlocked Poco F5 Pro 5G mod
 
 ![dr.fone start system repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Select the Poco F5 Pro 5G device details on the **Name**, **Model**, **Country**, and **Carrier** drop-down lists. Next, select the agreement checkbox, then click **Next** to proceed.
 
 ![choose device information to repair](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -580,6 +580,10 @@ Dr.Fone supports over 1000 Android models, including unlocked Poco F5 Pro 5G mod
 - **Step 7:** Wait while the app downloads the firmware; once done, click **Fix Now**.
 
 ![firmware downloaded ready to use](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** Enter the code in the input box to verify the Poco F5 Pro 5G device information in the dialogue box, then click **Confirm**.
 
@@ -605,10 +609,6 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4,215,287** people have downloaded it
 
 <ins class="adsbygoogle"
@@ -625,16 +625,22 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/nstantaneous-youtube-profit-projections-for-2024/"><u>[New] Instantaneous YouTube Profit Projections for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-14-ways-to-make-irresistible-gourmet-vids/"><u>[Updated] 14 Ways to Make Irresistible Gourmet Vids</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-funimate-pro-apk-a-complete-guide/"><u>[Updated] Funimate Pro APK A Complete Guide</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/complete-guide-downloading-and-viewing-movies-in-hd-on-apple-tv-via-free-streaming-apps/"><u>Complete Guide: Downloading and Viewing Movies in HD on Apple TV via Free Streaming Apps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-disco-elysium-pc-issues-unravel-the-mystery-and-keep-the-music-going/"><u>Fix Disco Elysium PC Issues: Unravel the Mystery and Keep the Music Going!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/our-stream-on-point-with-these-top-webcams-for-youtube/"><u>Get Your Stream on Point with These Top Webcams for YouTube</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-smart-7-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Smart 7 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-4g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 4G Phone with Broken Screen</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-enjoy-dual-views-expert-tips-for-utilizing-picture-in-picture-on-netflix/"><u>[New] 2024 Approved Enjoy Dual Views Expert Tips for Utilizing Picture-in-Picture on Netflix</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-apex-design-hub-audit/"><u>[New] Apex Design Hub Audit</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unearthing-past-pixels-with-3-methods-on-social-media-fb-for-2024/"><u>[Updated] Unearthing Past Pixels with 3 Methods on Social Media (FB) for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/convert-and-save-your-favorite-creativelive-classes-in-high-quality-mp4-format/"><u>Convert and Save Your Favorite CreativeLive Classes in High-Quality MP4 Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/disabling-recording-privacy-focused-tips-for-chatgpt-users/"><u>Disabling Recording: Privacy-Focused Tips for ChatGPT Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-the-ios-181-preview-version-featuring-enhanced-ai-capabilities-from-apple-step-by-step-guide-techcrunch/"><u>Download the IOS 18.1 Preview Version Featuring Enhanced AI Capabilities From Apple – Step-by-Step Guide | TechCrunch</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-x8b-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor X8b Safely | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/increase-your-social-media-reach-with-these-top-30-tiktok-nicknames-for-2024/"><u>Increase Your Social Media Reach with These Top 30 TikTok Nicknames for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instant-appeal-in-photos-embrace-these-top-10-composition-strategies/"><u>Instant Appeal in Photos Embrace These Top 10 Composition Strategies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55plus-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55+ Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-sony-xperia-5-v-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Sony Xperia 5 V – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-11r-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 11R Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-flip-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Flip Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nubia-red-magic-8s-proplus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nubia Red Magic 8S Pro+ Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-100-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor 100 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-meizu-21-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Meizu 21 Pro to iOS not Working Problems | Dr.fone</u></a></li>
 </ul></div>
 

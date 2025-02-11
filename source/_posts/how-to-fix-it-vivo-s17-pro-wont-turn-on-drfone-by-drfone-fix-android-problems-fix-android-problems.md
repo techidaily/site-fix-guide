@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Vivo S17 Pro Wont Turn On | Dr.fone
-date: 2024-07-14T05:41:06.777Z
-updated: 2024-07-15T05:41:06.777Z
+date: 2025-02-06T21:15:19.263Z
+updated: 2025-02-11T01:54:07.452Z
 tags: 
   - problems
 categories:
@@ -34,8 +34,6 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
-
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
@@ -65,9 +63,6 @@ On the next window, you will need to check the boxes corresponding to the type o
 
 Opt for "Touch screen not responsive or cannot access the phone" or "Black/broken screen". Click Next to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
 Look up for your device – pick the Vivo S17 Pro device Name and Device Model. Advance by clicking on the Next button.
@@ -79,6 +74,10 @@ Look up for your device – pick the Vivo S17 Pro device Name and Device Model. 
 The data recovery tool will guide you on how you can go into your Vivo S17 Pro’s Download Mode. You should be getting a step-by-step guide on your computer.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Scan the Android Phone.**
 
@@ -99,8 +98,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -162,6 +159,10 @@ To try fixing an Android Phone that won’t turn on, follow these steps:
 6. Should the first five steps do not work for you, perform a hard reset. Do take note that each device will have a different way to do so and that data that is stored locally on the phone will be deleted.
 7. Send your Vivo S17 Pro to the repair shop should none of these steps work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Useful Tips to Protect Your Vivo S17 Pro
 
 There are several reasons as to why your Vivo S17 Pro won’t turn on. The problem could be a hardware or software issue which could be prevented. Here are some useful tips to protect your Vivo S17 Pro.
@@ -179,8 +180,6 @@ There are several reasons as to why your Vivo S17 Pro won’t turn on. The probl
 - Make sure you update your operating system, software and apps to make sure you have the latest version – the developer may have fixed the bugs that have caused problems on Android phones.
 
 It is important to note that your phone contains some important data. Therefore, when your Vivo S17 Pro won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
-
-
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on Vivo S17 Pro
 
@@ -215,8 +214,6 @@ Any error that occurs during downloading or installation process not only hinder
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
@@ -244,9 +241,17 @@ Step3: Choose the correct device details from each field, confirm them and conti
 
 ![select correct device details to fix error code 505](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4: Boot your Android in download mode, then start downloading the firmware of your device.
 
 ![fix error code 505 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5: After the Vivo S17 Pro device firmware is downloaded, the tool will start repairing your Android.
 
@@ -255,6 +260,10 @@ Step5: After the Vivo S17 Pro device firmware is downloaded, the tool will start
 Step6: When your Android is repaired, the error code 505 will disappear.
 
 ![error code 505 fixed successfully](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Solution 2: Check whether Download Manger is ON or not**
 
@@ -270,9 +279,6 @@ At the top, an option will appear
 
 \>Then Select Enable
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Application Manger](https://images.wondershare.com/drfone/article/2017/06/14976274734570.jpg)
 
 Enabling download manager to give permission to the Vivo S17 Pro device to start the download or installation process.
@@ -345,6 +351,10 @@ Download link: [https://www.luckypatchers.com/download/](https://www.luckypatche
 
 ![lucky patcher](https://images.wondershare.com/drfone/article/2017/06/14976278389200.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: If still, you are in the state of trouble to solve the issue of error code 505 then Google Play help center is here to look out all troubles related to app store and its service. You can check out the details by visiting the following link:
 
 [https://support.google.com/googleplay/?hl=en-IN#topic=3364260](https://support.google.com/googleplay/?hl=en-IN#topic=3364260)
@@ -377,6 +387,10 @@ The 506 error code is a frequent error when operating the Google Play Store. You
 
 However, sometimes the five simple couldn’t work anymore. A system repair software can be helpful quickly. We really recommend [the Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) , only a few minutes, the error will be fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
@@ -395,16 +409,11 @@ If you have been using your Vivo S17 Pro for a while now and its performance to 
 
 It is however important to note that a factory reset or factory mode does often result in the loss of all your data. Therefore a backup is necessary to protect against this data loss risk.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. Backup your Android Device First
 
 Before we can see how to safely enter and exit factory mode, it is important to have a full backup of your device. We mentioned that a factory mode will likely erase all the data on your device. A backup will ensure that you can get your phone back to its original state before the factory mode.
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
-
-
 
 ### Dr.Fone - Backup & Restore (Android)
 
@@ -420,15 +429,13 @@ Flexibly Backup and Restore Android Data
 Follow these very simple steps to use this MobileTrans Phone Transfer software to create a full backup of your device.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 1. Launch Dr.Fone on your computer and choose "Backup & Restore"
 
 Run the software on your computer and you can see all features displayed in the primary window. Choose this one: Backup & Restore. It allows you to get your device backed up entirely with one click.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup android before enter in recovery mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ### Step 2. Plug in with your device
@@ -457,8 +464,6 @@ From the above parts, you are well aware about what is factory mode. As we discu
 
 But for situations when your Vivo S17 Pro gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Vivo S17 Pro logo or factory mode or blue screen of death with a single click.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click fix to Android stuck in factory mode
@@ -479,9 +484,17 @@ Step 1: Installation completion needs to be followed by running Dr.Fone on your 
 
 ![fix Android stuck in factory mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Select the ‘Android Repair’ option from the list to fix Android stuck in factory modeissue. Hit the ‘Start’ button soon after.
 
 ![start fixing Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Select Android device details on the Vivo S17 Pro device information window, followed by tapping the ‘Next’ button.
 
@@ -561,7 +574,6 @@ You can also exit factory mode on unrooted device by going to Settings> Applicat
 
 As much as factory mode can be a useful solution to a number of problems, it can be quite annoying when it pops up unexpectedly. Now you are equipped with 2 effective solutions to help you safely exit factory mode if ever you find yourself in this situation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -574,9 +586,20 @@ As much as factory mode can be a useful solution to a number of problems, it can
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unveiling-the-artist-within-using-auditions-gradual-volume-increase/"><u>[New] In 2024, Unveiling the Artist Within Using Audition's Gradual Volume Increase</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-the-best-online-science-vloggers-for-curious-minds/"><u>[New] Navigating the Best Online Science Vloggers for Curious Minds</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y78plus-t1-edition-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y78+ (T1) Edition Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-s24plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy S24+ Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-leveraging-influencer-networks-for-video-game-success/"><u>In 2024, Leveraging Influencer Networks for Video Game Success</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978249837-latest-thinbook-t420s-windows-10-support-drivers-available-for-download-now/"><u>Latest ThinBook T420s Windows 10 Support Drivers Available for Download Now</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-absence-of-monitor-on-startup/"><u>Remedy for Absence of Monitor on Startup</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-premier-pop-chorus-and-rhythm-compilation-for-cinematic-vignettes-for-2024/"><u>The Premier Pop Chorus and Rhythm Compilation for Cinematic Vignettes for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-virtual-voyage-review-meta-quest-3/"><u>The Ultimate Virtual Voyage Review: Meta Quest 3</u></a></li>
+</ul></div>
 

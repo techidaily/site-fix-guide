@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Xiaomi Redmi 12 5G Wont Turn On | Dr.fone
-date: 2024-07-14T05:41:47.712Z
-updated: 2024-07-15T05:41:47.712Z
+date: 2025-02-07T00:54:46.114Z
+updated: 2025-02-10T16:54:59.015Z
 tags: 
   - problems
 categories:
@@ -28,13 +28,15 @@ If you cannot find any reason why your Xiaomi Redmi 12 5G will not switch on, he
 4. Your device is clogged up with dust and lint causing the hardware to not work properly.
 5. [Your power button is broken](https://www.wondershare.com/reset-android/restart-android-without-power-button.html), which caused it to not be able to trigger the necessary action needed to power up the Android phone. Check to also see if your connectors have no carbon build-up which will cause your phone to not be charged properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Rescue Data on Android Phone That Will Not Turn On
 
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -83,11 +85,19 @@ Using the provided USB cable, attach your Xiaomi Redmi 12 5G to your computer �
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
 
 Wait for the program to finish scanning the phone – once completed, you will be able to get a list of recoverable files. You can have a preview of the file by highlighting them. Tick the box next to the file name and click on Recover to start retrieving the files and save them in the destination of your choosing.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ShpCFggyBvs"></iframe>
 
@@ -97,11 +107,6 @@ After repeated attempts, when your Android mobile/tablet stops buzzing, what opt
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (Android)
 
 The real fix to issues like "Android phone will not switch on"
@@ -126,6 +131,10 @@ Step 2: You will find a range of options, tap on the ‘Android Repair’ one. H
 
 ![star to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Now, over the Xiaomi Redmi 12 5G device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
 ![go to SMS to export text messages](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -137,6 +146,10 @@ Step 1: You need to put your Xiaomi Redmi 12 5G in Download mode for resolving t
 - For the Xiaomi Redmi 12 5G device having ‘Home’ button, you got to switch it off and press ‘Volume Down’, ‘Home’, and ‘Power’ keys for 5-10 seconds at once. Let them go and click on the ‘Volume Up’ button to put your phone in ‘Download’ mode.
 
 ![fix Android Phone not turn on with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - For ‘Home’ button-less device, turn the phone/tablet down first. For 5 – 10 seconds, hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons. Tap on the ‘Volume Up’ button to get into the ‘Download’ mode, after releasing the 3 buttons.
 
@@ -188,14 +201,6 @@ Android WebView for Android apps allows you to see and interact with web pages w
 
 So, what's going on with Xiaomi Redmi 12 5G Android System WebView, and what can you do to fix its issues? Let's take a look. This article will shed light on **Xiaomi Redmi 12 5G Android System WebView crashing apps**, helping you understand what triggers them, how to identify them, and what you can do to prevent them from happening again.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![black phone with android logo](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-01.jpg)
 
 ## Part 1: What Should We Know About Xiaomi Redmi 12 5G Android System WebView Crashes?
@@ -235,6 +240,10 @@ Updates are often intended to improve software stability and compatibility, but 
 Xiaomi Redmi 12 5G Android System WebView requires a certain amount of memory to operate properly. If your device is running low on memory, it can cause Xiaomi Redmi 12 5G Android System WebView to crash. It is more likely to happen on older devices with less RAM.
 
 ![webview crash out of memory message](https://images.wondershare.com/drfone/article/2023/11/android-webview-crash-2023-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Outdated Xiaomi Redmi 12 5G Android System WebView**
 
@@ -315,9 +324,6 @@ Before attempting any repairs, it is crucial to back up your Xiaomi Redmi 12 5G 
 - **Step 2:** Connect your Xiaomi Redmi 12 5G to your computer using a USB cable. Dr.Fone will automatically detect and establish a connection.
 - **Step 3:** Select the **System Repair** function from the **Toolbox** homepage and choose **Android** to confirm your device type.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 4:** Click **Start** to begin the process of fixing **Xiaomi Redmi 12 5G Android System WebView crashes**. Next, choose your device details and follow the in-app instructions to put your device in Download mode.
@@ -344,6 +350,10 @@ Before attempting any repairs, it is crucial to back up your Xiaomi Redmi 12 5G 
 
 [Easy Ways to Bypass Google Account Verification (FRP) On Android Phones](https://drfone.wondershare.com/factory-reset-protection/bypass-factory-reset-on-android.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 The "**Android WebView crash 2023**" issue was widespread for many Android users. The common issues encountered were app crashes, slow loading times, and error messages. Fortunately, these problems are manageable with the right approach.
@@ -353,6 +363,10 @@ By understanding the signs and causes of **Xiaomi Redmi 12 5G Android System Web
 For more comprehensive troubleshooting, Dr. Fone's mobile solution offers a reliable and user-friendly approach. Its advanced capabilities effectively tackle app crashing issues, providing you peace of mind that your phone is functioning optimally.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,684,259** people have downloaded it
 
@@ -381,11 +395,17 @@ All the applications, data of one’s device is generally loads directly in phon
 
 Sometimes, it’s not your phone that is going all faulty, the root cause might be the internet connection. If the internet is running low or does not seem to be stable, then the **_play store download problem_** may occur. Users must ensure that the Xiaomi Redmi 12 5G device they are working should have a stable network connection so as to combat the problem. Then, they can try downloading the application and check if the problem is prevalent or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -427,9 +447,6 @@ Now, follow the on the on-screen prompts to boot Android phone into the download
 
 Fret not, the program will automatically detect the most suitable firmware for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![play store download pending - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 **Step 5: Repair Android phone**
@@ -461,9 +478,6 @@ When was the last time you cared to update your Play store app? Generally, users
 
 ![update device to fix play store download pending](https://images.wondershare.com/drfone/article/2019/04/update-play-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.6 Try another Google account
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
@@ -471,9 +485,6 @@ If you’re unable to see a streak of hope and wondering why my **_Play Store is
 ### 3.7 Avoid downloading large apps
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -487,9 +498,22 @@ Last but certainly not the least, users must avoid downloading large application
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-exploring-income-derived-from-each-watch-on-video-platforms/"><u>[New] 2024 Approved Exploring Income Derived From Each Watch on Video Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-quick-guide-eluding-educational-videos-effectively-for-2024/"><u>[New] Quick Guide Eluding Educational Videos Effectively for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-10-youtube-makeup-gurus-for-stunning-looks-for-2024/"><u>[New] Top 10 YouTube Makeup Gurus for Stunning Looks for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-brand-your-channel-innovative-banner-templates-for-gamers/"><u>[Updated] 2024 Approved Brand Your Channel Innovative Banner Templates for Gamers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-perfecting-the-art-of-quiet-videography/"><u>[Updated] 2024 Approved Perfecting the Art of Quiet Videography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-step-by-step-freeipodcasts-downloads-on-iphone/"><u>2024 Approved Step-by-Step FreeiPodcasts Downloads on iPhone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensuring-compatibility-downloading-official-drivers-for-canon-dr-cu225-with-windows-11108/"><u>Ensuring Compatibility: Downloading Official Drivers for Canon DR-Cu225 with Windows 11/10/8</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-s18withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo S18with/without a PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-realme-12-proplus-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme 12 Pro+ 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-11-proplus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme 11 Pro+ – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-a60-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel A60 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-tips-for-keeping-children-secure-while-using-chatgpt/"><u>Top 5 Tips for Keeping Children Secure While Using ChatGPT</u></a></li>
+</ul></div>
 

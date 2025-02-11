@@ -1,7 +1,7 @@
 ---
 title: How to Change/Add Location Filters on Snapchat For your Honor Magic5 Ultimate | Dr.fone
-date: 2024-07-14T05:39:44.702Z
-updated: 2024-07-15T05:39:44.702Z
+date: 2025-02-07T18:01:49.065Z
+updated: 2025-02-10T16:13:27.103Z
 tags: 
   - virtual location change
   - social app
@@ -16,7 +16,6 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
 ## How to Change/Add Location Filters on Snapchat For your Honor Magic5 Ultimate
 
 Snapchat is an Android/iOS messaging app developed in 2011. Currently, this app is home to 350+ users who share photos, videos, audio, texts, emojis, GIFs, and documents. But one of the most exciting Snapchat features is allowing users to share locations, whether fake or real. For instance, you might want to protect your privacy or simply prank your friends with a new location. So, whichever the reason, we'll show you **how to add a location filter on Snapchat** effortlessly. You'll also know **how to add a fake location filter on Snapchat**. Let's learn!
-
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/6W-qXnzg8kA"></iframe>
 
@@ -36,9 +35,6 @@ Here's how to enable or disable the Location Filter settings:
 
 **Step 2.** Then, press the **Settings** button and find and press the **Additional Services** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to add location filter on Snapchat, adjust settings](https://images.wondershare.com/drfone/article/2022/03/how-to-add-location-filter-on-snapchat-1.jpg)
 
 **Step 3.** Lastly, tap Manage and then enable the **Filters** to toggle, and that's it!
@@ -51,23 +47,15 @@ Now that this setting is enabled on Snapchat, you can add your location filter e
 
 **Step 3.** You can also tag a location on Snapchat by clicking the **Sticker** icon on the right rail. Then, tap the **Location** button and then choose your GPS location. Interestingly, you can spoof a location with this feature.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to add location filter on Snapchat choose location](https://images.wondershare.com/drfone/article/2022/03/how-to-add-location-filter-on-snapchat-2.jpg)
 
 **Step 4.** Finally, customize your video further and then click **Send To**. Your selected location filter will be added to your Snapchat post.
 
 ![how to add location filter on Snapchat share location](https://images.wondershare.com/drfone/article/2022/03/how-to-add-location-filter-on-snapchat-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Change or Add a Fake Location on Snapchat Filters?
 
@@ -76,8 +64,6 @@ The thing is that Snapchat uses your phone's GPS or Wi-Fi connection to determin
 Fortunately, you don't need those overpriced VPNs if you can get [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). This smartphone utility program allows you to change your Snapchat location to anywhere in the world with a simple mouse click on your PC. In addition, you can simulate Snapchat location movements to make it look more realistic. And apart from Snapchat, you can spoof location on WhatsApp, Viber, Facebook, Facebook Messenger, Instagram, etc.
 
 So, without dilly-dallying much, here's how to fake a **Snapchat location tag** with Dr.Fone:
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -109,11 +95,12 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 
 **Step 5.** Finally, open your Snapchat app, create a photo, and choose the location filter with your new location. It's that simple!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: FAQs about Snapchat
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Q1: What is Ghost Mode on Snapchat?
 
 Snapchat comes with an inbuilt Snap Map introduced in 2017. Besides sharing Snaps by the Our Story feature, Snap Maps lets other Snapchatters see your real-time location using Bitmojis. That said, Ghost Mode makes you invisible on the Snap Map. In other words, no one can know where you are. Cool!
@@ -134,21 +121,31 @@ While installing the Snapchat app and creating an account, the app will practica
 
 Sometimes you might want to urgently find a friend on Snapchat when you are in Ghost Mode. To do that, deactivate Ghost Mode on Snapchat by clicking Profile > Settings > See My Location and disabling Ghost Mode. Now open the Snap Map, and you'll see your location with a red Bitmoji. You'll also see your nearby friends with enabled Snapchat locations on the map. If you can't find them, tap the Search icon, choose or enter their name, and see them on the map or send a text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Wrap it Up
 
 Now you have a complete idea of what the Snapchat location filter is. In short, it is simply a creative way to share your Snapchat location tag on a post. But because you can't spoof your location on Snapchat, I recommend using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to teleport your Snapchat location to anywhere in the world. This tool also works with other social media apps like Facebook, WhatsApp, and Telegram. Enjoy!
 
-
-
 ## How to Change/Fake Your Honor Magic5 Ultimate Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the My Location feature on Viber?
 
 If you’ve used WhatsApp’s location feature before, you’ll know what Viber’s “My Location” is all about. With this feature, you can share your live location for whatever reasons you may have. For example, you may want to share your live location with your kids or vice-versa. Or, you might simply want to share a fake location on Viber with your nosy friends.
 
 But as good as it sounds, this live location feature is enabled by default on your Honor Magic5 Ultimate/Android browser. Therefore, you can send a location on Viber without knowing. This can be advantageous to stalkers or even cause misunderstanding in your relationship. What’s worse, it shares your actual location with every text you send. But fret not because this post will help you **disable or enable My Location on Viber** according to your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to disable or enable My Location on Viber?
 
@@ -206,20 +203,19 @@ Connect your smartphone to your PC using a USB wire and tap **Get Started** on t
 
 ![change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Press the **Next** button to begin connecting your phone to Dr.Fone. If the connection fails, enable USB debugging on your phone by following the on-screen instructions. On Android phones, tap **Settings > Additional settings > Developer options > USB debugging**. In addition, set Dr.Fone as the mock location app on your phone.
 
 **Step 4. Enter the GPS coordinates or location address.**
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change location on Viber, choose location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -233,9 +229,6 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Why send fake location on Viber?
 
 Now that you know how to spoof location on Viber. Let’s discuss some reasons to spoof location on this messaging app. Below are some common ones:
@@ -264,6 +257,10 @@ WhatsApp is a free messaging app owned by Meta, initially Facebook. Currently, t
 
 First and foremost, let's discuss some of the reasons why your **WhatsApp live location is not updating on Android** or iPhone. Below are some of them:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Weak internet connection
 
 You should be conversant with the idea that WhatsApp can't function without the internet. In other words, you can't send or receive messages and calls without strong internet. And the same applies to updating your live location.
@@ -272,15 +269,21 @@ You should be conversant with the idea that WhatsApp can't function without the 
 
 Here's another reason why **WhatsApp live location is not updating on iPhone** or Android. While signing up, WhatsApp will request to access your phone's GPS location. Therefore, disabling this feature by mistake can prevent WhatsApp from updating your location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Inappropriate time and date
 
 Although uncommon with modern phones, this can be another reason for a wrong live location on WhatsApp. Therefore, connect your phone to the internet to update your date and time. You might also want to restart your phone and see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How to Fix WhatsApp Live Location Not Updating Problem?
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/o7SlRcYHpW4"></iframe>
-
-
 
 Now that you already know why WhatsApp's live location isn't updating, it's time to check out the solutions. Let's go!
 
@@ -309,8 +312,6 @@ If all else fails, then it's probably time to get handy. Simply uninstall your W
 There have been multiple security concerns about WhatsApp before. But while the jury is still out, do yourself a favor and protect your live location from spyware and other users. Also, you might want to spoof WhatsApp location for business purposes and prank friends.
 
 That said, learning to fake location on WhatsApp is super simple with [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this GPS app, you can teleport your WhatsApp live location to anywhere in the world. And to make your new location more believable, this program lets you simulate movements by foot, scooter, or car. Remember, it works with all iPhone/Android versions and other social media apps like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -341,6 +342,10 @@ To connect your phone to this all-in-one software, enable "transfer files" inste
 **Step 3. Choose a new WhatsApp live location to share.**
 
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After USB debugging is on, tap **Next** and enter the new location on the search field at the top-left corner. Now choose the area and tap **Move Here**. Interestingly, you can choose a movement route and customize the speed. And there is that!
 
@@ -390,7 +395,6 @@ Having a WhatsApp Business account is vital if you're an online marketer. Here, 
 
 See, there's nothing complex about the WhatsApp live location not updating issue. Just update and restart the app or check your location settings if it's enabled. And, of course, use Dr.Fone to share a fake location on WhatsApp and perform other WhatsApp tasks like backing up and transferring data. Thank me later!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -403,9 +407,24 @@ See, there's nothing complex about the WhatsApp live location not updating issue
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-effective-strategies-for-archiving-vimeo-footage/"><u>[New] In 2024, Effective Strategies for Archiving Vimeo Footage</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-silent-streamers-academy-learn-to-broadcast-on-ig-without-attention/"><u>[New] In 2024, Silent Streamers Academy Learn to Broadcast on IG without Attention</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-globalviewers-access-unlimited-local-tv-for-life/"><u>2024 Approved GlobalViewers Access Unlimited Local TV for Life</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-who-can-access-your-youtube-videos/"><u>Altering Who Can Access Your YouTube Videos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/change-location-on-yik-yak-for-your-vivo-y100i-power-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y100i Power 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-tecno-spark-10-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Tecno Spark 10 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-g14-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G14 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revive-your-pc-troubleshooting-tips-via-chatgpt/"><u>Revive Your PC: Troubleshooting Tips via ChatGPT</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f14-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F14 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/should-you-buy-into-minecraft-realms-an-seo-insight-into-its-true-worth/"><u>Should You Buy Into Minecraft Realms? An SEO Insight Into Its True Worth</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleash-your-potential-with-fitbit-versa-3-powered-by-in-built-gps-and-advanced-health-apps/"><u>Unleash Your Potential with Fitbit Versa 3 - Powered by In-Built GPS & Advanced Health Apps!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-11-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme 11 Pro Phones</u></a></li>
+</ul></div>
 

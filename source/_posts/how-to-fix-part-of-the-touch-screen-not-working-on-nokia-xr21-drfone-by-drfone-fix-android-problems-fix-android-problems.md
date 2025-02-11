@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nokia XR21 | Dr.fone
-date: 2024-07-14T05:43:41.029Z
-updated: 2024-07-15T05:43:41.029Z
+date: 2025-02-05T16:03:50.782Z
+updated: 2025-02-10T18:11:42.532Z
 tags: 
   - problems
 categories:
@@ -86,6 +86,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -115,6 +119,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -159,6 +167,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For a device that lacks a Home button:**
 
@@ -207,13 +219,15 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Nokia XR21 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
-
-
 
 ## Nokia XR21 Not Connecting to Wi-Fi? 12 Quick Ways to Fix
 
@@ -249,9 +263,6 @@ However, if you’ve got a problem with Wi-Fi not working on your Android and ot
 4. Call up your internet provider to see if there’s an internet connection issue in your area
 5. Open your web browser and log into your router settings to ensure your Nokia XR21 is connected to the Wi-Fi network and is allowed to send and receive data
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Boot your Android in safe mode
 
 ![wifi not working on android - safe mode](https://images.wondershare.com/drfone/article/2019/04/android-safe-mode.jpg)
@@ -267,9 +278,6 @@ The best way to do this is to boot your device in Safe Mode. The process for doi
 
 If your device connects to the internet while in Safe Mode, you’ll know you have a problem with an app or service that’s running on your device. If this is the case, you’ll need to go through your apps and delete them and then reinstall them one at a time until you find the app or service that is causing your internet problems.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. Check the Android Wi-Fi adapter
 
 ![wifi not working on android - check adapter](https://images.wondershare.com/drfone/article/2019/04/android-wifi-adapter.jpeg)
@@ -300,8 +308,6 @@ When these numbers are matching, if your Android is still not connecting to wifi
 If none of the solutions above are working, this could indicate a real problem with the firmware and operating system of your Nokia XR21. Fortunately, a fast solution to get everything working again is to completely repair the software of your phone.
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -339,6 +345,10 @@ Once installed, connect your Nokia XR21 to your computer using a USB cable, and 
 
 ![wifi not working on android - boot in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step Six** Once the software has detected your device in Download Mode, it will automatically begin the repair process. You need to make sure your device stays connected throughout this time, and your computer stays on.
 
 ![wifi not working on android - begin repairing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -348,6 +358,10 @@ The whole process is automatic, so you won’t need to do anything until it’s 
 ![wifi not working on android - wifi issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 8. Check the Wi-Fi connectivity on another phone
 
@@ -378,9 +392,6 @@ Each Wi-Fi network router will give the opportunity to choose and change the pas
 
 ## Part 10. Reset network settings on Android
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone not connecting to wifi - reset network](https://images.wondershare.com/drfone/article/2019/04/android-reset-network.jpg)
 
 Just like the method above where you’ll be effectively resetting the network settings on your router, if this hasn’t worked, you’ll be able to reset the network settings on your Nokia XR21, hopefully removing the bugs and allowing you to connect.
@@ -393,6 +404,10 @@ Here’s how you can do this easily on your Nokia XR21;
 4. Tap the Reset Network option
 5. If you need to, enter the PIN number or passcode for the Android device, and the Nokia XR21 device will confirm the reset has taken place
 6. Reconnect your Nokia XR21 to your Wi-Fi network for the changes to take effect
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 11. Clear partition cache in recovery mode
 
@@ -438,12 +453,13 @@ Encountering the "**Google Play App Not Available in Your Country**" issue can f
 
 One of the primary culprits behind this issue is the regional restrictions imposed by developers. Developers often roll out their apps gradually across different regions. It is done to adhere to legal and licensing requirements. This staggered release strategy ensures compliance with local laws. Moreover, it guarantees a smooth user experience tailored to specific geographical locations.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Licensing and Legal Constraints
 
 Licensing agreements and legal constraints play an important role when it comes to the accessibility of apps. Developers may encounter licensing issues. This can prevent them from offering their apps in certain regions. It is due to copyright, trademark, or other legal considerations. Navigating the complex web of international laws and agreements is a big hassle. It becomes a determining factor in the availability of apps on the Play Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Localization Challenges
 
@@ -544,8 +560,9 @@ Repair Android System Errors without Any Trouble.
 **3981454** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Steps Included To Fix Play Store Not Working on All Android Smartphones
 
 While you have learned much about Wondershare Dr.Fone, in situations where an app is available but the Play Store is not working properly, it comes pretty handy. Here is how you can fix the Play Store not working problem on Android devices with Dr.Fone:
@@ -567,6 +584,10 @@ On the next window, you need to enter the Nokia XR21 device details, including t
 Once the phone has been put in the Download Mode, the firmware will download automatically. Install it on your device by selecting the “Fix Now” icon. Now, enter the “Code” and confirm installation, after which hit the “Done” button once the process concludes.
 
 ![repair process completed](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -592,7 +613,6 @@ To summarize, the pursuit of the perfect app sometimes encounters hurdles. One f
 
 As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful tool designed to tackle Play Store malfunctions head-on. With support for even Android 13, this software offers a complete solution for Android. Its comprehensive approach and easy-to-use interface make it a valuable addition to your toolkit.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -605,9 +625,22 @@ As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-audiovisual-enhancements-for-video-producers/"><u>[New] In 2024, Top Audiovisual Enhancements for Video Producers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expertise-in-edits-selecting-premier-video-tools/"><u>[Updated] 2024 Approved Expertise in Edits Selecting Premier Video Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ultimate-list-of-16-starter-videos-for-more-watchers/"><u>[Updated] 2024 Approved Ultimate List of 16 Starter Videos for More Watchers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-promote-youtube-videos-without-paying/"><u>[Updated] How to Promote YouTube Videos (Without Paying)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-view-count-rewards-on-youtube-per-million/"><u>[Updated] In 2024, View Count Rewards on YouTube – Per Million?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-reach-new-heights-on-igtv-top-tactics-for-expanding-your-audience/"><u>2024 Approved Reach New Heights on IGTV Top Tactics for Expanding Your Audience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-error-alerts-correcting-your-systems-absent-shell32dll/"><u>Overcoming Error Alerts: Correcting Your System's Absent shell32.dll</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-realme-11-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme 11 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/securing-partitions-and-volumes-on-windows-7-8-and-10/"><u>Securing Partitions and Volumes on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 

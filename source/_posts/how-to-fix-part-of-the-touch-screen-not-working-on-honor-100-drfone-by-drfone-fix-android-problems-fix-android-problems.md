@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor 100 | Dr.fone
-date: 2024-07-14T05:42:16.496Z
-updated: 2024-07-15T05:42:16.496Z
+date: 2025-02-07T16:32:11.360Z
+updated: 2025-02-10T23:15:04.398Z
 tags: 
   - problems
 categories:
@@ -51,6 +51,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - Remove the Honor 100 device cover and screen protector if they are not damaged.
 - If there is a sticker on the Honor 100 device screen, you must remove it.
 - Before continuing, make sure your screen is spotless.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
@@ -120,9 +124,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
@@ -175,6 +176,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -211,15 +216,14 @@ Check below to know Dr.Fone – System Repair’s limitations:
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Honor 100 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
-
-
 
 ## Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor 100
 
@@ -236,11 +240,16 @@ If you are also among the various users who see Android, unfortunately, the proc
 Looking for suitable solutions to fix Android SystemUI has stopped error? Then read on to find out all about Android SystemUI isn't responding error and the most effective ways to fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Why Android SystemUI Has stopped happens?
 
 ![android system ui-SystemUI Has stopped](https://images.wondershare.com/drfone/article/2017/06/14985097157775.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Android device owners would agree that OS updates are very helpful as they fix the bug problem and improve the overall working of your device. However, sometimes these updates may be infected due to which they do not download and install properly. A corrupted OS update may cause Android; unfortunately, the process com.android.systemui has stopped error. All Android updates are directly designed around the Google App, and thus, the problem will persist until the Google App is also updated. Sometimes, even the Google App update may cause such a glitch if it is not successfully downloaded and installed.
 
@@ -299,6 +308,10 @@ Step 3 – As soon as the download completes, the Android repair will automatica
 Step 4 – In a just a matter of a few minutes, your Android system UI isn’t responding issue will be resolved.
 
 ![com.android.systemui stopping fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Uninstall Google updates to fix Android SystemUI issue
 
@@ -368,6 +381,10 @@ The whole process of factory resetting your Honor 100 might sound tedious, risky
 
 Android SystemUI isn't responding or Android, unfortunately, the process com.android.systemui has stopped error is commonly seen by users on their devices. It is not a random error and is linked to either the software, Google App, cache partition, or data stored in the Honor 100 device. It is fairly simple to deal with this issue as all you need to do is install or roll back your Android OS update, uninstall Google App updates, clear cache partition, or factory reset your device to clear all data, files, and settings stored in it. The methods listed and explained above are the best ways to fight the problem and to prevent it from troubling you in the future. These methods have been adopted by affected users all over the world who recommend them because they are safe and involve minimum risks as compared to other tools to solve the Android SystemUI has stopped error. So go ahead and try them now!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Calls on Honor 100 Go Straight to Voicemail? 12 Fixes
 
 Have you ever experienced incoming calls to your **phone go straight to voicemail** without ringing? It can be frustrating, especially if you’re expecting an important call. It could be due to simple things like turning down the volume or forgetting to turn off the Do Not Disturb mode. In other cases, it might be because you accidentally blocked the caller’s number.
@@ -378,9 +395,6 @@ This article will discuss why incoming **phone calls go straight to voicemail** 
 
 ![phone voicemail notification representation](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Part 1: Not Ringing? Here’s Why Calls on Your Phone Go Straight to Voicemail
 
 If an incoming call to your **cell phone goes straight to voicemail** without ringing, there could be a few reasons. Here’s what to look for and what you should do to fix it:
@@ -441,9 +455,6 @@ To reset your network settings on most Android devices:
 - **Step 1:** Open the **Settings** app on your smartphone, then tap **System** or **General Management**.
 - **Step 2:** Go to **Reset** > **Reset Network Settings** and confirm the action.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![phone reset network settings](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-08.jpg)
 
 6. Turn Off Bluetooth
@@ -453,6 +464,10 @@ When Bluetooth is on, it can interfere with your device’s ability to receive c
 - Swipe down from the top of the screen to open the Quick Settingspanel, then tap the **Bluetooth** icon to turn it off.
 
 ![bluetooth not enabled](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Go to **Settings**\> **Connections** > **Bluetooth** and toggle the switch off.
 
@@ -488,6 +503,10 @@ Do you also find yourself asking what does it mean? It could be that he has bloc
 - **Step 3:** Tap **Block numbers**. If you find the number in the blocked list, remove it to ensure that their calls come through to the phone.
 
 ![block numbers on the phone](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you still have trouble reaching your boyfriend, try calling him from a different number. If your call didn’t go through, you know that he hasn’t blocked your number and that there may be another issue with his phone.
 
@@ -529,6 +548,10 @@ Dr.Fone supports over 1000 Android models, including unlocked Honor 100 models a
 - **Step 2:** Connect your smartphone to your desktop or computer using a USB cable. Next, from the **Toolbox** homepage, select **System Repair**.
 
 ![dr.fone system repair toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Select **Android** as the Honor 100 device type.
 
@@ -576,7 +599,6 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 **4,215,287** people have downloaded it
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -589,9 +611,17 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-enhance-quality-in-filming-and-photos-on-iphone/"><u>[New] 2024 Approved Enhance Quality in Filming & Photos on iPhone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecoding-dangerous-subscriber-scams-online/"><u>[New] Decoding Dangerous Subscriber Scams Online</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-social-sharing-simplified-uploading-immersive-mobile-photography/"><u>[New] Social Sharing Simplified Uploading Immersive Mobile Photography</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/google-meet-on-youtube-streaming-made-easy-step-by-step/"><u>Google Meet on YouTube Streaming Made Easy, Step by Step</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-g310-by-drfone-android/"><u>How to Bypass FRP on Nokia G310?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-gt-3-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme GT 3 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-xiaomi-redmi-note-12-pro-4g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Redmi Note 12 Pro 4G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209800563-9781609251161-stepping-stones/"><u>Stepping Stones | Free Book</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo S17 | Dr.fone</u></a></li>
+</ul></div>
 

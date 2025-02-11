@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus Nord 3 5G | Dr.fone
-date: 2024-07-14T05:43:50.400Z
-updated: 2024-07-15T05:43:50.400Z
+date: 2025-02-08T16:19:50.976Z
+updated: 2025-02-10T20:20:03.595Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ You probably touch the screen of your phone hundreds of times per day. It’s no
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part 1. Why Is Part of My Screen Not Working
 
 There are two possible causes as to why your phone’s touch screen is not working. One is the touch screen may have been damaged, and the other is the OnePlus Nord 3 5G device may be experiencing technical difficulties.
@@ -67,9 +64,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
 ****Step 2:**** When the OnePlus Nord 3 5G device turns off, wait a few seconds.
@@ -122,11 +116,19 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
@@ -176,9 +178,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your OnePlus Nord 3 5G. And in a while, your OnePlus Nord 3 5G’s system issues will be resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ### Supported OS
@@ -214,9 +213,6 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 - Depending on the toolkit required, the program can be costly.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
@@ -309,6 +305,10 @@ When Bluetooth is on, it can interfere with your device’s ability to receive c
 
 ![turn off bluetooth on settings app](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It should help ensure that calls come through to your phone instead of going to voicemail.
 
 7. Check Airplane Mode
@@ -351,9 +351,17 @@ If you’re using Google One VPN, try turning it off to see if that fixes the pr
 
 ![google one app interface](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Toggle off **Enable VPN**.
 
 ![turn off google one vpn](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 10. Contact Your Carrier
 
@@ -364,6 +372,10 @@ And if your carrier confirms that there is no service outage or billing-related 
 11. The Caller Used Ringless Voicemail
 
 Ringless voicemail is a service that allows businesses to bypass your phone’s ringtone and send you pre-recorded messages directly to voicemail. Ringless voicemail is often used for marketing purposes. If you think you’re receiving ringless voicemail calls, you can contact the company calling you and ask them to remove you from their list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Not Clear About the Root Cause? Troubleshoot Directly by Wondershare Dr.Fone
 
@@ -405,6 +417,10 @@ Dr.Fone supports over 1000 Android models, including unlocked OnePlus Nord 3 5G 
 
 ![confirm device information](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 9:** The app will start repairing the system issue on your OnePlus Nord 3 5G. Once completed, your app should restart, then click **Done** to close the app.
 
 ![repaired android device system issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -427,8 +443,6 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 **4,215,287** people have downloaded it
 
-
-
 ## OnePlus Nord 3 5G Not Receiving Texts? 10 Hassle-Free Solutions Here
 
 If you are using an OnePlus Nord 3 5G, you might have encountered the issue of not receiving texts. This issue can be quite frustrating, as it prevents you from staying connected with your friends and family. However, there are several ways to fix this issue and get your texts back up and running. In this article, we will show you some of the best solutions to fix the issue of not receiving texts on OnePlus Nord 3 5G.
@@ -438,7 +452,6 @@ It is very common that the Android messaging app is not working on many devices 
 You might find lots of people online stating I can't receive text messages on Android. And usually, people don’t find a legit solution for this issue. If you are also experiencing this sort of issue on your OnePlus Nord 3 5Gs, then don’t panic. We have a series of methods that can supposedly fix the problem. But at first, we will learn what the main reasons this problem arises are and how do you know that it is consistent not some random error.
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
-
 
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
@@ -468,8 +481,6 @@ If you are not willing to waste your precious time fixing the message problem, t
 
 You surely need to try the software as it can perform the following tasks:
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Android Not Receiving Texts
@@ -498,6 +509,10 @@ Step 3: Agree with the conditions and hit the Next button. The software will dow
 
 It won’t take long, and your OnePlus Nord 3 5G will be repaired. Now you will be able to receive and send text messages without any hassle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Remove and Insert the SIM
 
 The easiest thing that you can try if your OnePlus Nord 3 5G is not receiving any text messages is because the SIM is not inserted right. If your SIM card is inserted wrong, then it is obvious you can't receive text messages on Android. Simply take out the SIM card, see how it must be inserted, and do it correctly. Once the SIM is inserted in the right way, you will receive the pending text messages immediately unless there is another issue preventing it.
@@ -507,6 +522,10 @@ The easiest thing that you can try if your OnePlus Nord 3 5G is not receiving an
 Another simple method that you can try if you are not receiving text messages on OnePlus Nord 3 5G phone is to check your network connection. Usually, you can see the bar on the top of the screen. Maybe the problem exists because you have no signal strength at the moment.
 
 ![android not receiving texts - check connection](https://images.wondershare.com/drfone/article/2019/02/no-internet-connection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Consult your Carrier about the Data Plan
 
@@ -531,8 +550,9 @@ Step 2: Click on the Clear Cache button and wait as the OnePlus Nord 3 5G device
 Once the cache is cleared, you can also clear the data if you want to and you’ll instantly receive the text messages on your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 7: Delete Useless Messages to Free Up Space
 
 Sometimes, if you are not receiving text messages on OnePlus Nord 3 5G, it means that you need to clean up the clutter of useless messages from your phone and SIM both. The phone messages can be deleted directly from your phone. But the SIM card messages needed to be deleted separately. The SIM cards don’t have enough memory to hold plenty of messages. Therefore, once the storage is full, you will stop receiving messages entirely.
@@ -571,7 +591,6 @@ Updating the operating system to the latest Android version can fix some system 
 
 Now you know several methods that can work if the Android messaging app is not working.  If you experience this kind of issue with your OnePlus Nord 3 5G, then you are most likely to resolve them with these fixes. If none of the solutions seem to fix the issue, then you can take the help of Dr. Fone - System Repair (Android) feature. With this tool, you can resolve all kinds of working issues on your device.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -584,9 +603,21 @@ Now you know several methods that can work if the Android messaging app is not w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-guard-your-camera-top-10-shields-reviewed/"><u>[Updated] 2024 Approved Guard Your Camera - Top 10 Shields Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-file-streamlining-top-strategies-for-smooth-pc-integration/"><u>[Updated] File Streamlining Top Strategies for Smooth PC Integration</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-m14-4g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy M14 4G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-redmi-note-12-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi Note 12 Pro 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-optimized-audio-equalization-achieving-consistent-volume-levels/"><u>New 2024 Approved Optimized Audio Equalization Achieving Consistent Volume Levels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/oceans-bounty-best-cameras-for-anglers/"><u>Ocean's Bounty - Best Cameras for Anglers</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-os-not-found-a-comprehensive-guide/"><u>Overcoming OS Not Found: A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-v29-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V29 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/step-by-step-to-stunning-snaps-with-snapseed/"><u>Step-by-Step to Stunning Snaps with Snapseed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-lava-storm-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Lava Storm 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-paperwork-into-intelligence-chatgpts-fourfold-path/"><u>Transforming Paperwork Into Intelligence: ChatGPT's Fourfold Path</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-mix-fold-3-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi Mix Fold 3 support - Forgotten screen lock.</u></a></li>
+</ul></div>
 

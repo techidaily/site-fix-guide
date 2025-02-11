@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor X9a | Dr.fone
-date: 2024-07-14T05:42:33.486Z
-updated: 2024-07-15T05:42:33.486Z
+date: 2025-02-08T19:08:29.070Z
+updated: 2025-02-10T16:58:18.996Z
 tags: 
   - problems
 categories:
@@ -56,6 +56,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 
 If you have already tried running the Honor X9a device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Honor X9a’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -102,11 +106,12 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -123,9 +128,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
@@ -154,9 +156,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 ****Step 4:**** Before repairing your Honor X9a, you must boot it into ****Download**** ****mode****. To boot your Honor X9a or tablet into DFU mode, follow the steps below:
@@ -169,6 +168,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For a device that lacks a Home button:**
 
 1. Turn off the Honor X9a device.
@@ -180,6 +183,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Honor X9a. And in a while, your Honor X9a’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported OS
 
@@ -216,6 +223,10 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
@@ -238,9 +249,6 @@ Well! There can be a number of reasons why this thing happens. For instance, cus
 - [Part 6: Factory reset your Android](https://drfone.wondershare.com/android-stopped/unfortunately-settings-has-stopped.html#Part6)
 - [Part 7: Check and update Android OS](https://drfone.wondershare.com/android-stopped/unfortunately-settings-has-stopped.html#Part7)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Clear the cache of Settings and Google Play Service
 
 It is possible that the corrupted cache files are responsible for this error. Hence, as the first tip, we would like you to clear the Settings cache if that is what triggers the “Unfortunately Settings has stopped” issue. Clearing it would definitely make Settings run appropriately. And The steps to clear the cache of the Google Play Services app are similar. Here is how to clear the cache of Settings:
@@ -250,6 +258,10 @@ It is possible that the corrupted cache files are responsible for this error. He
 3. Now, select “Storage” followed by “Clear Cache”.
 
 ![settings crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note: In some phones, the “Clear Cache” option may come after tapping on “Force Stop”. Therefore, go accordingly without getting confused.
 
@@ -262,6 +274,10 @@ As the next tip, we would like to suggest you clear your device’s RAM by ceasi
 2. Now, swipe the apps and tap on the clear option. You will be able to notice the amount of RAM cleared
 
 ![settings crashing - clear ram](https://images.wondershare.com/drfone/article/2019/04/clear-ram.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Uninstall the Google update
 
@@ -276,8 +292,6 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Honor X9a, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Honor X9a devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -323,6 +337,10 @@ Once the firmware is completely downloaded, your Honor X9a will automatically st
 
 ![Android settings not responding - fix the issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/06HDyPDOBqM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## Part 5: Wipe cache partition to restore Settings
@@ -363,17 +381,11 @@ If your Honor X9a shows the "Unfortunately Settings has stopped" error, don't wo
 
 For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html). It's known for fixing many iOS problems without losing any data. Remember, a well-working device is just a few steps away!
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-
 
 ## 8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor X9a
 
 SIM cards are small chips that act as a connecting medium between your cell phone and your carrier. It is programmed to help your carrier identify your cell phone account with certain information. And eventually, you are enabled to make calls and to make use of mobile internet. Now, if your device is showing “SIM not provisioned” on Android then it signifies that the connection to carrier network cannot be established or perhaps, your carrier isn’t able to identify your cell phone account.
-
 
 ## Part 1. Why does the error “SIM not provisioned MM#2” pop up?
 
@@ -395,8 +407,6 @@ A yet another reason could be that your SIM card got deactivated by your carrier
 ### 2.1 One click to fix the “SIM not provisioned MM#2” error on Android
 
 Without talking any further, let’s straightly get to the first and the easiest way to repair SIM not provisioned issue on Android. For this purpose, we’re glad to introduce [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/), one of its kind of tool that is capable of repairing almost all sort of Android OS issues in just a matter of few clicks. Whether it is SIM not provisioned on Android or SIM not working in Android or your device stuck in a boot loop or black/white screen of death. The most probable reason for these errors is Android OS corruption. And with Dr.Fone – Repair (Android) you can efficiently and effectively repair your Android OS in a hassle freeway.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -444,6 +454,10 @@ As soon as the download completes, the software verifies the firmware and automa
 
 At times, the issue can be as simple as cleaning your SIM card and SIM slot properly. Ensuring that SIM is not wet either and then putting it back into its place. If this works, then the SIM not working in Android was due to the dirt or moisture that was preventing proper contact between SIM card pins and smartphone circuit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.3 Insert the SIM card correctly
 
 If your SIM card was working properly until yet, there is a good possibility that the SIM card may have moved a bit from its actual location. Eventually, there is poor contact between the SIM card pins and the circuit. Try inserting your SIM card properly with the following steps.
@@ -475,6 +489,10 @@ A yet another reason why SIM not working in Android can be because of the SIM ca
 
 ![fix SIM not responding - try another slot](https://images.wondershare.com/drfone/article/2019/05/insert-sim-properly.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.7 Try the SIM card in other phones
 
 Or just in case, you’ve still no joy and the SIM not provisioned on Android message is bothering you. Try making use of another Android device. Eject the SIM card from the Honor X9a device which is creating problems and try plugging it into other Honor X9a] and other smartphones. Perhaps, this will let you know whether the issue is with your device only or with the SIM card itself.
@@ -489,7 +507,6 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -502,9 +519,23 @@ In wrapping up, SIM not provisioned errors on Android can be troubling, but they
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-maximize-views-with-these-top-20-thumbnail-fonts/"><u>[New] In 2024, Maximize Views with These Top 20 Thumbnail Fonts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-new-horizons-in-graphic-design-post-acid/"><u>[New] In 2024, New Horizons in Graphic Design Post-ACID</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unleashing-viral-potential-on-igtv-with-strategic-hash-tagging/"><u>[Updated] 2024 Approved Unleashing Viral Potential on IGTV with Strategic Hash Tagging</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unlocking-the-secrets-of-snapchat-boomerang-tricks/"><u>2024 Approved Unlocking the Secrets of Snapchat Boomerang Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a25-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A25 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-hot-40-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Hot 40 Is Unlocked</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-13t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi 13T Safely | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-three-ways-to-make-your-instagram-videos-pop-with-captions/"><u>In 2024, Three Ways to Make Your Instagram Videos Pop with Captions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-100-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor 100? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-nubia-red-magic-8s-proplus-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Nubia Red Magic 8S Pro+? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-a34-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy A34 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-audio-problems-on-your-windows-7-computer/"><u>Troubleshooting Guide: Resolving Audio Problems on Your Windows 7 Computer</u></a></li>
+</ul></div>
 

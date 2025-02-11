@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Motorola Moto G13 | Dr.fone
-date: 2024-07-14T05:43:24.739Z
-updated: 2024-07-15T05:43:24.739Z
+date: 2025-02-05T17:43:44.130Z
+updated: 2025-02-10T23:06:00.737Z
 tags: 
   - problems
 categories:
@@ -51,6 +51,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - Remove the Motorola Moto G13 device cover and screen protector if they are not damaged.
 - If there is a sticker on the Motorola Moto G13 device screen, you must remove it.
 - Before continuing, make sure your screen is spotless.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
@@ -114,10 +118,11 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -153,6 +158,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 4:**** Before repairing your Motorola Moto G13, you must boot it into ****Download**** ****mode****. To boot your Motorola Moto G13 or tablet into DFU mode, follow the steps below:
 
 **For a device that has a Home button:**
@@ -184,9 +193,6 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -213,13 +219,15 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Motorola Moto G13 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
-
-
 
 ## Motorola Moto G13 Bootloop Problem, How to Fix it Without Data Loss
 
@@ -231,9 +239,6 @@ We understand the inconvenience caused, therefore, here are ways to tell you how
 
 However, before moving on, let us learn a little about the causes for the Android boot loop error.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What might cause the bootloop issue on Android?
 
 Android boot loop error might seem weird and unexplainable but it occurs because of some specific reasons.
@@ -257,8 +262,6 @@ Read on to know more about how to fix the bootloop error without any data loss w
 If you are trying to figure out how to fix boot loop, the first option you have is the one-click fix to Android Bootloop which involves using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) software.
 
 This is designed to repair any data corruption on your device and restores your firmware to its usual working condition.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -291,6 +294,10 @@ You’ll then need to input the Motorola Moto G13 device information, such as yo
 
 ![select info to fix android boot loop](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #3** Now you’ll need to put your phone into Download Mode to remove the Android bootloop.
 
 For this, you can simply follow the onscreen instructions for both phones with and without home buttons.
@@ -309,9 +316,6 @@ Make sure your computer stays connected to the internet, and your device stays c
 
 You’ll be notified when the process is done and when you can remove your device and start using free from the boot loop Android error!
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 3: Soft reset to fix Android bootloop issue
@@ -403,6 +407,10 @@ Scroll down using” the volume key to select "Advanced".
 
 ![select “Advanced”](https://images.wondershare.com/drfone/article/2017/07/14994539628787.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now select “Wipe” and choose to wipe "Dalvik Cache".
 
 ![wipe “Dalvik Cache”](https://images.wondershare.com/drfone/article/2017/07/14994539844927.jpg)
@@ -419,6 +427,10 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Fix Unresponsive Phone Touchscreen Of Motorola Moto G13
 
 Smartphones nowadays contribute to our daily workflow, whether you’re a student or a professional. They get more sophisticated and add new features every year, making them more attractive with each new release. However, users sometimes deal with their **screen touch not working** on Android, raising various concerns.
@@ -427,9 +439,6 @@ Smartphones nowadays contribute to our daily workflow, whether you’re a studen
 
 If you are facing a similar issue, this page has all the solutions to teach you **what to do if your phone screen is not working.** By exploring the different methods below, you will be able to know how to fix a frozen phone touch screen as an Android user. Read on for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Top Causes of an Unresponsive Touchscreen
 
 Android has been the best-selling OS since 2011, with over three billion active users. With the release of Android 13, complaints over **touch issues** on certain Android phones have popped up over the internet. Meanwhile, software updates over the years can sometimes make their **phones stuck on the loading screen,** causing worry among Android users.
@@ -462,6 +471,10 @@ It may not respond properly when an Android device is dirty due to water, sweat,
 
 Here is a list of things you should do **how to fix a frozen phone touch screen,** whether you’re using an iPhone or an Android smartphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Clean Your Smartphone
 
 Your **screen touch not working** can sometimes get fixed by simply cleaning the screen on your smartphone. Use a soft dry cloth, gently clean your iPhone or Android device, and ensure water, oils, dirt, or other debris are no longer on your display. If you recently dropped your device in water, turn it off and leave it untouched for the next few hours.
@@ -471,6 +484,10 @@ Your **screen touch not working** can sometimes get fixed by simply cleaning the
 ### 2\. Remove Extra Peripherals
 
 Unplug any external device connected to your iPhone’s Lightning port or USB-C if your **phone screen stops working**. For Android users, meanwhile, disconnect any accessories like chargers or wireless headphones. After that, try using the touchscreen. If it works, the outcome proves that the fault appeared due to the external device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Force Restart Your Device
 
@@ -618,12 +635,15 @@ Wondershare Dr.Fone for iOS and Android is free to download and install. You can
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Knowing the common causes of an **unresponsive phone touchscreen** is the first step to preventing it from happening to your smartphone. While there are ways to fix it when it does happen, prevention is better than cure, as most experts say. However, if the methods outlined above don’t work, your best bet is to use a dedicated program such as Wondershare Dr.Fone for Android and iOS.
 
 Wondershare Dr.Fone works on almost all modern smartphones today and can fix a **stop-working phone screen** within less than 10 minutes. It’s beginner-friendly and doesn’t require advanced technical know-how to use right away.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -637,9 +657,23 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-navigating-the-best-online-pixel-ringtones-hubs/"><u>[New] 2024 Approved Navigating the Best Online Pixel Ringtones Hubs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-voice-driven-operation-platform-zero-price/"><u>[New] 2024 Approved Voice-Driven Operation Platform Zero Price</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-meeting-mastery-streaming-google-meet-directly-to-youtube/"><u>2024 Approved Meeting Mastery Streaming Google Meet Directly to YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mycam-reviewed-does-it-deliver-on-performance-promises/"><u>2024 Approved MyCam Reviewed Does It Deliver on Performance Promises?</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnose-and-fix-performance-hiccups-for-a-smooth-fallout-76-adventure/"><u>Diagnose & Fix Performance Hiccups for a Smooth Fallout 76 Adventure</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhance-android-video-performance/"><u>Enhance Android Video Performance</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-x50iplus-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor X50i+ Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-m6-pro-4g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco M6 Pro 4G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-ace-2-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 2 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-x50-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor X50 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/sony-xperia-10-v-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 10 V Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-combining-images-an-iphone-guide/"><u>The Art of Combining Images An iPhone Guide</u></a></li>
+</ul></div>
 

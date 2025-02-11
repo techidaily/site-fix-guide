@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor X50 | Dr.fone
-date: 2024-07-14T05:42:29.026Z
-updated: 2024-07-15T05:42:29.026Z
+date: 2025-02-07T01:34:35.252Z
+updated: 2025-02-11T01:25:30.489Z
 tags: 
   - problems
 categories:
@@ -72,6 +72,10 @@ When your touch screen stops working, the first thing you should do is restart y
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn On Safe Mode
 
 You should switch to Safe mode whenever an application or piece of software causes a problem on your device. Only the most fundamental system components are loaded and used when operating in Safe mode.
@@ -122,9 +126,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -137,9 +138,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 2:**** Connect your Honor X50 or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
@@ -178,9 +176,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -216,6 +211,10 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
@@ -229,7 +228,6 @@ The evolution of smartphones signifies the development of mobile communication t
 Honor X50 smartphones are gaining popularity owing to their low costs, high quality, and innovative features. High-resolution cameras, extensive battery life, and lightning-fast processing are just a few of the advantages of these mobile devices. Nevertheless, customers may sometimes need help with issues, such as a non-functioning Honor X50 touchscreen, which may be challenging.
 
 Some common issues might arise for Honor X50 phone users. The Redmi note 4 touch not working is a serious problem. It can only go up to the initialization screen. In this guide, you'll find the information you need to troubleshoot and fix the most common problems reported by Motorola customers.
-
 
 ## **What causes a Honor X50 Screen to be unresponsive?**
 
@@ -249,6 +247,10 @@ Screens on Honor X50 devices may become unresponsive for a variety of hardware-r
 
 The Android operating system is adjustable. Some of our technological advancements may backfire on us. The phone won't power on or become stuck in a boot loop where the logo will only show intermittently. For example, some Honor X50 4 and 5 users have reported their screens are unresponsive after a software update, rendering the Honor X50 device unusable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The common solutions to solve a Honor X50 Screen unresponsive**
 
 Could anything be more annoying than a broken touchscreen on your Honor X50 phone? If this happens, the gadget is useless, and you won't be able to do even the simplest tasks. Even so, it's common for the screen to cease responding to touches.
@@ -256,8 +258,9 @@ Could anything be more annoying than a broken touchscreen on your Honor X50 phon
 Before taking the item in for repairs, see if you can figure out the problem independently. Do you want to learn the method? If the touch screens on your Honor X50 stop working, don’t panic; we'll teach you exactly what to do.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Solution 1: Try to restart your device**
 
 ![restart your phone](https://images.wondershare.com/drfone/article/2023/03/reset-button-android-1.jpg)
@@ -271,6 +274,10 @@ Giving your Honor X50 a restart is one of the most common solutions if you encou
 ### **Solution 2: Check your charging port and battery**
 
 ![xiaomi battery and charger](https://images.wondershare.com/drfone/article/2023/03/charge-your-phone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the battery of your Honor X50 is empty, your screen is expected to be unresponsive. To fix that, here are some easy steps for you:
 
@@ -358,6 +365,10 @@ Some apps and websites, such as banking apps, store private data like financial 
 
 ![cryptocurrency app screenshot error](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Follow Regulations
 
 Some industries and organizations have regulations that need them to protect sensitive data. Financial institutions must protect their customers’ financial information, for example. Disabling screenshots is one way to follow these regulations.
@@ -419,6 +430,10 @@ Apps and websites may prohibit screenshots in incognito mode to protect your pri
 - **Step 1:** Open Chrome on your Honor X50 and type “chrome://flags” in the address bar.
 
 ![chrome experimental flags](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Search for Incognito Screenshot and choose **Enabled** from the drop-down menu.
 
@@ -502,14 +517,15 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 - **Step 3:** Click **Start** on the new window.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone system repair solutions](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 - **Step 4:** Select an option from the **Name**, **Model**, **Country**, and **Carrier** in the drop-down lists. Next, select the checkbox to agree with the warning, then click **Next** in the bottom right corner.
 
 ![select correct device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Follow the in-app instructions to put your Honor X50 on Download mode, then click **Next**.
 
@@ -519,6 +535,10 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 
 ![downloading firmware interface](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Review the details on the screen and click **Fix Now** to install the firmware on your smartphone.
 
 ![firmware downloaded interface](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
@@ -526,6 +546,10 @@ Follow this step-by-step guide and learn how to use Dr.Fone to scan your Android
 - **Step 8:** Read the dialogue box note, enter the code in the input box, and click **Confirm**.
 
 ![enter code in the dialogue box](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 9:** Keep your smartphone connected and avoid using it while Dr.Fone is repairing it.
 
@@ -543,9 +567,6 @@ Although there are ways to bypass the “**Can’t take screenshot due to securi
 
 If you think the issue is with your Android system, or your device becomes bricked after trying other methods, experiencing app crashes, or otherwise malfunctioning, try using the Dr.Fone System Repair tool. It is worth trying and can fix most Android system issues in a few minutes.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -558,9 +579,20 @@ If you think the issue is with your Android system, or your device becomes brick
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-integrating-facebook-video-into-home-screen-apps/"><u>[New] Integrating Facebook Video Into Home Screen Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-streamlit-success-top-5-tools-for-stellar-visuals/"><u>[New] Streamlit Success Top 5 Tools for Stellar Visuals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-essential-enhancements-what-apples-vision-pro-must-do-to-triumph-professionally-insights/"><u>1. Essential Enhancements: What Apple's Vision Pro Must Do to Triumph Professionally - Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-tecno-pova-6-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Pova 6 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/galactic-grower-top-custom-pc-brand-reports/"><u>Galactic Grower: Top Custom PC Brand Reports</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-a56s-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo A56s 5G FRP Without Computer</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/leading-comprehensive-backup-systems-for-windows-based-servers-a-comparative-review/"><u>Leading Comprehensive Backup Systems for Windows-Based Servers: A Comparative Review</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-asus-rog-phone-8-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Asus ROG Phone 8 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-vivo-lock-screen-without-password-vivo-y78-5g-by-drfone-android-unlock-android-unlock/"><u>Remove Vivo Lock Screen without Password(Vivo Y78 5G)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-way-building-a-personalized-speech-to-text-app-with-ahk-and-whisper/"><u>Winning Way: Building a Personalized Speech-to-Text App with AHK & Whisper</u></a></li>
+</ul></div>
 

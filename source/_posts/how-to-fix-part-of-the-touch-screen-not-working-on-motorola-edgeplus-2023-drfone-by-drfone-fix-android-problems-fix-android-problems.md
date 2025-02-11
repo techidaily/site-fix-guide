@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Motorola Edge+ (2023) | Dr.fone
-date: 2024-07-14T05:43:20.740Z
-updated: 2024-07-15T05:43:20.740Z
+date: 2025-02-03T17:25:21.904Z
+updated: 2025-02-11T01:28:45.613Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ You probably touch the screen of your phone hundreds of times per day. It’s no
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Is Part of My Screen Not Working
 
 There are two possible causes as to why your phone’s touch screen is not working. One is the touch screen may have been damaged, and the other is the Motorola Edge+ (2023) device may be experiencing technical difficulties.
@@ -107,9 +104,6 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -150,6 +144,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
@@ -177,6 +175,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Motorola Edge+ (2023). And in a while, your Motorola Edge+ (2023)’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported OS
 
@@ -225,6 +227,10 @@ There are many reasons why ****phones get stuck on the boot screen****. It could
 
 ![samsung stuck on boot screen](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This article will share the possible reasons why your ****phone is stuck on the boot screen****. This article will share three possible reasons for this problem and three valuable tips to help fix this issue. If all else fails, there is an application that is recommended and is sure to solve your issue in no time. Keep on reading to find out more!
 
 It is not uncommon for **phones** to be ****stuck on the startup screen****, but finding out why this happens is tricky. This section identified some of the top reasons your cellphone could have gotten stuck on the startup screen.
@@ -244,6 +250,10 @@ Even the tiniest water droplet that seeped into your phone could damage the inte
 For iPhone users, look for the water damage indicator. If you see that it has turned from white to red, it has suffered from water damage. You have two options if your phone has suffered liquid damage. One is dismantling your phone and letting it dry for at least 48 hours. Two is bringing your phone to a repair shop to fix it.
 
 ![iphone water indicator](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Software Issues
 
@@ -276,6 +286,10 @@ Here is a step-by-step process for putting your Motorola Edge+ (2023) or Redmi s
 ![xiaomi recovery mode operation](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-04.jpg)
 
 ****Step 3****: You can use the volumes buttons to navigate up and down and press the Power key to confirm the selection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Factory Reset
 
@@ -343,6 +357,10 @@ A boot loop typically starts when there is a change to your system before a rebo
 
 **3,405,439** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This article summarizes some of the possible reasons why your ****phone is stuck on the boot screen****. It demonstrated three useful strategies to overcome your ****phone stuck in the boot**** with ease. However, if all the above methods do not work, why not try Dr.Fone-System Repair?
@@ -375,9 +393,6 @@ The inability to open the Play Store leaves you without access to new apps or up
 
 The dreaded "Not Responding" message can bring usability to a standstill. Users navigating the Play Store may experience delays or complete unresponsiveness. It can lead to a frustrating and unproductive experience.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Download and Installation Failures
 
 When downloads and installations fail, you will be unable to enjoy new apps or updates. This issue can be annoying when trying to access crucial software improvements or security updates.
@@ -406,6 +421,10 @@ If you're wondering **why does Google Play Store keeps stopping** on your phone,
 - **Google account problems**. Authentication issues, incorrect credentials, or other problems with the linked Google account can disrupt the Play Store's functionality. This can also lead to repeated crashes.
 - **System glitches and bugs.**Inherent glitches and bugs within the Android operating system may affect the Play Store's performance. They can cause your device to stop unexpectedly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part III.7 Quick Solutions To Resolve Play Store Not Working Issues
 
 Encountering issues with the Google Play Store can be frustrating. It disrupts your ability to download, update, or access essential apps. Here are seven quick solutions when your **Google Play Store unfortunately has stopped.**
@@ -428,14 +447,15 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 - **Step 1:** Open the Play Store app and tap the three horizontal lines in the top-left corner to access the menu.
 - **Step 2:** Select **Settings** and scroll down to find the **Play Store version**. Install any available updates.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![updating play store on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-06.jpg)
 
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset App Preferences
 
@@ -475,9 +495,6 @@ Ensure your device's overall stability by performing a system update to ensure t
 
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part IV. How To Repair Play Store Not Working With an Alternative
 
 Repairing your Google Play Store can be swift and effective with Dr.Fone - System Repair. This tool offers advanced features to diagnose and fix various system issues without the advanced skills required. It provides a quick and efficient resolution for a malfunctioning Google Play Store. Follow these three simple steps to get started:
@@ -500,6 +517,10 @@ Repairing your Google Play Store can be swift and effective with Dr.Fone - Syste
 
 ![dr.fone repair completed window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: What Else Can Dr.Fone - System Repair Do?
 
 Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known for its user-friendly interface and high success rate. Its ability to address a wide range of Android issues offers a comprehensive solution to various system-related problems. Below are the platform's key highlights.
@@ -517,14 +538,15 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 
 **4,131,376** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Addressing issues when your **Google Play Store does not work** is crucial for an uninterrupted Android experience. Follow the outlined steps to regain control and enjoy a seamless app experience. Don't let frustrations linger; take immediate action for a hassle-free Google Play Store.
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -538,9 +560,26 @@ Lastly, having Dr.Fone - System Repair at your side offers a reliable solution f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-how-to-record-audio-from-youtube/"><u>[New] 2024 Approved How to Record Audio From YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-revolutionizing-vr-experiences-with-newest-game-engines-for-2024/"><u>[New] Revolutionizing VR Experiences with Newest Game Engines for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-vr-accessories-unleashed-in-depth-reviews-for-2024/"><u>[New] VR Accessories Unleashed In-Depth Reviews for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-memory-test-failed-in-windows/"><u>Combatting 'Memory Test Failed' In Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-libeay32dll-not-found-or-missing-errors/"><u>How to Fix Libeay32.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-exclusive-guide-to-the-leading-top-10-fb-videos-downloader-for-android/"><u>In 2024, Exclusive Guide to the Leading Top 10 FB Videos Downloader for Android</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/interactive-bots-and-your-rights-understanding-the-top-3-concerns/"><u>Interactive Bots & Your Rights: Understanding the Top 3 Concerns</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c02-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C02 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-red-magic-8s-proplus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Red Magic 8S Pro+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c51-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C51 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-auditory-solutions-iphone-tunes-makers/"><u>Premier Auditory Solutions IPhone Tunes Makers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-gt-neo-5-se-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme GT Neo 5 SE Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-lava-blaze-2-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Lava Blaze 2 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-definitive-guide-to-the-huawei-mediapad-m5-optimized-for-sight-and-sound-quality/"><u>The Definitive Guide to the Huawei MediaPad M5: Optimized for Sight and Sound Quality.</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/top-10-high-quality-tikfilters-transforming-feeds-for-2024/"><u>Top 10 High-Quality TikFilters Transforming Feeds for 2024</u></a></li>
+</ul></div>
 

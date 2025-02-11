@@ -1,7 +1,7 @@
 ---
 title: Steps to Repair 'Microsoft Internet Explorer Failed to Connect' Errors
-date: 2025-01-25T02:22:47.241Z
-updated: 2025-01-30T02:36:30.167Z
+date: 2025-02-03T17:25:45.579Z
+updated: 2025-02-10T16:00:15.428Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/featured_-1200x653.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This error occurs when you have an issue with your connection to the Call of Duty servers. Either the server is down or there’s something wrong with your Internet connection or network settings.
 
  The most possible causes of ‘ **_Connection to the Battle.net game server has been lost_**  ‘ are as follows:
@@ -32,10 +36,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Outdated device drivers
 * Software confliction
 * etc.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
@@ -50,6 +50,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 5. [Use a VPN](https://tools.techidaily.com/drivereasy/download/)
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1\. Allow your game to run through Windows Firewall
 
@@ -68,7 +72,7 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
@@ -102,7 +106,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -116,14 +120,14 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -131,6 +135,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -148,18 +156,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
 
@@ -199,20 +199,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-maximizing-zoom-visual-precision-effective-strategies-for-2024/"><u>[New] Maximizing Zoom Visual Precision Effective Strategies for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-stardom-in-your-sights-6-must-try-techniques-for-verification-and-growth-for-2024/"><u>[Updated] Instagram Stardom in Your Sights 6 Must-Try Techniques for Verification and Growth for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728463731650-windows-1110/"><u>备份及恢复Windows 11/10上重磚后的操作数据：详解方法</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/flipping-photos-for-followers-a-rotational-approach-for-insta-success-for-2024/"><u>Flipping Photos for Followers A Rotational Approach for Insta Success for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-runic-runes-to-oral-tradition-viking-language-unravewed/"><u>From Runic Runes to Oral Tradition: Viking Language Unravewed</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-note-12t-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi Note 12T Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic-vs-2-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic Vs 2 Safely | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-guide-to-producing-effective-youtube-promo-videos/"><u>In 2024, Guide to Producing Effective YouTube Promo Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pixel-pocket-sized-powerhouse-vs-apples-series-9-elegance-deciding-which-upgrades-worth-your-time-gadget-reviewed/"><u>Pixel Pocket-Sized Powerhouse Vs. Apple's Series 9 Elegance: Deciding Which Upgrades Worth Your Time | Gadget Reviewed</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c02-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C02 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-motorola-moto-g23-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Motorola Moto G23 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-s18-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo S18 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-hashtag-wisdom-uncovering-the-best-tags-to-dominate-on-instagram/"><u>[New] 2024 Approved Hashtag Wisdom Uncovering the Best Tags to Dominate on Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discover-the-ultimate-path-to-boundless-space-with-20-no-cost-services-for-2024/"><u>[New] Discover The Ultimate Path to Boundless Space with 20 No-Cost Services for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-youtubes-earnings-blueprint/"><u>[New] Unveiling YouTube’s Earnings Blueprint</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-high-definition-face-off-ultimate-legend-sj6-vs-xiaomis-yi/"><u>[Updated] High Definition Face-Off Ultimate Legend SJ6 Vs. Xiaomi's Yi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-chips-for-immersive-4k-video-workflows/"><u>Best Chips for Immersive 4K Video Workflows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oneplus-ace-2-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve OnePlus Ace 2 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-s18-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo S18 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-history-streams-that-will-transform-your-study-habits/"><u>In 2024, History Streams That Will Transform Your Study Habits</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-moto-g73-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Moto G73 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-gt-5-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme GT 5 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-diagnosing-and-fixing-issues-with-your-hard-drive-tech-tips-by-yl-computing/"><u>Step-by-Step Guide: Diagnosing and Fixing Issues with Your Hard Drive - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-v27-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo V27 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/verifying-your-graphics-card-installation-expert-tips-from-yl-computing-and-software-solutions/"><u>Verifying Your Graphics Card Installation: Expert Tips From YL Computing & Software Solutions</u></a></li>
 </ul></div>
 

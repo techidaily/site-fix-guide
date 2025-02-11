@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Infinix Smart 8 HD | Dr.fone
-date: 2025-01-19T16:15:42.345Z
-updated: 2025-01-22T16:01:25.394Z
+date: 2025-02-06T20:34:36.621Z
+updated: 2025-02-10T23:04:58.951Z
 tags: 
   - problems
 categories:
@@ -42,10 +42,6 @@ Running an outdated version of the Play Store can cause compatibility issues wit
 
 Issues with verifying Google accounts can restrict access to the Play Store. It prevents you from downloading or updating apps. Authentication problems pose a significant barrier, impacting your ability to stay current with app versions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### App Download Restrictions
 
 Device settings or parental controls may impose restrictions on certain app downloads. You may encounter limitations in accessing specific apps. It can affect the Infinix Smart 8 HD device's versatility.
@@ -66,13 +62,13 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 
 ![dr.fone main window interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,307,222** people have downloaded it
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -91,6 +87,10 @@ The tool is designed to [<u>address a wide array of Android problems</u>](https:
 One of the standout features of Dr.Fone - System Repair is its high success rate in problem resolution without causing data loss. You can have confidence that your apps and important data remain intact throughout the repair process. It ensures a smooth solution and maintains the integrity of the user's device and data.
 
 When grappling with persistent issues hindering app downloads on the Google Play Store, having a reliable third-party tool becomes essential to safeguard your apps and ensure a seamless user experience. The next section will show you how to use the platform to fix the **apps not downloading in the Google Play Store** problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part III. First Choice: Use Dr.Fone - System Repair for App Downloading Issues
 
@@ -141,10 +141,6 @@ An outdated Play Store version may lead to compatibility issues. Open the Google
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clear Play Store Cache and Data
 
 Cached data in the Play Store can sometimes cause download problems. Head to the Infinix Smart 8 HD device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
@@ -172,10 +168,6 @@ Device settings or parental controls might impose restrictions on certain app do
 ### Restart the Infinix Smart 8 HD device
 
 Sometimes, a simple restart can resolve various issues. Power off your device, wait a few seconds and then power it back on. This can help refresh system processes and eliminate temporary glitches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -219,6 +211,10 @@ Step 1: Install and then run Dr.Fone - System Repair (Android), the ultimate And
 
 ![fix Android phone won’t charge by android repairing tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Tap on the ‘Android Repair’ option and then click ‘Start’ for moving ahead.
 
 ![start to fix](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -242,6 +238,10 @@ Step 1: It’s essential that you put the Android device under ‘Download’ mo
 Step 2: Click ‘Next’ to start downloading the Android firmware.
 
 ![download android firmware to fix](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Now, Dr.Fone - System Repair (Android) would verify the firmware and then start repairing the Android system on its own. It will ultimately fix your ‘why won't My Infinix Smart 8 HD charge’ trouble.
 
@@ -273,13 +273,13 @@ This method is fairly simple, and all you need to do is check whether or not the
 
 ![check charging adapter](https://images.wondershare.com/drfone/article/2017/06/14985010302112.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Try another power source
 
 This technique is more like a quick trick. It means to switch from one power source to another or use a more efficient and suitable power source. Laptops and PCs charge slower than a direct power source, i.e., a wall socket. Sometimes, the charging speed is slower, and the battery is draining. In such a scenario, choose to charge your device by directly plugging it into a socket on the wall to never experience My Infinix Smart 8 HD won't charge problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Clear device Cache
 
@@ -299,6 +299,10 @@ Follow the steps given below to clear your device’s cache:
 
 Try charging your phone after clearing the cache. If your phone doesn't charge even now, do not worry. There are more ways to help you combat My Infinix Smart 8 HD won't charge problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Re-start/reboot your phone/tablet
 
 Restarting your device to fix why won't My Infinix Smart 8 HD charge error is a very effective remedy. This method of rebooting your device not only fixes software glitches but other but also tackles other factors/operations that might be running in the background preventing your device from charging.
@@ -311,10 +315,6 @@ Restarting a device is simple and can be done by following the steps given below
 
 ![restart device](https://images.wondershare.com/drfone/article/2017/06/14985010975405.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To restart your device, you may also press the power button for about 20-25 seconds for the phone/tablet to automatically reboot.
 
 ### 7\. Download and install the Ampere App
@@ -324,10 +324,6 @@ The Ampere app can be downloaded from the Google Play Store. It is very helpful 
 If the App gives information in green color, it means all is wetland your device is charging normally, however, if the information before you is in orange, you need to take steps to fix the charging problem.
 
 ![charging status](https://images.wondershare.com/drfone/article/2017/06/14985011165678.jpg) ![full charged](https://images.wondershare.com/drfone/article/2017/06/14985011377424.jpg) ![discharging](https://images.wondershare.com/drfone/article/2017/06/14985011663339.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Install software updates
 
@@ -353,6 +349,10 @@ Follow the steps given below to factory reset your device:
 
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/06/14985012572851.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 • In this step, select “Factory data reset” and then “Reset Device”.
 
 • Finally, tap on “ERASE EVERYTHING” as shown below to Factory Reset your device.
@@ -368,10 +368,6 @@ This should be your last resort to fix My Infinix Smart 8 HD won't charge proble
 ![replace phone battery](https://images.wondershare.com/drfone/article/2017/06/14985013005679.jpg)
 
 Finally, fixing the phone won't charge the problem is simple, and therefore there is no need for you to worry as you are not the only one experiencing such an issue. Other Android users have tried, tested, and recommended the methods given above to solve why won't My Infinix Smart 8 HD charge or Infinix Smart 8 HD tablet won't charge error. So go ahead and try them out now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8 Solutions to Solve YouTube App Crashing on Infinix Smart 8 HD
 
@@ -398,10 +394,6 @@ Similar to the app, if you restart the Infinix Smart 8 HD device, it will start 
 
 ![Youtube not working android - fix by restarting android](https://images.wondershare.com/drfone/article/2019/06/restart-device.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use a VPN
 
 There is a possibility that YouTube is prohibited in your region. Banning some apps is done for some safety reasons. And therefore, you need to check if this is done in your area or not. If yes, then we shouldn’t mention the reason why YouTube is not working on Android. In such a case, use a VPN to access YouTube.
@@ -415,6 +407,10 @@ When the stored cache files start getting crash, the “Unfortunately YouTube ha
 - Open “Storage” and click on “Clear Cache”.
 
 ![Youtube not working android - clear cache](https://images.wondershare.com/drfone/article/2019/06/clear-cache-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reinstall YouTube from Play Store
 
@@ -463,7 +459,7 @@ With the help of the USB cord, connect your Infinix Smart 8 HD to the computer. 
 ![Youtube not responding - connect device to pc](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Enter Information**
@@ -477,6 +473,10 @@ Now, as the next step, you need to make sure of the details of your device. Plea
 Now, follow the instructions given on the screen according to your device. Click on “Next” and the program will start downloading the firmware.
 
 ![Youtube crashing on Android - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Repair the Issue**
 
@@ -507,22 +507,15 @@ When nothing works, the last resort you can go with is resetting the Infinix Sma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-principles-of-evolving-media-artistry/"><u>[New] In 2024, Principles of Evolving Media Artistry</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-overcome-sound-absence-on-tweeted-film-rolls/"><u>2024 Approved Overcome Sound Absence on Tweeted Film Rolls</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024mac-mp3/"><u>2024最新Mac MP3編集ソフトウェア：音楽制作強化ツール集</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-s17-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo S17 Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-video-editing-on-ios-and-android-devices/"><u>Cutting-Edge Video Editing on iOS and Android Devices</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-nokia-c12-plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nokia C12 Plus Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-v-purse-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor V Purse Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-key-iphone-photography-utilities-for-watermarking/"><u>In 2024, Key iPhone Photography Utilities for Watermarking</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g933-headset-mic-failure-heres-how-to-restore-functionality/"><u>Logitech G933 Headset Mic Failure? Here's How to Restore Functionality</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-gt-3-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme GT 3 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-reno-11f-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 11F 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/photoshop-stabilizers-role-crucial-for-creatives-for-2024/"><u>Photoshop Stabilizer's Role - Crucial for Creatives for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y78plus-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y78+? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-12-proplus-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme 12 Pro+ 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-your-routine-the-ultimate-list-of-9-chatgpt-benefits/"><u>Streamline Your Routine: The Ultimate List of 9 ChatGPT Benefits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-infuse-your-snap-with-japanese-pop-culture-the-anime-filter-tutorial-for-2024/"><u>[New] Infuse Your Snap with Japanese Pop Culture The Anime Filter Tutorial for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-audio-recording-solutions-for-educators-using-apple-products/"><u>[Updated] In 2024, Audio Recording Solutions for Educators Using Apple Products</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-13-ways-to-fine-tune-colors-in-photoshop-effortlessly/"><u>2024 Approved 13 Ways to Fine-Tune Colors in Photoshop Effortlessly</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/audience-retention-the-key-to-a-great-youtube-conclusion/"><u>Audience Retention The Key to a Great YouTube Conclusion</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-zero-30-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Zero 30 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-90-gt-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor 90 GT Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-tecno-spark-20-proplus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Spark 20 Pro+ – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-camon-20-premier-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Camon 20 Premier 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-win32-app-crash-error-code-0xc0000005-on-your-pc/"><u>Ultimate Guide: Resolving the Win32 App Crash (Error Code 0xC0000005) on Your PC</u></a></li>
 </ul></div>
 

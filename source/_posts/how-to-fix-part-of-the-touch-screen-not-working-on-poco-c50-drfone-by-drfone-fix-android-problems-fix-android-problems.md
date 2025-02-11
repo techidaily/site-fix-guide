@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Poco C50 | Dr.fone
-date: 2024-07-14T05:44:23.866Z
-updated: 2024-07-15T05:44:23.866Z
+date: 2025-02-03T23:11:33.576Z
+updated: 2025-02-11T01:29:40.811Z
 tags: 
   - problems
 categories:
@@ -52,13 +52,14 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - If there is a sticker on the Poco C50 device screen, you must remove it.
 - Before continuing, make sure your screen is spotless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Poco C50 device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Poco C50’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -107,9 +108,6 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -128,9 +126,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -215,6 +210,10 @@ Check below to know Dr.Fone – System Repair’s limitations:
 - Depending on the toolkit required, the program can be costly.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -360,8 +359,6 @@ When you encounter an Android system crash, before looking for solutions to fix 
 
 [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html) is currently one of the most popular tools to retrieve data from not only broken or damaged, locked devices, and unresponsive devices but also from devices that face an Android system crash. You may try the software for free for scanning the data to understand its work. Dr.Fone’s Data Extraction tool not only retrieves and back-up contacts and messages but also your photos, videos, audio files, WhatsApp, docs, call logs, and other file folders. It is also equipped to retrieve data from the Poco C50 device’s internal memory as well as Google drive.
 
-
-
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
@@ -385,9 +382,6 @@ You may follow the steps given below to rescue your data from crashed Android de
 
 3\. Choose the "Touch screen not responsive or cannot access the phone" to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
 4\. You will now see device options before you. Select yours and move on to feed in your device name and model details.
@@ -444,6 +438,10 @@ Another quick solution to avoid Android devices crashing is to shut down unneces
 
 ![press the clean now button](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Uninstall incompatible Apps to fix Android crash issue
 
 If your Android system crash takes place frequently but the Poco C50 device turns on normally after that, there is a chance that some Apps may be causing the problem. Unnecessary and large App files burden the Poco C50 device system and force it to crash every now and then. Make sure you download, install and store only those Apps which are fully compatible with your Android system. DO NOT download Apps from other unknown sources and use only Google Play store for the purpose. All other incompatible Apps must be deleted to prevent them from tweaking your software.
@@ -459,6 +457,10 @@ Select the App you wish to uninstall. From the options that appear before you, c
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14988991704356.jpg)
 
 You may also uninstall an App directly from the Home Screen (only possible in certain devices) or from the Google Play Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: Check Android storage and free up space
 
@@ -496,6 +498,10 @@ However, if the Android crash problem is such that your phone has frozen, become
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14988992495864.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Once you are on the Recovery Mode screen, use the volume down key to scroll down and select ”Wipe cache partition” as shown below.
 
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14988992704405.jpeg)
@@ -516,6 +522,10 @@ To format your SD Card, just follow the instructions below.
 
 ![format sd card](https://images.wondershare.com/drfone/article/2017/07/format-sd-card.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 9: Update to the latest software version
 
 Updating the Android device will cast out all glitches that prevent it from operating properly. For that, let's look into the steps explaining how to update your Android software version to the latest option:
@@ -528,17 +538,22 @@ Updating the Android device will cast out all glitches that prevent it from oper
 
 ![choose download and install option](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 10: Use Wondershare Dr.Fone – System Repair To Fix Android System Crash
 
 If you are not getting any specific solution to the problem, you can try fixing the Android system crash problems using specific tools. These third-party tools can be an excellent option for resolving system errors in Android devices. [Wondershare Dr.Fone – System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) is a great tool designed to resolve all system issues in Poco C50] and other smartphones.
 
 It features a great system providing a one-click Android repair option for fixing all kinds of problems. Along with fixing all basic and advanced Android system issues, it features support for multiple Android devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of Wondershare Dr.Fone – System Repair (Android)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - System Repair (Android)
@@ -607,6 +622,10 @@ Now select “Backup and Reset”.
 
 ![backup reset](https://images.wondershare.com/drfone/article/2017/07/14988993192107.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this step, select “Factory data reset” and then “Reset Device” to confirm Factory Reset.
 
 The process of factory resetting your Poco C50 is risky and cumbersome, as it deleted all data, but it helps to fix the Android System crash error.
@@ -625,8 +644,9 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -640,9 +660,20 @@ Bottomline, the tips given above have helped many to solve the Android system cr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-bring-life-to-pixels-add-motion-blur/"><u>[New] In 2024, Bring Life to Pixels Add Motion Blur</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-from-flat-to-fantastic-animated-text-transformations/"><u>[New] In 2024, From Flat to Fantastic Animated Text Transformations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-your-photos-a-comprehensive-guide-to-facetune/"><u>[New] Mastering Your Photos A Comprehensive Guide to Facetune</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-how-to-take-landscape-photos-on-iphone-killer-tips/"><u>[Updated] 2024 Approved How to Take Landscape Photos on iPhone [Killer Tips]</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-lava-yuva-3-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Lava Yuva 3 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-hot-40i-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 40i Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-cutting-avi-videos-top-tools-for-windows-mac-and-android-for-2024/"><u>New The Ultimate Guide to Cutting AVI Videos Top Tools for Windows, MAC, and Android for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-moto-e13-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Moto E13 Black and White | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rip-dvds-fast-with-free-ripit-tool-for-windows-os-7-8-10-get-yours-today/"><u>Rip DVDs Fast with Free RipIt Tool for Windows OS (7, 8, 10) – Get Yours Today!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-fixing-your-malfunctioning-computer-using-chatgpt/"><u>Step-by-Step Guide: Fixing Your Malfunctioning Computer Using ChatGPT</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo A59 5G | Dr.fone</u></a></li>
+</ul></div>
 

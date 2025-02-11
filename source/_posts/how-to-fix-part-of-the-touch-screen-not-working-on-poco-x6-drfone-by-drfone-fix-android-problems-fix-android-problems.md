@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Poco X6 | Dr.fone
-date: 2024-07-14T05:44:30.907Z
-updated: 2024-07-15T05:44:30.907Z
+date: 2025-02-07T23:59:37.751Z
+updated: 2025-02-11T02:06:28.580Z
 tags: 
   - problems
 categories:
@@ -144,6 +144,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
@@ -207,6 +211,10 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
@@ -218,6 +226,10 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 For all its glory and goodness, the Android OS often has its users pulling their hair in frustration at just how buggy the OS can be at times. So, if you’re having one of those days today, we are here to help. Camera app is one of the most used apps on smartphones today. People only launch the app when they want to take a photo, for everything else there’s a dedicated photo gallery app. What happens when you launch the camera app only to realize it threw an error and you missed your photo moment? Don’t throw the phone, not yet. Let us help you out.
 
 ![camera not working error in android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I: Why Is Android Camera Not Working?
 
@@ -271,9 +283,6 @@ Step 1: Go to Settings > Apps > Camera > Permissions.
 
 Step 2: Tap Camera.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
@@ -290,6 +299,10 @@ Step 2: Tap Clear Cache.
 
 ![clear camera app cache android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.V: Clear The Photo Gallery App Cache
 
 The camera app is closely tied to the photo gallery app that comes baked in into Android OS. That is because photos that the camera app takes are stored in the photo gallery app. Consequently, if there were any issues in the photo gallery app, that could lead to the camera app not working on Android problem. Here’s how to clear the photo gallery app cache:
@@ -300,9 +313,6 @@ Step 1: Go to Settings > Apps > Photos > Storage Usage.
 
 Step 2: Tap Clear Cache.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.VI: Check For App Updates
 
 This does not happen always, but sometimes, with known bugs and issues, there may be an update released that fixes those bugs and issues that prevent some users from using a given app reliably. Checking for updates is a good step to make sure that your camera app is updated to the latest version possible.
@@ -310,6 +320,10 @@ This does not happen always, but sometimes, with known bugs and issues, there ma
 Step 1: Go to Play Store and tap your profile picture on the right.
 
 ![google play store app updates](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Tap Manage Apps and Device.
 
@@ -322,6 +336,10 @@ Step 3: If there are updates available, Tap Update All to update all apps.
 We do not realize the immense power that is packed into the thin smartphone form factor these days. If you have been using the phone to video chat for a while now, you might not realize that the phone has become hot, especially if you are using a desk stand. Same for shooting high-resolution videos; the phone does get quite hot shooting high-resolution videos.
 
 If this is the case, close all apps and let the phone cool down. You might even want to shut the phone off to help cool it faster.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.VIII: Nudge The Camera System
 
@@ -337,9 +355,6 @@ Today, we will use Dr.Fone’s System Repair (Android) module to fix Android cam
 
 Download Dr.Fone here.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 Step 1: Launch Dr.Fone app on your PC or Mac.
@@ -374,6 +389,10 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![fix android camera not working with drfone](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
@@ -385,6 +404,10 @@ The camera app on your smartphone is one of the most important apps you use. Thi
 In this article, you will learn why camera fails on Poco X6 devices, how to make camera work again, as well as a system repair tool to fix this issue in few clicks.
 
 [![](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Poco X6 devices are one of the best Android devices available in the market and their users are always satisfied with their features. However, it is a recent observation that many Poco X6 users complain about Poco X6 camera failed error while using the camera App on the Poco X6 device. It is a strange error and pops up suddenly with only one option to tap on, i.e., “OK”
 
@@ -410,7 +433,9 @@ There might be much more reasons for the camera failed error, but these are the 
 
 If you are experiencing some kind of issues in your Poco X6s such as Poco X6 camera failed, the Poco X6 device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Poco X6 devices and perform a complete system repair so the Poco X6 device starts working normally.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -430,6 +455,10 @@ One-click solution to fix camera failed on Poco X6 devices
 **Step 1.** Download the software on your computer and launch it. Connect your device and select the System Repair option from the main interface. In the next screen, select Android Repair module.
 
 ![fix samsung camera failed by repairing samsung system](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** You will have to provide the Poco X6 device details accurately to ensure that the software provides a precise firmware package to be downloaded. Enter brand, name, model, country, and carrier of your device and agree to the terms and condition.
 
@@ -451,9 +480,6 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 
 1\. First, visit “Settings’” on your Poco X6 device and select “Apps” or Application Manager”.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![application manager](https://images.wondershare.com/drfone/article/2017/07/14997063797708.jpg "application manager")
 
 2\. Now a list of all Apps will appear before you. Keep scrolling down until your find “Camera”.
@@ -498,9 +524,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 3\. Once the Recovery Screen appears, leave all buttons and use the volume down key till you reach “Wipe Cache Partition”.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2017/07/14997068264206.jpeg "wipe cache partition")
 
 4\. Now, to select the option to use the power on/off button and wait for the process to get over. Once this done, tap on “Reboot system now” and see that your device restarts normally.
@@ -553,9 +576,6 @@ Note: You will have to set up your Poco X6 device from scratch once it is reset,
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Poco X6 devices.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -568,9 +588,24 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-low-cost-recorders-guide-to-webcasting-wisdom/"><u>[New] 2024 Approved Low-Cost Recorder's Guide to Webcasting Wisdom</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-advanced-steps-for-documenting-online-meetings/"><u>[New] Advanced Steps for Documenting Online Meetings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-identifying-the-best-on-the-market-for-hdr-photography/"><u>[New] Identifying the Best on the Market for HDR Photography</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-latest-trends-in-mobile-viewing-android-edition-vr360/"><u>[Updated] 2024 Approved Latest Trends in Mobile Viewing - Android Edition (VR/360)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-snap-and-share-the-brief-vlog-age/"><u>[Updated] In 2024, Snap & Share The Brief Vlog Age</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>[Updated] The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-dng-files-to-jpeg-for-free-with-movavi-image-editor-online-tool/"><u>Convert DNG Files to JPEG for Free with Movavi Image Editor Online Tool</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-itel-a70-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Itel A70 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/laugh-and-cry-on-instagram-best-meme-accounts-of-the-year-for-2024/"><u>Laugh and Cry on Instagram Best Meme Accounts of the Year for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nubia-red-magic-8s-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nubia Red Magic 8S Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-v27-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo V27 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Lava Storm 5G | Dr.fone</u></a></li>
+</ul></div>
 

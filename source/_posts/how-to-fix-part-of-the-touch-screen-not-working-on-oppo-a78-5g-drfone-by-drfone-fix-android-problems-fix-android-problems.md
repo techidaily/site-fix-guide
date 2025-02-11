@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Oppo A78 5G | Dr.fone
-date: 2024-07-14T05:44:06.146Z
-updated: 2024-07-15T05:44:06.146Z
+date: 2025-02-09T17:32:12.814Z
+updated: 2025-02-10T20:37:12.974Z
 tags: 
   - problems
 categories:
@@ -102,6 +102,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
 ### Reset Device to Factory Settings
@@ -148,9 +152,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 ****Step 4:**** Before repairing your Oppo A78 5G, you must boot it into ****Download**** ****mode****. To boot your Oppo A78 5G or tablet into DFU mode, follow the steps below:
@@ -225,8 +226,9 @@ In this guide, discover reliable solutions when your **Google Play Store is not 
 ![woman annoyed on phone not working](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part I. 7 Common Google Play Store Issues Users Encounter
 
 The Google Play Store serves as the epicenter for Android users. It facilitates seamless access to a vast array of apps. However, encountering issues with the platform can impact the functionality of your device. Below are 7 common issues on why your **Google Play Store is not responding**.
@@ -252,6 +254,10 @@ When downloads and installations fail, you will be unable to enjoy new apps or u
 ### Authentication and Account Issues
 
 Problems with authentication and account access can lock users out of their Google accounts on the Play Store. It prevents users from purchasing or downloading apps. The issue not only hampers functionality but also raises security concerns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Problems
 
@@ -288,6 +294,10 @@ Revitalize your Google Play Store by addressing performance issues. Clearing cac
 
 ![clearing cache and date on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Play Store
 
 Enhance your Play Store's functionality by ensuring it's up-to-date. This method suits those who haven't updated their Google Play Store for a long time. Follow the steps below.
@@ -300,6 +310,10 @@ Enhance your Play Store's functionality by ensuring it's up-to-date. This method
 ### Check Internet Connection
 
 Ensure a stable internet connection on your device. Switch between Wi-Fi and mobile data to identify connectivity issues. Restart your router or modem if problems persist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset App Preferences
 
@@ -328,6 +342,10 @@ This method troubleshoots Play Store problems by uninstalling updates. Here's 
 
 ![uninstall play store updates on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Perform a System Update
 
 Ensure your device's overall stability by performing a system update to ensure the stable operation of the Play Store. Follow the steps below.
@@ -336,6 +354,10 @@ Ensure your device's overall stability by performing a system update to ensure t
 - **Step 2:** Next, choose **System update** or **Check for Updates** and install any available system updates**.**
 
 ![perform system update on android](https://images.wondershare.com/drfone/article/2023/11/play-store-not-working-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you're still asking yourself why **my Google Play Store is not opening** after conventional methods prove ineffective, it may lead you to explore third-party tools. As a final recourse, considering reputable tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - System Repair introduces a fresh approach to troubleshooting your device.
 
@@ -378,23 +400,27 @@ Beyond its utility in fixing Google Play Store malfunctions, Dr.Fone is known fo
 
 **4,131,376** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Addressing issues when your **Google Play Store does not work** is crucial for an uninterrupted Android experience. Follow the outlined steps to regain control and enjoy a seamless app experience. Don't let frustrations linger; take immediate action for a hassle-free Google Play Store.
 
 Lastly, having Dr.Fone - System Repair at your side offers a reliable solution for a wide range of Android concerns. Don't worry if your **Google Play store is not responding**, and Dr.Fone can fix it in minutes.
 
-
-
 ## 6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo A78 5G
 
 Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog of our lives. Be it in the professional era or personal (gossips, oomph) stuffs, it is a crucial engaging kind of application. WhatsApp is the slow poison yet a useful tool used worldwide after call logs or messages. Imagining a day without is enough to put someone off. And if one has recently faced a problem in WhatsApp crashing or not opening, then it is enough to give a heart break. It can be due to Cache memory piled up, storage running out of space, WhatsApp components getting corrupted. In such a case, resolving the problem by using an effective solution is very important! Don’t worry and wander as we will provide impeccable range of fixes to bid bye to WhatsApp stopping problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause 1: WhatsApp-related Firmware Components went wrong
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -413,6 +439,10 @@ Android repair tool to fix firmware component issues
 To start repairing, go to the official website of Dr.Fone - System Repair (Android) and download it. Install it and then open the tool on your PC. To proceed, look for the “System Repair” tab and click on it.
 
 ![whatsapp not opening - fix with drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Choose the Right Tab**
 
@@ -456,9 +486,6 @@ A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp
 - Go to “Play Store” and search “WhatsApp” on the search bar.
 - Tap on it and start downloading followed by installing it.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - fix component corruption](https://images.wondershare.com/drfone/article/2019/06/install-whatsapp.jpg)
 
 ## Cause 4: Not Enough Storage on your Phone
@@ -468,9 +495,6 @@ Insufficient storage could be the other reason why for your WhatsApp has stopped
 - Firstly, go to Settings and check the storage. Make sure it is enough i.e. at least 100 to 200MB.
 - Secondly, start eliminating the apps that are no longer needed. This will indeed create more space in your device and will let your WhatsApp wok properly.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cause 5: Gmail Account no longer valid or hacked
 
 It is a well-known fact that Android device and Gmail account go hand in hand. To run the Oppo A78 5G device smoothly, it is always asked to enter your Gmail address for further configurations. And when WhatsApp stops on your device, the reason might be your Gmail account. Most probably it is not valid now or maybe hacked. If this is the case, we suggest you to log out and log in with some another Gmail account.
@@ -478,9 +502,6 @@ It is a well-known fact that Android device and Gmail account go hand in hand. T
 - Log out by opening “Settings” and tap on “Accounts”.
 - Choose your Google account and tap on “REMOVE ACCOUNT”.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - fix gmail account](https://images.wondershare.com/drfone/article/2019/06/log-out-gmail.jpg)
 
 Now, you can login again and check if WhatsApp works or not.
@@ -518,7 +539,6 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -531,9 +551,19 @@ Now that you have decided where to download the apk file, these are the followin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-a-symphony-of-shades-practical-color-utilization/"><u>[New] In 2024, A Symphony of Shades Practical Color Utilization</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-journey-into-the-archives-downloading-fbs-live-feed-chronicles/"><u>[Updated] Journey Into the Archives Downloading FB's Live Feed Chronicles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-list-of-best-hashtags-for-yt-view-spikes/"><u>[Updated] The Ultimate List of Best Hashtags for YT View Spikes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gift-ideas-galore-score-last-minute-deals-with-best-buys-comprehensive-discount-bonanza-zdnet/"><u>Gift Ideas Galore! Score Last-Minute Deals with Best Buy's Comprehensive Discount Bonanza | ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-t2x-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo T2x 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-c55-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme C55 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-13-ultra-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi 13 Ultra in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-best-practices-in-selecting-premium-hdr-cameras/"><u>In 2024, Best Practices in Selecting Premium HDR Cameras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-deciphering-the-codex-of-meta-and-omni-worlds/"><u>In 2024, Deciphering the Codex of Meta and Omni Worlds</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-guide-to-resolving-audio-driver-errors-with-yl-software-tips/"><u>Step-by-Step Guide to Resolving Audio Driver Errors with YL Software Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Itel A05s | Dr.fone
-date: 2024-07-14T05:42:53.848Z
-updated: 2024-07-15T05:42:53.848Z
+date: 2025-02-07T19:01:19.911Z
+updated: 2025-02-10T20:14:40.292Z
 tags: 
   - problems
 categories:
@@ -114,9 +114,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
@@ -138,6 +135,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** Connect your Itel A05s or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
@@ -169,10 +170,11 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 2. Hold the Volume Down, Bixby, and Power buttons for 5 to 10 seconds.
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download mode repair android without home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Itel A05s. And in a while, your Itel A05s’s system issues will be resolved.
 
@@ -219,8 +221,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Itel A05s 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## Fixes for Apps Keep Crashing on Itel A05s
 
 The rapid evolution of technology has transformed our smartphones into powerful devices. Presently, with just a few taps, they possess the ability to accomplish a diverse array of tasks. It has been possible due to the extensive availability of mobile applications. However, it can be incredibly frustrating when your favorite apps keep crashing repeatedly.
@@ -239,9 +239,6 @@ When a device is low on memory, it may struggle to run multiple apps simultaneou
 
 Android devices come in various models and run different operating system versions. That's why it is essential to use apps compatible with your device. Since there are a lot of Android variants, it is hard to optimize apps for all devices. An app not optimized for an Android version or device leads to crashes or malfunctions.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Outdated Apps
 
 Apps are regularly updated to introduce new features, fix bugs, and enhance performance. Using an outdated version of an app may cause instability or compatibility problems. Since the app is not optimized for the current version of Android, it can keep crashing.
@@ -249,6 +246,10 @@ Apps are regularly updated to introduce new features, fix bugs, and enhance perf
 ### Network Problems
 
 Some apps rely heavily on network connectivity to function properly. They need a stable and strong internet connection to perform all the functions. These apps can crash if there are network connectivity issues, such as a weak Wi-Fi or network outage. Unstable connections can disrupt data transmission, making the app's function challenging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### App Bugs
 
@@ -290,6 +291,10 @@ Not updating your Android OS for a long while can cause many performance issues 
 
 ![tap on download and install](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 2:**** During the update process, ensure you have a stable internet connection. Moreover, your device should be fully charged to avoid any complications.
 
 ### Fix 5: Clear the App Cache
@@ -314,9 +319,6 @@ Bugs in the app can prove a nightmare and hard to remove from the app. If your *
 
 - ****Step 2:**** After removing the app, go to Google Play Store and find the targeted app. Here, tap “Install” to reinstall the app on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the install button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-8.jpg)
 
 ### Fix 7: Check the App Permissions
@@ -330,6 +332,10 @@ Sometimes, app crashes can occur due to improper or conflicting permissions. Whe
 - ****Step 2:**** On the App Info screen, press “Permissions” to access all permission settings. Here, ensure that your app has the required permissions.
 
 ![access the app permissions](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Check and Clear the Phone Storage
 
@@ -431,8 +437,6 @@ If you are trying to figure out how to fix boot loop, the first option you have 
 
 This is designed to repair any data corruption on your device and restores your firmware to its usual working condition.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click to fix boot loop of Android
@@ -460,9 +464,17 @@ Open the software and select the System Repair option from the main menu to fix 
 
 ![start to fix android boot loop](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You’ll then need to input the Itel A05s device information, such as your carrier info, device name, model, and country/region in order to ensure you’re downloading and repairing the correct firmware to your phone.
 
 ![select info to fix android boot loop](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #3** Now you’ll need to put your phone into Download Mode to remove the Android bootloop.
 
@@ -473,6 +485,10 @@ For this, you can simply follow the onscreen instructions for both phones with a
 Click "Next", and the software will begin downloading the firmware repair files.
 
 ![firmware downloading to android](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #4** Now you can sit back and watch the magic happen!
 
@@ -557,9 +573,6 @@ Reboot the phone in Recovery Mode by selecting the first option.
 
 This solution is known to fix the boot loop error 9 out of 10 times, but if you still can't start your Itel A05s normally, consider using a CWM Recovery to resolve the Android boot loop issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: Use CWM Recovery to fix bootloop on rooted Android
 
 CWM stands for ClockworkMod and it is a very popular custom recovery system. To use this system to solve the boot loop Android error, your Itel A05s must be rooted with CWM Recovery System which basically means CWM must be downloaded and installed on your device.
@@ -575,6 +588,10 @@ Note: you might have to use a different combination of keys to enter into Recove
 Scroll down using” the volume key to select "Advanced".
 
 ![select “Advanced”](https://images.wondershare.com/drfone/article/2017/07/14994539628787.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now select “Wipe” and choose to wipe "Dalvik Cache".
 
@@ -592,6 +609,9 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -605,9 +625,26 @@ An Android boot loop is a common phenomenon with all Android devices because we 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-pros-and-experts-choice-discover-the-finest-12-stock-photography-sites/"><u>[New] Pros and Experts' Choice Discover the Finest 12 Stock Photography Sites</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-design-best-practices-for-engaging-youtube-thumbnails/"><u>[Updated] In 2024, Design Best Practices for Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tag-and-showcase-a-podcast-episode/"><u>2024 Approved Tag and Showcase a Podcast Episode</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-upcoming-apple-watch-x-future-pricing-insights-expected-release-dates-and-speculative-features/"><u>Exploring the Upcoming Apple Watch X - Future Pricing Insights, Expected Release Dates & Speculative Features</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-note-30-vip-racing-edition-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Note 30 VIP Racing Edition Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-100-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor 100 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-max-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro Max To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-by-step-manual-upside-down-movies-in-snap/"><u>In 2024, Step-by-Step Manual Upside Down Movies in Snap</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-motorola-moto-g34-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola Moto G34 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-poco-x6-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Poco X6 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-g2-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo G2 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/seamless-online-gif-to-video-conversion-top-5-for-2024/"><u>Seamless Online GIF to Video Conversion (Top 5) for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-for-the-finest-air-conditioners-industry-experts-weigh-in-insights-from-zdnet/"><u>Top Picks for the Finest Air Conditioners : Industry Experts Weigh In - Insights From ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/windows-servervdi/"><u>Windows ServerバックアップをVDI環境にリストアする詳しいガイド</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nokia C12 | Dr.fone
-date: 2024-07-14T05:43:33.938Z
-updated: 2024-07-15T05:43:33.938Z
+date: 2025-02-05T19:53:37.034Z
+updated: 2025-02-10T19:56:20.072Z
 tags: 
   - problems
 categories:
@@ -32,6 +32,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - Nokia C12 ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
 You may experience a variety of touch screens not working on Android issues:
@@ -52,6 +56,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - If there is a sticker on the Nokia C12 device screen, you must remove it.
 - Before continuing, make sure your screen is spotless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Nokia C12 device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Nokia C12’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
@@ -71,6 +79,10 @@ When your touch screen stops working, the first thing you should do is restart y
 ****Step 3:**** Press and hold the “Power” button to restart the Nokia C12 device.
 
 Check to see if the Android auto touch screen is not working problem has been resolved. Otherwise, proceed with the following methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn On Safe Mode
 
@@ -122,6 +134,10 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -135,6 +151,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** Connect your Nokia C12 or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
@@ -246,8 +266,6 @@ Any error that occurs during downloading or installation process not only hinder
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click to repair Android system and make error code 505 disappear
@@ -303,6 +321,10 @@ At the top, an option will appear
 
 ![Application Manger](https://images.wondershare.com/drfone/article/2017/06/14976274734570.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Enabling download manager to give permission to the Nokia C12 device to start the download or installation process.
 
 #### **Solution 3: Updating to the latest version of OS of your Nokia C12**
@@ -346,6 +368,10 @@ It will clear the cache of Google play store
 
 ![app info](https://images.wondershare.com/drfone/article/2017/06/14976276779206.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Clearing the cache memory remove the extra temporary memory, thus free up space for the further installation process.
 
 #### **Solution 5: Reinstalling play store Updates**
@@ -365,6 +391,10 @@ Due to continuous updation of new apps and services Google Play store used to be
 
 ![Click on Uninstalling Updates](https://images.wondershare.com/drfone/article/2017/06/14976277917398.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Solution 6: Third party App**
 
 In the case, error 505 occur due to the installation of two or more apps with duplicate permission of data, as many times we use to install two similar kind of app that creates the situation where both seeking out for somewhat similar permissions for the installation. The manual finding is a long and tiring process. Then you can take the assistance of ‘Lucky Patcher App’ to find out which app is creating the conflict. This app will assist you in finding out the duplicity if any and then modifying it. Through this app, once you will find out which particular app is causing the conflict, then you can delete that conflicting app from your phone so that problem of error code 505 gets sort out.
@@ -380,6 +410,10 @@ Note: If still, you are in the state of trouble to solve the issue of error code
 Or call them at their call center number regarding the issue.
 
 ![call center number](https://images.wondershare.com/drfone/article/2017/06/14976278809798.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus FAQ about Google Play error
 
@@ -409,11 +443,6 @@ However, sometimes the five simple couldn’t work anymore. A system repair soft
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nokia C12
 
 The revolutionized world is about the internet, online life, and social media. You can get all the information you need from the internet. You are a click away from booking tickets, buying groceries, calling your loved ones, or even you can handle office meetings with the internet.
@@ -464,9 +493,6 @@ If the Wi-Fi keeps disconnecting from your Nokia C12, but the internet is stable
 
 ![select reboot option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check Router Settings
 
 If your Android keeps disconnecting from Wi-Fi, you can also fix the problem by checking the router settings. This is because your phone might be blocked from connecting to the network, and if this is the scenario, your phone will never maintain the connection. You should check the Router’s admin panel or app to remove your phone from the blocklist.
@@ -496,8 +522,9 @@ As we discussed, to restart your phone, you can also restart the router to get r
 ![restart wifi router](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Forget Old Networks
 
 The problem that your Wi-Fi keeps disconnecting can also occur because of the list of networks you have connected to. Having yourselves connected to different set of networks could turn out to be quite problematic in the process. In the process of finding and switching to the best network, your device’s Wi-Fi will continually disconnect and reconnect with the nearby networks. To finish this irritating issue, you should remove and forget all the extra networks that you connected previously.
@@ -528,9 +555,6 @@ It’s annoying that your Wi-Fi keeps disconnecting while you are working or stu
 
 **Step 2**: As you progress onto a new screen, you will find the option of “Reset Wi-Fi, Mobile Networks, and Bluetooth” in the menu. Select the option to lead to the next window.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open reset option](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-11.jpg)
 
 **Step 3**: Click on the option of “Reset Settings” present on the bottom of the next screen that shows up. Provide confirmation of resetting these settings by inserting your device’s PIN, if any.
@@ -539,9 +563,6 @@ It’s annoying that your Wi-Fi keeps disconnecting while you are working or stu
 
 **Step 4**: After providing the appropriate clearances, you will be asked for another confirmation of resetting the Nokia C12 device’s networks to default. Click “OK” to execute.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on ok button](https://images.wondershare.com/drfone/article/2022/02/phone-keep-disconnecting-from-wifi-13.jpg)
 
 ### Fix 8: Check Routers Range
@@ -572,7 +593,6 @@ If none of the above-shared fixes work, the last fix to resolve the problem is u
 
 The article above has discussed 10 solutions that offer a comprehensive toolkit to tackle the persistent issue of Wi-Fi keeps turning off Android. By toggling Airplane Mode, restarting your device, adjusting settings, and updating firmware, among other steps, you can effectively address and resolve this connectivity problem. With these solutions at your disposal, you can regain a stable and uninterrupted Wi-Fi experience on your Nokia C12.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -585,9 +605,26 @@ The article above has discussed 10 solutions that offer a comprehensive toolkit 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/culpting-a-specialized-niche-for-youtube-content-for-2024/"><u>[New] Sculpting a Specialized Niche for YouTube Content for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-a-step-by-step-approach-for-creating-and-merging-stunning-hdr-photos/"><u>[Updated] 2024 Approved A Step-by-Step Approach for Creating & Merging Stunning HDR Photos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-easy-to-implement-opening-sequences-for-you/"><u>[Updated] Easy-to-Implement Opening Sequences for You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-convertir-archivos-arw-a-imagenes-jpeg-sin-coste-adicional-con-herramientas-online-guia-completa-de-movavi/"><u>Cómo Convertir Archivos .ARW a Imágenes JPEG Sin Coste Adicional Con Herramientas Online - Guía Completa De Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enduring-performance-meets-stunning-visuals-in-our-top-reviewed-laptop/"><u>Enduring Performance Meets Stunning Visuals in Our Top Reviewed Laptop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/future-proof-learning-secure-these-nine-key-tech-items-to-excel-in-education/"><u>Future-Proof Learning: Secure These Nine Key Tech Items to Excel in Education</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-s17t-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo S17t Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a34-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A34 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-video-load-times-desktop-advice/"><u>Mastering Instagram Video Load Times Desktop Advice</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-premiere-elements-not-for-you-try-these-10-exceptional-alternatives-instead/"><u>New Premiere Elements Not for You? Try These 10 Exceptional Alternatives Instead</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y78t-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y78t? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-huawei-nova-y71-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Huawei Nova Y71 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a34-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A34 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24-ultra-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24 Ultra Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-z-fold-5-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy Z Fold 5 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/sony-xperia-10-v-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 10 V Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>
 

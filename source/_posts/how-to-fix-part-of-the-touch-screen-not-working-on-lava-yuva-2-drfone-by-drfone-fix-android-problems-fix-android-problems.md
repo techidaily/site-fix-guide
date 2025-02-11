@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Lava Yuva 2 | Dr.fone
-date: 2024-07-14T05:43:10.237Z
-updated: 2024-07-15T05:43:10.237Z
+date: 2025-02-06T17:54:23.389Z
+updated: 2025-02-10T18:56:45.278Z
 tags: 
   - problems
 categories:
@@ -31,6 +31,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - LG screen is unresponsive to touch
 - Lava Yuva 2 ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
@@ -86,6 +90,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -100,10 +108,11 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 4:**** You will then find the switch to turn it on or off. Disable itby toggling the button off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
@@ -175,6 +184,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -184,9 +197,6 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -195,6 +205,10 @@ Dr.Fone – System Repair is a data management and recovery tool that contains s
 - Troubleshoots and repairs a wide range of Android system problems, including black screen of death, Play Store not working, apps crashing, phone stuck in a boot loop, and bricked Android issues
 - A high success rate for fixing Android system issues
 - Fixes Android system back to normal
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pros
 
@@ -237,9 +251,6 @@ The first thing that comes to mind when your **phone screen suddenly goes black*
 
 ![drained iphone battery](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### App Troubles
 
 If your **phone is working, but the screen is black,** there’s also a high probability that you are having an isolated issue with a particular application. An app could be loading something, which often happens for streaming apps such as YouTube, Netflix, Prime, and more, especially if you have slow internet connectivity.
@@ -253,6 +264,10 @@ A potential reason why **your phone screen went black but still works** could b
 If you dropped your phone, there’s a high chance the LCD connectors went loose due to the physical impact. If this happened to you, the phone might be working, but the screen is black due to the LCD cable dislodging. Another issue could be your phone got exposed to extreme temperatures. This can also cause a **black screen but your phone is still on.**
 
 ![loose samsung galaxy lcd](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Fix Black Screen on Your Phone
 
@@ -296,9 +311,6 @@ If **your phone screen goes black but still works,** you should inspect the logi
 
 However, this requires technical know-how. It’s better to seek help from a professional as you could risk causing more damage to your device if you don’t know what you’re doing.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Method 4: Perform a Factory Reset
 
 If all the methods above did not solve your problem, the last resort you can take is to perform a Factory Reset. This method works on Android and iOS smartphones and erases all your data. It is the quickest way to try to fix why your **phone screen went black**. Here are the steps.
@@ -386,6 +398,10 @@ If you’re still undecided about Dr.Fone – System Repair, here are its pros a
 - Each version for each OS is sold separately.
 - The free version works up to your device’s compatibility. Once you start the repair process, the app will ask you for a valid license key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Fix Black Phone Screen With Dr.Fone – System Repair
 
 Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Android.
@@ -404,6 +420,10 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 ![drfone system repair process complete](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,262,204** people have downloaded it
@@ -420,9 +440,6 @@ You’ve often heard that recovery mode will solve just about any problem your L
 
 Fortunately for you, this article will explain all aspects of factory mode and especially how to safely exit factory mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. What is Android Factory Mode?
 
 Factory mode or what is commonly known as factory reset is one of the options available for you when your Lava Yuva 2 is in recovery mode. Several options are available for you once you enter Recovery mode on your device but few are as effective as the wipe data/ factory reset option. This option is useful in solving a whole host of problems that your device could be experiencing.
@@ -436,8 +453,6 @@ It is however important to note that a factory reset or factory mode does often 
 Before we can see how to safely enter and exit factory mode, it is important to have a full backup of your device. We mentioned that a factory mode will likely erase all the data on your device. A backup will ensure that you can get your phone back to its original state before the factory mode.
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
-
-
 
 ### Dr.Fone - Backup & Restore (Android)
 
@@ -484,8 +499,6 @@ From the above parts, you are well aware about what is factory mode. As we discu
 
 But for situations when your Lava Yuva 2 gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Lava Yuva 2 logo or factory mode or blue screen of death with a single click.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click fix to Android stuck in factory mode
@@ -510,6 +523,10 @@ Step 2: Select the ‘Android Repair’ option from the list to fix Android stuc
 
 ![start fixing Android stuck in factory mode](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Select Android device details on the Lava Yuva 2 device information window, followed by tapping the ‘Next’ button.
 
 ![model info selection](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -529,6 +546,10 @@ Step 1: It’s important to put the Android device in ‘Download’ mode, here 
 - For a device with ‘Home’ button – switch it off and hold down the ‘Power’, ‘Volume Down’ and ‘Home’ buttons together for 10 seconds and release. Click the ‘Volume Up’ button for entering ‘Download’ mode.
 
 ![fix Android stuck in factory mode on android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Press ‘Next’ for initiating firmware downloading.
 
@@ -588,9 +609,6 @@ You can also exit factory mode on unrooted device by going to Settings> Applicat
 
 As much as factory mode can be a useful solution to a number of problems, it can be quite annoying when it pops up unexpectedly. Now you are equipped with 2 effective solutions to help you safely exit factory mode if ever you find yourself in this situation.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -603,9 +621,26 @@ As much as factory mode can be a useful solution to a number of problems, it can
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-the-best-10-spotify-recorders/"><u>[New] In 2024, The Ultimate Guide to the Best 10 Spotify Recorders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-privacy-first-reader-of-facebook-snapshots/"><u>[Updated] In 2024, Privacy-First Reader of Facebook Snapshots</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-pioneering-clear-high-definition-on-twitter-videos-for-2024/"><u>[Updated] Pioneering Clear, High-Definition on Twitter Videos for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-productivity-boosters-while-binge-listening-to-podcasts/"><u>2024 Approved Productivity Boosters While Binge-Listening to Podcasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-insights-a-forrester-researcher-reflects-on-mwc-2022-highlights-zdnet-analysis/"><u>Expert Insights: A Forrester Researcher Reflects on MWC 2022 Highlights - ZDNet Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-updates-for-your-hp-deskjet-3700-driver-software-downloads-available-now/"><u>Get the Newest Updates for Your HP Deskjet 3700: Driver Software Downloads Available Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-honor-x9a-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor X9a Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-14-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi 14 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-fostering-connection-through-respectful-engagement/"><u>In 2024, Fostering Connection Through Respectful Engagement</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-honor-magic-5-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor Magic 5 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-s23-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel S23 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>New 2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pest-management/"><u>Pest Management</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-itel-s23-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Itel S23? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-a34-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy A34 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/securing-your-spot-a-comprehensive-look-into-setting-up-an-appointment-with-apple/"><u>Securing Your Spot: A Comprehensive Look Into Setting Up an Appointment with Apple</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Oppo A1 5G | Dr.fone
-date: 2024-07-14T05:43:57.290Z
-updated: 2024-07-15T05:43:57.290Z
+date: 2025-02-09T17:57:43.021Z
+updated: 2025-02-10T19:12:21.342Z
 tags: 
   - problems
 categories:
@@ -31,6 +31,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - LG screen is unresponsive to touch
 - Oppo A1 5G ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
@@ -136,6 +140,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** Connect your Oppo A1 5G or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -199,15 +207,16 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
 
 - Depending on the toolkit required, the program can be costly.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
@@ -246,23 +255,19 @@ Step 3: Press the Volume up and Volume down keys and use the Power key to select
 
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
 
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -285,6 +290,10 @@ Once installed on your computer, open onto the main menu and connect your Oppo A
 
 ![fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #2** Select the 'Android Repair' option from the next screen.
 
 ![get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -299,6 +308,10 @@ Your device should already be in this mode but follow the instructions to make s
 
 ![fix Android stuck at System recovery in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #4** The firmware will now start downloading. You'll be able to track this process in the window.
 
 Ensure your device, and your computer stays connected the entire time, and make sure your internet connection remains stable.
@@ -308,6 +321,10 @@ Ensure your device, and your computer stays connected the entire time, and make 
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
@@ -351,7 +368,9 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reasons for Oppo A1 5G Stuck on Startup Screen and Ways To Fix Them
 
@@ -363,9 +382,6 @@ This article will share the possible reasons why your ****phone is stuck on the 
 
 It is not uncommon for **phones** to be ****stuck on the startup screen****, but finding out why this happens is tricky. This section identified some of the top reasons your cellphone could have gotten stuck on the startup screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Physical Damage to the Phone
 
 If you accidentally dropped your phone or knocked it on a hard surface, you could have damaged the internal hardware of your phone. This could affect your phone’s ability to reboot and result in your ****phone being stuck on the boot screen****.
@@ -388,6 +404,10 @@ Software issues are probably the most common reason your ****phone is stuck on t
 
 The older operating system is also not desired as your phone typically will send periodic updates to make sure your phone is up-to-date and free from bugs. Running applications on an older operating system might lead to issues like the ****phone being stuck on the boot screen or the logo.**** Hence, updating your phone to the latest software version would be better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. 3 Helpful Ways To Fix Phones Stuck on Boot Screen
 
 After understanding the common problems on why your phone is ****stuck on the startup screen**** page, here are three easy solutions to try solving yourself at home.
@@ -398,9 +418,6 @@ To quickly fix any of your phone issues, especially when stuck on the startup sc
 
 Here is an example of performing a hard reboot for an Android phone such as Oppo A1 5G. Preess and hold the Power and Volume Down buttons simultaneously for more than 7 seconds to perform the hard reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hard reboot of samsung](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-03.jpg)
 
 ### Put your phone in recovery mode
@@ -481,6 +498,10 @@ A boot loop typically starts when there is a change to your system before a rebo
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3,405,439** people have downloaded it
 
 ## Conclusion
@@ -488,7 +509,6 @@ A boot loop typically starts when there is a change to your system before a rebo
 This article summarizes some of the possible reasons why your ****phone is stuck on the boot screen****. It demonstrated three useful strategies to overcome your ****phone stuck in the boot**** with ease. However, if all the above methods do not work, why not try Dr.Fone-System Repair?
 
 Dr.Fone-System Repair repairs the operating system issues and fixes the issue with your phone. Once you power on your phone again, you can rest assured that it will be like new.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -502,9 +522,18 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the issue wi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-navigating-education-without-the-video-element/"><u>[Updated] In 2024, Navigating Education without the Video Element</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-deciphering-the-meanings-behind-facebooks-status-symbols-a-closer-look-at-the-blues/"><u>2024 Approved Deciphering the Meanings Behind Facebook's Status Symbols A Closer Look at the Blues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-up-black-screens-in-youtube-playback-for-2024/"><u>Clearing Up Black Screens in YouTube Playback for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-g2-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo G2 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/mac-video-converter-convertisseur-hd-video-officiel-and-facile-dutilisation-pour-mac/"><u>Mac Video Converter : Convertisseur HD Vidéo Officiel & Facile D'Utilisation Pour Mac</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-impactful-global-network-engages-over-70-million-learners/"><u>Mondly's Impactful Global Network Engages Over 70 Million Learners</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-soundtrack-to-today-celebrating-the-most-popular-radio-audio/"><u>New 2024 Approved The Soundtrack to Today Celebrating the Most Popular Radio Audio</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-poco-c55-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Poco C55? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/windows-update-fehlerspeicherung-ablauf-der-fehlerbehebung-und-praktische-ratschlage/"><u>Windows-Update-Fehlerspeicherung - Ablauf Der Fehlerbehebung Und Praktische Ratschläge</u></a></li>
+</ul></div>
 

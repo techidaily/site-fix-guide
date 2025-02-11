@@ -1,7 +1,7 @@
 ---
 title: How To Activate and Use Life360 Ghost Mode On Honor Magic 5 Pro | Dr.fone
-date: 2024-07-14T05:39:36.134Z
-updated: 2024-07-15T05:39:36.134Z
+date: 2025-02-04T18:20:48.781Z
+updated: 2025-02-10T17:42:36.431Z
 tags: 
   - virtual location change
   - social app
@@ -34,11 +34,13 @@ Now that you know all of **Life360 Ghost Mode updates** and their significance, 
 
 ![how to enable ghost mode banner](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How To Activate Ghost Mode on Life360
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile tool for enhancing privacy. With its key features, you can activate **Life360’s Ghost Mode**. It offers great control over your GPS location. Here are the key features of Dr.Fone to maximize Ghost Mode.
-
-
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
@@ -69,6 +71,10 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 - **Step 2:** Follow the on-screen instructions. Once connected, click **Manage Device** to control your location without moving. Choose the “One-Stop Route” function from the top right. Tap anywhere on the map to set your destination.
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/vl-connect-android-ios-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: Input the number of movements, and select **Round** or **Loop** **trip**. Adjust the walking speed and click **Move Here** to start the simulation. You can **Pause** or **Clear** at any point to start again.
 
@@ -114,6 +120,10 @@ Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
 
 When Ghost Mode feels too troublesome, alternative methods exist to turn off location sharing on Life360 temporarily. Here’s a guide on six different approaches:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Turning Off WiFi and Data
 
 Disabling WiFi and data on Life360 is a common method to prevent location tracking. Here’s a step-by-step guide:
@@ -122,11 +132,12 @@ Disabling WiFi and data on Life360 is a common method to prevent location tracki
 
 ![turning off life360 wifi and data](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: In **Settings**, locate Life360 Disable **Cellular Data**, **Background Refresh**, and **Motion & Fitness**. Once done, the Life360 location will then remain static at the current position.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Dsiable Location Services for Life360
 
 Disabling location services provides an effective solution for pausing Life360 without detection, The method applies to both Android and iOS devices. Here’s how:
@@ -224,11 +235,13 @@ One of the most effective and safe ways to trick Life360 without triggering noti
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### How To Spoof Your Life360 Circle Location Using Dr.Fone
 
 Follow the steps below to learn **how to leave a Life360 Circle without anyone knowing** using Dr.Fone’s Virtual Location tool:
-
-
 
 - **Step 1:** Download and install Dr.Fone, then connect your Honor Magic 5 Pro via USB cable. Launch the tool from **Toolbox** > **Virtual** **Location**. Click **Get Started** to proceed.
 
@@ -248,6 +261,10 @@ Follow the steps below to learn **how to leave a Life360 Circle without anyone k
 
 The next method can serve as a last resort if using Dr.Fone is impossible. Be aware that they come with the trade-off of notifying other Circle members. Maintaining open communication within the Circle is crucial. Do these alternatives only when it’s necessary for your privacy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Turning Off Mobile Data and Wi-Fi
 
 If Dr.Fone is unavailable, a simple tactic is to disable both mobile data and Wi-Fi.
@@ -261,9 +278,6 @@ Another option is to activate Airplane Mode, severing all connections, including
 
 - **Step 1:** Access your device settings. Look for **Connections** or **Network & Internet**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![airplane mode interface](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-11.jpg)
 
 - **Step 2:** Toggle on **Airplane Mode**. The method severs all connections, including location sharing.
@@ -288,10 +302,11 @@ Switching to “Battery saving” or “Power saving” mode can affect the freq
 
 - **Step 1:** Go to your device **Settings**. Look for the **Battery** option.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![enable battery saving mode](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Enable **Battery saving** or **Power saving** mode.
 
@@ -299,9 +314,6 @@ Switching to “Battery saving” or “Power saving” mode can affect the freq
 
 Acquiring a secondary, inexpensive phone for Life360 use may be an alternative if all else fails. This method involves monetary considerations and may not be practical for everyone.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. A Deep Dive on Life360’s Circle Feature
 
 Life360’s Circle feature serves as the cornerstone of the app. It fosters connectivity and safety among its users. After diving into **how to leave a Circle on Life360** in the above parts, it’s time to have a comprehensive look at essential aspects of the Circle feature:
@@ -369,9 +381,6 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 1. First, get into the Snapchat app and then visit either the Discover screen or the Camera or Friends. Next, tap on the magnifying glass and hit on Map.
 2. As soon as the SnapMap screen loads up, you need to access the settings by hitting the Gear icon on the top right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![start Ghost Mode](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-3.jpg)
 
 3. Then, make use of the settings to set up your privacy and hit on the “Ghost Mode” toggle switch to turn it on. A pop-up window will appear with 3 different settings:
@@ -412,6 +421,10 @@ Step 5: A few moments later, the system will perceive the desired location you h
 
 ![distance shown](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6: This is it! The location has been changed to the desired one now. Now, whenever you click the “Current Virtual Location” icon, you will see the new location.
 
 ![change to the desired location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
@@ -420,7 +433,9 @@ Also, on your iOS device, you can now Fake Snapchat location or in any other loc
 
 ![view the new location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4.2. Change Snapchat Location using Xcode (complex)
 
@@ -445,6 +460,10 @@ Step 2: Setup GIT on Xcode
 1. On the upcoming screen, Xcode will throw up a pop-up message stating “Please tell me who you are” and some GIT commands that you need to execute.
 
     ![Setup GIT](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. For this, fire up the “Terminal”over your Mac and then execute the commands as follows:
 
@@ -491,9 +510,6 @@ Last but not least, the next method to fake Snapchat location is for Android dev
 
 While reaching towards the end of the article, we are pretty sure that you now fully understand what it takes to **fake Snapchat location** on Android or iPhone. The aforementioned ways are fully tested and work even without rooting or jailbreaking your devices respectively. Happy Spoofing!
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -506,9 +522,26 @@ While reaching towards the end of the article, we are pretty sure that you now f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-avoid-unsolicited-podcast-recommendations-on-spotify-app/"><u>[New] Avoid Unsolicited Podcast Recommendations on Spotify App</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unleash-potential-with-sj7s-superior-4k-action-camera-review/"><u>[New] In 2024, Unleash Potential with SJ7's Superior 4K Action Camera Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-definitive-guide-to-youtubes-algorithmic-secrets-for-rankings-for-2024/"><u>[New] The Definitive Guide to YouTube's Algorithmic Secrets for Rankings for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-maintaining-youtube-like-video-quality-on-twitter-for-2024/"><u>[Updated] Maintaining YouTube-Like Video Quality on Twitter for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-to-leveraging-anthropics-newly-released-claude-3-platform/"><u>Essential Guide to Leveraging Anthropic's Newly-Released Claude 3 Platform</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-lava-blaze-curve-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Blaze Curve 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-v27e-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V27e in Minutes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-xiaomi-redmi-note-12-pro-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Xiaomi Redmi Note 12 Pro 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-ultimate-guide-to-non-time-restricted-recorders/"><u>In 2024, Ultimate Guide to Non-Time Restricted Recorders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/key-top-10-modifications-for-terraria-for-2024/"><u>Key Top 10 Modifications for Terraria for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211203716-9782017230021-le-guide-moderne-des-mudras/"><u>Le guide moderne des Mudras | Free Book</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-huawei-nova-y71-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Huawei Nova Y71 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nokia-c12-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nokia C12 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-a-new-era-for-internet-discovery-the-role-of-ai-in-website-querying/"><u>Unveiling a New Era for Internet Discovery: The Role of AI in Website Querying</u></a></li>
+</ul></div>
 

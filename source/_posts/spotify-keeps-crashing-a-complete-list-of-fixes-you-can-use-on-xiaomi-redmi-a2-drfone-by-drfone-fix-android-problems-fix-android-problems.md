@@ -1,7 +1,7 @@
 ---
 title: Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi A2 | Dr.fone
-date: 2025-01-18T16:20:37.189Z
-updated: 2025-01-22T16:11:11.763Z
+date: 2025-02-06T21:49:42.721Z
+updated: 2025-02-10T21:51:16.854Z
 tags: 
   - problems
 categories:
@@ -51,6 +51,10 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![pick android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** See which Android errors Wondershare Dr.Fone can fix and click **Start**.
 
 ![start system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -59,15 +63,15 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![select your android model in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 6:** Tick the **“I agree with the warning, and I am ready to proceed”**checkbox and click **Next**.
 - **Step 7:** Put your Android in **Download Mode**. You can find the steps below these instructions.
 - **Step 8:** The program will automatically download once you put the phone in Download Mode.
 
 ![downloading firmware in progress](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
 
@@ -124,10 +128,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![settings in spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Scroll to the bottom of the settings and tap **Log Out**.
 
 ![log out of spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-5.jpg)
@@ -141,10 +141,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 
 ![re-login to spotify with your credentials](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4. Restart Your Device
 
 Another way to stop Spotify from crashing can be restarting your Android. The steps may vary slightly depending on the Xiaomi Redmi A2 device, but they’re mostly the same. Follow these steps to restart your device:
@@ -153,6 +149,10 @@ Another way to stop Spotify from crashing can be restarting your Android. The st
 - **Step 2:** Tap **Restart**. That will restart your Android, and you can try opening Spotify again.
 
 ![restart android to fix spotify crashing](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5. Set Up Your Time and Date
 
@@ -165,16 +165,12 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 
 ![set date on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Go to **Set Time**and set the right time.
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6. Update Your System Software
@@ -189,14 +185,14 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 
 ![about phone to find system update](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Select **System Update**.
 - **Step 4:** If there’s an available update, tap
 
 ![install system update on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7. Update Your App
 
@@ -364,10 +360,6 @@ Input your device and firmware information to confirm you’re installing the ri
 
 ![select device model info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step #2** Follow the onscreen instructions on how to get into Download Mode to start the Repair process.
 
 ![fix problem parsing the package in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
@@ -375,6 +367,10 @@ Input your device and firmware information to confirm you’re installing the ri
 Once complete, the firmware will start downloading.
 
 ![download the firmware to fix problem parsing the package](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #3** Once the firmware has downloaded, it will automatically install it to your device.
 
@@ -434,10 +430,6 @@ We do not suggest that you delete the Antivirus App permanently. Temporary unins
 
 ![click on “Uninstall”](https://images.wondershare.com/drfone/article/2017/06/14985109617315.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now download and install the desired App again. Once this is done, do not forget to install the Antivirus App again.
 
 #### **2.7 Clear Cache cookies of Play Store**
@@ -472,6 +464,10 @@ The whole process of factory resetting your Xiaomi Redmi A2 might sound tedious,
 
 Parse Error: There was a problem parsing the package is an error message that has troubled many Android users. The good part is that the above-stated fixes not only solve the problem but also prevent it from occurring in the future. So, keep them in mind the next time you or anyone you know faces such an issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Full Solutions to Fix Error Code 920 In Google Play on Xiaomi Redmi A2
 
 If you are using an Android device, you might have encountered the error code 920 in Google Play Store. This error usually occurs when you are trying to download or update an app from the Google Play Store. The error code 920 can be quite frustrating, as it prevents you from downloading or updating your favorite apps. However, there are several ways to fix this error and get your apps back up and running. In this article, we will show you some of the best solutions to fix error code 920 in Google Play Store on Xiaomi Redmi A2.
@@ -482,10 +478,6 @@ Trust me, once you face an error it’s frustrating until you find a solution to
 - (ii) Switching off and turning the wifi (cellular data) on
 - (iii) Clearing the cache and data of Google Play Store
 - (iv) Removing and adding back your Google account
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What is Error Code 920?
 
@@ -529,6 +521,10 @@ Easiest Fix to Error Code 920
 
 ![fix error code 920 in one click](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then connect your Xiaomi Redmi A2 using the official cable and select the ‘Android Repair’ option.
 
 ![select android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -540,10 +536,6 @@ Then connect your Xiaomi Redmi A2 using the official cable and select the ‘And
 **Step #4** Put your phone into Download mode by following the onscreen instructions.
 
 ![fix error code 920 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Dr.Fone will now download your firmware and automatically install it onto your device. Your phone will then reset, and you’ll be ready to use it without experiencing that annoying error 920 play store code!
 
@@ -560,6 +552,10 @@ Step 3 - Uninstall it or even uninstall all the update (If the error came when y
 Step 4 - Now you clear the task manager and try installing it once again. If the play store error 920 doesn’t come then you have solved the problem and now wasn’t that easy. So it’s always best to try this step before doing anything else.
 
 ![error code 920-install apps](https://images.wondershare.com/drfone/article/2017/06/14985022232651.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **METHOD 3: Switching off and turning the wifi (cellular data) on**
 
@@ -582,6 +578,10 @@ Step 2 – Now find “Applications” option under the settings menu. Here you 
 Step 3 – Now, at the bottom, you can find “Clear Cache” option. Tap on it and your all cache will be cleared.
 
 ![error code 920-google play store clear cache](https://images.wondershare.com/drfone/article/2017/06/14985022644620.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After doing this step clear your task manager (delete all recent applications). Go to play store and resume your download or update.
 
@@ -617,18 +617,18 @@ Play Store error 920 is a pretty common error and its solutions are also very ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-art-of-instagram-video-sharing-for-2024/"><u>[New] Mastering the Art of Instagram Video Sharing for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-exploring-per-view-money-flow-among-youtubers/"><u>[Updated] In 2024, Exploring Per-View Money Flow Among YouTubers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-beantech-bitwatch-s1-plus-an-in-depth-review-of-a-stellar-budget-smartwatch-choice/"><u>Exploring the Beantech Bitwatch S1 Plus - An In-Depth Review of a Stellar Budget Smartwatch Choice</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-k70e-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi K70E in Minutes | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/meizu-21-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Meizu 21 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/motorola-edgeplus-2023-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge+ (2023) Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-get-rid-of-hiss-and-hum-advanced-techniques-for-noise-removal-in-fcpx-for-2024/"><u>New Get Rid of Hiss and Hum Advanced Techniques for Noise Removal in FCPX for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-a58-4g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A58 4G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oneplus-12r-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of OnePlus 12R? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-a25-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy A25 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos-for-2024/"><u>Revolutionize Tech Connectivity Top Free Speech Conversion Tools for MacOS for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-potential-of-openais-ai-for-voice-to-text-in-windows/"><u>Unlocking the Potential of OpenAI's AI for Voice-to-Text in Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevate-your-profile-expertise-in-fb-video-coverage-creation/"><u>[Updated] 2024 Approved Elevate Your Profile Expertise in FB Video Coverage Creation</u></a></li>
+<li><a href="https://facebook.techidaily.com/bypass-lost-phones-security-fastest-way-to-fb-without-phone/"><u>Bypass Lost Phones' Security: Fastest Way to FB without Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-8-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 8 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ensure-perfect-display-of-your-conversion-e-books-on-smartphones-with-easy-steps/"><u>Ensure Perfect Display of Your Conversion E-Books on Smartphones with Easy Steps!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-lava-blaze-pro-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Blaze Pro 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-12-mini-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 12 mini to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y78-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y78 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c65-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C65 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-v30-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme V30 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-c55-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme C55 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superb-online-stores-where-to-find-and-purchase-youtube-ringtones-in-2024/"><u>Superb Online Stores Where to Find & Purchase YouTube Ringtones, In 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-recommended-podcast-applications-for-ios-devices-a-comprehensive-guide/"><u>Top Recommended Podcast Applications for iOS Devices: A Comprehensive Guide</u></a></li>
 </ul></div>
 

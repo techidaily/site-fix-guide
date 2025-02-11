@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Itel P55 ? Fix It Easily | Dr.fone
-date: 2025-01-27T01:21:08.141Z
-updated: 2025-01-29T21:03:26.089Z
+date: 2025-02-09T19:23:25.815Z
+updated: 2025-02-11T00:17:59.937Z
 tags: 
   - problems
 categories:
@@ -44,12 +44,16 @@ Step 4: The white Google logo will appear immediately followed by the Android lo
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-05.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
@@ -77,13 +81,13 @@ Once installed on your computer, open onto the main menu and connect your Itel P
 
 ![fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step #2** Select the 'Android Repair' option from the next screen.
 
 ![get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Insert your device information, including the brand, carrier details, model and country and region you're in to ensure you're downloading the correct firmware.
 
@@ -101,10 +105,6 @@ Ensure your device, and your computer stays connected the entire time, and make 
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
@@ -112,10 +112,6 @@ After downloading, the software will automatically start to repair your device b
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
@@ -132,6 +128,10 @@ Step 4: Press the Volume down key to select the "Wipe Data/ Factory Reset option
 Step 5: Next, you need to press the Volume down button to highlight "Delete All User Data" and then press the Power button to select it. The device will reset and present the "Reboot System Now" option.
 
 Step 6: Finally, press the Power button to [reboot the phone](https://drfone.wondershare.com/android-tips/reboot-android.html) in normal mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Backup and Restore Android System
 
@@ -155,10 +155,6 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Deal With the Itel P55 Screen Black But Still Works?
 
 With the advance of technology over the years, many of us rely on smartphones to communicate, work, and play. As such, it can be pretty concerning when your device begins to act strange like your **phone screen suddenly went blank**.
@@ -177,6 +173,10 @@ The first thing that comes to mind when your **phone screen suddenly goes black*
 
 ![drained iphone battery](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### App Troubles
 
 If your **phone is working, but the screen is black,** there’s also a high probability that you are having an isolated issue with a particular application. An app could be loading something, which often happens for streaming apps such as YouTube, Netflix, Prime, and more, especially if you have slow internet connectivity.
@@ -191,9 +191,17 @@ If you dropped your phone, there’s a high chance the LCD connectors went loose
 
 ![loose samsung galaxy lcd](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How To Fix Black Screen on Your Phone
 
 Here are four valuable methods you should know on **what to do when your phone screen goes black** on your iPhone or Android smartphone to get them working again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Force Restart your Android/iOS Smartphone
 
@@ -226,10 +234,6 @@ If you own an iPhone 7, press and hold the **Side** button and **Volume Down** 
 ### Method 2: Uninstall or Update Outdated Applications
 
 In some cases, your **phone screen is black but still works** because of installing incompatible apps on your iOS/Android device. If the installed app is frequently crashing, it may be the source of a blank cell phone **screen.** Uninstall the problem app to see if the black screen disappears or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Inspect the LCD Connectors
 
@@ -273,13 +277,13 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 ![ios erase all content and settings](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Tap **Continue** and enter your iPhone passcode. A message warns you that the process will delete all media and data and reset all settings.
 
 **Step 4:** Tap **Erase iPhone** to confirm. You’ll be asked to type in your Apple ID and password if **Find My** is active. Enter your password and tap **Erase**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Fix Black Screen Phone With an Alternative
 
@@ -328,6 +332,10 @@ If you’re still undecided about Dr.Fone – System Repair, here are its pros a
 - Each version for each OS is sold separately.
 - The free version works up to your device’s compatibility. Once you start the repair process, the app will ask you for a valid license key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Fix Black Phone Screen With Dr.Fone – System Repair
 
 Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Android.
@@ -337,10 +345,6 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 **Step 2A (For iOS)**: Choose the correct model of your iPhone for the program to be able to download the appropriate firmware package.
 
 ![drfone system repair for ios](https://images.wondershare.com/drfone/product-2021/system-repair/swp2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2B (For Android)**: Click **Start.** On the next window, choose the **Brand, Name, Model, Country,** and **Carrier** of your smartphone, then click **Next**.
 
@@ -427,7 +431,7 @@ As you launch Dr.Fone after downloading it on your computer, continue to the "Sy
 ![choose the system repair tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ****Step 2: Define Device Information and Confirm****
@@ -482,10 +486,6 @@ As you have observed, the power of Dr.Fone can be a perfect phone manager for yo
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4,675,795** people have downloaded it
 
 ## Conclusion
@@ -508,18 +508,24 @@ With all the provided methods, we do hope that you will be able to restore the s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-endless-creativity-free-youtube-art-resources/"><u>[New] 2024 Approved Endless Creativity FREE YouTube Art Resources</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-obs-studio-vs-bandicam-a-comprehensive-performance-review/"><u>[New] In 2024, OBS Studio Vs. Bandicam A Comprehensive Performance Review</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-photoshop-pro-with-ai-intelligence/"><u>[New] Ultimate Photoshop Pro with AI Intelligence</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-uniting-sight-and-sound-perfecting-videography-voiceovers-for-2024/"><u>[New] Uniting Sight & Sound Perfecting Videography Voiceovers for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-futuristic-enlightenment-the-best-30-virtual-musings/"><u>2024 Approved Futuristic Enlightenment The Best 30 Virtual Musings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-for-fixing-the-deleted-or-lost-binkw32dll-file-problem/"><u>Expert Advice for Fixing the Deleted or Lost binkw32.dll File Problem</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-htc-u23-by-drfone-android/"><u>In 2024, How to Bypass FRP on HTC U23?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-yuva-2-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-a1-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A1 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-nubia-red-magic-8s-proplus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nubia Red Magic 8S Pro+ Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/trouble-free-gaming-fixing-doom-eternal-stability-problems/"><u>Trouble-Free Gaming: Fixing DOOM Eternal Stability Problems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-driving-traffic-to-long-form-videos-via-shorts/"><u>[New] 2024 Approved Driving Traffic to Long-Form Videos via Shorts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-top-10-editing-powerhouses-to-create-engaging-reels/"><u>[Updated] 2024 Approved The Top 10 Editing Powerhouses to Create Engaging Reels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-boost-online-presence-innovative-youtube-channel-names-for-2024/"><u>[Updated] Boost Online Presence Innovative YouTube Channel Names for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-add-custom-thumbnails-to-your-youtube-videos-for-2024/"><u>[Updated] How To Add Custom Thumbnails to Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-understanding-transient-suppression-via-audacity-for-2024/"><u>[Updated] Understanding Transient Suppression via Audacity for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-game-developers-top-recording-tools/"><u>2024 Approved Game Developers' Top Recording Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-pop-8-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Pop 8 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-tecno-pop-8-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Tecno Pop 8 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y100t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y100t to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f14-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F14 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-tecno-spark-20-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Spark 20 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-amds-rdna-3-written-in-technology-and-launch-dates/"><u>Navigating Through AMD's RDNA 3 Written in Technology and Launch Dates</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-hidden-costs-of-not-upgrading-how-skipping-the-iphone/"><u>The Hidden Costs of Not Upgrading: How Skipping the iPhone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/the-ultimate-guide-to-optimizing-with-leading-seo-programs-for-tracking-living-links-percentage/"><u>The Ultimate Guide to Optimizing with Leading SEO Programs for Tracking Living Links Percentage</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Hot 30 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix It ZTE Blade A73 5G Wont Turn On | Dr.fone
-date: 2024-07-14T05:42:06.632Z
-updated: 2024-07-15T05:42:06.632Z
+date: 2025-02-08T17:06:28.230Z
+updated: 2025-02-11T01:32:13.853Z
 tags: 
   - problems
 categories:
@@ -34,8 +34,6 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
-
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
@@ -55,6 +53,10 @@ On your desktop computer or laptop, open Wondershare Dr.Fone. Click on Data Reco
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-device-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Decide which file types to recover**
 
 On the next window, you will need to check the boxes corresponding to the type of files you can recover from a list. You can get back Contacts, Messages, Call History, WhatsApp messages & attachments, Photos, Audio and more.
@@ -70,6 +72,10 @@ Opt for "Touch screen not responsive or cannot access the phone" or "Black/broke
 Look up for your device – pick the ZTE Blade A73 5G device Name and Device Model. Advance by clicking on the Next button.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Go into your ZTE Blade A73 5G’s Download Mode.**
 
@@ -96,8 +102,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -139,6 +143,10 @@ Step 1: You need to put your ZTE Blade A73 5G in Download mode for resolving the
 
 ![fix Android Phone not turn on without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Hitting the ‘Next’ key will allow you to download firmware and proceed with the next step.
 
 ![download firmware to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -177,22 +185,21 @@ There are several reasons as to why your ZTE Blade A73 5G won’t turn on. The p
 
 It is important to note that your phone contains some important data. Therefore, when your ZTE Blade A73 5G won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9 Solutions to Fix ZTE Blade A73 5G System Crash Issue
 
 Android crash, better known as Android system crash is not a recent issue and has troubled many users in the past as well. It means when your device crashes suddenly and refuses to turn on again or when your device freezes and becomes unresponsive. It may also happen that your ZTE Blade A73 5G crashes abruptly but boots up normally only to crash again after a few minutes or hours. Android Crash sounds like a very serious problem and something that could damage your device or permanently destroy the software, but Android system crash can be dealt with easily. Just in case you suffer from an Android crash and want to know how to fix the Android system crash issue, rest assured that this problem is fixable. There are various ways to tackle the situation, to be discussed further, and you may choose the one that best suits you.
 
 In this article, we will also talk about a unique technique to retrieve the data from your device on which Android system crash issue occurs. So let's go ahead and read on to know more to fix the Android crash error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to rescue data the Android system crashes?
 
 When you encounter an Android system crash, before looking for solutions to fix it, make sure you retrieve all your data and information stored on your device. This might sound tedious but a very important step indeed.
 
 [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html) is currently one of the most popular tools to retrieve data from not only broken or damaged, locked devices, and unresponsive devices but also from devices that face an Android system crash. You may try the software for free for scanning the data to understand its work. Dr.Fone’s Data Extraction tool not only retrieves and back-up contacts and messages but also your photos, videos, audio files, WhatsApp, docs, call logs, and other file folders. It is also equipped to retrieve data from the ZTE Blade A73 5G device’s internal memory as well as Google drive.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -233,9 +240,6 @@ You may follow the steps given below to rescue your data from crashed Android de
 
 7\. Finally, the process will take a few minutes to scan and display your phone data. Select “Recover to Computer” to retrieve all data on your PC as a backup.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recover data to computer](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
 Using Dr.Fone Damage Extraction software is intuitive and very safe. It prevents data loss and allows you to adopt various ways to recover your device from the Android system crash issue.
@@ -300,6 +304,10 @@ If you are constantly facing issues of your ZTE Blade A73 5G crashing, there is 
 
 ![open the storage settings](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** As you navigate to the next screen, you can free up space by removing the applications from your Android. For that, tap on "Apps" to open a section containing the list of applications installed on the Android.
 
 ![access the installed apps info](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-5.jpg)
@@ -320,9 +328,6 @@ In case the Android system crash issue is temporary, follow the steps given belo
 
 2\. Now tap on “Cached Data”, and then click “OK” to clear all unwanted cache from your device as shown above.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/drfone/article/2017/07/14988992219452.jpg)
 
 However, if the Android crash problem is such that your phone has frozen, becomes unresponsive, and does not turn on, you must first boot into the Recovery Mode screen.
@@ -391,6 +396,10 @@ As we redirect to resolving Android system errors using Wondershare Dr.Fone – 
 - It can help you resolve issues like Android's black screen of death, being stuck in the boot loop, and many more.
 - Provides an easy interface to execute procedures, making it a simple tool with no learning curve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps To Repair Android System Crash Issue Using Dr.Fone – System Repair (Android)
 
 Let's redirect to the steps that can be used to repair Android system crash issues using Wondershare Dr.Fone – System Repair (Android):
@@ -457,7 +466,13 @@ Bottomline, the tips given above have helped many to solve the Android system cr
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Does My ZTE Blade A73 5G Keep Turning Off By Itself? 6 Fixes Are Here
 
@@ -489,9 +504,6 @@ If your phone turns off now and then while you are using it and even refuses to 
 
 First, open the dialer on your ZTE Blade A73 5G shown in the screenshot below.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open the dialer](https://images.wondershare.com/drfone/article/2017/07/14994528759955.jpg)
 
 Now dial \*#\*#4636#\*#\* just like dialing a usual phone number and wait for the “Battery Info” screen to pop up.
@@ -562,9 +574,6 @@ Step 3: Now, Dr.Fone - System Repair (Android) will verify the firmware once dow
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Update software to the latest version to fix Android phone keeps turning off
 
 Software glitches or outdated operating systems can trigger automatic shutdowns on Android phones. Updating your ZTE Blade A73 5G's software version can be an effective solution to fix the issue of the phone repeatedly turning off. Regular software updates provided by the phone manufacturer often include bug fixes, performance improvements, and security patches. These updates can address underlying problems that may be causing the random shutdowns, ensuring a more stable and reliable phone performance.
@@ -574,6 +583,10 @@ To update the software on your ZTE Blade A73 5G, follow these steps:
 Go to "Settings" on your ZTE Blade A73 5G and navigate to the "System" or "Software Update" section (the exact wording may vary depending on your device model and Android version). Look for the option to "Check for updates" to see if any new software updates are available.
 
 ![update software](https://images.wondershare.com/drfone/article/2023/07/phone-keeps-turning-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Cool down your phone to avoid your phone keeps turning off
 
@@ -609,8 +622,6 @@ That's all. Well, booting to Safe Mode is easy and it also helps you to identify
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a great way to back up all your data to prevent it from getting lost after resetting the phone. It works brilliantly as it backs up all data and allows users to retrieve it fully or selectively. You can backup all files from your Android to PC in just a click and restore them later. Try this software for free before purchasing it to understand it's working better. It does not tamper with your data and only requires you to follow the simple steps given below to backup your Android data:
 
-
-
 ### Wondershare Dr.Fone
 
 Flexibly Back up and Restore Android Data
@@ -631,6 +642,10 @@ Once you have the main screen of the software with multiple options that will ap
 Now connect the Android phone to the PC and make sure that USB debugging is turned on. Then hit “Back Up Now” and wait for the next screen to open.
 
 ![connect](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You will see the file types that will be backed up. Wait for the backup process to complete.
 
@@ -666,7 +681,6 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -679,9 +693,22 @@ So, do not hold back, go ahead, and try these tricks. They have helped many and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-artistry-the-top-image-enhancers/"><u>[New] Instagram Artistry The Top Image Enhancers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nderstanding-and-crafting-youtube-live-thumbnails/"><u>[New] Understanding and Crafting YouTube Live Thumbnails</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-efficiently-transmit-via-obs-on-fb-live/"><u>[Updated] In 2024, Efficiently Transmit via OBS on FB Live</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-image-editing-mastering-photo-cropping-tools/"><u>2024 Approved IPhone Image Editing Mastering Photo Cropping Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-ways-to-survive-and-thrive-in-the-ai-dominated-workplace/"><u>6 Ways to Survive and Thrive in the AI-Dominated Workplace</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-a23-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy A23 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-funniest-faces-learning-kinemaster/"><u>In 2024, Funniest Faces Learning KineMaster</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y28-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y28 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-c53-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C53 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-moto-g14-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Moto G14 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-s18-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo S18 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sever-link-to-chatgpt-instantly/"><u>Sever Link to ChatGPT Instantly</u></a></li>
+</ul></div>
 

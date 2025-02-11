@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus 12 | Dr.fone
-date: 2024-07-14T05:43:46.741Z
-updated: 2024-07-15T05:43:46.741Z
+date: 2025-02-07T21:09:14.603Z
+updated: 2025-02-10T17:20:13.173Z
 tags: 
   - problems
 categories:
@@ -84,10 +84,15 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ****Step 3:**** When you let go of the “Power” button, press and hold the “Volume Down” button. After that, a “Safe Mode” label will appear in your screen’s lower-left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn Off Developer Options
 
@@ -107,9 +112,6 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -246,6 +248,10 @@ Similar to the "[Blue Screen of Death](https://drfone.wondershare.com/android-is
 
 If you face the situations mentioned above, this is clearly a case of the Android screen black. But don't worry about that. You can follow the article below to get rid of this situation on your own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to rescue data when Android gets black screen of death?
 
 This annoying Android black screen of death is making it impossible to access your internal data. So, the possibility is that you might lose all the data. We have a solution for all of your data recovery problems from a damaged Android device.
@@ -256,7 +262,9 @@ The solution for recovery data is the [Dr.Fone - Data Recovery (Android)](https:
 
 Use this revolutionary toolkit to get the data back from the black tablet screen of death. Connect the OnePlus 12 device with the PC after installing this tool and follow the on-screen instruction, and all of your data will be transferred to your PC. Unfortunately, the tool is supported on selected OnePlus 12 Android devices as of now.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -281,13 +289,19 @@ A Dedicated Tool to Retrieve Data from [Broken Android Devices](https://www.wond
 - [3.8 Reboot to safe mode](https://drfone.wondershare.com/android-issue/android-black-screen-of-death.html#part3.8)
 - [3.9 Factory reset to fix Android black screen of death](https://drfone.wondershare.com/android-issue/android-black-screen-of-death.html#part3.9)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.1 One click to fix the black screen of death
 
 Facing an Android device with a black screen of death, I believe, is one of the gloomiest moments of one's life, especially for those who know little about the technical part of Android. But here is the truth we have to admit: most cases of the black screen of death arise due to system glitches in Android.
 
 What to do? Shall we find someone who is tech-savvy to seek help? Come on, this is the 21st century, and there are always one-click solutions to deal with technical issues for laymen like you and me.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -304,9 +318,6 @@ Fix Black Screen of Death for Android In One Click
 
 1. Download and install the Dr.Fone tool. After launching it, you can see the following screen pop up.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
     ![fix android black screen of death using a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 2. Select "System Repair" from the home page, and then click on the "Android ".
@@ -361,18 +372,6 @@ Step 4: After you’re done with the cleaning, it’s best to charge the phone f
 
 ![wa stickers](https://images.wondershare.com/drfone/article/2023/08/android-black-screen-of-death-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.4 Remove the battery
 
 If your phone’s battery is removable, you can try taking it out and trying again if restarting and cleaning it doesn’t fix the problem.
@@ -453,6 +452,10 @@ Step 3: Activate Safe mode by clicking the “Safe Mode” icon.
 
 Step 4: To return to Normal mode, turn off your device and then turn it back on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.9 Factory reset to fix Android black screen of death
 
 The factory reset is the option that enables the factory state of your device by erasing all data, settings, bugs, and apps. Your device will be fresh like factory condition after this reset. Worth mentioning here, you’ll lose all the internal data and installed apps after this reset. So, to overcome the Android tablet black screen of death, you must perform this action as the last option. Follow the below steps carefully.
@@ -483,9 +486,6 @@ These are the general methods to overcome the situation of Android screen black.
 
 By following these steps, you should avoid the most unpleasant situations, such as the Android screen black. We all know that “Prevention is always better than cure”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 There could be a lot of reasons why an Android black screen issue occurs, but the important thing is knowing the correct ways how to fix it. And this article has covered nine proven methods to help you fix an Android phone screen black problem.
@@ -493,6 +493,10 @@ There could be a lot of reasons why an Android black screen issue occurs, but th
 But among the methods discussed above, Dr.Fone – System Repair just stood out as this program does not only help you with a black screen of death problem, but it covers many other Android system issues too. It’s also a highly intuitive program that requires no skills to operate.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Quickly Fix Bluetooth Not Working on OnePlus 12
 
@@ -517,8 +521,6 @@ Due to the complicated nature of Bluetooth technology, there could be many reaso
 Since Bluetooth is an internal technology, this indicates there’s a problem with the software or firmware of your OnePlus 12. If something’s broken, this means you need to fix it. Fortunately, there’s a quick and easy way to do this using software known as Dr.Fone - System Repair (Android).
 
 Dr.Fone - System Repair (Android) is a powerful Android repair tool which is hailed as many as being on the best software applications in the industry. With all the tools you need to repair your phone not just for Bluetooth errors, but basically any internal firmware problems, this is a one-shot-tool that gets the job done.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -572,6 +574,10 @@ One of the most common solutions in technology is simply to turn it on and off a
 
 ![android bluetooth problems - clear cache](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-cache.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Every service on your OnePlus 12 using a feature called a cache. This is where information is stored to help the feature run properly and give you the best experience. However, over time this can get messy and can cause problems with your Bluetooth feature.
 
 By clearing the cache, you can restart the service and hopefully clear up any issues or problems you may be experiencing.
@@ -594,6 +600,10 @@ Here’s how;
 2. Turn Bluetooth on, and you’ll see all the connections your OnePlus 12 is paired with
 3. Go through these settings and remove/delete/forget every connection on your device
 4. Now when you go to connect to a device using Bluetooth, repair the OnePlus 12 device, enter the passcode, and use a fresh paired connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.5 Use Bluetooth in safe mode
 
@@ -655,9 +665,6 @@ With this in mind, you’ll want to make sure you’re limiting the amount of Bl
 
 To fix this issue, turn off all the Bluetooth connections in the area. This includes computers, laptops, mobile phones, tablets, and any other Bluetooth devices you may have. Then, try connecting your OnePlus 12 to the OnePlus 12 device you were trying to use. If it works, you know you were experiencing Bluetooth interference.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -670,9 +677,16 @@ To fix this issue, turn off all the Bluetooth connections in the area. This incl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ps4-broadcasting-basics-with-a-focus-on-obs-integration/"><u>[New] In 2024, PS4 Broadcasting Basics with a Focus on OBS Integration</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-essential-tools-for-the-top-6-choices-in-helmet-harnesses-for-gopros/"><u>[Updated] Essential Tools for the Top 6 Choices in Helmet Harnesses for GOPROs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bringing-memories-together-effortless-transition-of-pictures-from-google-to-icloud-explained-digitallife/"><u>Bringing Memories Together: Effortless Transition of Pictures From Google to iCloud Explained - DigitalLife</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-understand-and-restore-lost-dng-image-files-a-comprehensive-guide/"><u>How to Understand and Restore Lost DNG Image Files: A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-motorola-moto-g24-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Moto G24 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-amazonbasics-micro-cut-shredder-secure-your-data-with-12-sheets-of-high-quality-shredding/"><u>Top Rated AmazonBasics Micro Cut Shredder: Secure Your Data with 12 Sheets of High-Quality Shredding</u></a></li>
+</ul></div>
 

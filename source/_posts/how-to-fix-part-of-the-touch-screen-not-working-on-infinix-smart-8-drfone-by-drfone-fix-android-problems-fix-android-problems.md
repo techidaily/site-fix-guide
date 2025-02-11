@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Smart 8 | Dr.fone
-date: 2024-07-14T05:42:47.963Z
-updated: 2024-07-15T05:42:47.963Z
+date: 2025-02-07T17:34:39.690Z
+updated: 2025-02-11T01:02:44.361Z
 tags: 
   - problems
 categories:
@@ -33,8 +33,9 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - Redmi’s whole screen is unresponsive to touch
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
 You may experience a variety of touch screens not working on Android issues:
@@ -143,6 +144,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -152,6 +157,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Before repairing your Infinix Smart 8, you must boot it into ****Download**** ****mode****. To boot your Infinix Smart 8 or tablet into DFU mode, follow the steps below:
 
@@ -233,6 +242,10 @@ Looking for suitable solutions to fix Android SystemUI has stopped error? Then r
 ## Part 1: Why Android SystemUI Has stopped happens?
 
 ![android system ui-SystemUI Has stopped](https://images.wondershare.com/drfone/article/2017/06/14985097157775.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Android device owners would agree that OS updates are very helpful as they fix the bug problem and improve the overall working of your device. However, sometimes these updates may be infected due to which they do not download and install properly. A corrupted OS update may cause Android; unfortunately, the process com.android.systemui has stopped error. All Android updates are directly designed around the Google App, and thus, the problem will persist until the Google App is also updated. Sometimes, even the Google App update may cause such a glitch if it is not successfully downloaded and installed.
 
@@ -334,8 +347,9 @@ This method will help you de-clutter your device and erase all the clogged up un
 If the Android SystemUI has stopped the problem persists, there is only one way out. Read on to find out about it.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 5: Fix Android SystemUI error by factory reset
 
 Factory Resetting your device to fix Android; unfortunately, the process com.android.systemui has stopped error is a desperate measure and should be the last thing to do on your list. Take this step only when the above mentored two techniques fail to work.
@@ -362,8 +376,6 @@ After the factory reset process is completed, your device will automatically res
 The whole process of factory resetting your Infinix Smart 8 might sound tedious, risky, and cumbersome, but it helps to fix the Android SystemUI has stopped error 9 out of 10 times. So, think carefully before using this remedy.
 
 Android SystemUI isn't responding or Android, unfortunately, the process com.android.systemui has stopped error is commonly seen by users on their devices. It is not a random error and is linked to either the software, Google App, cache partition, or data stored in the Infinix Smart 8 device. It is fairly simple to deal with this issue as all you need to do is install or roll back your Android OS update, uninstall Google App updates, clear cache partition, or factory reset your device to clear all data, files, and settings stored in it. The methods listed and explained above are the best ways to fight the problem and to prevent it from troubling you in the future. These methods have been adopted by affected users all over the world who recommend them because they are safe and involve minimum risks as compared to other tools to solve the Android SystemUI has stopped error. So go ahead and try them now!
-
-
 
 ## Spotify Keeps Crashing: A Complete List of Fixes You Can Use on Infinix Smart 8
 
@@ -408,9 +420,17 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 ![start system repair in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Select the **Brand,****Name, Model, Country,** and **Carrier** In the **Carrier** section, choose **OPEN** if your device is unlocked.
 
 ![select your android model in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Tick the **“I agree with the warning, and I am ready to proceed”**checkbox and click **Next**.
 - **Step 7:** Put your Android in **Download Mode**. You can find the steps below these instructions.
@@ -420,9 +440,6 @@ Wondershare Dr.Fone is an app that gives you complete control over your phone. Y
 
 - **Step 9:** Once the firmware downloads, click **Fix Now**to install it on your Android.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix your android in wondershare dr.fone](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 - **Step 10:** Type “**000000**” in the dialog box and click **Confirm**.
@@ -474,9 +491,6 @@ The Spotify app may be working fine. Maybe you’re having problems with your Sp
 - **Step 1:** Open Spotify.
 - **Step 2:** Tap **Settings**in the upper right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![settings in spotify](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-4.jpg)
 
 - **Step 3:** Scroll to the bottom of the settings and tap **Log Out**.
@@ -516,6 +530,10 @@ Another possible reason for your Spotify closing problem could be the incorrect 
 
 ![set time on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6. Update Your System Software
 
 Your Spotify app might keep crashing because your system is outdated. Try updating it to the latest version to try and fix the crashing problem. The steps for the Android system update are as follows:
@@ -531,9 +549,6 @@ Your Spotify app might keep crashing because your system is outdated. Try updati
 - **Step 3:** Select **System Update**.
 - **Step 4:** If there’s an available update, tap
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install system update on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-13.jpg)
 
 ### 7. Update Your App
@@ -573,6 +588,10 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 - **Step 3:** Then, press **Uninstall**.
 
 ![uninstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Press **OK**.
 - **Step 5:** Then, open the PlayStore and find Spotify.
@@ -614,6 +633,10 @@ When using different apps and websites, your device caches data from those sourc
 
 ![spotify storage usage on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-24.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Tap **Clear Cache**.
 
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
@@ -625,7 +648,6 @@ When using different apps and websites, your device caches data from those sourc
 If your Spotify app keeps crashing, several reasons might be behind it. For instance, your storage space might be at capacity, your system might need an update, your phone might have a software bug, or the Spotify server might be down.
 
 We’ve given you 11 solutions to fix the Spotify crashing problem. However, if your system needs repairing, you can try Wondershare Dr.Fone for quick and easy repair. This solution and all others will surely help you fix the crashing problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -639,9 +661,16 @@ We’ve given you 11 solutions to fix the Spotify crashing problem. However, if 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-10-hd-recording-apps-for-your-computer-display/"><u>[New] In 2024, Top 10 HD Recording Apps for Your Computer Display</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-realme-c67-4g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Realme C67 4G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-g54-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola G54 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps-vr-2-comprehensive-info-on-latest-announcement-costs-and-release-timeline/"><u>PS VR 2 - Comprehensive Info on Latest Announcement, Costs, and Release Timeline</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oneplus-nord-n30-se-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with OnePlus Nord N30 SE Unresponsive Screen | Dr.fone</u></a></li>
+</ul></div>
 

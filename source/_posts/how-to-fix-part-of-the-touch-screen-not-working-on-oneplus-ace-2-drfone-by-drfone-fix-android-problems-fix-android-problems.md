@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus Ace 2 | Dr.fone
-date: 2024-07-14T05:43:49.194Z
-updated: 2024-07-15T05:43:49.194Z
+date: 2025-02-09T17:04:11.176Z
+updated: 2025-02-10T21:40:03.236Z
 tags: 
   - problems
 categories:
@@ -19,8 +19,9 @@ You probably touch the screen of your phone hundreds of times per day. It’s no
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1. Why Is Part of My Screen Not Working
 
 There are two possible causes as to why your phone’s touch screen is not working. One is the touch screen may have been damaged, and the other is the OnePlus Ace 2 device may be experiencing technical difficulties.
@@ -34,6 +35,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - LG screen is unresponsive to touch
 - OnePlus Ace 2 ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
@@ -54,6 +59,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - Remove the OnePlus Ace 2 device cover and screen protector if they are not damaged.
 - If there is a sticker on the OnePlus Ace 2 device screen, you must remove it.
 - Before continuing, make sure your screen is spotless.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
@@ -89,6 +98,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -117,9 +130,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
@@ -257,6 +267,10 @@ Now that we've figured out why your phone says it's offline, let's tackle the is
 
 Here are some easy solutions to get your connection back.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Change connection to mobile data
 
 Switching to mobile data can be a quick fix if your Wi-Fi is acting up. It ensures a change in your connection source and might resolve the "Phone offline" issue. Follow these easy steps to change your connection to mobile data:
@@ -304,6 +318,10 @@ How to restart your Wi-Fi router:
 - **Step 4:** Allow the router to restart and establish a connection. Then, check if your phone still shows the "Phone Offline" message.
 
 These solutions should cover the most common connectivity issues. If the problem persists, we'll explore further steps in the following sections.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Fix “Phone Offline” Despite Having an Internet Connection
 
@@ -388,17 +406,15 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Dealing with the "Phone Offline" hiccup on your OnePlus Ace 2 can be a real headache. But fear not – we've covered a range of solutions to get you back online smoothly. From troubleshooting internet connection problems to addressing browser and app-related glitches, the solutions provided in this guide are designed to cater to a variety of scenarios. If you find it troublesome to try solutions one by one, then we recommend using Dr.Fone directly which is a full toolkit for your phone and can help resolve most device glitches one-off.
 
 Remember, technology can sometimes be tricky. But with patience and the right guidance, you can overcome these challenges.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus Ace 2
 
 Have you recently noticed a message stating “Contacts has stopped”? This is enough to take away all your peace. As, our native contacts app stashes all our useful contacts which are time and again needed by a user. It’s malfunctioning is enough to give us chills. But, why the OnePlus Ace 2 or any other Android device incurs such problems?
@@ -408,8 +424,6 @@ It can occur while you launch the app or while you’re in the app already findi
 ## Part 1: Get Android system fixed in one click
 
 We’re always in search of a method that provides handy solution in a quite speedy and hassle-free manner. There are hundreds of tips and tricks for the same. You never know the possibility of firmware being the major drawback. No amount of manual methods can beat the performance of Dr.Fone - System Repair (Android).It is capable of providing 100% solution to any kind of issues, your phone gets troubled with. It is designed with the technology of combating the problem of black screen of death, app crashes and several other issues. In just a single-click, ward off the issue and free your device with errors
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -437,6 +451,10 @@ You’ll be directed to the “System Repair” screen where you have to opt for
 
 ![contacts stopping on samsung - android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Key in device information
 
 From following screen, fill the fields of “Brand”, “Name”, “Model”, “Country” and several other parameters. Then, tap on “Next” option to proceed further.
@@ -455,9 +473,6 @@ Once the software downloads, the program will automatically repair any issues ir
 
 ![contacts stopping on samsung - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: 9 Common ways to fix “Unfortunately, Contacts Has Stopped”
 
 ### 2.1 Restart Android system
@@ -511,6 +526,10 @@ There will be a prompt stating that the application may misbehave. However, you 
 
 ![contacts app crashing - clear google+ cache](https://images.wondershare.com/drfone/article/2019/04/clear-google-plus-cache-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.5 Update your device software
 
 Many a times, we skip updating our device software thinking it is of less importance. In fact, one must not miss out the updates that occurs in phone. As, without the updates, the scope of some applications are affected to some extent. For its better functioning and avoiding issues like “contacts keep stopping”, here is how you should update device software.
@@ -531,6 +550,10 @@ As stated, the malfunctioning of contacts can be due to be any unexpected reason
 - At last, just select “Reset default apps”.
 
 ![contacts app not responding - reset preferences](https://images.wondershare.com/drfone/article/2019/04/reset-app-preferences.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.7 Delete voicemail
 
@@ -565,9 +588,6 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
 
 ![contacts app not responding - factory settings](https://images.wondershare.com/drfone/article/2019/04/reset-android-phone.jpg)
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -580,9 +600,21 @@ Note: Do ensure to take a backup of all the data available in your device. As, w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-prime-selections-cutting-edge-iphone-tune-makers/"><u>[New] 2024 Approved Prime Selections Cutting-Edge iPhone Tune Makers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hasten-haste-in-videos-with-top-apps-android/"><u>[Updated] Hasten Haste in Videos with Top Apps, Android</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic5-ultimate-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic5 Ultimate by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-transform-vob-files-into-mp4-format-a-comprehensive-guide-for-windows-and-macos/"><u>How to Transform VOB Files Into MP4 Format: A Comprehensive Guide for Windows and macOS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-google-pixel-fold-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Google Pixel Fold in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-nubia-red-magic-8s-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Nubia Red Magic 8S Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-console-power-playing-emulated-game-boys/"><u>Linux Console Power: Playing Emulated Game Boys</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-through-powerpoints-automatic-text-conversion-features/"><u>Navigating Through PowerPoint's Automatic Text Conversion Features</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-lava-blaze-curve-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Lava Blaze Curve 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stardew-valley-launch-error-fixed-now-ready-to-play/"><u>Stardew Valley Launch Error Fixed - Now Ready To Play!</u></a></li>
+</ul></div>
 

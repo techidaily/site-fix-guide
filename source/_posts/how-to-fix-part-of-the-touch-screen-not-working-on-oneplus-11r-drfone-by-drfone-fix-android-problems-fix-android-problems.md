@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus 11R | Dr.fone
-date: 2024-07-14T05:43:45.588Z
-updated: 2024-07-15T05:43:45.588Z
+date: 2025-02-06T22:16:58.454Z
+updated: 2025-02-11T01:47:37.654Z
 tags: 
   - problems
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 You probably touch the screen of your phone hundreds of times per day. It’s no surprise that smartphone touchscreens are one of the most common components to fail, given their delicate glass construction. However, a ****part of the touch screen not working**** on your OnePlus 11R does not necessarily mean it is a hardware issue. There could be other reasons why your Android’s touch screen stopped responding.
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Is Part of My Screen Not Working
 
@@ -52,6 +56,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - If there is a sticker on the OnePlus 11R device screen, you must remove it.
 - Before continuing, make sure your screen is spotless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the OnePlus 11R device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your OnePlus 11R’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
@@ -86,6 +94,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -104,9 +116,6 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -210,13 +219,19 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your OnePlus 11R 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Spotify Keeps Crashing: A Complete List of Fixes You Can Use on OnePlus 11R
 
@@ -240,9 +255,6 @@ Several other reasons for this problem include network issues, a weak Wi-Fi sign
 
 As you can see, there are numerous reasons for your Spotify crashing. Fortunately, all of them are easy fixes, and there’s no need to worry. We’ve prepared a list of 11 ways to fix your Spotify. With these fixes and detailed instructions, you’ll be able to eliminate your Spotify problem with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1. Fix the Spotify Closing Issue by Repairing Your System
 
 The reason for your Spotify crashing may be more significant than just a bug. Your device system might be behind it. If that’s the case, you might need to repair your system before trying to fix Spotify.
@@ -294,10 +306,11 @@ There are two ways to enter Download Mode: one for Android devices with the Home
 
 The steps for entering Download Mode on an Android phone with the Home button are as follows:
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter download mode with the home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1:** Turn off your phone.
 - **Step 2:** Press and hold the **Volume Down**,**Home**, and **Power** buttons simultaneously.
@@ -414,6 +427,10 @@ Spotify can start crashing if your Android’s storage space is at capacity. Tha
 
 - **Step 4:** Then, you can go ahead and clear as much space as you can.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9. Reinstall Spotify
 
 There’s another solution if the Spotify app keeps crashing. You can try uninstalling and reinstalling it again on your Android. That will reset the app and might solve your problem. Follow the next steps to reinstall Spotify:
@@ -428,9 +445,6 @@ There’s another solution if the Spotify app keeps crashing. You can try uninst
 - **Step 5:** Then, open the PlayStore and find Spotify.
 - **Step 6:** Tap **Install**to reinstall the app again.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reinstall spotify on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-19.jpg)
 
 - **Step 7:** Once it installs, log in to test if it’s working.
@@ -471,6 +485,10 @@ When using different apps and websites, your device caches data from those sourc
 
 ![clear spotify cache on android](https://images.wondershare.com/drfone/article/2023/06/spotify-keeps-crashing-25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
@@ -493,9 +511,6 @@ Mobile viruses are tiny bugs that sneak into your phone and mess things up. They
 
 You might notice weird things happening on your phone when infected with a virus. It may suddenly slow down, show pop-ups you didn’t click, or [run out of battery super-fast](https://drfone.wondershare.com/device-diagnostics/run-phone-batery-test-on-xiaomi.html). These could be signs that your phone has a virus. Take note of these.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![hacker with virus tools](https://images.wondershare.com/drfone/article/2023/11/remove-virus-phone-02.jpg)
 
 Here are some common ways viruses get into your phone:
@@ -529,6 +544,10 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 
 ![system repair os options](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **iOS Repair** to proceed.
 
 ![dr.fone ios system repair options](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
@@ -552,6 +571,10 @@ Here’s how you can use Dr. Fone’s System Repair feature:
 - **Step 8:** Once the process is completed, choose **Done.** Your phone should be virus-free by now.
 
 ![repair complete](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Using Safe Mode
 
@@ -613,7 +636,6 @@ Viruses can make your phones act weird, but you have the tools to fight back. Ke
 
 And, if you’re thinking, “**How do I get a virus off My OnePlus 11R?**” then Wondershare Dr.Fone is a reliable hero. It’s quick and effective in clearing out those bugs. By staying aware and taking preventive steps, you can keep your phone safe and ensure a trouble-free experience. And if viruses strike, Dr. Fone’s got your back for an instant fix!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -626,9 +648,21 @@ And, if you’re thinking, “**How do I get a virus off My OnePlus 11R?**” th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-secrets-of-professional-rl-broadcasts/"><u>[New] 2024 Approved Secrets of Professional RL Broadcasts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-5-ways-to-record-audio-on-windows-11/"><u>[Updated] 2024 Approved 5 Ways to Record Audio on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-freeze-frames-at-games-start/"><u>Eliminating Freeze Frames at Game's Start</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fully-updated-epson-gt-s50-drivers-enhance-your-printing-experience-on-win-7810/"><u>Fully Updated Epson GT-S50 Drivers: Enhance Your Printing Experience on Win 7/8/10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-oppo-reno-10-pro-5g-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Oppo Reno 10 Pro 5G’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-itel-a70-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Itel A70 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-how-to-record-gameplay-on-windows-10/"><u>In 2024, How to Record Gameplay on Windows 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nubia-z50-ultra-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nubia Z50 Ultra Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-civi-3-disney-100th-anniversary-edition-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Civi 3 Disney 100th Anniversary Edition Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/techniques-for-streamlining-video-addition-to-youtube-playlists/"><u>Techniques for Streamlining Video Addition to YouTube Playlists</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-4-free-flv-to-mp4-conversion-tools-for-windows-complete-with-step-by-step-guides/"><u>Top 4 Free FLV to MP4 Conversion Tools for Windows, Complete with Step-by-Step Guides</u></a></li>
+</ul></div>
 

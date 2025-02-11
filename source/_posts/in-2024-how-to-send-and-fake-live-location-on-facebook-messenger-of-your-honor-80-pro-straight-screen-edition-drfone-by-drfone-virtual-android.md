@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Honor 80 Pro Straight Screen Edition | Dr.fone
-date: 2024-07-14T05:39:05.600Z
-updated: 2024-07-15T05:39:05.600Z
+date: 2025-02-08T20:37:37.283Z
+updated: 2025-02-10T22:09:59.119Z
 tags: 
   - virtual location change
   - social app
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 Do you want to learn how to fake a live location on Messenger? Here's the perfect learning spot. These days, many situations can compel you to spoof location on Facebook Messenger. But as simple as it sounds, you might need to invest in a costly VPN. Facebook requests permission to track your actual GPS location when installing the app or creating an account. But fret not because you don't even need a VPN service to change your Facebook location. This post will show you several shortcuts on how to send a fake location on Messenger.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: The Benefits of Changing Location on Facebook Messenger
 
 There are numerous reasons to learn how to send fake locations on Messenger, just as initially said. Here are some of them:
@@ -53,6 +50,10 @@ Step 2. Click the "four dots" at the bottom-left corner and tap **Location**.
 Step 3. Now tap **Allow Location** and choose a new location on the world map that appears.
 
 Step 4. After choosing a location, tap **Send Location** to share it with your selected friend. It's that easy!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Change a Live Location on Facebook Messenger \[iOS & Android\]
 
@@ -110,16 +111,11 @@ In a typical scenario, it's impossible to lie about your location on Facebook. T
 
 As said earlier, the reason why Facebook gives the wrong location is because of disabled location settings. It's the reverse! So, use this Settings feature to hide your actual location on Facebook.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
-
-
 
 ## How To Pause Life360 Location Sharing For Honor 80 Pro Straight Screen Edition
 
@@ -129,6 +125,9 @@ However, there are moments when you might crave a bit of privacy or a break from
 
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Is Life360 and How To Pause Life360 From the App
 
@@ -142,6 +141,10 @@ At its core, Life360 is about safety and connectivity. The app includes features
 - **Convenience**. Planning gatherings or ensuring a family member has arrived safely at a destination becomes more manageable.
 - **Emergency response**. The app can alert users to potential emergencies involving Circle members.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reasons of Pausing Life360
 
 However, there are instances where learning **how to pause Life360** becomes necessary:
@@ -150,17 +153,9 @@ However, there are instances where learning **how to pause Life360** becomes nec
 - **Privacy**. Sometimes, you might want some privacy about your location. Thus, some people would like to pause their Life360 location sharing.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Methods To Pause Life360 From the App
 
 Now, the question is, **can you pause your location on Life360?** Pausing Life360 can be done for a specific circle or the entire app. This section will show you some general steps to pause your location for the app. You can do it only for a specific circle or the whole app. Here’s how you can do those.
@@ -193,9 +188,6 @@ To **pause the Life360 location** on iOS, you’ll have to open the Settings app
 
 ![life360 ios settings](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pause by Using Airplane Mode
 
 This can be done from the quick settings panel on both Android and iOS devices. Turning on **Airplane Mode** disables all wireless connections, including cellular data and GPS, effectively pausing Life360. The great thing is that Life360 will only show your last known location to your circles. It will not say that “location services are off,” unlike the first two methods.
@@ -208,14 +200,9 @@ Removing the app from your device will stop it from sharing your location. The b
 
 Each method serves a different purpose and offers varying levels of discretion. Whether conserving battery, seeking privacy, or temporarily disconnecting, these methods provide a way to **pause Life360** **location** without drawing unwanted attention. Remember, communicating with your Circle members about your need for privacy to maintain trust is always a good idea.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How To Pause Life360 With a Virtual Location Spoofer
 
 Sometimes, pausing your location sharing on Life360 may raise questions or concerns among your circle members, particularly if they are close family or friends. If you’re planning a surprise or need private time without arousing suspicion, a virtual location spoofer can be handy. This method will teach you **how to pause your location on Life360 without them knowing.**
-
-
 
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
 
@@ -240,9 +227,17 @@ This article explored various methods of **pausing location sharing on Life360**
 
 While it’s always recommended to maintain open communication with your Circle about pausing location sharing, there are times when privacy or surprise plans necessitate discretion. For those moments, Dr.Fone - Virtual Location emerges as a reliable solution for location spoofing and other phone management needs. Remember, using these tools responsibly is key to maintaining trust in your relationships.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Set Your Preferred Job Location on LinkedIn App of your Honor 80 Pro Straight Screen Edition
 
 LinkedIn is the most widely used professional network that allows you to connect with professional people, learn new skills, and look out for the desired jobs. LinkedIn can be accessed from your desktop system as well as mobile phones. The need for changing the job location on LinkedIn arises when you are planning to move to a new city or a country and want to search for prospective job options. Changing the location will help the employers in the destination city to locate you and consider you for the job even before you move into the location. At times, when **LinkedIn shows jobs in the wrong location**, you need to change and update the location. Learn in detail about how to **change job location** **LinkedIn.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to set a preferred job location on LinkedIn?
 
@@ -260,6 +255,10 @@ To change your location on LinkedIn through your Windows and Mac systems, below 
 - Step 4. Here you can now select the desired Country/Region from the drop-down list. Additionally, you can also choose the city/district and the postal code.
 - Step 5. Finally, click on the Save button to confirm the selected location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Change LinkedIn Location on Mobile Devices \[iOS & Android\]
 
 LinkedIn can also be accessed from your Honor 80 Pro Straight Screen Edition and iOS devices, and the steps to change the location on these devices are as follows.
@@ -272,8 +271,6 @@ LinkedIn can also be accessed from your Honor 80 Pro Straight Screen Edition and
 ### Method 3: Change the LinkedIn location by Drone – Virtual Location \[iOS & Android\]
 
 Another simple and quick way to change your location for your LinkedIn profile is by using a software called [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This versatile tool is compatible with working for your iOS and Android devices and allows changing the location of your device and several apps, including LinkedIn. With just a single click, you can teleport your GPS location anywhere in the world. Additionally, you can also simulate the GOS movements as you move along the route.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -305,9 +302,17 @@ Step 4. Now you need to activate the teleport mode, and for this, click on the t
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5. Next, choose the desired location at the upper-left field from the drop-down list and then tap on the Go button.
 
 ![move there](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6. At the new pop-up box, click on the Move Here button to set the new location as your current location. All the location-based apps on your phone, including LinkedIn, will now show this new location as their current location.
 
@@ -327,6 +332,10 @@ Changing and setting a customized location on your LinkedIn profile can be benef
 
 If you are planning to relocate to a new place soon, updating your LinkedIn location is fine. Location update will help you target the job market and with job-seeking to get the desired job. It is suggested that suppose if you are moving to ABC location soon, you can update your LinkedIn location to ABC but at the same time mention your present current location, somewhere in the profile. Mentioning your current location will not create any feeling of being cheated or misled by the people who visit your profile.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How do I hide my location on LinkedIn?
 
 There is no option on LinkedIn to hide your location. You can only provide incorrect information by changing, customizing, or setting a fake location but cannot hide it. By default, Linkedin keeps your profile visible to all. You can change it by following the steps given below:
@@ -338,7 +347,6 @@ There is no option on LinkedIn to hide your location. You can only provide incor
 ### Final Words
 
 LinkedIn location on your systems as well as mobile devices can be changed either by changing it through app settings or using a professional tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . Using the software, you can change the location of your device that will automatically update all the GPS and location-based apps, including LinkedIn, accordingly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -352,9 +360,18 @@ LinkedIn location on your systems as well as mobile devices can be changed eithe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/he-path-to-profitable-videography-starting-strong-for-2024/"><u>[New] The Path to Profitable Videography Starting Strong for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-simplifying-the-complexities-of-vr-devices/"><u>[Updated] In 2024, Simplifying the Complexities of VR Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/exploring-the-difference-between-ig-reels-and-stories-for-2024/"><u>Exploring the Difference Between IG Reels & Stories for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-tecno-phantom-v-flip-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Tecno Phantom V Flip Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-v30-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V30 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-discover-how-to-tailor-your-snapchat-videos-speed-and-tempo/"><u>In 2024, Discover How To Tailor Your Snapchat Videos' Speed & Tempo</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-8-cameras-that-make-live-streaming-shine-for-2024/"><u>Leading 8 Cameras That Make Live Streaming Shine for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor Play 8T ? Fix It Easily | Dr.fone
-date: 2025-01-23T19:35:29.498Z
-updated: 2025-01-29T19:51:38.246Z
+date: 2025-02-05T20:05:40.549Z
+updated: 2025-02-11T00:24:40.633Z
 tags: 
   - problems
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
 In this article, you will learn what is Android system recovery, and how to fix Android stuck at system recovery step by step. To get out of Android system recovery more easily, you need this Android repair tool.
 
 You know your Honor Play 8T is stuck in recovery mode when you cannot turn on the Honor Play 8T device. If you try to turn it on, it shows a message that says, "Android System Recover." This situation can be quite debilitating for most Android users. Most of the time, you don't know whether you have lost all of your important Android data. It is even more worrying because of the fact that you cannot turn on your device at all, especially when you don't know how to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. What is Android System Recovery?
 
@@ -39,6 +43,10 @@ Step 2: Next, you need to hold down the Power and the Volume Key. You should abl
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
 
@@ -76,6 +84,10 @@ Once installed on your computer, open onto the main menu and connect your Honor 
 **Step #2** Select the 'Android Repair' option from the next screen.
 
 ![get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Insert your device information, including the brand, carrier details, model and country and region you're in to ensure you're downloading the correct firmware.
 
@@ -162,6 +174,10 @@ Flashing a dead Android phone might be skeptical for many users who have been in
 
 From battery issues to physical damage to the Honor Play 8T device, there can be many reasons your Honor Play 8T died. The reasons for a dead Android phone are not restricted to these points. There can be software-related issues or firmware issues that might cause such havoc on your Android.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to flash Honor Play 8T in one click
 
 While you are worried about how to flash Honor Play 8T instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Honor Play 8T logo.
@@ -177,10 +193,6 @@ One-click solution to flash Honor Play 8T
 - It is one of its kind and the first one-click Android repair software on the market.
 
 **3981454** people have downloaded it
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step-by-step Tutorial
 
@@ -209,6 +221,10 @@ Step 1: It is essential to boot your Honor Play 8T in Download mode before repai
 - If the Honor Play 8T device has a ‘Home’ button: Turn it off and then hold down the ‘Volume Down’, ‘Home’, and ‘Power’ buttons altogether for 5-10 seconds. Un-hold all of them and hit the ‘Volume Up’ button for entering ‘Download’ mode.
 
 ![flash android with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - In the absence of a ‘Home’ button: Switch off the Android device and hold the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons for 5 to 10 seconds, then release them. Hit the ‘Volume Up’ button for entering the ‘Download’ mode.
 
@@ -264,10 +280,6 @@ Step 7: In this step, find the tar.md5 file you downloaded by clicking on “PDA
 
 Finally, once the flashing process is complete, your Honor Play 8T phone will reboot and start normally, and you may see a “Pass” or “Reset” message on the Odin window on the PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to flash MTK Android dead phone with SP Flash tool?
 
 SP Flash tool, also known as SmartPhone Flash tool is a popular freeware tool used to flash custom ROM or firmware in MTK Android phones. It is a very successful tool and is extremely easy to use.
@@ -289,7 +301,7 @@ Step 4: The last step would be to locate the file downloaded by you and click �
 ![load the downloaded file](https://images.wondershare.com/drfone/article/2017/07/14991899108318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After completing the above steps, connect your dead device to the PC with a USB cable and wait for it to get recognized. The flashing process will take a few minutes to finish and then you will see a green circle indicating “OK Download”.
@@ -323,10 +335,6 @@ After this, click on “Flashing” and select “Firmware update” and then br
 Then move on to select “Dead Phone USB Flashing” from the Firmware Update Box.
 
 ![dead phone usb flashing](https://images.wondershare.com/drfone/article/2017/07/14991900551025.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lastly, just click on “Refurbish” and connect your phone to the PC using a USB cable.
 
@@ -394,6 +402,10 @@ A similar message shows up even while you are trying to update an App, as shown 
 
 ![can't update app](https://images.wondershare.com/drfone/article/2017/06/14984132013078.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Error Code 963 is basically an outcome of data crash which mostly is seen in cheaper smartphones. There might another reason for Error 963 preventing Apps from downloading and updating, which is Google Play Store Cache being corrupted. People also speculate SD Card related issues as many-a-times external memory enhancer chips do not support large Apps and their updates. Also, Error 963 is very common with HTC M8 and HTC M9 smartphones.
 
 All these reasons and more can handle with ease and you can continue to use Google play services smoothly. In the following segment, we will discuss various fixes to cure the problem to enable to you download, install and update Apps on your device normally.
@@ -432,7 +444,7 @@ Step 3 – On the following screen, you need to choose the appropriate details f
 ![device references selected](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Phase 2: Taking Android device in Download mode for repairing**
@@ -454,10 +466,6 @@ If the Honor Play 8T device contains no Home button:
 Step 2 – Press the ‘Next’ button and then the program will commence the firmware downloading.
 
 ![firmware downloaded](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3 – Upon successful downloading and verification of the firmware, the process of Android device repairing will begin automatically.
 
@@ -489,10 +497,6 @@ Select “Google Play Store” and from the options that appear, tap on “Clear
 
 ![Clear Data](https://images.wondershare.com/drfone/article/2017/06/14984133035184.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once you are done clearing Google Play Store Cache and Data, try to download, install or update the App facing Google Play Error 963 again.
 
 #### **2\. Uninstall updates for Play Store**
@@ -511,10 +515,6 @@ In this step, click on “Uninstall Updates” as shown below.
 
 ![Uninstall Updates](https://images.wondershare.com/drfone/article/2017/06/14984137166252.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **3\. Shift the App from SD Card to device’s memory**
 
 This method is strictly for certain Apps which cannot be updated because they are stored on an external memory card, i.e., SD Card. Such memory enhancing chips do not support large Apps and due to a shortage of space prevents them from updating. It advisable to move such Apps from the SD Card to the Honor Play 8T device’s internal memory and then try to update it.
@@ -522,10 +522,6 @@ This method is strictly for certain Apps which cannot be updated because they ar
 Visit “Settings” and select “Apps”.
 
 ![select “Apps”](https://images.wondershare.com/drfone/article/2017/06/14984137395509.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 From “All” Apps click on the App which is unable to update.
 
@@ -563,6 +559,10 @@ Select your account and from the “Menu” select “Remove account” as shown
 
 ![select “Remove account”](https://images.wondershare.com/drfone/article/2017/06/14984138188713.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once your account is removed, follow the steps given hereunder to add it back again after a few minutes:
 
 Go back to “Accounts” and select “Add Account”.
@@ -570,7 +570,7 @@ Go back to “Accounts” and select “Add Account”.
 ![select “Add Account”](https://images.wondershare.com/drfone/article/2017/06/14984138382296.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Select “Google” as shown above.
@@ -607,18 +607,19 @@ Google Play Errors are a very common phenomenon these days, especially Error Cod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-download-fb-links-8-free-online-tools-for-2024/"><u>[Updated] Download FB Links 8 FREE, Online Tools for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-flashback-filmmaking-top-tricks-from-80s-vhs-to-enhance-todays-edits-for-2024/"><u>[Updated] Flashback Filmmaking Top Tricks From 80S VHS to Enhance Today’s Edits for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-cost-free-industry-approved-video-callers/"><u>[Updated] In 2024, The Ultimate List of Cost-Free, Industry-Approved Video Callers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unpacking-the-performance-a-complete-guide-to-lg-bp350-monitors/"><u>[Updated] Unpacking the Performance A Complete Guide to LG BP350 Monitors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-online-converter-transform-mmf-files-into-mp3-format-with-movavi/"><u>Free Online Converter: Transform MMF Files Into MP3 Format with Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-a25-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy A25 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-x50-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor X50 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-optimizing-youtube-presentations-with-precise-times/"><u>In 2024, Optimizing YouTube Presentations with Precise Times</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-p40-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel P40 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unraveling-the-mysteries-of-fb-instream-ads-configuration-and-evaluation-for-2024/"><u>Unraveling the Mysteries of FB Instream Ads Configuration & Evaluation for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/irectly-stream-google-meet-youtube-edition-steps/"><u>[New] Directly Stream Google Meet - YouTube Edition Steps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/hero5-in-focus-advanced-photography-and-video-guide-for-gopro-for-2024/"><u>Hero5 in Focus Advanced Photography & Video Guide for GoPro for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-honor-x9a-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Honor X9a in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-expert-tips-reversed-color-effects-in-pictures/"><u>In 2024, Expert Tips Reversed Color Effects in Pictures</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-poco-c51-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Poco C51? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-f04-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy F04 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-3-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 3 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-vivo-y28-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Vivo Y28 5G</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-on-transferring-and-editing-themes-for-flipbook-using-flipbuilder-tools/"><u>Step-by-Step Tutorial on Transferring and Editing Themes for FlipBook Using FlipBuilder Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-infinix-note-30-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Infinix Note 30 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-stuck-keys-on-your-microsoft-windows-laptop-or-desktop/"><u>Troubleshooting and Repairing Stuck Keys on Your Microsoft Windows Laptop or Desktop</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-11-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 11 With Forgotten Passcode Different Methods You Can Try</u></a></li>
 </ul></div>
 

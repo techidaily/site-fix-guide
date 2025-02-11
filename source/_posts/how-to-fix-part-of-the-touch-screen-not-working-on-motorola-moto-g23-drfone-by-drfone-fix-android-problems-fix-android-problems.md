@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Motorola Moto G23 | Dr.fone
-date: 2024-07-14T05:43:25.922Z
-updated: 2024-07-15T05:43:25.922Z
+date: 2025-02-07T00:28:52.951Z
+updated: 2025-02-10T17:59:00.332Z
 tags: 
   - problems
 categories:
@@ -86,6 +86,14 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -103,6 +111,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset Device to Factory Settings
 
@@ -172,6 +184,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Supported OS
 
 Check Dr.Fone’s supported operating systems below before using the application to fix your mobile technical issues.
@@ -180,6 +196,10 @@ Check Dr.Fone’s supported operating systems below before using the application
 | --- | --- |
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -199,6 +219,10 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -213,8 +237,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Motorola Moto G23 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## Fix App Not Available in Your Country Play Store Problem on Motorola Moto G23
 
 Mobile applications are important for smooth operations when it comes to smartphones. They offer convenience, entertainment, and functionality at your fingertips. However, encountering the "**App Not Available in Your Country Play Store**" issue can be frustrating. It can quickly dampen the excitement of discovering a new app.
@@ -228,6 +250,10 @@ Encountering the "**Google Play App Not Available in Your Country**" issue can f
 ### 1\. Regional Restrictions
 
 One of the primary culprits behind this issue is the regional restrictions imposed by developers. Developers often roll out their apps gradually across different regions. It is done to adhere to legal and licensing requirements. This staggered release strategy ensures compliance with local laws. Moreover, it guarantees a smooth user experience tailored to specific geographical locations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Licensing and Legal Constraints
 
@@ -285,9 +311,6 @@ One way to resolve the issue at hand is to sideload the app by downloading its A
 
 - **Step 1.** Before starting, ensure that you have enabled the installation from unknown sources. Afterward, find a reliable website and search for your targeted apps.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download apk from website](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-6.jpg)
 
 - **Step 2.** Once you have found the targeted app, download it on your Motorola Moto G23. When the download process is complete, tap the file to start the installation process.
@@ -306,6 +329,10 @@ Google Play Store isn't the only apps and games store. There exist many options,
 
 ![install app in aptoide](https://images.wondershare.com/drfone/article/2023/11/app-not-available-in-your-country-play-store-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pro Tip: Fix Play Store Available in Your Country but Not Working on All Android Smartphones
 
 If the Play Store is not working on your Motorola Moto G23s or an application is not downloading from it, we have a tip for you. [<u>Wondershare Dr.Fone – System Repair (Android)</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) is a perfect solution for all the issues for your Motorola Moto G23s. Whether it is the Play Store functionality issue or the downloading of applications problem, System Repair (Android) is there to resolve them.
@@ -321,6 +348,10 @@ There are some prevalent pointers you should know about Wondershare Dr.Fone. Bef
 3. With no technical expertise required, you can execute all tasks to repair your Android issues with a few clicks.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -380,9 +411,6 @@ To summarize, the pursuit of the perfect app sometimes encounters hurdles. One f
 
 As a parting recommendation, we introduce Wondershare Dr.Fone. It is a powerful tool designed to tackle Play Store malfunctions head-on. With support for even Android 13, this software offers a complete solution for Android. Its comprehensive approach and easy-to-use interface make it a valuable addition to your toolkit.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Troubleshooting Guide: How to Fix an Unresponsive Motorola Moto G23 Screen
 
 [![](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
@@ -409,9 +437,6 @@ Overheating, physical damage, and manufacturing defects are some common causes o
 
 Here are the three most common solutions to deal with phone screens being unresponsive, regardless of the brand:
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restart the Motorola Moto G23 device
 
 ![restart realme smartphone](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-1.jpg)
@@ -419,8 +444,9 @@ Here are the three most common solutions to deal with phone screens being unresp
 Restarting the Motorola Moto G23 device is a simple and quick solution to an unresponsive phone screen. To restart the phone, press and hold the **power button** until the screen **turns off**, then press and hold the **power button** again to t**urn the phone back on**.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Check the Charging Port and Battery
 
 ![charging realme phone](https://images.wondershare.com/drfone/article/2023/03/realme-touch-screen-not-working-2.jpg)
@@ -491,9 +517,6 @@ Dirt and debris on the screen can cause it to become unresponsive. Use a microfi
 
 Running too many apps at once can overload the system and cause the screen to become unresponsive. Close any apps you're not using to free up system resources.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use Wondershare Dr.Fone to Repair or Manage Your Data
 
 Wondershare Dr.Fone is a helpful tool that can help manage and repair your phone's data. It can be used to back up your data, transfer files between devices, and even fix issues like an unresponsive screen. Dr.Fone has the DF13 version to be launched, which includes more features to help manage your phone's data effectively.
@@ -508,7 +531,6 @@ Motorola Moto G23 phones offer numerous benefits, including high-quality cameras
 
 To deal with an unresponsive screen, users can try restarting the Motorola Moto G23 device, checking the charging port and battery, or contacting a professional. Additional solutions for specific Motorola Moto G23 models include checking the phone's temperature, resetting to factory settings, or replacing a new screen. To avoid an unresponsive screen, users can check software updates on time, inspect the phone's hardware, avoid extreme temperatures, keep the screen clean, and reduce the number of running apps. Dr.Fone is a helpful tool that can help manage and repair your phone's data.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -521,9 +543,18 @@ To deal with an unresponsive screen, users can try restarting the Motorola Moto 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-drone-footage-showdown-dji-mavic-2-vs-gopro-hero6-black/"><u>[New] In 2024, Drone Footage Showdown DJi Mavic 2 Vs GoPro Hero6 Black</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-tips-for-effective-tripod-usage-in-video-blogging/"><u>[New] In 2024, Tips for Effective Tripod Usage in Video Blogging</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-firefox-video-and-image-export-add-ons/"><u>[New] Top 10 Firefox Video & Image Export Add-Ons</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ultimate-21-monitors-showdown-the-clear-winners-for-2024/"><u>[New] Ultimate 2.1 Monitors Showdown - The Clear Winners for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-thorough-vsco-editor-user-manual/"><u>2024 Approved Thorough VSCO Editor User Manual</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-tecno-spark-20-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Tecno Spark 20 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-11-proplus-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme 11 Pro+ Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-y200-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y200 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-enhancements-in-windows-11-unveiled/"><u>The Enhancements in Windows 11 Unveiled</u></a></li>
+</ul></div>
 

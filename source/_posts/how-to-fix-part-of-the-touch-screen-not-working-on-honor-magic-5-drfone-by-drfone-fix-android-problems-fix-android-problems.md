@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor Magic 5 | Dr.fone
-date: 2024-07-14T05:42:21.026Z
-updated: 2024-07-15T05:42:21.026Z
+date: 2025-02-03T17:09:00.573Z
+updated: 2025-02-10T17:27:53.805Z
 tags: 
   - problems
 categories:
@@ -66,6 +66,10 @@ When your touch screen stops working, the first thing you should do is restart y
 
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** When the Honor Magic 5 device turns off, wait a few seconds.
 
 ****Step 3:**** Press and hold the “Power” button to restart the Honor Magic 5 device.
@@ -115,6 +119,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -166,9 +174,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 2. Hold the Volume Down, Bixby, and Power buttons for 5 to 10 seconds.
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download mode repair android without home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Honor Magic 5. And in a while, your Honor Magic 5’s system issues will be resolved.
@@ -184,9 +189,6 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -219,6 +221,10 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Honor Magic 5 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## App Won't Open on Your Honor Magic 5? Here Are All Fixes
 
 It is not a very rare phenomenon where an App won't open, crash abruptly or face trouble while launching on an Android device. Many Android phone users also add to the fact that whenever they try to launch an App, it keeps loading but does not run smoothly, as it should in normal circumstances.
@@ -228,6 +234,10 @@ In such a scenario it is obvious for Android Smartphone users to look for possib
 Many people are also interested in knowing about the causes behind why an App won't open or why multiple/all Apps won’t open. This article will answer your query about why won't my App open on an Android phone by listing a few probable causes for the problem.
 
 Here are all the fixes you need if an App won’t open on your Honor Magic 5. Read on to find out all about why Apps won't open on your Honor Magic 5 and solutions to overcome such a problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Possible reasons for Apps won't open
 
@@ -244,15 +254,14 @@ Another possible reason for Apps to crash or why an App won't open is a possible
 The causes for the problem to occur are many and no specific reason can be established as the only reason why Apps won't open on your Honor Magic 5. There are a lot of speculations about why such a problem occurs and persists, but it is more important to focus on how to fix if a particular App won't open or if all Apps won't open on Android.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Quickest solution to fix _apps won’t open_ on Android
 
 You have already understood ‘why won't your app open?’ at the start of this article. But, you are not happy with the traditional solutions to fix the app won't open issue.
 
 Well, in such a case [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) can prove to be your savior. It resolves failed Android system update issues, crashing apps, and black screen of death. It can also get an unresponsive or bricked Android device or boot loop stuck device fixed with one click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -284,6 +293,10 @@ Step 3: Feed your Honor Magic 5 details under the Honor Magic 5 device informati
 
 ![select the android info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Phase 2: Repairing your Honor Magic 5 under ‘Download’ mode**
 
 Step 1: You got to boot the Android device under Download mode, as it’s important. The steps for that are as follows –
@@ -303,6 +316,10 @@ Step 2: Hitting the ‘Next’ button starts downloading the Android firmware.
 Step 3: Once Dr.Fone - System Repair (Android) verifies the downloaded firmware, it begins fixing the app won't open the issue asap.
 
 ![fixing App won't open](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: 3 Common fixes if a particular App won’t open
 
@@ -416,18 +433,6 @@ So go ahead and try them out now!
 
 “Unfortunately TouchWiz home has stopped” is the talk of the town due to annoying TouchWiz UI, a front-end user interface developed by Honor Magic 5. Not to mention, the Honor Magic 5 has borne a whole lot of heat from its agitated users over the years and the reason is pretty much obvious due to the pre-installed bloatware apps and the theme launch “TouchWiz home”. That not just brutally annoys users and eats up a heck of internal storage space but lags up too often due to low speed and stability. As a result users end up with “Unfortunately TouchWiz home has stopped” and “Unfortunately, TouchWiz has stopped”. Apparently, there are several flaws in the design and functioning of this launcher and hence, Touchwiz keeps stopping or becomes unresponsive.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Common scenarios when TouchWiz keeps stopping
 
 Here in this section, we will introduce some scenarios that can be blamed for why **_TouchWiz is not working_**. Check out the following points:
@@ -441,8 +446,6 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -478,6 +481,10 @@ Please keep your mobile details handy as you will need them in the next window. 
 
 ![enter device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Confirm Actions**
 
 This process may result in removing your data hence we strongly recommend you to keep a backup of your data.
@@ -489,6 +496,10 @@ Tip: You can use [Dr.Fone – Phone Backup (Android)](https://tools.techidaily.c
 You will get some instructions on your screen to keep your device in Download mode. Follow them according to the Honor Magic 5 device you own and hit “Next”. When you do this, the program will detect your device and let you download the latest firmware.
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
@@ -518,9 +529,6 @@ Please note that this will delete all your Home screens post this method.
 
 The functions regarding Motions and Gestures can be responsible for why **_TouchWiz home has stopped_** in your device. Usually the Honor Magic 5 devices running on Android version less than Marshmallow are prone to encountering this issue. Or the Honor Magic 5 devices having modest specs often fall prey to the issue. When you disable these settings, you might get out of the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Change the Animation Scale
 
 When you use TouchWiz, it may consume higher memory usage for high amount of graphic maintenance. As a result, the “**_unfortunately TouchWiz home has stopped_**” error might crop up. Taking this into consideration, you should try reconfiguring the animation scale and get rid of the error. Here’s how:
@@ -575,12 +583,13 @@ Along with this, we would also suggest you go take backup of your data so that y
 
 - Wait a few minutes and your device will reboot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Install a new launcher to replace TouchWiz
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -594,9 +603,17 @@ We believe that you will find the above methods helpful. However, if still in ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhance-watchability-with-full-screen-on-fb-videos-for-2024/"><u>[New] Enhance Watchability with Full-Screen on FB Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-ways-how-to-turn-any-youtube-video-into-a-custom-ringtone-on-android-and-ios-devices/"><u>Easy Ways: How to Turn Any YouTube Video Into a Custom Ringtone on Android & iOS Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-s23-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy S23 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-does-find-my-friends-work-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-google-pixel-8-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Pixel 8 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-htc-u23-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on HTC U23 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-your-digital-life-winning-crypto-apps-ranked-150-chars/"><u>Secure Your Digital Life: Winning Crypto Apps Ranked (150 Chars)</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-tutorial-adjusting-network-preferences-via-windows-control-panel-with-yls-expert-guidance/"><u>Step-by-Step Tutorial: Adjusting Network Preferences via Windows Control Panel with YL's Expert Guidance</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-a-stunning-video-resume-top-4-makers-with-free-resources/"><u>Updated Create a Stunning Video Resume Top 4 Makers with Free Resources</u></a></li>
+</ul></div>
 

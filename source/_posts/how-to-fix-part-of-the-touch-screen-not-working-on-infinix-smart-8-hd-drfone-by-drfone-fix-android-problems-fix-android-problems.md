@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Smart 8 HD | Dr.fone
-date: 2024-07-14T05:42:49.156Z
-updated: 2024-07-15T05:42:49.156Z
+date: 2025-02-03T17:18:48.724Z
+updated: 2025-02-11T01:34:12.894Z
 tags: 
   - problems
 categories:
@@ -32,6 +32,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - Infinix Smart 8 HD ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
 You may experience a variety of touch screens not working on Android issues:
@@ -56,9 +60,6 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 
 If you have already tried running the Infinix Smart 8 HD device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Infinix Smart 8 HD’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -107,6 +108,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -118,6 +123,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -138,6 +147,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** Connect your Infinix Smart 8 HD or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
@@ -173,9 +186,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Infinix Smart 8 HD. And in a while, your Infinix Smart 8 HD’s system issues will be resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ### Supported OS
@@ -240,6 +250,10 @@ Crashes often result from glitches or bugs within the app’s code. These unexpe
 
 If these basic fixes fail to address the continuous crashing of the Pandora app, or if the crashes persist over an extended period, the next section will provide advanced solutions. These initial troubleshooting steps aim to tackle common and temporary issues that could impede Pandora’s performance. If the problem persists, it might necessitate more intricate resolutions or further investigation into the app’s underlying technicalities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Causes Behind Constant Pandora App Crashes and Solutions
 
 Several underlying factors might be at play when persistent crashes plague your Pandora app. This section explores these.
@@ -268,14 +282,15 @@ Here’s how you can use it to resolve the issue of why the Pandora app keeps cr
 
 - **Step 2:** Choose **Android** on the next page.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare dr.fone phone os chooser](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 - **Step 3:** Click **Start** to initiate Android System Repair.
 
 ![dr.fone system repair start screen](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Check if the Infinix Smart 8 HD device details presented onscreen are correct. You may edit them accordingly for any mistakes.
 
@@ -325,20 +340,19 @@ When persistent issues arise, especially if other apps are affected similarly, W
 
 **3,362,023** people have downloaded it
 
-
-
 ## Reasons for Infinix Smart 8 HD Stuck on Boot Screen and Ways To Fix Them
 
 One of the main reasons why people own a phone is for convenience. It will be ironic if that device, supposed to grant convenience, provides problems instead. Some people face this when their ****Android phone is stuck on the logo**** page and unable to do anything. As expected, this is common in Android phones and is why people are unhappy with Android phones.
 
 This article will share the possible reasons why your ****Android phone is stuck on the boot screen****. This article will share three possible reasons for this problem and five valuable tips to help fix this issue. If all else fails, we have an application to share and recommend that is guaranteed to solve your problem in no time. Keep on reading to find out more!
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Is Your Infinix Smart 8 HD Stuck on the Boot Screen?
 
 There are countless reasons why a problem happens, just like why your ****Android phone is stuck on the logo**** page. This section sieved out the top 3 reasons why your ****Android boot screen**** happens and some tips to overcome it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. Changes to the Software
 
@@ -347,6 +361,10 @@ Android is a flexible operating system. It allows users to customize it in any w
 Fortunately, this is not a complicated fix. Android accepts different fixes and allows the system to return to how it once was. Even with software issues, the system does not get completely inoperable. The best way to fix changes to the software is to start from the beginning of the process. This might offer the best chance for you to restore your phone to normal.
 
 Although it is fun to customize and change the software, following trusted sources ensures you do not damage your phone. Having an ****Android phone stuck on the logo**** page is one of the many examples of the problems that might happen if changes to the software go out of hand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2. Android Software Updates
 
@@ -357,6 +375,10 @@ Before an update starts, your mobile device will notify you of the duration of t
 When an update is disrupted or stopped before it completes, the existing Android version will become corrupted while the new software to be updated is incomplete. This means that your Infinix Smart 8 HD has no system to run on. Always complete your software updates, and you will not have the problem of your ****Android phone getting stuck on the logo****.
 
 ![updating software](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. Malfunctioning Applications
 
@@ -393,8 +415,9 @@ If your ****Android phone is stuck on the logo**** page and not getting past it
 ![charging android device](https://images.wondershare.com/drfone/article/2023/04/reasons-for-android-phone-stuck-on-boot-screen-and-ways-to-fix-them-05.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4. Wipe Cache Data
 
 Cache refers to a software or hardware component of an Android device that stores your program and data for reference. This data might result from the daily usage of your device or duplicate data from a different source on the Infinix Smart 8 HD device. Similar to a computer, if the cache occupies too much space on your device, it might cause your Infinix Smart 8 HD to become slower and eventually get stuck at the ****Android boot screen****.
@@ -441,7 +464,6 @@ This article summarizes some possible reasons your ****Android phone is stuck on
 
 Dr.Fone-System Repair repairs the operating system issues and fixes the problem with your Infinix Smart 8 HD. Once you power on your Infinix Smart 8 HD again, you can rest assured that it will be like new.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -454,9 +476,22 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the problem 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ultimate-6-tech-for-subtitle-creation-in-video/"><u>[Updated] 2024 Approved Ultimate 6 Tech for Subtitle Creation in Video</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-flawless-soundscapes-in-the-world-of-social-media-videos/"><u>[Updated] Flawless Soundscapes in the World of Social Media Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-mastering-windows-animation-top-9-apps-for-high-quality-gif-capture/"><u>[Updated] In 2024, Mastering Windows Animation Top 9 Apps for High-Quality GIF Capture</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-transform-your-iphone-footage-filming-and-slowing-down-videos/"><u>[Updated] In 2024, Transform Your iPhone Footage Filming and Slowing Down Videos</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparing-flagships-the-detailed-breakdown-of-iphone-15-pro-max-and-galaxy-s24-ultra/"><u>Comparing Flagships: The Detailed Breakdown of iPhone 15 Pro Max and Galaxy S24 Ultra</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-facial-recognition-and-smart-alerts-with-google-nest-hello/"><u>In-Depth Look at Facial Recognition & Smart Alerts with Google Nest Hello</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-plus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 Plus Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-a60s-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A60s Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a38-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A38 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pioneering-clear-sound-in-podcasts-with-top-mixers-for-2024/"><u>Pioneering Clear Sound in Podcasts with Top Mixers for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
+</ul></div>
 

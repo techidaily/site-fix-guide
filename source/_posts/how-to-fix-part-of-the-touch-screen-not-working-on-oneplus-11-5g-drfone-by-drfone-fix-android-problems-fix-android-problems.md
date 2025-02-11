@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on OnePlus 11 5G | Dr.fone
-date: 2024-07-14T05:43:44.451Z
-updated: 2024-07-15T05:43:44.451Z
+date: 2025-02-05T01:43:58.529Z
+updated: 2025-02-10T19:09:24.049Z
 tags: 
   - problems
 categories:
@@ -52,9 +52,6 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - If there is a sticker on the OnePlus 11 5G device screen, you must remove it.
 - Before continuing, make sure your screen is spotless.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the OnePlus 11 5G device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your OnePlus 11 5G’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
@@ -210,13 +207,15 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your OnePlus 11 5G 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
-
-
 
 ## Reliable User Guide to Fix OnePlus 11 5G Running Slow and Freezing
 
@@ -238,6 +237,10 @@ Unlike before, Android phones today are equipped with several cores. Each of the
 
 Simply put, clock speed is basically the speed at which the CPU cores can carry out a cycle in a second. A faster clock speed definitely translates into the OnePlus 11 5G device’s higher performance. For instance, an octa-core Android phone with a one GHz per second clock speed is a decent device. But it’s less powerful than a device with the same number of cores but runs at two GHz per second.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Random Access Memory
 
 In a simple language, Random Access Memory (RAM) temporarily stores the data from apps that are currently running. Smartphones can be more flexible with multi-tasking if their RAM has enough space. So if you’re among these users who perform multiple tasks simultaneously, you better choose a device with more RAM.
@@ -249,6 +252,10 @@ The mobile applications installed on your smartphones are directly related to in
 ## Reasons Why My OnePlus 11 5G is Running Slow
 
 It’s not really hard to tell why your OnePlus 11 5G is slow because it’s apparently a common issue among users. But don’t worry. Most of the time, the problem is not a major concern. Here are some scenarios that may slow down your OnePlus 11 5Gs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Overloading Background Processes
 
@@ -324,6 +331,10 @@ _Follow these steps to adjust the animation speed:_
 
 ![faster animation speed](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-4.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 4: Update Your Phone to the Latest Android Version
 
 It’s always recommended to update your phone to the latest Android version. Aside from repairs to some system errors, it also keeps your phone compatible with mobile apps. An outdated operating system can be the reason why your OnePlus 11 5G runs slow, and the apps are freezing. Don’t worry. It’s very easy to perform. Here’s how to do it.
@@ -336,9 +347,6 @@ It’s always recommended to update your phone to the latest Android version. As
 
 ![update android version](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-5.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Reset Your OnePlus 11 5G to Factory Settings
 
 One way to restore the original performance of your OnePlus 11 5G is to revert it back to factory settings. It deletes all the phone’s data and adjusts the settings to default. Most of the time, this procedure works magic. It fixes numerous issues, including the Android phone that’s slow and constantly freezing. But ensure your phone has already been backed up before commencing this step. You may use [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to help you back up and secure your files.
@@ -378,6 +386,10 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![android system repair](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Wondershare Dr.Fone will give you a list of the Android problems that this procedure will fix. From there, click **Start.**
 
 ![android system repair starts](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -394,9 +406,17 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** Thereafter, the details about the newly downloaded firmware package will be displayed on the screen. From there, click **Fix Now.**
 
 ![new firmware is ready](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 9:**  Before initiating the installation process, Wondershare Dr.Fone will ask you to review and confirm the firmware details. It will also let you know that this procedure will erase the phone’s data. If you agree to the terms, enter **000000** into the input box and click **Confirm.**
 
@@ -433,6 +453,10 @@ Here are some common reasons why your OnePlus 11 5G is bricked:
 - **Android firmware is being updated:**If the phone is interrupted when updating the Android firmware, it will be bricked.
 - **Installing harmful applications:**You installed harmful programs on your OnePlus 11 5G, or the phone was infected with a virus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How to Fix a Bricked Phone
 
 The first step is to establish how badly your device is bricked. In most cases, you will be working with soft bricks that are pretty simple to repair. If your phone is stuck in a boot loop or enters recovery mode every time you turn it on, you may have a soft brick.
@@ -444,6 +468,10 @@ To repair bricked Android phones and tablets, you must first thoroughly examine 
 [Recover Now](https://download.wondershare.com/drfone_recover_full3366.exe)
 
 ![safe Download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here are some simple methods for repairing bricked Android devices:
 
@@ -458,9 +486,6 @@ Trying to reboot your android device in safe mode is the first and easiest thing
 - **Step 2:** Select the highlighted option by pressing the **Power button**. After that, wait for your device to reset normally.
 - **Note:** The steps for booting into recovery mode may change based on the manufacturer of your device. For further information, go to the user manual for your phone or tablet.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2. Wipe the Cache Partition
 
 This is the first indication that a user's phone has gone bricked. The phone turned on automatically, however it became stuck or frozen on the logo screen. The issue might be caused by the undeleting of data and cache, which prevents the phone from displaying the home screen.
@@ -470,16 +495,10 @@ This issue, however, may be resolved by wiping the data and cache partitions in 
 - **Step 1:** Turn off your smartphone and enter recovery mode by pressing the Power and Volume Down buttons simultaneously. Different devices have various approaches for entering recovery mode, so you may perform better.
 - **Step 2:** After entering recovery mode, you should see the screen below. Remember to pick Advanced and then “Wipe Dalvik Cache” if your device is under Clockwork Mod recovery. Return to the main screen and select “Wipe Cache Partition” once more.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wipe cache partition](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-2.jpg)
 
 - **Step 3:** Finally, on your smartphone, choose the Reboot system immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3. Perform a Factory Reset
 
 A factory reset can undo the alterations made to your device that resulted in the brick phone, but you will lose everything you have downloaded and installed in the process. Here's how to restore a bricked Android phone to factory settings:
@@ -489,6 +508,10 @@ A factory reset can undo the alterations made to your device that resulted in th
 - **Step 3:** Select **“Reboot System Now”** to restart your device.
 
 ![reboot system now](https://images.wondershare.com/drfone/article/2023/05/Bricked-Android-Phone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4. Flash a Custom ROM
 
@@ -541,7 +564,6 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -554,9 +576,18 @@ It is certainly upsetting when your gadget bricks, but you may attempt the solut
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-comprehensive-guide-to-the-updated-facetune-photo-editing/"><u>[New] In 2024, Comprehensive Guide to the Updated Facetune Photo Editing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-rapid-methods-to-customize-your-soundscaping-in-pubg/"><u>[Updated] Rapid Methods to Customize Your Soundscaping in PUBG</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/effective-strategies-for-identifying-and-eliminating-threats-a-deep-dive-into-windows-defenders-mechanisms-guided-by-yl-computing/"><u>Effective Strategies for Identifying and Eliminating Threats: A Deep Dive Into Windows Defender's Mechanisms - Guided by YL Computing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-reno-8t-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Reno 8T 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-phantom-v-fold-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Phantom V Fold? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-xiaomi-redmi-note-12t-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi Redmi Note 12T Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-90-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor 90 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-reno-8t-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo Reno 8T Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ringtone-to-text-iphone-model-2024-vox/"><u>Ringtone to Text IPhone, Model 2024 VOX</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/unlocking-ultimate-control-a-step-by-step-guide-to-enabling-god-mode-on-windows-11-insights-and-benefits/"><u>Unlocking Ultimate Control: A Step-by-Step Guide to Enabling God Mode on Windows 11 | Insights and Benefits</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/vibrant-neon-dinosaur-graphics-and-desktop-scenarios-yl-computings-digital-art-collection/"><u>Vibrant Neon Dinosaur Graphics & Desktop Scenarios - YL Computing's Digital Art Collection</u></a></li>
+</ul></div>
 

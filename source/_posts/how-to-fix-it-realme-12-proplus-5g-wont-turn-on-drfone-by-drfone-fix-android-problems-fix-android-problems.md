@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Realme 12 Pro+ 5G Wont Turn On | Dr.fone
-date: 2024-07-14T05:40:04.702Z
-updated: 2024-07-15T05:40:04.702Z
+date: 2025-02-05T20:53:26.641Z
+updated: 2025-02-10T17:48:09.401Z
 tags: 
   - problems
 categories:
@@ -34,7 +34,9 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -89,15 +91,21 @@ Wait for the program to finish scanning the phone – once completed, you will b
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ShpCFggyBvs"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Android Phone Won't Turn On: **One Click Fix**
 
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -159,9 +167,6 @@ To try fixing an Android Phone that won’t turn on, follow these steps:
 6. Should the first five steps do not work for you, perform a hard reset. Do take note that each device will have a different way to do so and that data that is stored locally on the phone will be deleted.
 7. Send your Realme 12 Pro+ 5G to the repair shop should none of these steps work.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: Useful Tips to Protect Your Realme 12 Pro+ 5G
 
 There are several reasons as to why your Realme 12 Pro+ 5G won’t turn on. The problem could be a hardware or software issue which could be prevented. Here are some useful tips to protect your Realme 12 Pro+ 5G.
@@ -180,9 +185,6 @@ There are several reasons as to why your Realme 12 Pro+ 5G won’t turn on. The 
 
 It is important to note that your phone contains some important data. Therefore, when your Realme 12 Pro+ 5G won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7 Fixes for "Unfortunately, Phone Has Stopped" on Realme 12 Pro+ 5G
 
 Encountering issues with the Phone app is never welcoming. Being one of the useful apps, seeing it crashing and unresponsive gives sheer despondency. If talked about the triggering points, they are numerous. But the central point is what to do when the Phone app keeps crashing. In this article, we have discussed this issue in detail. To know this and more about why the "Unfortunately, Phone has stopped" error crops up, read this article and get the problem sorted on your own.
@@ -207,6 +209,10 @@ First and foremost, the thing that can let you get rid of this trouble is Safe M
 3. Release the button and immediately press and hold the "Volume Down" key.
 4. Leave the key once the Realme 12 Pro+ 5G device is in Safe mode. Now, the third-party apps will be disabled and you can check if the Phone app is still not responding or everything is fine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2 Clear the cache of the Phone app
 
 The cache should be cleaned timely if you want any app to work properly. Due to the constant usage, the temporary files get collected and may corrupt if not cleared. Hence, the next solution you should try when the Phone app keeps stopping is to clear the cache. Here are the steps to be performed.
@@ -217,9 +223,6 @@ The cache should be cleaned timely if you want any app to work properly. Due to 
 
 ![Phone app crashing - clear cache](https://images.wondershare.com/drfone/article/2019/04/clear-cache-phone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Update Google Play services
 
 Since Android is created by Google, there must be some Google Play services that are crucial to run several system functions. And if attempting the previous methods isn’t of any use, try updating Google Play services when you find the Phone app stopped. For doing this, you need to make sure that automatic updates are turned on in Google settings. If not, enable it and get the apps including Google Play services updated for smoother functions.
@@ -232,6 +235,10 @@ When the firmware is not updated, it may conflict with some apps and maybe that�
 2. Now tap on "Software Updates" and check for the availability of the new update.
 
 ![Phone app crashing - update firmware](https://images.wondershare.com/drfone/article/2023/05/samsung-android-update-shot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Download and install it and then try to use the Phone app.
 
@@ -252,8 +259,6 @@ Here is another resolution for the "Unfortunately Phone has stopped" error. Clea
 If still, the Phone app keeps stopping after trying everything, here is the most effective method that can surely help you. Dr.Fone - System Repair (Android) is a one-click tool that promises to repair Android devices hassle-free. Be it apps crashing, the black screen, or any other issue, the tool has no problem fixing any sort of issue. Here are the benefits of Dr.Fone - System Repair (Android).
 
 ![dr fone](https://images.wondershare.com/drfone/article/2019/04/play-button-1.svg)
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -293,13 +298,29 @@ Downloading firmware will be the next step. Prior to this, you have to go throug
 
 ![Phone app crashing - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Get the Realme 12 Pro+ 5G device Repaired**
 
 When you see the firmware has been downloaded, the issue will begin to get resolved. Hang on and wait until you get notified for the repair of the Realme 12 Pro+ 5G device.
 
 ![Phone app crashing - device repaired](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.7 Factory reset
 
@@ -311,9 +332,6 @@ If none of the above methods worked for you, the last resort you are left with i
 
 ![Phone app crashing - factory reset](https://images.wondershare.com/drfone/article/2019/04/factory-reset.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Realme 12 Pro+ 5G Bootloop Problem, How to Fix it Without Data Loss
@@ -349,8 +367,6 @@ Read on to know more about how to fix the bootloop error without any data loss w
 If you are trying to figure out how to fix boot loop, the first option you have is the one-click fix to Android Bootloop which involves using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) software.
 
 This is designed to repair any data corruption on your device and restores your firmware to its usual working condition.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -403,9 +419,6 @@ You’ll be notified when the process is done and when you can remove your devic
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Soft reset to fix Android bootloop issue
 
 When your device is stuck in Android boot loop, it does not necessarily mean that it is bricked. Boot loop might be occurring due to a simpler problem which can be fixed by turning off your device. This sounds like a home remedy for a serious problem but it works and resolves the problem most of the time.
@@ -495,6 +508,10 @@ Scroll down using” the volume key to select "Advanced".
 
 ![select “Advanced”](https://images.wondershare.com/drfone/article/2017/07/14994539628787.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now select “Wipe” and choose to wipe "Dalvik Cache".
 
 ![wipe “Dalvik Cache”](https://images.wondershare.com/drfone/article/2017/07/14994539844927.jpg)
@@ -511,9 +528,6 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -526,9 +540,22 @@ An Android boot loop is a common phenomenon with all Android devices because we 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-photonpinnacle-z7-optimize-picture-scaling-for-2024/"><u>[New] PhotonPinnacle Z7 Optimize Picture Scaling for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-laptop-friendly-tips-to-start-live-chats-with-whatsapp-desktop/"><u>[Updated] In 2024, Laptop-Friendly Tips to Start Live Chats with WhatsApp Desktop</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oneplus-11-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead OnePlus 11 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-a14-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy A14 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-best-8-streamers-pick-high-end-cameras-reviewed/"><u>In 2024, Best 8 Streamer's Pick High-End Cameras Reviewed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-does-google-pixel-8-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Google Pixel 8 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-f15-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy F15 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-12plus-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12+ 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-lava-yuva-2-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Yuva 2 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ottest-youtube-to-mp3-software-picks-top-10-for-2024/"><u>The Hottest YouTube-to-MP3 Software Picks (Top 10) for 2024</u></a></li>
+</ul></div>
 

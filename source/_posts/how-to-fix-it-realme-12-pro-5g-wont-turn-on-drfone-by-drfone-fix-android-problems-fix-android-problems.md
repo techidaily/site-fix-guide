@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Realme 12 Pro 5G Wont Turn On | Dr.fone
-date: 2024-07-14T05:40:03.553Z
-updated: 2024-07-15T05:40:03.553Z
+date: 2025-02-07T00:29:10.902Z
+updated: 2025-02-11T00:04:36.668Z
 tags: 
   - problems
 categories:
@@ -28,13 +28,15 @@ If you cannot find any reason why your Realme 12 Pro 5G will not switch on, here
 4. Your device is clogged up with dust and lint causing the hardware to not work properly.
 5. [Your power button is broken](https://www.wondershare.com/reset-android/restart-android-without-power-button.html), which caused it to not be able to trigger the necessary action needed to power up the Android phone. Check to also see if your connectors have no carbon build-up which will cause your phone to not be charged properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Rescue Data on Android Phone That Will Not Turn On
 
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -61,6 +63,10 @@ On the next window, you will need to check the boxes corresponding to the type o
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Select the problem with your phone**
 
 Opt for "Touch screen not responsive or cannot access the phone" or "Black/broken screen". Click Next to continue.
@@ -83,6 +89,10 @@ Using the provided USB cable, attach your Realme 12 Pro 5G to your computer – 
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Review and Retrieve the Data from Broken Android Phone.**
 
 Wait for the program to finish scanning the phone – once completed, you will be able to get a list of recoverable files. You can have a preview of the file by highlighting them. Tick the box next to the file name and click on Recover to start retrieving the files and save them in the destination of your choosing.
@@ -97,11 +107,10 @@ After repeated attempts, when your Android mobile/tablet stops buzzing, what opt
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Dr.Fone - System Repair (Android)
 
 The real fix to issues like "Android phone will not switch on"
@@ -125,6 +134,10 @@ Step 1: Run Dr.Fone on your computer once the installation is complete and tap t
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
 ![star to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Now, over the Realme 12 Pro 5G device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
@@ -201,9 +214,6 @@ Crashes often result from glitches or bugs within the app’s code. These unexpe
 
 If these basic fixes fail to address the continuous crashing of the Pandora app, or if the crashes persist over an extended period, the next section will provide advanced solutions. These initial troubleshooting steps aim to tackle common and temporary issues that could impede Pandora’s performance. If the problem persists, it might necessitate more intricate resolutions or further investigation into the app’s underlying technicalities.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Part 2: Causes Behind Constant Pandora App Crashes and Solutions
 
 Several underlying factors might be at play when persistent crashes plague your Pandora app. This section explores these.
@@ -212,10 +222,11 @@ Several underlying factors might be at play when persistent crashes plague your 
 
 A stable internet connection is pivotal for seamless app functionality. Crashes in Pandora can stem from poor connectivity. [Check your internet connection](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html). Ensure you’re connected to a reliable network. Restart your router or switch between Wi-Fi and mobile data to troubleshoot connectivity issues.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wi-fi page android](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Corrupted/Broken Devices
 
@@ -263,6 +274,10 @@ Accumulated cache data can hamper app performance, leading to frequent crashes. 
 
 ![clear data page](https://images.wondershare.com/drfone/article/2023/11/pandora-keeps-stopping-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Device Compatibility Issues
 
 Outdated system software can create compatibility issues, causing app instability. Ensure your device’s system software is up-to-date. Check for and install any pending system updates in your device’s settings. Updated software often includes [bug fixes](https://drfone.wondershare.com/iphone-problems/fix-ios-17-keyborad-bug-and-autocorrect-issue.html) and improvements that can rectify compatibility-related crashes.
@@ -287,6 +302,10 @@ When persistent issues arise, especially if other apps are affected similarly, W
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3,362,023** people have downloaded it
 
 ## 9 Quick Fixes to Unfortunately TouchWiz has stopped Of Realme 12 Pro 5G
@@ -307,7 +326,9 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -329,9 +350,6 @@ The one-click repairing process begins with downloading Dr.Fone from its officia
 
 After you open the software, hit on the “System Repair” button from the main interface. With the help of a genuine USB cable, get your Realme 12 Pro 5G phone and connect it with the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 3: Choose the Tab**
@@ -378,9 +396,6 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 - Now, tap “Clear Data” followed by “OK”.
 - Now restart your device.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear cache to fix touchwiz home stopping](https://images.wondershare.com/drfone/article/2019/02/clear-cache-touchwiz.jpg)
 
 Please note that this will delete all your Home screens post this method.
@@ -441,14 +456,15 @@ Along with this, we would also suggest you go take backup of your data so that y
 
 ![reset factory settings](https://images.wondershare.com/drfone/article/2019/02/reset-factory-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Wait a few minutes and your device will reboot.
 
 ### Install a new launcher to replace TouchWiz
 
 We believe that you will find the above methods helpful. However, if still in case your **_TouchWiz is not working_**, we advice you that you should install a new theme launcher in your device. It will be a wise option to ditch TouchWiz in such scenario rather than tolerating the problem. Hope this advice will help you.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -462,9 +478,22 @@ We believe that you will find the above methods helpful. However, if still in ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-step-by-step-adding-captions-to-youtube-clips/"><u>[New] In 2024, Step-by-Step Adding Captions to YouTube Clips</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-visionary-verdicts-expert-picks-for-the-top-10-cameras-for-2024/"><u>[New] Visionary Verdicts Expert Picks for the Top 10 Cameras for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-bypassing-youtubes-copyright-strike-legal-strategies-and-precautions-for-2024/"><u>[Updated] Bypassing YouTube's Copyright Strike Legal Strategies and Precautions for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-note-13-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi Note 13 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-your-side-the-claude-vs-chatgpt-ai-comparison-guide/"><u>Choosing Your Side: The Claude Vs. ChatGPT AI Comparison Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-logitech-software-and-drivers-now/"><u>Get the Latest Logitech Software & Drivers Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-honor-magic-5-lite-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor Magic 5 Lite Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-itel-p40-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Itel P40 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-reno-11f-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Reno 11F 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-maintain-hid-standard-compliance-with-mouse-driver-updates/"><u>How to Maintain HID Standard Compliance with Mouse Driver Updates</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-motorola-moto-g23-by-drfone-android/"><u>How to Show Wi-Fi Password on Motorola Moto G23</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-se-2020-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone SE (2020)? Find the Best Solution Here</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-redmi-note-13-proplus-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi Redmi Note 13 Pro+ 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-105-classic-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia 105 Classic Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-xcover-7-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy XCover 7 Black and White | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Does find my friends work on Honor Magic 5 Lite | Dr.fone
-date: 2024-07-14T05:39:21.174Z
-updated: 2024-07-15T05:39:21.174Z
+date: 2025-02-07T17:24:10.739Z
+updated: 2025-02-11T00:28:20.209Z
 tags: 
   - virtual location change
   - social app
@@ -17,11 +17,7 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
 Find my friends app is becoming a norm for most people. The Smartphone and app developers are now aware of this. As a result, most Smartphone platforms are adding tools that allow users to share their whereabouts with others. Apple has its native Find my friends for their iPhone. The app works great for a group of iOS users, but you may need to share location with Android devices, which the built-in app can't help you with. When you want to use the "find friends" app, they certainly need to add people from Android and iPhone users. And, you can't dictate what people are choosing as their smartphone platform. While some prefer Android, many of us are dedicated to the iPhone too. Therefore, if you need to keep track of the real-time location of your family members or friends, you need the assistance of a third-party tool. These apps are the most logical way to create a link to find my friends app for Android and iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find my friends app](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends-app.jpg)
-
 
 ## Part1: How to track friends using iPhone or Android
 
@@ -35,6 +31,10 @@ Let's see how one can use the "find my friends" on the iPhone, shall we?
 
 ![How to use Find my friends app 1](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1.1.2 Tap "Add Friends."
 
 1.1.3 Add a contact name from your list. You can add several contacts here.
@@ -42,6 +42,10 @@ Let's see how one can use the "find my friends" on the iPhone, shall we?
 1.1.4 Tap Send.
 
 ![How to use Find my friends app 2](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1.1.5 Now select a time option.
 
@@ -57,9 +61,6 @@ You can use find my friends from iPhone to an android user via Google Maps. You 
 
 ![Using Google map](https://images.wondershare.com/drfone/2023/virtuallocation/Using-Google-map.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part2: 3 best find my friends apps compatible both Android and iPhone
 
 You have the preliminary idea of how one can find their friends using an iPhone or Android. But, how to keep track of all of your friends, while some of them are die-hard apple fanatics and others are android geeks? Well, you do not need to tell others about those anymore, as we are going to talk about three fabulous cross-platform apps for finding friends.
@@ -72,15 +73,16 @@ You can also issue an alert to your friends whenever you are in an emergency. Al
 
 ![find my friends](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.2 Familo
 
 Familo is the best working "finding friend" app. The app is regularly updated, and you can sign up with a phone number. You don't need Facebook or any username to use this app. You have to create a group and invite others. If they sign up, you will get their location details at any time of the day. Of course, they have to approve it first!
 
 ![familio app](https://images.wondershare.com/drfone/2023/virtuallocation/familio-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Glympse
 
 What makes Glympse different from others is the fact that you don't even need to sign up here! You can set up a group for a specific time, and share your location to anyone you want to. You can even share your places via the web. If you wish to track your friends temporarily or contact someone for a specific period, Glympse is the right choice for you. And, if someone is not comfortable with the idea of location sharing, you can send your location via the web. They can use the shared link to know your area without ever installing the app. But, if you want to check up on your loved ones continually, then Glympse cannot satisfy your demand. As a temporary service, your location sharing link will be activated for four hours at most.
@@ -91,6 +93,10 @@ What makes Glympse different from others is the fact that you don't even need to
 
 Remember, there are several other find my friends apps in the app store, which can entice you. Some of them have pretty neat features. But, they can drain your battery too fast; others can be pretty limited on their free version. And, many of find my friends apps are partial to either iPhone or Android. But, why not try them out yourself? Everybody’s needs and tastes are different. Give my three favorite find my friend apps for Android and iPhone a try, if they suit you, great. If not, there are more options. Find one for you and keep a "leash" on your loved ones!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic 5 Lite
 
 WhatsApp is a free messaging app owned by Meta, initially Facebook. Currently, this platform boasts over two billion active users, even outshining Messenger and WeChat. One of the reasons WhatsApp is popular is letting users share their live location with individuals and group chats. However, sometimes you may experience the annoying **WhatsApp location not updating** issue. Luckily, this article has a solution to this problem. We'll also address **how to share my location on the WhatsApp** issue. Let's learn!
@@ -99,9 +105,17 @@ WhatsApp is a free messaging app owned by Meta, initially Facebook. Currently, t
 
 First and foremost, let's discuss some of the reasons why your **WhatsApp live location is not updating on Android** or iPhone. Below are some of them:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Weak internet connection
 
 You should be conversant with the idea that WhatsApp can't function without the internet. In other words, you can't send or receive messages and calls without strong internet. And the same applies to updating your live location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Disabled location feature
 
@@ -114,8 +128,6 @@ Although uncommon with modern phones, this can be another reason for a wrong liv
 ## Part 2. How to Fix WhatsApp Live Location Not Updating Problem?
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/o7SlRcYHpW4"></iframe>
-
-
 
 Now that you already know why WhatsApp's live location isn't updating, it's time to check out the solutions. Let's go!
 
@@ -144,8 +156,6 @@ If all else fails, then it's probably time to get handy. Simply uninstall your W
 There have been multiple security concerns about WhatsApp before. But while the jury is still out, do yourself a favor and protect your live location from spyware and other users. Also, you might want to spoof WhatsApp location for business purposes and prank friends.
 
 That said, learning to fake location on WhatsApp is super simple with [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this GPS app, you can teleport your WhatsApp live location to anywhere in the world. And to make your new location more believable, this program lets you simulate movements by foot, scooter, or car. Remember, it works with all iPhone/Android versions and other social media apps like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -195,9 +205,6 @@ Step 2. Open WhatsApp and tap the group chat or individual chat with which you w
 
 Step 3. Now click the **Attach** button on the text field and click **Location**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp location not updating drfone virtual location](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-1.jpg)
 
 Step 3. Allow WhatsApp access to your device's location and then press the **Share Live Location** button.
@@ -208,9 +215,6 @@ Step 3. Last but not least, set the duration your contact will view your locatio
 
 **Note:** As you can see, WhatsApp relies on your GPS location to share your actual location. So, use Wondershare Dr.Fone to change your device's location and then share it on WhatsApp.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Fix Common WhatsApp Issues on Android & iPhone
 
 Wondershare Dr.Fone is the perfect tool to handle all your WhatsApp issues. Below are some common issues it can help you with:
@@ -253,8 +257,6 @@ As far as Facebook Dating is concerned, you can change your location quickly to 
 
 Here is another option, significantly if you **can't change your Facebook dating location**. Dr.Fone - Virtual Location becomes your better option. You can change the Facebook Dating location and the location that other platforms such as Wizards Unite, Jurassic World, Ingress Prime, Minecraft Earth, and Pokémon GO.
 
-
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -269,6 +271,10 @@ Here is another option, significantly if you **can't change your Facebook dating
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Turn Facebook Location Services On and Off
 
 **How do I change my location on Facebook dating**? That question is no longer a mystery. Alternatively, you can choose to turn Facebook Location services on or off. If you decide to go down that route, follow this guide.
@@ -280,6 +286,10 @@ Here is another option, significantly if you **can't change your Facebook dating
 - Go to "Location Services."
 
 ![turn off location ios](https://images.wondershare.com/drfone/article/2022/05/how-to-change-location-on-facebook-dating-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Toggle the corresponding button on or off depending on the current situation demands.
 
@@ -298,9 +308,17 @@ Android users can also turn the Facebook Location services on or off. The proced
 
 ## Part 4: FAQs About Facebook Dating
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.Can my friends see if I use Facebook Dating?
 
 It is one of the many advantages of using Facebook dating. It will ensure that no one, even your friends can see your Facebook dating profile. This hiding of the dating profile is automatic. So, don't expect your friends who are using Facebook dating to notice that you are using the platform. In the same vein, don't expect to see your friends who are using Facebook Dating.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. What happens when you like someone on Facebook Dating?
 
@@ -340,9 +358,6 @@ It is an excellent way of meeting new friends who live outside your residence ar
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -355,9 +370,23 @@ It is an excellent way of meeting new friends who live outside your residence ar
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-crafting-an-irresistible-brand-image-on-your-fb-page-for-2024/"><u>[New] Crafting an Irresistible Brand Image on Your FB Page for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-sync-music-and-visuals-the-art-of-canva-editing/"><u>[Updated] In 2024, Sync Music & Visuals The Art of Canva Editing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-efficient-techniques-for-editing-account-numbers-on-tiktok/"><u>2024 Approved Efficient Techniques for Editing Account Numbers on TikTok</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-navigating-through-the-world-of-ar-stickers-highlighting-google/"><u>2024 Approved Navigating Through the World of AR Stickers, Highlighting Google</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-tips-crafting-effective-gpt-call-outs-to-enrich-personal-ai-conversations-on-any-platform/"><u>Advanced Tips: Crafting Effective GPT Call-Outs to Enrich Personal AI Conversations on Any Platform</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-gionee-f3-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Gionee F3 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-gionee-f3-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Gionee F3 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-f14-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy F14 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/techniques-for-youtube-playlist-web-insertion-for-2024/"><u>HTML Techniques for YouTube Playlist Web Insertion for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-gps-location-on-tecno-pop-7-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Tecno Pop 7 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-motorola-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Motorola Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-100-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor 100 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/startling-proposal-from-us-airline-pilots-could-this-impact-your-flying-experience-insights-on-zdnet/"><u>Startling Proposal From US Airline Pilots: Could This Impact Your Flying Experience? - Insights on ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-a54-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy A54 5G Phone With/Without IMEI Number</u></a></li>
+</ul></div>
 

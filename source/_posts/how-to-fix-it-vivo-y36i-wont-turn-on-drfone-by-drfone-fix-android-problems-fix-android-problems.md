@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Vivo Y36i Wont Turn On | Dr.fone
-date: 2024-07-14T05:41:37.188Z
-updated: 2024-07-15T05:41:37.188Z
+date: 2025-02-04T16:09:05.025Z
+updated: 2025-02-11T02:22:09.819Z
 tags: 
   - problems
 categories:
@@ -33,8 +33,6 @@ If you cannot find any reason why your Vivo Y36i will not switch on, here are so
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -87,9 +85,6 @@ Using the provided USB cable, attach your Vivo Y36i to your computer – the dat
 
 Wait for the program to finish scanning the phone – once completed, you will be able to get a list of recoverable files. You can have a preview of the file by highlighting them. Tick the box next to the file name and click on Recover to start retrieving the files and save them in the destination of your choosing.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ShpCFggyBvs"></iframe>
@@ -99,8 +94,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -125,6 +118,10 @@ Step 1: Run Dr.Fone on your computer once the installation is complete and tap t
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
 ![star to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Now, over the Vivo Y36i device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
 
@@ -194,6 +191,10 @@ Here, we are going to mention four common methods that you can try to resolve th
 
 When it comes to the home button not working Vivo Y36i problem, the most common reason is the unknown system issues. In such a scenario, the best solution is using Dr.Fone - System Repair (Android) software to repair your Android system to normal in one click. This tool is powerful enough to resolve various Android issues within a few minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix home button not working on Android
@@ -222,14 +223,15 @@ Step 3: Next, you will navigate to a device information page where you have to p
 
 Step 4: After that, the software will download the appropriate firmware to repair your Android system.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![home button not working android - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 Step 5: After downloading the firmware, the software will start the repair process. Wait for a few seconds, the problem should get fixed and your phone will get back to its normal state.
 
 ![home button not working android - start android repair](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.2 Force Restart your Android
 
@@ -294,6 +296,10 @@ Button Savior app is one of the ultimate apps that can help you to fix the Andro
 
 ![button savior](https://images.wondershare.com/drfone/article/2019/02/button-savior-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pros:
 
 - It comes with a root as well as no root version.
@@ -325,6 +331,10 @@ Cons:
 
 URL: [https://play.google.com/store/apps/details?id=nu.nav.bar](https://play.google.com/store/apps/details?id=nu.nav.bar)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.4 Home Button app
 
 Home button app is another remarkable solution to replace broken and failed home buttons for users having trouble while using buttons. With this app, it is quite easy to press or even long press on the home button as assistive touch.
@@ -343,6 +353,10 @@ Cons:
 - Sometimes, it shuts down automatically.
 
 URL: [https://play.google.com/store/apps/details?id=nu.home.button](https://play.google.com/store/apps/details?id=nu.home.button)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.5 Multi-action Home Button app
 
@@ -365,8 +379,6 @@ URL: [https://play.google.com/store/apps/details?id=com.home.button.bottom](http
 
 Hopefully, the methods covered in this post helps you to fix Android home and back button not working problem for you. If it is a system issue, then the best thing you can do is to take advantage of Dr.Fone - System Repair (Android) software. It can surely help you to fix your Android system to normal within a few minutes.
 
-
-
 ## Reliable User Guide to Fix Vivo Y36i Running Slow and Freezing
 
 Android smartphones have opened a lot of doors for their users. They continue to evolve year after year with the hope of giving the world a wonderful digital experience. So far, we can all agree that they’re going the extra mile and doing a really great job. Android phones today are all packed with supreme capabilities that are beneficial to everyone.
@@ -374,6 +386,10 @@ Android smartphones have opened a lot of doors for their users. They continue to
 However, Android phones are still not close to perfect. They also act up sometimes and cause a stir. Some users have observed that the **Android phone is running slow and freezing** over time. There can be many potential reasons why **Android phone runs slow** suddenly. But it doesn’t mean it cannot be restored at all to its original state and function.
 
 In this article, we will review the details of this Android phone issue. We’ll provide solutions you can try if you ever get caught in the same problem. Continue reading to learn more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Understanding the Specs That Make Android Phones Run Fast
 
@@ -387,9 +403,6 @@ Unlike before, Android phones today are equipped with several cores. Each of the
 
 Simply put, clock speed is basically the speed at which the CPU cores can carry out a cycle in a second. A faster clock speed definitely translates into the Vivo Y36i device’s higher performance. For instance, an octa-core Android phone with a one GHz per second clock speed is a decent device. But it’s less powerful than a device with the same number of cores but runs at two GHz per second.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Random Access Memory
 
 In a simple language, Random Access Memory (RAM) temporarily stores the data from apps that are currently running. Smartphones can be more flexible with multi-tasking if their RAM has enough space. So if you’re among these users who perform multiple tasks simultaneously, you better choose a device with more RAM.
@@ -398,9 +411,6 @@ In a simple language, Random Access Memory (RAM) temporarily stores the data fro
 
 The mobile applications installed on your smartphones are directly related to internal storage. The apps save their data every time, so they behave strangely when the Vivo Y36i device runs out of storage. If you’re using heavy mobile applications, it’s best to opt for smartphones with huge internal storage.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reasons Why My Vivo Y36i is Running Slow
 
 It’s not really hard to tell why your Vivo Y36i is slow because it’s apparently a common issue among users. But don’t worry. Most of the time, the problem is not a major concern. Here are some scenarios that may slow down your Vivo Y36is.
@@ -416,6 +426,10 @@ Mobile apps need to save data on your phone. They perform the tasks based on the
 ### Animation Speed is Way Too Slow
 
 You can modify the Vivo Y36i device’s animation type and speed on your Vivo Y36i via the developer’s option. However, altering its default settings can sometimes make the Android phone run slow. If the speed is set slower, more delays are added to the animation. Hence, it takes a while for Your Vivo Y36i to launch an app or complete a certain process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### You’re Using an Outdated Android Version
 
@@ -491,6 +505,10 @@ It’s always recommended to update your phone to the latest Android version. As
 
 ![update android version](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 5: Reset Your Vivo Y36i to Factory Settings
 
 One way to restore the original performance of your Vivo Y36i is to revert it back to factory settings. It deletes all the phone’s data and adjusts the settings to default. Most of the time, this procedure works magic. It fixes numerous issues, including the Android phone that’s slow and constantly freezing. But ensure your phone has already been backed up before commencing this step. You may use [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) to help you back up and secure your files.
@@ -516,6 +534,10 @@ _Here’s how to reset your Vivo Y36i to factory settings:_
 - **Step 6:** Your Android device will ask you to confirm the procedure. From there, click **Erase Everything.**
 
 ![reset to factory settings](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-6.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 6: Fix the System Issue Using Wondershare Dr.Fone
 
@@ -544,9 +566,6 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 - **Step 7:** Wondershare Dr.Fone will automatically download the firmware that matches your device’s specifications. Wait until the process has been completed.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 - **Step 8:** Thereafter, the details about the newly downloaded firmware package will be displayed on the screen. From there, click **Fix Now.**
@@ -571,7 +590,6 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 Android phone is capable of performing lots of stuff. It can assist you in both your personal and professional tasks. But if it’s sluggish and doesn’t execute optimally, the good things it promises all go down the drain. So if you notice that your Vivo Y36i is running slow and freezing, act fast to resolve the issue. [<u>Wondershare Dr.Fone</u>](https://drfone.wondershare.com/guide/android-repair.html) can be of great help in this kind of situation. It’s an all-in-one mobile solution that can assist you with system repair, phone backup, data recovery, and a lot more.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -584,9 +602,21 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-get-the-facts-about-youtube-keyword-research/"><u>[New] Get the Facts About YouTube Keyword Research</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-science-of-display-understanding-srgb-vs-rgb-colors/"><u>[New] The Science of Display Understanding Srgb vs Rgb Colors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-enjoy-the-full-range-of-sharing-on-messenger/"><u>[Updated] In 2024, How to Enjoy the Full Range of Sharing on Messenger</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-art-of-vlogging-your-ultimate-journey-begins-here/"><u>[Updated] Mastering The Art of Vlogging Your Ultimate Journey Begins Here</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-hidden-functions-to-enhance-your-canva-artistry/"><u>[Updated] Top 10 Hidden Functions to Enhance Your Canva Artistry</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-lg-360-camera-update-revolutionary-tech-and-features-reviewed/"><u>2024 Approved LG 360 Camera Update Revolutionary Tech and Features Reviewed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-find-my-friends-work-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changefake-your-tecno-pop-8-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Tecno Pop 8 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovative-angles-shooting-vertical-smartphone-panos/"><u>Innovative Angles Shooting Vertical Smartphone Panos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/bing-green-magic-ideas-that-come-to-life-in-2024/"><u>Youtubing Green Magic – Ideas That Come to Life, In 2024</u></a></li>
+</ul></div>
 

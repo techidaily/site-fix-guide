@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A05 | Dr.fone
-date: 2024-07-14T05:44:56.787Z
-updated: 2024-07-15T05:44:56.787Z
+date: 2025-02-08T23:48:03.948Z
+updated: 2025-02-10T20:25:59.534Z
 tags: 
   - problems
 categories:
@@ -86,9 +86,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -106,6 +103,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 ![turn off developer options in android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-3.PNG)
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset Device to Factory Settings
 
@@ -216,6 +217,10 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Samsung Galaxy A05 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Exit Android Factory Mode On Samsung Galaxy A05?
 
 You’ve often heard that recovery mode will solve just about any problem your Samsung Galaxy A05 is experiencing. This is mostly true and one of the components of Android’s recovery mode, factory mode or [factory reset](https://drfone.wondershare.com/reset-android/wipe-data-factory-reset.html) is one of the most efficient ways to solve various problems on your device. While factory mode is often a good thing, there are times when your device can enter factory mode on its own. Other times, you can safely enter factory mode but not know how to get out.
@@ -236,8 +241,6 @@ Before we can see how to safely enter and exit factory mode, it is important to 
 
 In order to do a full and complete backup of your device you need to have a tool that will not only ensure that you backup everything on your device but one that makes it easy for you to accomplish this. One of the best tools in the market is [Dr.Fone - Backup & Resotre (Android)](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This software is designed to enable you to create a full backup of your device.
 
-
-
 ### Dr.Fone - Backup & Restore (Android)
 
 Flexibly Backup and Restore Android Data
@@ -257,6 +260,10 @@ Run the software on your computer and you can see all features displayed in the 
 
 ![backup android before enter in recovery mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2. Plug in with your device
 
 Then plug in with your device to the computer. When your devic is detected, click on Backup.
@@ -264,8 +271,9 @@ Then plug in with your device to the computer. When your devic is detected, clic
 ![connect android phone to computer](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3. Select the file types to backup
 
 The program will display all the file types it can support to backup. Just select the ones you would like to backup and hit Backup.
@@ -278,6 +286,10 @@ After choosing the file's type for backup, click "Backup" to begin backing up yo
 
 ![android factory mode](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: You can use the feature of "Restore From Backup" to restore the backup file to your device, when you have the need later.
 
 ## Part 3: One Click Solution to fix Android stuck in factory mode
@@ -285,8 +297,6 @@ Note: You can use the feature of "Restore From Backup" to restore the backup fil
 From the above parts, you are well aware about what is factory mode. As we discussed, this mode fixes most troubles with Android devices.
 
 But for situations when your Samsung Galaxy A05 gets stuck in this very same factory mode, the most feasible solution for you is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This tool fixes all Android system issues including unresponsive or bricked device, stuck on Samsung Galaxy A05 logo or factory mode or blue screen of death with a single click.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -400,6 +410,10 @@ Wi-Fi authentication has to be done every time you wish to connect to a Wi-Fi ne
 
 Authentication error occurs when the “deal” between the Wi-Fi router and device fails due to certain reasons. First, the Samsung Galaxy A05 device sends the password of the network and the "connect" request in an encrypted format to the Wi-Fi router. Then, the router decrypts the password and compares the password saved on it. Now, if the password matches, it sends affirmation for the "connect" request, and then the Samsung Galaxy A05 device is allowed to connect to the network.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Why Authentication Error Occurred when Connecting to Wifi?
 
 There could be plenty of reasons for facing an authentication error on your device. Most of the time, it occurs whenever a Wifi router seems to malfunction. Furthermore, if your phone has been recently updated, then chances are that there could be an issue with its drivers. A security attack can also make your device malfunction as well. An unstable connection or a router blockage can also be a reason for this issue.
@@ -421,8 +435,6 @@ Android system repair is considered the most effective way to fix Wifi Authentic
 So Android repair requires programming knowledge to do it?
 
 No! With Dr.Fone - System Repair (Android), you can do Android repair in just a few steps and get all issues like Wifi Authentication error fixed easily.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -449,9 +461,6 @@ An easy-to-operate tool to fix Android system issues like a Wifi authentication 
 
 1. Select all the details that match your device, and click "Next".
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix Wifi Authentication Error by selecting option by selecting device info](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 1. Next up, you should boot your Samsung Galaxy A05 in download mode by following the on-screen instructions.
@@ -475,6 +484,10 @@ Step 3: Depending on your Samsung Galaxy A05 model, look for “IP Settings” a
 Step 4: Note down the static IP address fields and wipe off all the fields. Punch it in again and then save it.
 
 ![change dhcp settings of wifi](https://images.wondershare.com/drfone/article/2019/06/dhcp-static.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check carefully for duplicate Wi-Fi names before you connect
 
@@ -504,6 +517,10 @@ If the above solution won’t work, then you would be required to walk the extra
 
 ![open the Wifi page](https://images.wondershare.com/drfone/article/2017/06/14981518727215.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. This will display a list of all the Wifi networks that are associated with your device. Just long-tap on the Wifi network that you wish to modify. It will open another pop-up window. From here, tap on the option of “Manage network settings”. Sometimes, users also get an option of “Modify network settings” here as well. Simply select it to proceed.
 
 ![Modify network settings](https://images.wondershare.com/drfone/article/2017/06/14981519057338.jpg)
@@ -516,15 +533,16 @@ If the above solution won’t work, then you would be required to walk the extra
 
 ![change the field](https://images.wondershare.com/drfone/article/2017/06/14981520827015.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5\. As soon as you will change it to static, you will get different fields related to your network’s IP address, gateway, DNS, and more. Simply fill these fields and tap on the “Save” button once you are done.
 
 ![fill these fields](https://images.wondershare.com/drfone/article/2017/06/14981521159129.jpg)
 
 Now, try to connect to the Wifi hotspot again. You would be able to overcome the authentication problem of Wifi.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Change Network Security Type
 
 It has been observed that, when we connect to Wifi, our device chooses a wrong security type. This clashes with the default security protocol of the router and authentication error occurred due to this. If your device is facing the same issue, then it can be fixed by simply changing its security type. To do this, follow these instructions:
@@ -557,17 +575,15 @@ Sometimes, the WiFi router may hang up while establishing a connection and there
 
 By simply turning on the Airplane mode (and later turning it off), you can easily fix the authentication problem Wifi most of the time. You can find a toggle button for Airplane mode on the notification bar of your phone. If you can’t find it there, then go to your phone’s Settings > Connection > More Networks and turn on the feature of “Airplane Mode”.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to Connection](https://images.wondershare.com/drfone/article/2017/06/14981523333039.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Let it do for a while. Afterward, turn it off and try to connect to the Wifi network again.
 
 After following these quick and easy suggestions, you would be able to fix the Samsung Galaxy A05 Wifi problem for sure. Even if you use any other Android device, then its authentication error can easily be resolved after these effective solutions. Go ahead and give these expert solutions a try and let us know about your experience as well. If you have any other solution to fix the authentication problem Wifi, then share it with us as well in the comments.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -581,9 +597,22 @@ After following these quick and easy suggestions, you would be able to fix the S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cool-climates-with-a-warm-twist-selecting-video-bgs/"><u>[New] 2024 Approved Cool Climates with a Warm Twist Selecting Video Bg's</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-smart-guide-top-picks-for-6-fb-lite-videos/"><u>[New] In 2024, Smart Guide Top Picks for 6 FB Lite Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhance-your-listeners-experience-with-great-summaries/"><u>[Updated] 2024 Approved Enhance Your Listeners' Experience with Great Summaries</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a56s-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A56s 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Without Passcode?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 14 Bootloader Easily</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y27s-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y27s? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-13t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi 13T Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablishing-sound-channels-for-xbox-microphone-in-windows-11/"><u>Reestablishing Sound Channels for Xbox Microphone in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-converting-ntsc-dvds-into-pal-format-for-european-compatibility/"><u>Ultimate Guide: Converting NTSC DVDs Into PAL Format for European Compatibility</u></a></li>
+<li><a href="https://fox-access.techidaily.com/why-does-imovie-enforce-dimensions-for-2024/"><u>Why Does iMovie Enforce Dimensions for 2024</u></a></li>
+</ul></div>
 

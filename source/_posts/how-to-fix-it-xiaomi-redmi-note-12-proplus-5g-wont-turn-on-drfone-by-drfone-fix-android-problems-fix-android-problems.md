@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Xiaomi Redmi Note 12 Pro+ 5G Wont Turn On | Dr.fone
-date: 2024-07-14T05:41:58.232Z
-updated: 2024-07-15T05:41:58.232Z
+date: 2025-02-07T16:57:25.852Z
+updated: 2025-02-10T22:30:29.732Z
 tags: 
   - problems
 categories:
@@ -18,6 +18,10 @@ Did your Xiaomi Redmi Note 12 Pro+ 5G decide to go on vacation and refuses to tu
 
 Here, we hope we are able to give you a checklist of reasons behind this issue and the possible steps you can take to rectify it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Common Reasons That Your Xiaomi Redmi Note 12 Pro+ 5G Won't Turn On
 
 If you cannot find any reason why your Xiaomi Redmi Note 12 Pro+ 5G will not switch on, here are some possible reasons:
@@ -33,8 +37,6 @@ If you cannot find any reason why your Xiaomi Redmi Note 12 Pro+ 5G will not swi
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -55,6 +57,10 @@ On your desktop computer or laptop, open Wondershare Dr.Fone. Click on Data Reco
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/drfone/android-recover-device-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Decide which file types to recover**
 
 On the next window, you will need to check the boxes corresponding to the type of files you can recover from a list. You can get back Contacts, Messages, Call History, WhatsApp messages & attachments, Photos, Audio and more.
@@ -67,6 +73,10 @@ Opt for "Touch screen not responsive or cannot access the phone" or "Black/broke
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Look up for your device – pick the Xiaomi Redmi Note 12 Pro+ 5G device Name and Device Model. Advance by clicking on the Next button.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
@@ -76,6 +86,10 @@ Look up for your device – pick the Xiaomi Redmi Note 12 Pro+ 5G device Name an
 The data recovery tool will guide you on how you can go into your Xiaomi Redmi Note 12 Pro+ 5G’s Download Mode. You should be getting a step-by-step guide on your computer.
 
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Scan the Android Phone.**
 
@@ -96,8 +110,6 @@ Wait for the program to finish scanning the phone – once completed, you will b
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -139,6 +151,10 @@ Step 1: You need to put your Xiaomi Redmi Note 12 Pro+ 5G in Download mode for r
 
 ![fix Android Phone not turn on without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Hitting the ‘Next’ key will allow you to download firmware and proceed with the next step.
 
 ![download firmware to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -159,9 +175,6 @@ To try fixing an Android Phone that won’t turn on, follow these steps:
 6. Should the first five steps do not work for you, perform a hard reset. Do take note that each device will have a different way to do so and that data that is stored locally on the phone will be deleted.
 7. Send your Xiaomi Redmi Note 12 Pro+ 5G to the repair shop should none of these steps work.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: Useful Tips to Protect Your Xiaomi Redmi Note 12 Pro+ 5G
 
 There are several reasons as to why your Xiaomi Redmi Note 12 Pro+ 5G won’t turn on. The problem could be a hardware or software issue which could be prevented. Here are some useful tips to protect your Xiaomi Redmi Note 12 Pro+ 5G.
@@ -206,8 +219,6 @@ Tried several methods to make the error 495 disappear, but nothing works? Well, 
 
 **Note:** _Having your Android system repaired may lose existing data on your Android. [Backup the data on your Android](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before the Android repair._
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Best tool for fundamental Android repair in one click
@@ -251,9 +262,6 @@ Step 2:
 
 Click on ‘All Apps’ or ‘Swipe to All’ and the open the section named “Google Services Framework App”
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![fix error 495-clear app cache](https://images.wondershare.com/drfone/article/2017/05/14952134099065.jpg).
 
 STEP 3:
@@ -261,6 +269,10 @@ STEP 3:
 Open “App Details” and the screen shown in the image should come up on your device. As shown in the image, follow the three steps. First, tap on “Force Stop” and then second, tap on the “Clear Data” option and finally go ahead and tap on the “Clear Cache” option.
 
 Following the above steps should solve your problem of Google Play Error 495. And you can enjoy back to using the apps which you couldn’t download or update due to the Error 495.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Reset App Preference in Google play Store to Fix error 495
 
@@ -274,9 +286,6 @@ STEP 2:
 
 Once the Settings section is open. A lot of further sections will pop up. No find the section named “Application Manager” or “Apps”. After locating it, tap on that section.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix error 495-application](https://images.wondershare.com/drfone/article/2017/05/14953043162812.jpg)
 
 STEP 3:
@@ -291,9 +300,6 @@ There’s no need to be alarmed because on clicking the reset option, the apps w
 
 ![fix error 495-application manager](https://images.wondershare.com/drfone/article/2017/05/14952139272011.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 4: Fix Error Code 495 by installing a VPN app
 
 The Error code 495 can be easily removed in another interesting way too. On downloading a Virtual Private Network (VPN) and then operating the play store automatically solves the error 495.
@@ -338,6 +344,10 @@ Inside The Google section, there’ll be an option called “Remove Account”. 
 
 ![fix error 495-remove account](https://images.wondershare.com/drfone/article/2017/05/14953038588742.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 STEP 5:
 
 Now go ahead and re-enter/ re-register your Google account and check if the Error 495 still persists.
@@ -374,8 +384,6 @@ Doing the above steps will clear your caches of the Google Play Store. Now you h
 
 Hence in this article, we got to know about the error 495 and the possible solutions to it as well. Also, this article explains how Error code 495 can be removed by 5 different ways. These are the best ways by which you can remove or get rid of the Error Code 495. In case one of the method fails, use the other one to rectify this recurring error 495 on your Xiaomi Redmi Note 12 Pro+ 5G.
 
-
-
 ## 6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi Note 12 Pro+ 5G
 
 Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog of our lives. Be it in the professional era or personal (gossips, oomph) stuffs, it is a crucial engaging kind of application. WhatsApp is the slow poison yet a useful tool used worldwide after call logs or messages. Imagining a day without is enough to put someone off. And if one has recently faced a problem in WhatsApp crashing or not opening, then it is enough to give a heart break. It can be due to Cache memory piled up, storage running out of space, WhatsApp components getting corrupted. In such a case, resolving the problem by using an effective solution is very important! Don’t worry and wander as we will provide impeccable range of fixes to bid bye to WhatsApp stopping problem.
@@ -383,8 +391,6 @@ Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog o
 ## Cause 1: WhatsApp-related Firmware Components went wrong
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -420,9 +426,6 @@ Next will be the information screen. Simply enter the model, brand and other det
 
 Subsequently, you need to go along with the onscreen instructions. This will boot your device in the download mode. The step is necessary to download the firmware. When you follow the steps, you need to click “Next”. The program will then start downloading the firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
 **Step 5: Repair Android**
@@ -441,6 +444,14 @@ The purpose of Cache in a device is to keep the track of frequently used data an
 
 ![whatsapp stopping - fix cache conflict](https://images.wondershare.com/drfone/article/2019/06/clear-whatsapp-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause 3: WhatsApp components corruption
 
 A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp. In such case, all you need to do is uninstall and install the WhatsApp again. This is how you do it.
@@ -450,6 +461,10 @@ A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp
 - Tap on it and start downloading followed by installing it.
 
 ![whatsapp stopping - fix component corruption](https://images.wondershare.com/drfone/article/2019/06/install-whatsapp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cause 4: Not Enough Storage on your Phone
 
@@ -502,7 +517,6 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -515,9 +529,20 @@ Now that you have decided where to download the apk file, these are the followin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unveiling-fake-followers-trap-on-youtube-landscapes/"><u>[New] In 2024, Unveiling Fake Followers' Trap on YouTube Landscapes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-insta-audio-handbook-choosing-music-wisely/"><u>[New] The Insta-Audio Handbook Choosing Music Wisely</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-discovering-the-past-best-history-youtubers/"><u>[Updated] 2024 Approved Discovering the Past Best History YouTubers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-overcome-artificial-watches-for-natural-views/"><u>[Updated] 2024 Approved Overcome Artificial Watches for Natural Views</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-x100-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo X100 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862721772-get-the-latest-i5-1letech-laptop-with-16-inch-displays-for-710-only-on-alienexchange-no-hardware-keyboard-attached/"><u>Get the Latest I5-1letech Laptop with 16-Inch Displays for $710 Only on AlienExchange, No Hardware Keyboard Attached</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-macro-and-close-up-photography-tips/"><u>IPhone Macro and Close-Up Photography Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-ace-2-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 2 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-motorola-g54-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Motorola G54 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-honor-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Honor</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Smart 7 HD | Dr.fone</u></a></li>
+</ul></div>
 

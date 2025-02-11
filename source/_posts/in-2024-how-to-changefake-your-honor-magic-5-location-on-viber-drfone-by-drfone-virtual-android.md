@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Honor Magic 5 Location on Viber | Dr.fone
-date: 2024-07-14T05:39:28.125Z
-updated: 2024-07-15T05:39:28.125Z
+date: 2025-02-10T01:23:10.416Z
+updated: 2025-02-10T19:54:57.852Z
 tags: 
   - virtual location change
   - social app
@@ -29,9 +29,6 @@ So, without wasting too much time, let’s find out the steps to disable/enable 
 
 Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Here, proceed to open a chat that you want to enable/disable location sharing.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
 
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
@@ -45,6 +42,10 @@ Step 3. On the Chat Info window, simply enable or disable the **Attach location 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
 ![change location on Viber share location](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Can I send a fake location on Viber, and How?
 
@@ -72,6 +73,10 @@ Steps to change Viber location with Dr.Fone:
 
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
 
 **Step 2. Connect your phone to Dr.Fone with a USB cable.**
@@ -92,8 +97,6 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -105,6 +108,10 @@ If the connection is successful, the Virtual Location map will launch automatica
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Why send fake location on Viber?
 
@@ -152,6 +159,10 @@ Twitter for mobile is easy to use, but it offers limited privacy options compare
 
 ![select your country](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Change Twitter Location on a Computer
 
 Unlike Twitter applications, the desktop version is efficient. For example, you can **change the Twitter location** to your desired region in just a few steps:
@@ -159,6 +170,10 @@ Unlike Twitter applications, the desktop version is efficient. For example, you 
 **Step 1:** First, go to the Twitter website and log in with your username and password.
 
 ![login to twitter account](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** After logging in, go to “More” options from the Twitter home and click on “Settings and Privacy,” Now, select the option of “Account Information” from the “Your Account” settings.
 
@@ -168,9 +183,6 @@ Unlike Twitter applications, the desktop version is efficient. For example, you 
 
 ![insert your twitter password](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What is the Difference between My Profile Location and My Country Setting on Twitter?
 
 Country setting and profile location are both entirely different things. The country setting determines what trends and news will be displayed on your discovery page.
@@ -198,8 +210,6 @@ You can spoof your location to prank or trick your friends and family into think
 #### For Making New Friends
 
 One of the reasons people prefer to spoof their location is to socialize and make friends with people other than their region; it's the most innovative way by which you can easily have a chat with anyone from around the world without revealing your actual location.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -233,10 +243,11 @@ Connect your Honor Magic 5 or Android device to the computer through a USB cable
 
 You can now see your actual location on the displayed maps and if the location is incorrect, click on the "Center On" icon. To fake the Twitter location, click on the "Teleport" icon at the upper right corner of the screen and search for the location where you want to spoof.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![search your desired location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Spoof Right Away**
 
@@ -266,6 +277,10 @@ If you want your Twitter location to be accurate and precise. Firstly, you shoul
 
 In 2020, Twitter changed its privacy by removing worldwide trends. Still, few global trends can be seen on the explore page, directly or indirectly connected with your location or your preference of content to offer the best experience to you. But, if you wish to explore more of these worldwide trends, you can always spoof the location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Twitter is one of the most content-consuming social platforms globally. Its users are always thirsty to debate and share their opinions on various topics, which can, unfortunately, be restricted because of the limited exposure to global trends. But with the help of this detailed article, anyone can easily **change Twitter location** to the desired region.
@@ -275,6 +290,10 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 ## How to Fake Snapchat Location on Honor Magic 5
 
 In this case, you can either turn off the location sharing feature or even fake your Snapchat location. Trust me - with the help of a Snapchat location spoofer, you can easily do it and that too without jailbreaking/rooting your phone. In this post, I will share these tips to fake GPS for Snapchat like a pro!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the Location Feature in Snapchat all about?
 
@@ -292,6 +311,10 @@ Needless to say, if someone has our real-time location access, then they can eas
 
 Apart from security concerns, a lot of users would like to spoof location on Snapchat to trick their friends. You can just change your location to anywhere in the world and make your friends believe that you are visiting that place for fun.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Fake Snapchat Location on iPhone without Jailbreaking it?
 
 Now when you know the different scenarios to spoof location on Snapchat, let's get into some details. Ideally, you can implement a Snapchat fake location hack on both iOS and Android devices. If you own an iOS device, then you can take the assistance of a reliable application like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). Without the need to jailbreak your device, it can spoof your Honor Magic 5 location to anywhere in the world.
@@ -303,9 +326,6 @@ You can search for a location by its name, address, or specific coordinates and 
 - Firstly, just install the application on your system and connect your Honor Magic 5 to it using a working cable. From the home of the Dr.Fone toolkit, launch the Virtual Location module.
 - Once your Honor Magic 5 is detected, you need to agree to the terms, and click on the "Get Started" button.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click this button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 - Now, you can see your present location on the map-like interface of the application. To spoof location on Snapchat, go to the top-right corner, and click on the "Teleport Mode" option.
@@ -318,8 +338,6 @@ You can search for a location by its name, address, or specific coordinates and 
 ![to fake gps on snapchat](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 You can later launch Snapchat and check your location, which would be changed now.
-
-
 
 ## Part 4: How to Fake GPS for Snapchat on Android?
 
@@ -334,14 +352,12 @@ Unlike iPhone, it is pretty easy to fake GPS on Snapchat map for Android devices
 1. That's it! Now you can simply launch the installed fake GPS app and enter the name/address of the place to spoof your device location. Your location would automatically be changed on all the installed apps (including Snapchat).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 There you go! Now when you know how easy it is to use a Snapchat location spoofer, you can change your location on the app like a pro. While Android users have plenty of options to perform a Snapchat spoof on their device, iPhone users have to be a bit cautious. There are only a handful of tools like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) that can fake Snapchat location without jailbreaking your device. Go ahead and explore these solutions to protect your location on Snapchat or prank your friends without causing any harm to your phone.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -355,9 +371,21 @@ There you go! Now when you know how easy it is to use a Snapchat location spoofe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-effortless-steps-to-obtain-free-audio-for-videos/"><u>[New] Effortless Steps to Obtain Free Audio for Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-legacy-linkup-software/"><u>[New] In 2024, Legacy Linkup Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-active-presenter-8-review-is-it-the-best-screen-recorder/"><u>[Updated] 2024 Approved Active Presenter 8 Review Is It The Best Screen Recorder?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-your-guide-to-the-top-10-free-jpeg-to-gif-conversion-sites-for-2024/"><u>[Updated] Your Guide to the Top 10 Free JPEG-to-GIF Conversion Sites for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digiarty-solutions-expert-video-and-dvd-conversion-software-company/"><u>Digiarty Solutions: Expert Video & DVD Conversion Software Company</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oneplus-nord-ce-3-lite-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My OnePlus Nord CE 3 Lite 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-typography-in-adobe-writes-for-2024/"><u>Master the Art of Typography in Adobe' Writes for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/navigating-full-screen-in-ppro-for-2024/"><u>Navigating Full Screen in PPro for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-guide-removing-a-filmora-watermark-without-paying/"><u>Step-by-Step Guide: Removing a Filmora Watermark Without Paying</u></a></li>
+</ul></div>
 

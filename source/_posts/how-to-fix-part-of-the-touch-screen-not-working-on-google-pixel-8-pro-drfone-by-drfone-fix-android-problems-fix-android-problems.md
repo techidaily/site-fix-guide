@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Google Pixel 8 Pro | Dr.fone
-date: 2024-07-14T05:42:14.167Z
-updated: 2024-07-15T05:42:14.167Z
+date: 2025-02-08T18:52:30.845Z
+updated: 2025-02-10T18:50:24.043Z
 tags: 
   - problems
 categories:
@@ -31,6 +31,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - LG screen is unresponsive to touch
 - Google Pixel 8 Pro ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
@@ -84,9 +88,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ****Step 3:**** When you let go of the “Power” button, press and hold the “Volume Down” button. After that, a “Safe Mode” label will appear in your screen’s lower-left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
 ### Turn Off Developer Options
@@ -143,6 +144,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -152,6 +157,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Before repairing your Google Pixel 8 Pro, you must boot it into ****Download**** ****mode****. To boot your Google Pixel 8 Pro or tablet into DFU mode, follow the steps below:
 
@@ -210,14 +219,15 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Google Pixel 8 Pro 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Can't Take Screenshot Due to Security Policy on Google Pixel 8 Pro
 
@@ -265,18 +275,12 @@ Some apps and websites allow users to share private information. Some apps, like
 
 You **can’t take screenshots due to security policy Whatsapp** features, View Once media option. This method stops people from taking pictures of private media chats, protecting users’ privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp screenshot blocked](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-03.jpg)
 
 You Are Using a Secure Folder
 
 Companies design secure folders to protect your most sensitive data from unauthorized access, so screenshots are not allowed within them.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. 8 Ways To Take Screenshots When You Can’t Due to Security Policy
 
 If you’re trying to take a screenshot of an app or website with a security policy in place, there’s usually no way to circumvent it. However, there are a few things you can do to take pictures of these apps and website content.
@@ -308,6 +312,10 @@ Apps and websites may prohibit screenshots in incognito mode to protect your pri
 - **Step 1:** Open Chrome on your Google Pixel 8 Pro and type “chrome://flags” in the address bar.
 
 ![chrome experimental flags](https://images.wondershare.com/drfone/article/2023/11/cant-take-screenshot-for-security-policy-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Search for Incognito Screenshot and choose **Enabled** from the drop-down menu.
 
@@ -429,7 +437,9 @@ Although there are ways to bypass the “**Can’t take screenshot due to securi
 
 If you think the issue is with your Android system, or your device becomes bricked after trying other methods, experiencing app crashes, or otherwise malfunctioning, try using the Dr.Fone System Repair tool. It is worth trying and can fix most Android system issues in a few minutes.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reasons for Google Pixel 8 Pro Stuck on Startup Screen and Ways To Fix Them
 
@@ -464,11 +474,16 @@ Software issues are probably the most common reason your ****phone is stuck on t
 The older operating system is also not desired as your phone typically will send periodic updates to make sure your phone is up-to-date and free from bugs. Running applications on an older operating system might lead to issues like the ****phone being stuck on the boot screen or the logo.**** Hence, updating your phone to the latest software version would be better.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2. 3 Helpful Ways To Fix Phones Stuck on Boot Screen
 
 After understanding the common problems on why your phone is ****stuck on the startup screen**** page, here are three easy solutions to try solving yourself at home.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Hard reboot your phone
 
@@ -477,6 +492,10 @@ To quickly fix any of your phone issues, especially when stuck on the startup sc
 Here is an example of performing a hard reboot for an Android phone such as Google Pixel 8 Pro. Preess and hold the Power and Volume Down buttons simultaneously for more than 7 seconds to perform the hard reboot.
 
 ![hard reboot of samsung](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Put your phone in recovery mode
 
@@ -515,6 +534,10 @@ Here is an example of putting your Samsang smartphone into the Factory Reset DFU
 If all the solutions above do not work and you do not want to perform a factory reset on your phone, one option is to use an application called [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is one of the most effective phone recovery solutions and can help to bring your phone back to a state like it was brand new. Being ****stuck on the startup screen**** page will be a problem of the past.
 
 ![interface of dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The following steps will show you how to use Dr.Fone to perform system repair on your phone.
 
@@ -564,7 +587,6 @@ This article summarizes some of the possible reasons why your ****phone is stuck
 
 Dr.Fone-System Repair repairs the operating system issues and fixes the issue with your phone. Once you power on your phone again, you can rest assured that it will be like new.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -577,9 +599,24 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the issue wi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-determining-peak-listener-engagement-days/"><u>[New] Determining Peak Listener Engagement Days</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-affordable-mobile-apps-to-boost-your-images-visual-impact/"><u>[Updated] 10 Affordable Mobile Apps to Boost Your Image's Visual Impact</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-vertically-striped-glitches-on-a-samsung-tv-display/"><u>Fixing Vertically Striped Glitches on a Samsung TV Display</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-vivo-g2-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Vivo G2 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-6-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-top-athletes-can-benefit-by-pairing-whoop-with-apple-watch-a-deep-dive-featured/"><u>How Top Athletes Can Benefit by Pairing Whoop with Apple Watch - A Deep Dive | Featured</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-narzo-60x-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo 60x 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-v27e-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V27e Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a15-4g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A15 4G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforme-su-video-desde-ogg-a-mov-sin-costes-tutorial-paso-a-paso-usando-movavi-online/"><u>Transforme Su Vídeo Desde Ogg a Mov Sin Costes: Tutorial Paso a Paso Usando Movavi Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/web-mpeg-gif-movavi/"><u>Web용 MPEG GIF 영상 제자리 대조, 무료 구현: Movavi</u></a></li>
+</ul></div>
 

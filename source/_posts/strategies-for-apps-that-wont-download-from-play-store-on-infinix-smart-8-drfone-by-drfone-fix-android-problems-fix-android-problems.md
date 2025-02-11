@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Infinix Smart 8 | Dr.fone
-date: 2025-01-17T16:06:32.369Z
-updated: 2025-01-22T16:10:57.870Z
+date: 2025-02-08T17:54:03.159Z
+updated: 2025-02-10T23:53:39.083Z
 tags: 
   - problems
 categories:
@@ -45,10 +45,6 @@ Issues with verifying Google accounts can restrict access to the Play Store. It 
 ### App Download Restrictions
 
 Device settings or parental controls may impose restrictions on certain app downloads. You may encounter limitations in accessing specific apps. It can affect the Infinix Smart 8 device's versatility.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Incorrect Date and Time Settings
 
@@ -131,10 +127,6 @@ A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u
 
 ![android internal storage menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Update the Play Store
 
 An outdated Play Store version may lead to compatibility issues. Open the Google Play Store, go to **Settings**, and tap the **Play Store version**. If an update is available, install it to ensure compatibility with the latest apps.
@@ -146,6 +138,10 @@ An outdated Play Store version may lead to compatibility issues. Open the Google
 Cached data in the Play Store can sometimes cause download problems. Head to the Infinix Smart 8 device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Verify Google Account
 
@@ -232,10 +228,6 @@ You must put your device in Download mode for better repairing of your Android O
 
 ![fix sim not provisioned on android - boot in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4. Initiate Repairing
 
 As soon as the download completes, the software verifies the firmware and automatically initiates repairing your Infinix Smart 8. Within a short period, you’ll notice that your Infinix Smart 8 has been successfully repaired.
@@ -251,7 +243,7 @@ As soon as the download completes, the software verifies the firmware and automa
 At times, the issue can be as simple as cleaning your SIM card and SIM slot properly. Ensuring that SIM is not wet either and then putting it back into its place. If this works, then the SIM not working in Android was due to the dirt or moisture that was preventing proper contact between SIM card pins and smartphone circuit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.3 Insert the SIM card correctly
@@ -279,10 +271,6 @@ Even if your SIM isn’t activated, grab another working device to make a phone 
 
 ![fix SIM not working in android - contact carrier](https://images.wondershare.com/drfone/article/2019/05/contact-carrier.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.6 Try the other SIM card slot
 
 A yet another reason why SIM not working in Android can be because of the SIM card slot might have gone corrupted. Thanks to the dual SIM technology, you do not have to rush immediately to get it to check or repair. You can simply rule out this possibility by ejecting the SIM card from its original SIM slot and then replacing it into the other SIM card slot. If this solution did work out for you then it is obvious that the problem was with the SIM card slot that got corrupted. And hence, it was triggering SIM not responding issue.
@@ -292,10 +280,6 @@ A yet another reason why SIM not working in Android can be because of the SIM ca
 ### 2.7 Try the SIM card in other phones
 
 Or just in case, you’ve still no joy and the SIM not provisioned on Android message is bothering you. Try making use of another Android device. Eject the SIM card from the Infinix Smart 8 device which is creating problems and try plugging it into other Infinix Smart 8] and other smartphones. Perhaps, this will let you know whether the issue is with your device only or with the SIM card itself.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.8 Try a new SIM card
 
@@ -336,6 +320,10 @@ No matter what the cause is, there are plenty of ways to overcome this issue. We
 
 When this error occurs, it can disrupt the normal operation of the Infinix Smart 8 device, causing apps to freeze or crash. Fortunately, there are several effective methods to address this problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your device
 
 This is one of the easiest ways to resolve the **process system not responding** error. If you are getting this error on your phone, then try to manually restart your device. The way to restart your phone might differ from one device to another. Mostly, it can be done by long-pressing the power button. This will provide different power options. Tap on the “Reboot” one to restart your phone.
@@ -367,7 +355,7 @@ In case the Android internal memory is completely filled, it will slow down the 
 ![press the free up button](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Enter Safe Mode to Uninstall Suspicious Apps
@@ -386,6 +374,10 @@ Updating the apps is crucial for any Android device to work with high efficiency
 
 ![choose the updates available](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** You can tap on the “Update All” button if you want to update all the apps one by one. Otherwise, you can press the “Update” option adjacent to each app name to update the frequently used ones.
 
 ![update the pending updates](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-6.jpg)
@@ -403,6 +395,10 @@ Also, if you are storing apps on the SD card, then your phone might encounter th
 If all the above tricks don't get your device out of the process system not responding state, then there may be some system issues on your Android. In this case, an Android repair can successfully fix issues like process system isn't responding.
 
 **Note:** _Android repair may wipe out existing Android data. [Back up your Android data](https://drfone.wondershare.com/iphone-backup-and-restore.html) before going on._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -425,6 +421,10 @@ Android repair tool to fix all Android system issues in one click
 
 ![select the android repair option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - 3\. Select and confirm the correct device details of your Android. Then boot your Infinix Smart 8 in download mode and proceed.
 
 ![fix process system not responding in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
@@ -438,14 +438,6 @@ Android repair tool to fix all Android system issues in one click
 ![process system not responding successfully fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Factory reset Android
 
@@ -473,7 +465,7 @@ If your device is not functioning or locked, then you can perform the factory re
 After entering the Recovery mode, go to the “wipe data/factory reset” option using the Volume up and down button. Use the Power button to make a selection. If you get an additional message, then select the “yes – delete all data” option. When it is done, you can simply reboot your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Unroot the Infinix Smart 8 device
@@ -484,6 +476,10 @@ You can always download either SuperSU or SuperSU Pro app from its website [here
 
 ![full unroot](https://images.wondershare.com/drfone/article/2017/06/14980671048148.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This will generate a warning message regarding all the repercussions of the unrooting process. Just tap on “Continue” to initiate the process.
 
 ![continue unroot](https://images.wondershare.com/drfone/article/2017/06/14980671247132.jpg)
@@ -491,6 +487,10 @@ This will generate a warning message regarding all the repercussions of the unro
 If you are using an older version of Android, then you might get another pop-up to restore boot images. Simply make the desired selection and start the process. After a while, your device would be restarted the usual way, and it would be unrooted. Most probably, this will resolve the process system isn’t responding error as well.
 
 ![restore stock boot image](https://images.wondershare.com/drfone/article/2017/06/14980671431228.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now that you know different ways to fix the **process system not responding** error, you can easily overcome this issue and make the most out of your device. Simply start with the easy fixes, and if they don’t work, then take extreme measures like unrooting your device or restoring it to factory setting. Also, make sure to back up your data before taking any extreme measures.
 
@@ -508,15 +508,22 @@ Now that you know different ways to fix the **process system not responding** er
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-12-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi 12 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-to-post-a-video-between-twitter-and-tumblr-in-2024/"><u>How to Post a Video Between Twitter and Tumblr, In 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-unveiling-audible-tweets-within-social-media-videos/"><u>In 2024, Unveiling Audible Tweets Within Social Media Videos</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-m6-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco M6 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-common-problems-when-alienware-command-center-fails-to-start/"><u>Solving Common Problems When Alienware Command Center Fails to Start</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-film-capturing-essential-camera-movements-for-novices-for-2024/"><u>The Art of Film Capturing Essential Camera Movements for Novices for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-final-chapter-of-your-youtube-content-creation-for-2024/"><u>The Final Chapter of Your YouTube Content Creation for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-top-video-editors-for-mac-vn-video-editor-and-beyond-for-2024/"><u>Updated Top Video Editors for Mac VN Video Editor and Beyond for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/effortlessly-stop-bluestacks-from-crashing-follow-these-5-remedial-actions/"><u>Effortlessly Stop BlueStacks From Crashing: Follow These 5 Remedial Actions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-analysis-mp4-video-download-tools/"><u>Expert Analysis MP4 Video Download Tools</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-a15-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy A15 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-video-recording-camstudios-total-package/"><u>In 2024, Mastering Video Recording CamStudio's Total Package</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-review-videovision-pro-suite-the-new-frontier-for-2024/"><u>In-Depth Review VideoVision Pro Suite - The New Frontier for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-m14-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy M14 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-hot-40i-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Hot 40i? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-xiaomi-14-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi 14 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-c12-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia C12 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/synergy-of-style-and-functionality-in-ae-plugins-for-2024/"><u>Synergy of Style and Functionality in AE Plugins for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-battlefield-2042-fixing-persistent-directx-errors-easily/"><u>Troubleshooting Battlefield 2042: Fixing Persistent DirectX Errors Easily</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlocking-viral-potential-in-instagram-videos/"><u>Unlocking Viral Potential in Instagram Videos</u></a></li>
 </ul></div>
 

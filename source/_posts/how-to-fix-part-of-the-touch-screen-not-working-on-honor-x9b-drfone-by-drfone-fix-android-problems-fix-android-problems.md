@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor X9b | Dr.fone
-date: 2024-07-14T05:42:34.637Z
-updated: 2024-07-15T05:42:34.637Z
+date: 2025-02-07T02:15:20.513Z
+updated: 2025-02-10T22:08:07.197Z
 tags: 
   - problems
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
 You probably touch the screen of your phone hundreds of times per day. It’s no surprise that smartphone touchscreens are one of the most common components to fail, given their delicate glass construction. However, a ****part of the touch screen not working**** on your Honor X9b does not necessarily mean it is a hardware issue. There could be other reasons why your Android’s touch screen stopped responding.
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Why Is Part of My Screen Not Working
 
@@ -86,9 +90,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -107,6 +108,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -118,6 +123,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -141,9 +150,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 2:**** Connect your Honor X9b or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
@@ -177,6 +183,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Honor X9b. And in a while, your Honor X9b’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported OS
 
@@ -219,6 +229,10 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Honor X9b 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Google Play Services Won't Update? 12 Fixes are Here on Honor X9b
 
 Google Play Services is a crucial component of any Android device, responsible for supporting various Google apps and services. However, at times, users may encounter issues with updating Google Play Services, preventing them from accessing the latest features and security updates.
@@ -244,8 +258,6 @@ Before diving into the solutions, it's essential to understand the potential cau
 For those seeking a quick and effortless solution, several third-party tools offer one-click fixes for the Google Play Services update problem. These tools automate the update process, ensuring that you have the latest version of Google Play Services installed. However, it is crucial to use reputable and trusted tools to avoid potential security risks.
 
 If you cannot update Google play services by the reason of custom ROM incompatibility or Google Play component corruption, there is a serious need of repairing firmware then. And to repair Android firmware, one of the expert ways is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This professional tool vows to bring your Honor X9bs back to normal by fixing the issues with ease. Here are the advantages of this tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -278,6 +290,10 @@ Now, taking the assistance of an original USB cable, connect your Honor X9b to t
 You will notice the next screen which asks for some information. Please ensure to choose the correct device brand, name, model, career, and other needed details. Click on “Next” after this.
 
 ![google play services not updating - enter details and fix](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4: Download Mode**
 
@@ -314,9 +330,6 @@ Uninstalling previous Google Play Services updates resolves conflicts and errors
 9. If an update is available, you'll see the option to "Update." Tap on it to start the update process.
 10. After the update is complete, restart your device to ensure the changes take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3. Update Google Play Store
 
 Ensure that you have the latest version of the Google Play Store app installed on your device. Open the Play Store, go to Settings, and check for updates. Updating the Play Store can often resolve compatibility issues with Google Play Services updates.
@@ -399,8 +412,9 @@ Keeping Google Play Services updated is crucial for several reasons. It ensures 
 No, Google Play Services cannot be uninstalled as it is a core system component required for the proper functioning of Google apps and services. Removing or disabling it can lead to malfunctions and render many Google apps non-functional. However, you can disable specific permissions or clear its cache and data if troubleshooting issues related to Google Play Services.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. How can I check the version of Google Play Services on my device?
 
 To check the version of Google Play Services on your Honor X9b, follow these steps:
@@ -417,8 +431,6 @@ There can be several reasons why a device is not compatible with the latest vers
 ## Conclusion
 
 Encountering difficulties when updating Google Play Services can be frustrating, but with the right approach, these issues can be resolved. By understanding the causes and implementing the suggested fixes outlined in this guide, you can overcome the Google Play Services update problem. Remember to prioritize storage space, ensure a stable internet connection, and keep your apps and system components up to date. By doing so, you can enjoy the full functionality of Google Play Services and benefit from the latest features and security enhancements.
-
-
 
 ## Calls on Honor X9b Go Straight to Voicemail? 12 Fixes
 
@@ -460,6 +472,10 @@ One reason calls go **straight to voicemail without ringing** is if you enabled 
 - **Step 2:** Navigate to **Supplementary services** > **Call forwarding**.
 
 ![call settings supplementary services](https://images.wondershare.com/drfone/article/2023/11/phone-go-straight-to-voicemail-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Disable Call Barring
 
@@ -560,6 +576,10 @@ And if your carrier confirms that there is no service outage or billing-related 
 
 Ringless voicemail is a service that allows businesses to bypass your phone’s ringtone and send you pre-recorded messages directly to voicemail. Ringless voicemail is often used for marketing purposes. If you think you’re receiving ringless voicemail calls, you can contact the company calling you and ask them to remove you from their list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Not Clear About the Root Cause? Troubleshoot Directly by Wondershare Dr.Fone
 
 If you’re unsure what’s causing your calls to go straight to voicemail, you can try using the [<u>Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) System Repair tool. This software can scan and repair your phone for any underlying problems, which may fix the issue and get your calls ringing again.
@@ -568,9 +588,6 @@ Dr.Fone supports over 1000 Android models, including unlocked Honor X9b models a
 
 - **Step 1:** Download Dr.Fone on your computer, then launch it once installed.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,118,635** people have downloaded it
@@ -590,6 +607,10 @@ Dr.Fone supports over 1000 Android models, including unlocked Honor X9b models a
 - **Step 5:** Select the Honor X9b device details on the **Name**, **Model**, **Country**, and **Carrier** drop-down lists. Next, select the agreement checkbox, then click **Next** to proceed.
 
 ![choose device information to repair](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Follow the in-app instructions to enter Download mode on your Honor X9b, then click **Next**.
 
@@ -625,7 +646,6 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
 
 **4,215,287** people have downloaded it
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -638,9 +658,17 @@ For a prompt solution, consider using Dr.Fone if incoming calls on your **phone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-beef-up-your-cgi-with-these-8-online-repositories-of-free-green-screens-and-clips/"><u>[Updated] 2024 Approved Beef up Your CGI with These 8 Online Repositories of FREE Green Screens and Clips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-comprehensive-tutorial-on-youtube-annotation/"><u>[Updated] Comprehensive Tutorial on Youtube Annotation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-sound-top-10-microphones-for-2024/"><u>[Updated] Mastering Sound Top 10 Microphones for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y55s-5g-2023-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo Y55s 5G (2023) Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-magic-6-lite-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor Magic 6 Lite – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pixelated-pastures-celebrating-rural-games/"><u>Pixelated Pastures Celebrating Rural Games</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-xcover-6-pro-tactical-edition-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy XCover 6 Pro Tactical Edition Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-for-5ghz-wi-fi-issues/"><u>Troubleshooting Windows 11 for 5GHz Wi-Fi Issues</u></a></li>
+</ul></div>
 

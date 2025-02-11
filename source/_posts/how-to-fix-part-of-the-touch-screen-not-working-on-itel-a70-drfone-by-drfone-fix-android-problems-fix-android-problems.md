@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Itel A70 | Dr.fone
-date: 2024-07-14T05:42:56.283Z
-updated: 2024-07-15T05:42:56.283Z
+date: 2025-02-09T22:41:43.738Z
+updated: 2025-02-11T00:02:33.353Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ You probably touch the screen of your phone hundreds of times per day. It’s no
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Is Part of My Screen Not Working
 
 There are two possible causes as to why your phone’s touch screen is not working. One is the touch screen may have been damaged, and the other is the Itel A70 device may be experiencing technical difficulties.
@@ -55,6 +52,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 - If there is a sticker on the Itel A70 device screen, you must remove it.
 - Before continuing, make sure your screen is spotless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the Itel A70 device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Itel A70’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
@@ -87,9 +88,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ****Step 3:**** When you let go of the “Power” button, press and hold the “Volume Down” button. After that, a “Safe Mode” label will appear in your screen’s lower-left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
 ### Turn Off Developer Options
@@ -128,6 +126,10 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -142,6 +144,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** Connect your Itel A70 or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -149,6 +155,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
@@ -165,6 +175,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For a device that lacks a Home button:**
 
@@ -218,6 +232,10 @@ Check below to know Dr.Fone – System Repair’s limitations:
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Itel A70 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Does My Itel A70 Keep Turning Off By Itself? 6 Fixes Are Here
 
@@ -363,8 +381,6 @@ That's all. Well, booting to Safe Mode is easy and it also helps you to identify
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a great way to back up all your data to prevent it from getting lost after resetting the phone. It works brilliantly as it backs up all data and allows users to retrieve it fully or selectively. You can backup all files from your Android to PC in just a click and restore them later. Try this software for free before purchasing it to understand it's working better. It does not tamper with your data and only requires you to follow the simple steps given below to backup your Android data:
 
-
-
 ### Wondershare Dr.Fone
 
 Flexibly Back up and Restore Android Data
@@ -385,6 +401,10 @@ Once you have the main screen of the software with multiple options that will ap
 Now connect the Android phone to the PC and make sure that USB debugging is turned on. Then hit “Back Up Now” and wait for the next screen to open.
 
 ![connect](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You will see the file types that will be backed up. Wait for the backup process to complete.
 
@@ -438,18 +458,6 @@ When a device is low on memory, it may struggle to run multiple apps simultaneou
 
 Android devices come in various models and run different operating system versions. That's why it is essential to use apps compatible with your device. Since there are a lot of Android variants, it is hard to optimize apps for all devices. An app not optimized for an Android version or device leads to crashes or malfunctions.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Outdated Apps
 
 Apps are regularly updated to introduce new features, fix bugs, and enhance performance. Using an outdated version of an app may cause instability or compatibility problems. Since the app is not optimized for the current version of Android, it can keep crashing.
@@ -466,9 +474,6 @@ Despite rigorous testing, apps can still have bugs or coding errors that lead to
 
 Once you discover why your Android apps keep crashing, fixing them becomes a lot easier. However, there is no need to worry even if you cannot locate the problem source. Below we have listed 10 general and specialized solutions to ****fix app crashing****:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Check the Internet Connection
 
 As mentioned before, some apps rely on the internet to function. If you don’t have an active internet connection, they will not work. To avoid ****the app crashing****, you need to ensure that the internet connection on your device is working. If you use Wi-Fi, check the router and turn Wi-Fi off and on again. In the case of mobile data, try enabling Airplane mode and then disabling it.
@@ -492,6 +497,10 @@ In case restarting the app hasn’t worked, you should try restarting your Itel 
 - ****Step:**** Press and hold the “Power” key until you see the power menu on the screen. Here, tap the “Restart/Reboot” button to restart your Itel A70.
 
 ![proceed with the restart option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the Android OS
 
@@ -523,9 +532,17 @@ Bugs in the app can prove a nightmare and hard to remove from the app. If your *
 
 ![choose the uninstall option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 2:**** After removing the app, go to Google Play Store and find the targeted app. Here, tap “Install” to reinstall the app on your device.
 
 ![press the install button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Check the App Permissions
 
@@ -551,9 +568,6 @@ Insufficient storage space on your device can also lead to app crashes. Check th
 
 ![check the android storage](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Reboot Into Safe Mode
 
 It can be hard to find the ****app crashing**** root cause if it happens due to conflicts between different apps. In such scenarios, the best way to find the problematic apps is to use Safe Mode on your device. Safe Mode disables all third-party apps, allowing you to determine if the crashes are caused by a specific app. Follow the process given below to reboot your device into Safe Mode:
@@ -608,9 +622,6 @@ To sum up, if your ****apps keep crashing on Android****, you can resolve it in 
 
 With its clean interface and powerful features, Wondershare Dr.Fone stands out as the best choice to fix app crashes. It provides a comprehensive toolkit to diagnose and resolve various software issues.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -623,9 +634,24 @@ With its clean interface and powerful features, Wondershare Dr.Fone stands out a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unique-perspectives-mastering-drone-footage/"><u>[New] 2024 Approved Unique Perspectives Mastering Drone Footage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-optimizing-tiktok-video-sharing-on-zoom/"><u>[New] Tips for Optimizing TikTok Video Sharing on Zoom</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unleashing-potential-top-10-ai-tools-for-podcast-titles/"><u>[New] Unleashing Potential Top 10 AI Tools for Podcast Titles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-streamlining-your-online-impact-with-correct-fb-video-dimensions/"><u>[Updated] 2024 Approved Streamlining Your Online Impact with Correct FB Video Dimensions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-seedling-selections-a-farmers-best-game-gems/"><u>2024 Approved Seedling Selections A Farmer's Best Game Gems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unveiling-the-most-compelling-ios-apps-for-psp-gaming/"><u>2024 Approved Unveiling the Most Compelling iOS Apps for PSP Gaming</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-spark-10-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Spark 10 4G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-turn-off-every-single-windows-10-operating-system-update-effectively/"><u>How To Turn Off Every Single Windows 10 Operating System Update Effectively</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-razr-40-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Razr 40 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-say-goodbye-to-color-inconsistencies-powerdirectors-best-practices-for-2024/"><u>New Say Goodbye to Color Inconsistencies PowerDirectors Best Practices for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-a34-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy A34 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-c110-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nokia C110 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia 105 Classic | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Note 30 | Dr.fone
-date: 2024-07-14T05:42:44.081Z
-updated: 2024-07-15T05:42:44.081Z
+date: 2025-02-08T20:44:00.250Z
+updated: 2025-02-10T18:28:29.890Z
 tags: 
   - problems
 categories:
@@ -86,6 +86,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -122,6 +126,10 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -149,6 +157,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Before repairing your Infinix Note 30, you must boot it into ****Download**** ****mode****. To boot your Infinix Note 30 or tablet into DFU mode, follow the steps below:
 
@@ -206,6 +218,10 @@ Check below to know Dr.Fone – System Repair’s limitations:
 - Depending on the toolkit required, the program can be costly.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -269,11 +285,19 @@ Step 1: Go to Settings > Apps > Camera > Permissions.
 
 ![camera permissions check android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Tap Camera.
 
 ![set camera permissions android](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-5.jpg)
 
 Step 3: See if the selected option is Allow Only While Using This App. If not, select it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.IV: Clear The Camera App Cache
 
@@ -282,6 +306,10 @@ Clearing the camera app cache is sometimes helpful. To do that:
 Step 1: Go to Settings > Apps > Camera and tap Storage Usage.
 
 ![clear camera app cache](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Tap Clear Cache.
 
@@ -310,6 +338,10 @@ Step 2: Tap Manage Apps and Device.
 ![check for app updates play store](https://images.wondershare.com/drfone/article/2023/06/android-camera-not-working-10.jpg)
 
 Step 3: If there are updates available, Tap Update All to update all apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.VII: Cool The Phone Down
 
@@ -351,9 +383,6 @@ Step 4: Your Android device will be detected by Dr.Fone. If anything seems incor
 
 Step 5: Your phone needs to be put into Download mode before it can be repaired. Follow the instructions shown onscreen and click Next.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set phone in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 6: Dr.Fone automatically downloads the most recent firmware for your device and when it is ready, waits for your input. Click Fix Now to start the repair process.
@@ -370,11 +399,13 @@ When the repair is complete, Dr.Fone shows the final screen as below:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 The camera app on your smartphone is one of the most important apps you use. This is not a game; this is an app that makes previous memories possible for you. So, when you get any of those incorrigible errors that are impossible to make sense of, what do you do? This guide gives you 9 fixes to fix Android camera not working error quickly and easily.
-
-
 
 ## How to Fix Error 495 While Download/Updating Android Apps On Infinix Note 30
 
@@ -402,8 +433,6 @@ Tried several methods to make the error 495 disappear, but nothing works? Well, 
 
 **Note:** _Having your Android system repaired may lose existing data on your Android. [Backup the data on your Android](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before the Android repair._
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Best tool for fundamental Android repair in one click
@@ -419,9 +448,6 @@ With [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershar
 
 1. Download, install, and launch _Dr.Fone - System Repair (Android)_. Connect your Android to your computer with a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix error 495 with Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 3. Select the option "Repair" > "Android Repair", and click "Start".
@@ -434,9 +460,6 @@ With [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershar
 
 7. Press the stated keys to boot your Android in download mode to download the firmware as instructed.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix error 495 in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 9. After the firmware is downloaded, the program will automatically start to repair your Android.
@@ -467,9 +490,6 @@ STEP 1:
 
 Go to the settings section in your device. It will be differently placed for different devices and different users.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix error 495-settings](https://images.wondershare.com/drfone/article/2017/05/14953043686356.jpg)
 
 STEP 2:
@@ -489,6 +509,10 @@ After reaching the “ALL” section tap the touch button to open menu/propertie
 There’s no need to be alarmed because on clicking the reset option, the apps won’t be deleted but it is only going to re-set them. And hence solving the Error 495 created in the Google Play.
 
 ![fix error 495-application manager](https://images.wondershare.com/drfone/article/2017/05/14952139272011.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4: Fix Error Code 495 by installing a VPN app
 
@@ -540,9 +564,6 @@ Now go ahead and re-enter/ re-register your Google account and check if the Erro
 
 Now you have completed all the steps and your problem should be solved.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 6: Fix error code 495 by Removing your Google Play Store Data & Cache
 
 One of the best and most accurate methods in the series of various steps in eradicating the Error Code 495 in Google Play Store is by removing the Google play Store Data and Cache. In order to do so follow the steps mentioned below. After following the steps it is guaranteed that the Error code 495 will be done with and you won’t experience any such problems in the future.
@@ -573,7 +594,6 @@ Doing the above steps will clear your caches of the Google Play Store. Now you h
 
 Hence in this article, we got to know about the error 495 and the possible solutions to it as well. Also, this article explains how Error code 495 can be removed by 5 different ways. These are the best ways by which you can remove or get rid of the Error Code 495. In case one of the method fails, use the other one to rectify this recurring error 495 on your Infinix Note 30.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -586,9 +606,23 @@ Hence in this article, we got to know about the error 495 and the possible solut
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unlock-speed-the-complete-handbook-on-srt-to-txt-transformation/"><u>[New] 2024 Approved Unlock Speed The Complete Handbook on SRT to TXT Transformation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-elevate-with-ig-stories-constructing-an-impactful-marketing-strategy/"><u>[Updated] In 2024, Elevate with IG Stories Constructing an Impactful Marketing Strategy</u></a></li>
+<li><a href="https://win11.techidaily.com/from-old-extensions-to-new-ones-the-windows-way/"><u>From Old Extensions to New Ones: The Windows Way</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guida-rapida-per-eseguire-il-backup-automatico-di-tutti-i-computer-in-rete/"><u>Guida Rapida per Eseguire Il Backup Automatico Di Tutti I Computer in Rete</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-a34-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy A34 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-tecno-phantom-v-fold-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Tecno Phantom V Fold Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y100a-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y100A Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-a60s-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A60s Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-storm-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Storm 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mobvoi-ticwatch-pro-3-gps-review-dual-displays-extend-battery-life/"><u>Mobvoi TicWatch Pro 3 GPS Review: Dual Displays Extend Battery Life</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-y36i-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y36i Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f14-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F14 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-your-steam-dilemma-resolving-missing-dll-files-quickly/"><u>Solve Your Steam Dilemma: Resolving Missing .dll Files Quickly!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-personal-narratives-best-practices-for-video-praise-for-2024/"><u>Transforming Personal Narratives Best Practices for Video Praise for 2024</u></a></li>
+</ul></div>
 

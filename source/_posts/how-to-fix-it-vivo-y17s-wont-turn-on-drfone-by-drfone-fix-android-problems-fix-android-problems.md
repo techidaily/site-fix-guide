@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Vivo Y17s Wont Turn On | Dr.fone
-date: 2024-07-14T05:41:29.671Z
-updated: 2024-07-15T05:41:29.671Z
+date: 2025-02-06T22:05:23.770Z
+updated: 2025-02-10T17:19:22.546Z
 tags: 
   - problems
 categories:
@@ -34,7 +34,9 @@ If you need some help rescuing data from an Android phone that will not turn on,
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -97,7 +99,9 @@ After repeated attempts, when your Android mobile/tablet stops buzzing, what opt
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -121,9 +125,6 @@ Step 1: Run Dr.Fone on your computer once the installation is complete and tap t
 
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![star to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Now, over the Vivo Y17s device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
@@ -162,6 +163,10 @@ To try fixing an Android Phone that won’t turn on, follow these steps:
 6. Should the first five steps do not work for you, perform a hard reset. Do take note that each device will have a different way to do so and that data that is stored locally on the phone will be deleted.
 7. Send your Vivo Y17s to the repair shop should none of these steps work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Useful Tips to Protect Your Vivo Y17s
 
 There are several reasons as to why your Vivo Y17s won’t turn on. The problem could be a hardware or software issue which could be prevented. Here are some useful tips to protect your Vivo Y17s.
@@ -179,8 +184,6 @@ There are several reasons as to why your Vivo Y17s won’t turn on. The problem 
 - Make sure you update your operating system, software and apps to make sure you have the latest version – the developer may have fixed the bugs that have caused problems on Android phones.
 
 It is important to note that your phone contains some important data. Therefore, when your Vivo Y17s won't turn on do not just give up - there are plenty of tools at your disposal to recover back your files and phone.
-
-
 
 ## How To Deal With the Vivo Y17s Screen Black But Still Works?
 
@@ -214,6 +217,10 @@ If you dropped your phone, there’s a high chance the LCD connectors went loose
 
 ![loose samsung galaxy lcd](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How To Fix Black Screen on Your Phone
 
 Here are four valuable methods you should know on **what to do when your phone screen goes black** on your iPhone or Android smartphone to get them working again.
@@ -228,9 +235,6 @@ Here is how you force restart an Android device when your **phone screen doesn�
 
 **Step 1**: Press and hold the **Power** and **Volume Down** buttons simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![force restart android device](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-04.jpg)
 
 **Step 2**: Hold the same buttons until your device restarts, and display the phone’s logo.
@@ -285,6 +289,10 @@ The process of booting into **Recovery Mode** is not the same across all Android
 
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/how-to-deal-with-the-phone-screen-black-but-still-works-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Simply wait for the process to complete and wait for your Vivo Y17s to restart automatically.
 
 **F****or iOS Users**
@@ -304,6 +312,10 @@ The process of booting into **Recovery Mode** is not the same across all Android
 If **your phone screen went black but still works** and doing the methods above did not solve the issue, you can use Wondershare Dr.Fone for [<u>iOS</u>](https://drfone.wondershare.com/ios-system-repair.html) and [<u>Android</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) as a last resort. It’s one of the most popular smartphone repair tools today, enabling you to fix all kinds of annoying scenarios. These include black screen, boot loop, white screen of death, bricked iOS or Android device, and more.
 
 ![drfone system repair main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -358,9 +370,6 @@ Here’s how to fix your phone screen with Dr.Fone – System Repair on iOS/Andr
 
 **Step 2B (For Android)**: Click **Start.** On the next window, choose the **Brand, Name, Model, Country,** and **Carrier** of your smartphone, then click **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone system repair for android](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **Step 3**: Follow the on-screen instructions provided on the main program window and wait for the repair process to complete.
@@ -377,6 +386,10 @@ Our increasing reliance on smartphones has led to amazing advancements in new te
 
 Doing all the recommended methods above usually solves the case. If the different fixes don’t work for you, Dr.Fone – System Repair for iOS and Android can help resolve all your problems within less than 10 minutes. You can download it for free on Windows and Mac to test it yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Restore a Bricked Vivo Y17s Back to Operation
 
 In moments of lag or freezing on your Android, you might **brick Your Vivo Y17s,** which can be unsettling. This is more than just the loss of a device. A **bricked cell phone** also involves potential data erasure. Yet, it's crucial to understand the true implications of a **bricked phone**. This page tackles how to address the issue of a bricked Android phone.
@@ -384,7 +397,6 @@ In moments of lag or freezing on your Android, you might **brick Your Vivo Y17s,
 This comprehensive guide aims to the reasons behind Android phones becoming bricked. By reading below, you'll learn effective methods to **unbrick a mobile phone** without the risk of data loss.
 
 ![man holding a bricked phone](https://images.wondershare.com/drfone/article/2023/08/how-to-restore-a-bricked-phone-01.jpg)
-
 
 ## Part 1. What are Brick Phones: At a Glance
 
@@ -427,6 +439,10 @@ Below are solutions that you can employ to fix various brick phone scenarios.
 
 A universal approach to trying to recover a **brick phone** exists for all Android phones. This is, consider restoring your device to its factory settings. You can find instructions specific to your phone model online. Although this procedure erases all your data, it's possible to regain the use of your brick phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Get in Touch With the Manufacturer (Hard Brick and Soft Brick)
 
 Normally, smartphone warranties span from 1 to 2 years. If your phone remains unrooted and falls within that coverage period, consider reaching out to the manufacturer. This direct approach could lead to your phone being repaired or replaced with a new one at no cost to you.
@@ -465,6 +481,10 @@ This software is designed to fix glitches including most modern Android devices.
 
 Dr.Fone - System Repair (Android) offers free access for you to test the initial steps and verify device compatibility. This cost-effective feature ensures value for money every step of the way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Main Advantages of Using Dr.Fone – System Repair (Android)
 
 Dr. Fone – System Repair (Android) is a great solution with numerous tools to help you manage your Vivo Y17s in various ways. Here are some of the advantages of using the app for fixing **bricked phones.**
@@ -491,33 +511,21 @@ Below are the steps to recover data on a bricked mobile phone.
 
 - **Step 4:** Once the Vivo Y17s device enters Download Mode, the firmware will automatically start downloading. Follow the on-screen prompts and wait for the system to initiate the repair process. Once it concludes, the completion message will appear on the main window. Click **Done** to close the tool or click **Try again** to repeat the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reviving brick phone process completion window](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,311,328** people have downloaded it
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Fixing a **bricked phone** may seem daunting, but solutions are within reach. This page explained the distinctions between soft and hard brick scenarios. It also identified common causes and revealed effective methods for unbricking.
 
 Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. The tool offers a comprehensive toolkit for recovery and data rescue. The power to reclaim lost data lies in your hands. Act, follow the methods outlined, and recover your brick phone.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -531,9 +539,26 @@ Among these, Dr.Fone – System Repair (Android) emerges as a dependable ally. T
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-castwatch-inspection/"><u>[New] 2024 Approved CastWatch Inspection</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-keylight-secrets-to-stellar-lighting-on-your-youtube-videos-for-2024/"><u>[Updated] Keylight Secrets to Stellar Lighting on Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-capture-and-share-immedienas-unprecedented-journey-with-dslr-and-facebook-live/"><u>2024 Approved Capture and Share Immedienas Unprecedented Journey with DSLR & Facebook LIVE</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-green-screen-essentials-your-first-step-guide-into-color-key-techniques/"><u>2024 Approved Green Screen Essentials Your First-Step Guide Into Color Key Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/all-round-kinetics-examination-2023/"><u>All-Round Kinetics Examination 2023</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-pinnacle-guide-to-choosing-top-after-effects-plugins/"><u>In 2024, The Pinnacle Guide to Choosing Top After Effects Plugins</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-edge-2023-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Edge 2023 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-reno-11-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo Reno 11 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snickerslide-lighten-up-your-online-presence/"><u>SnickerSlide Lighten Up Your Online Presence</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/stunning-samsung-galaxy-s10-wallpaper-collection-by-yl-software-unleash-your-creativity/"><u>Stunning Samsung Galaxy S10 Wallpaper Collection by YL Software: Unleash Your Creativity</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209853466-9780648147602-wake-up/"><u>Wake Up! | Free Book</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/youtube-tv-vs-hulu-live-streaming-services-a-comprehensive-guide-to-making-the-right-pick/"><u>YouTube TV Vs. Hulu Live Streaming Services - A Comprehensive Guide to Making the Right Pick</u></a></li>
+</ul></div>
 

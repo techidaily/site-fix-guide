@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Infinix Smart 8 Pro ? Fix It Easily | Dr.fone
-date: 2025-01-24T01:18:17.436Z
-updated: 2025-01-29T20:54:31.328Z
+date: 2025-02-06T02:28:48.107Z
+updated: 2025-02-10T23:01:02.575Z
 tags: 
   - problems
 categories:
@@ -45,7 +45,7 @@ Step 4: The white Google logo will appear immediately followed by the Android lo
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
@@ -101,6 +101,10 @@ After downloading, the software will automatically start to repair your device b
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -143,6 +147,10 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 Solutions to Solve YouTube App Crashing on Infinix Smart 8 Pro
 
 YouTube can be considered among the apps that are widely used by users. And seeing “Unfortunately YouTube has stopped” error on the Android display screen is a thing that you can’t stand. The reasons can be multiple for why YouTube is not working or it keeps crashing. For instance, an outdated app, not updated OS, low storage, or corrupted cache. No matter what has triggered the problem on your device, we have solutions for it. Please read and follow this article to get the problem sorted.
@@ -156,10 +164,6 @@ The issues like YouTube keeps crashing are often get disappeared by just quittin
 - Tap on “Force Close” or “Force Stop”.
 
 ![Youtube not working android - fix by restarting app](https://images.wondershare.com/drfone/article/2019/06/restart-youtube.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - You can now restart your device and then launch the app again. Check if this works or not.
 
@@ -202,10 +206,14 @@ The apps that run on the internet might start crashing due to connectivity issue
 
 ![Youtube not responding - reset network settings](https://images.wondershare.com/drfone/article/2019/06/reset-network-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** In some phones, you may find the option in “System” > “Advanced” > “Reset”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Re-flash the stock ROM of Android in one click
@@ -236,10 +244,6 @@ With the help of the USB cord, connect your Infinix Smart 8 Pro to the computer.
 
 ![Youtube not responding - connect device to pc](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Enter Information**
 
 Now, as the next step, you need to make sure of the details of your device. Please enter the name and brand of the phone. The country, region, and career are also to be added. Hit on “Next” once done.
@@ -251,6 +255,10 @@ Now, as the next step, you need to make sure of the details of your device. Plea
 Now, follow the instructions given on the screen according to your device. Click on “Next” and the program will start downloading the firmware.
 
 ![Youtube crashing on Android - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Repair the Issue**
 
@@ -321,10 +329,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Step 2:**** When the Infinix Smart 8 Pro device turns off, wait a few seconds.
 
 ****Step 3:**** Press and hold the “Power” button to restart the Infinix Smart 8 Pro device.
@@ -344,10 +348,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 ****Step 3:**** When you let go of the “Power” button, press and hold the “Volume Down” button. After that, a “Safe Mode” label will appear in your screen’s lower-left corner.
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Turn Off Developer Options
 
@@ -379,10 +379,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
@@ -402,6 +398,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** Connect your Infinix Smart 8 Pro or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
@@ -427,10 +427,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **For a device that lacks a Home button:**
 
 1. Turn off the Infinix Smart 8 Pro device.
@@ -444,7 +440,7 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Supported OS
@@ -474,10 +470,6 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -485,6 +477,14 @@ Check below to know Dr.Fone – System Repair’s limitations:
 - Depending on the toolkit required, the program can be costly.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -506,24 +506,16 @@ That’s why Dr.Fone – System Repair might be your best solution. It has all t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-stepwise-approach-to-snagging-youtube-playlists-efficiently/"><u>[New] 2024 Approved Stepwise Approach to Snagging YouTube Playlists Efficiently</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-efficient-date-adding-strategies-for-photos/"><u>[New] Efficient Date-Adding Strategies for Photos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-from-screens-to-spreads-the-dos-and-donts-of-live-blogging/"><u>[New] In 2024, From Screens to Spreads The Do's and Don'ts of Live Blogging</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-best-practices-choosing-the-top-ios-video-downloaders-on-fb/"><u>[Updated] 2024 Approved Best Practices Choosing the Top iOS Video Downloaders on FB</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-10-parody-songs-that-totally-crack-you-up/"><u>[Updated] In 2024, 10 Parody Songs That Totally Crack You Up</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oppo-reno-10-pro-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Oppo Reno 10 Pro 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-a25-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy A25 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-x90s-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo X90S Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-harmonizing-visuals-and-sounds-displaying-audio-waves-and-adding-expressive-animation-in-magix-movie-edit-pro/"><u>New In 2024, Harmonizing Visuals & Sounds Displaying Audio Waves & Adding Expressive Animation in Magix Movie Edit Pro</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-nord-n30-se-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 SE Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-find-x7-ultra-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X7 Ultra Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-s23-ultra-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy S23 Ultra? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-zte-blade-a73-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My ZTE Blade A73 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-start-simple-steps-to-sync-your-logitech-mouse-device/"><u>Quick Start: Simple Steps to Sync Your Logitech Mouse Device</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-essential-guide-fast-tracking-subtitle-creation-for-your-fb-posts/"><u>2024 Approved The Essential Guide Fast-Tracking Subtitle Creation for Your FB Posts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-guide-to-fixing-division-2s-launch-issues-pro-gamer-hacks-updated/"><u>DIY Guide to Fixing Division 2'S Launch Issues - Pro Gamer Hacks (Updated)</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2021-clearing-up-continuous-launch-hang-ups/"><u>Football Manager 2021: Clearing Up Continuous Launch Hang-Ups</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-nubia-red-magic-8s-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nubia Red Magic 8S Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-itel-p55-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Itel P55 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-sony-xperia-1-v-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Sony Xperia 1 V Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-definitive-iphone-manual-15-must-know-strategies-to-resolve-common-issues-on-any-model/"><u>The Definitive iPhone Manual: 15 Must-Know Strategies to Resolve Common Issues on Any Model</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlock-more-views-twitch-to-facebook-streaming-tips-for-2024/"><u>Unlock More Views Twitch to Facebook Streaming Tips for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/first-steps-in-online-broadcasting-via-obs/"><u>Your First Steps in Online Broadcasting via OBS</u></a></li>
 </ul></div>
 

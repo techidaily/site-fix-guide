@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Vivo Y28 5G Wont Turn On | Dr.fone
-date: 2024-07-14T05:41:35.924Z
-updated: 2024-07-15T05:41:35.924Z
+date: 2025-02-03T18:39:28.203Z
+updated: 2025-02-10T23:48:59.416Z
 tags: 
   - problems
 categories:
@@ -18,6 +18,10 @@ Did your Vivo Y28 5G decide to go on vacation and refuses to turn on? If your Vi
 
 Here, we hope we are able to give you a checklist of reasons behind this issue and the possible steps you can take to rectify it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Common Reasons That Your Vivo Y28 5G Won't Turn On
 
 If you cannot find any reason why your Vivo Y28 5G will not switch on, here are some possible reasons:
@@ -28,13 +32,15 @@ If you cannot find any reason why your Vivo Y28 5G will not switch on, here are 
 4. Your device is clogged up with dust and lint causing the hardware to not work properly.
 5. [Your power button is broken](https://www.wondershare.com/reset-android/restart-android-without-power-button.html), which caused it to not be able to trigger the necessary action needed to power up the Android phone. Check to also see if your connectors have no carbon build-up which will cause your phone to not be charged properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Rescue Data on Android Phone That Will Not Turn On
 
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -97,8 +103,6 @@ After repeated attempts, when your Android mobile/tablet stops buzzing, what opt
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 The real fix to issues like "Android phone will not switch on"
@@ -118,6 +122,10 @@ Prior to fixing the Android phone will not switch and getting things back in act
 Step 1: Run Dr.Fone on your computer once the installation is complete and tap the ‘Repair’ option form the interface. Now, connect your Android mobile with the computer.
 
 ![fix Android Phone not turn on by repairing system](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
@@ -142,6 +150,10 @@ Step 1: You need to put your Vivo Y28 5G in Download mode for resolving the Andr
 Step 2: Hitting the ‘Next’ key will allow you to download firmware and proceed with the next step.
 
 ![download firmware to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Dr.Fone - System Repair (Android) would verify your firmware download and then take a while to rectify and resolve Android Phone won't turn on issue.
 
@@ -207,9 +219,6 @@ The Google Play Services keeps stopping error is an infamous one, and it can app
 
 Regardless of what’s causing the issue on your phone, we’ve compiled a list of ten possible solutions, and you can find those below.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solutions to Try When Google Play Services Keeps Stopping
 
 There are many solutions for the issue of Google Play Services that keeps stopping. We’ve listed the most famous and effective ones, and you’ll find them below in no particular order. Try them out and see whether they fix the issue.
@@ -228,9 +237,6 @@ A factory reset on any smartphone removes all your data on the phone’s interna
 
 Your phone will now restart and start the reset process. Once the factory reset completes, your phone will look brand new, and you’ll need to install all your apps again. Moreover, your Google Play Services app will likely get fixed by this, too.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2. Update Your System
 
 As keeping your phone’s system and apps updated to the latest possible version is essential and recommended for the best performance and highest efficiency, you can try updating it to see whether it fixes your Google Play Services error. Here’s how:
@@ -241,9 +247,6 @@ As keeping your phone’s system and apps updated to the latest possible version
 
 Restarting your phone after an update, even if it doesn’t restart itself, is highly advisable, ensuring that the new updates apply without issues.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3. Revert to the Previous Version
 
 As we’ve discussed the wrong Play Services versions above, it’s worth noting that sometimes even the developers can make mistakes and roll out the wrong version for your phone. So, if you notice that the phone is getting the error after you’ve updated Google Services or the Play Store, you can quickly revert to the previous version, and here’s how:
@@ -253,6 +256,10 @@ As we’ve discussed the wrong Play Services versions above, it’s worth noting
 - **Step 3**: Restart the phone, repeat the process by clicking **Enable**this time, and restart the phone again.
 
 As these are system apps, you can’t remove them from the phone, and disabling them will only remove the updates, leaving you with a base version that came with your phone out of the box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4. Uninstall the App’s Updates and Reinstall
 
@@ -305,6 +312,10 @@ Moreover, Dr. Fone works on Android and iOS devices and can fix various phone is
 
     ![confirm android system repair](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That’s all it takes to do a system repair with Wondershare Dr.Fone. Give the software a few minutes to complete, during which your phone might restart a few times. Once it’s done, your Google Play Services app will undoubtedly work.
 
 ### 7. Clear Cache
@@ -315,6 +326,10 @@ The easiest and the most obvious fix for many Android apps is clearing the app�
 - **Step 2**: Tap **Storage**and hit the **Clear cache**
 
     ![clear app cache](https://images.wondershare.com/drfone/article/2023/06/fix-google-play-services-keeps-stopping-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: Repeat the process for the **Google Play Services**
 
@@ -355,8 +370,6 @@ Although it’s an incredibly frustrating error, the “Unfortunately, Google Pl
 
 Our list includes various fixes, from simple ones, like deleting the app’s cache and ensuring your network works fine, to more serious ones, like doing a factory reset. Alternatively, you can do a system repair with the help of Wondershare Dr.Fone, which will certainly fix the problem, but it might be a bit more complicated than cache deletion.
 
-
-
 ## [Solved] Warning: Camera Failed on Vivo Y28 5G
 
 In this article, you will learn why camera fails on Vivo Y28 5G devices, how to make camera work again, as well as a system repair tool to fix this issue in few clicks.
@@ -386,8 +399,6 @@ There might be much more reasons for the camera failed error, but these are the 
 ## Part 2: How to fix Vivo Y28 5G Camera Failed in One Click?
 
 If you are experiencing some kind of issues in your Vivo Y28 5Gs such as Vivo Y28 5G camera failed, the Vivo Y28 5G device stopped working, black screen, play store not working, etc. There is a special software is designed for such kind of issues in Android devices, i.e. dr. fone. The tool enables the users to fix various kinds of issues in the Vivo Y28 5G devices and perform a complete system repair so the Vivo Y28 5G device starts working normally.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -434,6 +445,10 @@ Has anyone ever informed you that it is absolutely necessary to keep clearing ca
 
 ![camera app](https://images.wondershare.com/drfone/article/2017/07/14997065904511.jpg "camera app")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tap on “Camera” to open the “Camera Info” screen and once you are there, hit “Clear Data” option as shown below.
 
 ![clear data](https://images.wondershare.com/drfone/article/2017/07/14997066321127.jpg "clear data")
@@ -452,11 +467,19 @@ Simply, follow the instructions given below to remove Apps from Vivo Y28 5G Devi
 
 ![installed apps](https://images.wondershare.com/drfone/article/2017/07/14997066916915.jpg "installed apps")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Now, once you select the App you want to uninstall, the App Info screen will appear. Tap on “Uninstall” option and then tap on “Uninstall” again on the pop-up message.
 
 ![uninstall app](https://images.wondershare.com/drfone/article/2017/07/14997067161727.jpg "uninstall app")
 
 The App will be removed immediately and its icon will disappear from the Home Screen and you will notice an increase in the storage capacity of your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How to fix Camera Failed error by wiping Cache Partition?
 
@@ -480,9 +503,6 @@ This method might seem tedious and time-consuming and you may also lose your dat
 
 You may try to use the camera app once the process completes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: How to fix Camera Failed error by Reset Settings?
 
 Resetting the camera settings solves the problem 9 out of 10 times and thus is worth a try.
@@ -513,9 +533,6 @@ Here are the steps to factory reset your device to fix “Warning: Camera Failed
 
 2\. Now from the list of options before you, select “Backup and reset” and move ahead.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup and reset](https://images.wondershare.com/drfone/article/2017/07/14997069833129.jpg "backup and reset")
 
 3\. Now you must first select “Factory data reset” and then tap on “Reset Device” as shown in the screenshot below.
@@ -530,7 +547,6 @@ Note: You will have to set up your Vivo Y28 5G device from scratch once it is re
 
 Warning: Camera Failed error is not a rare phenomenon and many users experience it on daily basis. So, there is no need to panic, All you need to do is carefully follow the instructions given above and repair your Camera App yourself. You do not need to seek any technical assistance for the same as the camera failed issue is not difficult to deal with. So go ahead and try these tricks to enjoy using the Camera App on your Vivo Y28 5G devices.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -543,9 +559,23 @@ Warning: Camera Failed error is not a rare phenomenon and many users experience 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-from-concept-to-measurement-configuring-and-assessing-facebooks-in-stream-ads-for-2024/"><u>[New] From Concept to Measurement Configuring and Assessing Facebook's In-Stream Ads for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tune-your-status-on-whatsapp/"><u>[New] Tune Your Status on WhatsApp</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-pick-top-10-streamers-for-cutting-edge-tv-content/"><u>[Updated] Prime Pick Top 10 Streamers for Cutting-Edge TV Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-listing-top-15-platforms-for-gopro-optimal-use/"><u>2024 Approved Exclusive Listing Top 15 Platforms for GoPro Optimal Use</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-masterclass-selecting-christian-streaming-platforms/"><u>2024 Approved Masterclass Selecting Christian Streaming Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-implemented-accessing-origin-service-restored/"><u>Fix Implemented: Accessing Origin Service Restored</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-k70-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi K70 by Name | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-itel-a60s-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Itel A60s and Browser | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-y200e-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y200e 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-tecno-pova-6-pro-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Pova 6 Pro 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-infinix-smart-8-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Smart 8 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-neo-5-se-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT Neo 5 SE Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-4-myspace-downloader-tools-for-mp4-and-mp3-extraction-get-them-free/"><u>The Ultimate List: 4 MySpace Downloader Tools for MP4 and MP3 Extraction (Get Them FREE!)</u></a></li>
+</ul></div>
 

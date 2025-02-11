@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nokia C12 Pro | Dr.fone
-date: 2024-07-14T05:43:35.152Z
-updated: 2024-07-15T05:43:35.152Z
+date: 2025-02-04T02:13:14.724Z
+updated: 2025-02-10T21:27:51.124Z
 tags: 
   - problems
 categories:
@@ -122,6 +122,10 @@ Resetting your device to its factory settings will return it to its state when y
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
 If you’ve exhausted all other options and still can’t fix your Android’s ****part of the touch screen not working**** issue, it’s time to resort to Dr.Fone – System Repair! It allows you to repair Android system issues with a single click.
@@ -134,9 +138,6 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 2:**** Connect your Nokia C12 Pro or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
@@ -216,8 +217,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Nokia C12 Pro 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## Fixes for Apps Keep Crashing on Nokia C12 Pro
 
 The rapid evolution of technology has transformed our smartphones into powerful devices. Presently, with just a few taps, they possess the ability to accomplish a diverse array of tasks. It has been possible due to the extensive availability of mobile applications. However, it can be incredibly frustrating when your favorite apps keep crashing repeatedly.
@@ -258,6 +257,10 @@ As mentioned before, some apps rely on the internet to function. If you don’t 
 
 ![check the internet connection](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Force Stop the Apps Keep Crashing
 
 If your ****apps keep crashing****, you should try force-closing the targeted app and re-opening it. Doing this will flush out minor bugs and glitches from the app. These temporary bugs and glitches can occur due to various reasons and hamper the app's working. Use the following steps to force stop the app that keeps crashing and re-open it:
@@ -275,6 +278,10 @@ In case restarting the app hasn’t worked, you should try restarting your Nokia
 - ****Step:**** Press and hold the “Power” key until you see the power menu on the screen. Here, tap the “Restart/Reboot” button to restart your Nokia C12 Pro.
 
 ![proceed with the restart option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the Android OS
 
@@ -297,6 +304,10 @@ Have you tried clearing the cache of the app that keeps crashing? The app cache 
 - ****Step 2:**** Following this, press "Storage," and on the following screen, hit “Clear Cache.” It will clean the cache for the targeted app.
 
 ![tap on clear cache button](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall the Buggy App
 
@@ -333,6 +344,10 @@ Insufficient storage space on your device can also lead to app crashes. Check th
 - ****Step 2:**** Here, you will see detailed information about everything stored on your device. If the storage space is full, remove the unnecessary data.
 
 ![check the android storage](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9: Reboot Into Safe Mode
 
@@ -378,9 +393,6 @@ Click "Start" to initiate the repair process and provide your device information
 
 Follow the on-screen instruction to activate Download Mode on your device. Wondershare Dr.Fone will download the related firmware once you have enabled Download Mode. Afterward, click "Fix Now" and confirm your action by inserting the "000000" code. Now, wait for the repair process to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on the fix now button](https://images.wondershare.com/drfone/guide/android-system-repair-6.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
@@ -418,8 +430,6 @@ From battery issues to physical damage to the Nokia C12 Pro device, there can be
 
 While you are worried about how to flash Nokia C12 Pro instantly with a single click, [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) swiftly makes its way with a galore of options for you. This amazing tool from Wondershare can fix a plethora of Android system issues such as crashing of apps, black screen of death, failed system update, etc. Moreover, it can also get your device out of boot loop, unresponsive bricked Android mobiles as well as stuck at the Nokia C12 Pro logo.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One-click solution to flash Nokia C12 Pro
@@ -432,9 +442,6 @@ One-click solution to flash Nokia C12 Pro
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step-by-step Tutorial
 
 We are going to explain how to flash a dead Android phone using a PC using Dr.Fone - System Repair (Android)
@@ -446,6 +453,10 @@ We are going to explain how to flash a dead Android phone using a PC using Dr.Fo
 Step 1: Once you have downloaded and installed Dr.Fone, launch it. From the main menu, tap on ‘System Repair’ and get your Nokia C12 Pro connected to it.
 
 ![how to flash Dead Android phone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Click ‘Android Repair’ from the available options, and then press the ‘Start’ button to fix the Dead Android phone by flashing it.
 
@@ -465,9 +476,6 @@ Step 1: It is essential to boot your Nokia C12 Pro in Download mode before repai
 
 - In the absence of a ‘Home’ button: Switch off the Android device and hold the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons for 5 to 10 seconds, then release them. Hit the ‘Volume Up’ button for entering the ‘Download’ mode.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![flash android with no home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 Step 2: Press the ‘Next’ button for initiating firmware download.
@@ -477,6 +485,10 @@ Step 2: Press the ‘Next’ button for initiating firmware download.
 Step 3: Once the firmware gets downloaded and verified Dr.Fone - System Repair (Android) starts to flash your Dead Android phone. All the Android system issues will be fixed soon after.
 
 ![dead android flashed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -594,10 +606,11 @@ The screen of your Nokia C12 Pro may be faulty, due to which it is not launching
 
 If the Android vibrates on restarting and the screen does not lighten up, the problem can be directed to a hardware fault. The screen is broken and needs physical assistance to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check and fix the screen](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 8: How to fix a dead Android phone by changing the battery
 
@@ -605,9 +618,17 @@ Another solution that can help you fix the dead Android phone is changing its ba
 
 ![replace the android battery](https://images.wondershare.com/drfone/article/2023/07/flash-dead-android-phone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 9: How to repair dead Android phone by contacting official support
 
 If you are unable to discover any proper solution for **how to flash dead Android phones,** you might have to consult the respective customer support of the Android phone manufacturers. Consult customer support to discover why the phone is dead and how it can be flashed. The respective personnel will assist you in resolving the issue, which might require monetary input from your side.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -616,7 +637,6 @@ A dead Android phone might be the cause of worry, but the techniques given above
 It has been observed that Wondershare Dr.Fone – System Repair (Android) assists in the best way. Resolve all your concerns involving your dead Android phone and flash it to make it operable again.
 
 Carefully follow the instructions given, and you will be able to reboot your dead Android phone successfully.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -630,9 +650,24 @@ Carefully follow the instructions given, and you will be able to reboot your dea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-spark-creativity-with-costless-auditory-extras/"><u>[Updated] 2024 Approved Spark Creativity with Costless Auditory Extras</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-zooms-power-play-top-methods-for-effective-format-shifting/"><u>[Updated] In 2024, Zoom's Power Play Top Methods for Effective Format Shifting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/effortless-techniques-for-saving-youtube-videos-for-2024/"><u>Effortless Techniques for Saving YouTube Videos for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-a1x-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo A1x 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/insightful-overview-how-does-google-voice-calling-compare-to-traditional-methods/"><u>Insightful Overview: How Does Google Voice Calling Compare to Traditional Methods?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/leading-screencast-tools-for-showcasing-world-of-tanks-strategies/"><u>Leading Screencast Tools for Showcasing World of Tanks Strategies</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-love-letters-for-lifes-milestones/"><u>Linguistic Love Letters for Life's Milestones</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a1-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A1 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-f04-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy F04 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/rust-development-how-to-tackle-frequent-programming-crashes-effectively/"><u>Rust Development: How to Tackle Frequent Programming Crashes Effectively</u></a></li>
+<li><a href="https://extra-information.techidaily.com/shape-shifting-pics-with-top-editors-help/"><u>Shape-Shifting Pics with Top Editors' Help</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-enex-system-files-unload-in-win11/"><u>Troubleshooting eNEX System Files Unload in Win11</u></a></li>
+</ul></div>
 

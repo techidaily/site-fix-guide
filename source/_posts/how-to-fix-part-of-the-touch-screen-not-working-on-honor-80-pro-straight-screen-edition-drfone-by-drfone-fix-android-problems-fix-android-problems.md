@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor 80 Pro Straight Screen Edition | Dr.fone
-date: 2024-07-14T05:42:18.806Z
-updated: 2024-07-15T05:42:18.806Z
+date: 2025-02-10T00:42:27.265Z
+updated: 2025-02-11T01:26:27.079Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ You probably touch the screen of your phone hundreds of times per day. It’s no
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Is Part of My Screen Not Working
 
 There are two possible causes as to why your phone’s touch screen is not working. One is the touch screen may have been damaged, and the other is the Honor 80 Pro Straight Screen Edition device may be experiencing technical difficulties.
@@ -107,9 +104,6 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -141,6 +135,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 1:**** Select the **System Repair** option from the main window after starting Dr. Fone.
 
 ![drfone system repair home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** Connect your Honor 80 Pro Straight Screen Edition or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
@@ -187,6 +185,10 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -229,7 +231,6 @@ You might find lots of people online stating I can't receive text messages on An
 
 Take a look at the sections below, and you will learn all possible things regarding the messaging application on your phone.
 
-
 ## Part 0. Symptoms and Causes of Android Not Receiving Texts
 
 The most common symptoms that would clarify that your Android messaging service is not working right are given below:
@@ -250,9 +251,6 @@ The reasons why your Android is not receiving texts are given below:
 
 Apart from all these reasons, some additional causes are also there that can lead to this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: One-click to Fix Android not Receiving Texts by Android System Repair
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/06HDyPDOBqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
@@ -260,8 +258,6 @@ Apart from all these reasons, some additional causes are also there that can lea
 If you are not willing to waste your precious time fixing the message problem, then you can switch to the top-rated Android repair tool, i.e., [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). With this software, you can easily fix issues like the black screen of death, crashing apps, can't receive text messages on Android, or failed download. If you have no idea what is causing the message app problem, you can simply think of repairing the whole Android system.
 
 You surely need to try the software as it can perform the following tasks:
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -288,6 +284,10 @@ Step 2: You will have to provide information about your device, including the br
 Step 3: Agree with the conditions and hit the Next button. The software will download the firmware package automatically. It might take a while to finish the download, and when it is finished, the repair process will be initiated automatically.
 
 ![android not receiving texts - download firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It won’t take long, and your Honor 80 Pro Straight Screen Edition will be repaired. Now you will be able to receive and send text messages without any hassle.
 
@@ -331,6 +331,10 @@ Step 1: Open the messages app and open settings. Look for an option that says �
 
 ![android not receiving texts - free up space](https://images.wondershare.com/drfone/article/2019/02/manage-SIM-card-messages.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: There, you will see the existing messages on the SIM. You can either delete all the messages or perform a selective deletion to free up space.
 
 ## Part 8: Try a Third-party Messaging App
@@ -344,17 +348,15 @@ _Further Reading: [15 Best Free Chat Apps in 2022. Chat Now!](https://drfone.won
 Another possible fix to this problem might be your phone’s battery percentage. Sometimes, when the Android is in power saving mode, it disables the default apps too. As a result, you can't even receive text messages on Android. So, when you plug in the charger, the power saving mode will be disabled, and you will get your text messages.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 10: Ensure It’s Not An iMessage From iPhone
 
 If the Honor 80 Pro Straight Screen Edition phone is not receiving texts from iPhone, then this might be a different issue. Usually, there is an option on the iPhone where they can send texts as iMessage and simple messages. If the iPhone user sends the text as iMessage, then it will not show up on the Android device. To resolve this, you have to follow the steps below:
 
 Taking the iPhone in hand makes sure that you are connected to a network. Open settings and scroll to look for the Message option. Toggle the bar next to the iMessage option to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android not receiving texts - check iphone message](https://images.wondershare.com/drfone/article/2019/02/deactivate-imessages.jpg)
 
 If the FaceTime option is also on, you might have to deactivate that too to send messages and calls as regular ones.
@@ -363,11 +365,13 @@ If the FaceTime option is also on, you might have to deactivate that too to send
 
 Updating the operating system to the latest Android version can fix some system errors which may cause the "Android not receiving texts" issue because the latest version always brings a better user experience and fix the know bugs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Now you know several methods that can work if the Android messaging app is not working.  If you experience this kind of issue with your Honor 80 Pro Straight Screen Edition, then you are most likely to resolve them with these fixes. If none of the solutions seem to fix the issue, then you can take the help of Dr. Fone - System Repair (Android) feature. With this tool, you can resolve all kinds of working issues on your device.
-
-
 
 ## Restore Missing App Icon on Honor 80 Pro Straight Screen Edition: Step-by-Step Solutions
 
@@ -376,7 +380,6 @@ The growing conversation around the **missing app icons on Android** issue has c
 After all, the presence of app icons on our Android device's home screen is important for convenient access to our frequently used applications. When your Honor 80 Pro Straight Screen Edition's icons suddenly disappear, it can leave you feeling lost about how to use and access your apps.
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your Honor 80 Pro Straight Screen Edition.
-
 
 ## Part 1: Make Sure if the Missing App Is Installed
 
@@ -419,6 +422,10 @@ If your **app icon disappeared on your Android**, you can also easily restore it
 
 ![Open the App Drawer on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Re-enable disabled app
 
 **App icons can also disappear on the Android** home screen if you unintentionally or intentionally disable them. Certain phone models even offer a functionality known as 'Freezer,' allowing users to temporarily halt the apps. While in a frozen state, the app remains inactive and doesn't appear on the home screen until you unfrozen it.
@@ -442,6 +449,10 @@ Please be mindful that performing a factory reset on Android will reset your And
 
 ![Perform a factory reset on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Fix System Error on Android Easily with Reliable Software
 
 **Missing app icons on Android** can sometimes be a result of errors in your Android system launcher, causing inconvenience and potential disruptions to your device's operation. To address this issue effectively, you can turn to Dr.Fone's advanced system repair tool. This tool is designed to handle various system issues, providing an easy and reliable solution.
@@ -453,6 +464,10 @@ How to fix the Android system using Dr.Fone’s system repair tool:
 Start by launching Wondershare Dr.Fone on your computer. Go to the Toolbox section and connect your Honor 80 Pro Straight Screen Edition. Choose System Repair and pick Android as your device type.
 
 ![Open Dr.Fone System Repair to fix the missing app icon](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
@@ -490,12 +505,15 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 
 [<u>Authentication Error Occurred? Here Are 10 Proven Fixes</u>](https://drfone.wondershare.com/android-issue/authentication-error.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 When the **app disappears from the home screen of your Android**, it can hinder your ability to access and use the app efficiently. There are several reasons why an app might disappear from your Android home screen, and addressing the issue depends on the specific circumstances.
 
 Whether it's due to accidental deletion or a system glitch, we have discussed various methods to recover the missing app and ensure smooth functionality in this article. In cases of system-related issues on your Honor 80 Pro Straight Screen Edition, it's advisable to rely on trustworthy software such as Dr. Fone's system repair tool for a comprehensive resolution.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -509,9 +527,24 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-expert-tips-efficiently-download-igtv-on-windows-and-macos-for-2024/"><u>[New] Expert Tips Efficiently Download IGTV on Windows & MacOS for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/evolutionize-your-content-delivery-with-live-streaming-expertise-for-2024/"><u>[New] Revolutionize Your Content Delivery with Live Streaming Expertise for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-must-watch-alternatives-to-top-films-for-2024/"><u>2023'S Must-Watch Alternatives to Top Films for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/acquire-mova-media-editor-safely-at-unbeatable-prices-with-simova-converter-deal/"><u>Acquire MoVa Media Editor Safely at Unbeatable Prices with SiMOVA Converter Deal!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-ranking-top-8-budget-friendly-srt-apps/"><u>In 2024, The Ultimate Ranking Top 8 Budget-Friendly SRT Apps</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/in-depth-official-guide-winxvideo-ai-features-and-technical-specifications/"><u>In-Depth Official Guide: WinXVideo AI Features and Technical Specifications</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kensuns-top-notch-compact-tire-pump-durability-meets-portability/"><u>Kensun's Top-Notch Compact Tire Pump: Durability Meets Portability</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-productivity-the-ultimate-guide-to-using-slack-at-work/"><u>Maximizing Productivity: The Ultimate Guide to Using Slack at Work</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-realme-c67-4g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme C67 4G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-poco-x5-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Poco X5 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-note-12-pro-4g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 12 Pro 4G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-ai-potential-in-home-improvement-and-crafts-with-the-upcoming-gpt-4/"><u>Unleashing AI Potential in Home Improvement and Crafts with the Upcoming GPT-4</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Itel P55 | Dr.fone
-date: 2024-07-14T05:43:00.828Z
-updated: 2024-07-15T05:43:00.828Z
+date: 2025-02-06T02:28:33.382Z
+updated: 2025-02-11T02:27:11.685Z
 tags: 
   - problems
 categories:
@@ -31,6 +31,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - LG screen is unresponsive to touch
 - Itel P55 ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
@@ -144,6 +148,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
@@ -207,18 +215,12 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Itel P55 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Full Solutions to Fix Error Code 920 In Google Play on Itel P55
 
 If you are using an Android device, you might have encountered the error code 920 in Google Play Store. This error usually occurs when you are trying to download or update an app from the Google Play Store. The error code 920 can be quite frustrating, as it prevents you from downloading or updating your favorite apps. However, there are several ways to fix this error and get your apps back up and running. In this article, we will show you some of the best solutions to fix error code 920 in Google Play Store on Itel P55.
@@ -235,6 +237,10 @@ Trust me, once you face an error it’s frustrating until you find a solution to
 Sometimes people think that they have endangered the fate of humanity because of the error that is being displayed (Just Kidding). Don’t worry you haven’t crashed any server or did any damage to your device but you just gave your device a lot of work. Before you got this error you were downloading a lot of apps right. Well, that’s the exact reason why you came up with this error in the first place. There are various reasons behind this error code 920, however, the prominent ones are –
 
 ![error code 920](https://images.wondershare.com/drfone/article/2017/06/14985021968933.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - a. Too much load on your data connection.
 - b. The cache is not cleaned. Thus the connection is getting hampered due to overload.
@@ -276,6 +282,10 @@ Then connect your Itel P55 using the official cable and select the ‘Android Re
 
 ![select android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #3** On the next screen, insert your device information to ensure you’re downloading the correct firmware.
 
 ![device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -298,9 +308,6 @@ Step 3 - Uninstall it or even uninstall all the update (If the error came when y
 
 Step 4 - Now you clear the task manager and try installing it once again. If the play store error 920 doesn’t come then you have solved the problem and now wasn’t that easy. So it’s always best to try this step before doing anything else.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![error code 920-install apps](https://images.wondershare.com/drfone/article/2017/06/14985022232651.jpg)
 
 #### **METHOD 3: Switching off and turning the wifi (cellular data) on**
@@ -340,6 +347,10 @@ Step 3 - In that section find the account you use for the play store or the acco
 Step 4 - Now you have successfully removed your account and after that re-add your account. After entering your email id and password and hence adding your account. Go back to the play store and find the application that you were downloading or updating when the error code 920 came in. Now re-install it or update it back again. This time you won’t be faced with the play store error 920.
 
 ![error code 920-remove account](https://images.wondershare.com/drfone/article/2017/06/14985022914137.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Again it is best if you follow the methods as illustrated above for removing error code 920 and this might have solved your problem by now. If now, you go for a complete factory reset, do it only at the extreme stage as this will delete all your personal data.
 
@@ -389,6 +400,10 @@ A most effective method to fix Google Play Store not working
 1. The downloaded firmware will be loaded and flashed to your Itel P55 to fix the Google Play Store not working issue.
 
 ![fix google play store stopping by flashing firmware](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Wait until the Android repair process is complete. Start your Android and Google Play Store, you can then find that the Google Play Store not working issue no longer exists.
 
@@ -478,9 +493,6 @@ Step 4 – After that, try to open any app that requires Google Play store to op
 
 After installing, your problem might be solved by now. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Clear Google Service Framework Cache
 
 Besides the Google Play store, this is important to keep healthy the Google Service Framework as well. The cache and unnecessary data should be removed from there also. Follow the steps below.
@@ -493,7 +505,15 @@ Step 3 – Now, tap on “Clear cache”. And you are done.
 
 ![tap on “Clear cache”](https://images.wondershare.com/drfone/article/2017/06/14985037595737.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now go back and try to open Google Play store again. This might solve the Google Play Store has stopped the problem by now. If not, check the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Disable the VPN
 
@@ -519,10 +539,11 @@ Step 2 – Now find “Google Play Store” and click on it.
 
 Step 3 – Here click on “Force Stop”. This allows the Google Play Store to stop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on “Force Stop”](https://images.wondershare.com/drfone/article/2017/06/14985037034838.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, try to open Google Play store again and this time the service is being restarted and might work properly. If not, try the next solution.
 
@@ -550,12 +571,13 @@ Step 3 – Now confirm your action and tap on the “Reset device”.
 
 ![tap on “Reset device”](https://images.wondershare.com/drfone/article/2017/06/14985039036497.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This will take a while to reset your device completely. After completion, start the Google Play Store and set up as a new device.
 
 The above methods are the best 11 among all the solutions you can get for your Play Store not working on wifi or Play Store crashing error. Try one by one and you might get rid of this problem.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -569,9 +591,21 @@ The above methods are the best 11 among all the solutions you can get for your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-depth-theta-s-evaluation-overview-for-2024/"><u>[Updated] In-Depth Theta S Evaluation Overview for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-optimize-chromes-voice-the-best-web-based-vocal-modification-apps-for-2024/"><u>[Updated] Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-your-signature-starts-here-free-modifiable-logos-to-define-brands/"><u>2024 Approved Your Signature Starts Here Free, Modifiable Logos to Define Brands</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-x100-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo X100 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-directed-focus-youtubes-easy-ways-for-smoother-borders/"><u>In 2024, Directed Focus YouTube's Easy Ways for Smoother Borders</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-tecno-camon-20-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Tecno Camon 20 Pro 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/lost-iphone-passcode-learn-how-to-factory-reset-without-data-loss/"><u>Lost iPhone Passcode? Learn How to Factory Reset Without Data Loss</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c02-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C02 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-c55-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco C55 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-g2-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo G2</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor 70 Lite 5G? | Dr.fone</u></a></li>
+</ul></div>
 

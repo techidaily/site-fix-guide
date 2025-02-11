@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Motorola Moto G84 5G | Dr.fone
-date: 2024-07-14T05:43:29.388Z
-updated: 2024-07-15T05:43:29.388Z
+date: 2025-02-08T02:12:44.128Z
+updated: 2025-02-10T23:51:24.750Z
 tags: 
   - problems
 categories:
@@ -56,6 +56,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 
 If you have already tried running the Motorola Moto G84 5G device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Motorola Moto G84 5G’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -86,9 +90,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -118,6 +119,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -242,9 +247,6 @@ Apps are regularly updated to introduce new features, fix bugs, and enhance perf
 
 Some apps rely heavily on network connectivity to function properly. They need a stable and strong internet connection to perform all the functions. These apps can crash if there are network connectivity issues, such as a weak Wi-Fi or network outage. Unstable connections can disrupt data transmission, making the app's function challenging.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### App Bugs
 
 Despite rigorous testing, apps can still have bugs or coding errors that lead to crashes. Bugs in apps can occur due to various reasons. It mostly relates to incorrect implementation of features or unexpected user interactions. App developers work to identify and fix these bugs, often releasing updates.
@@ -285,6 +287,10 @@ Not updating your Android OS for a long while can cause many performance issues 
 
 ![tap on download and install](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 2:**** During the update process, ensure you have a stable internet connection. Moreover, your device should be fully charged to avoid any complications.
 
 ### Fix 5: Clear the App Cache
@@ -319,6 +325,10 @@ Sometimes, app crashes can occur due to improper or conflicting permissions. Whe
 
 ![tap on the apps option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - ****Step 2:**** On the App Info screen, press “Permissions” to access all permission settings. Here, ensure that your app has the required permissions.
 
 ![access the app permissions](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-10.jpg)
@@ -342,6 +352,10 @@ It can be hard to find the ****app crashing**** root cause if it happens due to
 - ****Step 1:**** Press and hold the “Volume Down” and “Power” buttons together for 3 seconds to access the power menu. Here, long-press the “Power Off” option.
 
 ![hold the power off option](https://images.wondershare.com/drfone/article/2023/05/apps-keeps-crashing-android-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - ****Step 2:**** Press the “Power Off” button until “Restart in Safe Mode” appears on the screen. Now reboot the Motorola Moto G84 5G device into Safe Mode. To exit Safe Mode, you will need to restart the phone.
 
@@ -389,9 +403,6 @@ To sum up, if your ****apps keep crashing on Android****, you can resolve it in 
 
 With its clean interface and powerful features, Wondershare Dr.Fone stands out as the best choice to fix app crashes. It provides a comprehensive toolkit to diagnose and resolve various software issues.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Fix Unresponsive Touch Screen on Motorola Moto G84 5G
 
 With the increase in our reliance on smartphones, having **touchscreen problems** on your device can be annoying. Sometimes, it’s even more frustrating than a physically broken screen because you don’t know where the issue is coming from.
@@ -399,6 +410,10 @@ With the increase in our reliance on smartphones, having **touchscreen problems*
 If your **touchscreen is malfunctioning** or doesn’t work correctly, you cannot interact with your device. On this page, you’ll learn general **phone touch problems** on Android and how to get rid of them. Now explore the article to learn more.
 
 ![android screen problems intro](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Is My Android Experiencing Touch Screen Problems
 
@@ -468,15 +483,16 @@ Placing your Android into **Recovery Mode** is different depending on your Andro
 
 ![android recovery mode 02](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Wait for the process to complete and for your Motorola Moto G84 5G to restart automatically.
 
 ### Method 7: Replace Your Android Touchscreen
 
 If doing all the earlier workarounds and fixes couldn’t resolve the **touchscreen problem,** it could be the screen itself. While replacing the touchscreen yourself is possible if you have the technical know-how, it’s still best to bring it to a professional to prevent further damage. You should have your Motorola Moto G84 5G checked by a technician if the screen is getting weak, has water damage, or has failing screen components.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![图像](https://images.wondershare.com/drfone/article/2023/03/general-android-touchscreen-problems-and-methods-of-resolving-them-08.jpg)"
 
 ### Method 8: Bring it to an Authorized Service Center
@@ -488,6 +504,14 @@ Your **phone touch problem** might not be caused by the screen, even when you ha
 If all the general **phone touch problems** on your Motorola Moto G84 5G persist, you should strongly consider [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) to do the job. The program can fix all Android system issues without any required skills. Problems caused by the operating system or software, such as the black screen of death, boot loop, ghost touch, and more, are done within less than 10 minutes with the program.
 
 ![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -543,18 +567,14 @@ If you continue using a smartphone with a cracked screen, there are several impl
 
 If you can’t take your cracked screen to a repair shop, apply a small amount of vegetable oil or petroleum jelly to the screen. Doing this will not fix the issue but will make the cracks less noticeable. On the other hand, you can also apply a screen protector to safeguard your phone against further damage. The screen protector slows down or prevents the cracks from getting worse.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Can I Use Dr.Fone for Free?
 
 You can download and install Dr.Fone – System Repair (iOS) or (Android) for free to evaluate the program’s offerings. You can do the first few steps to see if the app supports your device. However, you need to get the full version and enter a valid license code to repair your smartphone.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 **4,471,551** people have downloaded it
@@ -564,9 +584,6 @@ You can download and install Dr.Fone – System Repair (iOS) or (Android) for fr
 If the **touchscreen is malfunctioning** on your smartphone, one of the fixes above should help solve the problem. If it did not solve the issue, consider using Dr. Fone – System Repair for iOS or Android when you need an all-in-one solution to all your phone screen problems.
 
 However, if your screen is broken or cracked, going to an authorized service center is still your best bet, especially when your screen urgently needs a replacement. Delaying it further may hurt your wallet in the long run, so it’s best to fix it as soon as possible.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -580,9 +597,21 @@ However, if your screen is broken or cracked, going to an authorized service cen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-introducing-the-ultimate-intro-edits-app-of-2023/"><u>[New] 2024 Approved Introducing the Ultimate Intro Edits App of 2023</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-discover-the-safest-video-call-options-for-your-smartphone-or-tablet/"><u>[Updated] Discover the Safest Video Call Options for Your Smartphone or Tablet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/10-game-changing-ways-for-designing-cover-art/"><u>10 Game-Changing Ways for Designing Cover Art</u></a></li>
+<li><a href="https://network-issues.techidaily.com/combatting-windows-11-screen-fluctuations/"><u>Combatting Windows 11 Screen Fluctuations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-when-discords-speaking-channel-malfunctions-expert-tips-and-tricks/"><u>Fixes for When Discord's Speaking Channel Malfunctions – Expert Tips and Tricks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-13t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-5-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 5 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-s24plus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy S24+ Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-meizu-21-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Meizu 21 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-guide-to-sims-4-gameplay-recording/"><u>Step-by-Step Guide to Sims 4 Gameplay Recording</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-how-to-restore-and-repair-broken-picture-files/"><u>Ultimate Guide: How to Restore and Repair Broken Picture Files</u></a></li>
+</ul></div>
 

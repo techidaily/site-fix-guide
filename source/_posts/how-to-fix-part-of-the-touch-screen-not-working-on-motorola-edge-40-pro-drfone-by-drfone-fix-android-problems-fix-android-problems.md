@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Motorola Edge 40 Pro | Dr.fone
-date: 2024-07-14T05:43:19.630Z
-updated: 2024-07-15T05:43:19.630Z
+date: 2025-02-07T18:06:35.777Z
+updated: 2025-02-10T21:26:51.261Z
 tags: 
   - problems
 categories:
@@ -65,6 +65,10 @@ When your touch screen stops working, the first thing you should do is restart y
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** When the Motorola Edge 40 Pro device turns off, wait a few seconds.
 
@@ -160,6 +164,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![download mode repair android with home button](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For a device that lacks a Home button:**
 
 1. Turn off the Motorola Edge 40 Pro device.
@@ -213,11 +221,13 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Motorola Edge 40 Pro 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## 9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola Edge 40 Pro
 
 “Unfortunately TouchWiz home has stopped” is the talk of the town due to annoying TouchWiz UI, a front-end user interface developed by Motorola Edge 40 Pro. Not to mention, the Motorola Edge 40 Pro has borne a whole lot of heat from its agitated users over the years and the reason is pretty much obvious due to the pre-installed bloatware apps and the theme launch “TouchWiz home”. That not just brutally annoys users and eats up a heck of internal storage space but lags up too often due to low speed and stability. As a result users end up with “Unfortunately TouchWiz home has stopped” and “Unfortunately, TouchWiz has stopped”. Apparently, there are several flaws in the design and functioning of this launcher and hence, Touchwiz keeps stopping or becomes unresponsive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Common scenarios when TouchWiz keeps stopping
 
@@ -229,11 +239,17 @@ Here in this section, we will introduce some scenarios that can be blamed for wh
 
 ## Part 2: 9 Fixes to “Unfortunately TouchWiz has stopped”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix “TouchWiz keeps stopping” by repairing Android system
 
 When your **_TouchWiz keeps stopping_** and you aren’t able to proceed further, the best way to handle the situation is to repair the Android system. And the best that can help you to serve the purpose is Dr.Fone - System Repair (Android). It has the ability to fix any sort of Android system issue without any complications. To fix this issue, the tool only takes few minutes of yours and performs smoothly. Moreover, you don’t have to worry if you aren’t tech pro. This tool requires no special technical know-how. Here are the advantages you get with this tool.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -283,6 +299,10 @@ You will get some instructions on your screen to keep your device in Download mo
 
 ![download mode to fix touchwiz home stopping](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7: Repair Device**
 
 Now, when the firmware is downloaded, the program will itself begin to repair your device. Wait and keep the Motorola Edge 40 Pro device connected until you get the notification for process completion.
@@ -305,6 +325,10 @@ Maximum Android devices are designed to deleted cache data upon getting updated 
 
 Please note that this will delete all your Home screens post this method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disable Motion & gesture settings
 
 The functions regarding Motions and Gestures can be responsible for why **_TouchWiz home has stopped_** in your device. Usually the Motorola Edge 40 Pro devices running on Android version less than Marshmallow are prone to encountering this issue. Or the Motorola Edge 40 Pro devices having modest specs often fall prey to the issue. When you disable these settings, you might get out of the problem.
@@ -322,9 +346,6 @@ In case the above steps didn’t figure out the problem, here is the next tip. T
 - Keep doing this until you see the Android screen. This will take your device into recovery mode.
 - You will observe some options on the screen. Take help of Volume buttons, scroll down to choose “Wipe Cache Partition”. Press Power button to confirm and the Motorola Edge 40 Pro device will be rebooted.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![clear cache partition](https://images.wondershare.com/drfone/article/2019/02/clear-cache-partition.jpg)
 
 Check now if the error is eliminated. If unfortunately not, please try the following solution.
@@ -350,9 +371,6 @@ Here is the next solution to be followed when TouchWiz keeps stopping. As we alr
 - Keep holding until rebooting finishes.
 - You will now witness “Safe mode” on the bottom screen. You can now release the button.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe mode](https://images.wondershare.com/drfone/article/2019/02/enable-safe-mode.jpg)
 
 ### Reset Factory settings
@@ -368,6 +386,10 @@ Along with this, we would also suggest you go take backup of your data so that y
 ![reset factory settings](https://images.wondershare.com/drfone/article/2019/02/reset-factory-settings.jpg)
 
 - Wait a few minutes and your device will reboot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Install a new launcher to replace TouchWiz
 
@@ -399,9 +421,6 @@ Now, this is a more severe situation. In this case, your **bricked Motorola Edge
 - Thesoftware and hardware have significant problems, making the Motorola Edge 40 Pro device unresponsive.
 - Your device won't turn on and might not show any signs of life.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bricked Motorola Edge 40 Pro](https://images.wondershare.com/drfone/article/2023/08/system-repair-software-for-samsung-bricked-02.jpg)
 
 ### Common Causes of a Brick Motorola Edge 40 Pro
@@ -422,6 +441,10 @@ If you're trying to tweak your device's software without proper knowledge, you m
 
 So, why is it important to know all this? Well, a bricked device isn't just frustrating; it can disrupt your daily life. You won't be able to use your device, access your apps, or even make calls. That's why unbricking is crucial.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Top Android System Repair Software
 
 Now that you've grasped the concept, let's dive into how to **unbrick a Motorola Edge 40 Pro**. That's where Android system repair software comes in. These clever programs are like doctors for your device's software. They diagnose and fix issues to keep your appliance running smoothly. Let's explore the cream of the crop when it comes to these software solutions:
@@ -430,9 +453,6 @@ Now that you've grasped the concept, let's dive into how to **unbrick a Motorola
 
 Dr.Fone - System Repair (Android) is like a magic wand for your Motorola Edge 40 Pro device. It's designed to rescue your device from troubles and make it run smoothly again. Dr.Fone - System Repair (Android) is built to  fix various issues, including a bricked device. It can resolve problems like [<u>black screens</u>](https://drfone.wondershare.com/iphone-problems/iphone-13-black-screen.html), frozen devices, boot loops, and even devices stuck in recovery mode.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - System Repair (Android)
@@ -514,6 +534,10 @@ This tutorial will show you how Dr.Fone can remove the **brick from a Motorola E
 ![drfone firmware ready android](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 - **Step 7:** The prompt window will show the completion message. If the Android device boots normally, you can close the tool by clicking the **Done** button. Press the **Try Again** button to try powering on the Motorola Edge 40 Pro device again if it does not turn on automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### <u>Repair System &amp; Phone Master</u>
 
@@ -636,9 +660,6 @@ If you're unsure about a particular action, seek help from experts. Trying to fi
 
 By following these easy tips, you can keep your Motorola Edge 40 Pro device running smoothly and avoid the hassle of dealing with a bricked device. Always remember, prevention is better than cure!
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Conclusion
@@ -646,7 +667,6 @@ By following these easy tips, you can keep your Motorola Edge 40 Pro device runn
 Encountering a **bricked Motorola Edge 40 Pro** device can be a frustrating roadblock. However, there's a silver lining – the power of an Android system repair software like Dr.Fone – System Repair (Android). This user-friendly tool acts as your device's superhero, rescuing it from the clutches of bricking incidents.
 
 So, whether your device is experiencing a soft brick or a hard brick, you now have the best tools and knowledge to overcome it. Dive into the Android system repair software world, explore your options, and bid farewell to brick. Welcome a revived, functioning Motorola Edge 40 Pro device into your daily life.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -660,9 +680,20 @@ So, whether your device is experiencing a soft brick or a hard brick, you now ha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-made-easy-your-guide-to-adding-and-sharing-gifs/"><u>[New] Snapchat Made Easy Your Guide to Adding and Sharing Gifs</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-intriguing-aspects-of-todays-gaming-apps/"><u>Discover the Intriguing Aspects of Today's Gaming Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-solution-to-get-your-astro-a50-headphones-mic-working-again/"><u>DIY Solution to Get Your Astro A50 Headphones' Mic Working Again!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y27s-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y27s Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-find-x7-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo Find X7 Phone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monitor-realignment-for-fullscreen-windows-11/"><u>Monitor Realignment for Fullscreen Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/past-perspectives-unencumbered-visual-splendors/"><u>Past Perspectives Unencumbered Visual Splendors</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-x50-gt-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor X50 GT? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/selecting-the-perfect-trading-venue-a-comprehensive-guide-from-yl-computing/"><u>Selecting the Perfect Trading Venue: A Comprehensive Guide From YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877175-9781609253936-the-luminaries/"><u>The Luminaries | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transforming-ordinary-interviews-into-impactful-experiences/"><u>Transforming Ordinary Interviews Into Impactful Experiences</u></a></li>
+</ul></div>
 

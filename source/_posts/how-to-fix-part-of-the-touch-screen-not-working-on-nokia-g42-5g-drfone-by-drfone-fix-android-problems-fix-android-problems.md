@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nokia G42 5G | Dr.fone
-date: 2024-07-14T05:43:39.900Z
-updated: 2024-07-15T05:43:39.900Z
+date: 2025-02-09T17:21:18.047Z
+updated: 2025-02-10T16:28:38.100Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ You probably touch the screen of your phone hundreds of times per day. It’s no
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Is Part of My Screen Not Working
 
 There are two possible causes as to why your phone’s touch screen is not working. One is the touch screen may have been damaged, and the other is the Nokia G42 5G device may be experiencing technical difficulties.
@@ -88,6 +85,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 ****Step 3:**** When you let go of the “Power” button, press and hold the “Volume Down” button. After that, a “Safe Mode” label will appear in your screen’s lower-left corner.
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn Off Developer Options
 
@@ -202,9 +203,6 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -244,6 +242,10 @@ There could be plenty of reasons for getting the process system is not respondin
 
 No matter what the cause is, there are plenty of ways to overcome this issue. We have listed a handful of them in this post.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fix Android Process Not Responding? 8 Fixes
 
 When this error occurs, it can disrupt the normal operation of the Nokia G42 5G device, causing apps to freeze or crash. Fortunately, there are several effective methods to address this problem.
@@ -258,9 +260,6 @@ If it won’t work, then long press the Power and Volume up buttons at the same 
 
 ![force restart android](https://images.wondershare.com/drfone/article/2023/07/process-system-isnt-responding.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reset App Preferences
 
 Sometimes the apps interfere with the Nokia G42 5G device's settings because they were given permission to access specific functions. It is recommended to allow the asked permission precisely because some suspicious apps can also steal your sensitive data. Here are the straightforward instructions you need to follow to reset the app preferences:
@@ -268,6 +267,10 @@ Sometimes the apps interfere with the Nokia G42 5G device's settings because the
 Proceed to the “Apps and Notifications” settings from the Settings app. Next, tap the “See All Apps” option and access the “Three Dots” menu. Here select the “Reset App Preferences” option and confirm the process from the confirmation pop-up.
 
 ![reset the app preferences](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Free Up Space to Make Sure Android Have Enough Internal Memory
 
@@ -287,9 +290,6 @@ This issue can also occur if you have installed an app from the Google Play Stor
 
 Press and hold the “Power” button of your Android and press and hold the “Power Off” option to access the “Safe Mode” feature. Afterward, confirm to enter the safe mode and remove all the suspicious apps from the Nokia G42 5G device. You can do this by holding on to the app and selecting the “Uninstall” option from the pop-up options.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn on the safe mode](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-4.jpg)
 
 ### Fix 5: Update All Apps on your Device
@@ -304,6 +304,10 @@ Updating the apps is crucial for any Android device to work with high efficiency
 
 ![update the pending updates](https://images.wondershare.com/drfone/article/2023/08/fix-process-system-not-responding-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Check the SD card
 
 If you are still getting the **process system isn’t responding** to Android error, then chances are that there could be an issue with your SD card. Firstly, check if your SD card is working fine or not. If it is corrupted, then get another memory card for your phone. Also, it should have a prominent amount of free storage. You might be facing this issue if the SD card has limited free space.
@@ -317,8 +321,6 @@ Also, if you are storing apps on the SD card, then your phone might encounter th
 If all the above tricks don't get your device out of the process system not responding state, then there may be some system issues on your Android. In this case, an Android repair can successfully fix issues like process system isn't responding.
 
 **Note:** _Android repair may wipe out existing Android data. [Back up your Android data](https://drfone.wondershare.com/iphone-backup-and-restore.html) before going on._
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -343,9 +345,6 @@ Android repair tool to fix all Android system issues in one click
 
 - 3\. Select and confirm the correct device details of your Android. Then boot your Nokia G42 5G in download mode and proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix process system not responding in download mode](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 - 4\. Download the firmware and click "Fix Now".
@@ -362,7 +361,9 @@ Android repair tool to fix all Android system issues in one click
 
 It is always considered the most used way to factory reset your phone in order to resolve the process system not responding error. Though, this should be your last resort, as it will wipe off your device’s data entirely. Even if you are performing a factory reset, make sure that you back up your data by using a reliable tool like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/).
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Wondershare Dr.Fone
 
@@ -397,19 +398,25 @@ This will generate a warning message regarding all the repercussions of the unro
 
 ![continue unroot](https://images.wondershare.com/drfone/article/2017/06/14980671247132.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you are using an older version of Android, then you might get another pop-up to restore boot images. Simply make the desired selection and start the process. After a while, your device would be restarted the usual way, and it would be unrooted. Most probably, this will resolve the process system isn’t responding error as well.
 
 ![restore stock boot image](https://images.wondershare.com/drfone/article/2017/06/14980671431228.jpg)
 
 Now that you know different ways to fix the **process system not responding** error, you can easily overcome this issue and make the most out of your device. Simply start with the easy fixes, and if they don’t work, then take extreme measures like unrooting your device or restoring it to factory setting. Also, make sure to back up your data before taking any extreme measures.
 
-
-
 ## Reasons for Nokia G42 5G Stuck on Startup Screen and Ways To Fix Them
 
 There are many reasons why ****phones get stuck on the boot screen****. It could be something as simple as physical damage or more complicated related to software problems. Having your ****phone stuck on the logo**** screen, or boot screen is annoying, and it is no surprise that people will find ways to fix this issue when encountered.
 
 ![samsung stuck on boot screen](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This article will share the possible reasons why your ****phone is stuck on the boot screen****. This article will share three possible reasons for this problem and three valuable tips to help fix this issue. If all else fails, there is an application that is recommended and is sure to solve your issue in no time. Keep on reading to find out more!
 
@@ -430,6 +437,10 @@ Even the tiniest water droplet that seeped into your phone could damage the inte
 For iPhone users, look for the water damage indicator. If you see that it has turned from white to red, it has suffered from water damage. You have two options if your phone has suffered liquid damage. One is dismantling your phone and letting it dry for at least 48 hours. Two is bringing your phone to a repair shop to fix it.
 
 ![iphone water indicator](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Software Issues
 
@@ -460,6 +471,10 @@ Here is a step-by-step process for putting your Nokia G42 5G or Redmi smartphone
 ****Step 2****:Hold the Volume Up and the Power buttons at the same time, then release the keys when the Main menu of Recovery mode appears on the screen.
 
 ![xiaomi recovery mode operation](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3****: You can use the volumes buttons to navigate up and down and press the Power key to confirm the selection.
 
@@ -505,6 +520,10 @@ The following steps will show you how to use Dr.Fone to perform system repair on
 
 ****Step 6****: Wait for the process to complete, and a new firmware will be updated on your device. Power on your phone and check if the issue still exists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Frequently Asked Questions
 
 The following are interesting and frequently asked questions about how to solve boot loops.
@@ -535,7 +554,6 @@ This article summarizes some of the possible reasons why your ****phone is stuck
 
 Dr.Fone-System Repair repairs the operating system issues and fixes the issue with your phone. Once you power on your phone again, you can rest assured that it will be like new.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -548,9 +566,26 @@ Dr.Fone-System Repair repairs the operating system issues and fixes the issue wi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-sdk-innovations-for-android-the-updated-rankings-of-facebook-video-downloading-tools-for-2024/"><u>[Updated] SDK Innovations for Android The Updated Rankings of Facebook Video Downloading Tools for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-tips-for-repairing-a-damaged-pc-via-conversations-with-chatgpt/"><u>Expert Tips for Repairing a Damaged PC via Conversations with ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-support-for-emoji-15-on-windows-11/"><u>How to Enable Support for Emoji 15 on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-zero-5g-2023-turbo-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Zero 5G 2023 Turbo Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-a23-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy A23 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-change-location-on-yik-yak-for-your-google-pixel-8-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Google Pixel 8 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-collaborative-screen-recording/"><u>In 2024, Collaborative Screen Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinterest-vid-extraction-made-easy-the-best-tools-ranked/"><u>In 2024, Pinterest Vid Extraction Made Easy The Best Tools Ranked</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-srt-from-a-securely-packed-zip-file/"><u>In 2024, Unlocking SRT From a Securely Packed Zip File</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-g22-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia G22 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-ms-store-apps-steps-for-windows-1011-users/"><u>Reviving MS Store Apps: Steps for Windows 10/11 Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m34-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M34 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761795-9781591798590-the-mystery-of-2012/"><u>The Mystery of 2012 | Free Book</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/transform-youtube-live-with-these-must-know-secrets-for-2024/"><u>Transform YouTube Live with These Must-Know Secrets for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-newest-nvidia-rtx-3080-drivers-supports-windows-11-8-and-7/"><u>Update to the Newest NVIDIA RTX 3080 Drivers: Supports Windows 11, 8 & 7</u></a></li>
+</ul></div>
 

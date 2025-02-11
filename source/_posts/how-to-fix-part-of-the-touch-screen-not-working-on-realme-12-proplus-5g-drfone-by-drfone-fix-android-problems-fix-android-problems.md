@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme 12 Pro+ 5G | Dr.fone
-date: 2024-07-14T05:44:40.526Z
-updated: 2024-07-15T05:44:40.526Z
+date: 2025-02-03T22:31:35.678Z
+updated: 2025-02-10T19:10:50.133Z
 tags: 
   - problems
 categories:
@@ -86,9 +86,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -107,6 +104,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -118,6 +119,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -142,6 +147,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 2:**** Connect your Realme 12 Pro+ 5G or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
@@ -170,6 +179,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 3. To enter Download mode, release all the buttons and press the Volume Up button.
 
 ![download mode repair android without home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Realme 12 Pro+ 5G. And in a while, your Realme 12 Pro+ 5G’s system issues will be resolved.
 
@@ -216,8 +229,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Realme 12 Pro+ 5G 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## 6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme 12 Pro+ 5G
 
 Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog of our lives. Be it in the professional era or personal (gossips, oomph) stuffs, it is a crucial engaging kind of application. WhatsApp is the slow poison yet a useful tool used worldwide after call logs or messages. Imagining a day without is enough to put someone off. And if one has recently faced a problem in WhatsApp crashing or not opening, then it is enough to give a heart break. It can be due to Cache memory piled up, storage running out of space, WhatsApp components getting corrupted. In such a case, resolving the problem by using an effective solution is very important! Don’t worry and wander as we will provide impeccable range of fixes to bid bye to WhatsApp stopping problem.
@@ -225,8 +236,6 @@ Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog o
 ## Cause 1: WhatsApp-related Firmware Components went wrong
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -258,11 +267,19 @@ Next will be the information screen. Simply enter the model, brand and other det
 
 ![whatsapp not opening - enter device details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Enter Download Mode**
 
 Subsequently, you need to go along with the onscreen instructions. This will boot your device in the download mode. The step is necessary to download the firmware. When you follow the steps, you need to click “Next”. The program will then start downloading the firmware.
 
 ![whatsapp stopping - enter download mode](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Repair Android**
 
@@ -297,6 +314,10 @@ Insufficient storage could be the other reason why for your WhatsApp has stopped
 - Firstly, go to Settings and check the storage. Make sure it is enough i.e. at least 100 to 200MB.
 - Secondly, start eliminating the apps that are no longer needed. This will indeed create more space in your device and will let your WhatsApp wok properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause 5: Gmail Account no longer valid or hacked
 
 It is a well-known fact that Android device and Gmail account go hand in hand. To run the Realme 12 Pro+ 5G device smoothly, it is always asked to enter your Gmail address for further configurations. And when WhatsApp stops on your device, the reason might be your Gmail account. Most probably it is not valid now or maybe hacked. If this is the case, we suggest you to log out and log in with some another Gmail account.
@@ -306,11 +327,12 @@ It is a well-known fact that Android device and Gmail account go hand in hand. T
 
 ![whatsapp stopping - fix gmail account](https://images.wondershare.com/drfone/article/2019/06/log-out-gmail.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, you can login again and check if WhatsApp works or not.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cause 6: WhatsApp Incompatible with your Android Phone
 
 If still nothing works and your WhatsApp keeps stopping, most likely the reason is the incompatibility of your WhatsApp with your device. In such case, the thing that comes to your rescue is mod WhatsApp version like GBWhatsApp. It is a mod app which is similar to WhatsApp but in a more modified way. With this, a user gets more functionalities and customizable settings when compared to WhatsApp.
@@ -333,9 +355,6 @@ Now that you have decided where to download the apk file, these are the followin
 
 - Firstly, open “Settings” on your device and go to “Security”. Turn the “Unknown Sources” option. Doing this will let you install the apps from other locations than Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![whatsapp stopping - fix by installing gbwhatsapp](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-1.jpg)
 
 - Using the browser on your phone, download the app from any of the aforementioned website.
@@ -346,6 +365,10 @@ Now that you have decided where to download the apk file, these are the followin
 - Simply proceed with entering your name, country and contact number. The app will verify your account. You are now ready to use this app.
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Realme 12 Pro+ 5G Bootloop Problem, How to Fix it Without Data Loss
 
@@ -381,8 +404,6 @@ If you are trying to figure out how to fix boot loop, the first option you have 
 
 This is designed to repair any data corruption on your device and restores your firmware to its usual working condition.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 One click to fix boot loop of Android
@@ -404,9 +425,6 @@ One click to fix boot loop of Android
 
 Open the software and select the System Repair option from the main menu to fix the Android bootloop error.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fix android boot loop](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step #2** Connect your Realme 12 Pro+ 5G to your computer using the official cable and select the "Android" option from the three menu items. Click "Start" to confirm.
@@ -453,9 +471,6 @@ Simply performing a soft reset on your device can help you if you are looking fo
 
 In case the Realme 12 Pro+ 5G device does not turn on normally and is still stuck in the bootloop Android problem, be prepared to use the troubleshooting techniques given and explained below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Boot into Safe Mode to fix Android boot loop
 
 ![boot into safe mode](https://images.wondershare.com/drfone/article/2023/08/boot-loop-android.jpg)
@@ -533,6 +548,10 @@ Now select “Wipe” and choose to wipe "Dalvik Cache".
 
 ![wipe “Dalvik Cache”](https://images.wondershare.com/drfone/article/2017/07/14994539844927.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this step, select "Mounts and Storage" to click on "Wipe" or "Cache".
 
 Once this is done, make sure to reboot your Realme 12 Pro+ 5G.
@@ -544,7 +563,6 @@ So the bottom line is that boot loop Android issue may seem like an irreparable 
 An Android boot loop is a common phenomenon with all Android devices because we tend to tamper with our device’s internal settings. Once the ROM, firmware, kernel, etc are damaged or rendered incompatible with the Realme 12 Pro+ 5G device’s software, you cannot expect it to function smoothly, hence, the boot loop error occurs. Since you are not the only one suffering from the Android boot loop problem, be rest assured that the ways, given above, to combat it are recommended by users facing similar troubles. So, don't hesitate and go ahead to try them on.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -558,9 +576,16 @@ An Android boot loop is a common phenomenon with all Android devices because we 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-beginners-guide-to-windows-11-audible-recording/"><u>[Updated] Beginner's Guide to Windows 11 Audible Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-rx-graphics-retrospect-and-report/"><u>[Updated] RX Graphics Retrospect & Report</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-y200-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo Y200 Phone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-tecno-spark-20-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Tecno Spark 20 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-zooming-in-and-out-like-a-storytelling-pro-insta-tips/"><u>In 2024, Zooming in and Out Like a Storytelling Pro Insta Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-m14-4g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy M14 4G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-free-10-websites-to-watch-cartoon-online-in-hd/"><u>New In 2024, FREE 10 Websites to Watch Cartoon Online in HD</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-v30-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme V30 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>
 

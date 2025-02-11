@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Honor X9b ? Fix It Easily | Dr.fone
-date: 2025-01-23T21:47:01.013Z
-updated: 2025-01-30T01:54:28.095Z
+date: 2025-02-03T17:16:26.305Z
+updated: 2025-02-10T18:41:35.335Z
 tags: 
   - problems
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157f
 In this article, you will learn what is Android system recovery, and how to fix Android stuck at system recovery step by step. To get out of Android system recovery more easily, you need this Android repair tool.
 
 You know your Honor X9b is stuck in recovery mode when you cannot turn on the Honor X9b device. If you try to turn it on, it shows a message that says, "Android System Recover." This situation can be quite debilitating for most Android users. Most of the time, you don't know whether you have lost all of your important Android data. It is even more worrying because of the fact that you cannot turn on your device at all, especially when you don't know how to fix it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1. What is Android System Recovery?
 
@@ -39,6 +35,10 @@ Step 1: Hold down the power key and then select "Power Off" from the options on 
 Step 2: Next, you need to hold down the Power and the Volume Key. You should able to see the Android image and a bunch of information about your device. There should also be a "Start" at the top right corner of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Press the Volume up and Volume down keys and use the Power key to select menu options. Press the Volume down key twice to see "Recovery Mode" in red at the top of the screen. Press the Power key to select it.
 
@@ -96,10 +96,6 @@ Your device should already be in this mode but follow the instructions to make s
 Ensure your device, and your computer stays connected the entire time, and make sure your internet connection remains stable.
 
 ![downloading firmware](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After downloading, the software will automatically start to repair your device by installing the firmware. Again, you can track the progress of this on the screen, and you'll need to ensure your device remains connected throughout.
 
@@ -222,10 +218,6 @@ Click "Next", and the software will begin downloading the firmware repair files.
 
 ![firmware downloading to android](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step #4** Now you can sit back and watch the magic happen!
 
 Make sure your computer stays connected to the internet, and your device stays connected to your computer throughout the entire process. Once the firmware has been downloaded, it will be automatically installed onto your mobile device, removing the boot loop Android error.
@@ -246,15 +238,15 @@ Turn the Honor X9b device off and take out its battery.
 
 ![take out its battery](https://images.wondershare.com/drfone/article/2017/07/14994538333532.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you cannot take the battery out, let the phone be off for about 3 to 5 minutes, and then turn it back on.
 
 Simply performing a soft reset on your device can help you if you are looking for solutions for how to fix the bootloop issue. This a very useful method as it does not result in any kind of loss in data and protects all your media files, documents, settings, etc.
 
 In case the Honor X9b device does not turn on normally and is still stuck in the bootloop Android problem, be prepared to use the troubleshooting techniques given and explained below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Boot into Safe Mode to fix Android boot loop
 
@@ -301,13 +293,13 @@ Press the volume down button and power button together until you see a screen wi
 
 ![a screen with multiple options](https://images.wondershare.com/drfone/article/2017/07/14994538648917.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When you are at the Recovery Mode screen, scroll down using the volume down key, and from the options given, select “Factory Reset” using the power key.
 
 ![Factory Reset](https://images.wondershare.com/drfone/article/2017/07/14994538843981.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Wait for your device to perform the task and then:
 
@@ -333,13 +325,13 @@ Scroll down using” the volume key to select "Advanced".
 
 ![select “Advanced”](https://images.wondershare.com/drfone/article/2017/07/14994539628787.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now select “Wipe” and choose to wipe "Dalvik Cache".
 
 ![wipe “Dalvik Cache”](https://images.wondershare.com/drfone/article/2017/07/14994539844927.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In this step, select "Mounts and Storage" to click on "Wipe" or "Cache".
 
@@ -353,6 +345,10 @@ An Android boot loop is a common phenomenon with all Android devices because we 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Guide: How To Unbrick a Bricked Honor X9b Phone
 
 Honor X9b phones are super popular thanks to their excellent features and affordable prices. But being so popular means people try to customize them with custom software. If you're not careful, you might have a **"bricked" Honor X9b** phone. It won't work at all. It will be more like a brick than a smartphone.
@@ -360,6 +356,14 @@ Honor X9b phones are super popular thanks to their excellent features and afford
 Don't worry, though. This guide is here to help. It will show you how to unbrick your phone step by step. You'll learn to bring your phone back to life and make it work again. So, get started on fixing your **bricked Honor X9b** phone by reading this article.
 
 ![destroyed system xiaomi phone](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Common Reasons Why Honor X9b Phones Get Bricked
 
@@ -372,6 +376,10 @@ A **bricked phone** might sound like a techy term, but it's pretty simple – wh
 - **Failed Firmware Updates.** When your phone asks you to update its software, following the instructions carefully is essential. If you interrupt the process or something goes wrong, your phone could be bricked.
 
 Now, you must know about soft and hard-bricking to learn how to diagnose your phone. [Soft bricking](https://drfone.wondershare.com/android-issue/fix-soft-bricked-android.html) is like a phone's bad day – it might not start up. However, with the right help, you can fix it. Hard bricking is worse. It's when your phone is a paperweight – it won't turn on, respond, or do anything useful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Method 1: Use the Honor X9b Flash Tool
 
@@ -398,10 +406,6 @@ Now that you know what the Honor X9b Flash Tool is all about, it's time to learn
 
 ![xiaomi fastboot screen](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4.** Using the Honor X9b Flash Tool, click **Select**. Then, locate the firmware files you downloaded earlier.
 
 ![xiaomi flash tool browse for folder menu](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-05.jpg)
@@ -410,10 +414,6 @@ Now that you know what the Honor X9b Flash Tool is all about, it's time to learn
 
 ![xiaomi flash tool success screen](https://images.wondershare.com/drfone/article/2023/08/how-to-unbrick-a-xiaomi-phone-06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Congratulations! Your phone should be up and working after following these steps.
 
 ## Part 3. Method 2: Wondershare Dr.Fone
@@ -421,6 +421,10 @@ Congratulations! Your phone should be up and working after following these steps
 If you gave the Honor X9b Flash Tool a shot and your phone is still not cooperating, don't lose hope. Sometimes, the magic touch needs a slight variation. That's where Dr.Fone comes into play. This dedicated software can work wonders when fixing various phone problems. It can even help in cases of **bricked Honor X9b** phones involving software or firmware issues.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -465,7 +469,7 @@ Now that you know about Dr.Fone, it's time to understand how to use it. Hopefull
 ![wondershare dr.fone download mode tutorial](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 6.** After downloading the firmware, verify and proceed with the installation by clicking **Fix Now**. Confirm firmware installation by typing "000000" into the text box in the appearing window. Click **Confirm** afterward.
@@ -483,10 +487,6 @@ Before diving into the unbricking process, you must arm yourself with some tips 
 - **Backing Up Data: An Ounce of Prevention.** Remember the golden rule: always back up your data before attempting any phone recovery. Unbricking might save your phone, but being safe is better than sorry.
 - **Authentic Tools and Software: Stay on the Safe Side.**Using genuine and trustworthy tools is crucial when **unbricking** your **Honor X9b** This applies especially to Dr.Fone, which you should only download from the official website. Additionally, when recovering your phone's software, use authentic Honor X9b ROMs (the operating system's files).
 - **Learning from Online Guides and Communities: Seek Guidance.**Navigating the unbricking process might seem daunting, but you're not alone. There are many online guides, tutorials, and communities where people share their experiences and solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -512,17 +512,18 @@ As a parting reminder, always keep a tool ready for emergencies. For this, choos
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-better-balance-drones-7-leading-gimbals/"><u>[New] Better Balance Drone's 7 Leading Gimbals</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-the-art-of-evading-youtube-copyright-claims/"><u>[New] Mastering the Art of Evading YouTube Copyright Claims</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-master-the-art-of-repeating-iphones-videos/"><u>[Updated] Master the Art of Repeating iPhones Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-tunepiercer-screen-capture-app-review-for-2024/"><u>[Updated] TunePiercer Screen Capture App Review for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-troubleshooting-tips-for-gzw-crashing-problems-on-your-computer/"><u>Effective Troubleshooting Tips for GZW Crashing Problems on Your Computer</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-pova-6-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Pova 6 Pro 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-unleashing-creativity-adding-fonts-to-your-ae-workflow/"><u>In 2024, Unleashing Creativity Adding Fonts to Your AE Workflow</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-a78-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A78 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-v27-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo V27 Black and White | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-combat-arcade-nintendo-switch-edition-max-156-for-2024/"><u>Ultimate Combat Arcade Nintendo Switch Edition (Max 156) for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-non-operational-filesystem-optimizer/"><u>Unblocking Non-Operational Filesystem Optimizer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rofitability-probe-dailymovement-versus-youtubes-financial-edge/"><u>[New] Profitability Probe DailyMovement Versus YouTube's Financial Edge</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1728509156355-1tbhdd500gbssd/"><u>「1TBのHDDを500GBSSDに自由に変更:ストレージアップグレードの手順」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audfreetechunveiled-detailed-look-at-the-new-audio-tool/"><u>AudFreeTechUnveiled Detailed Look at the New Audio Tool</u></a></li>
+<li><a href="https://fox-place.techidaily.com/escolha-postagem-e-insira-uma-descricao-que-inclua-palavras-chave-relevantes-como-recuperacao-de-fotos-sd-card-e-sem-software/"><u>Escolha Postagem E Insira Uma Descrição Que Inclua Palavras-Chave Relevantes, Como 'Recuperação De Fotos', 'SD Card' E 'Sem Software'.</u></a></li>
+<li><a href="https://discover-best.techidaily.com/expert-tips-for-overcoming-the-iphone-not-activating-challenge/"><u>Expert Tips for Overcoming the 'iPhone Not Activating' Challenge</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-pro-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze Pro 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/tier-5-speedy-screen-recorders/"><u>Tier 5 Speedy Screen Recorders</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-the-ultimate-guide-by-toms-hardware/"><u>Tom's Tech Insights: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://article-files.techidaily.com/ultimate-upscaling-preferred-platforms-for-tapping-snapalert-rhythms-for-2024/"><u>Ultimate Upscaling Preferred Platforms for Tapping SnapAlert Rhythms for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Nubia Z50 Ultra | Dr.fone
-date: 2024-07-14T05:43:43.306Z
-updated: 2024-07-15T05:43:43.306Z
+date: 2025-02-07T00:56:27.772Z
+updated: 2025-02-11T00:28:51.154Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ You probably touch the screen of your phone hundreds of times per day. It’s no
 
 If your phone’s touchscreen frequently fails to respond, there are several things you can try before calling a professional. This article will reveal those proven fixes you can easily perform independently.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Why Is Part of My Screen Not Working
 
 There are two possible causes as to why your phone’s touch screen is not working. One is the touch screen may have been damaged, and the other is the Nubia Z50 Ultra device may be experiencing technical difficulties.
@@ -68,6 +65,10 @@ When your touch screen stops working, the first thing you should do is restart y
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** When the Nubia Z50 Ultra device turns off, wait a few seconds.
 
@@ -117,10 +118,11 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -187,6 +189,10 @@ Check Dr.Fone’s supported operating systems below before using the application
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features
 
 Dr.Fone – System Repair is a data management and recovery tool that contains several toolkits in one program, each designed to repair a specific phone problem. Check out its key features below:
@@ -241,9 +247,6 @@ During these processes, bugs can occur, and if they can’t sort themselves out,
 
 **Step 3:** The app will automatically install itself once downloaded. Open the app, sign in to your account using your log-in details, and you should be able to use the app like normal.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. Check for new Snapchat Updates
 
 ![snapchat not responding - check for new updates](https://images.wondershare.com/drfone/article/2019/04/update-snapchat-app.jpg)
@@ -270,6 +273,10 @@ Here’s how to fix it.
 
     ![wipe cahce of snapchat crashing - step 2](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-two.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Scroll down the Settings menu and tap the Clear Cache option
 
     ![wipe cahce of snapchat crashing - step 3](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-three.png)
@@ -287,8 +294,6 @@ Here’s how to fix it.
 If you’re experiencing the Snapchat crashing on Android often, or you’re experiencing similar errors with other apps, this can be an indication that there’s something wrong with your Android operating system.
 
 The best way to fix this is to repair your device using the software known as Dr.Fone - System Repair (Android). This is a powerful repair system that can completely recover your device from any errors, including the Snapchat keeps crashing error.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -336,6 +341,10 @@ The method will slightly differ depending on whether your device has a home butt
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. Check for the Android update
 
 ![snapchat stopping - check for android update](https://images.wondershare.com/drfone/article/2019/04/android-update-firmware.png)
@@ -361,6 +370,10 @@ To resolve this, you can simply try connecting to another Wi-Fi network or a dat
 **Step 2:** Tap the new Wi-Fi network you’re currently connected to, and then tap the ‘Forget’ option, to stop your phone connecting to it.
 
 ![snapchat stopping - forget wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Now tap the new Wi-Fi network you want to connect to. Insert the Wi-Fi security code and connect. Now try reopening and using the Snapchat to see if you can use it.
 
@@ -410,8 +423,6 @@ When you encounter an Android system crash, before looking for solutions to fix 
 
 [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/android-data-recovery.html) is currently one of the most popular tools to retrieve data from not only broken or damaged, locked devices, and unresponsive devices but also from devices that face an Android system crash. You may try the software for free for scanning the data to understand its work. Dr.Fone’s Data Extraction tool not only retrieves and back-up contacts and messages but also your photos, videos, audio files, WhatsApp, docs, call logs, and other file folders. It is also equipped to retrieve data from the Nubia Z50 Ultra device’s internal memory as well as Google drive.
 
-
-
 ### Dr.Fone - Data Recovery (Android)
 
 World's 1st data retrieval software for broken Android devices.
@@ -440,6 +451,10 @@ You may follow the steps given below to rescue your data from crashed Android de
 4\. You will now see device options before you. Select yours and move on to feed in your device name and model details.
 
 ![select device model](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5\. Now press the volume down, power, and home button on your device together to boot the phone in Download mode.
 
@@ -479,9 +494,6 @@ Once you have successfully retrieved your data, consider solving the Android cra
 
 ![restart the android device](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Shut down unnecessary running apps
 
 Another quick solution to avoid Android devices crashing is to shut down unnecessary apps running in the Nubia Z50 Ultra device's background. To cater to that, you need to try out the following steps as a remedy to shutting down unwanted applications:
@@ -489,6 +501,10 @@ Another quick solution to avoid Android devices crashing is to shut down unneces
 **Step 1:** Open the “Settings” of your Nubia Z50 Ultra and continue to the “Battery and device care” section from the available options. Continue to the "Memory" section on the next window to lead to the applications taking up space on your Nubia Z50 Ultra.
 
 ![tap on battery and device care](https://images.wondershare.com/drfone/article/2023/08/fix-android-system-crash-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** As you progress further, you need to select the “Clean now” button to shut down all unnecessary background applications running on the Android.
 
@@ -540,6 +556,10 @@ In case the Android system crash issue is temporary, follow the steps given belo
 
 ![](https://images.wondershare.com/drfone/article/2017/07/14988992219452.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 However, if the Android crash problem is such that your phone has frozen, becomes unresponsive, and does not turn on, you must first boot into the Recovery Mode screen.
 
 1\. Press the volume down button and power button together until you see a screen with multiple options before you.
@@ -566,18 +586,6 @@ To format your SD Card, just follow the instructions below.
 
 ![format sd card](https://images.wondershare.com/drfone/article/2017/07/format-sd-card.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 9: Update to the latest software version
 
 Updating the Android device will cast out all glitches that prevent it from operating properly. For that, let's look into the steps explaining how to update your Android software version to the latest option:
@@ -676,6 +684,10 @@ When you are at the Recovery Mode screen, scroll down using volume down key, and
 
 ![factory reset](https://images.wondershare.com/drfone/article/2017/07/14988993508337.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Wait for your device to perform the task and then:
 
 Reboot the phone in Recovery Mode by selecting the first option.
@@ -683,9 +695,6 @@ Reboot the phone in Recovery Mode by selecting the first option.
 Bottomline, the tips given above have helped many to solve the Android system crash issue. So do not hesitate to try them, but don't forget to extract your data with Dr.Fone’s Data Recovery tool.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -699,9 +708,21 @@ Bottomline, the tips given above have helped many to solve the Android system cr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-quick-start-how-to-preserve-your-favorite-internet-streams/"><u>[Updated] 2024 Approved Quick Start How To Preserve Your Favorite Internet Streams</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/6-must-have-tools-for-successful-game-streaming/"><u>6 Must-Have Tools for Successful Game Streaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/alternative-tools-that-outperform-sharex/"><u>Alternative Tools That Outperform ShareX</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725286182133-digiartywinx-dvd/"><u>Digiarty製品マニュアル:WinX DVD対応ソフトウェア・使い方指南</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/g-into-the-world-of-youtube-search-engine-rankings-for-2024/"><u>Diving Into the World of YouTube Search Engine Rankings for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-honor-magic-5-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor Magic 5 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-xr-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone XR?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-s17e-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo S17e Lock Screen Password</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55t-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55T Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-a15-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy A15 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-failed-updates-error-0x800f0845/"><u>Steps to Fix Failed Updates - Error 0X800f0845</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/taming-darkness-for-a-bright-youtube-experience-for-2024/"><u>Taming Darkness for a Bright YouTube Experience for 2024</u></a></li>
+</ul></div>
 

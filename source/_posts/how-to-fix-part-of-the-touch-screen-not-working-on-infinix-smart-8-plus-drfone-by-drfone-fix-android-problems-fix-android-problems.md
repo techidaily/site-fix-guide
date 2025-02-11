@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Infinix Smart 8 Plus | Dr.fone
-date: 2024-07-14T05:42:50.302Z
-updated: 2024-07-15T05:42:50.302Z
+date: 2025-02-06T00:48:42.186Z
+updated: 2025-02-10T19:28:26.279Z
 tags: 
   - problems
 categories:
@@ -64,9 +64,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
 ****Step 2:**** When the Infinix Smart 8 Plus device turns off, wait a few seconds.
@@ -118,6 +115,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
 
@@ -202,9 +203,6 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
@@ -227,12 +225,13 @@ If so, don’t worry; you’re not alone. Snapchat crashing in this way is nothi
 
 Fortunately, there are plenty of solutions out there to help you out and get the app working again as it should do. Today, we’re going to explore them all to help you get back to what you were doing before and as though there was never a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Install Snapchat again from Google Play Store
 
 ![snapchat not responding - reinstall snapchat](https://images.wondershare.com/drfone/article/2019/04/install-snapchat-googleplay.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One of the best ways to resolve the Snapchat crashing problem or [Snap Map not working issue](https://drfone.wondershare.com/snapchat/snap-map-not-working.html) is to delete the app and reinstall it again. When you’re using your phone, there is data continually flowing around and data being sent here, there, and everywhere.
 
@@ -256,9 +255,6 @@ Here’s how to make sure you’re running the latest version of Snapchat is Sna
 2. Tap the Update button
 3. The app will now automatically update to the latest version
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Part 3. Wipe the cache of Snapchat
 
 If you have a lot of data in your Snapchat cache, this can cause the app to become overloaded in which you’ll need to clear it to start again and refresh the app. This is a common problem that can cause Snapchat has stopped working error.
@@ -269,6 +265,10 @@ Here’s how to fix it.
 
     ![wipe cahce of snapchat crashing - step 1](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-one.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Tap the Settings gear icon on the top right
 
     ![wipe cahce of snapchat crashing - step 2](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-two.png)
@@ -276,6 +276,10 @@ Here’s how to fix it.
 3. Scroll down the Settings menu and tap the Clear Cache option
 
     ![wipe cahce of snapchat crashing - step 3](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-three.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Here, you can choose to Clear All, but you can select individual areas if you prefer
 
@@ -290,8 +294,6 @@ Here’s how to fix it.
 If you’re experiencing the Snapchat crashing on Android often, or you’re experiencing similar errors with other apps, this can be an indication that there’s something wrong with your Android operating system.
 
 The best way to fix this is to repair your device using the software known as Dr.Fone - System Repair (Android). This is a powerful repair system that can completely recover your device from any errors, including the Snapchat keeps crashing error.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -313,9 +315,17 @@ Once completed, open the software, so you’re on the main menu.
 
 ![snapchat crashing -  fix with a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: From the main menu, click the System Repair option, followed by the **Android** option. Of course, if you have an iOS device you want to repair in the future, the option is there if you want it. Also, connect your Infinix Smart 8 Plus to your computer using the USB cable.
 
 ![snapchat crashing - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: Confirm details.
 
@@ -350,6 +360,10 @@ Fortunately, it’s easy to check to make sure you’re running the latest versi
 **Step 1:** Open the Settings menu on your Infinix Smart 8 Plus and select the About Phone option.
 
 **Step 2:** Tap the ‘Check for Updates’ option. If an update is available, you’ll then have the option to Install Now or Install Overnight. If no update is available, you’ll see a notification stating your device is up to date and no action is needed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6. Connect to another Wi-Fi
 
@@ -391,6 +405,10 @@ However, this reflashing process is simple thanks to the Dr.Fone - System Repair
 
 ![snapchat stopping - factory resetting](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 One of the last resorts you can take is factory resetting your Infinix Smart 8 Plus back to its original settings. From the day you first started using your device, you’ve been using the system and downloading files and apps, and over time this increases the chances of creating a bug.
 
 However, by resetting your device to factory settings, you can reset these bugs and get your apps and device working again free from the Unfortunately, Snapchat has stopped error message. Here’s how to factory reset your device.
@@ -401,8 +419,6 @@ Make sure you back up your personal files from your device first like your photo
 
 **Step 2:** Click the Reset Phone option. That’s it! The phone will take several minutes to complete the process, after which your phone will be reset to its original state.
 
-
-
 ## 6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Infinix Smart 8 Plus
 
 Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog of our lives. Be it in the professional era or personal (gossips, oomph) stuffs, it is a crucial engaging kind of application. WhatsApp is the slow poison yet a useful tool used worldwide after call logs or messages. Imagining a day without is enough to put someone off. And if one has recently faced a problem in WhatsApp crashing or not opening, then it is enough to give a heart break. It can be due to Cache memory piled up, storage running out of space, WhatsApp components getting corrupted. In such a case, resolving the problem by using an effective solution is very important! Don’t worry and wander as we will provide impeccable range of fixes to bid bye to WhatsApp stopping problem.
@@ -410,8 +426,6 @@ Ever seen a wheel going on without cog? Similarly, WhatsApp has become the cog o
 ## Cause 1: WhatsApp-related Firmware Components went wrong
 
 You should start fixing the WhatsApp crashing issue with fixing the Android firmware. This is because the Android firmware components are many times the hidden culprit behind the problem of why a particular app stops working. And to fix these components in one click, you need Dr.Fone - System Repair (Android). It is one of the safest tools around in the market and works efficiently with Android system issues. It promises to bring your device back to normal and healthy state. Here are the benefits you get with this amazing tool.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -465,6 +479,10 @@ The purpose of Cache in a device is to keep the track of frequently used data an
 
 ![whatsapp stopping - fix cache conflict](https://images.wondershare.com/drfone/article/2019/06/clear-whatsapp-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause 3: WhatsApp components corruption
 
 A lot of times, the WhatsApp crashes due to the corrupted components of WhatsApp. In such case, all you need to do is uninstall and install the WhatsApp again. This is how you do it.
@@ -482,9 +500,6 @@ Insufficient storage could be the other reason why for your WhatsApp has stopped
 - Firstly, go to Settings and check the storage. Make sure it is enough i.e. at least 100 to 200MB.
 - Secondly, start eliminating the apps that are no longer needed. This will indeed create more space in your device and will let your WhatsApp wok properly.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cause 5: Gmail Account no longer valid or hacked
 
 It is a well-known fact that Android device and Gmail account go hand in hand. To run the Infinix Smart 8 Plus device smoothly, it is always asked to enter your Gmail address for further configurations. And when WhatsApp stops on your device, the reason might be your Gmail account. Most probably it is not valid now or maybe hacked. If this is the case, we suggest you to log out and log in with some another Gmail account.
@@ -520,6 +535,10 @@ Now that you have decided where to download the apk file, these are the followin
 
 ![whatsapp stopping - fix by installing gbwhatsapp](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Using the browser on your phone, download the app from any of the aforementioned website.
 - Launch the GBWhatsApp apk and follow the onscreen instruction in order to install. You need to go in a similar way as you do in mormal WhatsApp app.
 
@@ -528,7 +547,6 @@ Now that you have decided where to download the apk file, these are the followin
 - Simply proceed with entering your name, country and contact number. The app will verify your account. You are now ready to use this app.
 
 ![whatsapp stopping - enter the name](https://images.wondershare.com/drfone/article/2019/06/install-gbwhatsapp-3.jpg)
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -542,9 +560,21 @@ Now that you have decided where to download the apk file, these are the followin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-quickcapture-for-windows-ultimate/"><u>[New] 2024 Approved QuickCapture for Windows Ultimate</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-10-iphone-virtual-reality-games-for-next-level-play/"><u>[New] Top 10 IPhone Virtual Reality Games for Next Level Play</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-video-views-to-vault-closure-income-insights-for-youtubers-for-2024/"><u>[Updated] From Video Views to Vault Closure Income Insights for Youtubers for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevating-video-popularity-on-youtube/"><u>2024 Approved Elevating Video Popularity on YouTube</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-itel-p55t-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Itel P55T Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-note-30-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-poco-m6-pro-4g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Poco M6 Pro 4G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/overlooked-marvels-free-transcription-tools-for-macos/"><u>Overlooked Marvels Free Transcription Tools for macOS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oneplus-ace-2-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On OnePlus Ace 2? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/sign-fodt-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .fodt file Documents Online for Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-workday-strategies-via-artificial-intelligence-discussions/"><u>Transforming Workday Strategies via Artificial Intelligence Discussions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-fixing-excessive-cpu-consumption-by-desktop-window-manager-on-windows-11-systems/"><u>Troubleshooting and Fixing Excessive CPU Consumption by Desktop Window Manager on Windows 11 Systems</u></a></li>
+</ul></div>
 

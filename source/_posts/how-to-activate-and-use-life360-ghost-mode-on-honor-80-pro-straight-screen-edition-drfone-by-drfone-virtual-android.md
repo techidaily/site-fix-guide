@@ -1,7 +1,7 @@
 ---
 title: How To Activate and Use Life360 Ghost Mode On Honor 80 Pro Straight Screen Edition | Dr.fone
-date: 2024-07-14T05:38:56.247Z
-updated: 2024-07-15T05:38:56.247Z
+date: 2025-02-04T16:29:46.093Z
+updated: 2025-02-11T00:24:08.230Z
 tags: 
   - virtual location change
   - social app
@@ -38,8 +38,6 @@ Now that you know all of **Life360 Ghost Mode updates** and their significance, 
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile tool for enhancing privacy. With its key features, you can activate **Life360’s Ghost Mode**. It offers great control over your GPS location. Here are the key features of Dr.Fone to maximize Ghost Mode.
 
-
-
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 - **Spoof your location without leaving home**
@@ -57,6 +55,10 @@ Dr.Fone offers the flexibility of 360-degree directions. It gives you precise co
 - **Keyboard control**
 
 The keyboard control feature allows for effortless navigation, making it user-friendly for both novices and experienced users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Activate Ghost Mode With Dr.Fone - Virtual Location
 
@@ -156,6 +158,10 @@ Activating Airplane Mode deactivates all network connections. It includes GPS, o
 
 **For Android**: Swipe your screen to access the quick settings menu. Tap the airplane icon to enable **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5: Use a Burner Phone
 
 While it may seem cumbersome, using a burner phone is a straightforward method to disable location sharing on Life360. Install Life360 on the burner phone using the same account. Connect it to the relevant WiFi, and then remove Life360 from your primary device.
@@ -176,8 +182,11 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 
 ![find my friends app](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends-app.jpg)
 
-
 ## Part1: How to track friends using iPhone or Android
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.1 Tracking Friends using iPhone
 
@@ -223,14 +232,15 @@ You can also issue an alert to your friends whenever you are in an emergency. Al
 
 ![find my friends](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.2 Familo
 
 Familo is the best working "finding friend" app. The app is regularly updated, and you can sign up with a phone number. You don't need Facebook or any username to use this app. You have to create a group and invite others. If they sign up, you will get their location details at any time of the day. Of course, they have to approve it first!
 
 ![familio app](https://images.wondershare.com/drfone/2023/virtuallocation/familio-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.3 Glympse
 
@@ -241,8 +251,6 @@ What makes Glympse different from others is the fact that you don't even need to
 ### Conclusion
 
 Remember, there are several other find my friends apps in the app store, which can entice you. Some of them have pretty neat features. But, they can drain your battery too fast; others can be pretty limited on their free version. And, many of find my friends apps are partial to either iPhone or Android. But, why not try them out yourself? Everybody’s needs and tastes are different. Give my three favorite find my friend apps for Android and iPhone a try, if they suit you, great. If not, there are more options. Find one for you and keep a "leash" on your loved ones!
-
-
 
 ## How to Change your Honor 80 Pro Straight Screen Edition Location on Twitter
 
@@ -262,11 +270,12 @@ Twitter for mobile is easy to use, but it offers limited privacy options compare
 
 ![tap on security and privacy](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Next, click on “Your Account” and later on “Account Info.” You have to access your “Account Information” by clicking on it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access account information](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-2.jpg)
 
 **Step 3:** Lastly, choose the “Country” and change the location according to your preference.
@@ -281,16 +290,21 @@ Unlike Twitter applications, the desktop version is efficient. For example, you 
 
 ![login to twitter account](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** After logging in, go to “More” options from the Twitter home and click on “Settings and Privacy,” Now, select the option of “Account Information” from the “Your Account” settings.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open account information settings](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-5.jpg)
 
 **Step 3:** You will be asked to enter your password. After confirming your password, click on the “Country” you wish to change your Location.
 
 ![insert your twitter password](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is the Difference between My Profile Location and My Country Setting on Twitter?
 
@@ -299,8 +313,9 @@ Country setting and profile location are both entirely different things. The cou
 In contrast, profile location is your public location that other users can see when visiting your profile. Therefore, changing your country setting will not impact your original profile location unless you make a change yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Fake Location on Twitter
 
 In this technological era, changing your location to the other end of the world is just a few clicks of tasks; various software is available on the market, such as Dr.Fone, which can easily spoof your location.
@@ -323,11 +338,6 @@ You can spoof your location to prank or trick your friends and family into think
 
 One of the reasons people prefer to spoof their location is to socialize and make friends with people other than their region; it's the most innovative way by which you can easily have a chat with anyone from around the world without revealing your actual location.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -368,6 +378,10 @@ Finally, click on the “Move Here” icon in the popup box, and your GPS will b
 
 ![confirm the fake location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
@@ -396,6 +410,9 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -409,9 +426,26 @@ Twitter is one of the most content-consuming social platforms globally. Its user
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-secret-behind-the-blue-status-update-sticker/"><u>[New] 2024 Approved The Secret Behind the Blue Status Update Sticker</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-optimal-zooctorial-design-arrays/"><u>[Updated] In 2024, Optimal Zooctorial Design Arrays</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-lag-proven-methods-to-prevent-metro-exodus-from-freezing-or-crashing-on-pc-systems/"><u>Beat the Lag: Proven Methods to Prevent Metro Exodus From Freezing or Crashing on PC Systems</u></a></li>
+<li><a href="https://win-studio.techidaily.com/easy-tech-hacks-implementing-new-typography-on-windows-with-yl-computing-insights/"><u>Easy Tech Hacks: Implementing New Typography on Windows with YL Computing Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-audio-game-with-turtle-beachs-atlas-air-comfort-that-feels-like-air-and-sounds-unparalleled/"><u>Elevate Your Audio Game with Turtle Beach's Atlas Air: Comfort that Feels Like Air and Sounds Unparalleled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/essential-android-and-ios-timers-your-guide-to-flawless-big-day-management-for-2024/"><u>Essential Android & iOS Timers Your Guide to Flawless Big Day Management for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-overcoming-common-phasmophobia-vr-connectivity-problems/"><u>Guide: Overcoming Common Phasmophobia VR Connectivity Problems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-itel-s23-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Itel S23 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-hot-30i-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Hot 30i Safely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-google-pixel-8-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Google Pixel 8 Pro Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-motorola-moto-g73-5g-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from Motorola Moto G73 5G to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-nokia-c12-plus-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Nokia C12 Plus? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-nokia-130-music-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Nokia 130 Music? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-google-pixel-8-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Google Pixel 8 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a14-4g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A14 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-xcover-6-pro-tactical-edition-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy XCover 6 Pro Tactical Edition Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/top-15-free-tools-to-switch-between-4k-and-hd-videos-on-your-computer-or-laptop/"><u>Top 15 Free Tools to Switch Between 4K and HD Videos on Your Computer or Laptop</u></a></li>
+</ul></div>
 

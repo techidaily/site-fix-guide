@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on HTC U23 | Dr.fone
-date: 2024-07-14T05:42:35.841Z
-updated: 2024-07-15T05:42:35.841Z
+date: 2025-02-08T21:36:05.304Z
+updated: 2025-02-10T19:33:49.147Z
 tags: 
   - problems
 categories:
@@ -55,6 +55,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 ## Part 3. How To Fix Part of the Touch Screen Not Working (No Physical Damage)
 
 If you have already tried running the HTC U23 device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your HTC U23’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart Your Device
 
@@ -140,6 +144,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -168,6 +176,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ![download mode repair android without home button](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your HTC U23. And in a while, your HTC U23’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -180,6 +192,10 @@ Check Dr.Fone’s supported operating systems below before using the application
 | --- | --- |
 | Windows | Windows 11/10/8.1/8/7/Vista/XP |
 | Mac | Mac 14/13/12/11/10.15/10.14/X/10.13/10.12/10.11/10.10/10.9/10.8 |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -221,7 +237,6 @@ After all, the presence of app icons on our Android device's home screen is impo
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your HTC U23.
 
-
 ## Part 1: Make Sure if the Missing App Is Installed
 
 Before proceeding with troubleshooting the **missing app icon on your Android** device, it's essential to confirm whether the app is still installed or if it has been accidentally deleted. To do it, you can have a quick check on Google Play:
@@ -240,9 +255,6 @@ _“_**_All my apps disappeared from my home Android screen._** _What should I d
 
 If you've confirmed that the missing app is installed, but its icon is nowhere to be found on your home screen, don't fret—there are several solutions you can take to locate and restore the **missing app icon on Android**.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Check hidden apps
 
 How could the **Android phone icon be missing**? Well, app icons can disappear from your home screen for different reasons. One of the common reasons is you might have accidentally hidden it in your phone. To find and check whether the app is hidden, the steps can be different depending on the phone model you are using.
@@ -254,6 +266,10 @@ However, as a general guide, you can follow these steps:
 - **Step 3.** Once you find the "Hidden app" settings, watch the list to see if the missing app is there. If it is, you can toggle off the switch to unhide it.
 
 ![Unhide any hidden apps on Android](https://images.wondershare.com/drfone/article/2023/12/missing-app-icon-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Move the app to the home screen from the App Drawer
 
@@ -327,9 +343,6 @@ Follow the instructions to put your HTC U23 into Download Mode. Once you are in 
 
 Remember, the repair may erase data. It’s advisable to back up your data first before starting the repair. Enter "000000" to confirm the repair process, shown by a progress bar. Once finished, click Done and see if your phone has returned to normal.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Confirm the repair process](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 **More Articles About Android System:**
@@ -340,16 +353,11 @@ Remember, the repair may erase data. It’s advisable to back up your data first
 
 [<u>Authentication Error Occurred? Here Are 10 Proven Fixes</u>](https://drfone.wondershare.com/android-issue/authentication-error.html)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 When the **app disappears from the home screen of your Android**, it can hinder your ability to access and use the app efficiently. There are several reasons why an app might disappear from your Android home screen, and addressing the issue depends on the specific circumstances.
 
 Whether it's due to accidental deletion or a system glitch, we have discussed various methods to recover the missing app and ensure smooth functionality in this article. In cases of system-related issues on your HTC U23, it's advisable to rely on trustworthy software such as Dr. Fone's system repair tool for a comprehensive resolution.
-
-
 
 ## How To Fix Unresponsive Phone Touchscreen Of HTC U23
 
@@ -396,6 +404,10 @@ Here is a list of things you should do **how to fix a frozen phone touch screen,
 Your **screen touch not working** can sometimes get fixed by simply cleaning the screen on your smartphone. Use a soft dry cloth, gently clean your iPhone or Android device, and ensure water, oils, dirt, or other debris are no longer on your display. If you recently dropped your device in water, turn it off and leave it untouched for the next few hours.
 
 ![cleaning iphone with cloth](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-unresponsive-phone-touchscreen-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Remove Extra Peripherals
 
@@ -453,6 +465,10 @@ You might be asked to enter the pin of the security lock on the phone if you’v
 The methods outlined above usually solve issues on your **smartphone not responding to touch**. If all else fails, Wondershare Dr.Fone for [<u>iOS</u>](https://drfone.wondershare.com/ios-system-repair.html) and [<u>Android</u>](https://tools.techidaily.com/wondershare/drfone/android-repair/) can fix various smartphone issues within less than 10 minutes. The program enables you to fix common scenarios such as black screen, boot loop, bricked iOS or Android, and much more without any required skills.
 
 ![dr.fone main program window](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -519,6 +535,10 @@ In this step-by-step guide below, you can fix your **unresponsive phone screen**
 
 ![dr.fone fix unresponsive touchscreen 01](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2A (For iOS)**: Choose the correct model of your iPhone to download the appropriate firmware package.
 
 **Step 2B (For Android)**: Choose the correct **Brand, Name, Model, Country,** as well as **Carrier**, then click **Next**.
@@ -527,10 +547,11 @@ In this step-by-step guide below, you can fix your **unresponsive phone screen**
 
 **Step 3**: Follow the on-screen instructions provided on the main program window and wait for the repair process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone fix unresponsive touchscreen 03](https://images.wondershare.com/drfone/drfone/android-repair-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: People Also Ask
 
@@ -540,9 +561,6 @@ Some common questions you should know when taking care of an unresponsive phone 
 
 Your iPhone screen with a **touch issue** will sometimes go black after not responding to touch due to several issues. It could be hardware, software, issues with a particular app, software crash, or you have a low battery. If it’s a drained battery, you’re in luck; all you have to do is charge it. Otherwise, you’ll have to perform a force restart on your iPhone to try to reboot it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How Do I Keep My Android From Crashing?
 
 Keeping your apps updated should help you solve app crashing issues that can impact your Android OS. These apps build up large caches throughout your normal usage. Clearing cached data from time to time can drastically improve your smartphone’s performance and prevent **touch issues**. To remove your app cache, go to **Settings** \> **Storage** and tap **Cached Data**.
@@ -553,12 +571,15 @@ Wondershare Dr.Fone for iOS and Android is free to download and install. You can
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Knowing the common causes of an **unresponsive phone touchscreen** is the first step to preventing it from happening to your smartphone. While there are ways to fix it when it does happen, prevention is better than cure, as most experts say. However, if the methods outlined above don’t work, your best bet is to use a dedicated program such as Wondershare Dr.Fone for Android and iOS.
 
 Wondershare Dr.Fone works on almost all modern smartphones today and can fix a **stop-working phone screen** within less than 10 minutes. It’s beginner-friendly and doesn’t require advanced technical know-how to use right away.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -572,9 +593,24 @@ Wondershare Dr.Fone works on almost all modern smartphones today and can fix a *
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-breaking-down-the-monetization-barriers/"><u>[New] In 2024, Breaking Down the Monetization Barriers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-efficient-scratching-tool-for-chromeos/"><u>[Updated] Efficient Scratching Tool for ChromeOS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-animated-selfies-snapchats-fun-face-filters-explained/"><u>[Updated] Exploring Animated Selfies Snapchat's Fun Face Filters Explained</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-decode-facebooks-algorithm-change-and-protect-your-reach/"><u>[Updated] In 2024, Decode Facebook’s Algorithm Change & Protect Your Reach</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-navigate-with-ease-a-guide-to-effective-screen-casting-in-meet/"><u>2024 Approved Navigate with Ease A Guide to Effective Screen Casting in Meet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-honor-magic5-ultimate-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor Magic5 Ultimate Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-htc-u23-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked HTC U23 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-s17e-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo S17e in Minutes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-12plus-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme 12+ 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-installation-hurdles-for-minecraft-in-the-latest-windows-11-update/"><u>Overcoming Installation Hurdles for Minecraft in the Latest Windows 11 Update</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-v29e-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo V29e? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a15-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A15 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reconnecting-your-surface-pro-to-the-internet-a-comprehensive-solution/"><u>Reconnecting Your Surface Pro to the Internet: A Comprehensive Solution</u></a></li>
+<li><a href="https://fox-http.techidaily.com/score-selection-service-enhancing-media-pieces-for-2024/"><u>Score Selection Service Enhancing Media Pieces for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor X9a | Dr.fone</u></a></li>
+</ul></div>
 

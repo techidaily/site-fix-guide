@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Itel A60s | Dr.fone
-date: 2024-07-14T05:42:55.129Z
-updated: 2024-07-15T05:42:55.129Z
+date: 2025-02-09T16:58:49.656Z
+updated: 2025-02-10T23:49:47.508Z
 tags: 
   - problems
 categories:
@@ -56,6 +56,10 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 
 If you have already tried running the Itel A60s device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Itel A60s’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -84,9 +88,6 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ****Step 3:**** When you let go of the “Power” button, press and hold the “Volume Down” button. After that, a “Safe Mode” label will appear in your screen’s lower-left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
 ### Turn Off Developer Options
@@ -117,9 +118,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Step 3:**** After successfully logging in, you will see your device’s name. Select the ****Erase Device**** option.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device feature](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-4.JPG)
 
 ****Step 4:**** Confirm by pressing the ****Erase Device**** button.
@@ -154,9 +152,6 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
 ****Step 4:**** Before repairing your Itel A60s, you must boot it into ****Download**** ****mode****. To boot your Itel A60s or tablet into DFU mode, follow the steps below:
@@ -180,6 +175,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Itel A60s. And in a while, your Itel A60s’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported OS
 
@@ -230,6 +229,10 @@ If you're asking **why is my Android phone in black and white**, then you're in 
 
 ![girl pointing at phone with problem](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Phone Screen in Black and White? Easy Fixes for Android Devices
 
 Discovering your Itel A60s going monochrome can be annoying. The section below answers the question: **why did my Itel A60s phone go black and white?** It involves a combination of software adjustments and careful troubleshooting. Follow the practical solutions below to restore vibrant colors to your device.
@@ -261,7 +264,15 @@ System glitches or software bugs can trigger display issues. It can result in a 
 
 ![checking for system updates on android](https://images.wondershare.com/drfone/article/2023/11/phone-is-black-and-white-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Update your device if there is a software update available. Ensure your device is running the latest software version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Battery Saving Modes
 
@@ -489,7 +500,9 @@ If none of the solutions above are working, this could indicate a real problem w
 
 You can do this easily using powerful Android recovery software known as [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This is the leading repair tool on the market and is designed to fix and repair any firmware and software problems you may be having.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -531,6 +544,10 @@ Once installed, connect your Itel A60s to your computer using a USB cable, and o
 
 ![wifi not working on android - begin repairing process](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The whole process is automatic, so you won’t need to do anything until it’s finished. Once completed, you can disconnect your phone and start connecting it to the internet as normal!
 
 ![wifi not working on android - wifi issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -540,6 +557,10 @@ The whole process is automatic, so you won’t need to do anything until it’s 
 ## Part 8. Check the Wi-Fi connectivity on another phone
 
 ![android phone not connecting to wifi - connectivity on another phone](https://images.wondershare.com/drfone/article/2019/04/bluetooth-android-phones.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When experiencing problems with your Wi-Fi network, it’s worth noting the problem might not be with your phone, but rather the Wi-Fi network itself. This is why it’s important to make sure you check the connection on another device.
 
@@ -579,9 +600,17 @@ Here’s how you can do this easily on your Itel A60s;
 5. If you need to, enter the PIN number or passcode for the Android device, and the Itel A60s device will confirm the reset has taken place
 6. Reconnect your Itel A60s to your Wi-Fi network for the changes to take effect
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 11. Clear partition cache in recovery mode
 
 ![wifi not working on android - clear partition](https://images.wondershare.com/drfone/article/2019/04/android-reset-partitioncache.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As you continue to use your Itel A60s, the partition cache will fill up with data your device needs and doesn’t need. However, by clearing your device’s partition cache, you can make clear up some space which should help your device have enough memory to connect to the internet.
 
@@ -592,14 +621,8 @@ As you continue to use your Itel A60s, the partition cache will fill up with dat
 5. Select the Android System Recovery option, followed by Wipe Cache Partition
 6. Restart your device and connect to the internet
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 12. Reset factory settings
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wifi not working on android - factory settings](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
 
 If worse comes to worst, another option you have is to factory reset your Itel A60s. As we’ve spoken about above, while using your phone from the day you started using it, your device will fill up with files and data which can become messy and causes bugs.
@@ -615,9 +638,6 @@ However, by factory resetting your device, you can start again from the factory 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -630,9 +650,20 @@ However, by factory resetting your device, you can start again from the factory 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-exclusive-insights-3-secrets-to-capture-every-moment-on-discord/"><u>[New] 2024 Approved Exclusive Insights 3 Secrets to Capture Every Moment on Discord</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unfollow-anomaly-spot-the-change-on-insta/"><u>[Updated] In 2024, Unfollow Anomaly Spot the Change on Insta</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-top-10-most-watched-music-videos-on-fb/"><u>[Updated] Top 10 Most Watched Music Videos on FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/connect-with-digital-artistry-mastering-online-collaboration/"><u>Connect with Digital Artistry: Mastering Online Collaboration</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/dynamic-wallpaper-change-the-editors-companion-list/"><u>Dynamic Wallpaper Change The Editor's Companion List</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-connect-classic-game-images-in-win-11-photos/"><u>Guide: Connect Classic Game Images in Win 11 Photos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-moto-g24-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Moto G24 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-purchase-pitfalls-steering-clear-from-the-seduction-of-false-subscribers/"><u>In 2024, Purchase Pitfalls Steering Clear From the Seduction of False Subscribers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-poco-m6-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Poco M6 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-tactical-edition-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Tactical Edition Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-iphone-memory-usage-how-much-space-do-your-photos-take/"><u>Understanding iPhone Memory Usage: How Much Space Do Your Photos Take?</u></a></li>
+</ul></div>
 

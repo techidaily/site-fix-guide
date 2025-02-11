@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Realme 12+ 5G | Dr.fone
-date: 2024-07-14T05:44:41.663Z
-updated: 2024-07-15T05:44:41.663Z
+date: 2025-02-07T20:26:11.735Z
+updated: 2025-02-10T16:24:58.896Z
 tags: 
   - problems
 categories:
@@ -144,11 +144,19 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Android repair procedure may wipe out all data on your device. To confirm and proceed, enter “000000”.
 
 ****Note:**** It is strongly advised that you [<u>back up your Android data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before attempting Android repair.
 
 ![drfone android repair confirm action](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 4:**** Before repairing your Realme 12+ 5G, you must boot it into ****Download**** ****mode****. To boot your Realme 12+ 5G or tablet into DFU mode, follow the steps below:
 
@@ -171,6 +179,10 @@ The Android repair procedure may wipe out all data on your device. To confirm an
 ****Step 5:**** Then press the ****Next**** button. The program will then download the firmware. After downloading and verifying the firmware, the program will automatically repair your Realme 12+ 5G. And in a while, your Realme 12+ 5G’s system issues will be resolved.
 
 ![drfone android repair completed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported OS
 
@@ -199,16 +211,21 @@ Here are the advantages of using Dr.Fone – System Repair:
 - Data management is simple and seamless for both Android and iOS devices
 - Data backup with Dr. Fone is simple and quick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cons
 
 Check below to know Dr.Fone – System Repair’s limitations:
 
 - Depending on the toolkit required, the program can be costly.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -252,14 +269,15 @@ The first and most proclaimed technique to refresh Realme 12+ 5G devices under s
 
 ![force restart nokia](https://images.wondershare.com/drfone/nokia-phone-stuck-on-nokia-screen-stuck-on-boot-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2: Leave the Phone For a While To Drain Its Battery
 
 A conventional way to solve the issue of a stuck screen in Realme 12+ 5G is to leave the phone in its position. As you let its battery drain out, the phone will turn off, and you can activate the Realme 12+ 5G device again by charging it.
 
 Once you restart it this way, all the procedures will initiate again, and the Realme 12+ 5G device will be as good as new. Draining the battery has given you the leverage to regain control over the Realme 12+ 5G device again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Check For Updates on Realme 12+ 5G Smartphones
 
@@ -289,10 +307,11 @@ As you launch Dr.Fone after downloading it on your computer, continue to the "Sy
 
 You will be directed to the Realme 12+ 5G device information screen, where you must define the identification parameters of the Realme 12+ 5G device. Select the brand, name, model, country, and carrier details for proper system recovery. On clicking "Next," you will receive a warning where you will have to type the number "000000" to proceed with the method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add the nokia phone details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3: Put Your Realme 12+ 5G in Download Mode****
 
@@ -334,6 +353,10 @@ If you feel frustrated by issues like ****Realme 12+ 5G being stuck on the Andro
 
 Changing or modifying system files can be fatal for smartphones. Thus, to keep your Realme 12+ 5G safe, you need to keep your hands away from such important files. Modifying a single file can make your device useless or put you in situations like a Realme 12+ 5G smartphone stuck on the boot. For that, the best tip is to keep yourself out of engagement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Use Wondershare Dr.Fone To Manage All Data With Ease
 
 As you have observed, the power of Dr.Fone can be a perfect phone manager for you at all times. While providing system repair services, it can also help you manage your device's data and other statuses. Thus, consider keeping Dr.Fone close to your device and its operations. In this way, you will be able to have complete control over all types of data present in the Realme 12+ 5G smartphone.
@@ -347,8 +370,6 @@ As you have observed, the power of Dr.Fone can be a perfect phone manager for yo
 With that, this brings the article on Realme 12+ 5G smartphones to a conclusion. If you are still facing issues with your ****Realme 12+ 5G  stuck on the "Realme 12+ 5G" screen,**** this article is the perfect solution for your problem.
 
 With all the provided methods, we do hope that you will be able to restore the status of your Realme 12+ 5G smartphone and make it functional. For the finest results, you have also discovered Dr.Fone – System Repair (Android) as the best solution for repairing such devices.
-
-
 
 ## 6 Solutions to Fix Error 505 in Google Play Store on Realme 12+ 5G
 
@@ -375,6 +396,10 @@ To have the right idea about the problem, we have listed all the reasons of it o
 
 Now that we know the reasons, let us also learn about the solutions that will guide you to resolve the error code 505.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: 6 Solutions to fix error code 505
 
 Any error that occurs during downloading or installation process not only hinders with the new app but also takes a large amount of our time to solve the issue. To check that, let us go through the 6 solutions one by one.
@@ -382,8 +407,6 @@ Any error that occurs during downloading or installation process not only hinder
 #### **Solution 1: One click to make error code 505 disappear**
 
 The most common cause for error code 505 pop-up is that Android system files that underpin the Google Play module are corrupted. To make error code 505 disappear in this condition, you should have your Android system repaired.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -410,9 +433,6 @@ Step2: Select the "Android Repair" among the 3 tabs, connect your Android to PC,
 
 Step3: Choose the correct device details from each field, confirm them and continue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select correct device details to fix error code 505](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
 Step4: Boot your Android in download mode, then start downloading the firmware of your device.
@@ -484,9 +504,6 @@ Steps to Cache memory of Google Play Store
 
 It will clear the cache of Google play store
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![app info](https://images.wondershare.com/drfone/article/2017/06/14976276779206.jpg)
 
 Clearing the cache memory remove the extra temporary memory, thus free up space for the further installation process.
@@ -515,6 +532,10 @@ In the case, error 505 occur due to the installation of two or more apps with du
 Download link: [https://www.luckypatchers.com/download/](https://www.luckypatchers.com/download/)
 
 ![lucky patcher](https://images.wondershare.com/drfone/article/2017/06/14976278389200.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note: If still, you are in the state of trouble to solve the issue of error code 505 then Google Play help center is here to look out all troubles related to app store and its service. You can check out the details by visiting the following link:
 
@@ -552,7 +573,6 @@ However, sometimes the five simple couldn’t work anymore. A system repair soft
 
 Not being able to download or install the app is very frustrating and time-consuming also. Therefore, in this article, we went through the reasons behind the occurrence error code 505 as well as resolving the issue by following five effective methods. I hope that you would be able to sort out the error 505 by following above methods thus would be able to install the application without further delay.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -565,9 +585,24 @@ Not being able to download or install the app is very frustrating and time-consu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-enhancing-collaboration-slack-melded-with-filmoras-video-capabilities/"><u>[Updated] 2024 Approved Enhancing Collaboration Slack Melded With Filmora’s Video Capabilities</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-photoshops-jiggle-minimizing-effective-or-overstated/"><u>[Updated] Photoshop's Jiggle Minimizing - Effective or Overstated?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-wish-to-look-at-all-my-contacts-media-shared-in-chats/"><u>2024 Approved Wish to Look at All My Contacts' Media Shared in Chats</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-11-pro-max-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 11 Pro Max? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-f23-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F23 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-note-12-4g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi Note 12 4G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-updating-your-x-by-formerly-twitter-security-credentials/"><u>Step-by-Step Guide: Updating Your X by Formerly Twitter Security Credentials</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-13-best-work-travel-laptops-alternatives-to-dell-xps-and-macbook-featured/"><u>Top 13 Best Work Travel Laptops: Alternatives to Dell XPS and MacBook, Featured</u></a></li>
+</ul></div>
 

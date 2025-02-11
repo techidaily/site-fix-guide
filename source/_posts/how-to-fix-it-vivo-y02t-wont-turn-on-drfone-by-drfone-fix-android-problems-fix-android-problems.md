@@ -1,7 +1,7 @@
 ---
 title: How to Fix It Vivo Y02T Wont Turn On | Dr.fone
-date: 2024-07-14T05:41:22.668Z
-updated: 2024-07-15T05:41:22.668Z
+date: 2025-02-07T19:49:40.734Z
+updated: 2025-02-10T21:55:26.557Z
 tags: 
   - problems
 categories:
@@ -18,9 +18,6 @@ Did your Vivo Y02T decide to go on vacation and refuses to turn on? If your Vivo
 
 Here, we hope we are able to give you a checklist of reasons behind this issue and the possible steps you can take to rectify it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Common Reasons That Your Vivo Y02T Won't Turn On
 
 If you cannot find any reason why your Vivo Y02T will not switch on, here are some possible reasons:
@@ -36,8 +33,6 @@ If you cannot find any reason why your Vivo Y02T will not switch on, here are so
 If you need some help rescuing data from an Android phone that will not turn on, the [Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html) will be your best friend in your data recovery attempt. With the help of this data recovery solution, you will be able to intuitively recover lost, deleted or corrupted data on any Android devices. Its flexibility and efficiency in rescuing data make it one of the best software out there.
 
 Note: For now, the tool can rescue data from broken Android only if your phone is earlier than Android 8.0, or rooted.
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -78,9 +73,6 @@ Look up for your device – pick the Vivo Y02T device Name and Device Model. Adv
 
 The data recovery tool will guide you on how you can go into your Vivo Y02T’s Download Mode. You should be getting a step-by-step guide on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android phone won't turn on data recovery](https://images.wondershare.com/drfone/guide/recover-data-from-broken-android-7.png)
 
 **Step 5: Scan the Android Phone.**
@@ -97,16 +89,11 @@ Wait for the program to finish scanning the phone – once completed, you will b
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ShpCFggyBvs"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Android Phone Won't Turn On: **One Click Fix**
 
 After repeated attempts, when your Android mobile/tablet stops buzzing, what options do you have to revive it?
 
 Well, we would recommend picking [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/) to fix an Android phone will not switch problem. This one-click Android system repair tool resolves every Android system issue without any fuss including Android Phone won't turn on issue.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -128,11 +115,12 @@ Step 1: Run Dr.Fone on your computer once the installation is complete and tap t
 
 ![fix Android Phone not turn on by repairing system](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: You will find a range of options, tap on the ‘Android Repair’ one. Hit the ‘Start’ button so that you can proceed to fix Android Phone won't turn on hassle.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![star to fix Android Phone not turn on](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 Step 3: Now, over the Vivo Y02T device information window, ensure to feed your exact device details. Press the ‘Next’ button then on.
@@ -146,6 +134,10 @@ Step 1: You need to put your Vivo Y02T in Download mode for resolving the Androi
 - For the Vivo Y02T device having ‘Home’ button, you got to switch it off and press ‘Volume Down’, ‘Home’, and ‘Power’ keys for 5-10 seconds at once. Let them go and click on the ‘Volume Up’ button to put your phone in ‘Download’ mode.
 
 ![fix Android Phone not turn on with home key](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - For ‘Home’ button-less device, turn the phone/tablet down first. For 5 – 10 seconds, hold down the ‘Volume Down’, ‘Bixby’, and ‘Power’ buttons. Tap on the ‘Volume Up’ button to get into the ‘Download’ mode, after releasing the 3 buttons.
 
@@ -217,6 +209,10 @@ In a simple language, Random Access Memory (RAM) temporarily stores the data fro
 
 The mobile applications installed on your smartphones are directly related to internal storage. The apps save their data every time, so they behave strangely when the Vivo Y02T device runs out of storage. If you’re using heavy mobile applications, it’s best to opt for smartphones with huge internal storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reasons Why My Vivo Y02T is Running Slow
 
 It’s not really hard to tell why your Vivo Y02T is slow because it’s apparently a common issue among users. But don’t worry. Most of the time, the problem is not a major concern. Here are some scenarios that may slow down your Vivo Y02Ts.
@@ -245,9 +241,17 @@ Operating systems and device software serve as the main component of all smartph
 
 Of course, a slow internet connection can make the Android phone runs slow too. Most apps today rely heavily on the internet to execute some tasks like communicating and streaming. So don’t panic when your Vivo Y02T is running slow and freezing. It’s possible that your internet connection is messing up with you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do When My Vivo Y02T Lags?
 
 It’s not as bad as the black screen of death when the Android phone runs slow. However, it can still cause some delays and inconvenience for users. So it’s really important to take action when you notice some anomalies with its speed and performance. Below are some remedies that can help you get rid of this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1: Reboot Your Phone
 
@@ -358,6 +362,10 @@ The device’s operating system may sometimes run into unexpected problems. That
 
 ![put device into download mode](https://images.wondershare.com/drfone/guide/android-system-repair-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Wondershare Dr.Fone will automatically download the firmware that matches your device’s specifications. Wait until the process has been completed.
 
 ![firmware download](https://images.wondershare.com/drfone/guide/android-system-repair-5.png)
@@ -390,6 +398,10 @@ Android phone is capable of performing lots of stuff. It can assist you in both 
 
 Just as any problem gives some indication of anything wrong is going to befall. Similarly, a user does feel some unexpected turns of events resulting in **_Play Store to stick at downloading_**. If one happens to see that the progress bar has suddenly frozen to a certain scope and taking ages to march any further, it is treated as the first signs for Play store not working properly. Another, such scenario is where your apps are not able to download easily. Rather, the Play store reflects a message downloads are yet in the pending queue. If one happens to witness such problems, these can be in fact be giving you the warning signal of the Play store problem
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Causes of why “Play Store Stuck on Downloading”
 
 With technology, uncertainties are bound to happen. It becomes quite tricky to analyze the real problem and craft a solution. As, there can be several causes that might be disturbing the smooth functionality of Play store. Here are some collated issues that we’ve gathered that are indicative of the cause.
@@ -399,18 +411,6 @@ With technology, uncertainties are bound to happen. It becomes quite tricky to a
 3. **Get rid of Cache:** Extras of cache can pose to be problematic in the working of applications. Users must timely clean their devices so as to brush away any kind of cache memory.
 4. **Outdated version of Play store app:** Users generally do not feel the urge for updating the play store app. It is important to use only the updated version so as the functioning of Google Play app is not affected.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: 7 fixes for Play Store stuck on downloading
 
 ### 3.1 Check SD card and phone storage space
@@ -424,8 +424,6 @@ Sometimes, it’s not your phone that is going all faulty, the root cause might 
 ### 3.3 One click to fix corrupted Play Store components
 
 The world of internet and its intricacies are beyond a novice’s realm. Chances of malfunctioning of Google Play Store may be due to the components relating to Play Store may have gone corrupted. To resolve such issue, the need of a good software that is courageous enough to tackle all kinds of issues is need. For that, the only perfect solution is Dr.Fone - System Repair (Android), an impeccable software useful in providing speedy recovery of your phone. With it you can ward away the issues like boot problem, black screen of death, phone stuck etc.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -448,6 +446,10 @@ Here is the complete guide which will help users in understanding how Dr.Fone - 
 First of all, load the program on PC. In the interim, draw connection of device with phone using a genuine cable. Over the interface, tap on “System Repair” mode.
 
 ![fix play store stuck on downloading](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Select Android Repair mode**
 
@@ -474,6 +476,10 @@ Fret not, the program will automatically detect the most suitable firmware for y
 After the package downloads, program will repair all kinds of problems surfacing over your phone automatically. This way, the **_Play store stuck on downloading_** will get resolved fully.
 
 ![get to repair android to fix play store download pending](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.4 Clear data and cache of Play Store and download again
 
@@ -502,12 +508,13 @@ When was the last time you cared to update your Play store app? Generally, users
 
 If you’re unable to see a streak of hope and wondering why my **_Play Store is still showing download pending_**. Well, some unexpected issue might be there with your Google account. As, there are times where your existing Google account can be the hurdle. Therefore, trying your hand in some other Google account might assist to work things out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.7 Avoid downloading large apps
 
 Last but certainly not the least, users must avoid downloading large applications. Especially those games that eats a whopping number of 300+MB of your space. You must always watch out on size of the application is and only then craft the decision to load it on your device. This may help out in keeping the **_Play store stuck on downloading_** problem at bay.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -521,9 +528,24 @@ Last but certainly not the least, users must avoid downloading large application
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-guide-to-youtube-to-webm-converter-apps/"><u>[New] In 2024, The Ultimate Guide to YouTube to WebM Converter Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ideal-choices-the-very-best-6-video-grabber-tools/"><u>[Updated] 2024 Approved Ideal Choices The Very Best 6 Video Grabber Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-a-user-friendly-guide-to-leveraging-windows-10-and-zoom/"><u>[Updated] In 2024, A User-Friendly Guide to Leveraging Windows 10 and Zoom</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-syma-x5c-review-best-drone-for-beginner/"><u>[Updated] In 2024, Syma X5C Review Best Drone for Beginner</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-13-mini-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 13 mini Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-camon-30-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Camon 30 Pro 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-v30-lite-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V30 Lite 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/huawei-p60-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Huawei P60 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy XCover 6 Pro Tactical Edition Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-the-art-of-content-erasure-on-linkedin/"><u>Mastering the Art of Content Erasure on LinkedIn</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a34-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A34 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-strategies-for-flawless-conversion-of-audio-files-into-mp3wma-format-without-quality-loss/"><u>Top Strategies for Flawless Conversion of Audio Files Into MP3/WMA Format Without Quality Loss</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-tfla0002-issue-in-microsoft-office/"><u>Ultimate Guide: Resolving the TFLA0002 Issue in Microsoft Office</u></a></li>
+</ul></div>
 

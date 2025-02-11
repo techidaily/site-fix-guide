@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor X50 GT | Dr.fone
-date: 2024-07-14T05:42:30.173Z
-updated: 2024-07-15T05:42:30.173Z
+date: 2025-02-07T21:21:58.929Z
+updated: 2025-02-10T18:11:49.233Z
 tags: 
   - problems
 categories:
@@ -86,6 +86,10 @@ If your touch screen is functional in safe mode, the issue is most likely intern
 
 ![turn-on-safe-mode-android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off Developer Options
 
 Every smartphone is bound to have limitations. However, smartphone makers include a “Developer Options” menu for advanced users. Here, restrictions are removed, and user preferences can be customized.
@@ -120,9 +124,6 @@ Resetting your device to its factory settings will return it to its state when y
 
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
@@ -142,6 +143,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 ****Step 2:**** Connect your Honor X50 GT or tablet to the computer using the appropriate cable. Choose ****Android Repair**** from the three options shown on the left side of the screen.
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
@@ -216,8 +221,6 @@ Fixing an Android ****part of the touch screen not working**** issue can be qui
 
 That’s why Dr.Fone – System Repair might be your best solution. It has all the tools you need to keep your Honor X50 GT 100%. Not only that, but with Dr.Fone, you can repair your Android system issues without dealing with any data loss.
 
-
-
 ## My Videos Aren't Playing on Honor X50 GT – What Can I Do?
 
 ![person holding their android with black screen](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-1.jpg)
@@ -268,6 +271,14 @@ Though there could be slight variations between different phones, you can usuall
 
 ![factory reset on android](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Restart Your Honor X50 GT
 
 While a factory reset is all but guaranteed to fix the issues you’re encountering with your videos, sometimes a simple restart might do the trick just fine. A restart works by clearing your RAM (Random Access Memory).
@@ -307,8 +318,9 @@ To clear the cache from your apps, you’ll want to go to **Settings > Apps.** F
 ![clear cache on android apps](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6. Update Android OS
 
 An outdated Android OS is usually the culprit behind many bugs and glitches you may encounter on your phone. It can prevent you from playing video files, accessing apps, taking photos, and more. It can lead to data corruption and loss, expose you to malware and cyberattacks, and compromise phone performance.
@@ -350,6 +362,10 @@ Fast, efficient, and powerful, Wondershare Dr.Fone can repair your Honor X50 GT 
 
 ![wondershare dr.fone system repair confirmation](https://images.wondershare.com/drfone/guide/android-system-repair-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 11**: Wait for the **Repairing Now**process to finish.
 - **Step 12**: Once the process is complete, click **Done**.
 
@@ -358,17 +374,15 @@ If the reason your videos wouldn’t play on your Honor X50 GT was a fault in th
 Remember that repairing your device with Wondershare Dr.Fone might result in data loss. Back up all your essential data before fixing your OS using this software to stay safe.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 8. Update the Video App
 
 Sometimes, it’s not the outdated OS version causing issues but rather the out-of-date video app. Like OS updates, app and other software updates often contain fixes for common problems and security patches. Not every update is there simply to introduce new features.
 
 To check whether you’re using the latest version of your video player, go to **Settings > Apps**. Find your video player app, tap it, and scroll down to the bottom of the page to see the version installed on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android app version](https://images.wondershare.com/drfone/article/2023/06/videos-not-playing-on-android-14.jpg)
 
 ### 9. Clear Cookies and Browsing Data
@@ -378,6 +392,10 @@ If online videos are causing problems, not your recorded or downloaded ones, you
 Cookies are usually there to improve the user experience, allowing you to load websites faster and enjoy improved performance. However, if your cookies and browsing data occupy too much space, they could pose problems.
 
 You’ll first need to launch your mobile browser to clear cookies and browsing data. If you’re using Google Chrome, the process is simple and streamlined. Tap the three dots in the upper right corner and go to **Settings**. From there, go to **Privacy and security > Clear browsing data > Clear data**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10. Reinstall Video Apps
 
@@ -391,9 +409,6 @@ To reinstall it again, go to the Google Play Store, search for the video app you
 
 **4,974,400** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Like other smartphones, Android devices occasionally encounter glitches when playing video files. In most instances, the solution can be as simple as restarting your device. In others, you might have to perform a full factory reset or use software like Wondershare Dr.Fone to repair your Android OS.
@@ -407,7 +422,6 @@ The growing conversation around the **missing app icons on Android** issue has c
 After all, the presence of app icons on our Android device's home screen is important for convenient access to our frequently used applications. When your Honor X50 GT's icons suddenly disappear, it can leave you feeling lost about how to use and access your apps.
 
 No worries, though. We've got you covered with a simple guide in this article. Just follow the steps, and you'll get those **missing app icons** back on your Honor X50 GT.
-
 
 ## Part 1: Make Sure if the Missing App Is Installed
 
@@ -426,6 +440,10 @@ Now, see whether you can find the **app icon that disappeared on your Android.**
 _“_**_All my apps disappeared from my home Android screen._** _What should I do?”_
 
 If you've confirmed that the missing app is installed, but its icon is nowhere to be found on your home screen, don't fret—there are several solutions you can take to locate and restore the **missing app icon on Android**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Check hidden apps
 
@@ -501,6 +519,10 @@ The platform will detect your Honor X50 GT's brand. Confirm the Name, Model, Cou
 
 ![Confirm your Honor X50 GT’s details](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Activate Download de
 
 Follow the instructions to put your Honor X50 GT into Download Mode. Once you are in Download Mode, the firmware will be downloaded automatically.
@@ -527,7 +549,6 @@ When the **app disappears from the home screen of your Android**, it can hinder 
 
 Whether it's due to accidental deletion or a system glitch, we have discussed various methods to recover the missing app and ensure smooth functionality in this article. In cases of system-related issues on your Honor X50 GT, it's advisable to rely on trustworthy software such as Dr. Fone's system repair tool for a comprehensive resolution.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -540,9 +561,21 @@ Whether it's due to accidental deletion or a system glitch, we have discussed va
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-thumbnails-as-a-key-player-in-video-marketing-strategies/"><u>[Updated] 2024 Approved Thumbnails as a Key Player in Video Marketing Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-building-a-community-through-periscope-streams/"><u>[Updated] Building a Community Through Periscope Streams</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-sound-the-10-most-powerful-audio-editing-software-for-2024/"><u>Elevate Your Sound The 10 Most Powerful Audio Editing Software for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-galaxy-a15-4g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Galaxy A15 4G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/master-smooth-videos-across-all-platforms-solutions-for-windows-macos-android-and-iphone-stabilization/"><u>Master Smooth Videos Across All Platforms: Solutions for Windows, macOS, Android & iPhone Stabilization</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-note-30-vip-racing-edition-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix Note 30 VIP Racing Edition? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-tecno-camon-20-premier-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Tecno Camon 20 Premier 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722701037883-unbeatable-prime-day-discounts-sweet-apple-savings-await/"><u>Unbeatable Prime Day Discounts: Sweet Apple Savings Await!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/zoom-class-chronicling-for-2024/"><u>Zoom Class Chronicling for 2024</u></a></li>
+</ul></div>
 

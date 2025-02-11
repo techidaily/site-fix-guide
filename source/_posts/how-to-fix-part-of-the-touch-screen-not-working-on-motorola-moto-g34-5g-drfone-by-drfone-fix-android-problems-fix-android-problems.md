@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Motorola Moto G34 5G | Dr.fone
-date: 2024-07-14T05:43:27.055Z
-updated: 2024-07-15T05:43:27.055Z
+date: 2025-02-03T19:35:00.428Z
+updated: 2025-02-10T19:04:26.586Z
 tags: 
   - problems
 categories:
@@ -56,9 +56,6 @@ Before proceeding to how to fix an unresponsive touch screen on an Android devic
 
 If you have already tried running the Motorola Moto G34 5G device in diagnostic mode and verified that it is not physically damaged, then the problem is most likely technical. If your Motorola Moto G34 5G’s screen is not responding to touches for technical reasons, follow the methods below to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restart Your Device
 
 When your touch screen stops working, the first thing you should do is restart your device. The operation is known as soft resetting. You cannot turn your device off from the option on the screen because the touch screen is not responding. Here are the steps to take.
@@ -143,6 +140,10 @@ Follow the steps given below on how to use Wondershare Dr.Fone System Repair fo
 
 ![drfone android repair](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** The device information screen will appear in the next window. There, input your device’s unified brand, name, model, country/region, and carrier information. Then click ****Next**** after you confirm the warning.
 
 ![drfone android repair device information](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
@@ -210,9 +211,6 @@ Check below to know Dr.Fone – System Repair’s limitations:
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Fixing an Android ****part of the touch screen not working**** issue can be quickly done with just a few fixes you can do on your own. However, there may be times when the solutions provided above may not work, and the worst part is factory resetting your phone erases all your data.
@@ -227,9 +225,6 @@ If so, don’t worry; you’re not alone. Snapchat crashing in this way is nothi
 
 Fortunately, there are plenty of solutions out there to help you out and get the app working again as it should do. Today, we’re going to explore them all to help you get back to what you were doing before and as though there was never a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Install Snapchat again from Google Play Store
 
 ![snapchat not responding - reinstall snapchat](https://images.wondershare.com/drfone/article/2019/04/install-snapchat-googleplay.png)
@@ -270,6 +265,10 @@ Here’s how to fix it.
 
     ![wipe cahce of snapchat crashing - step 2](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-two.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Scroll down the Settings menu and tap the Clear Cache option
 
     ![wipe cahce of snapchat crashing - step 3](https://images.wondershare.com/drfone/article/2019/04/snapchat-cache-three.png)
@@ -288,7 +287,9 @@ If you’re experiencing the Snapchat crashing on Android often, or you’re exp
 
 The best way to fix this is to repair your device using the software known as Dr.Fone - System Repair (Android). This is a powerful repair system that can completely recover your device from any errors, including the Snapchat keeps crashing error.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -334,11 +335,19 @@ The method will slightly differ depending on whether your device has a home butt
 
 ![snapchat crashing - fixed issue](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 5. Check for the Android update
 
 ![snapchat stopping - check for android update](https://images.wondershare.com/drfone/article/2019/04/android-update-firmware.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Similar to some of the other solutions we’ve listed above, if you’re using an outdated version of the Android operating system, but the latest version of Snapchat is coded to the most recent, this can be a cause for the Snapchat crashing on Android problem to occur.
 
@@ -366,9 +375,21 @@ To resolve this, you can simply try connecting to another Wi-Fi network or a dat
 
 ![snapchat stopping - reconnect wifi](https://images.wondershare.com/drfone/article/2019/04/android-wifi-change3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7. Stop using the custom ROM
 
 ![snapchat stopping - stop rom](https://images.wondershare.com/drfone/article/2019/04/android-custom-rom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you’re running a custom Android ROM on your device, with some versions of the ROM and some apps, you’re going to experience errors simply because of the way the apps and the ROMs are coded and designed.
 
@@ -384,9 +405,6 @@ However, this reflashing process is simple thanks to the Dr.Fone - System Repair
 6. Put your device into Download Mode by following the onscreen instructions
 7. Allow the software to repair your Motorola Moto G34 5G automatically
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 8. Reset the factory settings of your Android
 
 ![snapchat stopping - factory resetting](https://images.wondershare.com/drfone/article/2019/04/android-factory-reset.jpg)
@@ -401,8 +419,6 @@ Make sure you back up your personal files from your device first like your photo
 
 **Step 2:** Click the Reset Phone option. That’s it! The phone will take several minutes to complete the process, after which your phone will be reset to its original state.
 
-
-
 ## Bricked Your Motorola Moto G34 5G? Here’s A Full Solution
 
 A bricked phone is a device that won’t turn on no matter what you do and everything you try to do to fix it doesn’t work. Most people will tell you that there is really nothing you can do to fix a bricked device. But with the right information, the right buttons to push and useful additional software you can actually try to fix a bricked device.
@@ -412,8 +428,6 @@ In this article we are going to look at how you can fix your device if you are s
 ## Part 1: Rescue the data on your Bricked Android Phone
 
 Before we can learn how to fix a bricked device, it is important that you are able to save the data that is on the Motorola Moto G34 5G device. Having the data saved somewhere else will be the added insurance you need in case anything goes wrong during the process. There are very few software solutions in the market to help you get back data from a bricked device. One of these and the most reliable is [Wondershare Dr.Fone - Data Recovery (Android)](https://drfone.wondershare.com/broken-android-data-recovery.html).
-
-
 
 ### Dr.Fone - Data Recovery (Android)
 
@@ -452,6 +466,10 @@ Step 5: The program will begin an analysis of your device and then download the 
 
 ![bricked android phone data recovery-download the recovery package](https://images.wondershare.com/drfone/drfone/android-recover-broken-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 6: Then Dr.Fone will display all the recoverable file types. You can click on the files to preview them. Select the ones you need and click on "Recover to Computer" to save them to your computer.
 
 ![bricked android phone data recovery-click on Recover](https://images.wondershare.com/drfone/drfone/broken-android-data-recovery-07.jpg)
@@ -472,9 +490,6 @@ Step 2: Once you are in, navigate to the “Reboot system now.” If you are usi
 
 ![bricked android phone data recovery-Reboot system now.](https://images.wondershare.com/drfone/others/fix-bricked-android-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### When the Motorola Moto G34 5G device won’t stop rebooting
 
 Here’s what to do if the Motorola Moto G34 5G device wont stop rebooting.
@@ -486,6 +501,10 @@ Step 2: Go to “Advanced” which will bring up a number of options to choose f
 Step 3: One of the options should be “Wipe Dalvik cache” select this option and then follow the instructions. When finished select “Go Back” to return to the main menu.
 
 ![bricked android phone data recovery-Go Back](https://images.wondershare.com/drfone/others/fix-bricked-android-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Go to the “Wipe Cache Partition” and select it.
 
@@ -517,7 +536,6 @@ If you are planning on installing custom ROM you need to install Custom Recovery
 
 While installing Custom ROM can actually be a great way to customize your device, it is also the leading reason for bricked devices. Therefore ensure that you understand what you are doing when you decide to customize your device. Learn as much as you can about the process before attempting everything.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -530,9 +548,24 @@ While installing Custom ROM can actually be a great way to customize your device
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-discovering-6-interactive-workout-ideas-for-social-media-success/"><u>[Updated] Discovering 6 Interactive Workout Ideas for Social Media Success</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-supreme-boundless-data-depot/"><u>[Updated] Supreme Boundless Data Depot</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-6-video-tactics-for-captivating-audiences/"><u>[Updated] Top 6 Video Tactics for Captivating Audiences</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exclusive-leaderboard-luminary-youtube-videographers-guide/"><u>2024 Approved Exclusive Leaderboard Luminary YouTube Videographer's Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fully-encompassed-angle-gearing/"><u>2024 Approved Fully Encompassed Angle Gearing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-x100-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo X100 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-reno-8t-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo Reno 8T Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-gpt-suitable-for-editing-text/"><u>Is GPT Suitable for Editing Text?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-asus-rog-phone-8-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Asus ROG Phone 8 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-v-purse-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor V Purse Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-70-lite-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor 70 Lite 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-future-of-work-gadgets-in-an-ai-powered-world-perspectives/"><u>The Future of Work Gadgets in an AI-Powered World: Perspectives</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-impending-shake-up-meta-vs-european-social-media-giants/"><u>The Impending Shake-Up: Meta Vs. European Social Media Giants</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-video-kompression-tools-effizientes-verringern-der-datei-grossen/"><u>Top Video Kompression Tools: Effizientes Verringern Der Datei Größen</u></a></li>
+</ul></div>
 

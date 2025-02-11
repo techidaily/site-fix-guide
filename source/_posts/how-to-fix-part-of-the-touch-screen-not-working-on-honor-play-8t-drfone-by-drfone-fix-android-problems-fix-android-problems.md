@@ -1,7 +1,7 @@
 ---
 title: How To Fix Part of the Touch Screen Not Working on Honor Play 8T | Dr.fone
-date: 2024-07-14T05:42:27.763Z
-updated: 2024-07-15T05:42:27.763Z
+date: 2025-02-09T21:38:38.284Z
+updated: 2025-02-11T02:14:58.616Z
 tags: 
   - problems
 categories:
@@ -31,6 +31,10 @@ Now, the problem can affect any Android phone, and users may encounter the follo
 - LG screen is unresponsive to touch
 - Honor Play 8T ****left side of the screen is not working****
 - Redmi’s whole screen is unresponsive to touch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Different Types of Touch Screen Issues and What You Should Check Before Fixing
 
@@ -64,9 +68,6 @@ When your touch screen stops working, the first thing you should do is restart y
 
 **Tip:** If you hold down the power button for a few seconds, you will see the “Power Off” and “Restart” options on the screen. You can’t use it because the entire screen isn’t responding. Hence, you should press and hold the “Power” button for as long as necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart android with power button](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-1.JPG)
 
 ****Step 2:**** When the Honor Play 8T device turns off, wait a few seconds.
@@ -107,6 +108,10 @@ If you enable Developer Options on some Android devices, they may stop working p
 
 ****Step 5:**** Restart your device to check if the part of the touch screen not working issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Device to Factory Settings
 
 Resetting your device to its factory settings will return it to its state when you first unboxed it. All your phone’s data and installed apps will be erased, including any malware on your device that may be causing the issue to occur. Here’s how to restore your device to factory settings:
@@ -124,6 +129,10 @@ Resetting your device to its factory settings will return it to its state when y
 ****Tip:**** Since all your data will be removed, it’s recommended to [<u>back up your data</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) first before resetting your device to factory settings.
 
 ![erase device to factory reset android](https://images.wondershare.com/drfone/article/2023/04/how-to-fix-part-of-the-touch-screen-not-working-issue-on-android-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Fix Using a Third-Party App – Wondershare Dr.Fone
 
@@ -192,6 +201,10 @@ Dr.Fone – System Repair is a data management and recovery tool that contains s
 - Troubleshoots and repairs a wide range of Android system problems, including black screen of death, Play Store not working, apps crashing, phone stuck in a boot loop, and bricked Android issues
 - A high success rate for fixing Android system issues
 - Fixes Android system back to normal
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pros
 
@@ -264,11 +277,13 @@ Uninstalling Google Play Store updates has also responded well to many users. It
 
 ![settings crashing - uninstall update](https://images.wondershare.com/drfone/article/2019/04/uninstall-google-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Uninstall the custom ROM or re-flash the stock ROM
 
 Using a custom ROM on your device brings up this problem due to incompatibility or improper installation. Therefore, you should either uninstall the custom ROM or re-flash the stock ROM. in order to re-flash the stock ROM of your Honor Play 8T, the best way would be Dr.Fone - System Repair (Android). It offers one-click functionality to flash stock ROM and that too with full security. Supporting all Honor Play 8T devices, it ranks among its counterparts when it comes to fixing crashing Phone app issues or any other Android system issue. It is loaded with the beneficial features which are discussed below.
-
-
 
 ### Dr.Fone - System Repair (Android)
 
@@ -356,8 +371,6 @@ For iOS users facing similar problems, we recommend using [Dr.Fone-System Repair
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
-
 ## Google Play Services Won't Update? 12 Fixes are Here on Honor Play 8T
 
 Google Play Services is a crucial component of any Android device, responsible for supporting various Google apps and services. However, at times, users may encounter issues with updating Google Play Services, preventing them from accessing the latest features and security updates.
@@ -384,8 +397,6 @@ For those seeking a quick and effortless solution, several third-party tools off
 
 If you cannot update Google play services by the reason of custom ROM incompatibility or Google Play component corruption, there is a serious need of repairing firmware then. And to repair Android firmware, one of the expert ways is [Dr.Fone - System Repair (Android)](https://tools.techidaily.com/wondershare/drfone/android-repair/). This professional tool vows to bring your Honor Play 8Ts back to normal by fixing the issues with ease. Here are the advantages of this tool.
 
-
-
 ### Dr.Fone - System Repair (Android)
 
 Android repair tool to fix Google Play Services not updating
@@ -404,9 +415,6 @@ Android repair tool to fix Google Play Services not updating
 
 Initiate the process of downloading the software on your computer. Now, click on “Install” button and go along with the installation procedure. Click on “System Repair” option from the Toolbox window.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![fix google play services not updating with Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 2: Device Connection**
@@ -420,6 +428,10 @@ Now, taking the assistance of an original USB cable, connect your Honor Play 8T 
 You will notice the next screen which asks for some information. Please ensure to choose the correct device brand, name, model, career, and other needed details. Click on “Next” after this.
 
 ![google play services not updating - enter details and fix](https://images.wondershare.com/drfone/guide/android-system-repair-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4: Download Mode**
 
@@ -464,6 +476,10 @@ Ensure that you have the latest version of the Google Play Store app installed o
 
 Go to your device's Settings, select Accounts or Users, and remove your Google account. Restart your device and add the account again. This process can refresh the connection and resolve update issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5. Uninstall unnecessary apps
 
 As we mentioned above, due to a lot of apps being installed at the same time, the issue can crop up. And hence, if the above solution didn’t help, you can try to uninstall the apps that you don’t need currently. We hope this works. But if not, you can go to the next fix.
@@ -475,6 +491,10 @@ If still you cannot update Google Play Services, clearing cache can solve your p
 Here is how to clear Google Play Services cache:
 
 ![set correct date and time](https://images.wondershare.com/drfone/article/2023/05/clear-cache.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Launch “Settings” on your phone and go to “Apps & Notifications” or “Application” or “Application Manager”.
 - Now, from all the apps’ list, choose “Google Play Services”.
@@ -505,13 +525,14 @@ Some devices aggressively optimize battery usage, which can interfere with the b
 
 Sometimes, incorrect date and time settings on your device can cause conflicts with Google Play Services updates. Ensure that your device's date and time are set correctly and set to automatic. Follow the steps below to set the date and time on your android correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set correct date and time](https://images.wondershare.com/drfone/article/2023/05/date-and-time.jpg)
 
 - Open "Settings" and go to "General Management".
 - Click "Date & time" and then enable "Automatic date & time". Or you can disable and re-enable it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 11. Factory Reset your Android
 
@@ -533,8 +554,9 @@ To provide further clarity, here are some frequently asked questions about Googl
 Google Play Services is a background service on Android devices that provides essential functionality and support for various Google apps and services. It includes features like authentication, push notifications, location services, and more, enabling seamless integration and enhanced performance for Google apps.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Why is it important to keep Google Play Services updated?
 
 Keeping Google Play Services updated is crucial for several reasons. It ensures compatibility with the latest versions of Google apps, improves app performance, and enhances security. Updates often introduce new features, bug fixes, and optimizations, providing a better user experience and access to the latest advancements offered by Google.
@@ -552,9 +574,6 @@ To check the version of Google Play Services on your Honor Play 8T, follow these
 - **Step 3.** Scroll down and select "Settings."
 - **Step 4.** Scroll to the bottom and find the "Play Store version" or "Play Services version". The number displayed indicates the version of Google Play Services installed on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Why is my device not compatible with the latest version of Google Play Services?
 
 There can be several reasons why a device is not compatible with the latest version of Google Play Services. It could be due to hardware limitations, an outdated Android operating system version, or the Honor Play 8T device no longer receiving official software updates. Compatibility requirements can change with newer versions of Google Play Services, and older devices may not meet the necessary criteria to support the latest updates.
@@ -562,7 +581,6 @@ There can be several reasons why a device is not compatible with the latest vers
 ## Conclusion
 
 Encountering difficulties when updating Google Play Services can be frustrating, but with the right approach, these issues can be resolved. By understanding the causes and implementing the suggested fixes outlined in this guide, you can overcome the Google Play Services update problem. Remember to prioritize storage space, ensure a stable internet connection, and keep your apps and system components up to date. By doing so, you can enjoy the full functionality of Google Play Services and benefit from the latest features and security enhancements.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -576,9 +594,18 @@ Encountering difficulties when updating Google Play Services can be frustrating,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-effortless-video-integration-into-blog-posts-and-essays/"><u>[New] In 2024, Effortless Video Integration Into Blog Posts & Essays</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-seven-finest-stardew-valley-customizations-unveiled/"><u>[New] In 2024, The Seven Finest Stardew Valley Customizations Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonious-histories-exploring-musical-legends-with-these-15-video-documentaries/"><u>[Updated] In 2024, Harmonious Histories Exploring Musical Legends with These 15 Video Documentaries</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-tv-friendly-settings-for-repeated-online-videos/"><u>2024 Approved TV-Friendly Settings for Repeated Online Videos</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/convert-your-avi-files-to-mp4-format-for-free-with-movavi-omvandlare-user-friendly-digital-media-software/"><u>Convert Your AVI Files to MP4 Format for Free with Movavi Omvandlare - User-Friendly Digital Media Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-moto-g84-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Moto G84 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-vivo-x100-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo X100 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-classics-upgraded-videos-through-madvr-and-pcs/"><u>Redefine Classics: Upgraded Videos Through MadVR and PCs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-80-pro-straight-screen-edition-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor 80 Pro Straight Screen Edition Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo Reno 8T | Dr.fone</u></a></li>
+</ul></div>
 
