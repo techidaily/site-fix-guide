@@ -1,7 +1,7 @@
 ---
 title: Edit and Send Fake Location on Telegram For your Tecno Camon 20 in 3 Ways | Dr.fone
-date: 2024-07-14T05:35:27.882Z
-updated: 2024-07-15T05:35:27.882Z
+date: 2025-02-18T16:33:53.877Z
+updated: 2025-02-20T16:21:28.847Z
 tags: 
   - virtual location change
   - social app
@@ -21,9 +21,17 @@ Telegram is an ad-free messaging application for Android and iOS. This app was e
 
 There are numerous reasons to fake location on Telegram. However, here are the main ones:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Protect your privacy
 
 While signing up on Telegram, you’ll often allow the messaging app to track your GPS location. Unfortunately, this also applies to other messaging apps like Facebook, WhatsApp, Instagram, etc. Therefore, to prevent Telegram from accessing and sharing your real-time location, you’ll need to spoof GPS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Prank your friends
 
@@ -36,6 +44,10 @@ As said before, Telegram has a “People Nearby” feature for giving you friend
 ## Part 2. How to Send Fake Location on Telegram?
 
 We are here to provide the three most-used methods for you to change location on Telegram. Not every solution is suitable for every situation that everyone encounters, but there is always one that is right for you. Some methods may require the assistance of a computer, some can be done only on a mobile phone, and the success rate varies greatly. Now let’s learn how to fake location on Telegram using three simple methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Change Telegram location on Android/ iOS with the best Location Changer
 
@@ -70,9 +82,11 @@ Next, open your smartphone’s Settings app and enable USB debugging to connect 
 
 ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After successfully connecting your device to Dr.Fone, tap **Next** to open the Virtual Location map. Now enter the **Teleport Mode** and key in the GPS coordinates or location you want to move to. Alternatively, simply tap a spot on the map and click **Move Her**e. And there is that!
-
-
 
 ### Method 2: Fake a live telegram location via VPN (Android & iOS)
 
@@ -96,10 +110,11 @@ Step 2. Next, open **Additional Settings** and choose **Developer options** on y
 
 Step 3. Now launch the app and choose your new GPS location. If satisfied, simply tap the green **Play** button.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Part 3. FAQs About Creating a Fake GPS on Telegram?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q1: Can my friends know when I fake a Telegram location?
 
@@ -125,6 +140,9 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 
 ![find my friends app](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part1: How to track friends using iPhone or Android
 
@@ -150,10 +168,11 @@ Let's see how one can use the "find my friends" on the iPhone, shall we?
 
 If you want to share your location, launch the app first. Then Tap "Me." Then, keep your "Share My Location" switched on.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![How to use Find my friends app 3](https://images.wondershare.com/drfone/2023/virtuallocation/How-to-use-Find-my-friends-app-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.2 Tracking Friends Using Android
 
@@ -195,9 +214,6 @@ Remember, there are several other find my friends apps in the app store, which c
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is the My Location feature on Viber?
 
 If you’ve used WhatsApp’s location feature before, you’ll know what Viber’s “My Location” is all about. With this feature, you can share your live location for whatever reasons you may have. For example, you may want to share your live location with your kids or vice-versa. Or, you might simply want to share a fake location on Viber with your nosy friends.
@@ -210,10 +226,11 @@ So, without wasting too much time, let’s find out the steps to disable/enable 
 
 Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Here, proceed to open a chat that you want to enable/disable location sharing.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
@@ -221,9 +238,6 @@ Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of 
 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
@@ -276,7 +290,9 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -306,12 +322,13 @@ Do you want to show your friends that you’re in London or New York when you’
 
 If you’re a digital marketer, you might want to convince your potential clients that the goods are from a specific region or city close to them. Believe it or not, this can lead to more sales closures.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Wrap it Up
 
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -325,9 +342,17 @@ You can share your live location on Viber just like you would on Facebook, Whats
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-fast-and-efficient-image-captures-pcs-top-snipping-software-ranked/"><u>[Updated] Fast & Efficient Image Captures PC's Top Snipping Software Ranked</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-novices-pathway-to-writing-youtube-video-plans-for-2024/"><u>A Novice's Pathway to Writing YouTube Video Plans for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-release-a-stuck-update-on-legacy-operating-systems-like-win7-new-edition-of-comprehensive-guide-for-users-seeking-assistance-in-the-year-of-our-lord-76/"><u>How to Release a Stuck Update on Legacy Operating Systems Like Win7? - New Edition of Comprehensive Guide for Users Seeking Assistance in the Year of Our Lord Two Thousand and Twenty-Four! (Step by Step Guide & Expert Advice)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-4g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/reinitialisation-du-dossier-dobsolescence-de-lapi-microsoft-sous-windows-107-methodes-pratiques/"><u>Réinitialisation Du Dossier D'Obsolescence De L'API Microsoft Sous Windows 10/7: Méthodes Pratiques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-7-insights-on-fords-redesigned-ram-1500-the-rev/"><u>Top 7 Insights on Ford's Redesigned Ram 1500: The REV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-guide-for-windows-11-anomalies/"><u>Troubleshooting Guide for WINDOWS 11 Anomalies</u></a></li>
+</ul></div>
 

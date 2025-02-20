@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Infinix Smart 8 ? Fix It Easily | Dr.fone
-date: 2025-02-09T21:17:47.556Z
-updated: 2025-02-10T16:36:09.638Z
+date: 2025-02-17T16:24:33.066Z
+updated: 2025-02-20T16:16:34.436Z
 tags: 
   - problems
 categories:
@@ -40,9 +40,17 @@ Step 3: Press the Volume up and Volume down keys and use the Power key to select
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: The white Google logo will appear immediately followed by the Android logo again as well as the words "No Command" at the bottom of the screen.
 
 ![stuck at android system recovery](https://images.wondershare.com/drfone/others/android-system-recovery-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Finally, press and hold both the Power and the Volume up Key for around 3 seconds and then let go of the Volume up Key but keep holding the Power Key. You should see the Android system recovery options at the top of the screen. Use the Volume keys to highlight and the Power key to select the one you want.
 
@@ -51,6 +59,10 @@ Step 5: Finally, press and hold both the Power and the Volume up Key for around 
 ## Part 3. Android Stuck at System Recovery? How to fix in one click?
 
 Sometimes during the System Recovery process, the process can glitch, and you'll lose data on your device, rendering it unusable. However, another solution to fix this is to repair your device using the [Dr.Fone - System Repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (Android)
 
@@ -72,6 +84,10 @@ One-stop solution to fix Android stuck at System recovery
 Once installed on your computer, open onto the main menu and connect your Infinix Smart 8 using the official USB cable. Select the System Repair option.
 
 ![fix Android stuck at System recovery](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #2** Select the 'Android Repair' option from the next screen.
 
@@ -100,10 +116,6 @@ After downloading, the software will automatically start to repair your device b
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4. Android Stuck at System Recovery? How to fix in a common way?
 
@@ -174,7 +186,7 @@ The reasons why your Android is not receiving texts are given below:
 Apart from all these reasons, some additional causes are also there that can lead to this issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: One-click to Fix Android not Receiving Texts by Android System Repair
@@ -241,10 +253,6 @@ Step 1: Open the Settings and go to Apps. Find the Messages app from the list an
 
 ![android not receiving texts clear cache](https://images.wondershare.com/drfone/article/2019/02/clear-message-cache.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Click on the Clear Cache button and wait as the Infinix Smart 8 device free up the memory of your device.
 
 Once the cache is cleared, you can also clear the data if you want to and you’ll instantly receive the text messages on your phone.
@@ -295,10 +303,6 @@ Fortunately, there are ways to overcome this, and one of the best is Dr.Fone. In
 
 ![hand holding a phone](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Understanding Stuck and Dead Infinix Smart 8s on Phone Screens
 
 While dead and ****stuck pixels on the phone**** may seem similar, there are important distinctions between the two. Read on to discover the differences and what causes them.
@@ -314,7 +318,7 @@ In contrast to the stuck pixel, the dead pixel subpixels are all left unpowered,
 ![stuck white pixel and dead pixel](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some Differences Between Stuck and Dead Infinix Smart 8s on Phone
@@ -338,10 +342,6 @@ Stuck and ****dead pixels on phone screen****s can happen for various reasons, i
 
 - ****Age-related wear and tear****. Over time, the display on your phone may start to wear out, resulting in the appearance of dead or stuck pixels on the phone. It is more common in older devices and those with high usage rates. Factors such as exposure to sunlight or excessive phone use can also contribute to the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How To Fix Dead Infinix Smart 8s on Phone Screens on Android Devices
 
 It is essential to have the right tools and knowledge to ****fix dead pixels on your phone**** screen. Fortunately, you can use several effective techniques to address the issue. In this section, you will discover step-by-step instructions on how to ****fix dead pixels on phone**** screens on Android devices.
@@ -363,10 +363,6 @@ Before attempting to fix a ****dead pixel on a smartphone**** screen, it is nec
 ****Step 4:**** Finally, ensure that your screen is clean and free from any smudges or dirt that could affect the accuracy of fixing ****dead pixels on the phone****. You can use a microfiber cloth to clean your screen gently, making sure not to apply too much pressure or use any harsh chemicals that could damage the screen.
 
 ![wiping phone screen with clean cloth](https://images.wondershare.com/drfone/article/2023/04/android-screen-stuck-general-phone-partly-screen-unresponsive-06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Restart Your Infinix Smart 8
 
@@ -399,7 +395,7 @@ Visit the help page for your device's manufacturer to learn how to activate and 
 ****Step 3:**** To resolve issues related to a problematic app on your phone, remove the most recent downloads one at a time, and restart your phone after each uninstallation. Check if uninstalling the app resolves the issue. Once you know the problematic app, you may install the other applications you deleted again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 4: Perform Factory Data Reset
@@ -421,10 +417,6 @@ It is crucial to wait for the system to finish deleting all data during the fact
 Dealing with the ****stuck pixels on the phone**** can be a challenging issue to tackle. Although Dr.Fone may not be able to fix this issue directly, it can still provide support with other problems you might face during the process. This includes content backup and recovery, as well as system repair for other system issues such as a black screen, being stuck in a boot loop, forced termination, and more. In this section, you'll learn how to use Dr.Fone's System Repair feature.
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ****Step 1:**** Install and launch [<u>Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/), then click ****System Repair****.
 
@@ -449,7 +441,7 @@ Wondershare Dr.Fone provides support for Infinix Smart 8 S22 as well as other po
 ****Step 6:**** Your device will need to have the new Android firmware flashed onto it, which Wondershare Dr.Fone will take care of. Simply wait while the process completes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Benefits of Using Dr.Fone on Phones With Dead Infinix Smart 8s
@@ -471,6 +463,10 @@ Aside from the methods and tools discussed for fixing ****dead pixels on phone s
 
 No, a ****dead pixel on the phone**** is permanent. There is a much lower chance that dead pixels will self-correct over time. They are often impossible to fix using any of the widely used techniques. Unlike stuck pixels, they rarely have a chance of recovery. Before giving up, verify if the pixel is dead, as stuck pixels may be fixable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Can Dead Infinix Smart 8s Worsen?
 
 Dead pixels cannot spread because each pixel functions independently of the others. Thus, a ****dead pixel on the phone**** does not affect surrounding pixels. However, it can be a nuisance for users, especially if it appears in prominent parts of the screen. Call an expert if you see that it is spreading so they can diagnose the issue and assess whether a repair is possible.
@@ -478,6 +474,10 @@ Dead pixels cannot spread because each pixel functions independently of the othe
 ### 3\. Why Are Dead Infinix Smart 8s Spreading on My Infinix Smart 8?
 
 It simply signifies that this specific area of your screen had poor manufacturing quality or is physically damaged if you have a patch of closely spaced ****dead pixels on your phone****. When a group of dead pixels is close together, it indicates localized damage or defect to that specific area. So, the pixels in that region no longer produce light or color.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. How Many Stuck Infinix Smart 8s Are Acceptable?
 
@@ -507,20 +507,16 @@ Remember to back up your data before attempting any fixes and to seek profession
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-filmmakers-handbook-to-superior-voice-overseeing/"><u>[New] In 2024, The Filmmaker's Handbook to Superior Voice Overseeing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-beginners-guide-to-mastering-final-cut-pro-for-2024/"><u>[New] The Ultimate Beginner’s Guide to Mastering Final Cut Pro for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-dissecting-the-emerging-trends-in-facebook-short-videos/"><u>[Updated] 2024 Approved Dissecting the Emerging Trends in Facebook Short Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-through-the-best-picks-in-instagram-ringtone-and-exceptional-alerts/"><u>2024 Approved Navigating Through the Best Picks in Instagram Ringtone & Exceptional Alerts</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-lava-blaze-2-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Blaze 2 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-x50i-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor X50i Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-blaze-2-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze 2 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/securing-sharp-visibility-a-guide-to-efficient-zooming-in-google-meets/"><u>Securing Sharp Visibility A Guide to Efficient Zooming in Google Meets</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/setting-benchmarks-a-look-at-successful-igtv-videos-for-2024/"><u>Setting Benchmarks A Look at Successful IGTV Videos for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-adjusting-your-personal-privacy-preferences-through-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Personal Privacy Preferences Through Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-funny-youtube-shorts-video-ideas/"><u>[Updated] Top 10 Funny YouTube Shorts Video Ideas</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/constructing-cozy-cornerstones-easy-mc-house-plans/"><u>Constructing Cozy Cornerstones Easy MC House Plans</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-a59-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo A59 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-honor-90-gt-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Honor 90 GT Without PUK Codes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-tele-loop-techniques-easy-endless-watching-on-television/"><u>In 2024, Tele-Loop Techniques Easy, Endless Watching on Television</u></a></li>
+<li><a href="https://windows11.techidaily.com/maintain-full-size-icons-on-your-windows-11-machine/"><u>Maintain Full-Size Icons on Your Windows 11 Machine</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a1-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A1 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nubia-red-magic-8s-proplus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nubia Red Magic 8S Pro+ Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-gt-3-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme GT 3 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 

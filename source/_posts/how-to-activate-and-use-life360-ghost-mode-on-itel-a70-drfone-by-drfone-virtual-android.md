@@ -1,7 +1,7 @@
 ---
 title: How To Activate and Use Life360 Ghost Mode On Itel A70 | Dr.fone
-date: 2024-07-14T05:34:09.201Z
-updated: 2024-07-15T05:34:09.201Z
+date: 2025-02-13T16:45:52.935Z
+updated: 2025-02-20T16:34:19.591Z
 tags: 
   - virtual location change
   - social app
@@ -37,8 +37,6 @@ Now that you know all of **Life360 Ghost Mode updates** and their significance, 
 ## Part 2. How To Activate Ghost Mode on Life360
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile tool for enhancing privacy. With its key features, you can activate **Life360’s Ghost Mode**. It offers great control over your GPS location. Here are the key features of Dr.Fone to maximize Ghost Mode.
-
-
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
@@ -114,18 +112,6 @@ Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
 
 When Ghost Mode feels too troublesome, alternative methods exist to turn off location sharing on Life360 temporarily. Here’s a guide on six different approaches:
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Turning Off WiFi and Data
 
 Disabling WiFi and data on Life360 is a common method to prevent location tracking. Here’s a step-by-step guide:
@@ -143,10 +129,11 @@ Disabling location services provides an effective solution for pausing Life360 w
 - **Step 1 (iOS):** Go to **Settings** > **Privacy** > **Location Services**. Scroll and find Life360.
 - **Step 1 (Android):** Go to **Settings** > **Apps** > **Life360**.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turning off life360 location services](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
 - **Step 2 (iOS):** Tap on it and opt for **Never** to turn off location access for Life360.
@@ -167,9 +154,6 @@ Activating Airplane Mode deactivates all network connections. It includes GPS, o
 
 **For iOS**: Swipe your screen to access the Control Center. Tap the airplane icon to activate **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turning on airplane mode](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-11.jpg)
 
 **For Android**: Swipe your screen to access the quick settings menu. Tap the airplane icon to enable **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
@@ -182,13 +166,15 @@ While it may seem cumbersome, using a burner phone is a straightforward method t
 
 Using a VPN service alters your IP address, which can help spoof Life360 to show an inaccurate location. The approach is beneficial when you aim to conceal your location without entirely turning off location sharing. Remember, though, that it’s not foolproof and may not provide consistent results.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 **Life360 Ghost Mode**, though not an official feature, provides a discreet way to enhance privacy within the app. While it’s a valuable tool for moments when you need personal space, be aware of its downsides. If Ghost Mode seems too risky, explore alternative methods.
 
 The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient option. Striking the right balance between connectivity and privacy in Life360 requires thoughtful consideration. Explore the dynamics of **Ghost Mode in Life360** to decide if it aligns with your preferences and needs.
-
-
 
 ## How to Share/Fake Location on WhatsApp for Itel A70
 
@@ -205,6 +191,10 @@ There are many situations where users might need to set up fake locations, for f
 Whatever your reason is to fake location on WhatsApp, you can use a third-party app for the job as long as it is legit.
 
 ## Part 2. All You Want to Know about WhatsApp Location Function
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.1 Send Location on WhatsApp
 
@@ -286,6 +276,10 @@ Now, you can go to the search bar and look for any location (address, city, stat
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Step 3: Share fake location on WhatsApp_
 
 To change your location, move the pin as per your requirements, and click on the “Move Here” button to mock your location.
@@ -312,11 +306,6 @@ Step 2: Afterward, select the trip type, number of rounds, and speed according t
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.2 Fake location on WhatsApp using iTools location spoofer
 
 Unfortunately, faking your WhatsApp location on iPhone is not as easy as you think. You can't just download an app that will help you to fake WhatsApp live location. Instead, you will have to use a computer program for this. There is a special tool designed by ThinkSky called iTools. It will allow the users to pick any location and trick your Itel A70 apps into believing that you are actually at that location.
@@ -366,11 +355,12 @@ Step 4: Now, open WhatsApp and click on the Share location option. Choose the op
 
 ![Live Location](https://images.wondershare.com/drfone/article/2019/10/share-fake-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you have shared the fake live location, remember to change it after 15 or 30 minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. Can I Find My Friend Has Faked WhatsApp Location?
 
 Some people often wonder if they share fake locations on WhatsApp, then there is a slight chance that their friends do the same with them. But it is a simple trick to figure out if someone has sent a fake location to you.
@@ -402,7 +392,6 @@ Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake l
 ## How to Change/Add Location Filters on Snapchat For your Itel A70
 
 Snapchat is an Android/iOS messaging app developed in 2011. Currently, this app is home to 350+ users who share photos, videos, audio, texts, emojis, GIFs, and documents. But one of the most exciting Snapchat features is allowing users to share locations, whether fake or real. For instance, you might want to protect your privacy or simply prank your friends with a new location. So, whichever the reason, we'll show you **how to add a location filter on Snapchat** effortlessly. You'll also know **how to add a fake location filter on Snapchat**. Let's learn!
-
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/6W-qXnzg8kA"></iframe>
 
@@ -436,9 +425,17 @@ Now that this setting is enabled on Snapchat, you can add your location filter e
 
 ![how to add location filter on Snapchat choose location](https://images.wondershare.com/drfone/article/2022/03/how-to-add-location-filter-on-snapchat-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** Finally, customize your video further and then click **Send To**. Your selected location filter will be added to your Snapchat post.
 
 ![how to add location filter on Snapchat share location](https://images.wondershare.com/drfone/article/2022/03/how-to-add-location-filter-on-snapchat-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Change or Add a Fake Location on Snapchat Filters?
 
@@ -448,7 +445,9 @@ Fortunately, you don't need those overpriced VPNs if you can get [Dr.Fone](https
 
 So, without dilly-dallying much, here's how to fake a **Snapchat location tag** with Dr.Fone:
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -470,6 +469,10 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 
 ![how to add location filter on Snapchat, open virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** Now allow USB debugging on your Itel A70 before clicking **Next** on Dr.Fone. Don't know how to do that? Open Settings > Additional Settings > Developer options > USB debugging. Also, choose Dr.Fone as the mock location app.
 
 ![how to add location filter on Snapchat connect device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
@@ -479,6 +482,10 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 ![how to add location filter on Snapchat Choose a new location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 5.** Finally, open your Snapchat app, create a photo, and choose the location filter with your new location. It's that simple!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: FAQs about Snapchat
 
@@ -506,7 +513,6 @@ Sometimes you might want to urgently find a friend on Snapchat when you are in G
 
 Now you have a complete idea of what the Snapchat location filter is. In short, it is simply a creative way to share your Snapchat location tag on a post. But because you can't spoof your location on Snapchat, I recommend using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to teleport your Snapchat location to anywhere in the world. This tool also works with other social media apps like Facebook, WhatsApp, and Telegram. Enjoy!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -519,9 +525,26 @@ Now you have a complete idea of what the Snapchat location filter is. In short, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-breezy-methodology-for-downloading-twitters-laughs-gifs/"><u>[New] 2024 Approved Breezy Methodology for Downloading Twitter's Laughs (GIFs)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-no-cost-memes-made-simple-our-meme-kit/"><u>[New] No-Cost Memes Made Simple Our Meme Kit</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-effortlessly-record-your-iphone-screen-for-2024/"><u>[Updated] How to Effortlessly Record Your iPhone Screen for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-high-performance-hardware-for-live-video-feeds/"><u>[Updated] In 2024, High-Performance Hardware for Live Video Feeds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-leading-free-ai-image-creation-software-options/"><u>Discover the Leading Free AI Image Creation Software Options</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-narzo-n55-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme Narzo N55 Safely | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-narzo-n53-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme Narzo N53 Phone that is Locked?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-s23-ultra-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy S23 Ultra Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/immediate-access-to-professional-photo-fixes-by-stellar-repair/"><u>Immediate Access to Professional Photo Fixes by Stellar Repair</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-google-pixel-8-by-drfone-android/"><u>In 2024, How to Bypass FRP on Google Pixel 8?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-f34-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy F34 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-12-proplus-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme 12 Pro+ 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-v27-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo V27 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wmaogg-wma-ogg/"><u>WMA/OGG 형식으로 콘텐츠 바꾸기: 인터넷을 통해 무료 WMA OGG 변환 기술</u></a></li>
+</ul></div>
 

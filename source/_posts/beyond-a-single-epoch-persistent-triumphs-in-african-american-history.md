@@ -1,7 +1,7 @@
 ---
 title: "Beyond a Single Epoch: Persistent Triumphs in African American History"
-date: 2025-02-07T21:57:26.684Z
-updated: 2025-02-10T16:23:42.163Z
+date: 2025-02-16T16:51:18.187Z
+updated: 2025-02-20T16:09:15.407Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/51ab56587e08f47d807c9660276e637958571843d
 ## Persistent Problem: Understanding and Fixing Crashes in StarCraft II Gaming Sessions
 
 Starcraft 2 has been played by millions of people and thousands of esports professionals globally. Many players reported that**Starcraft 2 crashing** issues can sometimes make their game unplayable…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -33,7 +37,7 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 10. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Install the latest game patch
@@ -50,6 +54,10 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 2. Select your Starcraft 2.
 3. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options.png) below the title of the game and select**Scan and Repair** .
 4. Click**Begin Scan** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Wait for the repair to finish.
 
@@ -86,15 +94,7 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 ![update your drivers by clicking Update or Update all](https://images.drivereasy.com/wp-content/uploads/2020/02/update-all-your-drivers-2-9.jpg)  
  _Note: If you experience any problems when using Driver Easy Pro, please contact our support team at_ [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer and check if**Starcraft 2 crashing issue** s still persist.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Stop overclocking
 
@@ -110,6 +110,10 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 ![debug-mode-nvidia](https://images.drivereasy.com/wp-content/uploads/2020/02/Debug-Mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will help you downclock any factory overclocked graphics card to Nvidia reference clock speeds. Although generally speaking, overclocking provides better performance in games and graphics-intensive applications, it can sometimes cause crashing issues and shorten the lifespan of your graphics card.
 
 ### Fix 5: Reset your Starcraft 2 in-game options
@@ -121,7 +125,7 @@ _Note: This method applies only to the_ non-reference model cards_._
 3. Scroll down to Starcraft 2 and click the**Reset In-Game Options** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click **Reset** .
@@ -138,7 +142,7 @@ _Note: This method applies only to the_ non-reference model cards_._
  If you don’t know how to do it, you can consult your antivirus documentation for instructions or search **How to Add Antivirus Exclusions to \[name of your antivirus app\]** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Run Starcraft 2 as administrator
@@ -149,10 +153,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 2. Select**Properties** on the pop-up menu
 3. Navigate to the**Compatibility** tab.
 4. Check the**Run this program as administrator** box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Set Affinity for Starcraft 2
 
@@ -188,11 +188,15 @@ _Note: This method applies only to the_ non-reference model cards_._
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/type_msconfig_in_the_run_box.jpg)
 3. Click the **Services** tab in the new window and check the **Hide all Microsoft services** box, then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all.png)
 4. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/02/startup.png)
@@ -200,10 +204,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all-startups.png)
 6. Go back to **System Configuration** , then click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![go back to configuration window to click OK](https://images.drivereasy.com/wp-content/uploads/2020/02/click-OK.png)
 7. Restart your PC and launch Starcraft 2 to see if the game can launch normally.
@@ -230,22 +230,18 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-content-youtubes-keyword-strategies-exposed/"><u>[Updated] Elevate Your Content YouTube's Keyword Strategies Exposed</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-creating-a-personal-brand-on-facebook/"><u>2024 Approved Creating a Personal Brand on Facebook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-scripts-to-screen-a-filmmakers-guide/"><u>2024 Approved Scripts to Screen A Filmmaker's Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-leave-a-life360-group-on-xiaomi-13t-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Xiaomi 13T Pro Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-tecno-spark-20-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Tecno Spark 20 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-beginner-to-pro-selecting-the-best-cinema-cameras/"><u>In 2024, Beginner to Pro Selecting the Best Cinema Cameras</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-photography-with-canons-complimentary-luts/"><u>In 2024, Professional Photography with Canon's Complimentary LUTs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-unlocking-powerdirector-a-compreran-review-and-tutorial/"><u>In 2024, Unlocking PowerDirector A Compreran Review & Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-siri-and-chatgpt-a-comprehensive-guide-for-iphone-users/"><u>Integrating Siri and ChatGPT: A Comprehensive Guide for iPhone Users</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-y100i-power-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y100i Power 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/repair-guide-dealing-with-dell-speaker-issues/"><u>Repair Guide: Dealing with Dell Speaker Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-stability-problems-with-horizon-zero-dawn-on-desktop-systems/"><u>Resolving Stability Problems with Horizon Zero Dawn on Desktop Systems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-decoding-the-instagram-story-viewer-experience/"><u>[New] 2024 Approved Decoding the Instagram Story Viewer Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-top-picks-for-shining-3d-type-designs-with-a-golden-touch/"><u>[New] In 2024, Top Picks for Shining 3D Type Designs with a Golden Touch</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-lens-tricks-editing-secrets-to-photo-wonders-for-2024/"><u>[New] Lens Tricks Editing Secrets to Photo Wonders for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-complete-blueprint-for-implementing-and-analyzing-fb-in-stream-ads/"><u>[Updated] The Complete Blueprint for Implementing & Analyzing FB In-Stream Ads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-guide-to-accessing-price-null-picture-content/"><u>2024 Approved Guide to Accessing Price-Null Picture Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-optimizing-your-xbox-experience-with-advanced-screen-capture-methods/"><u>2024 Approved Optimizing Your Xbox Experience with Advanced Screen Capture Methods</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/immerse-in-innovation-the-ultimate-vr-gear-guide-for-2024/"><u>Immerse in Innovation - The Ultimate VR Gear Guide for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-10c-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 10C Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-zte-blade-a73-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for ZTE Blade A73 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamless-background-extraction-in-picsart-editing-for-2024/"><u>Seamless Background Extraction in Picsart Editing for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 6s Plus | Dr.fone</u></a></li>
 </ul></div>
 

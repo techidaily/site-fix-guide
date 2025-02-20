@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Tecno Spark 10 4G | Dr.fone
-date: 2024-07-14T05:35:18.249Z
-updated: 2024-07-15T05:35:18.249Z
+date: 2025-02-16T16:21:19.546Z
+updated: 2025-02-20T16:57:29.985Z
 tags: 
   - virtual location change
   - social app
@@ -21,10 +21,13 @@ However, there are moments when you might crave a bit of privacy or a break from
 
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
-
 ## Part 1: What Is Life360 and How To Pause Life360 From the App
 
 Life360 is not just an app; it’s a digital lifeline connecting people with their loved ones. It’s primarily designed for family and close friends. By offering real-time location sharing, it ensures that members of your “Circle” (a group within the app) know where you are at any given moment. This feature is handy for parents monitoring their children’s whereabouts or friends coordinating meet-ups.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Purpose of Life360
 
@@ -67,39 +70,16 @@ First, navigate to your Tecno Spark 10 4G’s **Settings**. Then, look for the s
 
 By selecting **Force Stop**, you temporarily halt the app’s function without uninstalling it. This operation stops location sharing until you open the app again.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pause Life360 From iOS Settings
 
 To **pause the Life360 location** on iOS, you’ll have to open the Settings app on your iOS device. Browse through your apps and select Life360. Alternatively, you can use the search bar and type “Life360”. Once in the app’s menu, change location services to **While Using** the App. Thus, it will not share your location unless you open the app.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![life360 ios settings](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-03.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Pause by Using Airplane Mode
 
 This can be done from the quick settings panel on both Android and iOS devices. Turning on **Airplane Mode** disables all wireless connections, including cellular data and GPS, effectively pausing Life360. The great thing is that Life360 will only show your last known location to your circles. It will not say that “location services are off,” unlike the first two methods.
@@ -116,22 +96,8 @@ Each method serves a different purpose and offers varying levels of discretion. 
 
 Sometimes, pausing your location sharing on Life360 may raise questions or concerns among your circle members, particularly if they are close family or friends. If you’re planning a surprise or need private time without arousing suspicion, a virtual location spoofer can be handy. This method will teach you **how to pause your location on Life360 without them knowing.**
 
-
-
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How To Use Dr.Fone To Spoof Your Location on Life360
 
 To learn how to pause location on Life360 without them knowing using Dr.Fone, follow the steps below:
@@ -140,6 +106,10 @@ To learn how to pause location on Life360 without them knowing using Dr.Fone, fo
 - **Step 2:** After launching the function, you’ll notice the **One-Stop Route** function at the top-right section. This feature is crucial for setting up your virtual movement.
 
 ![life360 virtual location page](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** To define how your virtual location behaves, you can decide how often the app simulates a **Round trip** or **Loop** **trip**. Once you’ve set parameters like **Speed**, click **Move Here** to start the simulation.
 
@@ -156,6 +126,10 @@ While it’s always recommended to maintain open communication with your Circle 
 ## Set Your Preferred Job Location on LinkedIn App of your Tecno Spark 10 4G
 
 LinkedIn is the most widely used professional network that allows you to connect with professional people, learn new skills, and look out for the desired jobs. LinkedIn can be accessed from your desktop system as well as mobile phones. The need for changing the job location on LinkedIn arises when you are planning to move to a new city or a country and want to search for prospective job options. Changing the location will help the employers in the destination city to locate you and consider you for the job even before you move into the location. At times, when **LinkedIn shows jobs in the wrong location**, you need to change and update the location. Learn in detail about how to **change job location** **LinkedIn.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to set a preferred job location on LinkedIn?
 
@@ -182,11 +156,13 @@ LinkedIn can also be accessed from your Tecno Spark 10 4G and iOS devices, and t
 - Step 3. From the drop-down list, choose the desired Country/Region. As per the selection made, the city and the postal code also have to be added.
 - Step 4. Tap on the Save button to confirm the selection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Change the LinkedIn location by Drone – Virtual Location \[iOS & Android\]
 
 Another simple and quick way to change your location for your LinkedIn profile is by using a software called [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This versatile tool is compatible with working for your iOS and Android devices and allows changing the location of your device and several apps, including LinkedIn. With just a single click, you can teleport your GPS location anywhere in the world. Additionally, you can also simulate the GOS movements as you move along the route.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -224,9 +200,6 @@ Step 5. Next, choose the desired location at the upper-left field from the drop-
 
 Step 6. At the new pop-up box, click on the Move Here button to set the new location as your current location. All the location-based apps on your phone, including LinkedIn, will now show this new location as their current location.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![show the fake location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 ## The benefits of setting up a customized location on LinkedIn
@@ -243,6 +216,10 @@ Changing and setting a customized location on your LinkedIn profile can be benef
 
 If you are planning to relocate to a new place soon, updating your LinkedIn location is fine. Location update will help you target the job market and with job-seeking to get the desired job. It is suggested that suppose if you are moving to ABC location soon, you can update your LinkedIn location to ABC but at the same time mention your present current location, somewhere in the profile. Mentioning your current location will not create any feeling of being cheated or misled by the people who visit your profile.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How do I hide my location on LinkedIn?
 
 There is no option on LinkedIn to hide your location. You can only provide incorrect information by changing, customizing, or setting a fake location but cannot hide it. By default, Linkedin keeps your profile visible to all. You can change it by following the steps given below:
@@ -251,11 +228,13 @@ There is no option on LinkedIn to hide your location. You can only provide incor
 - 2\. Go to settings, click on the "Privacy" tab in the menu.
 - 3\. Click on the "Edit your public profile" link.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Final Words
 
 LinkedIn location on your systems as well as mobile devices can be changed either by changing it through app settings or using a professional tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . Using the software, you can change the location of your device that will automatically update all the GPS and location-based apps, including LinkedIn, accordingly.
-
-
 
 ## How to Change Your Tecno Spark 10 4G Location on life360 Without Anyone Knowing?
 
@@ -309,6 +288,10 @@ Privacy concerns arise, especially regarding the questions by its users. “**Ca
 
 You need to be aware of what the app can and can’t do. It balances convenience and privacy when using tracking services like Life360. So, here’s the deal – always think twice before faking, hiding, or changing your location. Now, let’s explore whether you can bypass these concerns and keep your location hidden or fake on Life360.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Can You Change Your Location on Life360 Without Anyone Knowing?
 
 Yes, you can change your location on Life360 without anyone knowing. But it doesn’t have that built-in feature. The best way to fake your location on Life360 without anyone knowing is to use spoofing apps on your device, such as [Wondershare Dr.Fone.](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) This tool can change your real-time location on several apps, including Life360, whether you have an iOS or Android device.
@@ -322,8 +305,6 @@ In different scenarios, the same question – “**Can you change your location 
 ## Part 3: Changing/Faking Location With Dr.Fone – Virtual Location
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location can be a playful tool for the digitally adventurous. Want to impress your Instagram followers with Parisian sunsets without leaving your couch? Dr.Fone can transport you there with a click. For the romantics, Dr.Fone can also help you spark connections on dating apps by setting your location to a city or a scenic getaway.
-
-
 
 It’s also a game-changer for location-based apps, letting you hatch Pokemon eggs without leaving your room. Beyond gaming, Dr.Fone can also change your location on real-time tracking apps like Life360. Use it to maintain privacy without needing to explain your actual location.
 
@@ -341,8 +322,6 @@ How To Use Dr.Fone To Change/Fake Location on Life360?
 
 Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you spoof location sharing on your terms without raising eyebrows. Here’s how to change your location on the Life360 app without anyone knowing:
 
-
-
 - **Step 1:** Connect your smartphone to your desktop using a USB cable after downloading Dr.Fone. Once installed, launch it and select **Virtual Location** from the **Toolbox** homepage to continue with the feature.
 - **Step 2:** Click **Get Started** and select the checkbox to acknowledge the disclaimer.
 
@@ -356,6 +335,10 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 ![connect ios or android device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Follow the on-screen steps to put your device in the Developer mode and wait for the Dr.Fone app to detect it.
 
 ![open the developer mode](https://images.wondershare.com/drfone/guide/vl-connect-ios-3.png)
@@ -363,6 +346,10 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 - **Step 6:** Select the travel mode you want from the top-right side and set your destination on the map.
 
 ![setup travel mode and destination](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Choose your route type, adjust speed, and click **Move Here** to launch the simulation.
 
@@ -402,7 +389,6 @@ So, let’s go back to the main question. **Can you change your location on Life
 
 But of course, there are certain situations in which you will need to fake your location. In such cases, Dr. Fone’s Virtual Location changer is a responsible solution. This tool enables temporary location modifications with precise control and ethical features. Use them responsibly and prioritize genuine communication for healthy, secure connections.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -415,9 +401,19 @@ But of course, there are certain situations in which you will need to fake your 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ace-list-of-low-cost-youtube-caption-tools/"><u>[New] In 2024, Ace List of Low-Cost YouTube Caption Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-mastering-youtube-uploads-in-adobe-premiere/"><u>[New] Mastering YouTube Uploads in Adobe Premiere</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-harnessing-imovies-potential-for-youtube-broadcasting-for-2024/"><u>[Updated] Harnessing iMovie's Potential for YouTube Broadcasting for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-iphoneandroid-screen-capture-for-google-meet-participants/"><u>2024 Approved IPhone/Android Screen Capture for Google Meet Participants</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-conversation-with-machines-a-look-at-gpt-and-bing/"><u>In Conversation with Machines: A Look at GPT & Bing</u></a></li>
+<li><a href="https://howto.techidaily.com/oneplus-ace-2v-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 2V Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-smart-8-hd-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Smart 8 HD Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rt-of-self-recording-improving-your-youtube-presence-for-2024/"><u>The Art of Self-Recording Improving Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-usb-recognition-issues-solutions-for-the-persistent-error-message/"><u>Troubleshooting USB Recognition Issues - Solutions for the Persistent Error Message</u></a></li>
+</ul></div>
 

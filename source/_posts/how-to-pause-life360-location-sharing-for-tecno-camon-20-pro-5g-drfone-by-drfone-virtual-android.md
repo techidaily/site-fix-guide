@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Tecno Camon 20 Pro 5G | Dr.fone
-date: 2024-07-14T05:35:39.031Z
-updated: 2024-07-15T05:35:39.031Z
+date: 2025-02-13T16:57:31.124Z
+updated: 2025-02-20T16:36:08.395Z
 tags: 
   - virtual location change
   - social app
@@ -21,14 +21,10 @@ However, there are moments when you might crave a bit of privacy or a break from
 
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
-
 ## Part 1: What Is Life360 and How To Pause Life360 From the App
 
 Life360 is not just an app; it’s a digital lifeline connecting people with their loved ones. It’s primarily designed for family and close friends. By offering real-time location sharing, it ensures that members of your “Circle” (a group within the app) know where you are at any given moment. This feature is handy for parents monitoring their children’s whereabouts or friends coordinating meet-ups.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Purpose of Life360
 
 At its core, Life360 is about safety and connectivity. The app includes features like location history, driving reports, and even crash detection, making it a versatile tool for modern families. It provides several benefits, like:
@@ -70,6 +66,10 @@ First, navigate to your Tecno Camon 20 Pro 5G’s **Settings**. Then, look for t
 
 By selecting **Force Stop**, you temporarily halt the app’s function without uninstalling it. This operation stops location sharing until you open the app again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pause Life360 From iOS Settings
 
 To **pause the Life360 location** on iOS, you’ll have to open the Settings app on your iOS device. Browse through your apps and select Life360. Alternatively, you can use the search bar and type “Life360”. Once in the app’s menu, change location services to **While Using** the App. Thus, it will not share your location unless you open the app.
@@ -92,8 +92,6 @@ Each method serves a different purpose and offers varying levels of discretion. 
 
 Sometimes, pausing your location sharing on Life360 may raise questions or concerns among your circle members, particularly if they are close family or friends. If you’re planning a surprise or need private time without arousing suspicion, a virtual location spoofer can be handy. This method will teach you **how to pause your location on Life360 without them knowing.**
 
-
-
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
 
 ### How To Use Dr.Fone To Spoof Your Location on Life360
@@ -109,6 +107,10 @@ To learn how to pause location on Life360 without them knowing using Dr.Fone, fo
 
 ![set one-stop route dr.fone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** TheRound trip and Loop trip are particularly useful for creating the impression of movement in a specific area. Parameters can make your virtual movement more believable.
 
 ## Conclusion
@@ -117,11 +119,19 @@ This article explored various methods of **pausing location sharing on Life360**
 
 While it’s always recommended to maintain open communication with your Circle about pausing location sharing, there are times when privacy or surprise plans necessitate discretion. For those moments, Dr.Fone - Virtual Location emerges as a reliable solution for location spoofing and other phone management needs. Remember, using these tools responsibly is key to maintaining trust in your relationships.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Hide/Fake Snapchat Location on Your Tecno Camon 20 Pro 5G
 
 The GPS functionality is very prominent these days. Especially when various apps or websites are making use of your geological location to deliver more relevant content. Be it, social networking apps or gaming apps, for instance, Snapchat, and Pokemon Go respectively.
 
 ![Snapchat interface](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Talking about Snapchat, this app offers you different badges and filters depending upon your Geographical location. It actually utilizes the GPS feature of your device to determine where you are located. This can sometimes be annoying as you may wish to access a filter or badge that is not available at your Geological location. Now, this is where you need the Snapchat spoof location app. You not only can hide your actual location from Snapchat. Instead, cast a fake location on Snapchat map, and eventually, you can easily access the badges/filters at your convenience!
 
@@ -133,10 +143,11 @@ Snapchat basically utilizes your location for the SnapMap feature that furnishes
 
 With the SnapMap feature enabled, you can easily get to know about the whereabouts of your friends, and in turn, there’re allowed to know yours. As long as the Snapchat app is running over your screen, the SnapMap location of your Bitmoji gets updated dynamically. But as soon as you quit the app, the last known location of your Bitmoji is displayed over the SnapMap.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![your Bitmoji on SnapMap](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Why people want to hide/fake location on Snapchat?
 
@@ -169,9 +180,6 @@ When it comes to disabling or hiding the location on Snapchat, the tutorial is e
 
 ## Part 4. How to fake Snapchat location on iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4.1. Change Snapchat location to anywhere using a Smart Tool (easy)
 
 You can easily spoof location on Snapchat using the tool [Dr.Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This tool is easy to operate and works perfectly when it comes to spoofing any location. Here is how to **fake GPS Snapchat iPhone without jailbreak**.
@@ -180,9 +188,6 @@ You can easily spoof location on Snapchat using the tool [Dr.Fone - Virtual Loca
 
 Step 1: To begin with this Snapchat location spoofer, simply head to the official website of Dr.Fone – Virtual Location (iOS). Download the software package from there and then install it afterwards.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Download the software](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: After successful downloading, open the tool. Now, you need to opt for the “Virtual Location” module from the main interface. Post doing this, click on the “Get Started” button.
@@ -209,8 +214,6 @@ Also, on your iOS device, you can now Fake Snapchat location or in any other loc
 
 ![view the new location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-
-
 ### 4.2. Change Snapchat Location using Xcode (complex)
 
 Now, if we talk about fake location for Snapchat map on iPhone, it’s not as easy as it looks. You need to be an extremely tech-savvy person to **fake Snapchat location without jailbreaking** your Tecno Camon 20 Pro 5G. You simply can’t download a Snapchat location spoofer app over your Tecno Camon 20 Pro 5G and fake it. But fret not, we’re glad to bring you a detailed tutorial with which you can easily perform location spoofing on Snapchat and that too, without jailbreaking your Tecno Camon 20 Pro 5G.
@@ -227,9 +230,6 @@ Step 1: Install Xcode and Set up a Dummy app
 
 3. Then, give a name to your project, for instance, “GeoSpy” and hit on the “Next” button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![GeoSpy](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-7.jpg)
 
 Step 2: Setup GIT on Xcode
@@ -246,6 +246,10 @@ Step 2: Setup GIT on Xcode
 **Note:** Change the values for “<you@example.com>”and “your name” with your information.
 
 ![Change the values](https://images.wondershare.com/drfone/article/2019/09/fake-snapchat-location-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Next, you need to make sure that to set up a development team and meanwhile, connect your Tecno Camon 20 Pro 5G to your Mac computer.
 
@@ -307,6 +311,10 @@ As said before, Telegram has a “People Nearby” feature for giving you friend
 
 We are here to provide the three most-used methods for you to change location on Telegram. Not every solution is suitable for every situation that everyone encounters, but there is always one that is right for you. Some methods may require the assistance of a computer, some can be done only on a mobile phone, and the success rate varies greatly. Now let’s learn how to fake location on Telegram using three simple methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Change Telegram location on Android/ iOS with the best Location Changer
 
 If you want to completely varnish your location on Telegram, install a powerful GPS tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this computer program, you can spoof your Telegram location with just a few mouse clicks. It’s simple to use and offers excellent compatibility with Android and iPhone apps. You can teleport your Telegram location to anywhere in the world. In addition, you can make the location transfer more realistic by enabling the multi-stop and one-stop route features. Just point to a location on the map and get going.
@@ -332,6 +340,10 @@ Install and run Dr.Fone on your PC and then connect your smartphone to your comp
 
 ![connect the software with Wi-Fi without an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next, open your smartphone’s Settings app and enable USB debugging to connect it to Dr.Fone. Fortunately, this program comes with a simple guide for all iOS and Android versions.
 
 **Pro tip:** If you’re an Android user, click Settings> Additional Settings> Developer options> USB debugging. Also, remember to choose Dr.Fone under the “Select mock location app” section.
@@ -340,9 +352,11 @@ Next, open your smartphone’s Settings app and enable USB debugging to connect 
 
 ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After successfully connecting your device to Dr.Fone, tap **Next** to open the Virtual Location map. Now enter the **Teleport Mode** and key in the GPS coordinates or location you want to move to. Alternatively, simply tap a spot on the map and click **Move Her**e. And there is that!
-
-
 
 ### Method 2: Fake a live telegram location via VPN (Android & iOS)
 
@@ -353,6 +367,10 @@ For example, let’s learn how to set up the ExpressVPPN service on Android/iPho
 - ▪ Step 1. Download the VPN app on Google Play Store, launch it, and create an account.
 - ▪ Step 2. Follow the on-screen instructions to set up ExpressVPN and choose a VPN server location.
 - ▪ Step 3. Lastly, tap the **Power** button to connect to the VPN server in the country you’ve selected. That was easy, huh?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Fake location on Telegram from free on Android
 
@@ -386,9 +404,6 @@ There you go; you can now create a new Telegram location to prank your friends o
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -401,9 +416,23 @@ There you go; you can now create a new Telegram location to prank your friends o
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-ultimate-guide-to-picking-powerful-yt-thumbnails/"><u>[New] 2024 Approved The Ultimate Guide to Picking Powerful YT Thumbnails</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-bring-your-clips-to-life-a-compreenased-way-to-post-on-youtube-for-2024/"><u>[New] Bring Your Clips to Life A Compreenased Way to Post on YouTube for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pro-broadcast-hardware-for-seamless-livestreams-for-2024/"><u>[New] Pro Broadcast Hardware for Seamless Livestreams for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ideo-success-stories-maximizing-income-with-youtube-adsense-for-2024/"><u>[New] Video Success Stories Maximizing Income with YouTube AdSense for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-messenger-maestros-guide-to-capturing-social-media-videos/"><u>[Updated] 2024 Approved The Messenger Maestro's Guide to Capturing Social Media Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hear-the-difference-airpods-pro-vs-galaxy-buds-pro-comparison/"><u>Hear the Difference: Airpods Pro Vs. Galaxy Buds Pro Comparison</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-a2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi A2 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-art-of-concluding-your-videos-powerfully/"><u>In 2024, The Art of Concluding Your Videos Powerfully</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-13t-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi 13T Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209876302-9781646334384-the-spiritual-archaeologist/"><u>The Spiritual Archaeologist | Free Book</u></a></li>
+</ul></div>
 

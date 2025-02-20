@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Itel A60s | Dr.fone
-date: 2024-07-14T05:33:45.729Z
-updated: 2024-07-15T05:33:45.729Z
+date: 2025-02-16T16:43:29.443Z
+updated: 2025-02-20T17:01:05.584Z
 tags: 
   - virtual location change
   - social app
@@ -21,7 +21,6 @@ However, there are moments when you might crave a bit of privacy or a break from
 
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
-
 ## Part 1: What Is Life360 and How To Pause Life360 From the App
 
 Life360 is not just an app; it’s a digital lifeline connecting people with their loved ones. It’s primarily designed for family and close friends. By offering real-time location sharing, it ensures that members of your “Circle” (a group within the app) know where you are at any given moment. This feature is handy for parents monitoring their children’s whereabouts or friends coordinating meet-ups.
@@ -33,6 +32,10 @@ At its core, Life360 is about safety and connectivity. The app includes features
 - **Safety assurance**. Knowing the whereabouts of your loved ones, especially in emergencies, can be invaluable.
 - **Convenience**. Planning gatherings or ensuring a family member has arrived safely at a destination becomes more manageable.
 - **Emergency response**. The app can alert users to potential emergencies involving Circle members.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reasons of Pausing Life360
 
@@ -79,6 +82,10 @@ This can be done from the quick settings panel on both Android and iOS devices. 
 
 ![airplane mode ios](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pause by Uninstalling
 
 Removing the app from your device will stop it from sharing your location. The beauty of this method is that it won’t automatically notify your circles or remove you from them. However, some members might notice that your location updates are unavailable.
@@ -88,8 +95,6 @@ Each method serves a different purpose and offers varying levels of discretion. 
 ## Part 3: How To Pause Life360 With a Virtual Location Spoofer
 
 Sometimes, pausing your location sharing on Life360 may raise questions or concerns among your circle members, particularly if they are close family or friends. If you’re planning a surprise or need private time without arousing suspicion, a virtual location spoofer can be handy. This method will teach you **how to pause your location on Life360 without them knowing.**
-
-
 
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
 
@@ -102,11 +107,12 @@ To learn how to pause location on Life360 without them knowing using Dr.Fone, fo
 
 ![life360 virtual location page](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** To define how your virtual location behaves, you can decide how often the app simulates a **Round trip** or **Loop** **trip**. Once you’ve set parameters like **Speed**, click **Move Here** to start the simulation.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![set one-stop route dr.fone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 **Note:** TheRound trip and Loop trip are particularly useful for creating the impression of movement in a specific area. Parameters can make your virtual movement more believable.
@@ -159,8 +165,6 @@ The program will no longer take time and easily understand the location. It will
 
 ![spoof location for skout](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -191,14 +195,15 @@ If you are still comfortable using Cydia to change Skout location, let us move o
 
 **Step 2:** Tap on “Modify” and get back to the Homescreen.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Home screen](https://images.wondershare.com/drfone/article/2019/11/cydia-1.jpg)
 
 **Step 3:** Look for the FakeLocation app icon now and tap on it. Once you open it, tap on “Choose my fake location.
 
 ![Choose my fake location](https://images.wondershare.com/drfone/article/2019/11/cydia-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Use the map to adjust at the location you want to spoof.
 
@@ -209,8 +214,9 @@ If you are still comfortable using Cydia to change Skout location, let us move o
 ![enjoy new location](https://images.wondershare.com/drfone/article/2019/11/cydia-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Change Skout Location on Android with a Spoofer App
 
 If you are an Android user and wondering how to change your location on Skout, all you need is a spoofer app. You can get a lot of options from Play Store. However, one of the popular apps that can be relied upon is Fake GPS GO Location Spoofer Free. This app doesn’t require rooting if your device is having Android version 6 and more. You can easily create routes with this app. Let us know how this works.
@@ -260,11 +266,6 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 
 ![tinder plus](https://images.wondershare.com/drfone/article/2019/11/tinder+.jpg)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Change Your Itel A60s Location on life360 Without Anyone Knowing?
 
 “**Can you change your location on Life360 without anyone knowing?**” This question pops up often, especially with the increasing focus on privacy and personal location tracking. And this might resonate with you as well. Perhaps you’re a spouse wanting to surprise your partner or a friend planning a secret celebration. Or a gamer playing geolocation-based video games. And hopefully, it’s for good intentions.
@@ -272,6 +273,14 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 Understanding this question is crucial. Here, we’ll break down the possibility of changing your location on Life360. You’ll also learn in this article how to spoof or fake your location, suitable for various purposes. But before getting into the answer, let’s first understand what Life360 is and what it does.
 
 ![life360 location sharing app interface](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Is Life360 and What Does It Do?
 
@@ -296,6 +305,10 @@ Life360 tracks a variety of things, including:
 - **Driving habits:**Life360 tracks speed, braking, and other driving behaviors. It provides insights into how safely family members drive.
 
 ![life360 driver reports feature](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benefits
 
@@ -331,8 +344,6 @@ In different scenarios, the same question – “**Can you change your location 
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location can be a playful tool for the digitally adventurous. Want to impress your Instagram followers with Parisian sunsets without leaving your couch? Dr.Fone can transport you there with a click. For the romantics, Dr.Fone can also help you spark connections on dating apps by setting your location to a city or a scenic getaway.
 
-
-
 It’s also a game-changer for location-based apps, letting you hatch Pokemon eggs without leaving your room. Beyond gaming, Dr.Fone can also change your location on real-time tracking apps like Life360. Use it to maintain privacy without needing to explain your actual location.
 
 But use Dr.Fone responsibly and creatively. It opens up endless possibilities for fun, as long as you have imagination and a WiFi connection. Here are some of its key features:
@@ -349,8 +360,6 @@ How To Use Dr.Fone To Change/Fake Location on Life360?
 
 Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you spoof location sharing on your terms without raising eyebrows. Here’s how to change your location on the Life360 app without anyone knowing:
 
-
-
 - **Step 1:** Connect your smartphone to your desktop using a USB cable after downloading Dr.Fone. Once installed, launch it and select **Virtual Location** from the **Toolbox** homepage to continue with the feature.
 - **Step 2:** Click **Get Started** and select the checkbox to acknowledge the disclaimer.
 
@@ -364,6 +373,10 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 ![connect ios or android device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Follow the on-screen steps to put your device in the Developer mode and wait for the Dr.Fone app to detect it.
 
 ![open the developer mode](https://images.wondershare.com/drfone/guide/vl-connect-ios-3.png)
@@ -371,6 +384,10 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 - **Step 6:** Select the travel mode you want from the top-right side and set your destination on the map.
 
 ![setup travel mode and destination](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Choose your route type, adjust speed, and click **Move Here** to launch the simulation.
 
@@ -404,15 +421,11 @@ Consider Alternatives
 
 Explore apps with granular privacy controls. Some focus on user privacy and allow for more customized sharing settings. Change your location on Life360 responsibly to balance safety and privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 So, let’s go back to the main question. **Can you change your location on Life360 without anyone knowing?** Yes, it is possible to fake your location using spoofing apps for Android and iOS. But it’s crucial to value trust in relationships. Instead of resorting to faking your location, consider responsible alternatives.
 
 But of course, there are certain situations in which you will need to fake your location. In such cases, Dr. Fone’s Virtual Location changer is a responsible solution. This tool enables temporary location modifications with precise control and ethical features. Use them responsibly and prioritize genuine communication for healthy, secure connections.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -426,9 +439,26 @@ But of course, there are certain situations in which you will need to fake your 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-streamline-free-webinar-organizing-with-youtube-help/"><u>[New] In 2024, Streamline Free Webinar Organizing with YouTube Help</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-all-inclusive-review-of-dji-phantom-4-technology/"><u>[Updated] In 2024, All-Inclusive Review of DJI Phantom 4 Technology</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-video-creation-secrets-of-the-professionals-unveiled/"><u>[Updated] YouTube Video Creation Secrets of the Professionals Unveiled</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/compartir-la-transformacion-gratuita-de-archivos-3gpp-en-formato-mp4-con-movavi-online/"><u>Compartir La Transformación Gratuita De Archivos 3GPP en Formato MP4 Con Movavi Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/empowerment-in-film-a-selection-of-inspiring-titles/"><u>Empowerment in Film A Selection of Inspiring Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-intel-unison-to-work-again-on-windows-11/"><u>Getting Intel Unison to Work Again on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-redmi-12-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Redmi 12 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-asus-rog-phone-8-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Asus ROG Phone 8 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/kaji-ryan-at-11-amassing-wealth-via-online-videos-for-2024/"><u>Kaji Ryan At 11, Amassing Wealth via Online Videos for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-y77t-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y77t Black and White | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolved-hd-sound-driver-error-in-latest-os-update/"><u>Resolved HD Sound Driver Error in Latest OS Update</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/revolutionize-your-room-strategies-to-record-clear-sound/"><u>Revolutionize Your Room Strategies to Record Clear Sound</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor 100 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stuck at Android System Recovery Of Google Pixel 8 Pro ? Fix It Easily | Dr.fone
-date: 2025-02-07T18:15:19.531Z
-updated: 2025-02-11T00:51:20.385Z
+date: 2025-02-14T16:57:50.058Z
+updated: 2025-02-20T16:22:43.328Z
 tags: 
   - problems
 categories:
@@ -97,10 +97,6 @@ After downloading, the software will automatically start to repair your device b
 
 ![repairing android to get out of Android stuck at System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You'll be notified when the operation is complete and when you're able to disconnect your phone and use it as normal, free from it being stuck on the Android system recovery screen!
 
 ![android device exiting System recovery](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
@@ -143,6 +139,10 @@ Step 3: You will be notified when the system restore is complete.
 
 Android system recovery mode can be quite useful, especially when your system is unresponsive. As we have also seen, it is important to know how to get into and out of System Recovery mode if you are going to backup and restore your Android system. It is also quite easy to do both of these things.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reliable User Guide to Fix Google Pixel 8 Pro Running Slow and Freezing
 
 Android smartphones have opened a lot of doors for their users. They continue to evolve year after year with the hope of giving the world a wonderful digital experience. So far, we can all agree that they’re going the extra mile and doing a really great job. Android phones today are all packed with supreme capabilities that are beneficial to everyone.
@@ -154,10 +154,6 @@ In this article, we will review the details of this Android phone issue. We’ll
 ## Understanding the Specs That Make Android Phones Run Fast
 
 The issue of Android phone running slow and freezing is not limited to old devices only. The same problem has also been observed in newly purchased units. The roots of this unfortunate occurrence vary from one user to another. It depends on different elements, from external factors like users’ handling of the Google Pixel 8 Pro device to internal factors such as its capabilities. To understand it more, below are some Android phone specifications related to the Google Pixel 8 Pro device's overall performance and speed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The CPU Core Count
 
@@ -174,10 +170,6 @@ In a simple language, Random Access Memory (RAM) temporarily stores the data fro
 ### Internal Storage
 
 The mobile applications installed on your smartphones are directly related to internal storage. The apps save their data every time, so they behave strangely when the Google Pixel 8 Pro device runs out of storage. If you’re using heavy mobile applications, it’s best to opt for smartphones with huge internal storage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Reasons Why My Google Pixel 8 Pro is Running Slow
 
@@ -230,6 +222,10 @@ If your Google Pixel 8 Pro is running slow and freezing, it’s likely because y
 
 ![uninstall android apps](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Click **Ok** if it asks you to confirm the action.
 
 Wait until the app icon disappears from the home screen.
@@ -256,6 +252,14 @@ _Follow these steps to adjust the animation speed:_
 - **Step 4:** Under the **Drawing** section, you’ll find the following animation scale settings: **Window Animation Scale, Transition Animation Scale,** and **Animator Duration Scale.** Adjust the speed of these three options to **0.5x.**
 
 ![faster animation speed](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Update Your Phone to the Latest Android Version
 
@@ -295,10 +299,6 @@ _Here’s how to reset your Google Pixel 8 Pro to factory settings:_
 
 ![reset to factory settings](https://images.wondershare.com/drfone/article/2023/06/android-phone-running-slow-and-freezing-6.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 6: Fix the System Issue Using Wondershare Dr.Fone
 
 The device’s operating system may sometimes run into unexpected problems. That can make your Google Pixel 8 Pro performs slow. System issue is not a terrifying scenario at all. Thanks to Wondershare Dr.Fone, which provides instant repair to this kind of mobile problem. Here’s how to use it in easy steps.
@@ -315,10 +315,6 @@ The device’s operating system may sometimes run into unexpected problems. That
 - **Step 4:** Wondershare Dr.Fone will give you a list of the Android problems that this procedure will fix. From there, click **Start.**
 
 ![android system repair starts](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** Wondershare Dr.Fone will ask you to confirm your device details. Review the listed details for Brand, Name, Model, Country, and Carrier. Amend them if necessary. Tick the checkbox beside the Note if you agree to the terms. Lastly, click **Next** to proceed.
 
@@ -390,6 +386,10 @@ Step 1: Install and then run Dr.Fone - System Repair (Android), the ultimate And
 
 ![fix Android phone won’t charge by android repairing tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Tap on the ‘Android Repair’ option and then click ‘Start’ for moving ahead.
 
 ![start to fix](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
@@ -411,7 +411,7 @@ Step 1: It’s essential that you put the Android device under ‘Download’ mo
 ![fix Android phone won’t charge for a phone without home key](https://images.wondershare.com/drfone/guide/android-system-repair-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Click ‘Next’ to start downloading the Android firmware.
@@ -423,10 +423,14 @@ Step 3: Now, Dr.Fone - System Repair (Android) would verify the firmware and the
 ![Android phone won’t charge issue fixed](https://images.wondershare.com/drfone/guide/android-system-repair-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. 10 common ways to fix Android won't charge
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Check/replace charging cable
 
@@ -436,6 +440,10 @@ It is also very commonly observed that the charging end of the cable which gets 
 
 ![charging cable](https://images.wondershare.com/drfone/article/2017/06/14985459762305.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Check/clean charging port
 
 The charging port in your device is a small opening where the charging end of the cabbie is inserted for the current to flow to the phone/tablet. Very often, we notice that the charging port gets blocked with tiny particles of dirt. The charging port might also get clogged if dirt and dust get accumulated in it, preventing the sensors from receiving and forwarding the current to the Google Pixel 8 Pro device.
@@ -443,7 +451,7 @@ The charging port in your device is a small opening where the charging end of th
 ![check charging port](https://images.wondershare.com/drfone/article/2017/06/14985459938188.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The best way to take this problem is to clean the port with a blunt pin or a soft bristle unused toothbrush. Make sure you clean the port gently and do not damage it or its sensors.
@@ -469,10 +477,6 @@ Follow the steps given below to clear your device’s cache:
 • Visit “Settings” and find “Storage”
 
 ![phone storage](https://images.wondershare.com/drfone/article/2017/06/14985460357571.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 • Now tap on “Cached Data”.
 
@@ -503,10 +507,6 @@ The Ampere app can be downloaded from the Google Play Store. It is very helpful 
 If the App gives information in green color, it means all is wetland your device is charging normally, however, if the information before you is in orange, you need to take steps to fix the charging problem.
 
 ![charging status](https://images.wondershare.com/drfone/article/2017/06/14985011165678.jpg) ![full charged](https://images.wondershare.com/drfone/article/2017/06/14985011377424.jpg) ![discharging](https://images.wondershare.com/drfone/article/2017/06/14985011663339.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Install software updates
 
@@ -562,22 +562,16 @@ Finally, fixing the phone won't charge the problem is simple, and therefore ther
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-revenue-protection/"><u>[New] 2024 Approved Revenue Protection</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-switch-from-youtube-thumbnail-view-to-live-stream/"><u>[New] Switch From YouTube Thumbnail View to Live Stream</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-share-wide-enhancing-instagram-stories-with-youtube-content/"><u>[Updated] Share Wide Enhancing Instagram Stories With YouTube Content</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-top-25-hashtags-that-will-make-you-a-social-media-star-on-instagram/"><u>2024 Approved Top 25 Hashtags That Will Make You a Social Media Star on Instagram</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-huawei-nova-y91-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Huawei Nova Y91? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-nokia-xr21-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Nokia XR21</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic-5-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic 5 Pro Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-magic-6-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor Magic 6 Pro Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y28-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y28 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-exploring-high-definition-chroma-blade-photography/"><u>In 2024, Exploring High-Definition Chroma Blade Photography</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-f23-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo F23 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-blaze-2-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze 2 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-top-10-free-animated-logo-creators-boost-your-brand/"><u>New 2024 Approved Top 10 Free Animated Logo Creators Boost Your Brand</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevating-the-impact-of-your-instagram-videos/"><u>[New] Elevating the Impact of Your Instagram Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unleashing-potential-sharing-youtube-content-within-instagram-stories/"><u>[Updated] In 2024, Unleashing Potential Sharing YouTube Content Within Instagram Stories</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-interactive-illusions-vr-storytelling-for-2024/"><u>[Updated] Interactive Illusions VR Storytelling for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-audacity-for-superior-audio-capture/"><u>[Updated] Streamlining Audacity for Superior Audio Capture</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-now-on-amazon-grab-it-for-an-uncommon-200-off-before-prices-soar-again-insight/"><u>Apple Vision Pro Now on Amazon: Grab It for an Uncommon $200 Off Before Prices Soar Again! – Insight</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-3-stability-issues-resolved-no-more-unexpected-shutdowns/"><u>Diablo 3 Stability Issues Resolved - No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-best-budget-screen-grabber-for-smartphones/"><u>In 2024, Best Budget Screen Grabber for Smartphones</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Meizu 21 | Dr.fone</u></a></li>
 </ul></div>
 

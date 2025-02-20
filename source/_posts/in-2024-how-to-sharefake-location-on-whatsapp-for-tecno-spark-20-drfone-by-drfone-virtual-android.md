@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Share/Fake Location on WhatsApp for Tecno Spark 20 | Dr.fone
-date: 2024-07-14T05:36:42.672Z
-updated: 2024-07-15T05:36:42.672Z
+date: 2025-02-13T16:04:29.242Z
+updated: 2025-02-20T16:15:55.677Z
 tags: 
   - virtual location change
   - social app
@@ -69,6 +69,10 @@ The live location feature is entirely optional, and it depends on whether you wa
 
 ![Share Live Location](https://images.wondershare.com/drfone/article/2019/10/pin-your-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Specify the period and continue you begin the sharing.
 
 And that’s how you pin a location. If at some point, you decide that you don’t want to share your location, then you can stop it manually.
@@ -93,9 +97,6 @@ _Step 1: Launch the Virtual Location app_
 
 To start with, launch the Dr.Fone toolkit on your computer and launch the “Virtual Location” feature from its home.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Using an authentic lightning cable, connect your Tecno Spark 20 to the computer and click on the “Get Started” button.
@@ -120,9 +121,6 @@ To change your location, move the pin as per your requirements, and click on the
 
 This will display the changed location of your device on the interface, and you can stop the simulation whenever you want.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stop the simulation](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 You can also open any app on your Tecno Spark 20 and see the new location on the interface. Just go to WhatsApp now and send the fake location on WhatsApp to your friends.
@@ -141,8 +139,6 @@ Step 2: Afterward, select the trip type, number of rounds, and speed according t
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
-
-
 ### 3.2 Fake location on WhatsApp using iTools location spoofer
 
 Unfortunately, faking your WhatsApp location on iPhone is not as easy as you think. You can't just download an app that will help you to fake WhatsApp live location. Instead, you will have to use a computer program for this. There is a special tool designed by ThinkSky called iTools. It will allow the users to pick any location and trick your Tecno Spark 20 apps into believing that you are actually at that location.
@@ -155,15 +151,16 @@ Step 2: Enter the fake location in the search box and let the software detect th
 
 ![Move Here option](https://images.wondershare.com/drfone/article/2019/10/move-location-on-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Now, launch the WhatsApp app and click on the Share Location option. The app will show the new fake location, and you can share it with anyone you want.
 
 To get your real location back, you will have to reboot your Tecno Spark 20. But you can only do this only 3 times for free. Also, this trick works on any iPhone running on iOS 12 and older.
 
 ## Part 4. Use Location Faking App from Google Play (Android Specific)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4.1. How to Select a Good App to Fake Location?
 
 The main purpose of using [third-party apps to fake locations](https://drfone.wondershare.com/virtual-location/top-fake-gps-apps-for-android.html) on WhatsApp is to triangulate your current position. That is why the most important thing in a good GPS faking app is accuracy. If you browse the Google Play Store, you will find unlimited applications that can serve this purpose. But don’t always go for the first choice. Look for features in the app you want such as:
@@ -187,15 +184,27 @@ Step 2: Go to the Settings and open "About Phone" info. Find the Build number an
 
 ![Allow Mock Locations](https://images.wondershare.com/drfone/article/2019/10/open-developer-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Now, open the app and search the location that you want to send. Once you have decided which location you want to share, click on the Set Location option.
 
 ![Set Location option](https://images.wondershare.com/drfone/article/2019/10/set-fake-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Now, open WhatsApp and click on the Share location option. Choose the option whether you want to send your current location or you want to share your Live Location and press send.
 
 ![Live Location](https://images.wondershare.com/drfone/article/2019/10/share-fake-location.jpg)
 
 If you have shared the fake live location, remember to change it after 15 or 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Can I Find My Friend Has Faked WhatsApp Location?
 
@@ -261,9 +270,6 @@ Here's how to change your country on YouTube if you're on Android.
 
 **Step 3**: Choose your desired country from the list of available options.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Change Your Location on YouTube from iPhone and iPad
 
 Lastly, if you're using an iPhone or an iPad, simply follow the steps below to change your location on YouTube.
@@ -382,11 +388,19 @@ Using a Proxy to mask your location on the internet allows you to change your co
 
 ![use proxfree youtube proxy](https://images.wondershare.com/drfone/article/2023/01/youtube-proxy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: On the **Server Location** dialogue box, choose a country in the available options on the dialogue box.
 
 **Step 3**: Enter the **URL** of the specific video you want to see unblocked and click **PROXFREE** to open YouTube in the proxy's tab.
 
 ![unblock youtube using proxfree](https://images.wondershare.com/drfone/article/2023/01/unblock-youtube-proxfree.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _**Note**: You can also use YouTube's search bar once YouTube's tab is open on your proxy to search YouTube videos as usual._
 
@@ -466,8 +480,6 @@ LinkedIn can also be accessed from your Tecno Spark 20 and iOS devices, and the 
 
 Another simple and quick way to change your location for your LinkedIn profile is by using a software called [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This versatile tool is compatible with working for your iOS and Android devices and allows changing the location of your device and several apps, including LinkedIn. With just a single click, you can teleport your GPS location anywhere in the world. Additionally, you can also simulate the GOS movements as you move along the route.
 
-
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -486,10 +498,11 @@ Quick to download, the software has a simple interface, and the process of chang
 
 Step 1. Download, install and run the Drone software on your system, and from the main interface, choose the Virtual Location option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![main interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2. Click on Get Started at the main software interface and then connect your Tecno Spark 20 or your Tecno Spark 20 to your system.
 
@@ -509,6 +522,10 @@ Step 6. At the new pop-up box, click on the Move Here button to set the new loca
 
 ![show the fake location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The benefits of setting up a customized location on LinkedIn
 
 Changing and setting a customized location on your LinkedIn profile can be beneficial in several ways, as listed below.
@@ -523,6 +540,10 @@ Changing and setting a customized location on your LinkedIn profile can be benef
 
 If you are planning to relocate to a new place soon, updating your LinkedIn location is fine. Location update will help you target the job market and with job-seeking to get the desired job. It is suggested that suppose if you are moving to ABC location soon, you can update your LinkedIn location to ABC but at the same time mention your present current location, somewhere in the profile. Mentioning your current location will not create any feeling of being cheated or misled by the people who visit your profile.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How do I hide my location on LinkedIn?
 
 There is no option on LinkedIn to hide your location. You can only provide incorrect information by changing, customizing, or setting a fake location but cannot hide it. By default, Linkedin keeps your profile visible to all. You can change it by following the steps given below:
@@ -534,9 +555,6 @@ There is no option on LinkedIn to hide your location. You can only provide incor
 ### Final Words
 
 LinkedIn location on your systems as well as mobile devices can be changed either by changing it through app settings or using a professional tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . Using the software, you can change the location of your device that will automatically update all the GPS and location-based apps, including LinkedIn, accordingly.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -550,9 +568,20 @@ LinkedIn location on your systems as well as mobile devices can be changed eithe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-exclusive-guide-ranking-most-effective-ig-money-makers-for-2024/"><u>[New] Exclusive Guide Ranking Most Effective IG Money Makers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-acclaimed-top-5-effortless-action-camcorders/"><u>[New] In 2024, Acclaimed Top 5 Effortless Action Camcorders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-your-photos-utilizing-psxs-erase-feature/"><u>2024 Approved Perfecting Your Photos Utilizing PSX's Erase Feature</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nubia-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nubia Phones with/without a PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-feature-a-secure-password-vault-with-advanced-end-to-end-encryption-comprehensive-review-on-zdnet/"><u>Introducing Proton's Latest Feature: A Secure Password Vault with Advanced End-to-End Encryption - Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/outwit-facebook-vids-ad-blocking-basics-for-2024/"><u>Outwit Facebook Vids Ad-Blocking Basics for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-x-fold-2-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo X Fold 2? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamlined-methods-to-update-your-dell-g7-video-card-drivers-in-no-time/"><u>Streamlined Methods to Update Your Dell G7 Video Card Drivers in No Time</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-and-solving-persistent-black-display-errors-on-your-device/"><u>Understanding and Solving Persistent Black Display Errors on Your Device</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-13-mini-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 13 mini Passcode without a Computer</u></a></li>
+</ul></div>
 

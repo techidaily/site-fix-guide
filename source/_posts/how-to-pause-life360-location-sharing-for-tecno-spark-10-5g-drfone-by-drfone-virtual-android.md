@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Tecno Spark 10 5G | Dr.fone
-date: 2024-07-14T05:35:01.726Z
-updated: 2024-07-15T05:35:01.726Z
+date: 2025-02-18T16:10:40.393Z
+updated: 2025-02-20T16:10:39.984Z
 tags: 
   - virtual location change
   - social app
@@ -21,10 +21,13 @@ However, there are moments when you might crave a bit of privacy or a break from
 
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
-
 ## Part 1: What Is Life360 and How To Pause Life360 From the App
 
 Life360 is not just an app; it’s a digital lifeline connecting people with their loved ones. It’s primarily designed for family and close friends. By offering real-time location sharing, it ensures that members of your “Circle” (a group within the app) know where you are at any given moment. This feature is handy for parents monitoring their children’s whereabouts or friends coordinating meet-ups.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Purpose of Life360
 
@@ -49,9 +52,6 @@ Now, the question is, **can you pause your location on Life360?** Pausing Life36
 
 Open Life360 and go to the main screen. Select the Circle you want to pause. Then, tap on Settings (usually represented by a gear icon) in the upper-right corner. Look for an option like **Location Sharing** and toggle it off. This action pauses your location sharing only for the selected Circle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![location sharing life360 menu](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-02.jpg)
 
 #### Pausing the Whole App
@@ -82,6 +82,10 @@ This can be done from the quick settings panel on both Android and iOS devices. 
 
 ![airplane mode ios](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pause by Uninstalling
 
 Removing the app from your device will stop it from sharing your location. The beauty of this method is that it won’t automatically notify your circles or remove you from them. However, some members might notice that your location updates are unavailable.
@@ -92,9 +96,11 @@ Each method serves a different purpose and offers varying levels of discretion. 
 
 Sometimes, pausing your location sharing on Life360 may raise questions or concerns among your circle members, particularly if they are close family or friends. If you’re planning a surprise or need private time without arousing suspicion, a virtual location spoofer can be handy. This method will teach you **how to pause your location on Life360 without them knowing.**
 
-
-
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Use Dr.Fone To Spoof Your Location on Life360
 
@@ -107,9 +113,6 @@ To learn how to pause location on Life360 without them knowing using Dr.Fone, fo
 
 - **Step 3:** To define how your virtual location behaves, you can decide how often the app simulates a **Round trip** or **Loop** **trip**. Once you’ve set parameters like **Speed**, click **Move Here** to start the simulation.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set one-stop route dr.fone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 **Note:** TheRound trip and Loop trip are particularly useful for creating the impression of movement in a specific area. Parameters can make your virtual movement more believable.
@@ -123,7 +126,6 @@ While it’s always recommended to maintain open communication with your Circle 
 ## How to Change/Add Location Filters on Snapchat For your Tecno Spark 10 5G
 
 Snapchat is an Android/iOS messaging app developed in 2011. Currently, this app is home to 350+ users who share photos, videos, audio, texts, emojis, GIFs, and documents. But one of the most exciting Snapchat features is allowing users to share locations, whether fake or real. For instance, you might want to protect your privacy or simply prank your friends with a new location. So, whichever the reason, we'll show you **how to add a location filter on Snapchat** effortlessly. You'll also know **how to add a fake location filter on Snapchat**. Let's learn!
-
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/6W-qXnzg8kA"></iframe>
 
@@ -169,8 +171,6 @@ Fortunately, you don't need those overpriced VPNs if you can get [Dr.Fone](https
 
 So, without dilly-dallying much, here's how to fake a **Snapchat location tag** with Dr.Fone:
 
-
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -203,6 +203,10 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 
 ## Part 4: FAQs about Snapchat
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q1: What is Ghost Mode on Snapchat?
 
 Snapchat comes with an inbuilt Snap Map introduced in 2017. Besides sharing Snaps by the Our Story feature, Snap Maps lets other Snapchatters see your real-time location using Bitmojis. That said, Ghost Mode makes you invisible on the Snap Map. In other words, no one can know where you are. Cool!
@@ -227,8 +231,6 @@ Sometimes you might want to urgently find a friend on Snapchat when you are in G
 
 Now you have a complete idea of what the Snapchat location filter is. In short, it is simply a creative way to share your Snapchat location tag on a post. But because you can't spoof your location on Snapchat, I recommend using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to teleport your Snapchat location to anywhere in the world. This tool also works with other social media apps like Facebook, WhatsApp, and Telegram. Enjoy!
 
-
-
 ## How To Leave a Life360 Group On Tecno Spark 10 5G Without Anyone Knowing?
 
 Do you keep asking yourself **how do I leave a Life360 group?** If so, you’re on the right page. In a world where connectivity is key, Life360 has emerged as a trusted family safety app. It provides a digital reach through its innovative location tracking “Circle.” However, sometimes, you might want to leave it without raising eyebrows.
@@ -237,12 +239,13 @@ Whether it’s a matter of privacy or a brief escape, the art of leaving a Life3
 
 ![leaving a life360 group banner](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. How To Leave a Life360 Circle
 
 Life360 has become a household name. It’s a digital haven for families to stay connected through its “Circle.” The Circle functions as a virtual space where family members’ locations are shared. While this can be beneficial, there are times when you wish to leave a Circle for personal reasons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Leave a Life360 Circle You Created
 
@@ -256,6 +259,10 @@ The default method of leaving a Life360 Circle is straightforward but comes with
 
 ![life360 leave circle option](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Leave a Life360 Circle You’re a Part Of
 
 Here’s **how to leave a circle in Life360** that you’re a part of. Here are the detailed steps:
@@ -267,6 +274,10 @@ Here’s **how to leave a circle in Life360** that you’re a part of. Here are 
 - **Step 2:** Choose **Circle Management** from the list. Tap on **Leave Circle** at the bottom of the screen. Confirm your decision by selecting **Yes** in the popup. You’ll no longer be associated with the Circle, and it won’t appear in your Circles list. If you wish to rejoin, you’ll need a new invitation from the Circle Admin.
 
 ![leaving circle confirmation window](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How To Leave a Life360 Circle Without Anyone Knowing
 
@@ -287,8 +298,6 @@ One of the most effective and safe ways to trick Life360 without triggering noti
 
 Follow the steps below to learn **how to leave a Life360 Circle without anyone knowing** using Dr.Fone’s Virtual Location tool:
 
-
-
 - **Step 1:** Download and install Dr.Fone, then connect your Tecno Spark 10 5G via USB cable. Launch the tool from **Toolbox** > **Virtual** **Location**. Click **Get Started** to proceed.
 
 ![dr.fone connecting smartphone to computer](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
@@ -299,9 +308,6 @@ Follow the steps below to learn **how to leave a Life360 Circle without anyone k
 
 - **Step 3:** On the map, enter the number of movements and select **Round** or **Loop** trip. Adjust the speed, then click **Move Here** to start the simulation. **Pause** or clear to revert.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone simulate movement with map](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 - **Step 4:** To activate **Teleport Mode**, click the **Search** bar. Type a location and hit **Enter**. Click **Move Here** to change the smartphone location on the map. Verify on your smartphone’s maps application. Once done, you spoofed a Life360 circle without anyone knowing.
@@ -317,6 +323,10 @@ If Dr.Fone is unavailable, a simple tactic is to disable both mobile data and Wi
 - **Step 1:** Open your device settings. Go to **Connections** or **Network & Internet**.
 - **Step 2:** Disable both **mobile data** and **Wi-Fi**. Life360 will lose real-time tracking capability, but be cautious, as this may raise suspicion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Switching To Airplane Mode
 
 Another option is to activate Airplane Mode, severing all connections, including location sharing. Again, this method may alert Circle members to your departure.
@@ -326,6 +336,10 @@ Another option is to activate Airplane Mode, severing all connections, including
 ![airplane mode interface](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-11.jpg)
 
 - **Step 2:** Toggle on **Airplane Mode**. The method severs all connections, including location sharing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Turning Off Your Tecno Spark 10 5G
 
@@ -337,9 +351,6 @@ In your device settings, disable **Background App Refresh** for Life360. Althoug
 
 - **Step 1:** Go to your device **Settings**. Look for **Apps** or **Application Manager**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable life360 background app refresh](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-12.jpg)
 
 - **Step 2:** Locate Life360 and disable **Background App Refresh** for the app. Alternatively, you can disable **Background App Refresh** as a whole.
@@ -363,6 +374,10 @@ Acquiring a secondary, inexpensive phone for Life360 use may be an alternative i
 Life360’s Circle feature serves as the cornerstone of the app. It fosters connectivity and safety among its users. After diving into **how to leave a Circle on Life360** in the above parts, it’s time to have a comprehensive look at essential aspects of the Circle feature:
 
 ![life360 app interface](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can You Remove Someone From a life360 Circle?
 
@@ -390,7 +405,6 @@ Leaving a Life360 Circle can be achieved through the standard method. However, i
 
 The platform is proficient in location spoofing without alerting the Circle. Whether addressing privacy concerns or aiming for a quick escape, Dr.Fone proves its worth. It’s the preferred choice if you google the question, “**How do I leave a life360 group** online.” Ensure a seamless alone time without notifying other members.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -403,9 +417,24 @@ The platform is proficient in location spoofing without alerting the Circle. Whe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/camera-connoisseurs-hits-the-best-6-of-the-years-4k-cameras-for-2024/"><u>Camera Connoisseurs' Hits The Best 6 of the Year's 4K Cameras for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/constructing-coherent-cinematic-introductions-for-2024/"><u>Constructing Coherent Cinematic Introductions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-sound-card-driver-downloads-compatible-with-all-windows-systems/"><u>Free Sound Card Driver Downloads: Compatible with All Windows Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-redmi-13c-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi 13C 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-pro-4g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 Pro 4G Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-x6-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X6 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pic-perfect-ranking-the-best-photo-stickering-apps-for-iphonesandroids/"><u>Pic Perfect Ranking the Best Photo Stickering Apps for iPhones/Androids</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-zero-5g-2023-turbo-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Zero 5G 2023 Turbo Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/secure-your-data-a-step-by-step-guide-to-password-protecting-folders-on-windows-tips-from-yl-software/"><u>Secure Your Data: A Step-by-Step Guide to Password-Protecting Folders on Windows - Tips From YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/streamline-your-tasks-essential-tips-for-using-file-explorer-in-windows-1ntegrated-applications-sync-with-google-photos-or-icloud-you-can-access-your-photos72/"><u>Streamline Your Tasks: Essential Tips for Using File Explorer in Windows 1Ntegrated Applications | Sync with Google Photos or iCloud, You Can Access Your Photos From Anywhere and on Any Device.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-chatgpt-enterprise-insights-into-its-offerings-and-differences/"><u>Unveiling the Power of ChatGPT Enterprise – Insights Into Its Offerings and Differences</u></a></li>
+</ul></div>
 

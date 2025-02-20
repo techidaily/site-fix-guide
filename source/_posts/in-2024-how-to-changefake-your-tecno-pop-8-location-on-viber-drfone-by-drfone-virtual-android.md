@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Tecno Pop 8 Location on Viber | Dr.fone
-date: 2024-07-14T05:36:17.525Z
-updated: 2024-07-15T05:36:17.525Z
+date: 2025-02-18T16:14:01.082Z
+updated: 2025-02-20T16:35:09.933Z
 tags: 
   - virtual location change
   - social app
@@ -30,6 +30,10 @@ So, without wasting too much time, let’s find out the steps to disable/enable 
 Step 1. Fire up your Viber app on mobile or PC and tap the **Chats** button. Here, proceed to open a chat that you want to enable/disable location sharing.
 
 ![change location on Viber open chats](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of the screen and choose **Chat Info**. Alternatively, simply swipe the screen to the left.
 
@@ -77,10 +81,11 @@ Connect your smartphone to your PC using a USB wire and tap **Get Started** on t
 
 **Step 3. Link your phone to Dr.Fone via USB debugging**
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Press the **Next** button to begin connecting your phone to Dr.Fone. If the connection fails, enable USB debugging on your phone by following the on-screen instructions. On Android phones, tap **Settings > Additional settings > Developer options > USB debugging**. In addition, set Dr.Fone as the mock location app on your phone.
 
@@ -92,7 +97,9 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -126,9 +133,6 @@ If you’re a digital marketer, you might want to convince your potential client
 
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Pop 8
 
 WhatsApp is a free messaging app owned by Meta, initially Facebook. Currently, this platform boasts over two billion active users, even outshining Messenger and WeChat. One of the reasons WhatsApp is popular is letting users share their live location with individuals and group chats. However, sometimes you may experience the annoying **WhatsApp location not updating** issue. Luckily, this article has a solution to this problem. We'll also address **how to share my location on the WhatsApp** issue. Let's learn!
@@ -152,8 +156,6 @@ Although uncommon with modern phones, this can be another reason for a wrong liv
 ## Part 2. How to Fix WhatsApp Live Location Not Updating Problem?
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/o7SlRcYHpW4"></iframe>
-
-
 
 Now that you already know why WhatsApp's live location isn't updating, it's time to check out the solutions. Let's go!
 
@@ -182,8 +184,6 @@ If all else fails, then it's probably time to get handy. Simply uninstall your W
 There have been multiple security concerns about WhatsApp before. But while the jury is still out, do yourself a favor and protect your live location from spyware and other users. Also, you might want to spoof WhatsApp location for business purposes and prank friends.
 
 That said, learning to fake location on WhatsApp is super simple with [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). With this GPS app, you can teleport your WhatsApp live location to anywhere in the world. And to make your new location more believable, this program lets you simulate movements by foot, scooter, or car. Remember, it works with all iPhone/Android versions and other social media apps like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -235,11 +235,12 @@ Step 3. Now click the **Attach** button on the text field and click **Location**
 
 ![whatsapp location not updating drfone virtual location](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. Allow WhatsApp access to your device's location and then press the **Share Live Location** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![whatsapp location not updating drfone virtual location](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-2.jpg)
 
 Step 3. Last but not least, set the duration your contact will view your location, add a comment, and tap the **Send** button. That's it!
@@ -295,8 +296,6 @@ Keep reading if you need to know **how to hide your location on Life360 without 
 
 Follow the steps to learn **how to hide your location on Life360 without anyone knowing** using Dr.Fone:
 
-
-
 - **Step 1:** Download and install Dr.Fone on your computer. Click **Toolbox** > **Virtual** **Location.** In the next window, click **Get** **Started**. Afterward, connect your smartphone to your computer. Follow the on-screen instructions.
 
 ![connecting smartphone to dr.fone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
@@ -311,6 +310,10 @@ Follow the steps to learn **how to hide your location on Life360 without anyone 
 
 - **Step 4:** Activate **Teleport Mode** by selecting the first icon from the left. Use the **Search** bar to type in your desired location. Hit **Enter**, and the map will display the specified location. To shift your smartphone’s location, click **Move Here**. The map will reflect the change, confirming the successful teleportation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ExpressVPN
 
 ExpressVPN, a renowned VPN service, enhances online privacy by masking your IP address. While it doesn’t change your GPS location, it provides a layer of security and anonymity. ExpressVPN is compatible with both iOS and Android devices. It offers a single-function solution for safeguarding your online activities.
@@ -323,9 +326,6 @@ Fake GPS Go Location Spoofer is an Android app that allows users to change their
 
 ![fake gps location spoofer app](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### A Comparison Among the Five Virtual Location Changer
 
 Among the various apps available, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is the most versatile and reliable choice for both iOS and Android devices. Here’s a quick table comparing all the tools.
@@ -336,6 +336,10 @@ Among the various apps available, [<u>Wondershare Dr.Fone</u>](https://tools.tec
 | ExpressVPN | iOS & Android | No | Yes | Single |
 | Fake GPS Go Location Spoofer Free | Android | No | No | Single |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part II. 7 Other Methods To Hide Location on Life360
 
 Here are alternative solutions to hide your location on Life360 without resorting to third-party apps. These methods might not provide a foolproof solution, and their effectiveness can vary.
@@ -345,6 +349,10 @@ Here are alternative solutions to hide your location on Life360 without resortin
 Enabling Airplane Mode on your smartphone disables all wireless communication, including GPS. While effective, the method will also interrupt calls and messages. Airplane mode is suitable for times when you need complete privacy.
 
 ![iphone airplane mode](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn Off WiFi and Data
 
@@ -357,8 +365,9 @@ You can turn off Location Services or switch to a less precise location mode in 
 ![iphone location services and precise mode](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Low Data Mode
 
 Some devices offer a Low Data Mode. The feature reduces the amount of data your phone uses. While not designed for hiding your location, it may slow down or limit the transmission of location data.
@@ -403,9 +412,17 @@ Discovering that your child learned **how to hide location on Life360** can be a
 
 Approach the situation with openness and honesty. Start a non-confrontational conversation to understand the reasons behind their decision. Creating a safe space for dialogue encourages trust and helps address concerns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Discuss the Positive Side of Life360
 
 Highlight the positive aspects of Life360. Focus on its role in ensuring safety and maintaining family connections. Reinforce that the app is intended for security rather than invasive monitoring. Help your child see the benefits of using it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Offer an Alternative App as a Backup
 
@@ -416,9 +433,6 @@ Suggest exploring alternative location-sharing apps that may align better with y
 While options like Airplane Mode and disabling location services exist, the most secure and comprehensive choice is Wondershare Dr.Fone. The virtual location changer allows discreet location adjustments without alerting anyone. With features like teleportation and joystick simulation, it’s the safest method for maintaining privacy on Life360.
 
 For those seeking to master **how to hide your location on Life360 without anyone knowing**, Dr.Fone is the preferred solution. The tool ensures a reliable and inconspicuous experience.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -432,9 +446,21 @@ For those seeking to master **how to hide your location on Life360 without anyon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-addressed-discrepancy-in-shorts-showcase/"><u>[New] Addressed Discrepancy in Shorts Showcase</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/choes-of-entertainment-discovering-6-free-android-apps-for-your-youtube-playlists-for-2024/"><u>[New] Echoes of Entertainment Discovering 6 Free Android Apps for Your YouTube Playlists for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-free-facebook-management-smart-post-scheduling-tips/"><u>[Updated] 2024 Approved Free Facebook Management Smart Post Scheduling Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unexpected-video-pitch-flipped-images-on-instagram/"><u>[Updated] 2024 Approved Unexpected Video Pitch Flipped Images on Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-foundations-of-building-your-twitter-profile/"><u>[Updated] The Foundations of Building Your Twitter Profile</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-hash-tags-that-multiply-your-view-count-by-six/"><u>[Updated] Unveiling Hash Tags that Multiply Your View Count by Six</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-video-editing-convert-avis-to-gifs-on-mac-and-pc-with-filmora/"><u>2024 Approved Streamlining Video Editing Convert AVIs to GIFs on Mac and PC with Filmora</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-x-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone X in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-vivo-s18e-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo S18e Face Lock?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-g54-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola G54 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oneplus-open-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of OnePlus Open? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo A78 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Tecno Camon 30 Pro 5G | Dr.fone
-date: 2024-07-14T05:37:37.742Z
-updated: 2024-07-15T05:37:37.742Z
+date: 2025-02-18T16:20:21.473Z
+updated: 2025-02-20T16:55:29.357Z
 tags: 
   - virtual location change
   - social app
@@ -73,6 +73,10 @@ Start by downloading and installing Dr.Fone from the official website and launch
 
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 On Dr.Fone's home page, press the Virtual Location tab and click **Get Started**. Now enable USB debugging to connect your phone to Dr.Fone. On Android, click Additional Settings > Developer options >USB debugging. Also, remember to set Dr.Fone as the mock location app.
 
 **Step 3. Launch the map and choose a fake location for Messenger.**
@@ -82,6 +86,10 @@ On Dr.Fone's home page, press the Virtual Location tab and click **Get Started**
 Once USB debugging is enabled, press **Next** to launch the map. Now enter your new location's address or GPS coordinates and tap **Move Here**. And there is that!
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _**Bonus tip: How to make your new Messenger location more believable**_
 
@@ -103,6 +111,10 @@ Open Settings > Privacy > Location Services for iPhone users and then enable Loc
 
 In a typical scenario, it's impossible to lie about your location on Facebook. That's because the app asks for permission to track your GPS location before you can use it. But as you've seen, Wondershare Dr.Fone makes it a cakewalk to a fake live location on Messenger.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. How can I hide my location on Facebook?
 
 As said earlier, the reason why Facebook gives the wrong location is because of disabled location settings. It's the reverse! So, use this Settings feature to hide your actual location on Facebook.
@@ -113,9 +125,6 @@ Any queries regarding how to send a fake location on Messenger? Let us know if y
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How to Change Your Tecno Camon 30 Pro 5G Location on life360 Without Anyone Knowing?
 
 “**Can you change your location on Life360 without anyone knowing?**” This question pops up often, especially with the increasing focus on privacy and personal location tracking. And this might resonate with you as well. Perhaps you’re a spouse wanting to surprise your partner or a friend planning a secret celebration. Or a gamer playing geolocation-based video games. And hopefully, it’s for good intentions.
@@ -148,6 +157,10 @@ Life360 tracks a variety of things, including:
 
 ![life360 driver reports feature](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benefits
 
 Life360 offers various benefits, such as:
@@ -174,6 +187,10 @@ Yes, you can change your location on Life360 without anyone knowing. But it does
 
 ![dr.fone life360 virtual location changer](https://images.wondershare.com/drfone/images2022/iphone-data-recovery/s3img1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The question of hiding or changing your location on Life360 might be discreetly on your mind. You’re not alone in this. If you’re a teenager, maybe you seek a bit of freedom without constant oversight. As a working professional, you might be figuring out how to balance work and life while keeping things private. Perhaps you aim to lessen your digital footprint. Or to gain an advantage in competitive play.
 
 In different scenarios, the same question – “**Can you change your location on Life360 without anyone knowing?**” Let’s explore this together. No matter what your reasons are, as long as you have good intentions, keep reading. In the next section, you’ll learn more about Dr.Fone and its one-click virtual location changer feature.
@@ -181,8 +198,6 @@ In different scenarios, the same question – “**Can you change your location 
 ## Part 3: Changing/Faking Location With Dr.Fone – Virtual Location
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location can be a playful tool for the digitally adventurous. Want to impress your Instagram followers with Parisian sunsets without leaving your couch? Dr.Fone can transport you there with a click. For the romantics, Dr.Fone can also help you spark connections on dating apps by setting your location to a city or a scenic getaway.
-
-
 
 It’s also a game-changer for location-based apps, letting you hatch Pokemon eggs without leaving your room. Beyond gaming, Dr.Fone can also change your location on real-time tracking apps like Life360. Use it to maintain privacy without needing to explain your actual location.
 
@@ -199,8 +214,6 @@ But use Dr.Fone responsibly and creatively. It opens up endless possibilities fo
 How To Use Dr.Fone To Change/Fake Location on Life360?
 
 Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you spoof location sharing on your terms without raising eyebrows. Here’s how to change your location on the Life360 app without anyone knowing:
-
-
 
 - **Step 1:** Connect your smartphone to your desktop using a USB cable after downloading Dr.Fone. Once installed, launch it and select **Virtual Location** from the **Toolbox** homepage to continue with the feature.
 - **Step 2:** Click **Get Started** and select the checkbox to acknowledge the disclaimer.
@@ -227,6 +240,10 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 ![adjust travel speed and route type](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** Simulation initiated. Track your movement on the map at your set speed. You can click **Pause** or **Clear** to control the flow.
 
 ## Part 4: Other Ways for Responsible Location Sharing on Life360
@@ -247,6 +264,10 @@ Some Life360 plans offer location Bubble. It shares your general vicinity withou
 
 ![life360 bubble feature](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open Communication
 
 Talk with your family about your concerns about location sharing. Explain your desire for more privacy while emphasizing your commitment to safety. Discuss boundaries and compromise on situations where location sharing feels necessary.
@@ -261,13 +282,14 @@ So, let’s go back to the main question. **Can you change your location on Life
 
 But of course, there are certain situations in which you will need to fake your location. In such cases, Dr. Fone’s Virtual Location changer is a responsible solution. This tool enables temporary location modifications with precise control and ethical features. Use them responsibly and prioritize genuine communication for healthy, secure connections.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does Tecno Camon 30 Pro 5G Have Find My Friends?
 
 Yes, Find My Friends App is compatible with Tecno  smartphones. This tracker App is exclusive for iPhone users and Android devices. Free for iPhone, iPad, and iPod Touch. When installed on your friends or one of our family member’s smartphone you can stay in touch with them and keep a tab on his/her location. All you require is to request- with whom you want to stay connected- to save your number as a contact on the Find My Friends app, and then you’ll be given access to their real-time geographical location. You can also find Tecno  version of Find My Friends app if you are particularly looking for it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Find my friends pic 1](https://images.wondershare.com/drfone/article/2024/01/find-my-friends-pic.jpg)
 
 There are several privacy controls with Find My Friend Tecno  and iPhone App. This means if there are times when you don’t want family or friends to know your location, you can simply mute it with a few clicks. Find My Friends application is quite popular among families who worry about the safety of their loved ones.
@@ -278,9 +300,6 @@ Download from Apple Store - [http://apps.apple.com/us/app/find-my-friends/id4661
 
 ## Part 1: Best Alternatives to Find My Friends App
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Glympse
 
 ![find my friends alternative - glympse](https://images.wondershare.com/drfone/article/2024/01/find-my-friends-pic-1.jpg)
@@ -319,12 +338,13 @@ With GeoZilla App, you have the freedom to keep an eye on the daily activities o
 
 This App is for free which you can download from the Google Play Store. [http://play.google.com/store/apps/details?id=com.geozilla.family&hl=en\_US](http://play.google.com/store/apps/details?id=com.geozilla.family&hl=en_US)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: The Find My Friends Lets You
 
 ![Find my friends pic 5](https://images.wondershare.com/drfone/2023/virtuallocation/Find-my-friends-pic-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Find, chat and share your location on MapShare with your friends
 - You can easily recommend and share updates on any news about a great restaurant opening or a store sale etc. for them to check out.
@@ -333,6 +353,10 @@ This App is for free which you can download from the Google Play Store. [http://
 - You can use either your phone number or your email id to share exact location and can even invite your friends to share back.
 - You can choose to share your location temporarily or permanently
 - You can even hide your location to safeguard your privacy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Requirements
 
@@ -372,11 +396,6 @@ Thus, you can fake location with flexible GPS movement on the Find My Friends ap
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Simplified Steps to Spoof Location on Find My Friends Using Dr.Fone - Virtual Location
 
 While faking location across apps, you can move at different speeds, such as cycling, walking, or driving. As Dr.Fone - Virtual Location keeps you amazed, let’s learn how to use it to change location without hustle.
@@ -393,14 +412,9 @@ Following this, confirm your actual location and move to activate the teleport m
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
-
 ## Conclusion
 
 Would you like to add an App to the above-mentioned list? Or want to share your first-hand experience with Find My Friends App? Have your say in the comment section of this blog post!
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -414,9 +428,20 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-effective-techniques-to-prevent-photos-app-crashes-on-windows-11/"><u>[Updated] Effective Techniques to Prevent Photos App Crashes on Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-ultimate-guide-10-superior-vimeo-downloader-apps/"><u>[Updated] In 2024, Ultimate Guide 10 Superior Vimeo Downloader Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/5-must-try-websites-for-cost-free-effects/"><u>5 Must-Try Websites for Cost-Free Effects</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-closer-examination-the-finest-mac-recording-software-for-2024/"><u>A Closer Examination The Finest Mac Recording Software for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-find-x7-ultra-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Find X7 Ultra Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-essential-tips-and-templates-for-impactful-ig-footage/"><u>In 2024, Essential Tips & Templates for Impactful IG Footage</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-storm-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Storm 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-google-pixel-8-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Google Pixel 8 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-note-12-pro-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 12 Pro 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-steam-not-functioning-for-game-launch-on-windows-11/"><u>Resolving Steam Not Functioning for Game Launch on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bsod-problem-with-tcpipsys-in-windows-operating-systems-11-7-and-eight-edition/"><u>Resolving the BSOD Problem with tcpip.sys in Windows Operating Systems: 11, 7 and Eight Edition</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Smart 8 | Dr.fone</u></a></li>
+</ul></div>
 

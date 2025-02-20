@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Infinix Hot 40i Location on Viber | Dr.fone
-date: 2024-07-14T05:32:33.439Z
-updated: 2024-07-15T05:32:33.439Z
+date: 2025-02-16T16:57:25.598Z
+updated: 2025-02-20T16:20:16.635Z
 tags: 
   - virtual location change
   - social app
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ## How to Change/Fake Your Infinix Hot 40i Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the My Location feature on Viber?
 
@@ -35,9 +39,17 @@ Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of 
 
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
 
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
@@ -69,6 +81,10 @@ Steps to change Viber location with Dr.Fone:
 
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
 
 **Step 2. Connect your phone to Dr.Fone with a USB cable.**
@@ -85,15 +101,14 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 
 ![change location on Viber, choose location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -125,6 +140,10 @@ If you’re a digital marketer, you might want to convince your potential client
 ### Wrap it Up
 
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Send and Fake Live Location on Facebook Messenger Of your Infinix Hot 40i
 
@@ -159,6 +178,10 @@ Step 1. Open Facebook Messenger and launch the conversation with which you want 
 Step 2. Click the "four dots" at the bottom-left corner and tap **Location**.
 
 ![facebook messenger location sharing](https://images.wondershare.com/drfone/article/2022/03/facebook-messenger-location-sharing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3. Now tap **Allow Location** and choose a new location on the world map that appears.
 
@@ -206,9 +229,6 @@ So, use Dr.Fone to fake location on Messenger with unreal precision. This third-
 
 ## Part 5. FAQ: What People Also Ask about Facebook Location Services
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Why is my Facebook Messenger location wrong?
 
 The issue of the wrong Facebook location is commonplace these days. Fortunately, it's nothing complicated as it's mainly about the incorrect GPS settings on your phone. So, go ahead and enable GPS tracking on your device.
@@ -219,9 +239,6 @@ Open Settings > Privacy > Location Services for iPhone users and then enable Loc
 
 In a typical scenario, it's impossible to lie about your location on Facebook. That's because the app asks for permission to track your GPS location before you can use it. But as you've seen, Wondershare Dr.Fone makes it a cakewalk to a fake live location on Messenger.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. How can I hide my location on Facebook?
 
 As said earlier, the reason why Facebook gives the wrong location is because of disabled location settings. It's the reverse! So, use this Settings feature to hide your actual location on Facebook.
@@ -231,8 +248,6 @@ As said earlier, the reason why Facebook gives the wrong location is because of 
 Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
-
-
 
 ## How to Change Location on TikTok to See More Content On your Infinix Hot 40i
 
@@ -296,9 +311,6 @@ The first step demands you download Dr. Fone's Virtual location and install it. 
 
 A new window will be opened, and your real location will be displayed on the Dr.Fone map. If you can't see it, click on the “Center On” icon at the right sidebar to show the location.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access your real location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 3: Activate the Teleport Mode**
@@ -337,9 +349,6 @@ TikTok uses the region code of your SIM card to display the content of your regi
 
 You can do so by ordering an international SIM card through Amazon and putting your SIM in the mobile phone. Now, delete the cache and app data. Then, open TikTok and enjoy various content. Unfortunately, you will have to buy a phone with a dual SIM. Moreover, some SIM cards might not work in your region unless you buy a mobile plan.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 2\. For Computer
 
 Now, let's discuss how to change your location on TikTok from your Computer. For this, we have introduced a VPN service that fakes the location on TikTok and helps you access content from different regions.
@@ -358,6 +367,10 @@ With the given following steps, you can set up ExpressVPN on your computer and a
 
 ![change tiktok location with expressvpn](https://images.wondershare.com/drfone/article/2022/05/change-location-on-tiktok-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: FAQs about TikTok Location
 
 ### **1\. Is it not legal to change the TikTok location?**
@@ -374,12 +387,19 @@ For the iOS device, open the "Settings" app and click on "Privacy." Further, cli
 
 Yes, TikTok will not be able to detect that you are using a VPN. Therefore, you will not be banned from using the application. It is safe to access TikTok with a VPN because it hides your IP address and location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 We have extensively concluded different methods involved in **How to change location on TikTok**. For iOS and Android devices, you can do so with the help of [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . Besides, you can manually change your language or SIM card to access the content of the particular region. If you use a computer, you can use ExpressVPN and change the location of your device while hiding your IP address.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -393,9 +413,23 @@ We have extensively concluded different methods involved in **How to change loca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-from-airplay-to-download-effortless-apods-access/"><u>[New] From AirPlay to Download Effortless APods Access</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-tales-for-youtube-triumph-top-3-strategies/"><u>[New] In 2024, Best Tales for YouTube Triumph Top 3 Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-art-of-srt-to-subc-innovative-techniques-explored-for-2024/"><u>[New] The Art of SRT to SUBC Innovative Techniques Explored for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-high-impact-video-marketing-content-on-youtube/"><u>[Updated] In 2024, Crafting High Impact Video Marketing Content on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-color-the-top-15-gopro-luts-for-filmmaking/"><u>[Updated] Perfecting Color The Top 15 GoPro LUTs for Filmmaking</u></a></li>
+<li><a href="https://fox-making.techidaily.com/essential-strategies-for-exporting-and-securing-yahoo-mail-files-on-your-desktop/"><u>Essential Strategies for Exporting and Securing Yahoo Mail Files on Your Desktop</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/identifying-the-causes-behind-your-failing-disk-drive-with-yl-computing-solutions/"><u>Identifying the Causes Behind Your Failing Disk Drive with YL Computing Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469372294-issue-with-iphone-wi-fi-try-these-five-methods-for-a-stable-connection/"><u>Issue with iPhone Wi-Fi? Try These Five Methods for a Stable Connection!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>Mobile Cinema Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-s17-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo S17 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-spark-10c-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Spark 10C Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/1720600674231-windows/"><u>ステラのデータ回復ソフト: Windows機に最適、無料で失われた情報を見つけ出せる方法</u></a></li>
+</ul></div>
 

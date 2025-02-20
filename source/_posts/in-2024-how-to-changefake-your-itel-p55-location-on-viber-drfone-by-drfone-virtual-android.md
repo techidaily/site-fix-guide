@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Itel P55 Location on Viber | Dr.fone
-date: 2024-07-14T05:34:24.391Z
-updated: 2024-07-15T05:34:24.391Z
+date: 2025-02-17T16:53:01.764Z
+updated: 2025-02-20T16:40:50.958Z
 tags: 
   - virtual location change
   - social app
@@ -23,6 +23,10 @@ If you’ve used WhatsApp’s location feature before, you’ll know what Viber�
 
 But as good as it sounds, this live location feature is enabled by default on your Itel P55/Android browser. Therefore, you can send a location on Viber without knowing. This can be advantageous to stalkers or even cause misunderstanding in your relationship. What’s worse, it shares your actual location with every text you send. But fret not because this post will help you **disable or enable My Location on Viber** according to your needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to disable or enable My Location on Viber?
 
 So, without wasting too much time, let’s find out the steps to disable/enable Viber location-sharing feature. It’s straightforward.
@@ -38,6 +42,10 @@ Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
 
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
@@ -67,10 +75,11 @@ Steps to change Viber location with Dr.Fone:
 
 **Step 1. Launch Dr.Fone Virtual Location.**
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
 
@@ -92,7 +101,9 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -105,6 +116,10 @@ If the connection is successful, the Virtual Location map will launch automatica
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Why send fake location on Viber?
 
@@ -122,9 +137,6 @@ Do you want to show your friends that you’re in London or New York when you’
 
 If you’re a digital marketer, you might want to convince your potential clients that the goods are from a specific region or city close to them. Believe it or not, this can lead to more sales closures.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Wrap it Up
 
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
@@ -159,8 +171,6 @@ If you are looking for an effective way to change your location in Yik Yak, we r
 
 It means you'll be able to publish your own Yik Yak posts from different locations and react to someone else's posts without interruptions. Apart from Yik Yak, you can also use a tool like Dr.Fone - Virtual Location to manipulate GPS signals in other location-based apps like Pokemon Go or Tinder. It's a great way to meet people from other cities on dating apps, as any geo-restrictions won't bind you.
 
-
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -191,14 +201,19 @@ So, here's the step-by-step process for changing location on Yik Yak using Dr.Fo
 
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Select the desired location and the pointer will automatically move to the selected location. Finally, tap on the “Move Here” button to set it as the current location for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click move here](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 So, that's how you can change location on Yik Yak using Dr.Fone - Virtual Location on both Android and iOS. Once your location is changed, you'll be able to see posts from other areas on Yik Yak and react to them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: FAQs about Yik Yak
 
@@ -220,10 +235,15 @@ Yes, you can quickly delete any Yak you want on Yik Yak. Yaks are text posts tha
 
 Whether you use Yik Yak for fun or have gotten addicted to its anonymity, changing your GPS location on the platform will allow you to expand your social circle and meet strangers from other parts of the world. However, there's no direct way to **change location on Yik Yak**. You'll have to use geo spoofing software such as Dr.Fone - Virtual Location to do the job. The teleport mode feature will make it quite convenient to manipulate your GPS location and access new posts on Yik Yak.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fake Snapchat Location on Itel P55
 
@@ -239,9 +259,6 @@ If the feature is enabled, then you can also share your location with others and
 
 Well, to be honest, a lot of people don't like to share their location with others on Snapchat. Thankfully, you can just disable it by visiting your Snapchat Settings and turning on the Ghost Mode. When the Ghost Mode is enabled, your location won't be shared with others. To start sharing your location, you can just turn off the Ghost Most and select with whom you wish to share your whereabouts (all or selected contacts).
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Why You Might Wish to Fake Snapchat Location?
 
 Needless to say, if someone has our real-time location access, then they can easily track us. Therefore, if you are concerned about your security or privacy, but can't turn the feature off, then you can use a Snapchat spoof hack. This will fake your location for the Snapchat map and no one would know your actual whereabouts.
@@ -266,13 +283,15 @@ You can search for a location by its name, address, or specific coordinates and 
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - In the end, you can just adjust the pin around or zoom in/out the map as per your requirements. Once you are done, click on the "Move Here" button to fake GPS location on Snapchat.
 
 ![to fake gps on snapchat](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 You can later launch Snapchat and check your location, which would be changed now.
-
-
 
 ## Part 4: How to Fake GPS for Snapchat on Android?
 
@@ -290,9 +309,6 @@ Unlike iPhone, it is pretty easy to fake GPS on Snapchat map for Android devices
 
 There you go! Now when you know how easy it is to use a Snapchat location spoofer, you can change your location on the app like a pro. While Android users have plenty of options to perform a Snapchat spoof on their device, iPhone users have to be a bit cautious. There are only a handful of tools like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) that can fake Snapchat location without jailbreaking your device. Go ahead and explore these solutions to protect your location on Snapchat or prank your friends without causing any harm to your phone.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -305,9 +321,26 @@ There you go! Now when you know how easy it is to use a Snapchat location spoofe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/raming-the-perfect-frame-talking-head-shot-essentials-for-2024/"><u>[New] Framing the Perfect Frame Talking-Head Shot Essentials for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-master-your-rhythm-top-free-beat-detectors-ready-to-test-for-2024/"><u>[Updated] Master Your Rhythm – Top Free Beat Detectors Ready to Test for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-the-best-practices-for-skype-in-obs-for-2024/"><u>[Updated] Unveiling the Best Practices for Skype in OBS for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-seamless-addition-youtube-videos-into-google-slides/"><u>2024 Approved Seamless Addition YouTube Videos Into Google Slides</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-y77t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y77t Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-magic-vs-2-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor Magic Vs 2 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-chatgpt-for-iphone-and-ipad-talk-to-the-power-of-artifice-intelligence-anywhere/"><u>Introducing ChatGPT for iPhone and iPad – Talk to the Power of Artifice Intelligence Anywhere</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-g-pro-steering-wheel-driver-free-download-compatible-with-windows-111087/"><u>Logitech G Pro Steering Wheel Driver - Free Download Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/profitable-video-content-starting-and-scaling-up/"><u>Profitable Video Content Starting and Scaling Up</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-m14-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy M14 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/quick-guide-downloading-and-setting-up-vrecord/"><u>Quick Guide Downloading & Setting Up VRecord</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-itel-s23-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Itel S23 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/ten-steps-to-clear-win11-dns-cache/"><u>Ten Steps to Clear Win11 DNS Cache</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-6-screen-recorder-no-ads-for-android-for-2024/"><u>Top 6 Screen Recorder No Ads for Android for 2024</u></a></li>
+</ul></div>
 

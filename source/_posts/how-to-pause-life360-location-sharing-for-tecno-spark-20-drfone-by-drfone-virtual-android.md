@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Tecno Spark 20 | Dr.fone
-date: 2024-07-14T05:36:39.219Z
-updated: 2024-07-15T05:36:39.219Z
+date: 2025-02-16T16:31:13.158Z
+updated: 2025-02-20T16:57:33.081Z
 tags: 
   - virtual location change
   - social app
@@ -20,7 +20,6 @@ Life360 has become a household name in location-sharing apps, renowned for its a
 However, there are moments when you might crave a bit of privacy or a break from constant connectivity. Whether for a surprise, personal space, or a digital detox, the need to discreetly pause Life360 arises. This article delves into the nuances of **how to pause Life360**. It will also provide insightful tips on how to do it without alerting others.
 
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
-
 
 ## Part 1: What Is Life360 and How To Pause Life360 From the App
 
@@ -50,6 +49,10 @@ Now, the question is, **can you pause your location on Life360?** Pausing Life36
 Open Life360 and go to the main screen. Select the Circle you want to pause. Then, tap on Settings (usually represented by a gear icon) in the upper-right corner. Look for an option like **Location Sharing** and toggle it off. This action pauses your location sharing only for the selected Circle.
 
 ![location sharing life360 menu](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Pausing the Whole App
 
@@ -85,11 +88,13 @@ Removing the app from your device will stop it from sharing your location. The b
 
 Each method serves a different purpose and offers varying levels of discretion. Whether conserving battery, seeking privacy, or temporarily disconnecting, these methods provide a way to **pause Life360** **location** without drawing unwanted attention. Remember, communicating with your Circle members about your need for privacy to maintain trust is always a good idea.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How To Pause Life360 With a Virtual Location Spoofer
 
 Sometimes, pausing your location sharing on Life360 may raise questions or concerns among your circle members, particularly if they are close family or friends. If you’re planning a surprise or need private time without arousing suspicion, a virtual location spoofer can be handy. This method will teach you **how to pause your location on Life360 without them knowing.**
-
-
 
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
 
@@ -102,11 +107,19 @@ To learn how to pause location on Life360 without them knowing using Dr.Fone, fo
 
 ![life360 virtual location page](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** To define how your virtual location behaves, you can decide how often the app simulates a **Round trip** or **Loop** **trip**. Once you’ve set parameters like **Speed**, click **Move Here** to start the simulation.
 
 ![set one-stop route dr.fone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 **Note:** TheRound trip and Loop trip are particularly useful for creating the impression of movement in a specific area. Parameters can make your virtual movement more believable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -114,12 +127,19 @@ This article explored various methods of **pausing location sharing on Life360**
 
 While it’s always recommended to maintain open communication with your Circle about pausing location sharing, there are times when privacy or surprise plans necessitate discretion. For those moments, Dr.Fone - Virtual Location emerges as a reliable solution for location spoofing and other phone management needs. Remember, using these tools responsibly is key to maintaining trust in your relationships.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change/Add Location Filters on Snapchat For your Tecno Spark 20
 
 Snapchat is an Android/iOS messaging app developed in 2011. Currently, this app is home to 350+ users who share photos, videos, audio, texts, emojis, GIFs, and documents. But one of the most exciting Snapchat features is allowing users to share locations, whether fake or real. For instance, you might want to protect your privacy or simply prank your friends with a new location. So, whichever the reason, we'll show you **how to add a location filter on Snapchat** effortlessly. You'll also know **how to add a fake location filter on Snapchat**. Let's learn!
 
-
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/6W-qXnzg8kA"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What are Location Filters on Snapchat?
 
@@ -149,14 +169,19 @@ Now that this setting is enabled on Snapchat, you can add your location filter e
 
 **Step 3.** You can also tag a location on Snapchat by clicking the **Sticker** icon on the right rail. Then, tap the **Location** button and then choose your GPS location. Interestingly, you can spoof a location with this feature.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to add location filter on Snapchat choose location](https://images.wondershare.com/drfone/article/2022/03/how-to-add-location-filter-on-snapchat-2.jpg)
 
 **Step 4.** Finally, customize your video further and then click **Send To**. Your selected location filter will be added to your Snapchat post.
 
 ![how to add location filter on Snapchat share location](https://images.wondershare.com/drfone/article/2022/03/how-to-add-location-filter-on-snapchat-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Change or Add a Fake Location on Snapchat Filters?
 
@@ -166,7 +191,9 @@ Fortunately, you don't need those overpriced VPNs if you can get [Dr.Fone](https
 
 So, without dilly-dallying much, here's how to fake a **Snapchat location tag** with Dr.Fone:
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -309,9 +336,6 @@ For Android users, you can refer to the following steps to follow:
 
 Another trick for removing mSpy from your device is by taking help from the Play Protect feature on Google Play Store. But one limitation of this method is that it does not work for iPhone. It is only useful for Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![play protect feature](https://images.wondershare.com/drfone/article/2022/02/play-protect-feature.jpg)
 
 - **Step 1:** You can also go to the **Google Play store**.
@@ -321,9 +345,6 @@ Another trick for removing mSpy from your device is by taking help from the Play
 - **Step 5:** Or **scan the Tecno Spark 20 device** for any harmful apps.
 - **Step 6:** It will **notify you** if any risky app is found.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Spoof Location to Prevent mSpy from Location Tracking \[Recommended\]
 
 You can use one more method to remove the mSpy app from your device. This method works for both Android as well as iPhone devices. This method spoofs location to prevent the mSpy app from tracking your location. If you feel that someone is tracking your location, you can use third-party app software that helps fake your location. One such app is [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). It is a full mobile device solution for both Android and iPhone devices. It helps solve a wide range of problems ranging from data loss and system breakdowns to phone transfer and whatnot. Dr.Fone Virtual Location is a great thing that allows you to change and fake your location. It also lets you trick the location-based apps and mock GPS locations with customized speed.
@@ -350,9 +371,6 @@ Take a look at the video below to quickly learn how to spoof location to stop mS
 
 **Step 2:** Select **"Virtual Location"** among all the options.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3:** **Connect** your Tecno Spark 20/Android to your computer and click **"Get Started"****.**
@@ -361,9 +379,6 @@ Take a look at the video below to quickly learn how to spoof location to stop mS
 
 **Step 4:** You will find your actual location on the map in the new window. If the spot is not inaccurate, tap the **"Centre On"** icon in the lower right to display the accurate location.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 5:** Activate the **"teleport mode"** by touching the icon in the upper right corner. Enter the place you would like to teleport to in the upper corner left field, and tap on "Go." Set Rome in Italy as an example.
@@ -378,8 +393,6 @@ Take a look at the video below to quickly learn how to spoof location to stop mS
 
 ![changing location completed](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-
-
 ### Method 4: Your Last Resort: Do a Factory Reset
 
 Check phone settings app-reset options and clear out all the data from your phones if nothing works from all the above options, one last option is left, factory reset. For that,
@@ -392,8 +405,6 @@ Check phone settings app-reset options and clear out all the data from your phon
 - **Step 4:** Click on **factory reset.**
 
 Or you can also make use of a third-party app - Dr.Fone - Data Eraser to wipe out data in some clicks
-
-
 
 ### Dr.Fone - Data Eraser
 
@@ -419,6 +430,10 @@ Basically, it could be extremely hard to remotely install phone surveillance sof
 
 Sadly yes. According to What Whistleblower Edward Snowden has said in a 2014 interview that the NSA could listen to and spy on conversations using the microphone on a smartphone, even if you turn off your devices. It makes it by using spyware that prevents your smartphone from actually turning off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q3: Can Someone Read My WhatsApp Chats on My Cell Phone?
 
 Sadly, yes. While it isn't possible on iOS devices, apps can intercept your WhatsApp messages on Android devices due to the operating system's sandboxing security.
@@ -433,9 +448,6 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -448,9 +460,22 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-a-striking-online-presence-with-perfect-yt-dimensions-for-2024/"><u>[New] Crafting a Striking Online Presence with Perfect YT Dimensions for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unveiling-the-power-of-social-media-video-marketing-strategies/"><u>[Updated] In 2024, Unveiling the Power of Social Media Video Marketing Strategies</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fm/"><u>最適な代替FMラジオ: ベスト無料音楽配信アプリの網羅的一覧 - 使い心地とレビューが圧倒的に良いものをピックアップ！</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-and-simple-guide-downloading-logitech-drivers-on-your-pc/"><u>Fast and Simple Guide: Downloading Logitech Drivers on Your PC</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-can-you-create-interactive-links-within-your-pdf-books-using-flipbook-software/"><u>How Can You Create Interactive Links Within Your PDF Books Using FlipBook Software?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-google-pixel-8-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Google Pixel 8 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-note-30-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-the-mystery-an-in-depth-look-at-how-artificial-intelligence-black-boxes-operate/"><u>Inside the Mystery: An In-Depth Look at How Artificial Intelligence Black Boxes Operate</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unlock-your-creativity-microsoft-video-editor-for-windows-10-8-and-7/"><u>New Unlock Your Creativity Microsoft Video Editor for Windows 10, 8, and 7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-itel-p40plus-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Itel P40+ Black and White | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/virtual-vigilance-in-verification-leveraging-facebooks-advanced-moderation-mechanisms/"><u>Virtual Vigilance in Verification: Leveraging Facebook's Advanced Moderation Mechanisms</u></a></li>
+</ul></div>
 

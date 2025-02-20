@@ -1,7 +1,7 @@
 ---
 title: How to Change/Fake Your Tecno Camon 20 Location on Viber | Dr.fone
-date: 2024-07-14T05:35:26.424Z
-updated: 2024-07-15T05:35:26.424Z
+date: 2025-02-15T16:01:05.002Z
+updated: 2025-02-20T16:52:32.975Z
 tags: 
   - virtual location change
   - social app
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157f
 ## How to Change/Fake Your Tecno Camon 20 Location on Viber
 
 Viber is one of the most commonly used messenger apps. It allows you to send short messages like texts, videos, images, audio, and documents. Viber also has another exciting feature that will enable you to share your location. But sometimes, you might want to **change location on Viber** to prank your friends or for security purposes. So, read on to learn how to **fake location on Viber** with some simple solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is the My Location feature on Viber?
 
@@ -35,9 +39,17 @@ Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of 
 
 ![change location on Viber, tap chat info](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
 
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
 
@@ -67,9 +79,6 @@ Steps to change Viber location with Dr.Fone:
 
 **Step 1. Launch Dr.Fone Virtual Location.**
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
@@ -92,7 +101,9 @@ If the connection is successful, the Virtual Location map will launch automatica
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -126,8 +137,6 @@ If you’re a digital marketer, you might want to convince your potential client
 
 You can share your live location on Viber just like you would on Facebook, WhatsApp, and other social media apps. But because most of these apps don’t allow you to share fake locations, I recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) change your area to anywhere in the world. Give it a try!
 
-
-
 ## 4 Most-Known Ways to Find Someone on Tinder For Tecno Camon 20 by Name
 
 Meeting someone randomly at a party or a club and immediately hitting it off is certainly one of the best feelings in the world. But, did you also stumble upon a person you think is destined to be your soulmate, but the only contact information you have is their name? Or you want to know are your friends or families have a Tinder account? Is there a way to find your future spouse on Tinder's well-recognized platform? Luckily, the answer is yes. You can discover **how to find someone on Tinder by name** using some of the easiest and time-savvy methods, all in the proceeding read.
@@ -150,6 +159,10 @@ The first method is a little trick that allows users to search for people using 
 
 Keep in mind that this method will only work if you type the correct URL for the Tinder profiles. If you accidentally type in an incorrect URL or name, you will find nothing in your search.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Find Someone on Tinder via PeopleFinders
 
 PeopleFinders is a convenient service that allows users to search for people with minimal information such as a name, phone number, or address. You can obtain updated information about people with a single click on PeopleFinders.
@@ -161,6 +174,10 @@ PeopleFinders is a convenient service that allows users to search for people wit
 **Step 2:** After clicking on "Search," the site will yield multiple results based on your search. You can then locate the person you were looking for from the search results.
 
 ![search name on people finders](https://images.wondershare.com/drfone/article/2022/05/find-someone-on-tinder-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Pros
 
@@ -216,7 +233,9 @@ You can now search for the location you wish to move to from the upper-left sear
 
 - This method will not work if you are unaware of the location of the person you are trying to find.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -230,9 +249,6 @@ You can now search for the location you wish to move to from the upper-left sear
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Social Catfish
 
 If you want to **search Tinder profiles** and find the right person, you can have a try at ["https://socialcatfish.com/"](https://socialcatfish.com/). It is a powerful dating investigator that offers services for searching and verifying online profiles. You can use Social Catfish to check for people’s digital footprints and find the person you were looking for. Here is **how to find out if someone has a Tinder profile** using Social Catfish:
@@ -277,6 +293,10 @@ Spokeo is another helpful option if you want to find someone with just a name on
 
 - The results on Spokeo are limited to residents of the United States of America.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4: Search the Name on Other Social Media
 
 If none of those mentioned above methods successfully locate your specific person’s Tinder profile, there are high chances that the user is not using Tinder. But don’t worry, there are still other platforms you can try to find someone using just their name.
@@ -297,6 +317,10 @@ With the methods mentioned above, you can now **find someone on Tinder** by thei
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fake Snapchat Location without Jailbreak On Tecno Camon 20
 
 Snapchat users are very fond of using custom filters when sharing content on the app. It is a great way to ensure that your images and videos are only viewed by the people that you target. However, a new feature called Geo-filters has brought a lot of mixed feelings amongst Snachatters.
@@ -307,6 +331,9 @@ Imagine that you are standing at the Niagara Falls and want to share with people
 
 Thankfully, there are ways in which you can spoof our device, allowing you to access Geofilters anywhere in the world. Today, you learn several ways in which you can achieve this objective with ease.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Benefits that faking Snapchat brings to us
 
@@ -332,9 +359,6 @@ Here are the steps that you have to follow:
 
 Launch XCode and then create a new project
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create a new project in XCode](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-2.jpg)
 
 Then choose the option marked “Single View iOS application.
@@ -359,9 +383,6 @@ Now go ahead and save the project to a location on your computer. Since the vers
 
 People who do not have the latest version of XCode will run into the error shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Error for older XCode versions](https://www.virtuallocation.com/images/pokemon-go/fake-snapchat-location-6.jpg)
 
 **IMPORTANT:** do NOT click on “Fix Issue” until you do the following tasks:
@@ -461,13 +482,9 @@ From the steps used in both methods, it is very clear that iTools is the best ap
 - **Security –** XCode may not be very secure, especially when it comes to avoiding detection by Snapchat. You may have to keep going back to XCode, and changing the location, switching off Snapchat, and restating it again. However, when using iTools, your location is fixed until you stop the simulation.
 - **Versatility –** XCode cannot be used on the latest iOS devices without posing problems, while iTools is a simple and effective tool for all iOS versions.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## In conclusion
 
 When you want to spoof Snapchat to access Geo-Filters in any part of the world, you can use the complicated XCode or pay a fee and use the simpler iTools. There are various benefits that you gain from teleporting using these tools, with Geo-Filters access being the biggest benefit. If you want to use Snapchat all over the world without moving out of your home, then these are the ways that you can go about it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -481,9 +498,26 @@ When you want to spoof Snapchat to access Geo-Filters in any part of the world, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-what-does-it-cost-to-boost-a-video/"><u>[New] 2024 Approved What Does It Cost to Boost a Video?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-step-by-step-guide-to-amplify-your-content-through-spotlighting-for-2024/"><u>[New] A Step-by-Step Guide to Amplify Your Content Through Spotlighting for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-cutting-edge-design-aids-no-cost-premier-prestige/"><u>[New] Cutting-Edge Design Aids No-Cost Premier Prestige</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-game-on-recording-off-nvidia-magic-for-2024/"><u>[New] Game On, Recording Off! - NVIDIA Magic for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-google-meet-for-free/"><u>[New] How to Record Google Meet for Free?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-art-of-avatar-design-in-the-metaverse-explained-simply-for-2024/"><u>[New] The Art of Avatar Design in the Metaverse Explained Simply for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-disable-igtv-feature/"><u>[Updated] 2024 Approved How to Disable IGTV Feature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-lava-blaze-2-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Lava Blaze 2 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-t2-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-honor-x50i-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor X50i in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-6-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 6 Without Previous Owner?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-magic-5-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor Magic 5 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-s18-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo S18 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-itel-p40plus-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Itel P40+ Step-by-Step Solutions | Dr.fone</u></a></li>
+</ul></div>
 

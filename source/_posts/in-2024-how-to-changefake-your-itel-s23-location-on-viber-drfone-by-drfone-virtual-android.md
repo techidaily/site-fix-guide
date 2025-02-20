@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change/Fake Your Itel S23 Location on Viber | Dr.fone
-date: 2024-07-14T05:33:35.846Z
-updated: 2024-07-15T05:33:35.846Z
+date: 2025-02-18T16:20:05.209Z
+updated: 2025-02-20T16:53:50.238Z
 tags: 
   - virtual location change
   - social app
@@ -23,6 +23,10 @@ If you’ve used WhatsApp’s location feature before, you’ll know what Viber�
 
 But as good as it sounds, this live location feature is enabled by default on your Itel S23/Android browser. Therefore, you can send a location on Viber without knowing. This can be advantageous to stalkers or even cause misunderstanding in your relationship. What’s worse, it shares your actual location with every text you send. But fret not because this post will help you **disable or enable My Location on Viber** according to your needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to disable or enable My Location on Viber?
 
 So, without wasting too much time, let’s find out the steps to disable/enable Viber location-sharing feature. It’s straightforward.
@@ -37,9 +41,6 @@ Step 2. Next, tap the **Ellipsis** (three dots) icon at the top-right corner of 
 
 Step 3. On the Chat Info window, simply enable or disable the **Attach location always** toggle. It’s done!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change location on Viber to allow location sharing](https://images.wondershare.com/drfone/article/2022/03/change-location-on-viber-3.jpg)
 
 **Pro tip**: You might be wondering how to share your actual Viber location with a chat or group. Again, this is very straightforward. Simply open the conversation and tap the three dots on the text field. Then, click the **Share Location** button and choose your location on the Google map. Lastly, tap **Send location** to share the Viber location with your selected contact.
@@ -72,6 +73,10 @@ Steps to change Viber location with Dr.Fone:
 
 ![change location on Viber, open virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Install and run Wondershare Dr.Fone on your Windows/Mac computer, and then tap the **Virtual Location** tab on the Home page.
 
 **Step 2. Connect your phone to Dr.Fone with a USB cable.**
@@ -82,6 +87,10 @@ Connect your smartphone to your PC using a USB wire and tap **Get Started** on t
 
 ![change location on Viber, connect the phone](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Press the **Next** button to begin connecting your phone to Dr.Fone. If the connection fails, enable USB debugging on your phone by following the on-screen instructions. On Android phones, tap **Settings > Additional settings > Developer options > USB debugging**. In addition, set Dr.Fone as the mock location app on your phone.
 
 **Step 4. Enter the GPS coordinates or location address.**
@@ -90,12 +99,7 @@ Press the **Next** button to begin connecting your phone to Dr.Fone. If the conn
 
 If the connection is successful, the Virtual Location map will launch automatically on Dr.Fone. Now enter the coordinates or address in the location field at the top-left corner. After finding the exact location that you want, simply tap **Move Here** before sharing your new location on Viber. That is easy, right?
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -147,6 +151,10 @@ The in-built apps like 'Camera' use Location to add the time and date stamp to y
 
 ![photo with date stamp](https://images.wondershare.com/drfone/2020/2020/photo-with-time-date-stamp-pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Your 'Reminder or Alarm' apps also use location to send you notifications and pop-ups to intimate you that you've reached a specific location. If you have somewhere to be, they can also tell you how long it will take to be there. It completely depends on the type of app you are using.
 
 ![reminder app](https://images.wondershare.com/drfone/2020/2020/reminder-apps-iphone-pic3.jpg)
@@ -169,16 +177,10 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 **Step 1:** You have to download the [Dr. Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). It is easily available for everyone. Launch the application, and the options will display on your screen. Choose the 'Virtual Location' option.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Connect your phone to your computer and click on 'Get Started'.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3:** A Map displaying the entire world will appear on your screen. On the top right corner, the third icon represents the 'Teleport Mode'. Click on that and enter the name of the place in the search box.
@@ -190,6 +192,10 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 This is the simplest way to change iPhone Location without Jailbreak. We will discover some other methods in the following Parts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Change GPS location on iPhone using an external device
 
@@ -214,6 +220,10 @@ Keep in mind - The iOS companion apps are not available on the App Store, and yo
 **Step 4:** On the bottom of the screen, hit the lock position option, and your iOS Spoof Location will reflect everywhere.
 
 ![final map location](https://images.wondershare.com/drfone/2020/2020/final-map-location-pic13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Change GPS location on iPhone using Xcode
 
@@ -257,6 +267,10 @@ Cydia offers an app named Location Spoofer. This one is a very good option for t
 
 ![enter new location](https://images.wondershare.com/drfone/2020/2020/enter-new-location-pic22.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Once you are sure about your location, change the toggle from 'OFF' to 'ON' at the bottom of the page.
 
 ![cydia toggle shift](https://images.wondershare.com/drfone/2020/2020/cydia-toggle-shift-pic23.jpg)
@@ -268,8 +282,6 @@ The problem with this method is that certain apps downright refuse to function w
 **Conclusion**
 
 If you've been wondering how can I change my location on iPhone, then I am sure this article must have at least given you one suitable way to do that. Weighing your necessities, choose the most suitable option that will safely transfer you from one place to another - Virtually, Of course! You can settle on the best location changer for iPhone.
-
-
 
 ## Edit and Send Fake Location on Telegram For your Itel S23 in 3 Ways
 
@@ -283,9 +295,6 @@ There are numerous reasons to fake location on Telegram. However, here are the m
 
 While signing up on Telegram, you’ll often allow the messaging app to track your GPS location. Unfortunately, this also applies to other messaging apps like Facebook, WhatsApp, Instagram, etc. Therefore, to prevent Telegram from accessing and sharing your real-time location, you’ll need to spoof GPS.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Prank your friends
 
 Social media pressure is real. But instead of the negativity, you can concentrate on the prank side of it. For example, you might want to convince your close cousin or new girlfriend that you live and work in Las Vegas when you’re actually in Texas. Whichever the case, spoofing your location can give you a new social status.
@@ -317,6 +326,10 @@ So, without dilly-dallying much, follow me to create a **Telegram fake location*
 
 ![dr.fone home page screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Install and run Dr.Fone on your PC and then connect your smartphone to your computer using a USB wire. While doing so, make sure you enable the “Transfer Files” option on your phone. Then, on the home window of Dr.Fone, tap **Virtual Location** and then tap **Get Started** on the new window.
 
 #### Step 2. Link your smartphone to Dr.Fone
@@ -332,8 +345,6 @@ Next, open your smartphone’s Settings app and enable USB debugging to connect 
 ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 After successfully connecting your device to Dr.Fone, tap **Next** to open the Virtual Location map. Now enter the **Teleport Mode** and key in the GPS coordinates or location you want to move to. Alternatively, simply tap a spot on the map and click **Move Her**e. And there is that!
-
-
 
 ### Method 2: Fake a live telegram location via VPN (Android & iOS)
 
@@ -355,6 +366,10 @@ Step 2. Next, open **Additional Settings** and choose **Developer options** on y
 
 ![fake gps on telegram - select mock mode](https://images.wondershare.com/drfone/article/fake-gps-on-telegram-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. Now launch the app and choose your new GPS location. If satisfied, simply tap the green **Play** button.
 
 ## Part 3. FAQs About Creating a Fake GPS on Telegram?
@@ -371,12 +386,15 @@ You’ll be surprised to learn that Telegram offers better security features tha
 
 Sadly, creating a Telegram fake location on iPhone isn’t as straightforward as Android. In other words, you can’t just install a GPS app from Play Store and enjoy the new sites. So, use a program like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) or purchase a VPN service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 There you go; you can now create a new Telegram location to prank your friends or make new circles using a premium VPN service like ExpressVPN. However, VPN monthly subscriptions can empty your wallet. So, use a pocket-friendly and reliable option like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to easily fake GPS location on Android and iPhone. Give it a try!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -390,9 +408,26 @@ There you go; you can now create a new Telegram location to prank your friends o
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-reviews.techidaily.com/days-gone-an-adventure-of-motorcycles-zombies-and-survival-game-reviewed/"><u>'Days Gone': An Adventure of Motorcycles, Zombies, and Survival – Game Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-elevate-art-to-blockchain-assets-with-top-7-tools/"><u>[New] In 2024, Elevate Art to Blockchain Assets with Top 7 Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-redefine-creativity-the-ultimate-selection-of-best-android-drawing-apps/"><u>[New] Redefine Creativity The Ultimate Selection of Best Android Drawing Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-9-top-tier-youtube-fitness-tips-to-captivate-audiences-movement/"><u>[Updated] 2024 Approved 9 Top-Tier YouTube Fitness Tips to Captivate Audience's Movement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-image-capture-with-ios-11-updates/"><u>2024 Approved Revolutionizing Image Capture with iOS 11 Updates</u></a></li>
+<li><a href="https://fox-access.techidaily.com/expert-methods-for-incorporating-links-into-tiktok-bios-for-2024/"><u>Expert Methods for Incorporating Links Into TikTok Bios for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratis-konverteren-van-swf-naar-mp4-online-mivavi-video-converter/"><u>Gratis Konverteren Van SWF Naar MP4 - Online MIVAVI Video Converter</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x50-gt-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor X50 GT to New Android? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-a1x-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo A1x 5G?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-v27e-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo V27e – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/navigating-to-regionslanguages-in-yl-software-setup-yl-computing-expertise/"><u>Navigating to Regions/Languages in YL Software Setup - YL Computing Expertise</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-magic-v2-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor Magic V2? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nubia-red-magic-8s-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nubia Red Magic 8S Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>
 

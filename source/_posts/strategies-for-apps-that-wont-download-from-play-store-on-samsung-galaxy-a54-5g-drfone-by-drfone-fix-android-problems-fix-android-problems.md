@@ -1,7 +1,7 @@
 ---
 title: Strategies for Apps That Wont Download From Play Store On Samsung Galaxy A54 5G | Dr.fone
-date: 2025-02-09T00:26:32.734Z
-updated: 2025-02-10T19:20:50.526Z
+date: 2025-02-18T16:50:17.480Z
+updated: 2025-02-20T16:18:12.017Z
 tags: 
   - problems
 categories:
@@ -42,10 +42,6 @@ Running an outdated version of the Play Store can cause compatibility issues wit
 
 Issues with verifying Google accounts can restrict access to the Play Store. It prevents you from downloading or updating apps. Authentication problems pose a significant barrier, impacting your ability to stay current with app versions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### App Download Restrictions
 
 Device settings or parental controls may impose restrictions on certain app downloads. You may encounter limitations in accessing specific apps. It can affect the Samsung Galaxy A54 5G device's versatility.
@@ -67,10 +63,6 @@ Dr.Fone - System Repair is a dependable alternative offering a comprehensive sol
 ![dr.fone main window interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4,307,222** people have downloaded it
 
@@ -130,7 +122,7 @@ Here are 8 other methods to troubleshoot and resolve common app downloading prob
 A stable internet connection is essential for downloading apps. [<u>D</u><u>o</u> <u> an Internet signal check</u>](https://drfone.wondershare.com/device-diagnostics/check-mobile-signal-stength.html) to ensure you are connected to a reliable Wi-Fi network or have a strong mobile data signal. If the connection is weak, consider switching to a more robust network.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Free Up Storage Space
@@ -145,15 +137,15 @@ An outdated Play Store version may lead to compatibility issues. Open the Google
 
 ![updating play store version menu](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Clear Play Store Cache and Data
 
 Cached data in the Play Store can sometimes cause download problems. Head to the Samsung Galaxy A54 5G device settings and open **Apps** or **Application Manager**. Locate Google Play Store, and tap **Storage**. Clear both the cache and data to refresh the app.
 
 ![clearing device cache and date](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-09.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Verify Google Account
 
@@ -166,6 +158,10 @@ Authentication issues with your Google account can prevent app downloads. Confir
 Incorrect date and time settings may disrupt the authentication process. Verify that your device's date and time are set correctly. Enable automatic date and time settings to ensure accuracy.
 
 ![android date and time settings](https://images.wondershare.com/drfone/article/2023/11/app-not-downloading-play-store-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Review Download Restrictions
 
@@ -215,10 +211,6 @@ Software issues are probably the most common reason your ****phone is stuck on t
 
 The older operating system is also not desired as your phone typically will send periodic updates to make sure your phone is up-to-date and free from bugs. Running applications on an older operating system might lead to issues like the ****phone being stuck on the boot screen or the logo.**** Hence, updating your phone to the latest software version would be better.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2. 3 Helpful Ways To Fix Phones Stuck on Boot Screen
 
 After understanding the common problems on why your phone is ****stuck on the startup screen**** page, here are three easy solutions to try solving yourself at home.
@@ -245,6 +237,10 @@ Here is a step-by-step process for putting your Samsung Galaxy A54 5G or Redmi s
 
 ****Step 3****: You can use the volumes buttons to navigate up and down and press the Power key to confirm the selection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Factory Reset
 
 If you do not want to attempt recovery mode, you can try resolving the issue of your **phone being stuck on the startup screen** through Factory Reset. Factory Reset, also called Hard Reset, erases all information and data on your device. As a result, it will return to the settings and recover the data it used to have when leaving the factory.
@@ -262,10 +258,6 @@ Here is an example of putting your Samsang smartphone into the Factory Reset DFU
 ![Samsung Galaxy A54 5G reset button](https://images.wondershare.com/drfone/article/2023/03/reasons-for-phones-stuck-on-startup-screen-and-ways-to-fix-them-06.jpg)
 
 **Note:** Before carrying out a factory reset, you need to input the password of your Samsung Galaxy A54 5G Account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip: Best App To Solve Phone Stuck on Boot Screen
 
@@ -343,6 +335,10 @@ During these processes, bugs can occur, and if they can’t sort themselves out,
 
 **Step 3:** The app will automatically install itself once downloaded. Open the app, sign in to your account using your log-in details, and you should be able to use the app like normal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Check for new Snapchat Updates
 
 ![snapchat not responding - check for new updates](https://images.wondershare.com/drfone/article/2019/04/update-snapchat-app.jpg)
@@ -354,10 +350,6 @@ Here’s how to make sure you’re running the latest version of Snapchat is Sna
 1. Launch the Play Store and navigate to the My Apps and Games page
 2. Tap the Update button
 3. The app will now automatically update to the latest version
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. Wipe the cache of Snapchat
 
@@ -391,6 +383,10 @@ If you’re experiencing the Snapchat crashing on Android often, or you’re exp
 
 The best way to fix this is to repair your device using the software known as Dr.Fone - System Repair (Android). This is a powerful repair system that can completely recover your device from any errors, including the Snapchat keeps crashing error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - System Repair (Android)
 
 Dedicated repair tool to fix Snapchat crashing on Android.
@@ -411,12 +407,16 @@ Once completed, open the software, so you’re on the main menu.
 
 ![snapchat crashing -  fix with a tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: From the main menu, click the System Repair option, followed by the **Android** option. Of course, if you have an iOS device you want to repair in the future, the option is there if you want it. Also, connect your Samsung Galaxy A54 5G to your computer using the USB cable.
 
 ![snapchat crashing - select option](https://images.wondershare.com/drfone/guide/android-system-repair-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Confirm details.
@@ -442,16 +442,12 @@ The method will slightly differ depending on whether your device has a home butt
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5. Check for the Android update
 
 ![snapchat stopping - check for android update](https://images.wondershare.com/drfone/article/2019/04/android-update-firmware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Similar to some of the other solutions we’ve listed above, if you’re using an outdated version of the Android operating system, but the latest version of Snapchat is coded to the most recent, this can be a cause for the Snapchat crashing on Android problem to occur.
 
@@ -460,6 +456,10 @@ Fortunately, it’s easy to check to make sure you’re running the latest versi
 **Step 1:** Open the Settings menu on your Samsung Galaxy A54 5G and select the About Phone option.
 
 **Step 2:** Tap the ‘Check for Updates’ option. If an update is available, you’ll then have the option to Install Now or Install Overnight. If no update is available, you’ll see a notification stating your device is up to date and no action is needed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6. Connect to another Wi-Fi
 
@@ -525,20 +525,20 @@ Make sure you back up your personal files from your device first like your photo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/arryminati-financial-triumphs-with-ajey-nagar-for-2024/"><u>[New] CarryMinati Financial Triumphs with Ajey Nagar for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-streamlined-scheduling-combine-iphoneandroid-calendars-with-zoom/"><u>[Updated] 2024 Approved Streamlined Scheduling Combine iPhone/Android Calendars With Zoom</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-boost-your-brand-twitter-ads-guide/"><u>[Updated] Boost Your Brand Twitter Ads Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-insight-on-effortless-photo-and-video-importers-in-windows-10/"><u>2024 Approved In-Depth Insight on Effortless Photo & Video Importers in Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/9-ways-chatgpt-can-make-your-life-easier/"><u>9 Ways ChatGPT Can Make Your Life Easier</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/benq-bl2711u-a-journey-through-professional-4k-display-tech-for-2024/"><u>BenQ BL2711U - A Journey Through Professional 4K Display Tech for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/motorola-moto-g14-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G14 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/page-unavailable-access-denied-error/"><u>Page Unavailable: Access Denied Error</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-reno-10-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo Reno 10 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-12-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-phantom-v-fold-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Phantom V Fold Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a05-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A05 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tips-and-tricks-to-excel-at-using-google-photos/"><u>Tips and Tricks to Excel at Using Google Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cinema-chronicles-the-quintessential-cinematographic-tips-for-24-for-2024/"><u>[Updated] Cinema Chronicles The Quintessential Cinematographic Tips for '24 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-recent-showcase-of-ai-innovations-what-we-didnt-see-but-could-expect-in-the-future-zdnet/"><u>Apple's Recent Showcase of AI Innovations - What We Didn't See, but Could Expect in the Future? | ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/cutting-edge-editing-integrating-luts-into-your-ae-workflow/"><u>Cutting Edge Editing Integrating LUTs Into Your AE Workflow</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/honing-the-craft-of-question-design-in-interviews/"><u>Honing the Craft of Question Design in Interviews</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncover-top-11-effective-video-size-slashers-for-your-phone/"><u>In 2024, Uncover Top 11 Effective Video Size Slashers for Your Phone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-f14-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy F14 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-f04-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy F04? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-google-pixel-8-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Google Pixel 8 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y100-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029831145-youtube4k/"><u>YouTubeで高解像度の4Kビデオ投稿手順と低解像度転向対策</u></a></li>
 </ul></div>
 

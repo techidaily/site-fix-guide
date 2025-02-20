@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Hogwarts Legacy Won't Start' : Expert Troubleshooting Techniques"
-date: 2025-02-07T22:58:06.151Z
-updated: 2025-02-10T19:31:47.108Z
+date: 2025-02-16T16:14:11.006Z
+updated: 2025-02-20T16:52:22.828Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 4. **[Disable firewall and antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Verify integrity of game files
@@ -40,23 +40,19 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-verify-integrity-of-game-files.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will take several minutes. Simply wait for the process to complete. Once finished, click on the Play button and check if you can bypass the loading screen.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. If the driver is outdated or corrupted, you’re more likely to run into issues like it takes an extremely long time to load into the main menu screen. To pinpoint the root cause, you’re supposed to update your graphics driver.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -67,6 +63,10 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 [Intel](https://downloadcenter.intel.com/product/80939/Graphics)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -85,6 +85,10 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer and launch Among Us to check if the problem is solved. If not, then proceed to the next fix below.
@@ -101,27 +105,15 @@ Here’s how to update drivers with Driver Easy:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
   
 ![delete temporary files ](https://images.drivereasy.com/wp-content/uploads/2021/02/delete-temp-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .
 
  5) Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
 
@@ -135,9 +127,17 @@ Here’s how to update drivers with Driver Easy:
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) From the left menu, click **Turn Windows Defender Firewall on or off** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
@@ -168,22 +168,21 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-analyzing-dji-x4-fpv-helmet-functionality/"><u>[New] In 2024, Analyzing DJI X4 FPV Helmet Functionality</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-secrets-to-hassle-free-background-hocus-pocus-on-zoom/"><u>[New] In 2024, The Secrets to Hassle-Free Background Hocus Pocus on Zoom</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-best-8-youtube-marketing-apps-and-solutions/"><u>2024 Approved Best 8 YouTube Marketing Apps & Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/finding-premium-photography-without-spending-for-2024/"><u>Finding Premium Photography Without Spending for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-tecno-camon-20-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Tecno Camon 20 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211027005-how-to-prevent-auto-sleep-on-pc-or-laptop-easy-steps-inside/"><u>How to Prevent Auto-Sleep on PC or Laptop - Easy Steps Inside!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-90-lite-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor 90 Lite Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-directly-delivering-tiktok-videos-to-twitters-feed/"><u>In 2024, Directly Delivering TikTok Videos to Twitter's Feed</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-does-find-my-friends-work-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/is-your-mobile-device-infected-with-malware-discover-how-malwarefox-can-help/"><u>Is Your Mobile Device Infected with Malware? Discover How MalwareFox Can Help!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-yuva-2-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-v30-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo V30</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/metaverse-comedy-crafting-top-tips-for-diy-memetic-mastery/"><u>Metaverse Comedy Crafting Top Tips for DIY Memetic Mastery</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-poco-c51-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Poco C51 Black and White | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-universal-iptv-access-model/"><u>[New] Universal IPTV Access Model</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-future-of-podcasts-starts-with-smart-name-generation/"><u>[Updated] 2024 Approved The Future of Podcasts Starts with Smart Name Generation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-odds-comprehensive-take-on-vegas-pro-2021/"><u>2024 Approved Navigating the Odds Comprehensive Take on Vegas Pro 2021</u></a></li>
+<li><a href="https://article-posts.techidaily.com/editors-expert-analysis-videdit-pro-a-2023-overview/"><u>Editor's Expert Analysis VidEdit Pro – A 2023 Overview</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-fixes-for-headphones-with-intermittent-snap-and-pop-now/"><u>Effortless Fixes for Headphones with Intermittent Snap and Pop - Now!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-how-to-watch-videos-quickly-and-smoothly/"><u>Instagram How to Watch Videos Quickly & Smoothly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p40plus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P40+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/mastering-the-art-of-resolving-windows-application-errors-a-guide-by-experts-at-yl-software/"><u>Mastering the Art of Resolving Windows Application Errors: A Guide by Experts at YL Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-magic-v2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic V2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/this-innovative-virtual-reality-app-helps-you-learn-a-foreign-language/"><u>This Innovative Virtual Reality App Helps You Learn A Foreign Language</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-the-idt-hd-audio-drivers-for-optimal-performance-on-windows-11/"><u>Troubleshooting and Fixing the IDT HD Audio Drivers for Optimal Performance on Windows 11</u></a></li>
 </ul></div>
 

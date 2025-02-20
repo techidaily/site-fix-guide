@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Network: An Expert Review of the AC1200 Wireless Repeater by Netgear (EX6200 Series)"
-date: 2025-02-05T23:31:10.011Z
-updated: 2025-02-10T22:35:21.263Z
+date: 2025-02-14T16:14:33.126Z
+updated: 2025-02-20T16:06:39.008Z
 categories:
   - BestProducts
 description: "This Article Describes Boosting Your Network: An Expert Review of the AC1200 Wireless Repeater by Netgear (EX6200 Series)"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/ac5ea28508f08a71ef3011645ae3c8126537c0f91
 ## Experience Speed with the TP-Link Archer C80 - The Budget Wireless Router Reviewed
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
@@ -63,10 +67,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -74,6 +74,10 @@ Lifewire / Erika Rawes
  The matte black color scheme allows it to blend in with other devices, so you’ll barely notice it on a desk or workstation. The surface is textured, with recesses to hide the venting. The texturing is both a blessing and a curse because it causes the C80 to collect a little extra dust, but it also hides fingerprints and smudges.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -89,11 +93,11 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/tXeiVJNqjtwMg97as87xxtsMwhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_04-375b5f92ce9d44f4af109c8f6bfada16.jpg)
 
- Lifewire / Erika Rawes
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Erika Rawes
 
 ## **Network Performance: Fast speeds, No USB port**
 
@@ -121,19 +125,15 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
- Lifewire / Erika Rawes
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Erika Rawes
 
 ## **Price: Around 100 bucks**
 
  The TP-Link Archer C80 sells for $100, which is a reasonable price for the unit considering it offers fast speeds, dual-band connectivity, and technologies like MU-MIMO to enhance performance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **TP-Link Archer C80 vs. TP-Link Archer A9**
 
@@ -146,7 +146,7 @@ Lifewire / Erika Rawes
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -184,18 +184,24 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-pinnacle-of-camera-quality-top-18-4k-camcorders/"><u>[Updated] 2024 Approved Pinnacle of Camera Quality - Top 18 4K Camcorders</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/does-find-my-friends-work-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/estimate-your-systems-vram-quantity/"><u>Estimate Your System’s VRAM Quantity</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/hikianalia/"><u>Hikianalia</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-tecno-spark-10-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Tecno Spark 10 Pro Phone Screen?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-your-vivo-y36i-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y36i Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-streamline-your-windows-11-experience-by-deleting-unwanted-software/"><u>How to Streamline Your Windows 11 Experience by Deleting Unwanted Software</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-find-x6-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo Find X6 Phone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-hd-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 HD Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ipados-16-update-breakdown-key-features-introduced-at-wwdc-2024-and-compatibility-with-ipads-in-depth-analysis-by-gadgetsphere/"><u>IPadOS 16 Update Breakdown: Key Features Introduced at WWDC √️ 2024 and Compatibility with iPads - In-Depth Analysis by GadgetSphere</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/sony-xperia-5-v-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 5 V Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-on-screen-capture-aid/"><u>[New] 2024 Approved On-Screen Capture Aid</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unveiling-authentic-identity-in-fb-messages/"><u>[New] 2024 Approved Unveiling Authentic Identity in FB Messages</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-basics-to-brilliance-a-comprehensive-guide-to-polarr/"><u>[Updated] From Basics to Brilliance A Comprehensive Guide to Polarr</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-moviemakermag-extreme-review-complete-take-on-androvid-editor/"><u>2024 Approved MovieMakerMag Extreme Review – Complete Take on AndroVid Editor</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-the-best-in-value-with-propellas-n7s-40-light-fast-and-economical/"><u>Experience the Best in Value with Propella's N7S 4.0 - Light, Fast and Economical</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-iphones-auto-brightness-back-to-normal-with-our-top-er-7-advice/"><u>Get Your iPhone's Auto-Brightness Back to Normal with Our Top Er 7 Advice</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-s23-ultra-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy S23 Ultra Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-c67-4g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme C67 4G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/on-the-go-motion-dampener-for-videography/"><u>On-the-Go Motion Dampener for Videography</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-note-30-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix Note 30 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/professionelle-anleitung-zur-absicherung-ihrer-e-mail-adresse-auf-exchange-basis/"><u>Professionelle Anleitung Zur Absicherung Ihrer E-Mail-Adresse Auf Exchange-Basis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-note-12-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi Note 12 Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/1728493274911-sdandroid/"><u>SDカードから取り出されたAndroidスマホの画像を完全に回復する手順</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-5-economical-hd-camcorders-for-adventure-for-2024/"><u>Top 5 Economical HD Camcorders for Adventure for 2024</u></a></li>
 </ul></div>
 

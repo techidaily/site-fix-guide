@@ -1,7 +1,7 @@
 ---
 title: In 2024, Proven Ways in How To Hide Location on Life360 For Infinix Hot 40 | Dr.fone
-date: 2024-07-14T05:32:46.958Z
-updated: 2024-07-15T05:32:46.958Z
+date: 2025-02-16T16:26:00.220Z
+updated: 2025-02-20T16:17:45.487Z
 tags: 
   - virtual location change
   - social app
@@ -41,8 +41,6 @@ Keep reading if you need to know **how to hide your location on Life360 without 
 #### How To Hide Location on Life360 Using Dr.Fone
 
 Follow the steps to learn **how to hide your location on Life360 without anyone knowing** using Dr.Fone:
-
-
 
 - **Step 1:** Download and install Dr.Fone on your computer. Click **Toolbox** > **Virtual** **Location.** In the next window, click **Get** **Started**. Afterward, connect your smartphone to your computer. Follow the on-screen instructions.
 
@@ -122,6 +120,10 @@ Whether to hide your location on Life360 involves weighing the advantages and dr
 
 ![hiding your life360 location banner](https://images.wondershare.com/drfone/article/2024/01/hide-location-on-life360-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Pros of Hiding Your Location on Life360**
 
 - **Privacy protection.** Hiding your location provides a layer of privacy. It allows you to control who has access to your real-time whereabouts.
@@ -134,9 +136,6 @@ Whether to hide your location on Life360 involves weighing the advantages and dr
 - Hiding your location may create confusion or concern among family members or friends. They may worry about your safety when unable to track your location.
 - **Violation of agreements.** If you’re part of a Life360 circle, hiding your location might violate agreements within the circle. It can lead to misunderstandings and conflicts.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus. For Parents: Your Child Hid Life360 Location – What Now?
 
 Discovering that your child learned **how to hide location on Life360** can be a moment for constructive engagement. Here are the steps parents, friends, or guardians can take:
@@ -155,16 +154,11 @@ Highlight the positive aspects of Life360. Focus on its role in ensuring safety 
 
 Suggest exploring alternative location-sharing apps that may align better with your child’s comfort level. Involving them in the decision-making process allows for compromise. It helps strike a balance between privacy and safety concerns.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 While options like Airplane Mode and disabling location services exist, the most secure and comprehensive choice is Wondershare Dr.Fone. The virtual location changer allows discreet location adjustments without alerting anyone. With features like teleportation and joystick simulation, it’s the safest method for maintaining privacy on Life360.
 
 For those seeking to master **how to hide your location on Life360 without anyone knowing**, Dr.Fone is the preferred solution. The tool ensures a reliable and inconspicuous experience.
-
-
 
 ## How To Activate and Use Life360 Ghost Mode On Infinix Hot 40
 
@@ -191,8 +185,6 @@ Now that you know all of **Life360 Ghost Mode updates** and their significance, 
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile tool for enhancing privacy. With its key features, you can activate **Life360’s Ghost Mode**. It offers great control over your GPS location. Here are the key features of Dr.Fone to maximize Ghost Mode.
 
-
-
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 - **Spoof your location without leaving home**
@@ -211,6 +203,10 @@ Dr.Fone offers the flexibility of 360-degree directions. It gives you precise co
 
 The keyboard control feature allows for effortless navigation, making it user-friendly for both novices and experienced users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Activate Ghost Mode With Dr.Fone - Virtual Location
 
 Follow these step-by-step instructions to activate **Ghost Mode on Life360** using Dr.Fone - Virtual Location:
@@ -218,6 +214,10 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 - **Step 1:** Download and install Dr.Fone on your computer. Launch the app and connect your smartphone. Next, click on **Toolbox** > **Virtual** **Location**. Click **Get Started** and tick the **I am aware of the disclaimer** box.
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/vl-connect-ios-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Follow the on-screen instructions. Once connected, click **Manage Device** to control your location without moving. Choose the “One-Stop Route” function from the top right. Tap anywhere on the map to set your destination.
 
@@ -267,6 +267,10 @@ Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
 
 When Ghost Mode feels too troublesome, alternative methods exist to turn off location sharing on Life360 temporarily. Here’s a guide on six different approaches:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Turning Off WiFi and Data
 
 Disabling WiFi and data on Life360 is a common method to prevent location tracking. Here’s a step-by-step guide:
@@ -284,9 +288,6 @@ Disabling location services provides an effective solution for pausing Life360 w
 - **Step 1 (iOS):** Go to **Settings** > **Privacy** > **Location Services**. Scroll and find Life360.
 - **Step 1 (Android):** Go to **Settings** > **Apps** > **Life360**.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turning off life360 location services](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-09.jpg)
 
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
@@ -299,6 +300,10 @@ Disabling WiFi and Data on Life360 might trigger notifications, alerting anyone 
 **For iOS**: Open the **Settings** app on your Infinix Hot 40 or iPad. Tap on **Wi-Fi**. Select the **i** icon beside the connected Wi-Fi network. Toggle on the **Low Data Mode** switch.
 
 ![turning on low data mode](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For Android**: Open the **Settings** app. Scroll and tap on **Cellular** or **Mobile Data**. Tap on **Cellular Data Options** or **Mobile Data Options**. Toggle on the **Low Data Mode** switch.
 
@@ -330,10 +335,11 @@ The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient optio
 
 Yes, Find My Friends App is compatible with Infinix  smartphones. This tracker App is exclusive for iPhone users and Android devices. Free for iPhone, iPad, and iPod Touch. When installed on your friends or one of our family member’s smartphone you can stay in touch with them and keep a tab on his/her location. All you require is to request- with whom you want to stay connected- to save your number as a contact on the Find My Friends app, and then you’ll be given access to their real-time geographical location. You can also find Infinix  version of Find My Friends app if you are particularly looking for it.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Find my friends pic 1](https://images.wondershare.com/drfone/article/2024/01/find-my-friends-pic.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There are several privacy controls with Find My Friend Infinix  and iPhone App. This means if there are times when you don’t want family or friends to know your location, you can simply mute it with a few clicks. Find My Friends application is quite popular among families who worry about the safety of their loved ones.
 
@@ -342,6 +348,10 @@ Download from Google Play Store - [https://play.google.com/store/apps/details?id
 Download from Apple Store - [http://apps.apple.com/us/app/find-my-friends/id466122094](http://apps.apple.com/us/app/find-my-friends/id466122094)
 
 ## Part 1: Best Alternatives to Find My Friends App
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Glympse
 
@@ -393,16 +403,21 @@ This App is for free which you can download from the Google Play Store. [http://
 - You can choose to share your location temporarily or permanently
 - You can even hide your location to safeguard your privacy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Requirements
 
 Find My Friends Version 7.0 needs iOS 11 or later & iCloud. Create a free Apple ID to use with iCloud on your Mac, iPhone, iPod touch or iPad.
 
 Here’s How to Set-Up Find My Friends App on Your iPhone Device
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Find my friends pic 6](https://images.wondershare.com/drfone/2023/virtuallocation/Find-my-friends-pic-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If your Infinix Hot 40 or iPod using iOS via 12, the Find My Friends is already installed. On the other hand, if your Infinix Hot 40 device is running on the iOS 8 version, then you can install this location tracker from the Apple Play Store for Free.
 
@@ -420,6 +435,10 @@ To track or share location with your friend or family member, make sure he/she h
 
 Once your friend agrees to share his/her real-time location, you can see their current whereabouts in a list or on a map in this location sharing App or over iCloud.com.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip: What Do I Do If I Want to Fake a Location on Find My Friends?
 
 Do you want to spoof your location so your friends can’t find you? For this purpose, you should use [Wondershare Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to ensure privacy by spoofing location. With this tool, you can easily change location on your devices with just a blink of an eye. It can teleport your location and stimulate GPS movement with a route that you draw.
@@ -433,8 +452,6 @@ Thus, you can fake location with flexible GPS movement on the Find My Friends ap
 3. It supports location spoofing on up to 5 iOS devices simultaneously on 1 PC/Mac. For this, you don’t need to jailbreak your Infinix Hot 40 or face any other device complications.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-
 
 ### Simplified Steps to Spoof Location on Find My Friends Using Dr.Fone - Virtual Location
 
@@ -452,12 +469,9 @@ Following this, confirm your actual location and move to activate the teleport m
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
-
 ## Conclusion
 
 Would you like to add an App to the above-mentioned list? Or want to share your first-hand experience with Find My Friends App? Have your say in the comment section of this blog post!
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -471,9 +485,24 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-transforming-shopping-insights-into-youtube-paychecks/"><u>[New] In 2024, Transforming Shopping Insights Into YouTube Paychecks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-elite-note-taking-tools-dominating-2024s-digital-scene/"><u>Discover the Ultimate List: Elite Note-Taking Tools Dominating 2024'S Digital Scene</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-doc-and-book-digitization-for-iphone-users-using-ocr-technology-by-finereaderpdf/"><u>Easy Doc & Book Digitization for iPhone Users Using OCR Technology by FineReaderPDF</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/effective-ways-to-enhance-pc-speed-with-expert-advice-from-yl-software/"><u>Effective Ways to Enhance PC Speed with Expert Advice From YL Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-f54-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy F54 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/inside-look-at-the-spectacular-image-quality-of-the-65-lg-oled-c9-smart-tv-the-enthusiasts-choice/"><u>Inside Look at the Spectacular Image Quality of the 65 LG OLED C9 Smart TV – The Enthusiast's Choice</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a56s-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A56s 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/professional-recommendations-to-elevate-your-home-entertainment-system-ahead-of-the-super-bowl/"><u>Professional Recommendations to Elevate Your Home Entertainment System Ahead of the Super Bowl</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a54-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A54 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-into-virtuality-comparing-best-vr-treadmills-for-2024/"><u>Step Into Virtuality Comparing Best VR Treadmills for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-simple-techniques-for-amazing-slow-motion-footage-in-android-for-2024/"><u>Unveiling Simple Techniques for Amazing Slow-Motion Footage in Android for 2024</u></a></li>
+</ul></div>
 

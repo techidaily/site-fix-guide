@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Tecno Pova 6 Pro 5G | Dr.fone
-date: 2024-07-14T05:37:19.728Z
-updated: 2024-07-15T05:37:19.728Z
+date: 2025-02-18T16:34:46.403Z
+updated: 2025-02-20T16:01:47.865Z
 tags: 
   - virtual location change
   - social app
@@ -69,9 +69,17 @@ The live location feature is entirely optional, and it depends on whether you wa
 
 ![Share Live Location](https://images.wondershare.com/drfone/article/2019/10/pin-your-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Specify the period and continue you begin the sharing.
 
 And that’s how you pin a location. If at some point, you decide that you don’t want to share your location, then you can stop it manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Use a Location Spoofer to Fake Location On both Android and iPhone WhatsApp
 
@@ -119,9 +127,17 @@ This will display the changed location of your device on the interface, and you 
 
 ![stop the simulation](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can also open any app on your Tecno Pova 6 Pro 5G and see the new location on the interface. Just go to WhatsApp now and send the fake location on WhatsApp to your friends.
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Send Fake Live Location with One-Stop Route/Multi-Stop Route
 
@@ -134,8 +150,6 @@ Step 1: Activate the "One-Stop Route" or "Multi-Stop Route" feature from the top
 Step 2: Afterward, select the trip type, number of rounds, and speed according to your requirements and press the “Start Moving” button to initiate the multi-stop route feature.
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
-
-
 
 ### 3.2 Fake location on WhatsApp using iTools location spoofer
 
@@ -180,9 +194,6 @@ Step 2: Go to the Settings and open "About Phone" info. Find the Build number an
 
 Step 3: Now, open the app and search the location that you want to send. Once you have decided which location you want to share, click on the Set Location option.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Set Location option](https://images.wondershare.com/drfone/article/2019/10/set-fake-location.jpg)
 
 Step 4: Now, open WhatsApp and click on the Share location option. Choose the option whether you want to send your current location or you want to share your Live Location and press send.
@@ -249,9 +260,6 @@ Life360 tracks a variety of things, including:
 - **Places visited:**You can see where family members have been. It helps you understand their daily routines and ensure they’re in safe areas.
 - **Driving habits:**Life360 tracks speed, braking, and other driving behaviors. It provides insights into how safely family members drive.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![life360 driver reports feature](https://images.wondershare.com/drfone/article/2024/01/change-your-location-on-life-360-03.jpg)
 
 Benefits
@@ -274,16 +282,10 @@ Privacy concerns arise, especially regarding the questions by its users. “**Ca
 
 You need to be aware of what the app can and can’t do. It balances convenience and privacy when using tracking services like Life360. So, here’s the deal – always think twice before faking, hiding, or changing your location. Now, let’s explore whether you can bypass these concerns and keep your location hidden or fake on Life360.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Can You Change Your Location on Life360 Without Anyone Knowing?
 
 Yes, you can change your location on Life360 without anyone knowing. But it doesn’t have that built-in feature. The best way to fake your location on Life360 without anyone knowing is to use spoofing apps on your device, such as [Wondershare Dr.Fone.](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) This tool can change your real-time location on several apps, including Life360, whether you have an iOS or Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone life360 virtual location changer](https://images.wondershare.com/drfone/images2022/iphone-data-recovery/s3img1.png)
 
 The question of hiding or changing your location on Life360 might be discreetly on your mind. You’re not alone in this. If you’re a teenager, maybe you seek a bit of freedom without constant oversight. As a working professional, you might be figuring out how to balance work and life while keeping things private. Perhaps you aim to lessen your digital footprint. Or to gain an advantage in competitive play.
@@ -293,8 +295,6 @@ In different scenarios, the same question – “**Can you change your location 
 ## Part 3: Changing/Faking Location With Dr.Fone – Virtual Location
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location can be a playful tool for the digitally adventurous. Want to impress your Instagram followers with Parisian sunsets without leaving your couch? Dr.Fone can transport you there with a click. For the romantics, Dr.Fone can also help you spark connections on dating apps by setting your location to a city or a scenic getaway.
-
-
 
 It’s also a game-changer for location-based apps, letting you hatch Pokemon eggs without leaving your room. Beyond gaming, Dr.Fone can also change your location on real-time tracking apps like Life360. Use it to maintain privacy without needing to explain your actual location.
 
@@ -312,8 +312,6 @@ How To Use Dr.Fone To Change/Fake Location on Life360?
 
 Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you spoof location sharing on your terms without raising eyebrows. Here’s how to change your location on the Life360 app without anyone knowing:
 
-
-
 - **Step 1:** Connect your smartphone to your desktop using a USB cable after downloading Dr.Fone. Once installed, launch it and select **Virtual Location** from the **Toolbox** homepage to continue with the feature.
 - **Step 2:** Click **Get Started** and select the checkbox to acknowledge the disclaimer.
 
@@ -321,14 +319,15 @@ Give yourself some breathing room on Life360. Dr.Fone Virtual Location helps you
 
 - **Step 3:** Click **No Device** on the upper right side of the map.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone virtual location map](https://images.wondershare.com/drfone/guide/virtual-location-01-1.png)
 
 - **Step 4:** Choose the iOS or Android device to connect, then click **Next**. Wait while your device connects to your computer.
 
 ![connect ios or android device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Follow the on-screen steps to put your device in the Developer mode and wait for the Dr.Fone app to detect it.
 
@@ -376,15 +375,21 @@ So, let’s go back to the main question. **Can you change your location on Life
 
 But of course, there are certain situations in which you will need to fake your location. In such cases, Dr. Fone’s Virtual Location changer is a responsible solution. This tool enables temporary location modifications with precise control and ethical features. Use them responsibly and prioritize genuine communication for healthy, secure connections.
 
-
-
 ## Edit and Send Fake Location on Telegram For your Tecno Pova 6 Pro 5G in 3 Ways
 
 Telegram is an ad-free messaging application for Android and iOS. This app was established in 2013 and facilitates secure conversations among more than 550 active users. But despite its super-tight security, location-sharing on Telegram remains a concern among many. Like Facebook, the “People Nearby” feature on Telegram can expose your location to unwanted people. So, how can one create a **fake GPS on Telegram**? If you’re one of those concerned users, this post will teach you how to create a **Telegram fake GPS** quickly and easily. Let’s learn!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Why Fake Location on Telegram?
 
 There are numerous reasons to fake location on Telegram. However, here are the main ones:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Protect your privacy
 
@@ -427,6 +432,10 @@ Install and run Dr.Fone on your PC and then connect your smartphone to your comp
 
 ![connect the software with Wi-Fi without an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next, open your smartphone’s Settings app and enable USB debugging to connect it to Dr.Fone. Fortunately, this program comes with a simple guide for all iOS and Android versions.
 
 **Pro tip:** If you’re an Android user, click Settings> Additional Settings> Developer options> USB debugging. Also, remember to choose Dr.Fone under the “Select mock location app” section.
@@ -436,8 +445,6 @@ Next, open your smartphone’s Settings app and enable USB debugging to connect 
 ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 After successfully connecting your device to Dr.Fone, tap **Next** to open the Virtual Location map. Now enter the **Teleport Mode** and key in the GPS coordinates or location you want to move to. Alternatively, simply tap a spot on the map and click **Move Her**e. And there is that!
-
-
 
 ### Method 2: Fake a live telegram location via VPN (Android & iOS)
 
@@ -458,6 +465,10 @@ Step 1. Fire up Play Store and search for “fake GPS location.” You’ll see 
 Step 2. Next, open **Additional Settings** and choose **Developer options** on your phone. Then, set Fake GPS location as the mock location app.
 
 ![fake gps on telegram - select mock mode](https://images.wondershare.com/drfone/article/fake-gps-on-telegram-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3. Now launch the app and choose your new GPS location. If satisfied, simply tap the green **Play** button.
 
@@ -481,6 +492,9 @@ There you go; you can now create a new Telegram location to prank your friends o
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -494,9 +508,26 @@ There you go; you can now create a new Telegram location to prank your friends o
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-dazzling-design-discovering-three-instagram-highlight-hacks-for-2024/"><u>[New] Dazzling Design Discovering Three Instagram Highlight Hacks for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-10-strategies-for-boosting-your-youtube-visibility/"><u>[Updated] In 2024, 10 Strategies for Boosting Your YouTube Visibility</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-novices-guide-to-building-a-youtube-studio-setup/"><u>[Updated] In 2024, The Novice's Guide to Building a YouTube Studio Setup</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-enhancing-your-listening-experience-the-essentials-of-recording-with-audacity-on-mac/"><u>2024 Approved Enhancing Your Listening Experience The Essentials of Recording with Audacity on Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cam-functioning-post-fix-triumph-for-obs/"><u>Cam Functioning Post-Fix Triumph for OBS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-u23-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on U23 Pro ?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/discover-the-joy-of-individuality-creating-tones-and-sounds-on-android-devices-for-2024/"><u>Discover the Joy of Individuality Creating Tones & Sounds on Android Devices for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-how-to-manually-silence-or-restore-sounds-on-an-iphone-without-the-physical-switch/"><u>Guide: How To Manually Silence or Restore Sounds On An iPhone Without The Physical Switch</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y36i-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y36i Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leveraging-video-shorts-to-generate-income-online/"><u>In 2024, Leveraging Video Shorts to Generate Income Online</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edgeplus-2023-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge+ (2023) Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-105-classic-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia 105 Classic Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-nord-ce-3-lite-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Nord CE 3 Lite 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-10-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 10 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-huawei-p60-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Huawei P60 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-a38-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo A38 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-the-past-stellar-recovery-turns-thousands-of-lost-photos-into-gold/"><u>Unlocking the Past: Stellar Recovery Turns Thousands of Lost Photos Into Gold</u></a></li>
+</ul></div>
 

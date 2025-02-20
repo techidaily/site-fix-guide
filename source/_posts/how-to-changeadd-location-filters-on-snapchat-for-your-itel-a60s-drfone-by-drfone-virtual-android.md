@@ -1,7 +1,7 @@
 ---
 title: How to Change/Add Location Filters on Snapchat For your Itel A60s | Dr.fone
-date: 2024-07-14T05:33:41.690Z
-updated: 2024-07-15T05:33:41.690Z
+date: 2025-02-15T16:50:47.149Z
+updated: 2025-02-20T16:35:57.540Z
 tags: 
   - virtual location change
   - social app
@@ -17,8 +17,11 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 Snapchat is an Android/iOS messaging app developed in 2011. Currently, this app is home to 350+ users who share photos, videos, audio, texts, emojis, GIFs, and documents. But one of the most exciting Snapchat features is allowing users to share locations, whether fake or real. For instance, you might want to protect your privacy or simply prank your friends with a new location. So, whichever the reason, we'll show you **how to add a location filter on Snapchat** effortlessly. You'll also know **how to add a fake location filter on Snapchat**. Let's learn!
 
-
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/6W-qXnzg8kA"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What are Location Filters on Snapchat?
 
@@ -50,9 +53,17 @@ Now that this setting is enabled on Snapchat, you can add your location filter e
 
 ![how to add location filter on Snapchat choose location](https://images.wondershare.com/drfone/article/2022/03/how-to-add-location-filter-on-snapchat-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** Finally, customize your video further and then click **Send To**. Your selected location filter will be added to your Snapchat post.
 
 ![how to add location filter on Snapchat share location](https://images.wondershare.com/drfone/article/2022/03/how-to-add-location-filter-on-snapchat-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Change or Add a Fake Location on Snapchat Filters?
 
@@ -61,8 +72,6 @@ The thing is that Snapchat uses your phone's GPS or Wi-Fi connection to determin
 Fortunately, you don't need those overpriced VPNs if you can get [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). This smartphone utility program allows you to change your Snapchat location to anywhere in the world with a simple mouse click on your PC. In addition, you can simulate Snapchat location movements to make it look more realistic. And apart from Snapchat, you can spoof location on WhatsApp, Viber, Facebook, Facebook Messenger, Instagram, etc.
 
 So, without dilly-dallying much, here's how to fake a **Snapchat location tag** with Dr.Fone:
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -84,15 +93,16 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 
 ![how to add location filter on Snapchat, open virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** Now allow USB debugging on your Itel A60s before clicking **Next** on Dr.Fone. Don't know how to do that? Open Settings > Additional Settings > Developer options > USB debugging. Also, choose Dr.Fone as the mock location app.
 
 ![how to add location filter on Snapchat connect device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 **Step 4.** The Virtual Location map will launch immediately. Enter the GPS coordinates or location address on the field in the top-left corner and select the new location. If satisfied, press **Move Here**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to add location filter on Snapchat Choose a new location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 5.** Finally, open your Snapchat app, create a photo, and choose the location filter with your new location. It's that simple!
@@ -123,11 +133,6 @@ Sometimes you might want to urgently find a friend on Snapchat when you are in G
 
 Now you have a complete idea of what the Snapchat location filter is. In short, it is simply a creative way to share your Snapchat location tag on a post. But because you can't spoof your location on Snapchat, I recommend using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to teleport your Snapchat location to anywhere in the world. This tool also works with other social media apps like Facebook, WhatsApp, and Telegram. Enjoy!
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## How To Activate and Use Life360 Ghost Mode On Itel A60s
 
 Life360 is a popular location-sharing app among families and friends. The platform enables real-time tracking of loved ones’ whereabouts on smartphones. But there are moments when you might want to disable it for privacy.
@@ -149,11 +154,13 @@ Now that you know all of **Life360 Ghost Mode updates** and their significance, 
 
 ![how to enable ghost mode banner](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How To Activate Ghost Mode on Life360
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile tool for enhancing privacy. With its key features, you can activate **Life360’s Ghost Mode**. It offers great control over your GPS location. Here are the key features of Dr.Fone to maximize Ghost Mode.
-
-
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
@@ -189,9 +196,17 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4**: Activate **Teleport Mode** by choosing the first icon in the top-right. Enter your desired location in the **Search** bar, press **Enter**, and confirm on the map. Click **Move Here** to change your smartphone’s location. Ensure alignment with the spoofed location on your computer. You are now under **Life360 Ghost Mode**.
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Will Others Know if Ghost Mode Is Activated on Life360?
 
@@ -267,10 +282,11 @@ Activating Airplane Mode deactivates all network connections. It includes GPS, o
 
 **For iOS**: Swipe your screen to access the Control Center. Tap the airplane icon to activate **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turning on airplane mode](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For Android**: Swipe your screen to access the quick settings menu. Tap the airplane icon to enable **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
 
@@ -288,9 +304,6 @@ Using a VPN service alters your IP address, which can help spoof Life360 to show
 
 The ease of enabling Ghost Mode on/off using Dr.Fone makes it a convenient option. Striking the right balance between connectivity and privacy in Life360 requires thoughtful consideration. Explore the dynamics of **Ghost Mode in Life360** to decide if it aligns with your preferences and needs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Change your Itel A60s Location on Twitter
 
 Twitter is one of the most used social media platforms of today's time, where anyone can voice their opinion regarding any trend or event in the form of short messages. Moreover, it's a free platform that displays the hot debates and news based on your country, which is usually a good thing.
@@ -317,15 +330,16 @@ Twitter for mobile is easy to use, but it offers limited privacy options compare
 
 ![select your country](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Change Twitter Location on a Computer
 
 Unlike Twitter applications, the desktop version is efficient. For example, you can **change the Twitter location** to your desired region in just a few steps:
 
 **Step 1:** First, go to the Twitter website and log in with your username and password.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![login to twitter account](https://images.wondershare.com/drfone/article/2022/05/change-location-on-twitter-4.jpg)
 
 **Step 2:** After logging in, go to “More” options from the Twitter home and click on “Settings and Privacy,” Now, select the option of “Account Information” from the “Your Account” settings.
@@ -363,8 +377,6 @@ You can spoof your location to prank or trick your friends and family into think
 #### For Making New Friends
 
 One of the reasons people prefer to spoof their location is to socialize and make friends with people other than their region; it's the most innovative way by which you can easily have a chat with anyone from around the world without revealing your actual location.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -410,6 +422,10 @@ Finally, click on the “Move Here” icon in the popup box, and your GPS will b
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: FAQs About Twitter Location
 
 1. **Could your location be tracked via Twitter?**
@@ -434,7 +450,6 @@ Twitter is one of the most content-consuming social platforms globally. Its user
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -447,9 +462,26 @@ Twitter is one of the most content-consuming social platforms globally. Its user
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-gaming-evolved-streaming-xbox-content-on-facebook-for-2024/"><u>[New] Gaming Evolved Streaming Xbox Content on Facebook for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-step-by-step-review-mastering-the-art-of-picsart/"><u>[New] In 2024, Step-by-Step Review Mastering the Art of PicsArt</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-windows-hdplus-excellence-navigating-through-high-dynamic-range-worlds/"><u>[Updated] 2024 Approved Windows HD+ Excellence Navigating Through High Dynamic Range Worlds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-iphone-time-lapse-capturing-moments-quickly/"><u>[Updated] IPhone Time-Lapse Capturing Moments Quickly</u></a></li>
+<li><a href="https://win-community.techidaily.com/bequeme-migrationsstrategie-wann-ist-ein-ssd-zu-klein-fur-ein-system/"><u>Bequeme Migrationsstrategie: Wann Ist Ein SSD Zu Klein Für Ein System?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-reno-10-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo Reno 10 Pro 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-y100i-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo Y100i for Free? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c12-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C12 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-bulk-creating-via-canva-and-chatgpt/"><u>The Ultimate Guide to Bulk Creating via Canva & ChatGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transfer-your-apple-music-playlists-seamlessly-to-and-from-youtube-music-how-to-guide/"><u>Transfer Your Apple Music Playlists Seamlessly to & From YouTube Music - How To Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-rate-reductions-in-farming-simulator-22-for-windows-users/"><u>Troubleshooting Frame Rate Reductions in Farming Simulator 22 for Windows Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 20 Pro+ | Dr.fone
-date: 2024-07-14T05:37:14.091Z
-updated: 2024-07-15T05:37:14.091Z
+date: 2025-02-15T16:55:27.523Z
+updated: 2025-02-20T16:50:57.797Z
 tags: 
   - virtual location change
   - social app
@@ -47,9 +47,6 @@ When last did you update your system and apps? It is very easy! You should const
 
 You can also check if your location service is enabled on iPhone or Android settings. On iPhone, click Settings > Privacy > Location Service. It's even easier on Android. Swipe down your screen, long-press the GPS button, and enable the Location toggle.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Reset location service on iPhone/Android
 
 iPhone users can try to reset the Location & Service settings. To do that, open Settings > General > Reset > Reset Location & Privacy. And for Android users, please try to take the refer the steps below to follow:
@@ -74,6 +71,10 @@ You can check out this video for further instruction.
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Below is how to spoof WhatsApp live location with Dr.Fone:
 
@@ -113,6 +114,10 @@ Step 3. Now click the **Attach** button on the text field and click **Location**
 
 ![whatsapp location not updating click location](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. From there, allow WhatsApp access to your device's location and then press the **Share Live Location** button.
 
 ![whatsapp location not updating](https://images.wondershare.com/drfone/article/2022/03/whatsapp-location-not-updating-5.jpg)
@@ -121,13 +126,14 @@ Step 3. Last but not least, set the duration your contact will view your Locatio
 
 **Note:** As you can see, WhatsApp relies on your GPS location to share your actual location. So, use Wondershare Dr.Fone to change your device's location and then share it on WhatsApp.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How to Fix Common WhatsApp Issues on Android & iPhone
 
 Wondershare Dr.Fone is the perfect tool to handle all your WhatsApp issues. Below are some common issues it can help you with:
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Lost Messages
 
 Sometimes you might accidentally or intentionally delete WhatsApp chats or messages. Fortunately, Dr.Fone can help you dig out and recover those messages with a simple click. Just launch the [Data Recovery tool](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/), connect your phone to the software, and Dr.Fone will scan for all lost and current messages.
@@ -154,11 +160,19 @@ LinkedIn is the most widely used professional network that allows you to connect
 
 To change your preferred job location on LinkedIn, below mentioned are the methods and steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Change LinkedIn Location on Computer \[Windows/Mac\]
 
 To change your location on LinkedIn through your Windows and Mac systems, below listed are the steps.
 
 ![change linkedln location on desktop](https://images.wondershare.com/drfone/article/2022/01/linkedin-desktop-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Step 1. Open your LinkedIn account on your system and tap on the Me icon at the homepage.
 - Step 2. Next, tap on View profile and then click on the Edit icon in the introduction section.
@@ -178,8 +192,6 @@ LinkedIn can also be accessed from your Tecno Spark 20 Pro+ and iOS devices, and
 ### Method 3: Change the LinkedIn location by Drone – Virtual Location \[iOS & Android\]
 
 Another simple and quick way to change your location for your LinkedIn profile is by using a software called [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This versatile tool is compatible with working for your iOS and Android devices and allows changing the location of your device and several apps, including LinkedIn. With just a single click, you can teleport your GPS location anywhere in the world. Additionally, you can also simulate the GOS movements as you move along the route.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -227,11 +239,19 @@ Changing and setting a customized location on your LinkedIn profile can be benef
 2. **Probability of salary raise**: Updating your LinkedIn location will create chances of getting a better salary hike as the prospective employers consider you to be from the same location as theirs and for them, there will be no hassles of work permit issues, and additional cost of relocation.
 3. **More job options**: When you update your LinkedIn location, your options for jobs increase, and you become eligible for the jobs which otherwise were not applicable for your location or profile. Thus, access to more job profiles gives you better chances of growing and negotiating.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ: All you want to know about changing location on LinkedIn
 
 ### 1\. Should I change my location on LinkedIn, although I haven’t relocated yet?
 
 If you are planning to relocate to a new place soon, updating your LinkedIn location is fine. Location update will help you target the job market and with job-seeking to get the desired job. It is suggested that suppose if you are moving to ABC location soon, you can update your LinkedIn location to ABC but at the same time mention your present current location, somewhere in the profile. Mentioning your current location will not create any feeling of being cheated or misled by the people who visit your profile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How do I hide my location on LinkedIn?
 
@@ -245,7 +265,9 @@ There is no option on LinkedIn to hide your location. You can only provide incor
 
 LinkedIn location on your systems as well as mobile devices can be changed either by changing it through app settings or using a professional tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . Using the software, you can change the location of your device that will automatically update all the GPS and location-based apps, including LinkedIn, accordingly.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change GPS Location on Tecno Spark 20 Pro+ Easily & Safely
 
@@ -256,6 +278,10 @@ Change GPS Location iPhone and everything else will be alright! - Did you hear y
 The changed location will reflect in all of your social media databases and other everyday apps. No one can track you down using the over-smart softwares that pry on user locations on different apps they use. By doing so, you are enhancing your online security, protecting your privacy, and, in some cases, also keeping your personal information a secret. Trust us when we say that certain apps need your information worth plenty of bucks but get away with procuring it without your permission.
 
 There is no harm in changing your GPS location, especially when the world wide web is eager to monetize your information. A proper iOS Fake GPS will keep you safe virtually. Then you might wonder, - How do I use apps to navigate the roads or track down that pub in the locality? Well, you can always revert to your original location whenever you want to just that these tricks will help you stay in the safe bubble most of the time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is iPhone Location Settings for?
 
@@ -287,16 +313,10 @@ Wondershare's Dr. Fone is one of the best applications if you are looking for a 
 
 **Step 1:** You have to download the [Dr. Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). It is easily available for everyone. Launch the application, and the options will display on your screen. Choose the 'Virtual Location' option.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Connect your phone to your computer and click on 'Get Started'.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3:** A Map displaying the entire world will appear on your screen. On the top right corner, the third icon represents the 'Teleport Mode'. Click on that and enter the name of the place in the search box.
@@ -339,9 +359,6 @@ XCode is a computer program. It is very useful for those who have sound coding l
 
 **Step 1:** Firstly, Install the App from the App Store (on Mac) And then Launch it.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download xcode app](https://images.wondershare.com/drfone/2020/2020/download-and-install-xcode-pic14.jpg)
 
 **Step 2:** Once you launch the app, the Xcode Window will open. Click on 'Single View Application' to start a new Project and proceed by clicking on 'Next'. Set up a name and then proceed.
@@ -365,6 +382,10 @@ XCode is a computer program. It is very useful for those who have sound coding l
 **Step 7:** Go to the Debug Menu and select Simulate Location. From there, you can choose any location that you want to, proceed with it, and the new spoofed location will appear on your Tecno Spark 20 Pro+ device.
 
 ![new virtual location xcode](https://images.wondershare.com/drfone/2020/2020/new-virtual-location-xcode-pic20.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Change GPS location on iPhone using Cydia
 
@@ -390,7 +411,6 @@ The problem with this method is that certain apps downright refuse to function w
 
 If you've been wondering how can I change my location on iPhone, then I am sure this article must have at least given you one suitable way to do that. Weighing your necessities, choose the most suitable option that will safely transfer you from one place to another - Virtually, Of course! You can settle on the best location changer for iPhone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -403,9 +423,23 @@ If you've been wondering how can I change my location on iPhone, then I am sure 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/levate-your-vids-top-youtube-seo-gadgets-for-2024/"><u>[New] Elevate Your Vids Top YouTube SEO Gadgets for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-bandicam-your-compreayer-for-high-quality-screen-recording-for-2024/"><u>[Updated] Bandicam Your Compreayer for High-Quality Screen Recording for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximize-video-visibility-on-facebook-via-youtube-for-2024/"><u>[Updated] Maximize Video Visibility on Facebook via YouTube for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-disengaging-amber-and-crisis-warnings-on-ios-devices/"><u>Guide: Disengaging Amber and Crisis Warnings on iOS Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-v29-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo V29 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-samsung-galaxy-s23plus-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Samsung Galaxy S23+ Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-nba-2k24s-e-66ac-code-malfunction-with-expert-strategies-updated/"><u>Overcoming NBA 2K24's E-66ac Code Malfunction with Expert Strategies - Updated</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-motorola-g24-power-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Motorola G24 Power? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/powerful-beatit-bt-d11-jumper-pack-evaluation/"><u>Powerful Beatit BT-D11 Jumper Pack Evaluation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-narzo-n53-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo N53 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reconsidering-the-iphone-16-purchase-explore-alternatives-with-in-depth-analysis-from-apple-experts-at-zdnet/"><u>Reconsidering the iPhone 16 Purchase? Explore Alternatives with In-Depth Analysis From Apple Experts at ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/silent-salesmen-in-your-pocket-a-truth-or-tale-of-coincidence/"><u>Silent Salesmen in Your Pocket: A Truth or Tale of Coincidence?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Leave a Life360 Group On Tecno Spark 20 Without Anyone Knowing? | Dr.fone
-date: 2024-07-14T05:36:46.746Z
-updated: 2024-07-15T05:36:46.746Z
+date: 2025-02-13T16:40:14.433Z
+updated: 2025-02-20T16:57:09.207Z
 tags: 
   - virtual location change
   - social app
@@ -19,10 +19,11 @@ Do you keep asking yourself **how do I leave a Life360 group?** If so, you’re 
 
 Whether it’s a matter of privacy or a brief escape, the art of leaving a Life360 group unnoticed is subtle. The article will show you **how to leave a Life360 Circle without anyone knowing**. Read to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![leaving a life360 group banner](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. How To Leave a Life360 Circle
 
@@ -38,9 +39,6 @@ The default method of leaving a Life360 Circle is straightforward but comes with
 
 - **Step 2:** Choose the option **Leave Circle**. If you were the admin, ensure that you designated a new admin before leaving. Apart from that, the process is straightforward. Follow the on-screen instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![life360 leave circle option](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-03.jpg)
 
 ### How To Leave a Life360 Circle You’re a Part Of
@@ -49,10 +47,11 @@ Here’s **how to leave a circle in Life360** that you’re a part of. Here are 
 
 - **Step 1**: Open your Life360 on your smartphone. Log in if necessary. Tap **the Circle Switcher** located at the top of your screen. Choose the specific Circle you wish to exit. Afterward, access the **Gear** icon positioned in the upper left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![leaving circle where you are member](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Choose **Circle Management** from the list. Tap on **Leave Circle** at the bottom of the screen. Confirm your decision by selecting **Yes** in the popup. You’ll no longer be associated with the Circle, and it won’t appear in your Circles list. If you wish to rejoin, you’ll need a new invitation from the Circle Admin.
 
@@ -76,8 +75,6 @@ One of the most effective and safe ways to trick Life360 without triggering noti
 #### How To Spoof Your Life360 Circle Location Using Dr.Fone
 
 Follow the steps below to learn **how to leave a Life360 Circle without anyone knowing** using Dr.Fone’s Virtual Location tool:
-
-
 
 - **Step 1:** Download and install Dr.Fone, then connect your Tecno Spark 20 via USB cable. Launch the tool from **Toolbox** > **Virtual** **Location**. Click **Get Started** to proceed.
 
@@ -126,6 +123,10 @@ In your device settings, disable **Background App Refresh** for Life360. Althoug
 
 ![disable life360 background app refresh](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Locate Life360 and disable **Background App Refresh** for the app. Alternatively, you can disable **Background App Refresh** as a whole.
 
 ### Method 6: Enabling Battery Saving Mode
@@ -148,9 +149,6 @@ Life360’s Circle feature serves as the cornerstone of the app. It fosters conn
 
 ![life360 app interface](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Can You Remove Someone From a life360 Circle?
 
 As the admin, you have the authority to remove someone from a Life360 Circle. The control ensures that you can manage the group dynamics and permissions.
@@ -166,6 +164,10 @@ While Life360 is designed for family safety, you can include non-family members 
 ### Is Circle Place Alerts Really That Useful?
 
 The Circle Place Alerts feature proves valuable for users. It allows predefined locations to trigger alerts when members enter or leave those areas. While useful for safety monitoring, its practicality may vary depending on individual preferences and needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What if People in the Circle Feel Micromanaged?
 
@@ -192,6 +194,10 @@ There are many situations where users might need to set up fake locations, for f
 Whatever your reason is to fake location on WhatsApp, you can use a third-party app for the job as long as it is legit.
 
 ## Part 2. All You Want to Know about WhatsApp Location Function
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.1 Send Location on WhatsApp
 
@@ -259,6 +265,10 @@ To start with, launch the Dr.Fone toolkit on your computer and launch the “Vir
 
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Using an authentic lightning cable, connect your Tecno Spark 20 to the computer and click on the “Get Started” button.
 
 ![connect your Tecno Spark 20 to the computer](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -295,11 +305,13 @@ Step 1: Activate the "One-Stop Route" or "Multi-Stop Route" feature from the top
 
 ![click one-stop route](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Afterward, select the trip type, number of rounds, and speed according to your requirements and press the “Start Moving” button to initiate the multi-stop route feature.
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
-
-
 
 ### 3.2 Fake location on WhatsApp using iTools location spoofer
 
@@ -317,6 +329,10 @@ Step 3: Now, launch the WhatsApp app and click on the Share Location option. The
 
 To get your real location back, you will have to reboot your Tecno Spark 20. But you can only do this only 3 times for free. Also, this trick works on any iPhone running on iOS 12 and older.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Use Location Faking App from Google Play (Android Specific)
 
 ### 4.1. How to Select a Good App to Fake Location?
@@ -330,9 +346,6 @@ The main purpose of using [third-party apps to fake locations](https://drfone.wo
 
 You can use [Fake GPS Location](https://play.google.com/store/apps/details?id=com.lexa.fakegps&&hl=en) (or any other app you see proper) to help fake WhatsApp locations on Android. You can also use any other app considered suitable. The operations are just similar.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4.2. How to Fake Your Location?
 
 You will be glad to know that it is not that hard to fake live location for WhatsApp if you are using the right application. Here, we will explore using the Fake GPS Location app to share a fake location.
@@ -352,6 +365,10 @@ Step 3: Now, open the app and search the location that you want to send. Once yo
 Step 4: Now, open WhatsApp and click on the Share location option. Choose the option whether you want to send your current location or you want to share your Live Location and press send.
 
 ![Live Location](https://images.wondershare.com/drfone/article/2019/10/share-fake-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you have shared the fake live location, remember to change it after 15 or 30 minutes.
 
@@ -382,8 +399,6 @@ One-click to transfer WhatsApp messages from One Device to Another Device.
 ## Conclusion
 
 Hopefully, now you know how to fake GPS on WhatsApp & how to identify the fake location. So, if you are planning to have some fun with a fake location, then you know what to do. Try [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) today and explore a world of possibilities! Let us know if someone was able to recognize that you shared a fake location. It is a useful feature undoubtedly, don’t forget to share it with people who need it.
-
-
 
 ## How to Change Tecno Spark 20 Location on Skout
 
@@ -427,8 +442,6 @@ The program will no longer take time and easily understand the location. It will
 
 ![spoof location for skout](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -468,6 +481,10 @@ If you are still comfortable using Cydia to change Skout location, let us move o
 **Step 4:** Use the map to adjust at the location you want to spoof.
 
 ![adjust location](https://images.wondershare.com/drfone/article/2019/11/cydia-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Now, you are done. Just open Skout and enjoy the new location.
 
@@ -522,7 +539,6 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 
 ![tinder plus](https://images.wondershare.com/drfone/article/2019/11/tinder+.jpg)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -535,9 +551,20 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-steam-playback-perfection-in-video-games-for-2024/"><u>[Updated] Steam Playback Perfection in Video Games for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capture-peak-performance-high-end-webcams-for-quality-live-streams-on-twitch/"><u>2024 Approved Capture Peak Performance High-End Webcams for Quality Live Streams on Twitch</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazfit-helio-ring-find-out-how-much-when-it-drops-and-whats-inside/"><u>Amazfit Helio Ring - Find Out How Much, When It Drops, and What's Inside!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-most-effective-free-dvd-converters-for-windows-users-complete-guide-with-downloads/"><u>Discover the Most Effective Free DVD Converters for Windows Users – Complete Guide with Downloads!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-realtek-alc887-audio-driver-conflicts-in-windows-systems/"><u>How to Fix Realtek ALC887 Audio Driver Conflicts in Windows Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-camon-20-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Camon 20 Pro 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-g54-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola G54 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/icloud-photo-sharing-made-easy-for-ios-windows-and-android-users/"><u>ICloud Photo Sharing Made Easy for iOS, Windows & Android Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nubia-red-magic-9-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nubia Red Magic 9 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-kodi-network-errors-failed-directory-access/"><u>Troubleshooting and Solving Kodi Network Errors: Failed Directory Access</u></a></li>
+</ul></div>
 

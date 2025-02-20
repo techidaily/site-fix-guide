@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Pause Life360 Location Sharing For Tecno Camon 20 Premier 5G | Dr.fone
-date: 2024-07-14T05:35:24.121Z
-updated: 2024-07-15T05:35:24.121Z
+date: 2025-02-17T16:52:12.364Z
+updated: 2025-02-20T16:11:10.828Z
 tags: 
   - virtual location change
   - social app
@@ -20,7 +20,6 @@ Life360 has become a household name in location-sharing apps, renowned for its a
 However, there are moments when you might crave a bit of privacy or a break from constant connectivity. Whether for a surprise, personal space, or a digital detox, the need to discreetly pause Life360 arises. This article delves into the nuances of **how to pause Life360**. It will also provide insightful tips on how to do it without alerting others.
 
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
-
 
 ## Part 1: What Is Life360 and How To Pause Life360 From the App
 
@@ -51,15 +50,27 @@ Open Life360 and go to the main screen. Select the Circle you want to pause. The
 
 ![location sharing life360 menu](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Pausing the Whole App
 
 Regarding this method, pausing the location sharing for all your circles usually involves going through your phone’s **S ettings** and disabling location services for Life360. If you don’t want to do that, you can turn off location sharing for all your circles through the steps provided above.
 
 By understanding and utilizing these features wisely, you can maintain your connection with your loved ones while managing your digital boundaries and battery health effectively. Remember, the aim is to balance connectivity with personal needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How To Pause Life360 From Settings
 
 Life360 offers flexibility within its app and through your device’s settings. Understanding how to use these options can provide additional control over location sharing. Explore the various ways **how to pause Life360** outside the app itself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pause Life360 From Android Settings
 
@@ -72,6 +83,10 @@ By selecting **Force Stop**, you temporarily halt the app’s function without u
 To **pause the Life360 location** on iOS, you’ll have to open the Settings app on your iOS device. Browse through your apps and select Life360. Alternatively, you can use the search bar and type “Life360”. Once in the app’s menu, change location services to **While Using** the App. Thus, it will not share your location unless you open the app.
 
 ![life360 ios settings](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pause by Using Airplane Mode
 
@@ -88,8 +103,6 @@ Each method serves a different purpose and offers varying levels of discretion. 
 ## Part 3: How To Pause Life360 With a Virtual Location Spoofer
 
 Sometimes, pausing your location sharing on Life360 may raise questions or concerns among your circle members, particularly if they are close family or friends. If you’re planning a surprise or need private time without arousing suspicion, a virtual location spoofer can be handy. This method will teach you **how to pause your location on Life360 without them knowing.**
-
-
 
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
 
@@ -114,8 +127,6 @@ This article explored various methods of **pausing location sharing on Life360**
 
 While it’s always recommended to maintain open communication with your Circle about pausing location sharing, there are times when privacy or surprise plans necessitate discretion. For those moments, Dr.Fone - Virtual Location emerges as a reliable solution for location spoofing and other phone management needs. Remember, using these tools responsibly is key to maintaining trust in your relationships.
 
-
-
 ## How To Leave a Life360 Group On Tecno Camon 20 Premier 5G Without Anyone Knowing?
 
 Do you keep asking yourself **how do I leave a Life360 group?** If so, you’re on the right page. In a world where connectivity is key, Life360 has emerged as a trusted family safety app. It provides a digital reach through its innovative location tracking “Circle.” However, sometimes, you might want to leave it without raising eyebrows.
@@ -136,6 +147,10 @@ The default method of leaving a Life360 Circle is straightforward but comes with
 
 ![life360 circle management option](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Choose the option **Leave Circle**. If you were the admin, ensure that you designated a new admin before leaving. Apart from that, the process is straightforward. Follow the on-screen instructions.
 
 ![life360 leave circle option](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-03.jpg)
@@ -148,9 +163,17 @@ Here’s **how to leave a circle in Life360** that you’re a part of. Here are 
 
 ![leaving circle where you are member](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Choose **Circle Management** from the list. Tap on **Leave Circle** at the bottom of the screen. Confirm your decision by selecting **Yes** in the popup. You’ll no longer be associated with the Circle, and it won’t appear in your Circles list. If you wish to rejoin, you’ll need a new invitation from the Circle Admin.
 
 ![leaving circle confirmation window](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How To Leave a Life360 Circle Without Anyone Knowing
 
@@ -171,8 +194,6 @@ One of the most effective and safe ways to trick Life360 without triggering noti
 
 Follow the steps below to learn **how to leave a Life360 Circle without anyone knowing** using Dr.Fone’s Virtual Location tool:
 
-
-
 - **Step 1:** Download and install Dr.Fone, then connect your Tecno Camon 20 Premier 5G via USB cable. Launch the tool from **Toolbox** > **Virtual** **Location**. Click **Get Started** to proceed.
 
 ![dr.fone connecting smartphone to computer](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
@@ -183,9 +204,6 @@ Follow the steps below to learn **how to leave a Life360 Circle without anyone k
 
 - **Step 3:** On the map, enter the number of movements and select **Round** or **Loop** trip. Adjust the speed, then click **Move Here** to start the simulation. **Pause** or clear to revert.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone simulate movement with map](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 - **Step 4:** To activate **Teleport Mode**, click the **Search** bar. Type a location and hit **Enter**. Click **Move Here** to change the smartphone location on the map. Verify on your smartphone’s maps application. Once done, you spoofed a Life360 circle without anyone knowing.
@@ -200,6 +218,10 @@ If Dr.Fone is unavailable, a simple tactic is to disable both mobile data and Wi
 
 - **Step 1:** Open your device settings. Go to **Connections** or **Network & Internet**.
 - **Step 2:** Disable both **mobile data** and **Wi-Fi**. Life360 will lose real-time tracking capability, but be cautious, as this may raise suspicion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Switching To Airplane Mode
 
@@ -231,12 +253,13 @@ Switching to “Battery saving” or “Power saving” mode can affect the freq
 
 - **Step 1:** Go to your device **Settings**. Look for the **Battery** option.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable battery saving mode](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-13.jpg)
 
 - **Step 2:** Enable **Battery saving** or **Power saving** mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 7: Getting a Burner Phone
 
@@ -260,6 +283,10 @@ Life360 notifies Circle members when someone leaves. The transparency feature ai
 
 While Life360 is designed for family safety, you can include non-family members in a Circle. The flexibility caters to scenarios where close friends or caregivers need to be part of the safety network.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Is Circle Place Alerts Really That Useful?
 
 The Circle Place Alerts feature proves valuable for users. It allows predefined locations to trigger alerts when members enter or leave those areas. While useful for safety monitoring, its practicality may vary depending on individual preferences and needs.
@@ -274,9 +301,6 @@ Leaving a Life360 Circle can be achieved through the standard method. However, i
 
 The platform is proficient in location spoofing without alerting the Circle. Whether addressing privacy concerns or aiming for a quick escape, Dr.Fone proves its worth. It’s the preferred choice if you google the question, “**How do I leave a life360 group** online.” Ensure a seamless alone time without notifying other members.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Change Tecno Camon 20 Premier 5G Location on Skout
 
 When it comes to dating application or website, Skout has made its appearance in this regard a long way back. The app was founded in 2007 and offers a platform to help you get connected with the people. You can use Skout either on your Tecno Camon 20 Premier 5G or an iOS device. The main function of the app is that it takes help of your device’s global positioning system (GPS) and lets you find the users in a specific radius where you are.
@@ -295,9 +319,6 @@ From the original website of dr.fone – Virtual Location (iOS), download it on 
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launch virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Plug iPhone to PC**
@@ -321,8 +342,6 @@ Now, from the three icons available at the upper right side of the page, click o
 The program will no longer take time and easily understand the location. It will display a pop-up from where you need to click on the “Move Here” button. The location will be successfully changed now. You can now see the changed or spoofed location on your Tecno Camon 20 Premier 5G easily.
 
 ![spoof location for skout](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -386,9 +405,6 @@ If you are an Android user and wondering how to change your location on Skout, a
 
 **Step 5:** Now, you will be directed to the Developer options page. Here, choose “Select mock location app” and tap on “FakeGPS Free” subsequently.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select mock location app](https://images.wondershare.com/drfone/article/2019/11/select-mock-location-app-2.jpg)
 
 **Step 6:** Now, get back to the Fake GPS app and the look for the route that you want to spoof. Press on the Play button and you are good to go. Your location will be changed on Skout.
@@ -420,7 +436,6 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
 
 ![tinder plus](https://images.wondershare.com/drfone/article/2019/11/tinder+.jpg)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -433,9 +448,26 @@ However, when you use Tinder +, you may feel it to be an expensive deal. On the 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-netflix-and-youtubers-how-jake-paul-succeeded/"><u>[New] 2024 Approved Navigating Netflix & YouTubers How Jake Paul Succeeded</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/harting-your-financial-course-the-3-step-methodology-for-estimating-youtube-income/"><u>[New] Charting Your Financial Course The 3-Step Methodology for Estimating YouTube Income</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-color-cutting-edge-the-basics-of-green-screen-filming-for-newbies/"><u>[New] In 2024, Color Cutting Edge The Basics of Green Screen Filming for Newbies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-insta-marketing-dynamo-crafting-winning-strategies-with-videos-on-social-media/"><u>[New] In 2024, Insta-Marketing Dynamo Crafting Winning Strategies with Videos on Social Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-summit-masterpiece-lab-check/"><u>[Updated] Summit Masterpiece Lab Check</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-free-openai-inspired-ais-outside-of-sora/"><u>Explore Free, OpenAI-Inspired AIs Outside of Sora</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-nvidia-graphics-card-drivers-compatible-downloads-for-windows-7-to-10/"><u>Free NVIDIA Graphics Card Drivers: Compatible Downloads for Windows 7 to 10</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1752771-9781618520791-heads-up-dreaming/"><u>Heads-Up Dreaming | Free Book</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-nokia-c12-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Nokia C12 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edge-40-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-tecno-spark-20-proplus-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Tecno Spark 20 Pro+? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c65-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C65 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-play-40c-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor Play 40C Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/standing-and-resolving-the-issue-of-missing-shorts-thumbnails/"><u>Understanding & Resolving the Issue of Missing Shorts Thumbnails</u></a></li>
+</ul></div>
 

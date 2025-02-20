@@ -1,7 +1,7 @@
 ---
 title: How to Send and Fake Live Location on Facebook Messenger Of your Itel P55T | Dr.fone
-date: 2024-07-14T05:34:30.044Z
-updated: 2024-07-15T05:34:30.044Z
+date: 2025-02-19T16:28:24.163Z
+updated: 2025-02-20T16:39:08.215Z
 tags: 
   - virtual location change
   - social app
@@ -36,6 +36,10 @@ Your online security is paramount. And one way to protect yourself from online s
 - **Make new friends**
 
 Often, Facebook will tailor its friend suggestions to people close to your proximity, thanks to the "Nearby Friends" feature. But you can start getting new and refreshing tips from people in your new location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change Location on Facebook Messenger
 
@@ -99,6 +103,10 @@ The issue of the wrong Facebook location is commonplace these days. Fortunately,
 
 Open Settings > Privacy > Location Services for iPhone users and then enable Location Services. On the other hand, Android users should click Settings > Security and Location > Locations > and enable Use Locations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Can I fake my location on Facebook?
 
 In a typical scenario, it's impossible to lie about your location on Facebook. That's because the app asks for permission to track your GPS location before you can use it. But as you've seen, Wondershare Dr.Fone makes it a cakewalk to a fake live location on Messenger.
@@ -112,8 +120,6 @@ As said earlier, the reason why Facebook gives the wrong location is because of 
 Any queries regarding how to send a fake location on Messenger? Let us know if you have any. Meanwhile, use Messenger's inbuilt location feature to share an artificial place with a friend or contact. But because this method only allows you to share fake locations with a single chat, use Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) instead. It's simple, fast, and effective. Are you ready?
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
-
-
 
 ## 3 Things You Must Know about Fake Snapchat Location On Itel P55T
 
@@ -149,9 +155,6 @@ Snapchat includes the voice and video call feature that could help you to connec
 
 The story feature that Snapchat includes is best as it could help you to broadcast your latest snap. The story format only lasts for twenty-four hours. This story features allow you to connect and effectively engage your users easily.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![snapchat story](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-5.jpg)
 
 - **Filters**
@@ -159,6 +162,10 @@ The story feature that Snapchat includes is best as it could help you to broadca
 Snapchat comes with an amazing feature that is called as filters. It includes many best filters that you must check to get the best results. These effective filters could be used to increase usage and connect with the audience effectively.
 
 ![snapchat filters](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Ways to Fake Snapchat Location
 
@@ -179,6 +186,10 @@ If you are an iOS user and wish to fake location for a Snapchat map, [Dr.Fone-Vi
 **Step 2:** Connect your Itel P55T to the PC using the lightening cord and click on the “Get Started” option.
 
 ![click get started option](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Now, you will be able to check your current actual location of yours on the map. After this, you need to activate the “Teleport mode”. This will be the third icon located on the right side of the screen.
 
@@ -216,6 +227,10 @@ For Android people, many fake GPS apps can help them. Since dr.fone doesn’t su
 
 ![set fgl as mock location app](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7:** Open the app now and set the desired location. Tap on the “Play” button, and you’re good to go.
 
 ![tap on play button](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-11.jpg)
@@ -224,9 +239,6 @@ For Android people, many fake GPS apps can help them. Since dr.fone doesn’t su
 
 The second effective method to Snapchat fake location is through the help of a VPN. There are a lot of options when it comes to VPN. However, you can choose Surshark if you can’t decide whether it is one of the best VPN that comes with build-in fake GPS tech. It is the cheapest and the VPN that provides you with the perfect way to enhance your Snapchat experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use vpn for snapchat location](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-12.jpg)
 
 ### Method 3: Using Xcode
@@ -243,9 +255,6 @@ The third method of fake GPS for Snapchat includes Xcode. Through Xcode, you cou
 
 **Step 3:** Provide a name to the project and hit “Next”.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![provide a name](https://images.wondershare.com/drfone/virtual-loaction/fake-snapchat-location-15.jpg)
 
 **Step 4:** Now, you must set up GIT on Xcode. You will notice a screen showing “Please tell me where you are” and the commands.
@@ -275,8 +284,6 @@ Some of the Snapchat spoof does not work immediately and may also provide you wi
 
 Many different tools could help you to spoof Snapchat. But you must always prefer to choose the right one that could perfectly meet your needs. And it could provide you with the best experience of using Snapchat without any difficulty.
 
-
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -289,9 +296,6 @@ Many different tools could help you to spoof Snapchat. But you must always prefe
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Leave a Life360 Group On Itel P55T Without Anyone Knowing?
 
 Do you keep asking yourself **how do I leave a Life360 group?** If so, you’re on the right page. In a world where connectivity is key, Life360 has emerged as a trusted family safety app. It provides a digital reach through its innovative location tracking “Circle.” However, sometimes, you might want to leave it without raising eyebrows.
@@ -304,6 +308,10 @@ Whether it’s a matter of privacy or a brief escape, the art of leaving a Life3
 
 Life360 has become a household name. It’s a digital haven for families to stay connected through its “Circle.” The Circle functions as a virtual space where family members’ locations are shared. While this can be beneficial, there are times when you wish to leave a Circle for personal reasons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Leave a Life360 Circle You Created
 
 The default method of leaving a Life360 Circle is straightforward but comes with a catch. All members within the Circle are notified when someone leaves. The notification serves as a built-in transparency feature. It keeps everyone aware of any changes in the group dynamics. Follow the steps on **how to leave Circle in Life360** when you created it yourself:
@@ -312,9 +320,17 @@ The default method of leaving a Life360 Circle is straightforward but comes with
 
 ![life360 circle management option](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Choose the option **Leave Circle**. If you were the admin, ensure that you designated a new admin before leaving. Apart from that, the process is straightforward. Follow the on-screen instructions.
 
 ![life360 leave circle option](https://images.wondershare.com/drfone/article/2024/01/leave-life360-group-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Leave a Life360 Circle You’re a Part Of
 
@@ -347,8 +363,6 @@ One of the most effective and safe ways to trick Life360 without triggering noti
 
 Follow the steps below to learn **how to leave a Life360 Circle without anyone knowing** using Dr.Fone’s Virtual Location tool:
 
-
-
 - **Step 1:** Download and install Dr.Fone, then connect your Itel P55T via USB cable. Launch the tool from **Toolbox** > **Virtual** **Location**. Click **Get Started** to proceed.
 
 ![dr.fone connecting smartphone to computer](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
@@ -361,15 +375,16 @@ Follow the steps below to learn **how to leave a Life360 Circle without anyone k
 
 ![dr.fone simulate movement with map](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** To activate **Teleport Mode**, click the **Search** bar. Type a location and hit **Enter**. Click **Move Here** to change the smartphone location on the map. Verify on your smartphone’s maps application. Once done, you spoofed a Life360 circle without anyone knowing.
 
 ![dr.fone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 The next method can serve as a last resort if using Dr.Fone is impossible. Be aware that they come with the trade-off of notifying other Circle members. Maintaining open communication within the Circle is crucial. Do these alternatives only when it’s necessary for your privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Turning Off Mobile Data and Wi-Fi
 
 If Dr.Fone is unavailable, a simple tactic is to disable both mobile data and Wi-Fi.
@@ -425,6 +440,10 @@ Life360’s Circle feature serves as the cornerstone of the app. It fosters conn
 
 As the admin, you have the authority to remove someone from a Life360 Circle. The control ensures that you can manage the group dynamics and permissions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Know if Someone Leaves the Circle?
 
 Life360 notifies Circle members when someone leaves. The transparency feature aims to keep everyone informed about changes within the group.
@@ -447,7 +466,6 @@ Leaving a Life360 Circle can be achieved through the standard method. However, i
 
 The platform is proficient in location spoofing without alerting the Circle. Whether addressing privacy concerns or aiming for a quick escape, Dr.Fone proves its worth. It’s the preferred choice if you google the question, “**How do I leave a life360 group** online.” Ensure a seamless alone time without notifying other members.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -460,9 +478,21 @@ The platform is proficient in location spoofing without alerting the Circle. Whe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-perpetual-screen-moments-tool/"><u>[Updated] In 2024, Perpetual Screen Moments Tool</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-barriers-in-text-animation-with-no-cost-tools/"><u>2024 Approved Breaking Barriers in Text Animation with No-Cost Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hp-477dw-printer-software-compatible-with-win11-win10-and-win8/"><u>Get Your HP 477DW Printer Software: Compatible with Win11, Win10 and Win8</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-on-pc-how-to-diagnose-and-repair-frequent-game-crashes/"><u>Guilty Gear Strive on PC - How to Diagnose and Repair Frequent Game Crashes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-startups-guide-to-earnings-on-youtube-platform/"><u>In 2024, Startups' Guide to Earnings on YouTube Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-video-edits-meet-the-top-19-expert-editors-shaping-202e4s-visual-landscape/"><u>Mastering Video Edits: Meet the Top 19 Expert Editors Shaping 202E4's Visual Landscape</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactivate-laptop-soundscape-expert-advice-for-solving-audio-problems/"><u>Reactivate Laptop Soundscape: Expert Advice for Solving Audio Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-dev-error-5573-on-pc-and-console-for-call-of-duty-warzone/"><u>Ultimate Guide: Resolving Dev Error 5573 on PC and Console for Call of Duty: Warzone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Pause Life360 Location Sharing For Infinix Smart 8 HD | Dr.fone
-date: 2024-07-14T05:32:38.714Z
-updated: 2024-07-15T05:32:38.714Z
+date: 2025-02-15T16:31:32.812Z
+updated: 2025-02-20T16:43:06.865Z
 tags: 
   - virtual location change
   - social app
@@ -21,10 +21,13 @@ However, there are moments when you might crave a bit of privacy or a break from
 
 ![life360 location map](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-01.jpg)
 
-
 ## Part 1: What Is Life360 and How To Pause Life360 From the App
 
 Life360 is not just an app; it’s a digital lifeline connecting people with their loved ones. It’s primarily designed for family and close friends. By offering real-time location sharing, it ensures that members of your “Circle” (a group within the app) know where you are at any given moment. This feature is handy for parents monitoring their children’s whereabouts or friends coordinating meet-ups.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Purpose of Life360
 
@@ -41,6 +44,10 @@ However, there are instances where learning **how to pause Life360** becomes nec
 - **Battery health**. Constant GPS tracking can drain your phone’s battery significantly. Temporarily pausing the app can help conserve battery life.
 - **Privacy**. Sometimes, you might want some privacy about your location. Thus, some people would like to pause their Life360 location sharing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Methods To Pause Life360 From the App
 
 Now, the question is, **can you pause your location on Life360?** Pausing Life360 can be done for a specific circle or the entire app. This section will show you some general steps to pause your location for the app. You can do it only for a specific circle or the whole app. Here’s how you can do those.
@@ -50,6 +57,10 @@ Now, the question is, **can you pause your location on Life360?** Pausing Life36
 Open Life360 and go to the main screen. Select the Circle you want to pause. Then, tap on Settings (usually represented by a gear icon) in the upper-right corner. Look for an option like **Location Sharing** and toggle it off. This action pauses your location sharing only for the selected Circle.
 
 ![location sharing life360 menu](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Pausing the Whole App
 
@@ -62,8 +73,9 @@ By understanding and utilizing these features wisely, you can maintain your conn
 Life360 offers flexibility within its app and through your device’s settings. Understanding how to use these options can provide additional control over location sharing. Explore the various ways **how to pause Life360** outside the app itself.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Pause Life360 From Android Settings
 
 First, navigate to your Infinix Smart 8 HD’s **Settings**. Then, look for the section listing all installed apps. This is usually named as “Apps.” Locate Life360 on the list of apps and open it. You should be able to see a **Force Stop** button at the bottom of the screen.
@@ -82,6 +94,10 @@ This can be done from the quick settings panel on both Android and iOS devices. 
 
 ![airplane mode ios](https://images.wondershare.com/drfone/article/2024/01/how-to-pause-life360-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pause by Uninstalling
 
 Removing the app from your device will stop it from sharing your location. The beauty of this method is that it won’t automatically notify your circles or remove you from them. However, some members might notice that your location updates are unavailable.
@@ -91,8 +107,6 @@ Each method serves a different purpose and offers varying levels of discretion. 
 ## Part 3: How To Pause Life360 With a Virtual Location Spoofer
 
 Sometimes, pausing your location sharing on Life360 may raise questions or concerns among your circle members, particularly if they are close family or friends. If you’re planning a surprise or need private time without arousing suspicion, a virtual location spoofer can be handy. This method will teach you **how to pause your location on Life360 without them knowing.**
-
-
 
 [Wondershare’s Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) toolkit is more than just a data recovery solution. Among its various features, the Virtual Location changer is particularly useful for those looking to spoof their location. This feature allows you to simulate being in a specific location without actually being there. It’s a clever way to maintain privacy or plan a surprise without giving away your real whereabouts.
 
@@ -117,11 +131,6 @@ This article explored various methods of **pausing location sharing on Life360**
 
 While it’s always recommended to maintain open communication with your Circle about pausing location sharing, there are times when privacy or surprise plans necessitate discretion. For those moments, Dr.Fone - Virtual Location emerges as a reliable solution for location spoofing and other phone management needs. Remember, using these tools responsibly is key to maintaining trust in your relationships.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Feasible Ways to Fake Location on Facebook For your Infinix Smart 8 HD
 
 There are many reasons to **fake location on Facebook**. For example, you may want to hide your ideal address and protect your safety. Also, you might want to change the Facebook location to get better search results for products, friends, groups, and so on. But whichever the case, creating a **fake GPS on Facebook** is relatively easy. So, in this post, I want to introduce you to several methods to spoof your Facebook location quickly and easily.
@@ -190,9 +199,6 @@ Here is a video tutorial for you to learn and preview how to fake location on Fa
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 Below is how to fake location on Facebook for Android and iPhone using Dr.Fone:
@@ -217,11 +223,19 @@ The Virtual Location map will launch after successfully connecting your smartpho
 
 ![changing location completed](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Wrap it up
 
 See, you don't need an expensive VPN service to fake your GPS location on Facebook convincingly. With Dr.Fone, you can easily change your Infinix Smart 8 HD or iPhone location, which will immediately reflect on apps like Facebook, Google Maps, Telegram, and so on. And guess what? There are a host of other phone management features to exploit. You should try it!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Edit and Send Fake Location on Telegram For your Infinix Smart 8 HD in 3 Ways
 
@@ -272,6 +286,10 @@ Install and run Dr.Fone on your PC and then connect your smartphone to your comp
 
 ![connect the software with Wi-Fi without an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next, open your smartphone’s Settings app and enable USB debugging to connect it to Dr.Fone. Fortunately, this program comes with a simple guide for all iOS and Android versions.
 
 **Pro tip:** If you’re an Android user, click Settings> Additional Settings> Developer options> USB debugging. Also, remember to choose Dr.Fone under the “Select mock location app” section.
@@ -281,8 +299,6 @@ Next, open your smartphone’s Settings app and enable USB debugging to connect 
 ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 After successfully connecting your device to Dr.Fone, tap **Next** to open the Virtual Location map. Now enter the **Teleport Mode** and key in the GPS coordinates or location you want to move to. Alternatively, simply tap a spot on the map and click **Move Her**e. And there is that!
-
-
 
 ### Method 2: Fake a live telegram location via VPN (Android & iOS)
 
@@ -306,10 +322,11 @@ Step 2. Next, open **Additional Settings** and choose **Developer options** on y
 
 Step 3. Now launch the app and choose your new GPS location. If satisfied, simply tap the green **Play** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Part 3. FAQs About Creating a Fake GPS on Telegram?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q1: Can my friends know when I fake a Telegram location?
 
@@ -319,19 +336,19 @@ Unfortunately, you can easily detect if someone is faking their Telegram GPS loc
 
 You’ll be surprised to learn that Telegram offers better security features than WhatsApp. This platform encrypts messages between you and the server, meaning that no one else can access your chats. For WhatsApp, the jury is still out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q3: Can I spoof location on iPhone?
 
 Sadly, creating a Telegram fake location on iPhone isn’t as straightforward as Android. In other words, you can’t just install a GPS app from Play Store and enjoy the new sites. So, use a program like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) or purchase a VPN service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
 There you go; you can now create a new Telegram location to prank your friends or make new circles using a premium VPN service like ExpressVPN. However, VPN monthly subscriptions can empty your wallet. So, use a pocket-friendly and reliable option like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to easily fake GPS location on Android and iPhone. Give it a try!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -345,9 +362,26 @@ There you go; you can now create a new Telegram location to prank your friends o
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-optimal-filter-pack-for-oceanic-video-shooting/"><u>[New] In 2024, Optimal Filter Pack for Oceanic Video Shooting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-innovative-14-examples-of-moving-text-art-for-2024/"><u>[New] Innovative 14 Examples of Moving Text Art for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-choosing-the-right-fps-30-or-60-which-is-better-in-2024/"><u>[Updated] Choosing the Right FPS 30 or 60, Which Is Better, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-step-into-retro-gaming-with-top-5-ps1-emulators-for-pc/"><u>[Updated] In 2024, Step Into Retro Gaming with Top 5 PS1 Emulators for PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterpiece-models-best-of-the-computer-world/"><u>2024 Approved Masterpiece Models Best of the Computer World</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ev-lifespan-do-they-last-as-long-as-gasoline-cars/"><u>EV Lifespan: Do They Last as Long as Gasoline Cars?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-13-pro-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 13 Pro Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-itel-a70-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Itel A70 Phones? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-z-fold-5-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy Z Fold 5 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m14-4g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M14 4G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-data/"><u>The way to get back lost data from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016924625-trouble-with-your-pcs-mic-on-windows-7-top-fixes-to-get-you-talking-again/"><u>Trouble with Your PC's Mic on Windows 7? Top Fixes to Get You Talking Again!</u></a></li>
+</ul></div>
 

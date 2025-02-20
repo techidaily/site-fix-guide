@@ -1,7 +1,7 @@
 ---
 title: Does find my friends work on Tecno Phantom V Flip | Dr.fone
-date: 2024-07-14T05:36:04.273Z
-updated: 2024-07-15T05:36:04.273Z
+date: 2025-02-18T16:04:15.535Z
+updated: 2025-02-20T16:56:17.002Z
 tags: 
   - virtual location change
   - social app
@@ -19,12 +19,8 @@ Find my friends app is becoming a norm for most people. The Smartphone and app d
 
 ![find my friends app](https://images.wondershare.com/drfone/2023/virtuallocation/find-my-friends-app.jpg)
 
-
 ## Part1: How to track friends using iPhone or Android
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.1 Tracking Friends using iPhone
 
 As an Apple user, you might already know about the "Find my friends" app on your device. It is the most convenient way to share your location with your friends. You can also keep track of your peers with it. If you ever feel lost in a new area, you can use this app to notify your friends. You can use this app to create a route for all to meet in a selected location. If your friends are heading toward the destination, the app will notify you.
@@ -57,6 +53,10 @@ You can use find my friends from iPhone to an android user via Google Maps. You 
 
 ![Using Google map](https://images.wondershare.com/drfone/2023/virtuallocation/Using-Google-map.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part2: 3 best find my friends apps compatible both Android and iPhone
 
 You have the preliminary idea of how one can find their friends using an iPhone or Android. But, how to keep track of all of your friends, while some of them are die-hard apple fanatics and others are android geeks? Well, you do not need to tell others about those anymore, as we are going to talk about three fabulous cross-platform apps for finding friends.
@@ -75,6 +75,10 @@ Familo is the best working "finding friend" app. The app is regularly updated, a
 
 ![familio app](https://images.wondershare.com/drfone/2023/virtuallocation/familio-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.3 Glympse
 
 What makes Glympse different from others is the fact that you don't even need to sign up here! You can set up a group for a specific time, and share your location to anyone you want to. You can even share your places via the web. If you wish to track your friends temporarily or contact someone for a specific period, Glympse is the right choice for you. And, if someone is not comfortable with the idea of location sharing, you can send your location via the web. They can use the shared link to know your area without ever installing the app. But, if you want to check up on your loved ones continually, then Glympse cannot satisfy your demand. As a temporary service, your location sharing link will be activated for four hours at most.
@@ -85,8 +89,6 @@ What makes Glympse different from others is the fact that you don't even need to
 
 Remember, there are several other find my friends apps in the app store, which can entice you. Some of them have pretty neat features. But, they can drain your battery too fast; others can be pretty limited on their free version. And, many of find my friends apps are partial to either iPhone or Android. But, why not try them out yourself? Everybody’s needs and tastes are different. Give my three favorite find my friend apps for Android and iPhone a try, if they suit you, great. If not, there are more options. Find one for you and keep a "leash" on your loved ones!
 
-
-
 ## How To Activate and Use Life360 Ghost Mode On Tecno Phantom V Flip
 
 Life360 is a popular location-sharing app among families and friends. The platform enables real-time tracking of loved ones’ whereabouts on smartphones. But there are moments when you might want to disable it for privacy.
@@ -94,6 +96,10 @@ Life360 is a popular location-sharing app among families and friends. The platfo
 If you’re intrigued by maintaining privacy on Life360, read on further. Learn how to activate the **Life360 Ghost Mode**. It’s a valuable feature when you need personal space without alerting your family or friends. Uncover the steps to use **Ghost Mode in Life360** through a location-sharing app. Enjoy a balance between staying connected and maintaining your privacy.
 
 ![man using gps vector](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. What Does Life360 Ghost Mode Mean?
 
@@ -112,11 +118,6 @@ Now that you know all of **Life360 Ghost Mode updates** and their significance, 
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile tool for enhancing privacy. With its key features, you can activate **Life360’s Ghost Mode**. It offers great control over your GPS location. Here are the key features of Dr.Fone to maximize Ghost Mode.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 - **Spoof your location without leaving home**
@@ -154,6 +155,10 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 - **Step 4**: Activate **Teleport Mode** by choosing the first icon in the top-right. Enter your desired location in the **Search** bar, press **Enter**, and confirm on the map. Click **Move Here** to change your smartphone’s location. Ensure alignment with the spoofed location on your computer. You are now under **Life360 Ghost Mode**.
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Will Others Know if Ghost Mode Is Activated on Life360?
 
@@ -199,6 +204,10 @@ Disabling WiFi and data on Life360 is a common method to prevent location tracki
 
 ![turning off life360 wifi and data](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: In **Settings**, locate Life360 Disable **Cellular Data**, **Background Refresh**, and **Motion & Fitness**. Once done, the Life360 location will then remain static at the current position.
 
 ### Method 2: Dsiable Location Services for Life360
@@ -209,6 +218,10 @@ Disabling location services provides an effective solution for pausing Life360 w
 - **Step 1 (Android):** Go to **Settings** > **Apps** > **Life360**.
 
 ![turning off life360 location services](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
 - **Step 2 (iOS):** Tap on it and opt for **Never** to turn off location access for Life360.
@@ -265,10 +278,11 @@ The process of detecting mSpy varies from different phone systems, Android or iP
 
 For detecting mSpy on an Android phone, that'll be more direct if you check Update Service through the phone settings. Follow these steps:
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android settings](https://images.wondershare.com/drfone/article/2022/02/android-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Step 1: Go to your Tecno Phantom V Flip **phone settings**.
 - Step 2: Select **Security**.
@@ -310,8 +324,9 @@ Some signs can come in handy when you want to ensure if someone is spying on you
 When you figure out that somebody is spying on your device, the first thing that comes to your mind is how to stop it. If someone has installed mSpy on your device, you can easily control the process. This section will mention the complete process of stopping mSpy on your device. Like the spying app detection process, the spying app removal process is also different in the case of iPhone and Android devices. Below we have mentioned the complete processes of removing mSpy from your Tecno Phantom V Flip and iPhone device. There are two ways that you can use to remove this app from your devices
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Prevent mSpy from Spying via Phone Settings App
 
 To remove mSpy from your Tecno Phantom V Flip manually, one needs to **activate two-factor authentication and change your iCloud password.**
@@ -389,16 +404,15 @@ Take a look at the video below to quickly learn how to spoof location to stop mS
 
 **Step 6:** Click **"Move Here"** in the popup box.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 7:** The location is fixed to Rome, Italy, whether you tap the "Centre On" icon or try to locate yourself on your Tecno Phantom V Flip or Android phone. It will be the exact location in your location-based app as well.
 
 ![changing location completed](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Your Last Resort: Do a Factory Reset
 
@@ -412,8 +426,6 @@ Check phone settings app-reset options and clear out all the data from your phon
 - **Step 4:** Click on **factory reset.**
 
 Or you can also make use of a third-party app - Dr.Fone - Data Eraser to wipe out data in some clicks
-
-
 
 ### Dr.Fone - Data Eraser
 
@@ -439,6 +451,10 @@ Basically, it could be extremely hard to remotely install phone surveillance sof
 
 Sadly yes. According to What Whistleblower Edward Snowden has said in a 2014 interview that the NSA could listen to and spy on conversations using the microphone on a smartphone, even if you turn off your devices. It makes it by using spyware that prevents your smartphone from actually turning off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q3: Can Someone Read My WhatsApp Chats on My Cell Phone?
 
 Sadly, yes. While it isn't possible on iOS devices, apps can intercept your WhatsApp messages on Android devices due to the operating system's sandboxing security.
@@ -453,7 +469,6 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -466,9 +481,26 @@ In the 21<sup>st</sup> century, when the world is connected through one device, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-quick-guide-retrieving-past-reddit-threads-instantly/"><u>[Updated] 2024 Approved Quick Guide Retrieving Past Reddit Threads Instantly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-insta-success-when-to-share-your-content/"><u>[Updated] 2024 Approved Unlocking Insta Success When to Share Your Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-apk-masterclass-enjoy-funimate-on-android/"><u>2024 Approved APK Masterclass Enjoy Funimate on Android</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/echoes-of-harmony-in-a-social-sphere/"><u>Echoes of Harmony in a Social Sphere</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-tecno-pova-6-pro-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Pova 6 Pro 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-infinix-zero-5g-2023-turbo-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Infinix Zero 5G 2023 Turbo for Free? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-v29-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo V29? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-magic-5-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic 5 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-note-12-4g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi Note 12 4G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-c53-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme C53 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211439302-9798330345380-sceptres-brises/"><u>SCEPTRES BRISÉS | Free Book</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplifying-subtitle-access-three-ways-to-download-youtubes-srt-captions-for-2024/"><u>Simplifying Subtitle Access Three Ways to Download YouTube's SRT Captions for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbo-type-tips-quick-key-input-enhancements-for-win-1011/"><u>Turbo-Type Tips: Quick Key Input Enhancements for Win 10/11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-free-video-editing-apps-with-special-effects-for-ios-and-android/"><u>Updated 2024 Approved Top Free Video Editing Apps with Special Effects for iOS and Android</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-15-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 15?</u></a></li>
+</ul></div>
 

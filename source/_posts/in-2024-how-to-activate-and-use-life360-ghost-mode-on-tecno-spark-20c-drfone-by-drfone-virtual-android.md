@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Activate and Use Life360 Ghost Mode On Tecno Spark 20C | Dr.fone
-date: 2024-07-14T05:36:28.728Z
-updated: 2024-07-15T05:36:28.728Z
+date: 2025-02-15T16:35:27.154Z
+updated: 2025-02-20T16:14:33.059Z
 tags: 
   - virtual location change
   - social app
@@ -21,6 +21,10 @@ If you’re intrigued by maintaining privacy on Life360, read on further. Learn 
 
 ![man using gps vector](https://images.wondershare.com/drfone/article/2024/01/ghost-mode-life360-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. What Does Life360 Ghost Mode Mean?
 
 **Life360 Ghost Mode** is a workaround and not an official feature. It’s an unofficial term for those who hide or spoof their GPS location within the Life360 platform.
@@ -37,8 +41,6 @@ Now that you know all of **Life360 Ghost Mode updates** and their significance, 
 ## Part 2. How To Activate Ghost Mode on Life360
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Virtual Location is a versatile tool for enhancing privacy. With its key features, you can activate **Life360’s Ghost Mode**. It offers great control over your GPS location. Here are the key features of Dr.Fone to maximize Ghost Mode.
-
-
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
@@ -64,14 +66,15 @@ Follow these step-by-step instructions to activate **Ghost Mode on Life360** usi
 
 - **Step 1:** Download and install Dr.Fone on your computer. Launch the app and connect your smartphone. Next, click on **Toolbox** > **Virtual** **Location**. Click **Get Started** and tick the **I am aware of the disclaimer** box.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/vl-connect-ios-2.png)
 
 - **Step 2:** Follow the on-screen instructions. Once connected, click **Manage Device** to control your location without moving. Choose the “One-Stop Route” function from the top right. Tap anywhere on the map to set your destination.
 
 ![dr.fone connecting to smartphone](https://images.wondershare.com/drfone/guide/vl-connect-android-ios-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: Input the number of movements, and select **Round** or **Loop** **trip**. Adjust the walking speed and click **Move Here** to start the simulation. You can **Pause** or **Clear** at any point to start again.
 
@@ -105,6 +108,10 @@ Here are the pros of using **Ghost Mode on Life360**.
 - **Freedom of movement.**Offers freedom in activities without constant location tracking.
 - **Privacy control**. You have control over when and how you share your location information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cons of Ghost Mode Activation
 
 Here are some unwanted scenarios if you’re under **Life360 Ghost Mode**.
@@ -127,6 +134,10 @@ Disabling WiFi and data on Life360 is a common method to prevent location tracki
 
 - **Step 2**: In **Settings**, locate Life360 Disable **Cellular Data**, **Background Refresh**, and **Motion & Fitness**. Once done, the Life360 location will then remain static at the current position.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Dsiable Location Services for Life360
 
 Disabling location services provides an effective solution for pausing Life360 without detection, The method applies to both Android and iOS devices. Here’s how:
@@ -138,6 +149,10 @@ Disabling location services provides an effective solution for pausing Life360 w
 
 - **Step 2 (Android):** Tap **Permissions** > **Location**. Choose **Deny** or **Ask every time** to deactivate location access for Life360.
 - **Step 2 (iOS):** Tap on it and opt for **Never** to turn off location access for Life360.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Low Data Mode
 
@@ -159,6 +174,10 @@ Activating Airplane Mode deactivates all network connections. It includes GPS, o
 
 **For Android**: Swipe your screen to access the quick settings menu. Tap the airplane icon to enable **Airplane Mode**. Alternatively, go to **Settings** > **Airplane Mode**. Toggle the switch beside it **On**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5: Use a Burner Phone
 
 While it may seem cumbersome, using a burner phone is a straightforward method to disable location sharing on Life360. Install Life360 on the burner phone using the same account. Connect it to the relevant WiFi, and then remove Life360 from your primary device.
@@ -166,6 +185,10 @@ While it may seem cumbersome, using a burner phone is a straightforward method t
 ### Method 6: Use a VPN Service
 
 Using a VPN service alters your IP address, which can help spoof Life360 to show an inaccurate location. The approach is beneficial when you aim to conceal your location without entirely turning off location sharing. Remember, though, that it’s not foolproof and may not provide consistent results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -219,9 +242,6 @@ Step 1. Open Facebook on your favorite browser and tap the "**What's on your min
 
 Step 2. Next, tap the GPS icon. You'll see all the locations near you. Or, key in a fake address and select it on the suggestions.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fake address and tap gps icon](https://images.wondershare.com/drfone/article/2022/02/fake-gps-location-on-facebook-03.jpg)
 
 Step 3. Now write whatever is on your mind and add the location to your latest post. It's that easy!
@@ -278,7 +298,6 @@ See, you don't need an expensive VPN service to fake your GPS location on Facebo
 
 Snapchat is an Android/iOS messaging app developed in 2011. Currently, this app is home to 350+ users who share photos, videos, audio, texts, emojis, GIFs, and documents. But one of the most exciting Snapchat features is allowing users to share locations, whether fake or real. For instance, you might want to protect your privacy or simply prank your friends with a new location. So, whichever the reason, we'll show you **how to add a location filter on Snapchat** effortlessly. You'll also know **how to add a fake location filter on Snapchat**. Let's learn!
 
-
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/6W-qXnzg8kA"></iframe>
 
 ## Part 1: What are Location Filters on Snapchat?
@@ -287,9 +306,6 @@ If you're an avid Snapchatter, you must have heard of "Snapchat Location Filters
 
 Having said that, Snapchat is famous for its myriad of filters, including geofilters. So, before sharing a post, you can choose an overlay design describing your location. Just remember that some places can have more filter options than others. So, keep reading to know **how to get a location filter on Snapchat**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to enable/disable and share Location Filters on Snapchat posts?
 
 First and foremost, creating a Snapchat location filter on Android or iPhone is super-duper easy. However, to share your location on Snapchat posts, you must activate this setting within the app. Also, enable the location service on your smartphone. On Android, open Settings > Location, whereas on iPhone, click Settings > Privacy > Location Services.
@@ -318,6 +334,10 @@ Now that this setting is enabled on Snapchat, you can add your location filter e
 
 ![how to add location filter on Snapchat share location](https://images.wondershare.com/drfone/article/2022/03/how-to-add-location-filter-on-snapchat-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Change or Add a Fake Location on Snapchat Filters?
 
 The thing is that Snapchat uses your phone's GPS or Wi-Fi connection to determine your actual location and add it to the location filter. Therefore, it's virtually impossible to spoof Snapchat's location unless you're using a VPN service.
@@ -325,8 +345,6 @@ The thing is that Snapchat uses your phone's GPS or Wi-Fi connection to determin
 Fortunately, you don't need those overpriced VPNs if you can get [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). This smartphone utility program allows you to change your Snapchat location to anywhere in the world with a simple mouse click on your PC. In addition, you can simulate Snapchat location movements to make it look more realistic. And apart from Snapchat, you can spoof location on WhatsApp, Viber, Facebook, Facebook Messenger, Instagram, etc.
 
 So, without dilly-dallying much, here's how to fake a **Snapchat location tag** with Dr.Fone:
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -350,14 +368,15 @@ Here is the complete guide for you to refer to while you use the Dr.Fone - Virtu
 
 **Step 3.** Now allow USB debugging on your Tecno Spark 20C before clicking **Next** on Dr.Fone. Don't know how to do that? Open Settings > Additional Settings > Developer options > USB debugging. Also, choose Dr.Fone as the mock location app.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to add location filter on Snapchat connect device](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 **Step 4.** The Virtual Location map will launch immediately. Enter the GPS coordinates or location address on the field in the top-left corner and select the new location. If satisfied, press **Move Here**.
 
 ![how to add location filter on Snapchat Choose a new location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Finally, open your Snapchat app, create a photo, and choose the location filter with your new location. It's that simple!
 
@@ -375,13 +394,14 @@ The Ghost Mode makes you invisible for a specific duration or until you disable 
 
 Very accurate! Snapchat uses your GPS coordinates to determine your actual location on the map. However, this map gives a location based on where you were last seen when you logged into the app. So, if you stay for a long without opening the app, it won't update your location. But if you log in and your location service is enabled, this app will auto-update it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q4: How does Snapchat Get Information on Your Location?
 
 While installing the Snapchat app and creating an account, the app will practically ask you to allow it to access your location. The app will use your phone's GPS coordinates to determine your actual location. Also, your Wi-Fi connection will tell Snapchat exactly where you are.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q5: How to find someone in Ghost Mode on Snapchat?
 
 Sometimes you might want to urgently find a friend on Snapchat when you are in Ghost Mode. To do that, deactivate Ghost Mode on Snapchat by clicking Profile > Settings > See My Location and disabling Ghost Mode. Now open the Snap Map, and you'll see your location with a red Bitmoji. You'll also see your nearby friends with enabled Snapchat locations on the map. If you can't find them, tap the Search icon, choose or enter their name, and see them on the map or send a text.
@@ -389,9 +409,6 @@ Sometimes you might want to urgently find a friend on Snapchat when you are in G
 ### Wrap it Up
 
 Now you have a complete idea of what the Snapchat location filter is. In short, it is simply a creative way to share your Snapchat location tag on a post. But because you can't spoof your location on Snapchat, I recommend using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to teleport your Snapchat location to anywhere in the world. This tool also works with other social media apps like Facebook, WhatsApp, and Telegram. Enjoy!
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -405,9 +422,22 @@ Now you have a complete idea of what the Snapchat location filter is. In short, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-dominance-youtubes-best-female-gamers/"><u>[New] 2024 Approved Digital Dominance YouTube's Best Female Gamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-practices-for-streamlining-webinars-on-windowsapple-os/"><u>[New] Best Practices for Streamlining Webinars on Windows/Apple OS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-freely-accessible-cutting-edge-video-editor-tools-for-2024/"><u>[Updated] Freely Accessible Cutting Edge Video Editor Tools for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/first-steps-in-photography-top-cameras-of-24/"><u>First Steps in Photography Top Cameras of '24</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-nokia-xr21-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nokia XR21 Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-g42-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia G42 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-g22-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-x7-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X7 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-htc-u23-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on HTC U23 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-struggle-against-the-permanence-of-fb-suggests/"><u>The Struggle Against the Permanence of FB Suggests</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-fifa-scoreboard-tactics-in-infographics-for-2024/"><u>Top FIFA Scoreboard Tactics in Infographics for 2024</u></a></li>
+</ul></div>
 

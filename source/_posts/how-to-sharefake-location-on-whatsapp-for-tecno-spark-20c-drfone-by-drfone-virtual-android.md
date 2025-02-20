@@ -1,7 +1,7 @@
 ---
 title: How to Share/Fake Location on WhatsApp for Tecno Spark 20C | Dr.fone
-date: 2024-07-14T05:36:20.906Z
-updated: 2024-07-15T05:36:20.906Z
+date: 2025-02-18T16:13:53.063Z
+updated: 2025-02-20T16:02:48.770Z
 tags: 
   - virtual location change
   - social app
@@ -29,9 +29,6 @@ Whatever your reason is to fake location on WhatsApp, you can use a third-party 
 
 ## Part 2. All You Want to Know about WhatsApp Location Function
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 Send Location on WhatsApp
 
 #### 2.1.1 Merits & Demerits
@@ -76,7 +73,15 @@ Specify the period and continue you begin the sharing.
 
 And that’s how you pin a location. If at some point, you decide that you don’t want to share your location, then you can stop it manually.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. Use a Location Spoofer to Fake Location On both Android and iPhone WhatsApp
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.1 Fake location or Live Location on WhatsApp using Dr.Fone Location Spoofer
 
@@ -112,15 +117,27 @@ Now, you can go to the search bar and look for any location (address, city, stat
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Step 3: Share fake location on WhatsApp_
 
 To change your location, move the pin as per your requirements, and click on the “Move Here” button to mock your location.
 
 ![mock your location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This will display the changed location of your device on the interface, and you can stop the simulation whenever you want.
 
 ![stop the simulation](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also open any app on your Tecno Spark 20C and see the new location on the interface. Just go to WhatsApp now and send the fake location on WhatsApp to your friends.
 
@@ -137,8 +154,6 @@ Step 1: Activate the "One-Stop Route" or "Multi-Stop Route" feature from the top
 Step 2: Afterward, select the trip type, number of rounds, and speed according to your requirements and press the “Start Moving” button to initiate the multi-stop route feature.
 
 ![go to WhatsApp](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
-
-
 
 ### 3.2 Fake location on WhatsApp using iTools location spoofer
 
@@ -189,7 +204,15 @@ Step 4: Now, open WhatsApp and click on the Share location option. Choose the op
 
 ![Live Location](https://images.wondershare.com/drfone/article/2019/10/share-fake-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you have shared the fake live location, remember to change it after 15 or 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Can I Find My Friend Has Faked WhatsApp Location?
 
@@ -202,6 +225,10 @@ It is pretty simple, and if someone has sent you a fake location, you will see a
 Bonus Tip: How to transfer WhatsApp data from one device to another device without any hassle?
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - WhatsApp Transfer
 
@@ -275,9 +302,6 @@ Dr.Fone – Virtual Location is an application designed for Android and iOS devi
 
 The first step demands you download Dr. Fone's Virtual location and install it. Next, launch the program and click “Virtual location” from all the available options. Next, connect your Tecno Spark 20C or iPhone through any USB cable with your PC and tap on "Get Started."
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open virtual location tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Access your Current Location**
@@ -362,8 +386,6 @@ We have extensively concluded different methods involved in **How to change loca
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
-
 ## Does Tecno Spark 20C Have Find My Friends?
 
 Yes, Find My Friends App is compatible with Tecno  smartphones. This tracker App is exclusive for iPhone users and Android devices. Free for iPhone, iPad, and iPod Touch. When installed on your friends or one of our family member’s smartphone you can stay in touch with them and keep a tab on his/her location. All you require is to request- with whom you want to stay connected- to save your number as a contact on the Find My Friends app, and then you’ll be given access to their real-time geographical location. You can also find Tecno  version of Find My Friends app if you are particularly looking for it.
@@ -382,6 +404,10 @@ Download from Apple Store - [http://apps.apple.com/us/app/find-my-friends/id4661
 
 ![find my friends alternative - glympse](https://images.wondershare.com/drfone/article/2024/01/find-my-friends-pic-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Glympse is amongst the most popular location Apps available on the Google Play Store. The central feature of this application is to quickly share your GPS location with family, friends, and employers. What makes this App unique from Find My Friends is that the recipient need not sign up to receive your real-time location. All they need is Internet connectivity.
 
 This location sharing App also has a safety feature – all "Glympses" sending your whereabouts to your contacts, however, this automatically expires after a period of time. This means, accidentally you won’t end up broadcasting your location for hours. You can download the
@@ -390,9 +416,6 @@ Glympse App from Play Store for Free [http://play.google.com/store/apps/details?
 
 ### Sygic Family Locator
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find my friends alternative - sygic family locator](https://images.wondershare.com/drfone/article/2024/01/find-my-friends-pic-2.jpg)
 
 Sygic is another top-rated application in the list of best alternatives to Tecno  Find My Friends App for Android. This application is quite popular among moms those who want to keep abreast of their child’s whereabouts all the time.
@@ -455,9 +478,6 @@ To track or share location with your friend or family member, make sure he/she h
 
 Once your friend agrees to share his/her real-time location, you can see their current whereabouts in a list or on a map in this location sharing App or over iCloud.com.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip: What Do I Do If I Want to Fake a Location on Find My Friends?
 
 Do you want to spoof your location so your friends can’t find you? For this purpose, you should use [Wondershare Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to ensure privacy by spoofing location. With this tool, you can easily change location on your devices with just a blink of an eye. It can teleport your location and stimulate GPS movement with a route that you draw.
@@ -472,11 +492,6 @@ Thus, you can fake location with flexible GPS movement on the Find My Friends ap
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Simplified Steps to Spoof Location on Find My Friends Using Dr.Fone - Virtual Location
 
 While faking location across apps, you can move at different speeds, such as cycling, walking, or driving. As Dr.Fone - Virtual Location keeps you amazed, let’s learn how to use it to change location without hustle.
@@ -493,12 +508,13 @@ Following this, confirm your actual location and move to activate the teleport m
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 Would you like to add an App to the above-mentioned list? Or want to share your first-hand experience with Find My Friends App? Have your say in the comment section of this blog post!
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -512,9 +528,22 @@ Would you like to add an App to the above-mentioned list? Or want to share your 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-next-level-broadcast-software-showdown-with-obs/"><u>[Updated] In 2024, Next-Level Broadcast Software Showdown with OBS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-se-2020-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone SE (2020) to Avoid Privacy Leak | Stellar</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-realme-10t-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme 10T 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-prevent-and-repair-dota-2-game-crashes-effectively/"><u>How To Prevent And Repair Dota 2 Game Crashes Effectively</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nokia-c12-plus-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nokia C12 Plus Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-15-pro-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 15 Pro From Your Apple ID</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-embark-into-the-best-youtube-vr-content-ever/"><u>In 2024, Embark Into the Best YouTube VR Content Ever</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-free-open-source-video-conferencing-solutions-the-ultimate-list-for-corporates-and-schools/"><u>In 2024, Free, Open Source Video Conferencing Solutions The Ultimate List for Corporates & Schools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unleash-potential-optimizing-short-films-in-marketing/"><u>In 2024, Unleash Potential Optimizing Short Films in Marketing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-depth-exploration-of-the-lenovo-9-inch-nook-tablet/"><u>In-Depth Exploration of the Lenovo 9-Inch Nook Tablet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/mastering-optimal-gameplay-solutions-to-cyberpunk-2077s-lag-and-stutter-problem/"><u>Mastering Optimal Gameplay: Solutions to Cyberpunk 2077'S Lag and Stutter Problem</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nubia-red-magic-8s-proplus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nubia Red Magic 8S Pro+ – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/scambia-il-tuo-file-video-tta-con-un-formato-flac-senza-costi-usando-leditor-di-codici-video-online-movavi-passaggi-semplici-per-tutti/"><u>Scambia Il Tuo File Video TTA Con Un Formato FLAC Senza Costi Usando L'editor Di Codici Video Online Movavi - Passaggi Semplici per Tutti</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-hardware-review/"><u>Unveiling the Latest in PC Components with Tom's Hardware Review</u></a></li>
+</ul></div>
 
